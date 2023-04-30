@@ -20,9 +20,12 @@
   "Cobblestone.json",
   "Control.json",
   "Clutch.json",
+  "CS20.json",
+  "Dangerzone.json",
   "DreamsAndNightmare.json",
   "Dust.json",
   "Dust2.json",
+  "Esports2013.json",
   "Fracture.json",
   "GodsAndMonsters.json",
   "Havoc.json",
@@ -49,5 +52,6 @@
   "2021Mirage.json",
   "2021Dust2.json",
   "2021Vertigo.json",
-  "Vertigo.json"
+  "Vertigo.json",
+  "WinterEsports2013.json"
 ]
