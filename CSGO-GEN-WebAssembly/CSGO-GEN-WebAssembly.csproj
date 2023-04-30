@@ -23,8 +23,12 @@
     <None Include="wwwroot\data\collections\anubis.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="wwwroot\data\collections\index.json" />
-    <None Include="wwwroot\data\stickers\index.json" />
+    <None Include="wwwroot\data\collections\index.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\data\stickers\index.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="wwwroot\data\stickers\katowice2014.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
