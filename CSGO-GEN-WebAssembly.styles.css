@@ -9,7 +9,7 @@
 }
 
     .sticker:is(:hover)[b-zmaw5wv4r3] {
-        background: #edeaea;
+        background: #23232a;
     }
 
 .rarity-highgrade[b-zmaw5wv4r3] {
@@ -24,6 +24,10 @@
     color: #d32ee6;
 }
 
+.rarity-extraordinary[b-zmaw5wv4r3] {
+    color: #eb4b4b;
+}
+
 
 /* /Components/DisplayWeapon.razor.rz.scp.css */
 .weapon[b-k5v4lx2qkc] {
@@ -35,9 +39,9 @@
     margin-top: -1px;
 }
 
-.weapon:is(:hover)[b-k5v4lx2qkc] {
-    background: #edeaea;
-}
+    .weapon:is(:hover)[b-k5v4lx2qkc] {
+        background: #23232a;
+    }
     
 
 

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "P90 | Death by Kitty",
+    "min_wear": 0.08,
+    "max_wear": 0.32,
+    "trade_up": false,
+    "weapon_id": 19,
+    "gen_id": 156,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AWP | BOOM",
+    "min_wear": 0.06,
+    "max_wear": 0.28,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 174,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AK-47 | Red Laminate",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 14,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Galil AR | Orange DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 83,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P250 | Splash",
+    "min_wear": 0.06,
+    "max_wear": 0.18,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 162,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Sawed-Off | Orange DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 83,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "M4A4 | Faded Zebra",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 176,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAG-7 | Memento",
+    "min_wear": 0.02,
+    "max_wear": 0.18,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 177,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "FAMAS | Doomkitty",
+    "min_wear": 0.08,
+    "max_wear": 0.22,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 178,
+    "collection": "eSports 2013 Collection",
+    "rarity": "Milspec"
+  }
+
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "name": "AWP | Wildfire",
+    "min_wear": 0.01,
+    "max_wear": 0.7,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 917,
+    "collection": "CS20 Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "FAMAS | Commemoration",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 10,
+    "gen_id": 919,
+    "collection": "CS20 Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "MP9 | Hydra",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 910,
+    "collection": "CS20 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AUG | Death by Puppy",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 913,
+    "collection": "CS20 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P90 | Nostalgia",
+    "min_wear": 0,
+    "max_wear": 0.57,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 911,
+    "collection": "CS20 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "MP5-SD | Agent",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 915,
+    "collection": "CS20 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "UMP-45 | Plastique",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 916,
+    "collection": "CS20 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P250 | Inferno",
+    "min_wear": 0,
+    "max_wear": 0.68,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 907,
+    "collection": "CS20 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Five-SeveN | Buddy",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 906,
+    "collection": "CS20 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "M249 | Aztec",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 902,
+    "collection": "CS20 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Glock-18 | Sacrifice",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 918,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "FAMAS | Decommissioned",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 904,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Dual Berettas | Elite 1.6",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 903,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAC-10 | Classic Crate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 908,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Flash Out",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 905,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAG-7 | Popdog",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 909,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SCAR-20 | Assault",
+    "min_wear": 0,
+    "max_wear": 0.62,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 914,
+    "collection": "CS20 Collection",
+    "rarity": "Milspec"
+  }
+  
+]
