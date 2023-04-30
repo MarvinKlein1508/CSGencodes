@@ -18,6 +18,7 @@
     <Content Remove="wwwroot\data\collections\Nuke.json" />
     <Content Remove="wwwroot\data\collections\Office.json" />
     <Content Remove="wwwroot\data\collections\Vertigo.json" />
+    <Content Remove="wwwroot\data\stickers\cologne2014.json" />
     <Content Remove="wwwroot\data\stickers\index.json" />
     <Content Remove="wwwroot\data\stickers\katowice2014.json" />
   </ItemGroup>
@@ -63,6 +64,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="wwwroot\data\stickers\index.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\data\stickers\cologne2014.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="wwwroot\data\stickers\katowice2014.json">
