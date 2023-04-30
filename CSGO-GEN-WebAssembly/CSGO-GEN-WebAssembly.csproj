@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\data\collections\Alpha.json" />
     <Content Remove="wwwroot\data\collections\anubis.json" />
     <Content Remove="wwwroot\data\collections\index.json" />
     <Content Remove="wwwroot\data\collections\Vertigo.json" />
@@ -21,6 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\data\collections\Alpha.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="wwwroot\data\collections\Vertigo.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
