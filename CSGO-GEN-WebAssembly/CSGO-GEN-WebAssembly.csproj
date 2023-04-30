@@ -9,6 +9,7 @@
   <ItemGroup>
     <Content Remove="wwwroot\data\collections\anubis.json" />
     <Content Remove="wwwroot\data\collections\index.json" />
+    <Content Remove="wwwroot\data\collections\Vertigo.json" />
     <Content Remove="wwwroot\data\stickers\index.json" />
     <Content Remove="wwwroot\data\stickers\katowice2014.json" />
   </ItemGroup>
@@ -20,7 +21,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\data\collections\anubis.json">
+    <None Include="wwwroot\data\collections\Vertigo.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\data\collections\Anubis.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="wwwroot\data\collections\index.json">
