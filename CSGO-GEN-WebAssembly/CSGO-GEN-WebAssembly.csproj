@@ -9,6 +9,7 @@
   <ItemGroup>
     <Content Remove="wwwroot\data\collections\Alpha.json" />
     <Content Remove="wwwroot\data\collections\anubis.json" />
+    <Content Remove="wwwroot\data\collections\Assault.json" />
     <Content Remove="wwwroot\data\collections\index.json" />
     <Content Remove="wwwroot\data\collections\Vertigo.json" />
     <Content Remove="wwwroot\data\stickers\index.json" />
@@ -22,6 +23,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\data\collections\Assault.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="wwwroot\data\collections\Alpha.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
