@@ -1,0 +1,153 @@
+[
+  {
+    "name": "AK-47 | Jet Set",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 7,
+    "gen_id": 340,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AK-47 | First Class",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 341,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Desert Eagle | Pilot",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 347,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "XM1014 | Red Leather",
+    "min_wear": 0,
+    "max_wear": 0.56,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 348,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Sawed-Off | First Class",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 345,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "USP-S | Business Class",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 364,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SG 553 | Traveler",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 363,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P90 | Leather",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 342,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MAC-10 | Commuter",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 343,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P2000 | Coach Class",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 346,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SSG 08 | Sand Dune",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 99,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "G3SG1 | Contractor",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 46,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP9 | Green Plaid",
+    "min_wear": 0,
+    "max_wear": 0.58,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 366,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP7 | Olive Plaid",
+    "min_wear": 0,
+    "max_wear": 0.58,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 365,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "CZ75-Auto | Green Plaid",
+    "min_wear": 0,
+    "max_wear": 0.58,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 366,
+    "collection": "The 2018 Nuke Collection",
+    "rarity": "Consumer"
+  }
+
+]
