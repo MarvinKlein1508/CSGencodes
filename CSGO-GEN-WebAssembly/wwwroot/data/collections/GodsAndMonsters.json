@@ -1,0 +1,142 @@
+[
+  {
+    "name": "AWP | Medusa",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 446,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M4A4 | Poseidon",
+    "min_wear": 0,
+    "max_wear": 0.33,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 449,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "M4A1-S | Icarus Fell",
+    "min_wear": 0,
+    "max_wear": 0.1,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 440,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "G3SG1 | Chronos",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 438,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MP9 | Pandora's Box",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 448,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "UMP-45 | Minotaur's Labyrinth",
+    "min_wear": 0,
+    "max_wear": 0.39,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 441,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "AWP | Sun in Leo",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 451,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "M249 | Shipping Forecast",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 452,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P2000 | Pathfinder",
+    "min_wear": 0,
+    "max_wear": 0.35,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 443,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Tec-9 | Hades",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 439,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MP7 | Asterion",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 442,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Nova | Moon in Libra",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 450,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "AUG | Daedalus",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 444,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Dual Berettas | Moon in Libra",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 450,
+    "collection": "The Gods And Monsters Collection",
+    "rarity": "Consumer"
+  }
+]
