@@ -12,6 +12,7 @@
     <Content Remove="wwwroot\data\collections\Assault.json" />
     <Content Remove="wwwroot\data\collections\Aztec.json" />
     <Content Remove="wwwroot\data\collections\Cache.json" />
+    <Content Remove="wwwroot\data\collections\Dust.json" />
     <Content Remove="wwwroot\data\collections\index.json" />
     <Content Remove="wwwroot\data\collections\Vertigo.json" />
     <Content Remove="wwwroot\data\stickers\index.json" />
@@ -25,6 +26,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\data\collections\Dust.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="wwwroot\data\collections\Cache.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
