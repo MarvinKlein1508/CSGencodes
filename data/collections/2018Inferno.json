@@ -1,0 +1,183 @@
+[
+  {
+    "name": "SG 553 | Integrale",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 39,
+    "gen_id": 750,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "UMP-45 | Fade",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 2,
+    "gen_id": 747,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AK-47 | Safety Net",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 795,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MP7 | Fade",
+    "min_wear": 0,
+    "max_wear": 0.25,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 752,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P250 | Vino Primo",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 749,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SSG 08 | Hand Brake",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 751,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "USP-S | Check Engine",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 796,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "M4A4 | Converter",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 793,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Sawed-Off | Brake Light",
+    "min_wear": 0,
+    "max_wear": 0.06,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 797,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Glock-18 | High Beam",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 799,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "R8 Revolver | Nitro",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 798,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MAC-10 | Calf Skin",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 748,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "PP-Bizon | Candy Apple",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 3,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MP5-SD | Dirt Drop",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 753,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP9 | Slide",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 755,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "UMP-45 | Mudder",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 90,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "AUG | Sweeper",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 794,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MAG-7 | Rust Coat",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 754,
+    "collection": "The 2018 Inferno Collection",
+    "rarity": "Consumer"
+  }
+
+]

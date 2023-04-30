@@ -1,0 +1,193 @@
+[
+  {
+    "name": "M4A1-S | Welcome to the Jungle",
+    "min_wear": 0,
+    "max_wear": 1.0,
+    "trade_up": false,
+    "weapon_id": 60,
+    "gen_id": 1001,
+    "collection": "The Ancient Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AK-47 | Panthera onca",
+    "min_wear": 0,
+    "max_wear": 1.0,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 1018,
+    "collection": "The Ancient Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P90 | Run and Hide",
+    "min_wear": 0,
+    "max_wear": 1.0,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 1000,
+    "collection": "The Ancient Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "MAC-10 | Gold Brick",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 1025,
+    "collection": "The Ancient Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "USP-S | Ancient Visions",
+    "min_wear": 0,
+    "max_wear": 0.45,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 1031,
+    "collection": "The Ancient Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "XM1014 | Ancient Lore",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 1021,
+    "collection": "The Ancient Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AUG | Carved Jade",
+    "min_wear": 0,
+    "max_wear": 0.2,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 1033,
+    "collection": "The Ancient Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Galil AR | Dusk Ruins",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 1032,
+    "collection": "The Ancient Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "FAMAS | Dark Water",
+    "min_wear": 0.1,
+    "max_wear": 0.26,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 60,
+    "collection": "The Ancient Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Blast From the Past",
+    "min_wear": 0,
+    "max_wear": 0.65,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 1024,
+    "collection": "The Ancient Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "CZ75-Auto | Silver",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 32,
+    "collection": "The Ancient Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P2000 | Panther Camo",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 1019,
+    "collection": "The Ancient Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "G3SG1 | Ancient Ritual",
+    "min_wear": 0,
+    "max_wear": 0.76,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 1034,
+    "collection": "The Ancient Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MP7 | Tall Grass",
+    "min_wear": 0,
+    "max_wear": 0.65,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 1023,
+    "collection": "The Ancient Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "R8 Revolver | Night",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 40,
+    "collection": "The Ancient Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "SSG 08 | Jungle Dashed",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 147,
+    "collection": "The Ancient Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "SG 553 | Lush Ruins",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 1022,
+    "collection": "The Ancient Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Nova | Army Sheen",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 298,
+    "collection": "The Ancient Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "P90 | Ancient Earth",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 1020,
+    "collection": "The Ancient Collection",
+    "rarity": "Consumer"
+  }
+
+]

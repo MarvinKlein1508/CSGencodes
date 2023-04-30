@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Galil AR | Cerberus",
+    "min_wear": 0,
+    "max_wear": 0.9,
+    "trade_up": false,
+    "weapon_id": 13,
+    "gen_id": 379,
+    "collection": "The Cache Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "FAMAS | Styx",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": false,
+    "weapon_id": 10,
+    "gen_id": 371,
+    "collection": "The Cache Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Glock-18 | Reactor",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 367,
+    "collection": "The Cache Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Toxic",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 374,
+    "collection": "The Cache Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAC-10 | Nuclear Garden",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 372,
+    "collection": "The Cache Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MP9 | Setting Sun",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 368,
+    "collection": "The Cache Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "XM1014 | Bone Machine",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 370,
+    "collection": "The Cache Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "PP-Bizon | Chemical Green",
+    "min_wear": 0,
+    "max_wear": 0.9,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 376,
+    "collection": "The Cache Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Five-SeveN | Hot Shot",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 377,
+    "collection": "The Cache Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SG 553 | Fallout Warning",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 378,
+    "collection": "The Cache Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "AUG | Radiation Hazard",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 375,
+    "collection": "The Cache Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Negev | Nuclear Waste",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 369,
+    "collection": "The Cache Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P250 | Contamination",
+    "min_wear": 0,
+    "max_wear": 0.83,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 373,
+    "collection": "The Cache Collection",
+    "rarity": "Industrial"
+  }
+]

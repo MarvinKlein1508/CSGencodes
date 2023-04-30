@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Dual Berettas | Cobalt Quartz",
+    "min_wear": 0.0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 249,
+    "collection": "The Lake Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P90 | Teardown",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 244,
+    "collection": "The Lake Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "USP-S | Night Ops",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 236,
+    "collection": "The Lake Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SG 553 | Anodized Navy",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 28,
+    "collection": "The Lake Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "AWP | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 72,
+    "collection": "The Lake Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Desert Eagle | Mudder",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 90,
+    "collection": "The Lake Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "FAMAS | Cyanospatter",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 92,
+    "collection": "The Lake Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "XM1014 | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 42,
+    "collection": "The Lake Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "PP-Bizon | Night Ops",
+    "min_wear": 0.0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 236,
+    "collection": "The Lake Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SG 553 | Waves Perforated",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 136,
+    "collection": "The Lake Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "G3SG1 | Jungle Dashed",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 147,
+    "collection": "The Lake Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Galil AR | Sage Spray",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 119,
+    "collection": "The Lake Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "AUG | Storm",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 100,
+    "collection": "The Lake Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "P250 | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 77,
+    "collection": "The Lake Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "XM1014 | Blue Spruce",
+    "min_wear": 0,
+    "max_wear": 0.22,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 96,
+    "collection": "The Lake Collection",
+    "rarity": "Consumer"
+  }
+
+]

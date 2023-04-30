@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AWP | Pit Viper",
+    "min_wear": 0.08,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 251,
+    "collection": "The Italy Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Sawed-Off | Full Stop",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 250,
+    "collection": "The Italy Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Glock-18 | Candy Apple",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 3,
+    "collection": "The Italy Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MP7 | Anodized Navy",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 28,
+    "collection": "The Italy Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "XM1014 | CaliCamo",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 240,
+    "collection": "The Italy Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "M4A1-S | Boreal Forest",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 77,
+    "collection": "The Italy Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Nova | Candy Apple",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 3,
+    "collection": "The Italy Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "UMP-45 | Gunsmoke",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 15,
+    "collection": "The Italy Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Dual Berettas | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 43,
+    "collection": "The Italy Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P2000 | Granite Marbleized",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 21,
+    "collection": "The Italy Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "AUG | Contractor",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 46,
+    "collection": "The Italy Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Tec-9 | Groundwater",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 2,
+    "collection": "The Italy Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Nova | Sand Dune",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 99,
+    "collection": "The Italy Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "FAMAS | Colony",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 47,
+    "collection": "The Italy Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "PP-Bizon | Sand Dashed",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 148,
+    "collection": "The Italy Collection",
+    "rarity": "Consumer"
+  }
+]

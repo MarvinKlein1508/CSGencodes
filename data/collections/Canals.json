@@ -1,0 +1,183 @@
+[
+  {
+    "name": "AWP | The Prince",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 736,
+    "collection": "The Canals Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "MAG-7 | Cinquedea",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 737,
+    "collection": "The Canals Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "MAC-10 | Red Filigree",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 742,
+    "collection": "The Canals Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Nova | Baroque Orange",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 746,
+    "collection": "The Canals Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MP9 | Stained Glass",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 867,
+    "collection": "The Canals Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "G3SG1 | Violet Murano",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 739,
+    "collection": "The Canals Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SSG 08 | Orange Filigree",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 743,
+    "collection": "The Canals Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Dual Berettas | Emerald",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 453,
+    "collection": "The Canals Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P90 | Baroque Red",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 744,
+    "collection": "The Canals Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "AK-47 | Baroque Purple",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 745,
+    "collection": "The Canals Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P250 | Dark Filigree",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 741,
+    "collection": "The Canals Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SG 553 | Candy Apple",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 864,
+    "collection": "The Canals Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Tec-9 | Orange Murano",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 738,
+    "collection": "The Canals Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "R8 Revolver | Canal Spray",
+    "min_wear": 0.06,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 866,
+    "collection": "The Canals Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Negev | Boroque Sand",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 920,
+    "collection": "The Canals Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "AUG | Navy Murano",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 740,
+    "collection": "The Canals Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "CZ75-Auto | Indigo",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 333,
+    "collection": "The Canals Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "SCAR-20 | Stone Mosaico",
+    "min_wear": 0.06,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 865,
+    "collection": "The Canals Collection",
+    "rarity": "Consumer"
+  }
+
+]

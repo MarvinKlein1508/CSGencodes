@@ -1,0 +1,163 @@
+[
+  {
+    "name": "R8 Revolver | Amber Fade",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": false,
+    "weapon_id": 64,
+    "gen_id": 523,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P2000 | Amber Fade",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 246,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "PP-Bizon | Brass",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 159,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SG 553 | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 247,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "M4A1-S | VariCamo",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 235,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "AK-47 | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 72,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Five-SeveN | Orange Peel",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 141,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Sawed-Off | Snake Camo",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 30,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MAC-10 | Palm",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 157,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Tec-9 | VariCamo",
+    "min_wear": 0.0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 235,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P250 | Sand Dune",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 99,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "G3SG1 | Desert Storm",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 8,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "P90 | Sand Spray",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 124,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "SCAR-20 | Sand Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 116,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP9 | Sand Dashed",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 148,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Nova | Predator",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 170,
+    "collection": "The Dust 2 Collection",
+    "rarity": "Consumer"
+  }
+
+]

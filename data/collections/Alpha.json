@@ -1,0 +1,172 @@
+[
+  {
+    "name": "FAMAS | Spitfire",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 10,
+    "gen_id": 194,
+    "collection": "The Alpha Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SCAR-20 | Emerald",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 38,
+    "gen_id": 196,
+    "collection": "The Alpha Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AUG | Anodized Navy",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 197,
+    "collection": "The Alpha Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAG-7 | Hazard",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 198,
+    "collection": "The Alpha Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "PP-Bizon | Rust Coat",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 203,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Glock-18 | Sand Dune",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 208,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Glock-18 | Sand Dune",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 208,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SSG 08 | Mayan Dreams",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 200,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Sawed-Off | Mosaico",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 204,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Negev | Palm",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 201,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P250 | Facets",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 207,
+    "collection": "The Alpha Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MP9 | Dry Season",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 199,
+    "collection": "The Alpha Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Five-SeveN | Anodized Gunmetal",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 210,
+    "collection": "The Alpha Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP7 | Groundwater",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 209,
+    "collection": "The Alpha Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Tec-9 | Tornado",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 206,
+    "collection": "The Alpha Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "XM1014 | Jungle",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 205,
+    "collection": "The Alpha Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "M249 | Jungle DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 202,
+    "collection": "The Alpha Collection",
+    "rarity": "Consumer"
+  }
+]
