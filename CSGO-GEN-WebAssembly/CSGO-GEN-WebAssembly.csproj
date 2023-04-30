@@ -179,6 +179,12 @@
     <Content Update="wwwroot\data\collections\Vertigo.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\data\stickers\sticker_capsule_2.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\stickers\sticker_capsule_1.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\data\stickers\katowice2015.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
