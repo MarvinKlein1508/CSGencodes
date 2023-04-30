@@ -148,6 +148,9 @@
     <Content Update="wwwroot\data\collections\ChopShop.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\data\collections\Revolution.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\data\collections\RisingSun.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
