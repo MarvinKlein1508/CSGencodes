@@ -78,6 +78,9 @@
     <Content Update="wwwroot\data\collections\Bank.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\data\collections\Overpass.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\data\collections\ChopShop.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
