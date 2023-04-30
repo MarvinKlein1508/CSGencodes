@@ -8,7 +8,7 @@
 }
 
     .sticker:is(:hover) {
-        background: #edeaea;
+        background: #23232a;
     }
 
 .rarity-highgrade {
@@ -21,6 +21,10 @@
 
 .rarity-exotic {
     color: #d32ee6;
+}
+
+.rarity-extraordinary {
+    color: #eb4b4b;
 }
 
 

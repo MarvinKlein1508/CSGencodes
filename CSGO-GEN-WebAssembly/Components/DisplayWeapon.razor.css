@@ -7,9 +7,9 @@
     margin-top: -1px;
 }
 
-.weapon:is(:hover) {
-    background: #edeaea;
-}
+    .weapon:is(:hover) {
+        background: #23232a;
+    }
     
 
 

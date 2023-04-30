@@ -24,6 +24,7 @@ namespace CSGO_GEN_WebAssembly.Components
                 "HighGrade" => "rarity-highgrade",
                 "Remarkable" => "rarity-remarkable",
                 "Exotic" => "rarity-exotic",
+                "Extraordinary" => "rarity-extraordinary",
                 _ => string.Empty,
             };
         }
