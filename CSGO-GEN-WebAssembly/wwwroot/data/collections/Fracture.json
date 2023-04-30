@@ -92,7 +92,7 @@
   {
     "name": "Galil AR | Connexion",
     "min_wear": 0,
-    "max_wear": 8,
+    "max_wear": 0.8,
     "trade_up": true,
     "weapon_id": 13,
     "gen_id": 972,
