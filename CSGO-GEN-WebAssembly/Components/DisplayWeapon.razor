@@ -1,0 +1,7 @@
+﻿@if (Weapon is not null)
+{
+    <button type="button" class="weapon @GetRarityCSS()" @onclick="async () => await OnClick.InvokeAsync(Weapon)">
+        @Weapon.name
+    </button>
+}
+

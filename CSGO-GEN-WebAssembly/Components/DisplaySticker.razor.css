@@ -1,0 +1,26 @@
+﻿.sticker {
+    background: none;
+    padding: .75rem;
+    display: block;
+    width: 100%;
+    border: 1px solid gray;
+    margin-top: -1px;
+}
+
+    .sticker:is(:hover) {
+        background: #edeaea;
+    }
+
+.rarity-highgrade {
+    color: #4b69ff;
+}
+
+.rarity-remarkable {
+    color: #8847ff;
+}
+
+.rarity-exotic {
+    color: #d32ee6;
+}
+
+

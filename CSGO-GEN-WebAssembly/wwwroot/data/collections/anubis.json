@@ -1,0 +1,192 @@
+[
+  {
+    "name": "M4A4 | Eye of Horus",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": false,
+    "weapon_id": 16,
+    "gen_id": 1255,
+    "collection": "Anubis Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "FAMAS | Waters of Nephthys",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 1241,
+    "collection": "Anubis Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P250 | Apep's Curse",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 1241,
+    "collection": "Anubis Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Glock-18 | Ramese's Reach",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 1240,
+    "collection": "Anubis Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P90 | ScaraB Rush",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 1250,
+    "collection": "Anubis Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Nova | Sobek's Bite",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 1247,
+    "collection": "Anubis Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AWP | Black Nile",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 1239,
+    "collection": "Anubis Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "AK-47 | Steel Delta",
+    "min_wear": 0,
+    "max_wear": 0.73,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 1238,
+    "collection": "Anubis Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAG-7 | Copper Coated",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 1245,
+    "collection": "Anubis Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Mummy's Rot",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 1252,
+    "collection": "Anubis Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "USP-S | Desert Tactical",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 1253,
+    "collection": "Anubis Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "M4A1-S | Mud-Spec",
+    "min_wear": 0,
+    "max_wear": 0.73,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 1243,
+    "collection": "Anubis Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MAC-10 | Echoing Sands",
+    "min_wear": 0.02,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 1244,
+    "collection": "Anubis Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SSG 08 | Azure Glyph",
+    "min_wear": 0.01,
+    "max_wear": 0.99,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 1251,
+    "collection": "Anubis Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MP7 | Sunbaked",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 1246,
+    "collection": "Anubis Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "R8 Revolver | Inlay",
+    "min_wear": 0,
+    "max_wear": 0.76,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 1237,
+    "collection": "Anubis Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "XM1014 | Hieroglyph",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 1254,
+    "collection": "Anubis Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "AUG | Snake Pit",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 1249,
+    "collection": "Anubis Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "M249 | Submerged",
+    "min_wear": 0.02,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 1242,
+    "collection": "Anubis Collection",
+    "rarity": "Consumer"
+  }
+]

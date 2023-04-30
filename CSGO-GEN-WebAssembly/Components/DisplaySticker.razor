@@ -1,0 +1,7 @@
+﻿@if (Sticker is not null)
+{
+    <button type="button" class="sticker @GetRarityCSS()" @onclick="async () => await OnClick.InvokeAsync(Sticker)">
+        @Sticker.name
+    </button>
+}
+

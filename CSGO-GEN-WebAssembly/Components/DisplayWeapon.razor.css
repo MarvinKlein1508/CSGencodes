@@ -1,0 +1,38 @@
+﻿.weapon {
+    background: none;
+    padding: .75rem;
+    display: block;
+    width: 100%;
+    border: 1px solid gray;
+    margin-top: -1px;
+}
+
+.weapon:is(:hover) {
+    background: #edeaea;
+}
+    
+
+
+.rarity-consumer {
+    color: #b0c3d9;
+}
+
+.rarity-industrial {
+    color: #5e98d9;
+}
+
+.rarity-milspec {
+    color: #4b69ff;
+}
+
+.rarity-restricted {
+    color: #8847ff;
+}
+
+.rarity-classified {
+    color: #d32ee6;
+}
+
+.rarity-covert {
+    color: #eb4b4b;
+}
