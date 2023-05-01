@@ -52,7 +52,7 @@
   {
     "name": "AK-47 | Rat Rod",
     "min_wear": 0,
-    "max_wear": 1
+    "max_wear": 1,
     "trade_up": true,
     "weapon_id": 7,
     "gen_id": 885,
