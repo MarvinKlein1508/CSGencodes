@@ -251,6 +251,9 @@
     <Content Update="wwwroot\data\collections\WinterEsports2013.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\data\stickers\stockholm2021.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\data\stickers\sticker_capsule_2.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
