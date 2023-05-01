@@ -1,0 +1,153 @@
+[
+  {
+    "name": "M4A4 | Desert-Strike",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": false,
+    "weapon_id": 16,
+    "gen_id": 336,
+    "collection": "Huntsman Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AK-47 | Vulcan",
+    "min_wear": 0,
+    "max_wear": 0.9,
+    "trade_up": false,
+    "weapon_id": 7,
+    "gen_id": 302,
+    "collection": "Huntsman Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "USP-S | Caiman",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 339,
+    "collection": "Huntsman Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "M4A1-S | Atomic Alloy",
+    "min_wear": 0,
+    "max_wear": 0.9,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 301,
+    "collection": "Huntsman Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "SCAR-20 | Cyrex",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 312,
+    "collection": "Huntsman Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "MAC-10 | Tatter",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 337,
+    "collection": "Huntsman Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AUG | Torque",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 305,
+    "collection": "Huntsman Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "XM1014 | Heaven Guard",
+    "min_wear": 0.03,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 314,
+    "collection": "Huntsman Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "PP-Bizon | Antique",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 306,
+    "collection": "Huntsman Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P90 | Module",
+    "min_wear": 0,
+    "max_wear": 0.35,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 335,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "CZ75-Auto | Twist",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 334,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P2000 | Pulse",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 338,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Isaac",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 303,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Galil AR | Kami",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 308,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SSG 08 | Slashed",
+    "min_wear": 0.15,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 304,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  }
+
+]

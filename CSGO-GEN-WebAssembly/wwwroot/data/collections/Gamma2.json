@@ -1,0 +1,173 @@
+[
+  {
+    "name": "AK-47 | Neon Revolution",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 7,
+    "gen_id": 600,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "FAMAS | Roll Cage",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 10,
+    "gen_id": 604,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Tec-9 | Fuel Injector",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 614,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "MP9 | Airlock",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 609,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AUG | Syd Mead",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 601,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Desert Eagle | Directive",
+    "min_wear": 0.06,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 603,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Glock-18 | Weasel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 607,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SG 553 | Triarch",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 613,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MAG-7 | Petroglyph",
+    "min_wear": 0,
+    "max_wear": 0.44,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 608,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SCAR-20 | Powercore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 612,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P90 | Grim",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 611,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Five-SeveN | Scumbria",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 605,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Negev | Dazzle",
+    "min_wear": 0.1,
+    "max_wear": 0.65,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 610,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "UMP-45 | Briefing",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 615,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "G3SG1 | Ventilator",
+    "min_wear": 0,
+    "max_wear": 0.45,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 606,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "CZ75-Auto | Imprint",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 602,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "XM1014 | Slipstream",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 616,
+    "collection": "Gamma 2 Collection",
+    "rarity": "Milspec"
+  }
+  
+]

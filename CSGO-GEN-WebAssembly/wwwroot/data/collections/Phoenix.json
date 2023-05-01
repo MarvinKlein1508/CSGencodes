@@ -1,0 +1,133 @@
+[
+  {
+    "name": "AWP | Asiimov",
+    "min_wear": 0.18,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 279,
+    "collection": "Phoenix Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AUG | Chameleon",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 8,
+    "gen_id": 280,
+    "collection": "Phoenix Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AK-47 | Redline",
+    "min_wear": 0.1,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 282,
+    "collection": "Phoenix Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nova | Antique",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 286,
+    "collection": "Phoenix Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P90 | Trigon",
+    "min_wear": 0.08,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 283,
+    "collection": "Phoenix Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "USP-S | Guardian",
+    "min_wear": 0,
+    "max_wear": 0.38,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 290,
+    "collection": "Phoenix Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MAC-10 | Heat",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 284,
+    "collection": "Phoenix Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SG 553 | Pulse",
+    "min_wear": 0.1,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 287,
+    "collection": "Phoenix Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "FAMAS | Sergeant",
+    "min_wear": 0.1,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 288,
+    "collection": "Phoenix Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Tec-9 | Sandstorm",
+    "min_wear": 0.1,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 289,
+    "collection": "Phoenix Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "UMP-45 | Corporal",
+    "min_wear": 0.05,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 281,
+    "collection": "Phoenix Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAG-7 | Heaven Guard",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 291,
+    "collection": "Phoenix Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Negev | Terrain",
+    "min_wear": 0,
+    "max_wear": 0.45,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 285,
+    "collection": "Phoenix Collection",
+    "rarity": "Milspec"
+  }
+
+]
