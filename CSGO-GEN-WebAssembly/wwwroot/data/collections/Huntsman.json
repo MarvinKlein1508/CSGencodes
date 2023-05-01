@@ -1,5 +1,15 @@
 [
   {
+    "name": "M4A4 | Howl",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": false,
+    "weapon_id": 16,
+    "gen_id": 309,
+    "collection": "Huntsman Collection",
+    "rarity": "Contraband"
+  },
+  {
     "name": "M4A4 | Desert-Strike",
     "min_wear": 0,
     "max_wear": 0.7,
@@ -26,6 +36,16 @@
     "trade_up": true,
     "weapon_id": 61,
     "gen_id": 339,
+    "collection": "Huntsman Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "USP-S | Orion",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 313,
     "collection": "Huntsman Collection",
     "rarity": "Classified"
   },
@@ -60,6 +80,16 @@
     "rarity": "Restricted"
   },
   {
+    "name": "MAC-10 | Curse",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 310,
+    "collection": "Huntsman Collection",
+    "rarity": "Restricted"
+  },
+  {
     "name": "AUG | Torque",
     "min_wear": 0,
     "max_wear": 0.5,
@@ -90,12 +120,42 @@
     "rarity": "Restricted"
   },
   {
+    "name": "CZ75-Auto | Poison Dart",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 315,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Dual Berettas | Retribution",
+    "min_wear": 0,
+    "max_wear": 0.45,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 307,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
     "name": "P90 | Module",
     "min_wear": 0,
     "max_wear": 0.35,
     "trade_up": true,
     "weapon_id": 19,
     "gen_id": 335,
+    "collection": "Huntsman Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P90 | Desert Warfare",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 311,
     "collection": "Huntsman Collection",
     "rarity": "Milspec"
   },
