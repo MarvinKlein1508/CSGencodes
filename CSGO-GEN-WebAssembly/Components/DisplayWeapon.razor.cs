@@ -27,6 +27,7 @@ namespace CSGO_GEN_WebAssembly.Components
                 "Restricted" => "rarity-restricted",
                 "Classified" => "rarity-classified",
                 "Covert" => "rarity-covert",
+                "Contraband" => "rarity-contraband",
                 _ => string.Empty,
             };
         }
