@@ -1,0 +1,173 @@
+[
+  {
+    "name": "M4A1-S | Mecha Industries",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 60,
+    "gen_id": 587,
+    "collection": "Gamma Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Wasteland Rebel",
+    "min_wear": 0,
+    "max_wear": 0.54,
+    "trade_up": false,
+    "weapon_id": 4,
+    "gen_id": 586,
+    "collection": "Gamma Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M4A4 | Desolate Space",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 588,
+    "collection": "Gamma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P2000 | Imperial Dragon",
+    "min_wear": 0,
+    "max_wear": 0.63,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 591,
+    "collection": "Gamma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "SCAR-20 | Bloodsport",
+    "min_wear": 0,
+    "max_wear": 0.45,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 597,
+    "collection": "Gamma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AWP | Phobos",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 584,
+    "collection": "Gamma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "R8 Revolver | Reboot",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 595,
+    "collection": "Gamma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AUG | Aristocrat",
+    "min_wear": 0,
+    "max_wear": 0.66,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 583,
+    "collection": "Gamma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Sawed-Off | Limelight",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 596,
+    "collection": "Gamma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P90 | Chopper",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 593,
+    "collection": "Gamma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Five-SeveN | Violent Daimyo",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 585,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Ice Cap",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 599,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P250 | Iron Clad",
+    "min_wear": 0.05,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 592,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Nova | Exo",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 590,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAC-10 | Carnivore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 589,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SG 553 | Aerial",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 598,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "PP-Bizon | Harvester",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 594,
+    "collection": "Gamma Collection",
+    "rarity": "Milspec"
+  }
+  
+]

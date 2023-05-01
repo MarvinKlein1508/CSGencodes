@@ -28,6 +28,10 @@
     color: #eb4b4b;
 }
 
+.rarity-contraband[b-zmaw5wv4r3] {
+    color: #ffae39;
+}
+
 
 /* /Components/DisplayWeapon.razor.rz.scp.css */
 .weapon[b-k5v4lx2qkc] {
@@ -67,6 +71,10 @@
 
 .rarity-covert[b-k5v4lx2qkc] {
     color: #eb4b4b;
+}
+
+.rarity-contraband[b-k5v4lx2qkc] {
+    color: #ffae39;
 }
 /* /Components/MainLayout.razor.rz.scp.css */
 .page[b-wdy8epw9he] {
