@@ -242,6 +242,9 @@
     <Content Update="wwwroot\data\stickers\berlin2019.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\data\stickers\cologne2015.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\data\stickers\rmr2020.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
