@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Astralis | London 2018",
+    "gen_id": 3003,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Astralis (Holo) | London 2018",
+    "gen_id": 3004,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Astralis (Foil) | London 2018",
+    "gen_id": 3005,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Astralis (Gold) | London 2018",
+    "gen_id": 3006,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "BIG | London 2018",
+    "gen_id": 2999,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "BIG (Holo) | London 2018",
+    "gen_id": 3000,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "BIG (Foil) | London 2018",
+    "gen_id": 3001,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "BIG (Gold) | London 2018",
+    "gen_id": 3002,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Cloud9 | London 2018",
+    "gen_id": 2955,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Cloud9 (Holo) | London 2018",
+    "gen_id": 2956,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Cloud9 (Foil) | London 2018",
+    "gen_id": 2957,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Cloud9 (Gold) | London 2018",
+    "gen_id": 2958,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "compLexity Gaming | London 2018",
+    "gen_id": 3023,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "compLexity Gaming (Holo) | London 2018",
+    "gen_id": 3024,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "compLexity Gaming (Foil) | London 2018",
+    "gen_id": 3025,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "compLexity Gaming (Gold) | London 2018",
+    "gen_id": 3026,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FaZe Clan | London 2018",
+    "gen_id": 2959,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FaZe Clan (Holo) | London 2018",
+    "gen_id": 2960,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FaZe Clan (Foil) | London 2018",
+    "gen_id": 2961,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FaZe Clan (Gold) | London 2018",
+    "gen_id": 2962,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Fnatic | London 2018",
+    "gen_id": 2983,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Fnatic (Holo) | London 2018",
+    "gen_id": 2984,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Fnatic (Foil) | London 2018",
+    "gen_id": 2985,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Fnatic (Gold) | London 2018",
+    "gen_id": 2986,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "G2 Esports | London 2018",
+    "gen_id": 2979,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "G2 Esports (Holo) | London 2018",
+    "gen_id": 2980,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "G2 Esports (Foil) | London 2018",
+    "gen_id": 2981,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "G2 Esports (Gold) | London 2018",
+    "gen_id": 2982,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Gambit Esports | London 2018",
+    "gen_id": 2988,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Gambit Esports (Holo) | London 2018",
+    "gen_id": 2989,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Gambit Esports (Foil) | London 2018",
+    "gen_id": 2990,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Gambit Esports (Gold) | London 2018",
+    "gen_id": 2991,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "HellRaisers | London 2018",
+    "gen_id": 3027,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "HellRaisers (Holo) | London 2018",
+    "gen_id": 3028,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "HellRaisers (Foil) | London 2018",
+    "gen_id": 3029,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "HellRaisers (Gold) | London 2018",
+    "gen_id": 3030,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "MIBR | London 2018",
+    "gen_id": 2967,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "MIBR (Holo) | London 2018",
+    "gen_id": 2968,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "MIBR (Foil) | London 2018",
+    "gen_id": 2969,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "MIBR (Gold) | London 2018",
+    "gen_id": 2970,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "mousesports | London 2018",
+    "gen_id": 2971,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "mousesports (Holo) | London 2018",
+    "gen_id": 2972,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "mousesports (Foil) | London 2018",
+    "gen_id": 2973,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "mousesports (Gold) | London 2018",
+    "gen_id": 2974,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Natus Vincere | London 2018",
+    "gen_id": 2963,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Natus Vincere (Holo) | London 2018",
+    "gen_id": 2964,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Natus Vincere (Foil) | London 2018",
+    "gen_id": 2965,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Natus Vincere (Gold) | London 2018",
+    "gen_id": 2966,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Ninjas in Pyjamas | London 2018",
+    "gen_id": 3019,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | London 2018",
+    "gen_id": 3020,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Foil) | London 2018",
+    "gen_id": 3021,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | London 2018",
+    "gen_id": 3022,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "North | London 2018",
+    "gen_id": 3011,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "North (Holo) | London 2018",
+    "gen_id": 3012,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "North (Foil) | London 2018",
+    "gen_id": 3013,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "North (Gold) | London 2018",
+    "gen_id": 3014,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "OpTic Gaming | London 2018",
+    "gen_id": 3035,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "OpTic Gaming (Holo) | London 2018",
+    "gen_id": 3036,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "OpTic Gaming (Foil) | London 2018",
+    "gen_id": 3037,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "OpTic Gaming (Gold) | London 2018",
+    "gen_id": 3038,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Renegades | London 2018",
+    "gen_id": 3031,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Renegades (Holo) | London 2018",
+    "gen_id": 3032,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Renegades (Foil) | London 2018",
+    "gen_id": 3033,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Renegades (Gold) | London 2018",
+    "gen_id": 3034,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Rogue | London 2018",
+    "gen_id": 3039,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Rogue (Holo) | London 2018",
+    "gen_id": 3040,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Rogue (Foil) | London 2018",
+    "gen_id": 3041,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Rogue (Gold) | London 2018",
+    "gen_id": 3042,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Space Soldiers | London 2018",
+    "gen_id": 2995,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Space Soldiers (Holo) | London 2018",
+    "gen_id": 2996,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Space Soldiers (Foil) | London 2018",
+    "gen_id": 2997,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Space Soldiers (Gold) | London 2018",
+    "gen_id": 2998,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Team Liquid | London 2018",
+    "gen_id": 3007,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Team Liquid (Holo) | London 2018",
+    "gen_id": 3008,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Team Liquid (Foil) | London 2018",
+    "gen_id": 3009,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Team Liquid (Gold) | London 2018",
+    "gen_id": 3010,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Team Spirit | London 2018",
+    "gen_id": 3043,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Team Spirit (Holo) | London 2018",
+    "gen_id": 3044,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Team Spirit (Foil) | London 2018",
+    "gen_id": 3045,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Team Spirit (Gold) | London 2018",
+    "gen_id": 3046,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Tyloo | London 2018",
+    "gen_id": 3047,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Tyloo (Holo) | London 2018",
+    "gen_id": 3048,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Tyloo (Foil) | London 2018",
+    "gen_id": 3049,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Tyloo (Gold) | London 2018",
+    "gen_id": 3050,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Vega Squadron | London 2018",
+    "gen_id": 2991,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Vega Squadron (Holo) | London 2018",
+    "gen_id": 2992,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Vega Squadron (Foil) | London 2018",
+    "gen_id": 2993,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Vega Squadron (Gold) | London 2018",
+    "gen_id": 2994,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Virtus.Pro | London 2018",
+    "gen_id": 3015,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Virtus.Pro (Holo) | London 2018",
+    "gen_id": 3016,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Virtus.Pro (Foil) | London 2018",
+    "gen_id": 3017,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Virtus.Pro (Gold) | London 2018",
+    "gen_id": 3018,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Winstrike Team | London 2018",
+    "gen_id": 2975,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Winstrike Team (Holo) | London 2018",
+    "gen_id": 2976,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Winstrike Team (Foil) | London 2018",
+    "gen_id": 2977,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Winstrike Team (Gold) | London 2018",
+    "gen_id": 2978,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FACEIT | London 2018",
+    "gen_id": 3051,
+    "tournament": "London 2018",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FACEIT (Holo) | London 2018",
+    "gen_id": 3052,
+    "tournament": "London 2018",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FACEIT (Foil) | London 2018",
+    "gen_id": 3053,
+    "tournament": "London 2018",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FACEIT (Gold) | London 2018",
+    "gen_id": 3054,
+    "tournament": "London 2018",
+    "rarity": "Extraordinary"
+  }
+]
