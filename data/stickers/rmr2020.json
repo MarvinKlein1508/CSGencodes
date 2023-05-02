@@ -1,0 +1,578 @@
+[
+  {
+    "name": "100 Thieves | 2020 RMR",
+    "gen_id": 4769,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "100 Thieves (Holo) | 2020 RMR",
+    "gen_id": 4770,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "100 Thieves (Foil) | 2020 RMR",
+    "gen_id": 4771,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "100 Thieves (Gold) | 2020 RMR",
+    "gen_id": 4772,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Astralis | 2020 RMR",
+    "gen_id": 4713,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Astralis (Holo) | 2020 RMR",
+    "gen_id": 4714,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Astralis (Foil) | 2020 RMR",
+    "gen_id": 4715,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Astralis (Gold) | 2020 RMR",
+    "gen_id": 4716,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "BIG | 2020 RMR",
+    "gen_id": 4717,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "BIG (Holo) | 2020 RMR",
+    "gen_id": 4718,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "BIG (Foil) | 2020 RMR",
+    "gen_id": 4719,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "BIG (Gold) | 2020 RMR",
+    "gen_id": 4720,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Boom | 2020 RMR",
+    "gen_id": 4785,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Boom (Holo) | 2020 RMR",
+    "gen_id": 4786,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Boom (Foil) | 2020 RMR",
+    "gen_id": 4787,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Boom (Gold) | 2020 RMR",
+    "gen_id": 4788,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ESPADA | 2020 RMR",
+    "gen_id": 4761,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ESPADA (Holo) | 2020 RMR",
+    "gen_id": 4762,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ESPADA (Foil) | 2020 RMR",
+    "gen_id": 4763,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "ESPADA (Gold) | 2020 RMR",
+    "gen_id": 4764,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Evil Geniuses | 2020 RMR",
+    "gen_id": 4765,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Evil Geniuses (Holo) | 2020 RMR",
+    "gen_id": 4766,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Evil Geniuses (Foil) | 2020 RMR",
+    "gen_id": 4767,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Evil Geniuses (Gold) | 2020 RMR",
+    "gen_id": 4768,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FaZe | 2020 RMR",
+    "gen_id": 4737,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FaZe (Holo) | 2020 RMR",
+    "gen_id": 4738,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FaZe (Foil) | 2020 RMR",
+    "gen_id": 4739,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FaZe (Gold) | 2020 RMR",
+    "gen_id": 4740,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Fnatic | 2020 RMR",
+    "gen_id": 4721,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Fnatic (Holo) | 2020 RMR",
+    "gen_id": 4722,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Fnatic (Foil) | 2020 RMR",
+    "gen_id": 4723,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Fnatic (Gold) | 2020 RMR",
+    "gen_id": 4724,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FURIA | 2020 RMR",
+    "gen_id": 4773,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FURIA (Holo) | 2020 RMR",
+    "gen_id": 4774,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FURIA (Foil) | 2020 RMR",
+    "gen_id": 4775,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FURIA (Gold) | 2020 RMR",
+    "gen_id": 4776,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "G2 | 2020 RMR",
+    "gen_id": 4725,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "G2 (Holo) | 2020 RMR",
+    "gen_id": 4726,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "G2 (Foil) | 2020 RMR",
+    "gen_id": 4727,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "G2 (Gold) | 2020 RMR",
+    "gen_id": 4728,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Gen.G | 2020 RMR",
+    "gen_id": 4781,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Gen.G (Holo) | 2020 RMR",
+    "gen_id": 4782,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Gen.G (Foil) | 2020 RMR",
+    "gen_id": 4783,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Gen.G (Gold) | 2020 RMR",
+    "gen_id": 4784,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "GODSENT | 2020 RMR",
+    "gen_id": 4733,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "GODSENT (Holo) | 2020 RMR",
+    "gen_id": 4734,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "GODSENT (Foil) | 2020 RMR",
+    "gen_id": 4735,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "GODSENT (Gold) | 2020 RMR",
+    "gen_id": 4736,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Heroic | 2020 RMR",
+    "gen_id": 4705,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Heroic (Holo) | 2020 RMR",
+    "gen_id": 4706,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Heroic (Foil) | 2020 RMR",
+    "gen_id": 4707,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Heroic (Gold) | 2020 RMR",
+    "gen_id": 4708,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Liquid | 2020 RMR",
+    "gen_id": 4777,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Liquid (Holo) | 2020 RMR",
+    "gen_id": 4778,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Liquid (Foil) | 2020 RMR",
+    "gen_id": 4779,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Liquid (Gold) | 2020 RMR",
+    "gen_id": 4780,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Natus Vincere | 2020 RMR",
+    "gen_id": 4749,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Natus Vincere (Holo) | 2020 RMR",
+    "gen_id": 4750,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Natus Vincere (Foil) | 2020 RMR",
+    "gen_id": 4751,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Natus Vincere (Gold) | 2020 RMR",
+    "gen_id": 4752,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Nemiga | 2020 RMR",
+    "gen_id": 4753,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Nemiga (Holo) | 2020 RMR",
+    "gen_id": 4754,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Nemiga (Foil) | 2020 RMR",
+    "gen_id": 4755,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Nemiga (Gold) | 2020 RMR",
+    "gen_id": 4756,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Ninjas in Pyjamas | 2020 RMR",
+    "gen_id": 4709,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | 2020 RMR",
+    "gen_id": 4710,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Foil) | 2020 RMR",
+    "gen_id": 4711,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | 2020 RMR",
+    "gen_id": 4712,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "North | 2020 RMR",
+    "gen_id": 4741,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "North (Holo) | 2020 RMR",
+    "gen_id": 4742,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "North (Foil) | 2020 RMR",
+    "gen_id": 4743,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "North (Gold) | 2020 RMR",
+    "gen_id": 4744,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "OG | 2020 RMR",
+    "gen_id": 4729,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "OG (Holo) | 2020 RMR",
+    "gen_id": 4730,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "OG (Foil) | 2020 RMR",
+    "gen_id": 4731,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "OG (Gold) | 2020 RMR",
+    "gen_id": 4732,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Renegades | 2020 RMR",
+    "gen_id": 4789,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Renegades (Holo) | 2020 RMR",
+    "gen_id": 4790,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Renegades (Foil) | 2020 RMR",
+    "gen_id": 4791,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Renegades (Gold) | 2020 RMR",
+    "gen_id": 4792,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Spirit | 2020 RMR",
+    "gen_id": 4745,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Spirit (Holo) | 2020 RMR",
+    "gen_id": 4746,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Spirit (Foil) | 2020 RMR",
+    "gen_id": 4747,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Spirit (Gold) | 2020 RMR",
+    "gen_id": 4748,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "TYLOO | 2020 RMR",
+    "gen_id": 4793,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "TYLOO (Holo) | 2020 RMR",
+    "gen_id": 4794,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "TYLOO (Foil) | 2020 RMR",
+    "gen_id": 4795,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "TYLOO (Gold) | 2020 RMR",
+    "gen_id": 4796,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Virtus.pro | 2020 RMR",
+    "gen_id": 4757,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Virtus.pro (Holo) | 2020 RMR",
+    "gen_id": 4758,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Virtus.pro (Foil) | 2020 RMR",
+    "gen_id": 4759,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Virtus.pro (Gold) | 2020 RMR",
+    "gen_id": 4760,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Vitality | 2020 RMR",
+    "gen_id": 4701,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Vitality (Holo) | 2020 RMR",
+    "gen_id": 4702,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Vitality (Foil) | 2020 RMR",
+    "gen_id": 4703,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Vitality (Gold) | 2020 RMR",
+    "gen_id": 4704,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary"
+  }
+]

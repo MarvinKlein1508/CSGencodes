@@ -1,5 +1,11 @@
 [
   {
+    "name": "Howling Dawn",
+    "gen_id": 103,
+    "tournament": "Community Sticker Capsule 1",
+    "rarity": "Contraband"
+  },
+  {
     "name": "Flammable (Foil)",
     "gen_id": 107,
     "tournament": "Community Sticker Capsule 1",
@@ -22,6 +28,12 @@
     "gen_id": 110,
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Exotic"
+  },
+  {
+    "name": "Harp of War (Holo)",
+    "gen_id": 106,
+    "tournament": "Community Sticker Capsule 1",
+    "rarity": "Remarkable"
   },
   {
     "name": "Teamwork (Holo)",
@@ -50,6 +62,18 @@
   {
     "name": "My Other Awp",
     "gen_id": 111,
+    "tournament": "Community Sticker Capsule 1",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "King on the Field",
+    "gen_id": 102,
+    "tournament": "Community Sticker Capsule 1",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Winged Defuser",
+    "gen_id": 118,
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade"
   },
