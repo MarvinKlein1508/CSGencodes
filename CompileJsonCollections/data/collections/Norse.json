@@ -1,0 +1,183 @@
+[
+  {
+    "name": "AWP | Gungnir",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 756,
+    "collection": "The Norse Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Negev | Mjölnir",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 763,
+    "collection": "The Norse Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AUG | Flame Jörmungandr",
+    "min_wear": 0.0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 758,
+    "collection": "The Norse Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P90 | Astral Jörmungandr",
+    "min_wear": 0.0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 759,
+    "collection": "The Norse Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Desert Eagle | Emerald Jörmungandr",
+    "min_wear": 0.0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 757,
+    "collection": "The Norse Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MAC-10 | Copper Borre",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 761,
+    "collection": "The Norse Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "CZ75-Auto | Emerald Quartz",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 859,
+    "collection": "The Norse Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "XM1014 | Frost Borre",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 760,
+    "collection": "The Norse Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SCAR-20 | Brass",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 159,
+    "collection": "The Norse Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Dual Berettas | Pyre",
+    "min_wear": 0.6,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 860,
+    "collection": "The Norse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MAG-7 | Chainmail",
+    "min_wear": 0,
+    "max_wear": 0.22,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 327,
+    "collection": "The Norse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "M4A1-S | Moss Quartz",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 862,
+    "collection": "The Norse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "USP-S | Pathfinder",
+    "min_wear": 0,
+    "max_wear": 0.35,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 443,
+    "collection": "The Norse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SSG 08 | Red Stone",
+    "min_wear": 0.06,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 762,
+    "collection": "The Norse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP7 | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 175,
+    "collection": "The Norse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Galil AR | Tornado",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 101,
+    "collection": "The Norse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "SG 553 | Barricade",
+    "min_wear": 0,
+    "max_wear": 0.65,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 861,
+    "collection": "The Norse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "FAMAS | Night Borre",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 863,
+    "collection": "The Norse Collection",
+    "rarity": "Consumer"
+  }
+
+]

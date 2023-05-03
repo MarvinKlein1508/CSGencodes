@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Galil AR | Chatterbox",
+    "min_wear": 0.35,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 13,
+    "gen_id": 398,
+    "collection": "Chroma Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AWP | Man-o'-war",
+    "min_wear": 0.1,
+    "max_wear": 0.2,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 395,
+    "collection": "Chroma Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AK-47 | Cartel",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 394,
+    "collection": "Chroma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "M4A4 | 龍王 (Dragon King)",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 400,
+    "collection": "Chroma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P250 | Muertos",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 404,
+    "collection": "Chroma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Desert Eagle | Naga",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 397,
+    "collection": "Chroma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Dual Berettas | Urban Shock",
+    "min_wear": 0,
+    "max_wear": 0.47,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 396,
+    "collection": "Chroma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MAC-10 | Malachite",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 402,
+    "collection": "Chroma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Sawed-Off | Serenity",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 405,
+    "collection": "Chroma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Glock-18 | Catacombs",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 399,
+    "collection": "Chroma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MP9 | Deadly Poison",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 403,
+    "collection": "Chroma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "M249 | System Lock",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 401,
+    "collection": "Chroma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SCAR-20 | Grotto",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 406,
+    "collection": "Chroma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "XM1014 | Quicksilver",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 407,
+    "collection": "Chroma Collection",
+    "rarity": "Milspec"
+  }
+
+]

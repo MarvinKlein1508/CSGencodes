@@ -1,0 +1,153 @@
+[
+  {
+    "name": "M4A1-S | Nitro",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 60,
+    "gen_id": 254,
+    "collection": "The Safehouse Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SSG 08 | Acid Fade",
+    "min_wear": 0,
+    "max_wear": 0.03,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 253,
+    "collection": "The Safehouse Collection",
+    "rarity": "Milcspec"
+  },
+  {
+    "name": "Five-SeveN | Silver Quartz",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 252,
+    "collection": "The Safehouse Collection",
+    "rarity": "Milcspec"
+  },
+  {
+    "name": "FAMAS | Teardown",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 244,
+    "collection": "The Safehouse Collection",
+    "rarity": "Milcspec"
+  },
+  {
+    "name": "AUG | Condemned",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 110,
+    "collection": "The Safehouse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "G3SG1 | VariCamo",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 235,
+    "collection": "The Safehouse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "USP-S | Forest Leaves",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 25,
+    "collection": "The Safehouse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Galil AR | VariCamo",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 235,
+    "collection": "The Safehouse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "M249 | Gator Mesh",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 243,
+    "collection": "The Safehouse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MP9 | Orange Peel",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 141,
+    "collection": "The Safehouse Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "SSG 08 | Blue Spruce",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 96,
+    "collection": "The Safehouse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Tec-9 | Army Mesh",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 242,
+    "collection": "The Safehouse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Dual Berettas | Contractor",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 46,
+    "collection": "The Safehouse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "SCAR-20 | Contractor",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 46,
+    "collection": "The Safehouse Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MP7 | Army Recon",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 245,
+    "collection": "The Safehouse Collection",
+    "rarity": "Consumer"
+  }
+
+]

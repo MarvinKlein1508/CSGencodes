@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSGO_GEN.Core.Models
 {
-    public class Sticker
+    public class Sticker : IGenable
     {
         public string name { get; set; } = string.Empty;
         public int gen_id { get; set; }

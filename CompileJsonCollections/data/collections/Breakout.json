@@ -1,0 +1,143 @@
+[
+  {
+    "name": "P90 | Asiimov",
+    "min_wear": 0,
+    "max_wear": 0.92,
+    "trade_up": false,
+    "weapon_id": 19,
+    "gen_id": 359,
+    "collection": "Breakout Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M4A1-S | Cyrex",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 60,
+    "gen_id": 360,
+    "collection": "Breakout Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Water Elemental",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 353,
+    "collection": "Breakout Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Desert Eagle | Conspiracy",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 351,
+    "collection": "Breakout Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Five-SeveN | Fowl Play",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 352,
+    "collection": "Breakout Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nova | Koi",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 356,
+    "collection": "Breakout Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P250 | Supernova",
+    "min_wear": 0.06,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 358,
+    "collection": "Breakout Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "CZ75-Auto | Tigris",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 350,
+    "collection": "Breakout Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "PP-Bizon | Osiris",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 349,
+    "collection": "Breakout Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "SSG 08 | Abyss",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 361,
+    "collection": "Breakout Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P2000 | Ivory",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 357,
+    "collection": "Breakout Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "UMP-45 | Labyrinth",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 362,
+    "collection": "Breakout Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MP7 | Urban Hazard",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 354,
+    "collection": "Breakout Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Negev | Desert-Strike",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 355,
+    "collection": "Breakout Collection",
+    "rarity": "Milspec"
+  }
+
+]

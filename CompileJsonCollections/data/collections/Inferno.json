@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Tec-9 | Brass",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 159,
+    "collection": "The Inferno Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Dual Berettas | Anodized Navy",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 28,
+    "collection": "The Inferno Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "M4A4 | Tornado",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 101,
+    "collection": "The Inferno Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P250 | Gunsmoke",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 15,
+    "collection": "The Inferno Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "Nova | Walnut",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 158,
+    "collection": "The Inferno Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "MAG-7 | Sand Dune",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 99,
+    "collection": "The Inferno Collection",
+    "rarity": "Consumer"
+  }
+
+]

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSGO_GEN.Core.Models
 {
-    public class Weapon
+    public class Weapon : IGenable
     {
         public string name { get; set; }
         public decimal min_wear { get; set; }

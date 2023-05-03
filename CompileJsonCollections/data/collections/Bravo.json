@@ -1,0 +1,153 @@
+[
+  {
+    "name": "AK-47 | Fire Serpent",
+    "min_wear": 0.06,
+    "max_wear": 0.76,
+    "trade_up": false,
+    "weapon_id": 7,
+    "gen_id": 180,
+    "collection": "Bravo Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Desert Eagle | Golden Koi",
+    "min_wear": 0,
+    "max_wear": 0.12,
+    "trade_up": false,
+    "weapon_id": 1,
+    "gen_id": 185,
+    "collection": "Bravo Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "P90 | Emerald Dragon",
+    "min_wear": 0.06,
+    "max_wear": 0.52,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 182,
+    "collection": "Bravo Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "P2000 | Ocean Foam",
+    "min_wear": 0,
+    "max_wear": 0.12,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 211,
+    "collection": "Bravo Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AWP | Graphite",
+    "min_wear": 0,
+    "max_wear": 0.12,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 212,
+    "collection": "Bravo Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "USP-S | Overgrowth",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 183,
+    "collection": "Bravo Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "M4A4 | Zirka",
+    "min_wear": 0.06,
+    "max_wear": 0.42,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 187,
+    "collection": "Bravo Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MAC-10 | Graven",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 188,
+    "collection": "Bravo Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "M4A1-S | Bright Water",
+    "min_wear": 0.1,
+    "max_wear": 0.22,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 189,
+    "collection": "Bravo Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Galil AR | Shattered",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 192,
+    "collection": "Bravo Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "UMP-45 | Bone Pile",
+    "min_wear": 0.06,
+    "max_wear": 0.34,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 193,
+    "collection": "Bravo Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SG 553 | Wave Spray",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 186,
+    "collection": "Bravo Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Nova | Tempest",
+    "min_wear": 0.06,
+    "max_wear": 0.22,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 191,
+    "collection": "Bravo Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Dual Berettas | Black Limba",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 190,
+    "collection": "Bravo Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "G3SG1 | Demeter",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 11,
+    "gen_id": 195,
+    "collection": "Bravo Collection",
+    "rarity": "Milspec"
+  }
+
+]

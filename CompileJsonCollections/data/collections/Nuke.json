@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tec-9 | Nuclear Threat",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 30,
+    "gen_id": 179,
+    "collection": "The Nuke Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P250 | Nuclear Threat",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 36,
+    "gen_id": 179,
+    "collection": "The Nuke Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "M4A4 | Radiation Hazard",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 167,
+    "collection": "The Nuke Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "XM1014 | Fallout Warning",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 169,
+    "collection": "The Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "P90 | Fallout Warning",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 169,
+    "collection": "The Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "UMP-45 | Fallout Warning",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 169,
+    "collection": "The Nuke Collection",
+    "rarity": "Industrial"
+  },
+  {
+    "name": "MAG-7 | Irradiated Alert",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 171,
+    "collection": "The Nuke Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "PP-Bizon | Irradiated Alert",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 171,
+    "collection": "The Nuke Collection",
+    "rarity": "Consumer"
+  },
+  {
+    "name": "Sawed-Off | Irradiated Alert",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 29,
+    "gen_id": 171,
+    "collection": "The Nuke Collection",
+    "rarity": "Consumer"
+  }
+]

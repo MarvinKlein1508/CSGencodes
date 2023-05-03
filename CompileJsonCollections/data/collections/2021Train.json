@@ -1,0 +1,212 @@
+[
+  {
+    "name": "M4A4 | The Coalition",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 16,
+    "gen_id": 1063,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 4,
+    "gen_id": 1120,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 4,
+    "gen_id": 1121,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 4,
+    "gen_id": 1122,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 4,
+    "gen_id": 1123,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Glock-18 | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 4,
+    "gen_id": 1119,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "USP-S | Whiteout",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 1065,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FAMAS | Meltdown",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 1053,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "MAC-10 | Propaganda",
+    "min_wear": 0,
+    "max_wear": 0.62,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 1067,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nova | Red Quartz",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 248,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AWP | POP AWP",
+    "min_wear": 0,
+    "max_wear": 0.44,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 1058,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "CZ75-Auto | Syndicate",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 1064,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "P2000 | Space Race",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 1055,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MP5-SD | Autumn Twilly",
+    "min_wear": 0,
+    "max_wear": 0.58,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 1061,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "R8 Revolver | Blaze",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 37,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "AUG | Amber Fade",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 246,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "M4A1-S | Fizzy POP",
+    "min_wear": 0,
+    "max_wear": 0.57,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 1059,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Desert Eagle | Sputnik",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 1056,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "SSG 08 | Spring Twilly",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 1060,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "UMP-45 | Full Stop",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 250,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Tec-9 | Safety Net",
+    "min_wear": 0,
+    "max_wear": 0.6,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 795,
+    "collection": "The 2021 Train Collection",
+    "rarity": "Milspec"
+  }
+]

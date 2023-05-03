@@ -1,0 +1,173 @@
+[
+  {
+    "name": "M4A4 | The Emperor",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 16,
+    "gen_id": 844,
+    "collection": "Prisma Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Five-SeveN | Angry Mob",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": false,
+    "weapon_id": 3,
+    "gen_id": 837,
+    "collection": "Prisma Collection",
+    "rarity": "Covert"
+  },
+  {
+    "name": "AUG | Momentum",
+    "min_wear": 0.05,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 845,
+    "collection": "Prisma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "XM1014 | Incinegator",
+    "min_wear": 0.14,
+    "max_wear": 0.65,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 850,
+    "collection": "Prisma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "R8 Revolver | Skull Crusher",
+    "min_wear": 0.25,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 843,
+    "collection": "Prisma Collection",
+    "rarity": "Classified"
+  },
+  {
+    "name": "AWP | Atheris",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 838,
+    "collection": "Prisma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Desert Eagle | Light Rail",
+    "min_wear": 0,
+    "max_wear": 0.9,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 841,
+    "collection": "Prisma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "UMP-45 | Moonrise",
+    "min_wear": 0,
+    "max_wear": 0.4,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 851,
+    "collection": "Prisma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "Tec-9 | Bamboozle",
+    "min_wear": 0,
+    "max_wear": 0.8,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 839,
+    "collection": "Prisma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "MP5-SD | Gauss",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 846,
+    "collection": "Prisma Collection",
+    "rarity": "Restricted"
+  },
+  {
+    "name": "AK-47 | Uncharted",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 836,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "Galil AR | Akoben",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 842,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MAC-10 | Whitefish",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 840,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P90 | Off World",
+    "min_wear": 0,
+    "max_wear": 0.75,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 849,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "P250 | Verdigris",
+    "min_wear": 0,
+    "max_wear": 0.7,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 848,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "FAMAS | Crypsis",
+    "min_wear": 0,
+    "max_wear": 0.55,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 835,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  },
+  {
+    "name": "MP7 | Mischief",
+    "min_wear": 0.1,
+    "max_wear": 1,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 847,
+    "collection": "Prisma Collection",
+    "rarity": "Milspec"
+  }
+
+]

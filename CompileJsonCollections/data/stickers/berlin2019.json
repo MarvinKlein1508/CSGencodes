@@ -1,0 +1,2763 @@
+[
+  {
+    "name": "Astralis | Berlin 2019",
+    "gen_id": 4019,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Astralis (Holo) | Berlin 2019",
+    "gen_id": 4020,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Astralis (Foil) | Berlin 2019",
+    "gen_id": 4021,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Astralis (Gold) | Berlin 2019",
+    "gen_id": 4022,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Avangar | Berlin 2019",
+    "gen_id": 4059,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Avangar (Holo) | Berlin 2019",
+    "gen_id": 4060,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Avangar (Foil) | Berlin 2019",
+    "gen_id": 4061,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Avangar (Gold) | Berlin 2019",
+    "gen_id": 4062,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "compLexity Gaming | Berlin 2019",
+    "gen_id": 4052,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "compLexity Gaming (Holo) | Berlin 2019",
+    "gen_id": 4053,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "compLexity Gaming (Foil) | Berlin 2019",
+    "gen_id": 4054,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "compLexity Gaming (Gold) | Berlin 2019",
+    "gen_id": 4055,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "CR4ZY | Berlin 2019",
+    "gen_id": 4095,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "CR4ZY (Holo) | Berlin 2019",
+    "gen_id": 4096,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "CR4ZY (Foil) | Berlin 2019",
+    "gen_id": 4097,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "CR4ZY (Gold) | Berlin 2019",
+    "gen_id": 4098,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "DreamEaters | Berlin 2019",
+    "gen_id": 4107,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "DreamEaters (Holo) | Berlin 2019",
+    "gen_id": 4108,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "DreamEaters (Foil) | Berlin 2019",
+    "gen_id": 4109,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "DreamEaters (Gold) | Berlin 2019",
+    "gen_id": 4110,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ENCE | Berlin 2019",
+    "gen_id": 4024,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ENCE (Holo) | Berlin 2019",
+    "gen_id": 4025,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ENCE (Foil) | Berlin 2019",
+    "gen_id": 4026,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "ENCE (Gold) | Berlin 2019",
+    "gen_id": 4027,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FaZe Clan | Berlin 2019",
+    "gen_id": 4039,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FaZe Clan (Holo) | Berlin 2019",
+    "gen_id": 4040,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FaZe Clan (Foil) | Berlin 2019",
+    "gen_id": 4041,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FaZe Clan (Gold) | Berlin 2019",
+    "gen_id": 4042,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "forZe eSports | Berlin 2019",
+    "gen_id": 4079,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "forZe eSports (Holo) | Berlin 2019",
+    "gen_id": 4080,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "forZe eSports (Foil) | Berlin 2019",
+    "gen_id": 4081,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "forZe eSports (Gold) | Berlin 2019",
+    "gen_id": 4082,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FURIA | Berlin 2019",
+    "gen_id": 4091,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FURIA (Holo) | Berlin 2019",
+    "gen_id": 4092,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FURIA (Foil) | Berlin 2019",
+    "gen_id": 4093,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FURIA (Gold) | Berlin 2019",
+    "gen_id": 4094,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "G2 Esports | Berlin 2019",
+    "gen_id": 4063,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "G2 Esports (Holo) | Berlin 2019",
+    "gen_id": 4064,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "G2 Esports (Foil) | Berlin 2019",
+    "gen_id": 4065,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "G2 Esports (Gold) | Berlin 2019",
+    "gen_id": 4066,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Grayhound Gaming | Berlin 2019",
+    "gen_id": 4071,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Grayhound Gaming (Holo) | Berlin 2019",
+    "gen_id": 4072,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Grayhound Gaming (Foil) | Berlin 2019",
+    "gen_id": 4073,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Grayhound Gaming (Gold) | Berlin 2019",
+    "gen_id": 4074,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "HellRaisers | Berlin 2019",
+    "gen_id": 4055,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "HellRaisers (Holo) | Berlin 2019",
+    "gen_id": 4056,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "HellRaisers (Foil) | Berlin 2019",
+    "gen_id": 4057,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "HellRaisers (Gold) | Berlin 2019",
+    "gen_id": 4058,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "INTZ E-SPORTS CLUB | Berlin 2019",
+    "gen_id": 4112,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "INTZ E-SPORTS CLUB (Holo) | Berlin 2019",
+    "gen_id": 4113,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "INTZ E-SPORTS CLUB (Foil) | Berlin 2019",
+    "gen_id": 4114,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "INTZ E-SPORTS CLUB (Gold) | Berlin 2019",
+    "gen_id": 4115,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "MIBR | Berlin 2019",
+    "gen_id": 4027,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "MIBR (Holo) | Berlin 2019",
+    "gen_id": 4028,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "MIBR (Foil) | Berlin 2019",
+    "gen_id": 4029,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "MIBR (Gold) | Berlin 2019",
+    "gen_id": 4030,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "mousesports | Berlin 2019",
+    "gen_id": 4075,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "mousesports (Holo) | Berlin 2019",
+    "gen_id": 4076,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "mousesports (Foil) | Berlin 2019",
+    "gen_id": 4077,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "mousesports (Gold) | Berlin 2019",
+    "gen_id": 4078,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Natus Vincere | Berlin 2019",
+    "gen_id": 4031,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Natus Vincere (Holo) | Berlin 2019",
+    "gen_id": 4032,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Natus Vincere (Foil) | Berlin 2019",
+    "gen_id": 4033,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Natus Vincere (Gold) | Berlin 2019",
+    "gen_id": 4034,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Ninjas in Pyjamas | Berlin 2019",
+    "gen_id": 4035,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | Berlin 2019",
+    "gen_id": 4036,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Foil) | Berlin 2019",
+    "gen_id": 4037,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | Berlin 2019",
+    "gen_id": 4038,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "North | Berlin 2019",
+    "gen_id": 4103,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "North (Holo) | Berlin 2019",
+    "gen_id": 4104,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "North (Foil) | Berlin 2019",
+    "gen_id": 4105,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "North (Gold) | Berlin 2019",
+    "gen_id": 4106,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NRG | Berlin 2019",
+    "gen_id": 4083,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NRG (Holo) | Berlin 2019",
+    "gen_id": 4084,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NRG (Foil) | Berlin 2019",
+    "gen_id": 4085,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "NRG (Gold) | Berlin 2019",
+    "gen_id": 4086,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Renegades | Berlin 2019",
+    "gen_id": 4047,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Renegades (Holo) | Berlin 2019",
+    "gen_id": 4048,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Renegades (Foil) | Berlin 2019",
+    "gen_id": 4049,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Renegades (Gold) | Berlin 2019",
+    "gen_id": 4050,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Syman Gaming | Berlin 2019",
+    "gen_id": 4099,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Syman Gaming (Holo) | Berlin 2019",
+    "gen_id": 4100,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Syman Gaming (Foil) | Berlin 2019",
+    "gen_id": 4101,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Syman Gaming (Gold) | Berlin 2019",
+    "gen_id": 4102,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Team Liquid | Berlin 2019",
+    "gen_id": 4043,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Team Liquid (Holo) | Berlin 2019",
+    "gen_id": 4044,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Team Liquid (Foil) | Berlin 2019",
+    "gen_id": 4045,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Team Liquid (Gold) | Berlin 2019",
+    "gen_id": 4046,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Tyloo | Berlin 2019",
+    "gen_id": 4087,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Tyloo (Holo) | Berlin 2019",
+    "gen_id": 4088,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Tyloo (Foil) | Berlin 2019",
+    "gen_id": 4089,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Tyloo (Gold) | Berlin 2019",
+    "gen_id": 4090,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Vitality | Berlin 2019",
+    "gen_id": 4067,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Vitality (Holo) | Berlin 2019",
+    "gen_id": 4068,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Vitality (Foil) | Berlin 2019",
+    "gen_id": 4069,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Vitality (Gold) | Berlin 2019",
+    "gen_id": 4070,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "StarLadder | Berlin 2019",
+    "gen_id": 4115,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "StarLadder (Holo) | Berlin 2019",
+    "gen_id": 4116,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "StarLadder (Foil) | Berlin 2019",
+    "gen_id": 4117,
+    "tournament": "Berlin 2019",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "StarLadder (Gold) | Berlin 2019",
+    "gen_id": 4118,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ableJ | Berlin 2019",
+    "gen_id": 4417,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ableJ (Foil) | Berlin 2019",
+    "gen_id": 4419,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ableJ (Gold) | Berlin 2019",
+    "gen_id": 4420,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "AdreN | Berlin 2019",
+    "gen_id": 4294,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "AdreN (Foil) | Berlin 2019",
+    "gen_id": 4295,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "AdreN (Gold) | Berlin 2019",
+    "gen_id": 4296,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Aerial | Berlin 2019",
+    "gen_id": 4162,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Aerial (Foil) | Berlin 2019",
+    "gen_id": 4163,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Aerial (Gold) | Berlin 2019",
+    "gen_id": 4164,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "aizy | Berlin 2019",
+    "gen_id": 4468,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "aizy (Foil) | Berlin 2019",
+    "gen_id": 4469,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "aizy (Gold) | Berlin 2019",
+    "gen_id": 4470,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Aleksib | Berlin 2019",
+    "gen_id": 4168,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Aleksib (Foil) | Berlin 2019",
+    "gen_id": 4169,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Aleksib (Gold) | Berlin 2019",
+    "gen_id": 4170,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ALEX | Berlin 2019",
+    "gen_id": 4330,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ALEX (Foil) | Berlin 2019",
+    "gen_id": 4331,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ALEX (Gold) | Berlin 2019",
+    "gen_id": 4332,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "allu | Berlin 2019",
+    "gen_id": 4159,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "allu (Foil) | Berlin 2019",
+    "gen_id": 4160,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "allu (Gold) | Berlin 2019",
+    "gen_id": 4161,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "almazer | Berlin 2019",
+    "gen_id": 4375,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "almazer (Foil) | Berlin 2019",
+    "gen_id": 4376,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "almazer (Gold) | Berlin 2019",
+    "gen_id": 4377,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "AmaNEk | Berlin 2019",
+    "gen_id": 4321,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "AmaNEk (Foil) | Berlin 2019",
+    "gen_id": 4322,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "AmaNEk (Gold) | Berlin 2019",
+    "gen_id": 4323,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ANGE1 | Berlin 2019",
+    "gen_id": 4285,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ANGE1 (Foil) | Berlin 2019",
+    "gen_id": 4286,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ANGE1 (Gold) | Berlin 2019",
+    "gen_id": 4287,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "apEX | Berlin 2019",
+    "gen_id": 4327,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "apEX (Foil) | Berlin 2019",
+    "gen_id": 4328,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "apEX (Gold) | Berlin 2019",
+    "gen_id": 4329,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "arT | Berlin 2019",
+    "gen_id": 4420,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "arT (Foil) | Berlin 2019",
+    "gen_id": 4421,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "arT (Gold) | Berlin 2019",
+    "gen_id": 4422,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Attacker | Berlin 2019",
+    "gen_id": 4405,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Attacker (Foil) | Berlin 2019",
+    "gen_id": 4406,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Attacker (Gold) | Berlin 2019",
+    "gen_id": 4407,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "AZR | Berlin 2019",
+    "gen_id": 4255,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "AZR (Foil) | Berlin 2019",
+    "gen_id": 4256,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "AZR (Gold) | Berlin 2019",
+    "gen_id": 4257,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "BnTeT | Berlin 2019",
+    "gen_id": 4408,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "BnTeT (Foil) | Berlin 2019",
+    "gen_id": 4409,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "BnTeT (Gold) | Berlin 2019",
+    "gen_id": 4410,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Boombl4 | Berlin 2019",
+    "gen_id": 4201,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Boombl4 (Foil) | Berlin 2019",
+    "gen_id": 4202,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Boombl4 (Gold) | Berlin 2019",
+    "gen_id": 4203,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Brehze | Berlin 2019",
+    "gen_id": 4390,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Brehze (Foil) | Berlin 2019",
+    "gen_id": 4391,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Brehze (Gold) | Berlin 2019",
+    "gen_id": 4392,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "buster | Berlin 2019",
+    "gen_id": 4303,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "buster (Foil) | Berlin 2019",
+    "gen_id": 4304,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "buster (Gold) | Berlin 2019",
+    "gen_id": 4305,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "CeRq | Berlin 2019",
+    "gen_id": 4396,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "CeRq (Foil) | Berlin 2019",
+    "gen_id": 4397,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "CeRq (Gold) | Berlin 2019",
+    "gen_id": 4398,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "chelo | Berlin 2019",
+    "gen_id": 4498,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "chelo (Foil) | Berlin 2019",
+    "gen_id": 4499,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "chelo (Gold) | Berlin 2019",
+    "gen_id": 4500,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "chrisJ | Berlin 2019",
+    "gen_id": 4354,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "chrisJ (Foil) | Berlin 2019",
+    "gen_id": 4355,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "chrisJ (Gold) | Berlin 2019",
+    "gen_id": 4356,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "coldzera | Berlin 2019",
+    "gen_id": 4186,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "coldzera (Foil) | Berlin 2019",
+    "gen_id": 4187,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "coldzera (Gold) | Berlin 2019",
+    "gen_id": 4188,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "DeadFox | Berlin 2019",
+    "gen_id": 4279,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "DeadFox (Foil) | Berlin 2019",
+    "gen_id": 4280,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "DeadFox (Gold) | Berlin 2019",
+    "gen_id": 4281,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "dephh | Berlin 2019",
+    "gen_id": 4270,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "dephh (Foil) | Berlin 2019",
+    "gen_id": 4271,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "dephh (Gold) | Berlin 2019",
+    "gen_id": 4272,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "DeStiNy | Berlin 2019",
+    "gen_id": 4492,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "DeStiNy (Foil) | Berlin 2019",
+    "gen_id": 4493,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "DeStiNy (Gold) | Berlin 2019",
+    "gen_id": 4494,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "device | Berlin 2019",
+    "gen_id": 4147,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "device (Foil) | Berlin 2019",
+    "gen_id": 4148,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "device (Gold) | Berlin 2019",
+    "gen_id": 4149,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "dexter | Berlin 2019",
+    "gen_id": 4342,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "dexter (Foil) | Berlin 2019",
+    "gen_id": 4343,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "dexter (Gold) | Berlin 2019",
+    "gen_id": 4344,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "DickStacy | Berlin 2019",
+    "gen_id": 4351,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "DickStacy (Foil) | Berlin 2019",
+    "gen_id": 4352,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "DickStacy (Gold) | Berlin 2019",
+    "gen_id": 4353,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "dupreeh | Berlin 2019",
+    "gen_id": 4153,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "dupreeh (Foil) | Berlin 2019",
+    "gen_id": 4154,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "dupreeh (Gold) | Berlin 2019",
+    "gen_id": 4155,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "electronic | Berlin 2019",
+    "gen_id": 4195,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "electronic (Foil) | Berlin 2019",
+    "gen_id": 4196,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "electronic (Gold) | Berlin 2019",
+    "gen_id": 4197,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "EliGE | Berlin 2019",
+    "gen_id": 4246,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "EliGE (Foil) | Berlin 2019",
+    "gen_id": 4247,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "EliGE (Gold) | Berlin 2019",
+    "gen_id": 4248,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "erkaSt | Berlin 2019",
+    "gen_id": 4345,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "erkaSt (Foil) | Berlin 2019",
+    "gen_id": 4346,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "erkaSt (Gold) | Berlin 2019",
+    "gen_id": 4347,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "EspiranTo | Berlin 2019",
+    "gen_id": 4441,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "EspiranTo (Foil) | Berlin 2019",
+    "gen_id": 4442,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "EspiranTo (Gold) | Berlin 2019",
+    "gen_id": 4443,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Ethan | Berlin 2019",
+    "gen_id": 4393,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Ethan (Foil) | Berlin 2019",
+    "gen_id": 4394,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Ethan (Gold) | Berlin 2019",
+    "gen_id": 4395,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "f0rest | Berlin 2019",
+    "gen_id": 4204,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "f0rest (Foil) | Berlin 2019",
+    "gen_id": 4205,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "f0rest (Gold) | Berlin 2019",
+    "gen_id": 4206,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "facecrack | Berlin 2019",
+    "gen_id": 4381,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "facecrack (Foil) | Berlin 2019",
+    "gen_id": 4382,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "facecrack (Gold) | Berlin 2019",
+    "gen_id": 4383,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FalleN | Berlin 2019",
+    "gen_id": 4174,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FalleN (Foil) | Berlin 2019",
+    "gen_id": 4175,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FalleN (Gold) | Berlin 2019",
+    "gen_id": 4176,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "fer | Berlin 2019",
+    "gen_id": 4180,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "fer (Foil) | Berlin 2019",
+    "gen_id": 4181,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "fer (Gold) | Berlin 2019",
+    "gen_id": 4182,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FL1T | Berlin 2019",
+    "gen_id": 4369,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FL1T (Foil) | Berlin 2019",
+    "gen_id": 4370,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FL1T (Gold) | Berlin 2019",
+    "gen_id": 4371,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "flamie | Berlin 2019",
+    "gen_id": 4198,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "flamie (Foil) | Berlin 2019",
+    "gen_id": 4199,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "flamie (Gold) | Berlin 2019",
+    "gen_id": 4200,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Forester | Berlin 2019",
+    "gen_id": 4480,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Forester (Foil) | Berlin 2019",
+    "gen_id": 4481,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Forester (Gold) | Berlin 2019",
+    "gen_id": 4482,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Freeman | Berlin 2019",
+    "gen_id": 4411,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Freeman (Foil) | Berlin 2019",
+    "gen_id": 4412,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Freeman (Gold) | Berlin 2019",
+    "gen_id": 4413,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "frozen | Berlin 2019",
+    "gen_id": 4363,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "frozen (Foil) | Berlin 2019",
+    "gen_id": 4364,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "frozen (Gold) | Berlin 2019",
+    "gen_id": 4365,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "gade | Berlin 2019",
+    "gen_id": 4459,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "gade (Foil) | Berlin 2019",
+    "gen_id": 4460,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "gade (Gold) | Berlin 2019",
+    "gen_id": 4461,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "GeT_RiGhT | Berlin 2019",
+    "gen_id": 4210,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "GeT_RiGhT (Foil) | Berlin 2019",
+    "gen_id": 4211,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "GeT_RiGhT (Gold) | Berlin 2019",
+    "gen_id": 4212,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "gla1ve | Berlin 2019",
+    "gen_id": 4156,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "gla1ve (Foil) | Berlin 2019",
+    "gen_id": 4157,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "gla1ve (Gold) | Berlin 2019",
+    "gen_id": 4158,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Golden | Berlin 2019",
+    "gen_id": 4216,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Golden (Foil) | Berlin 2019",
+    "gen_id": 4217,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Golden (Gold) | Berlin 2019",
+    "gen_id": 4218,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Gratisfaction | Berlin 2019",
+    "gen_id": 4249,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Gratisfaction (Foil) | Berlin 2019",
+    "gen_id": 4250,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Gratisfaction (Gold) | Berlin 2019",
+    "gen_id": 4251,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "GuardiaN | Berlin 2019",
+    "gen_id": 4222,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "GuardiaN (Foil) | Berlin 2019",
+    "gen_id": 4223,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "GuardiaN (Gold) | Berlin 2019",
+    "gen_id": 4224,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "huNter- | Berlin 2019",
+    "gen_id": 4433,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "huNter- (Foil) | Berlin 2019",
+    "gen_id": 4434,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "huNter- (Gold) | Berlin 2019",
+    "gen_id": 4435,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ISSAA | Berlin 2019",
+    "gen_id": 4288,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ISSAA (Foil) | Berlin 2019",
+    "gen_id": 4289,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ISSAA (Gold) | Berlin 2019",
+    "gen_id": 4290,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "JaCkz | Berlin 2019",
+    "gen_id": 4309,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "JaCkz (Foil) | Berlin 2019",
+    "gen_id": 4310,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "JaCkz (Gold) | Berlin 2019",
+    "gen_id": 4311,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Jame | Berlin 2019",
+    "gen_id": 4297,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Jame (Foil) | Berlin 2019",
+    "gen_id": 4298,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Jame (Gold) | Berlin 2019",
+    "gen_id": 4299,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Jerry | Berlin 2019",
+    "gen_id": 4372,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Jerry (Foil) | Berlin 2019",
+    "gen_id": 4373,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Jerry (Gold) | Berlin 2019",
+    "gen_id": 4374,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "jkaem | Berlin 2019",
+    "gen_id": 4258,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "jkaem (Foil) | Berlin 2019",
+    "gen_id": 4259,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "jkaem (Gold) | Berlin 2019",
+    "gen_id": 4260,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "jks | Berlin 2019",
+    "gen_id": 4252,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "jks (Foil) | Berlin 2019",
+    "gen_id": 4253,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "jks (Gold) | Berlin 2019",
+    "gen_id": 4254,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "JUGi | Berlin 2019",
+    "gen_id": 4465,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "JUGi (Foil) | Berlin 2019",
+    "gen_id": 4466,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "JUGi (Gold) | Berlin 2019",
+    "gen_id": 4467,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "karrigan | Berlin 2019",
+    "gen_id": 4357,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "karrigan (Foil) | Berlin 2019",
+    "gen_id": 4358,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "karrigan (Gold) | Berlin 2019",
+    "gen_id": 4359,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "kennyS | Berlin 2019",
+    "gen_id": 4315,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "kennyS (Foil) | Berlin 2019",
+    "gen_id": 4316,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "kennyS (Gold) | Berlin 2019",
+    "gen_id": 4317,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Keoz | Berlin 2019",
+    "gen_id": 4450,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Keoz (Foil) | Berlin 2019",
+    "gen_id": 4451,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Keoz (Gold) | Berlin 2019",
+    "gen_id": 4452,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "kinqie | Berlin 2019",
+    "gen_id": 4477,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "kinqie (Foil) | Berlin 2019",
+    "gen_id": 4478,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "kinqie (Gold) | Berlin 2019",
+    "gen_id": 4479,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Kjaerbye | Berlin 2019",
+    "gen_id": 4462,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Kjaerbye (Foil) | Berlin 2019",
+    "gen_id": 4463,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Kjaerbye (Gold) | Berlin 2019",
+    "gen_id": 4464,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "kNgV- | Berlin 2019",
+    "gen_id": 4489,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "kNgV- (Foil) | Berlin 2019",
+    "gen_id": 4490,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "kNgV- (Gold) | Berlin 2019",
+    "gen_id": 4491,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Krad | Berlin 2019",
+    "gen_id": 4483,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Krad (Foil) | Berlin 2019",
+    "gen_id": 4484,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Krad (Gold) | Berlin 2019",
+    "gen_id": 4485,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "KSCERATO | Berlin 2019",
+    "gen_id": 4423,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "KSCERATO (Foil) | Berlin 2019",
+    "gen_id": 4424,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "KSCERATO (Gold) | Berlin 2019",
+    "gen_id": 4425,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Lekr0 | Berlin 2019",
+    "gen_id": 4207,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Lekr0 (Foil) | Berlin 2019",
+    "gen_id": 4208,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Lekr0 (Gold) | Berlin 2019",
+    "gen_id": 4209,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "LETN1 | Berlin 2019",
+    "gen_id": 4438,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "LETN1 (Foil) | Berlin 2019",
+    "gen_id": 4439,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "LETN1 (Gold) | Berlin 2019",
+    "gen_id": 4440,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Liazz | Berlin 2019",
+    "gen_id": 4261,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Liazz (Foil) | Berlin 2019",
+    "gen_id": 4262,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Liazz (Gold) | Berlin 2019",
+    "gen_id": 4263,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "loWel | Berlin 2019",
+    "gen_id": 4282,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "loWel (Foil) | Berlin 2019",
+    "gen_id": 4283,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "loWel (Gold) | Berlin 2019",
+    "gen_id": 4284,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "LUCAS1 | Berlin 2019",
+    "gen_id": 4177,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "LUCAS1 (Foil) | Berlin 2019",
+    "gen_id": 4178,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "LUCAS1 (Gold) | Berlin 2019",
+    "gen_id": 4179,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Lucky | Berlin 2019",
+    "gen_id": 4318,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Lucky (Foil) | Berlin 2019",
+    "gen_id": 4319,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Lucky (Gold) | Berlin 2019",
+    "gen_id": 4320,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Magisk | Berlin 2019",
+    "gen_id": 4144,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Magisk (Foil) | Berlin 2019",
+    "gen_id": 4145,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Magisk (Gold) | Berlin 2019",
+    "gen_id": 4146,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "malta | Berlin 2019",
+    "gen_id": 4348,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "malta (Foil) | Berlin 2019",
+    "gen_id": 4349,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "malta (Gold) | Berlin 2019",
+    "gen_id": 4350,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NAF | Berlin 2019",
+    "gen_id": 4240,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NAF (Foil) | Berlin 2019",
+    "gen_id": 4241,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NAF (Gold) | Berlin 2019",
+    "gen_id": 4242,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NBK- | Berlin 2019",
+    "gen_id": 4324,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NBK- (Foil) | Berlin 2019",
+    "gen_id": 4325,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NBK- (Gold) | Berlin 2019",
+    "gen_id": 4326,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "neaLaN | Berlin 2019",
+    "gen_id": 4447,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "neaLaN (Foil) | Berlin 2019",
+    "gen_id": 4448,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "neaLaN (Gold) | Berlin 2019",
+    "gen_id": 4449,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NEO | Berlin 2019",
+    "gen_id": 4219,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NEO (Foil) | Berlin 2019",
+    "gen_id": 4220,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NEO (Gold) | Berlin 2019",
+    "gen_id": 4221,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "nexa | Berlin 2019",
+    "gen_id": 4429,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "nexa (Foil) | Berlin 2019",
+    "gen_id": 4430,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "nexa (Gold) | Berlin 2019",
+    "gen_id": 4431,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NiKo | Berlin 2019",
+    "gen_id": 4231,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NiKo (Foil) | Berlin 2019",
+    "gen_id": 4232,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NiKo (Gold) | Berlin 2019",
+    "gen_id": 4233,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "nitr0 | Berlin 2019",
+    "gen_id": 4234,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "nitr0 (Foil) | Berlin 2019",
+    "gen_id": 4235,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "nitr0 (Gold) | Berlin 2019",
+    "gen_id": 4236,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "oBo | Berlin 2019",
+    "gen_id": 4276,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "oBo (Foil) | Berlin 2019",
+    "gen_id": 4277,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "oBo (Gold) | Berlin 2019",
+    "gen_id": 4278,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "olofmeister | Berlin 2019",
+    "gen_id": 4225,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "olofmeister (Foil) | Berlin 2019",
+    "gen_id": 4226,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "olofmeister (Gold) | Berlin 2019",
+    "gen_id": 4227,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "oskar | Berlin 2019",
+    "gen_id": 4291,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "oskar (Foil) | Berlin 2019",
+    "gen_id": 4292,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "oskar (Gold) | Berlin 2019",
+    "gen_id": 4293,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ottoNd | Berlin 2019",
+    "gen_id": 4435,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ottoNd (Foil) | Berlin 2019",
+    "gen_id": 4436,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ottoNd (Gold) | Berlin 2019",
+    "gen_id": 4437,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Perfecto | Berlin 2019",
+    "gen_id": 4456,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Perfecto (Foil) | Berlin 2019",
+    "gen_id": 4457,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Perfecto (Gold) | Berlin 2019",
+    "gen_id": 4458,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "qikert | Berlin 2019",
+    "gen_id": 4300,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "qikert (Foil) | Berlin 2019",
+    "gen_id": 4301,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "qikert (Gold) | Berlin 2019",
+    "gen_id": 4302,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "rain | Berlin 2019",
+    "gen_id": 4228,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "rain (Foil) | Berlin 2019",
+    "gen_id": 4229,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "rain (Gold) | Berlin 2019",
+    "gen_id": 4230,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Ramz1kBO$$ | Berlin 2019",
+    "gen_id": 4453,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Ramz1kBO$$ (Foil) | Berlin 2019",
+    "gen_id": 4454,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Ramz1kBO$$ (Gold) | Berlin 2019",
+    "gen_id": 4455,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "REZ | Berlin 2019",
+    "gen_id": 4213,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "REZ (Foil) | Berlin 2019",
+    "gen_id": 4214,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "REZ (Gold) | Berlin 2019",
+    "gen_id": 4215,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Rickeh | Berlin 2019",
+    "gen_id": 4264,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Rickeh (Foil) | Berlin 2019",
+    "gen_id": 4265,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Rickeh (Gold) | Berlin 2019",
+    "gen_id": 4266,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ropz | Berlin 2019",
+    "gen_id": 4360,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ropz (Foil) | Berlin 2019",
+    "gen_id": 4361,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ropz (Gold) | Berlin 2019",
+    "gen_id": 4362,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "RpK | Berlin 2019",
+    "gen_id": 4333,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "RpK (Foil) | Berlin 2019",
+    "gen_id": 4334,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "RpK (Gold) | Berlin 2019",
+    "gen_id": 4335,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "s1mple | Berlin 2019",
+    "gen_id": 4192,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "s1mple (Foil) | Berlin 2019",
+    "gen_id": 4193,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "s1mple (Gold) | Berlin 2019",
+    "gen_id": 4194,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "SANJI | Berlin 2019",
+    "gen_id": 4306,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "SANJI (Foil) | Berlin 2019",
+    "gen_id": 4307,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "SANJI (Gold) | Berlin 2019",
+    "gen_id": 4308,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "sergej | Berlin 2019",
+    "gen_id": 4171,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "sergej (Foil) | Berlin 2019",
+    "gen_id": 4172,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "sergej (Gold) | Berlin 2019",
+    "gen_id": 4173,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ShahZaM | Berlin 2019",
+    "gen_id": 4273,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ShahZaM (Foil) | Berlin 2019",
+    "gen_id": 4274,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ShahZaM (Gold) | Berlin 2019",
+    "gen_id": 4275,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "shox | Berlin 2019",
+    "gen_id": 4312,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "shox (Foil) | Berlin 2019",
+    "gen_id": 4313,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "shox (Gold) | Berlin 2019",
+    "gen_id": 4314,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "SicK | Berlin 2019",
+    "gen_id": 4267,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "SicK (Foil) | Berlin 2019",
+    "gen_id": 4268,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "SicK (Gold) | Berlin 2019",
+    "gen_id": 4269,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Sico | Berlin 2019",
+    "gen_id": 4339,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Sico (Foil) | Berlin 2019",
+    "gen_id": 4340,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Sico (Gold) | Berlin 2019",
+    "gen_id": 4341,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "somebody | Berlin 2019",
+    "gen_id": 4402,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "somebody (Foil) | Berlin 2019",
+    "gen_id": 4403,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "somebody (Gold) | Berlin 2019",
+    "gen_id": 4404,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "speed4k | Berlin 2019",
+    "gen_id": 4486,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "speed4k (Foil) | Berlin 2019",
+    "gen_id": 4487,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "speed4k (Gold) | Berlin 2019",
+    "gen_id": 4488,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "stanislaw | Berlin 2019",
+    "gen_id": 4387,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "stanislaw (Foil) | Berlin 2019",
+    "gen_id": 4388,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "stanislaw (Gold) | Berlin 2019",
+    "gen_id": 4389,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Stewie2K | Berlin 2019",
+    "gen_id": 4237,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Stewie2K (Foil) | Berlin 2019",
+    "gen_id": 4238,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Stewie2K (Gold) | Berlin 2019",
+    "gen_id": 4239,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Summer | Berlin 2019",
+    "gen_id": 4399,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Summer (Foil) | Berlin 2019",
+    "gen_id": 4400,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Summer (Gold) | Berlin 2019",
+    "gen_id": 4401,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "svyat | Berlin 2019",
+    "gen_id": 4474,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "svyat (Foil) | Berlin 2019",
+    "gen_id": 4475,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "svyat (Gold) | Berlin 2019",
+    "gen_id": 4476,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "t0rick | Berlin 2019",
+    "gen_id": 4444,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "t0rick (Foil) | Berlin 2019",
+    "gen_id": 4445,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "t0rick (Gold) | Berlin 2019",
+    "gen_id": 4446,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "TACO | Berlin 2019",
+    "gen_id": 4183,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "TACO (Foil) | Berlin 2019",
+    "gen_id": 4184,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "TACO (Gold) | Berlin 2019",
+    "gen_id": 4185,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "tarik | Berlin 2019",
+    "gen_id": 4384,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "tarik (Foil) | Berlin 2019",
+    "gen_id": 4385,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "tarik (Gold) | Berlin 2019",
+    "gen_id": 4386,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Twistzz | Berlin 2019",
+    "gen_id": 4243,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Twistzz (Foil) | Berlin 2019",
+    "gen_id": 4244,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Twistzz (Gold) | Berlin 2019",
+    "gen_id": 4245,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "v4lde | Berlin 2019",
+    "gen_id": 4471,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "v4lde (Foil) | Berlin 2019",
+    "gen_id": 4472,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "v4lde (Gold) | Berlin 2019",
+    "gen_id": 4473,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "VINI | Berlin 2019",
+    "gen_id": 4414,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "VINI (Foil) | Berlin 2019",
+    "gen_id": 4415,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "VINI (Gold) | Berlin 2019",
+    "gen_id": 4416,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "woxic | Berlin 2019",
+    "gen_id": 4366,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "woxic (Foil) | Berlin 2019",
+    "gen_id": 4367,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "woxic (Gold) | Berlin 2019",
+    "gen_id": 4368,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "xand | Berlin 2019",
+    "gen_id": 4501,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "xand (Foil) | Berlin 2019",
+    "gen_id": 4502,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "xand (Gold) | Berlin 2019",
+    "gen_id": 4503,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "xsepower | Berlin 2019",
+    "gen_id": 4378,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "xsepower (Foil) | Berlin 2019",
+    "gen_id": 4379,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "xsepower (Gold) | Berlin 2019",
+    "gen_id": 4380,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "xseveN | Berlin 2019",
+    "gen_id": 4165,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "xseveN (Foil) | Berlin 2019",
+    "gen_id": 4166,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "xseveN (Gold) | Berlin 2019",
+    "gen_id": 4167,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Xyp9x | Berlin 2019",
+    "gen_id": 4150,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Xyp9x (Foil) | Berlin 2019",
+    "gen_id": 4151,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Xyp9x (Gold) | Berlin 2019",
+    "gen_id": 4152,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "yel | Berlin 2019",
+    "gen_id": 4495,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "yel (Foil) | Berlin 2019",
+    "gen_id": 4496,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "yel (Gold) | Berlin 2019",
+    "gen_id": 4497,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "yuurih | Berlin 2019",
+    "gen_id": 4426,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "yuurih (Foil) | Berlin 2019",
+    "gen_id": 4427,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "yuurih (Gold) | Berlin 2019",
+    "gen_id": 4428,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Zeus | Berlin 2019",
+    "gen_id": 4189,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Zeus (Foil) | Berlin 2019",
+    "gen_id": 4190,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Zeus (Gold) | Berlin 2019",
+    "gen_id": 4191,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ZywOo | Berlin 2019",
+    "gen_id": 4336,
+    "tournament": "Berlin 2019",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ZywOo (Foil) | Berlin 2019",
+    "gen_id": 4337,
+    "tournament": "Berlin 2019",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ZywOo (Gold) | Berlin 2019",
+    "gen_id": 4338,
+    "tournament": "Berlin 2019",
+    "rarity": "Extraordinary"
+  }
+
+]
