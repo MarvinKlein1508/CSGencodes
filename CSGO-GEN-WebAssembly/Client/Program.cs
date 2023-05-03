@@ -18,38 +18,21 @@ namespace CSGO_GEN_WebAssembly
             using var client = new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) };
             
             // Read all weapon data
-            var json_files = await client.GetFromJsonAsync<IList<string>>("/data/collections/index.json").ConfigureAwait(false);
-
-            if (json_files is not null)
+            var weapons = await client.GetFromJsonAsync<IList<Weapon>>("/data/collections.json").ConfigureAwait(false);
+            if (weapons is not null)
             {
-                foreach (var json_file in json_files)
-                {
-                    var weapons = await client.GetFromJsonAsync<IList<Weapon>>($"/data/collections/{json_file}");
-                    if (weapons is not null)
-                    {
-                        WeaponService._weapons.AddRange(weapons);
-                    }
-                }
+                WeaponService._weapons.AddRange(weapons);
             }
+
 
             // Read all sticker data
 
-            json_files = await client.GetFromJsonAsync<IList<string>>("/data/stickers/index.json").ConfigureAwait(false);
-
-            if (json_files is not null)
+            var stickers = await client.GetFromJsonAsync<IList<Sticker>>("/data/stickers.json").ConfigureAwait(false);
+            if (stickers is not null)
             {
-                foreach (var json_file in json_files)
-                {
-                    var stickers = await client.GetFromJsonAsync<IList<Sticker>>($"/data/stickers/{json_file}");
-                    if (stickers is not null)
-                    {
-                        StickerService._stickers.AddRange(stickers);
-                    }
-                }
+                StickerService._stickers.AddRange(stickers);
             }
-
-
-
+            
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
             builder.Services.AddScoped<WeaponService>();
             builder.Services.AddScoped<StickerService>();

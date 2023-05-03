@@ -16,13 +16,20 @@
     <ProjectReference Include="..\CSGO-GEN.Core\CSGO-GEN.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\data\collections.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\data\stickers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c $(Configuration)" />
+    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(ProjectDir)/wwwroot/data/&quot;" />
   </Target>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="mkdir &quot;$(TargetDir)/wwwroot/data/&quot;&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(TargetDir)/wwwroot/data/&quot;" />
-  </Target>
+
 
 
 
