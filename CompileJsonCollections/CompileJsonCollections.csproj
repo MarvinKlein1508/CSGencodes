@@ -112,6 +112,7 @@
     <None Remove="data\stickers\katowice2015.json" />
     <None Remove="data\stickers\katowice2019.json" />
     <None Remove="data\stickers\london2018.json" />
+    <None Remove="data\stickers\MLGColumbus2016.json" />
     <None Remove="data\stickers\OperationRiptide.json" />
     <None Remove="data\stickers\paris2023.json" />
     <None Remove="data\stickers\PerfectWorld1.json" />
@@ -445,6 +446,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\london2018.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\MLGColumbus2016.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\OperationRiptide.json">
