@@ -7,13 +7,14 @@ namespace CompileJsonCollections
     {
         static async Task Main(string[] args)
         {
+            string directory_to_copy = args.Length > 0 ? args[0] : string.Empty;
             // Load all stickers
-            await CompileJsonAsync<Sticker>("data/stickers", "stickers.json");
-            await CompileJsonAsync<Weapon>("data/collections", "collections.json");
+            await CompileJsonAsync<Sticker>("data/stickers", $"{directory_to_copy}stickers.json");
+            await CompileJsonAsync<Weapon>("data/collections", $"{directory_to_copy}collections.json");
 
             // Load all collections
 
-
+            Environment.Exit(0);
         }
 
         private static async Task CompileJsonAsync<T>(string directory, string compiledFileName) where T : IGenable
@@ -21,7 +22,7 @@ namespace CompileJsonCollections
             Console.WriteLine($"Start compiling: {directory} to {compiledFileName}");
             List<T> item_list = new List<T>();
 
-            var files = Directory.GetFiles(directory);
+            var files = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, directory));
             Console.WriteLine($"{files.Length} files found to compile!");
             foreach (var file in files)
             {

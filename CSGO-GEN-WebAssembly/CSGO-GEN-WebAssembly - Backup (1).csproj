@@ -17,11 +17,11 @@
   </ItemGroup>
 
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c $(Configuration)" />
+    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c Release" />
   </Target>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="mkdir &quot;$(TargetDir)/wwwroot/data/&quot;&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(TargetDir)/wwwroot/data/&quot;" />
+    <Exec Command="mkdir &quot;$(TargetDir)/wwwroot/data/&quot;&#xD;&#xA;call &quot;../CompileJsonCollections/bin/Release/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(TargetDir)/wwwroot/data/&quot;" />
   </Target>
 
 
