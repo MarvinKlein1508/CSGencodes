@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CSGO-GEN-WebAssembly.dll": "sha256-\/FmtlDiV76w1uPKXBsAG9v7seZLfpru8DffWvgSffsg=",
-      "CSGO-GEN.Core.dll": "sha256-69DppWIpiIHH42qOJJV014zXakBv0dI8G2ThijqqP7Q=",
+      "CSGO-GEN-WebAssembly.dll": "sha256-di5\/mkQoQH7kr6ncCtAo8blqmjX8vjOI1ksLzvW07v4=",
+      "CSGO-GEN.Core.dll": "sha256-YxXRRYexAlGiitaltit0dxLdp3T1uVoayNKKf43CtM8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-etIim4NwsFXx0XD3ChU4PGTP1e9wYhUT6umzsF67jfg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-CQuaWrSf9O4PtndknsO4wfnA0I\/ky0YyY8JXhqrKtcc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jZLGUNi\/PCnw9q3fv9CISkfeqzfFrPm143LIAsZYEO4=",
@@ -33,7 +33,7 @@
       "System.Net.Primitives.dll": "sha256-a68XgV2i81H9gMoKNXbzavP5yANqi01bC3BSaHvuPEU=",
       "System.Private.CoreLib.dll": "sha256-8noW0fIwTeJJHm0McEju0YPfEKgXb+8WZyQF5ajeGgY=",
       "System.Private.Uri.dll": "sha256-HO6+MKa2gtOfMPJ8SJ+4qsNZBo6o0oaMi9yYGl\/+3zk=",
-      "System.Runtime.dll": "sha256-h9w9j52Y1YBv70jxHUNw3HS40iWwN+6mzvD01DEPczs=",
+      "System.Runtime.dll": "sha256-z6F6vzvuaPCLsUfmYeg\/bl\/mAjkZjOqJXwZbiLZmjPI=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-nv4rwjDg2tmxOFctGNok+oj5ye\/coermKUG42BmKEwo=",
       "System.Text.Encodings.Web.dll": "sha256-UEjjfXMneHaPyug9JKLS2e67fa3O+GSBW4uCeGJTTLk=",
       "System.Text.Json.dll": "sha256-v5gJ4lDE6GHXa7ojtuBAEAXNkXys5EacXnzI1rCxGxs="
