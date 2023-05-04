@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Astralis | Atlanta 2017",
+    "gen_id": 1738,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Astralis (Holo) | Atlanta 2017",
+    "gen_id": 1739,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Astralis (Foil) | Atlanta 2017",
+    "gen_id": 1740,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Astralis (Gold) | Atlanta 2017",
+    "gen_id": 1741,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "SK Gaming | Atlanta 2017",
+    "gen_id": 1790,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "SK Gaming (Holo) | Atlanta 2017",
+    "gen_id": 1791,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "SK Gaming (Foil) | Atlanta 2017",
+    "gen_id": 1792,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "SK Gaming (Gold) | Atlanta 2017",
+    "gen_id": 1793,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "OpTic Gaming | Atlanta 2017",
+    "gen_id": 1786,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "OpTic Gaming (Holo) | Atlanta 2017",
+    "gen_id": 1787,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "OpTic Gaming (Foil) | Atlanta 2017",
+    "gen_id": 1788,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "OpTic Gaming (Gold) | Atlanta 2017",
+    "gen_id": 1789,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "FaZe Clan | Atlanta 2017",
+    "gen_id": 1746,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "FaZe Clan (Holo) | Atlanta 2017",
+    "gen_id": 1747,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "FaZe Clan (Foil) | Atlanta 2017",
+    "gen_id": 1748,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "FaZe Clan (Gold) | Atlanta 2017",
+    "gen_id": 1749,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "G2 Esports | Atlanta 2017",
+    "gen_id": 1758,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "G2 Esports (Holo) | Atlanta 2017",
+    "gen_id": 1759,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "G2 Esports (Foil) | Atlanta 2017",
+    "gen_id": 1760,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "G2 Esports (Gold) | Atlanta 2017",
+    "gen_id": 1761,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "GODSENT | Atlanta 2017",
+    "gen_id": 1766,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "GODSENT (Holo) | Atlanta 2017",
+    "gen_id": 1767,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "GODSENT (Foil) | Atlanta 2017",
+    "gen_id": 1768,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "GODSENT (Gold) | Atlanta 2017",
+    "gen_id": 1769,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "HellRaisers | Atlanta 2017",
+    "gen_id": 1770,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "HellRaisers (Holo) | Atlanta 2017",
+    "gen_id": 1771,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "HellRaisers (Foil) | Atlanta 2017",
+    "gen_id": 1772,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "HellRaisers (Gold) | Atlanta 2017",
+    "gen_id": 1773,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Gambit Gaming | Atlanta 2017",
+    "gen_id": 1762,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Gambit Gaming (Holo) | Atlanta 2017",
+    "gen_id": 1763,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Gambit Gaming (Foil) | Atlanta 2017",
+    "gen_id": 1764,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Gambit Gaming (Gold) | Atlanta 2017",
+    "gen_id": 1765,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Flipsid3 | Atlanta 2017",
+    "gen_id": 1750,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Flipsid3 (Holo) | Atlanta 2017",
+    "gen_id": 1751,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Flipsid3 (Foil) | Atlanta 2017",
+    "gen_id": 1752,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Flipsid3 (Gold) | Atlanta 2017",
+    "gen_id": 1753,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "mousesports | Atlanta 2017",
+    "gen_id": 1774,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "mousesports (Holo) | Atlanta 2017",
+    "gen_id": 1775,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "mousesports (Foil) | Atlanta 2017",
+    "gen_id": 1776,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "mousesports (Gold) | Atlanta 2017",
+    "gen_id": 1777,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Natus Vincere | Atlanta 2017",
+    "gen_id": 1778,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Natus Vincere (Holo) | Atlanta 2017",
+    "gen_id": 1779,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Natus Vincere (Foil) | Atlanta 2017",
+    "gen_id": 1780,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Natus Vincere (Gold) | Atlanta 2017",
+    "gen_id": 1781,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "North | Atlanta 2017",
+    "gen_id": 1782,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "North (Holo) | Atlanta 2017",
+    "gen_id": 1783,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "North (Foil) | Atlanta 2017",
+    "gen_id": 1784,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "North (Gold) | Atlanta 2017",
+    "gen_id": 1785,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Team Liquid | Atlanta 2017",
+    "gen_id": 1794,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Team Liquid (Holo) | Atlanta 2017",
+    "gen_id": 1795,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Team Liquid (Foil) | Atlanta 2017",
+    "gen_id": 1796,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Team Liquid (Gold) | Atlanta 2017",
+    "gen_id": 1797,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "bodyy | Atlanta 2017",
+    "gen_id": 2003,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "bodyy (Foil) | Atlanta 2017",
+    "gen_id": 2004,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "bodyy (Gold) | Atlanta 2017",
+    "gen_id": 2005,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "AdreN | Atlanta 2017",
+    "gen_id": 2045,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "AdreN (Foil) | Atlanta 2017",
+    "gen_id": 2046,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "AdreN (Gold) | Atlanta 2017",
+    "gen_id": 2047,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "B1ad3 | Atlanta 2017",
+    "gen_id": 1868,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "B1ad3 (Foil) | Atlanta 2017",
+    "gen_id": 1869,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "B1ad3 (Gold) | Atlanta 2017",
+    "gen_id": 1870,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "aizy | Atlanta 2017",
+    "gen_id": 1898,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "aizy (Foil) | Atlanta 2017",
+    "gen_id": 1899,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "aizy (Gold) | Atlanta 2017",
+    "gen_id": 1900,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "bondik | Atlanta 2017",
+    "gen_id": 1832,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "bondik (Foil) | Atlanta 2017",
+    "gen_id": 1833,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "bondik (Gold) | Atlanta 2017",
+    "gen_id": 1834,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "byali | Atlanta 2017",
+    "gen_id": 2048,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "byali (Foil) | Atlanta 2017",
+    "gen_id": 2049,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "byali (Gold) | Atlanta 2017",
+    "gen_id": 2050,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "allu | Atlanta 2017",
+    "gen_id": 1901,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "allu (Foil) | Atlanta 2017",
+    "gen_id": 1902,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "allu (Gold) | Atlanta 2017",
+    "gen_id": 1903,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "cajunb | Atlanta 2017",
+    "gen_id": 1973,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "cajunb (Foil) | Atlanta 2017",
+    "gen_id": 1974,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "cajunb (Gold) | Atlanta 2017",
+    "gen_id": 1975,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ANGE1 | Atlanta 2017",
+    "gen_id": 1835,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ANGE1 (Foil) | Atlanta 2017",
+    "gen_id": 1836,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ANGE1 (Gold) | Atlanta 2017",
+    "gen_id": 1837,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "apEX | Atlanta 2017",
+    "gen_id": 1853,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "apEX (Foil) | Atlanta 2017",
+    "gen_id": 1854,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "apEX (Gold) | Atlanta 2017",
+    "gen_id": 1855,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Edward | Atlanta 2017",
+    "gen_id": 1944,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Edward (Foil) | Atlanta 2017",
+    "gen_id": 1945,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Edward (Gold) | Atlanta 2017",
+    "gen_id": 1946,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "flusha | Atlanta 2017",
+    "gen_id": 1970,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "flusha (Foil) | Atlanta 2017",
+    "gen_id": 1971,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "flusha (Gold) | Atlanta 2017",
+    "gen_id": 1972,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Happy | Atlanta 2017",
+    "gen_id": 1856,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Happy (Foil) | Atlanta 2017",
+    "gen_id": 1857,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Happy (Gold) | Atlanta 2017",
+    "gen_id": 1858,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Hiko | Atlanta 2017",
+    "gen_id": 1997,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Hiko (Foil) | Atlanta 2017",
+    "gen_id": 1998,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Hiko (Gold) | Atlanta 2017",
+    "gen_id": 1999,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Hobbit | Atlanta 2017",
+    "gen_id": 2039,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Hobbit (Foil) | Atlanta 2017",
+    "gen_id": 2040,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Hobbit (Gold) | Atlanta 2017",
+    "gen_id": 2041,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "jdm64 | Atlanta 2017",
+    "gen_id": 1988,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "jdm64 (Foil) | Atlanta 2017",
+    "gen_id": 1989,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "jdm64 (Gold) | Atlanta 2017",
+    "gen_id": 1990,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "JW | Atlanta 2017",
+    "gen_id": 1967,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "JW (Foil) | Atlanta 2017",
+    "gen_id": 1968,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "JW (Gold) | Atlanta 2017",
+    "gen_id": 1969,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "k0nfig | Atlanta 2017",
+    "gen_id": 1985,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "k0nfig (Foil) | Atlanta 2017",
+    "gen_id": 1986,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "k0nfig (Gold) | Atlanta 2017",
+    "gen_id": 1987,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "denis | Atlanta 2017",
+    "gen_id": 1932,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "denis (Foil) | Atlanta 2017",
+    "gen_id": 1933,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "denis (Gold) | Atlanta 2017",
+    "gen_id": 1934,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "chrisJ | Atlanta 2017",
+    "gen_id": 1929,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "chrisJ (Foil) | Atlanta 2017",
+    "gen_id": 1930,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "chrisJ (Gold) | Atlanta 2017",
+    "gen_id": 1931,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "coldzera | Atlanta 2017",
+    "gen_id": 1914,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "coldzera (Foil) | Atlanta 2017",
+    "gen_id": 1915,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "coldzera (Gold) | Atlanta 2017",
+    "gen_id": 1916,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "kioShiMa | Atlanta 2017",
+    "gen_id": 1904,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "kioShiMa (Foil) | Atlanta 2017",
+    "gen_id": 1905,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "kioShiMa (Gold) | Atlanta 2017",
+    "gen_id": 1906,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "KRIMZ | Atlanta 2017",
+    "gen_id": 1889,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "KRIMZ (Foil) | Atlanta 2017",
+    "gen_id": 1890,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "KRIMZ (Gold) | Atlanta 2017",
+    "gen_id": 1891,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "markeloff | Atlanta 2017",
+    "gen_id": 1877,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "markeloff (Foil) | Atlanta 2017",
+    "gen_id": 1878,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "markeloff (Gold) | Atlanta 2017",
+    "gen_id": 1879,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "mixwell | Atlanta 2017",
+    "gen_id": 1841,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "mixwell (Foil) | Atlanta 2017",
+    "gen_id": 1842,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "mixwell (Gold) | Atlanta 2017",
+    "gen_id": 1843,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "MSL | Atlanta 2017",
+    "gen_id": 1976,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "MSL (Foil) | Atlanta 2017",
+    "gen_id": 1977,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "MSL (Gold) | Atlanta 2017",
+    "gen_id": 1978,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "pashaBiceps | Atlanta 2017",
+    "gen_id": 2054,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "pashaBiceps (Foil) | Atlanta 2017",
+    "gen_id": 2055,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "pashaBiceps (Gold) | Atlanta 2017",
+    "gen_id": 2056,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Pimp | Atlanta 2017",
+    "gen_id": 1994,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Pimp (Foil) | Atlanta 2017",
+    "gen_id": 1995,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Pimp (Gold) | Atlanta 2017",
+    "gen_id": 1996,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "pronax | Atlanta 2017",
+    "gen_id": 1964,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "pronax (Foil) | Atlanta 2017",
+    "gen_id": 1965,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "pronax (Gold) | Atlanta 2017",
+    "gen_id": 1966,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "RUBINO | Atlanta 2017",
+    "gen_id": 1982,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "RUBINO (Foil) | Atlanta 2017",
+    "gen_id": 1983,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "RUBINO (Gold) | Atlanta 2017",
+    "gen_id": 1984,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "RUSH | Atlanta 2017",
+    "gen_id": 1847,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "RUSH (Foil) | Atlanta 2017",
+    "gen_id": 1848,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "RUSH (Gold) | Atlanta 2017",
+    "gen_id": 1849,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "ScreaM | Atlanta 2017",
+    "gen_id": 2009,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "ScreaM (Foil) | Atlanta 2017",
+    "gen_id": 2010,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "ScreaM (Gold) | Atlanta 2017",
+    "gen_id": 2011,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "seized | Atlanta 2017",
+    "gen_id": 1952,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "seized (Foil) | Atlanta 2017",
+    "gen_id": 1953,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "seized (Gold) | Atlanta 2017",
+    "gen_id": 1954,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "SIXER | Atlanta 2017",
+    "gen_id": 1859,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "SIXER (Foil) | Atlanta 2017",
+    "gen_id": 1860,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "SIXER (Gold) | Atlanta 2017",
+    "gen_id": 1861,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "SmithZz | Atlanta 2017",
+    "gen_id": 2015,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "SmithZz (Foil) | Atlanta 2017",
+    "gen_id": 2016,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "SmithZz (Gold) | Atlanta 2017",
+    "gen_id": 2017,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Snax | Atlanta 2017",
+    "gen_id": 2057,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Snax (Foil) | Atlanta 2017",
+    "gen_id": 2058,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Snax (Gold) | Atlanta 2017",
+    "gen_id": 2059,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Spiidi | Atlanta 2017",
+    "gen_id": 1935,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Spiidi (Foil) | Atlanta 2017",
+    "gen_id": 1936,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Spiidi (Gold) | Atlanta 2017",
+    "gen_id": 1937,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "STYKO | Atlanta 2017",
+    "gen_id": 1823,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "STYKO (Foil) | Atlanta 2017",
+    "gen_id": 1824,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "STYKO (Gold) | Atlanta 2017",
+    "gen_id": 1825,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "TaZ | Atlanta 2017",
+    "gen_id": 2060,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "TaZ (Foil) | Atlanta 2017",
+    "gen_id": 2061,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "TaZ (Gold) | Atlanta 2017",
+    "gen_id": 2062,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "wayLander | Atlanta 2017",
+    "gen_id": 1871,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "wayLander (Foil) | Atlanta 2017",
+    "gen_id": 1872,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "wayLander (Gold) | Atlanta 2017",
+    "gen_id": 1873,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "WorldEdit | Atlanta 2017",
+    "gen_id": 1880,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "WorldEdit (Foil) | Atlanta 2017",
+    "gen_id": 1881,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "WorldEdit (Gold) | Atlanta 2017",
+    "gen_id": 1882,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Zero | Atlanta 2017",
+    "gen_id": 1826,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Zero (Foil) | Atlanta 2017",
+    "gen_id": 1827,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Zero (Gold) | Atlanta 2017",
+    "gen_id": 1828,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "znajder | Atlanta 2017",
+    "gen_id": 1958,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "znajder (Foil) | Atlanta 2017",
+    "gen_id": 1959,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "znajder (Gold) | Atlanta 2017",
+    "gen_id": 1960,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "gla1ve | Atlanta 2017",
+    "gen_id": 2018,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "gla1ve (Foil) | Atlanta 2017",
+    "gen_id": 2019,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "gla1ve (Gold) | Atlanta 2017",
+    "gen_id": 2020,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "GuardiaN | Atlanta 2017",
+    "gen_id": 1949,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "GuardiaN (Foil) | Atlanta 2017",
+    "gen_id": 1950,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "GuardiaN (Gold) | Atlanta 2017",
+    "gen_id": 1951,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "karrigan | Atlanta 2017",
+    "gen_id": 1911,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "karrigan (Foil) | Atlanta 2017",
+    "gen_id": 1912,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "karrigan (Gold) | Atlanta 2017",
+    "gen_id": 1913,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "kennyS | Atlanta 2017",
+    "gen_id": 1862,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "kennyS (Foil) | Atlanta 2017",
+    "gen_id": 1863,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "kennyS (Gold) | Atlanta 2017",
+    "gen_id": 1864,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Kjaerbye | Atlanta 2017",
+    "gen_id": 2027,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Kjaerbye (Foil) | Atlanta 2017",
+    "gen_id": 2028,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Kjaerbye (Gold) | Atlanta 2017",
+    "gen_id": 2029,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Lekr0 | Atlanta 2017",
+    "gen_id": 1961,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Lekr0 (Foil) | Atlanta 2017",
+    "gen_id": 1962,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Lekr0 (Gold) | Atlanta 2017",
+    "gen_id": 1963,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  }, 
+  {
+    "name": "loWel | Atlanta 2017",
+    "gen_id": 1937,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "loWel (Foil) | Atlanta 2017",
+    "gen_id": 1938,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "loWel (Gold) | Atlanta 2017",
+    "gen_id": 1939,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Magisk | Atlanta 2017",
+    "gen_id": 1979,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Magisk (Foil) | Atlanta 2017",
+    "gen_id": 1980,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Magisk (Gold) | Atlanta 2017",
+    "gen_id": 1981,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NAF | Atlanta 2017",
+    "gen_id": 1844,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NAF (Foil) | Atlanta 2017",
+    "gen_id": 1845,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NAF (Gold) | Atlanta 2017",
+    "gen_id": 1846,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NBK- | Atlanta 2017",
+    "gen_id": 1865,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NBK- (Foil) | Atlanta 2017",
+    "gen_id": 1866,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NBK- (Gold) | Atlanta 2017",
+    "gen_id": 1867,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NEO | Atlanta 2017",
+    "gen_id": 2051,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NEO (Foil) | Atlanta 2017",
+    "gen_id": 2052,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NEO (Gold) | Atlanta 2017",
+    "gen_id": 2053,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "NiKo | Atlanta 2017",
+    "gen_id": 1940,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "NiKo (Foil) | Atlanta 2017",
+    "gen_id": 1941,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "NiKo (Gold) | Atlanta 2017",
+    "gen_id": 1942,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "nitr0 | Atlanta 2017",
+    "gen_id": 2000,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "nitr0 (Foil) | Atlanta 2017",
+    "gen_id": 2001,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "nitr0 (Gold) | Atlanta 2017",
+    "gen_id": 2002,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "olofmeister | Atlanta 2017",
+    "gen_id": 1892,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "olofmeister (Foil) | Atlanta 2017",
+    "gen_id": 1893,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "olofmeister (Gold) | Atlanta 2017",
+    "gen_id": 1894,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "rain | Atlanta 2017",
+    "gen_id": 1907,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "rain (Foil) | Atlanta 2017",
+    "gen_id": 1908,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "rain (Gold) | Atlanta 2017",
+    "gen_id": 1909,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "RpK | Atlanta 2017",
+    "gen_id": 2006,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "RpK (Foil) | Atlanta 2017",
+    "gen_id": 2007,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "RpK (Gold) | Atlanta 2017",
+    "gen_id": 2008,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "s1mple | Atlanta 2017",
+    "gen_id": 1955,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "s1mple (Foil) | Atlanta 2017",
+    "gen_id": 1956,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "s1mple (Gold) | Atlanta 2017",
+    "gen_id": 1957,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "shox | Atlanta 2017",
+    "gen_id": 2012,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "shox (Foil) | Atlanta 2017",
+    "gen_id": 2013,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "shox (Gold) | Atlanta 2017",
+    "gen_id": 2014,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "stanislaw | Atlanta 2017",
+    "gen_id": 1850,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "stanislaw (Foil) | Atlanta 2017",
+    "gen_id": 1851,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "stanislaw (Gold) | Atlanta 2017",
+    "gen_id": 1852,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "TACO | Atlanta 2017",
+    "gen_id": 1925,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "TACO (Foil) | Atlanta 2017",
+    "gen_id": 1926,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "TACO (Gold) | Atlanta 2017",
+    "gen_id": 1927,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "tarik | Atlanta 2017",
+    "gen_id": 1838,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "tarik (Foil) | Atlanta 2017",
+    "gen_id": 1839,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "tarik (Gold) | Atlanta 2017",
+    "gen_id": 1840,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Xyp9x | Atlanta 2017",
+    "gen_id": 2030,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Xyp9x (Foil) | Atlanta 2017",
+    "gen_id": 2031,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Xyp9x (Gold) | Atlanta 2017",
+    "gen_id": 2032,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  {
+    "name": "Zeus | Atlanta 2017",
+    "gen_id": 2033,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Zeus (Foil) | Atlanta 2017",
+    "gen_id": 2034,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Zeus (Gold) | Atlanta 2017",
+    "gen_id": 2035,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  }
+]

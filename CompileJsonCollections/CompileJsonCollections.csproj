@@ -87,6 +87,7 @@
     <None Remove="data\stickers\10YearBirthday.json" />
     <None Remove="data\stickers\2021Community.json" />
     <None Remove="data\stickers\antwerp2022.json" />
+    <None Remove="data\stickers\Atlanta2017.json" />
     <None Remove="data\stickers\berlin2019.json" />
     <None Remove="data\stickers\Bestiary.json" />
     <None Remove="data\stickers\boston2018.json" />
@@ -111,6 +112,7 @@
     <None Remove="data\stickers\katowice2014.json" />
     <None Remove="data\stickers\katowice2015.json" />
     <None Remove="data\stickers\katowice2019.json" />
+    <None Remove="data\stickers\Krakow2017.json" />
     <None Remove="data\stickers\london2018.json" />
     <None Remove="data\stickers\MLGColumbus2016.json" />
     <None Remove="data\stickers\OperationRiptide.json" />
@@ -373,6 +375,9 @@
     <Content Include="data\stickers\antwerp2022.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="data\stickers\Atlanta2017.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="data\stickers\berlin2019.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -443,6 +448,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\katowice2019.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\Krakow2017.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\london2018.json">
