@@ -96,6 +96,7 @@
     <None Remove="data\stickers\Cluj-Napoca2015.json" />
     <None Remove="data\stickers\cologne2014.json" />
     <None Remove="data\stickers\cologne2015.json" />
+    <None Remove="data\stickers\Cologne2016.json" />
     <None Remove="data\stickers\Community2018.json" />
     <None Remove="data\stickers\CommunityHalloween2014.json" />
     <None Remove="data\stickers\CommunitySeries1.json" />
@@ -400,6 +401,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\cologne2015.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\Cologne2016.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Community2018.json">
