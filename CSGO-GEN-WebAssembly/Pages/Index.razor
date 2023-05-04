@@ -61,7 +61,7 @@
 
                     <h3 class="text-white">Selected stickers</h3>
 
-                    @foreach (var sticker in SelectedStickers)
+                    @foreach (var sticker in SelectedStickers.Reverse<AppliedSticker>())
                     {
                         <div class="selected-sticker">
                             <h5>@sticker.name</h5>
