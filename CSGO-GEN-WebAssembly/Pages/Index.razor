@@ -60,6 +60,11 @@
                     </div>
 
                     <h3 class="text-white">Selected stickers</h3>
+                    @if (SelectedStickers.Any())
+                    {
+                        <button type="button" class="btn btn-danger" @onclick="() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1)">Remove last sticker</button>
+                        <button type="button" class="btn btn-danger" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
+                    }
 
                     @foreach (var sticker in SelectedStickers.Reverse<AppliedSticker>())
                     {
@@ -73,11 +78,7 @@
                         </div>
                     }
 
-                    @if (SelectedStickers.Any())
-                    {
-                        <button type="button" class="btn btn-danger" @onclick="() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1)">Remove last sticker</button>
-                        <button type="button" class="btn btn-danger" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
-                    }
+                    
                 </div>
 
 
