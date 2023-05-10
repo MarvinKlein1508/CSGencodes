@@ -1,0 +1,12 @@
+[
+  {
+    "name": "P250 | X-Ray",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": false,
+    "weapon_id": 36,
+    "gen_id": 125,
+    "collection": "The X-Ray Collection",
+    "rarity": "Restricted"
+  }
+]
