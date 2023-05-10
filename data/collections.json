@@ -1595,6 +1595,17 @@
     "StickerSlotsAmount": 4
   },
   {
+    "name": "P250 | X-Ray",
+    "min_wear": 0,
+    "max_wear": 0.3,
+    "trade_up": false,
+    "weapon_id": 36,
+    "gen_id": 125,
+    "collection": "The X-Ray Collection",
+    "rarity": "Restricted",
+    "StickerSlotsAmount": 4
+  },
+  {
     "name": "XM1014 | Urban Perforated",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -9948,7 +9959,7 @@
     "min_wear": 0,
     "max_wear": 0.5,
     "trade_up": true,
-    "weapon_id": 36,
+    "weapon_id": 16,
     "gen_id": 928,
     "collection": "The 2021 Dust 2 Collection",
     "rarity": "Restricted",

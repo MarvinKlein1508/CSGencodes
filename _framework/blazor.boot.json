@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CSGO-GEN-WebAssembly.dll": "sha256-OSECDF9I3Ql3n7GpEwaQrYLoNGvJ0GGQbQTleSHdkuQ=",
+      "CSGO-GEN-WebAssembly.dll": "sha256-a0aVghxj3w3JhI6kNiSHxVd\/jgsUr7PqVSaUVp+UiFY=",
       "CSGO-GEN.Core.dll": "sha256-LI8eWLZQNJgJB8gJKz2mzDF6K+dqOKZjp0xxoQXLt\/Q=",
       "Microsoft.AspNetCore.Components.dll": "sha256-etIim4NwsFXx0XD3ChU4PGTP1e9wYhUT6umzsF67jfg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-CQuaWrSf9O4PtndknsO4wfnA0I\/ky0YyY8JXhqrKtcc=",
