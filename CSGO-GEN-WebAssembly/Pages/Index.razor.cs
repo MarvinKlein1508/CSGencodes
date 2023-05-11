@@ -1,5 +1,8 @@
 using CSGO_GEN.Core.Filters;
 using CSGO_GEN.Core.Models;
+using Microsoft.Extensions.Primitives;
+using System.Text;
+using System.Web;
 
 namespace CSGO_GEN_WebAssembly.Pages
 {
@@ -14,7 +17,7 @@ namespace CSGO_GEN_WebAssembly.Pages
 
         public List<AppliedSticker> SelectedStickers { get; set; } = new();
 
-        
+
         public decimal Float
         {
             get => _float;
@@ -70,6 +73,30 @@ namespace CSGO_GEN_WebAssembly.Pages
             {
                 SelectedStickers.Add(new AppliedSticker(sticker));
             }
+        }
+
+        /// <summary>
+        /// Generates a Steam Community Market URL which searchs for all skins with the selected stickers.
+        /// </summary>
+        /// <returns></returns>
+        private string GetSteamMarketUrl()
+        {
+            if (!SelectedStickers.Any())
+            {
+                return string.Empty;
+            }
+
+            StringBuilder sb = new();
+            sb.Append("https://steamcommunity.com/market/search?q=");
+
+            string query = HttpUtility.UrlEncode($"\"{string.Join(",", SelectedStickers.Select(x => x.name))}\"");
+
+            sb.Append(query);
+            sb.Append("&descriptions=1&category_730_ItemSet%5B%5D=any&category_730_Weapon%5B%5D=any&category_730_Quality%5B%5D=#p1_price_asc");
+
+            string url = sb.ToString();
+
+            return url;
         }
     }
 }
