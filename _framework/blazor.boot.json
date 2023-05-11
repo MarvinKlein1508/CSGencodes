@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CSGO-GEN-WebAssembly.dll": "sha256-a0aVghxj3w3JhI6kNiSHxVd\/jgsUr7PqVSaUVp+UiFY=",
+      "CSGO-GEN-WebAssembly.dll": "sha256-4t2it7lSLjUWCKs9K7+HXVk4QgES0dfe6DF0etnNJEU=",
       "CSGO-GEN.Core.dll": "sha256-LI8eWLZQNJgJB8gJKz2mzDF6K+dqOKZjp0xxoQXLt\/Q=",
       "Microsoft.AspNetCore.Components.dll": "sha256-etIim4NwsFXx0XD3ChU4PGTP1e9wYhUT6umzsF67jfg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-CQuaWrSf9O4PtndknsO4wfnA0I\/ky0YyY8JXhqrKtcc=",
@@ -26,17 +26,18 @@
       "System.Collections.Concurrent.dll": "sha256-Zj42sMw\/BvabVOhUT5V8OqQEpALrM+rELWpNM3tqDBE=",
       "System.Collections.dll": "sha256-R4OAKTZeCqU5b0r21IhrIVvHbIF\/I3FVY8ct2IL7ZfU=",
       "System.ComponentModel.dll": "sha256-nDL4uAnV8XjBp7HMR8402tCIjKLnxen\/fQEcevUyqXs=",
-      "System.Linq.dll": "sha256-GeMgqhEK6euBc3+9CbTPsfmrz0ZfycnHzJsmjzBM4qs=",
+      "System.Linq.dll": "sha256-Txr1EWcS68H4v28Y8J22kpJvlnrFlVhmTH5vRtnH6dQ=",
       "System.Memory.dll": "sha256-JXImOhG2oDuiRYqFJcwoBXPI04+Wgv9+8NqWpM0\/Mxo=",
       "System.Net.Http.dll": "sha256-UC2f\/U5Pqc0OVL38qmQGPSyN\/vZ9lcGgGpH2otH0bNU=",
       "System.Net.Http.Json.dll": "sha256-Bjqx0812F4ZXQprsEztfnRx2PY+vqztjaVZQbYPc2ls=",
       "System.Net.Primitives.dll": "sha256-voTFtlTk65vDMKp27+l6klBwL2L\/uEnrSfIHCdq+7Lg=",
-      "System.Private.CoreLib.dll": "sha256-L\/z4Emtrrm7NjVSHVk2xqBKr+BJLidOIVOKNDRipw0c=",
+      "System.Private.CoreLib.dll": "sha256-I9yKdCvnSZ4iAdvN8yKRa0y6WRJGHtTUa\/hTkEO52A8=",
       "System.Private.Uri.dll": "sha256-PLw10lv4mpyVkmZGKqzXvGWNTzXaMRjwr4YgsrS4Hd0=",
       "System.Runtime.dll": "sha256-bpAb1XW45FwVfx0WtJXR3+BVA+6tltNaJORSVrow7bA=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-9I2mFHhi\/4zjHBgFGOvdOTpQG2E6UrFCYUg6\/pEUgeo=",
       "System.Text.Encodings.Web.dll": "sha256-XtlYVeWX2Cmthln9DGs\/njEX2ESirU+jWiTWlpp2IKY=",
-      "System.Text.Json.dll": "sha256-DaYI2+e9uE7tV7G5oKLVScysRukuef4OTUW40SkaViA="
+      "System.Text.Json.dll": "sha256-DaYI2+e9uE7tV7G5oKLVScysRukuef4OTUW40SkaViA=",
+      "System.Web.HttpUtility.dll": "sha256-VY5POlT17EJE76R3GuG57s4czyz3p9fIVbJ\/xEC6AJs="
     },
     "extensions": null,
     "lazyAssembly": null,
