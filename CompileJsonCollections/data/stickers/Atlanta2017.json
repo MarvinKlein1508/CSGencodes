@@ -48,6 +48,31 @@
     "rarity": "Extraordinary"
   },
   {
+    "name": "Virtus.Pro | Atlanta 2017",
+    "gen_id": 1798,
+    "tournament": "Atlanta 2017",
+    "rarity": "HighGrade"
+  },
+  {
+    "name": "Virtus.Pro (Holo) | Atlanta 2017",
+    "gen_id": 1799,
+    "tournament": "Atlanta 2017",
+    "rarity": "Remarkable"
+  },
+  {
+    "name": "Virtus.Pro (Foil) | Atlanta 2017",
+    "gen_id": 1800,
+    "tournament": "Atlanta 2017",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Virtus.Pro (Gold) | Atlanta 2017",
+    "gen_id": 1801,
+    "tournament": "Atlanta 2017",
+    "rarity": "Extraordinary"
+  },
+  
+  {
     "name": "OpTic Gaming | Atlanta 2017",
     "gen_id": 1786,
     "tournament": "Atlanta 2017",
@@ -1192,7 +1217,7 @@
     "gen_id": 1963,
     "tournament": "Atlanta 2017",
     "rarity": "Extraordinary"
-  }, 
+  },
   {
     "name": "loWel | Atlanta 2017",
     "gen_id": 1937,
