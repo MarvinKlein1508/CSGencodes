@@ -3619,17 +3619,6 @@
     "StickerSlotsAmount": 4
   },
   {
-    "name": "USP-S | Torque",
-    "min_wear": 0,
-    "max_wear": 0.46,
-    "trade_up": true,
-    "weapon_id": 61,
-    "gen_id": 289,
-    "collection": "Falchion Collection",
-    "rarity": "Milspec",
-    "StickerSlotsAmount": 4
-  },
-  {
     "name": "Tec-9 | Sandstorm",
     "min_wear": 0.1,
     "max_wear": 0.7,
@@ -5803,6 +5792,17 @@
     "trade_up": true,
     "weapon_id": 24,
     "gen_id": 488,
+    "collection": "Falchion Collection",
+    "rarity": "Milspec",
+    "StickerSlotsAmount": 4
+  },
+  {
+    "name": "USP-S | Torque",
+    "min_wear": 0,
+    "max_wear": 0.46,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 489,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
     "StickerSlotsAmount": 4
