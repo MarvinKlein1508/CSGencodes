@@ -98,5 +98,47 @@ namespace CSGO_GEN_WebAssembly.Pages
 
             return url;
         }
+
+        private string GetCsgofloatUrl()
+        {
+            // Example: https://csgofloat.com/db?defIndex=7&paintIndex=282&min=0.1&max=0.7&stickers=%5B%7B%22i%22:%225015%22%7D,%7B%22i%22:%225015%22%7D,%7B%22i%22:%225015%22%7D,%7B%22i%22:%225015%22%7D%5D
+            StringBuilder sb = new();
+            sb.Append("https://csgofloat.com/db?");
+
+            List<string> parameters = new();
+
+            if (SelectedWeapon is not null)
+            {
+                parameters.Add($"defIndex={SelectedWeapon.weapon_id}");
+                parameters.Add($"paintIndex={SelectedWeapon.gen_id}");
+            }
+
+            if (SelectedStickers.Any())
+            {
+                // Example: [{"i":"5015"},{"i":"5015"},{"i":"5015"},{"i":"5015"}]
+                var stickers = SelectedStickers.Take(4);
+                List<string> sticker_values = new();
+                foreach (var sticker in stickers)
+                {
+                    sticker_values.Add($"{{\"i\":\"{sticker.gen_id}\"}}");
+                }
+
+
+                parameters.Add($"stickers=[{string.Join(",", sticker_values)}]");
+            }
+
+
+            if (!parameters.Any())
+            {
+                return string.Empty;
+            }
+
+            sb.Append(string.Join("&", parameters));
+
+            return sb.ToString();
+            
+
+
+        }
     }
 }
