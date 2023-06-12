@@ -12,18 +12,6 @@
   </Target>
 
   <ItemGroup>
-    <None Remove="stickers.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="stickers.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CSGO-GEN.Core\CSGO-GEN.Core.csproj" />
   </ItemGroup>
 
