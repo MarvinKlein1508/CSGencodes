@@ -1,5 +1,5 @@
 /* /Components/DisplaySticker.razor.rz.scp.css */
-.sticker[b-zmaw5wv4r3] {
+.sticker[b-8puwb53nm1] {
     background: none;
     padding: .75rem;
     display: block;
@@ -8,33 +8,33 @@
     margin-top: -1px;
 }
 
-    .sticker:is(:hover)[b-zmaw5wv4r3] {
+    .sticker:is(:hover)[b-8puwb53nm1] {
         background: #23232a;
     }
 
-.rarity-highgrade[b-zmaw5wv4r3] {
+.rarity-highgrade[b-8puwb53nm1] {
     color: #4b69ff;
 }
 
-.rarity-remarkable[b-zmaw5wv4r3] {
+.rarity-remarkable[b-8puwb53nm1] {
     color: #8847ff;
 }
 
-.rarity-exotic[b-zmaw5wv4r3] {
+.rarity-exotic[b-8puwb53nm1] {
     color: #d32ee6;
 }
 
-.rarity-extraordinary[b-zmaw5wv4r3] {
+.rarity-extraordinary[b-8puwb53nm1] {
     color: #eb4b4b;
 }
 
-.rarity-contraband[b-zmaw5wv4r3] {
+.rarity-contraband[b-8puwb53nm1] {
     color: #ffae39;
 }
 
 
 /* /Components/DisplayWeapon.razor.rz.scp.css */
-.weapon[b-k5v4lx2qkc] {
+.weapon[b-2ze5yo7wer] {
     background: none;
     padding: .75rem;
     display: block;
@@ -43,55 +43,55 @@
     margin-top: -1px;
 }
 
-    .weapon:is(:hover)[b-k5v4lx2qkc] {
+    .weapon:is(:hover)[b-2ze5yo7wer] {
         background: #23232a;
     }
     
 
 
-.rarity-consumer[b-k5v4lx2qkc] {
+.rarity-consumer[b-2ze5yo7wer] {
     color: #b0c3d9;
 }
 
-.rarity-industrial[b-k5v4lx2qkc] {
+.rarity-industrial[b-2ze5yo7wer] {
     color: #5e98d9;
 }
 
-.rarity-milspec[b-k5v4lx2qkc] {
+.rarity-milspec[b-2ze5yo7wer] {
     color: #4b69ff;
 }
 
-.rarity-restricted[b-k5v4lx2qkc] {
+.rarity-restricted[b-2ze5yo7wer] {
     color: #8847ff;
 }
 
-.rarity-classified[b-k5v4lx2qkc] {
+.rarity-classified[b-2ze5yo7wer] {
     color: #d32ee6;
 }
 
-.rarity-covert[b-k5v4lx2qkc] {
+.rarity-covert[b-2ze5yo7wer] {
     color: #eb4b4b;
 }
 
-.rarity-contraband[b-k5v4lx2qkc] {
+.rarity-contraband[b-2ze5yo7wer] {
     color: #ffae39;
 }
 /* /Components/MainLayout.razor.rz.scp.css */
-.page[b-wdy8epw9he] {
+.page[b-tvkf1k6cyt] {
     position: relative;
     display: flex;
     flex-direction: column;
 }
 
-main[b-wdy8epw9he] {
+main[b-tvkf1k6cyt] {
     flex: 1;
 }
 
-.sidebar[b-wdy8epw9he] {
+.sidebar[b-tvkf1k6cyt] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
-.top-row[b-wdy8epw9he] {
+.top-row[b-tvkf1k6cyt] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
@@ -100,99 +100,99 @@ main[b-wdy8epw9he] {
     align-items: center;
 }
 
-    .top-row[b-wdy8epw9he]  a, .top-row[b-wdy8epw9he]  .btn-link {
+    .top-row[b-tvkf1k6cyt]  a, .top-row[b-tvkf1k6cyt]  .btn-link {
         white-space: nowrap;
         margin-left: 1.5rem;
         text-decoration: none;
     }
 
-    .top-row[b-wdy8epw9he]  a:hover, .top-row[b-wdy8epw9he]  .btn-link:hover {
+    .top-row[b-tvkf1k6cyt]  a:hover, .top-row[b-tvkf1k6cyt]  .btn-link:hover {
         text-decoration: underline;
     }
 
-    .top-row[b-wdy8epw9he]  a:first-child {
+    .top-row[b-tvkf1k6cyt]  a:first-child {
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
 @media (max-width: 640.98px) {
-    .top-row:not(.auth)[b-wdy8epw9he] {
+    .top-row:not(.auth)[b-tvkf1k6cyt] {
         display: none;
     }
 
-    .top-row.auth[b-wdy8epw9he] {
+    .top-row.auth[b-tvkf1k6cyt] {
         justify-content: space-between;
     }
 
-    .top-row[b-wdy8epw9he]  a, .top-row[b-wdy8epw9he]  .btn-link {
+    .top-row[b-tvkf1k6cyt]  a, .top-row[b-tvkf1k6cyt]  .btn-link {
         margin-left: 0;
     }
 }
 
 @media (min-width: 641px) {
-    .page[b-wdy8epw9he] {
+    .page[b-tvkf1k6cyt] {
         flex-direction: row;
     }
 
-    .sidebar[b-wdy8epw9he] {
+    .sidebar[b-tvkf1k6cyt] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
 
-    .top-row[b-wdy8epw9he] {
+    .top-row[b-tvkf1k6cyt] {
         position: sticky;
         top: 0;
         z-index: 1;
     }
 
-    .top-row.auth[b-wdy8epw9he]  a:first-child {
+    .top-row.auth[b-tvkf1k6cyt]  a:first-child {
         flex: 1;
         text-align: right;
         width: 0;
     }
 
-    .top-row[b-wdy8epw9he], article[b-wdy8epw9he] {
+    .top-row[b-tvkf1k6cyt], article[b-tvkf1k6cyt] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
 }
 /* /Components/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-tvhnhyss25] {
+.navbar-toggler[b-km3ijxlol1] {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row[b-tvhnhyss25] {
+.top-row[b-km3ijxlol1] {
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
 }
 
-.navbar-brand[b-tvhnhyss25] {
+.navbar-brand[b-km3ijxlol1] {
     font-size: 1.1rem;
 }
 
-.oi[b-tvhnhyss25] {
+.oi[b-km3ijxlol1] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
     top: -2px;
 }
 
-.nav-item[b-tvhnhyss25] {
+.nav-item[b-km3ijxlol1] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-tvhnhyss25] {
+    .nav-item:first-of-type[b-km3ijxlol1] {
         padding-top: 1rem;
     }
 
-    .nav-item:last-of-type[b-tvhnhyss25] {
+    .nav-item:last-of-type[b-km3ijxlol1] {
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-tvhnhyss25]  a {
+    .nav-item[b-km3ijxlol1]  a {
         color: #d7d7d7;
         border-radius: 4px;
         height: 3rem;
@@ -201,27 +201,27 @@ main[b-wdy8epw9he] {
         line-height: 3rem;
     }
 
-.nav-item[b-tvhnhyss25]  a.active {
+.nav-item[b-km3ijxlol1]  a.active {
     background-color: rgba(255,255,255,0.25);
     color: white;
 }
 
-.nav-item[b-tvhnhyss25]  a:hover {
+.nav-item[b-km3ijxlol1]  a:hover {
     background-color: rgba(255,255,255,0.1);
     color: white;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-tvhnhyss25] {
+    .navbar-toggler[b-km3ijxlol1] {
         display: none;
     }
 
-    .collapse[b-tvhnhyss25] {
+    .collapse[b-km3ijxlol1] {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
     
-    .nav-scrollable[b-tvhnhyss25] {
+    .nav-scrollable[b-km3ijxlol1] {
         /* Allow sidebar to scroll for tall menus */
         height: calc(100vh - 3.5rem);
         overflow-y: auto;
