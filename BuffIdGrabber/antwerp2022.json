@@ -1,0 +1,4802 @@
+[
+  {
+    "name": "Heroic | Antwerp 2022",
+    "gen_id": 5271,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894108,
+    "BuffStickerId": 16630
+  },
+  {
+    "name": "Heroic (Glitter) | Antwerp 2022",
+    "gen_id": 5272,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894279,
+    "BuffStickerId": 16704
+  },
+  {
+    "name": "Heroic (Holo) | Antwerp 2022",
+    "gen_id": 5273,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894259,
+    "BuffStickerId": 16685
+  },
+  {
+    "name": "Heroic (Gold) | Antwerp 2022",
+    "gen_id": 5274,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894414,
+    "BuffStickerId": 16819
+  },
+  {
+    "name": "Copenhagen Flames | Antwerp 2022",
+    "gen_id": 5275,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894134,
+    "BuffStickerId": 16643
+  },
+  {
+    "name": "Copenhagen Flames (Glitter) | Antwerp 2022",
+    "gen_id": 5276,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Copenhagen Flames (Holo) | Antwerp 2022",
+    "gen_id": 5277,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Copenhagen Flames (Gold) | Antwerp 2022",
+    "gen_id": 5278,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "BIG | Antwerp 2022",
+    "gen_id": 5279,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "BIG (Glitter) | Antwerp 2022",
+    "gen_id": 5280,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894130,
+    "BuffStickerId": 16639
+  },
+  {
+    "name": "BIG (Holo) | Antwerp 2022",
+    "gen_id": 5281,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894131,
+    "BuffStickerId": 16640
+  },
+  {
+    "name": "BIG (Gold) | Antwerp 2022",
+    "gen_id": 5282,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894165,
+    "BuffStickerId": 16669
+  },
+  {
+    "name": "Cloud9 | Antwerp 2022",
+    "gen_id": 5283,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Cloud9 (Glitter) | Antwerp 2022",
+    "gen_id": 5284,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Cloud9 (Holo) | Antwerp 2022",
+    "gen_id": 5285,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894316,
+    "BuffStickerId": 16732
+  },
+  {
+    "name": "Cloud9 (Gold) | Antwerp 2022",
+    "gen_id": 5286,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FURIA | Antwerp 2022",
+    "gen_id": 5287,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894110,
+    "BuffStickerId": 16632
+  },
+  {
+    "name": "FURIA (Glitter) | Antwerp 2022",
+    "gen_id": 5288,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FURIA (Holo) | Antwerp 2022",
+    "gen_id": 5289,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894182,
+    "BuffStickerId": 16680
+  },
+  {
+    "name": "FURIA (Gold) | Antwerp 2022",
+    "gen_id": 5290,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894330,
+    "BuffStickerId": 16745
+  },
+  {
+    "name": "FaZe Clan | Antwerp 2022",
+    "gen_id": 5291,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FaZe Clan (Glitter) | Antwerp 2022",
+    "gen_id": 5292,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894147,
+    "BuffStickerId": 16655
+  },
+  {
+    "name": "FaZe Clan (Holo) | Antwerp 2022",
+    "gen_id": 5293,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894178,
+    "BuffStickerId": 16676
+  },
+  {
+    "name": "FaZe Clan (Gold) | Antwerp 2022",
+    "gen_id": 5294,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894457,
+    "BuffStickerId": 17253
+  },
+  {
+    "name": "Ninjas in Pyjamas | Antwerp 2022",
+    "gen_id": 5295,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894101,
+    "BuffStickerId": 16623
+  },
+  {
+    "name": "Ninjas in Pyjamas (Glitter) | Antwerp 2022",
+    "gen_id": 5296,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894113,
+    "BuffStickerId": 16633
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | Antwerp 2022",
+    "gen_id": 5297,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894144,
+    "BuffStickerId": 16652
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | Antwerp 2022",
+    "gen_id": 5298,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894114,
+    "BuffStickerId": 16634
+  },
+  {
+    "name": "Natus Vincere | Antwerp 2022",
+    "gen_id": 5299,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894109,
+    "BuffStickerId": 16631
+  },
+  {
+    "name": "Natus Vincere (Glitter) | Antwerp 2022",
+    "gen_id": 5300,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Natus Vincere (Holo) | Antwerp 2022",
+    "gen_id": 5301,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894280,
+    "BuffStickerId": 16705
+  },
+  {
+    "name": "Natus Vincere (Gold) | Antwerp 2022",
+    "gen_id": 5302,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894329,
+    "BuffStickerId": 16744
+  },
+  {
+    "name": "ENCE | Antwerp 2022",
+    "gen_id": 5303,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "ENCE (Glitter) | Antwerp 2022",
+    "gen_id": 5304,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894104,
+    "BuffStickerId": 16626
+  },
+  {
+    "name": "ENCE (Holo) | Antwerp 2022",
+    "gen_id": 5305,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "ENCE (Gold) | Antwerp 2022",
+    "gen_id": 5306,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "G2 Esports | Antwerp 2022",
+    "gen_id": 5307,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894080,
+    "BuffStickerId": 16617
+  },
+  {
+    "name": "G2 Esports (Glitter) | Antwerp 2022",
+    "gen_id": 5308,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894103,
+    "BuffStickerId": 16625
+  },
+  {
+    "name": "G2 Esports (Holo) | Antwerp 2022",
+    "gen_id": 5309,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "G2 Esports (Gold) | Antwerp 2022",
+    "gen_id": 5310,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895363,
+    "BuffStickerId": 17241
+  },
+  {
+    "name": "forZe eSports | Antwerp 2022",
+    "gen_id": 5311,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894175,
+    "BuffStickerId": 16673
+  },
+  {
+    "name": "forZe eSports (Glitter) | Antwerp 2022",
+    "gen_id": 5312,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894380,
+    "BuffStickerId": 16788
+  },
+  {
+    "name": "forZe eSports (Holo) | Antwerp 2022",
+    "gen_id": 5313,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895334,
+    "BuffStickerId": 16922
+  },
+  {
+    "name": "forZe eSports (Gold) | Antwerp 2022",
+    "gen_id": 5314,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Astralis | Antwerp 2022",
+    "gen_id": 5315,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894299,
+    "BuffStickerId": 16716
+  },
+  {
+    "name": "Astralis (Glitter) | Antwerp 2022",
+    "gen_id": 5316,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894234,
+    "BuffStickerId": 16681
+  },
+  {
+    "name": "Astralis (Holo) | Antwerp 2022",
+    "gen_id": 5317,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895361,
+    "BuffStickerId": 16947
+  },
+  {
+    "name": "Astralis (Gold) | Antwerp 2022",
+    "gen_id": 5318,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894335,
+    "BuffStickerId": 17238
+  },
+  {
+    "name": "Vitality | Antwerp 2022",
+    "gen_id": 5319,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894376,
+    "BuffStickerId": 16785
+  },
+  {
+    "name": "Vitality (Glitter) | Antwerp 2022",
+    "gen_id": 5320,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Vitality (Holo) | Antwerp 2022",
+    "gen_id": 5321,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894106,
+    "BuffStickerId": 17245
+  },
+  {
+    "name": "Vitality (Gold) | Antwerp 2022",
+    "gen_id": 5322,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "MIBR | Antwerp 2022",
+    "gen_id": 5323,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894102,
+    "BuffStickerId": 16624
+  },
+  {
+    "name": "MIBR (Glitter) | Antwerp 2022",
+    "gen_id": 5324,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "MIBR (Holo) | Antwerp 2022",
+    "gen_id": 5325,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "MIBR (Gold) | Antwerp 2022",
+    "gen_id": 5326,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895402,
+    "BuffStickerId": 17266
+  },
+  {
+    "name": "Imperial Esports | Antwerp 2022",
+    "gen_id": 5327,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894079,
+    "BuffStickerId": 16616
+  },
+  {
+    "name": "Imperial Esports (Glitter) | Antwerp 2022",
+    "gen_id": 5328,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Imperial Esports (Holo) | Antwerp 2022",
+    "gen_id": 5329,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Imperial Esports (Gold) | Antwerp 2022",
+    "gen_id": 5330,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894368,
+    "BuffStickerId": 17243
+  },
+  {
+    "name": "Bad News Eagles | Antwerp 2022",
+    "gen_id": 5331,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Bad News Eagles (Glitter) | Antwerp 2022",
+    "gen_id": 5332,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894320,
+    "BuffStickerId": 16735
+  },
+  {
+    "name": "Bad News Eagles (Holo) | Antwerp 2022",
+    "gen_id": 5333,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895411,
+    "BuffStickerId": 16993
+  },
+  {
+    "name": "Bad News Eagles (Gold) | Antwerp 2022",
+    "gen_id": 5334,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895292,
+    "BuffStickerId": 16890
+  },
+  {
+    "name": "Eternal Fire | Antwerp 2022",
+    "gen_id": 5335,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894135,
+    "BuffStickerId": 16644
+  },
+  {
+    "name": "Eternal Fire (Glitter) | Antwerp 2022",
+    "gen_id": 5336,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Eternal Fire (Holo) | Antwerp 2022",
+    "gen_id": 5337,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894364,
+    "BuffStickerId": 16774
+  },
+  {
+    "name": "Eternal Fire (Gold) | Antwerp 2022",
+    "gen_id": 5338,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894437,
+    "BuffStickerId": 16838
+  },
+  {
+    "name": "Team Spirit | Antwerp 2022",
+    "gen_id": 5339,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894168,
+    "BuffStickerId": 16670
+  },
+  {
+    "name": "Team Spirit (Glitter) | Antwerp 2022",
+    "gen_id": 5340,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Team Spirit (Holo) | Antwerp 2022",
+    "gen_id": 5341,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894441,
+    "BuffStickerId": 16842
+  },
+  {
+    "name": "Team Spirit (Gold) | Antwerp 2022",
+    "gen_id": 5342,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Outsiders | Antwerp 2022",
+    "gen_id": 5343,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894099,
+    "BuffStickerId": 16622
+  },
+  {
+    "name": "Outsiders (Glitter) | Antwerp 2022",
+    "gen_id": 5344,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Outsiders (Holo) | Antwerp 2022",
+    "gen_id": 5345,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894298,
+    "BuffStickerId": 16715
+  },
+  {
+    "name": "Outsiders (Gold) | Antwerp 2022",
+    "gen_id": 5346,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895311,
+    "BuffStickerId": 16902
+  },
+  {
+    "name": "Complexity Gaming | Antwerp 2022",
+    "gen_id": 5347,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894179,
+    "BuffStickerId": 16677
+  },
+  {
+    "name": "Complexity Gaming (Glitter) | Antwerp 2022",
+    "gen_id": 5348,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Complexity Gaming (Holo) | Antwerp 2022",
+    "gen_id": 5349,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894353,
+    "BuffStickerId": 16766
+  },
+  {
+    "name": "Complexity Gaming (Gold) | Antwerp 2022",
+    "gen_id": 5350,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "IHC Esports | Antwerp 2022",
+    "gen_id": 5351,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "IHC Esports (Glitter) | Antwerp 2022",
+    "gen_id": 5352,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894263,
+    "BuffStickerId": 16689
+  },
+  {
+    "name": "IHC Esports (Holo) | Antwerp 2022",
+    "gen_id": 5353,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894407,
+    "BuffStickerId": 16812
+  },
+  {
+    "name": "IHC Esports (Gold) | Antwerp 2022",
+    "gen_id": 5354,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895427,
+    "BuffStickerId": 17008
+  },
+  {
+    "name": "Renegades | Antwerp 2022",
+    "gen_id": 5355,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894151,
+    "BuffStickerId": 16659
+  },
+  {
+    "name": "Renegades (Glitter) | Antwerp 2022",
+    "gen_id": 5356,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894176,
+    "BuffStickerId": 16674
+  },
+  {
+    "name": "Renegades (Holo) | Antwerp 2022",
+    "gen_id": 5357,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894354,
+    "BuffStickerId": 16767
+  },
+  {
+    "name": "Renegades (Gold) | Antwerp 2022",
+    "gen_id": 5358,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895432,
+    "BuffStickerId": 17013
+  },
+  {
+    "name": "Team Liquid | Antwerp 2022",
+    "gen_id": 5359,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894082,
+    "BuffStickerId": 16619
+  },
+  {
+    "name": "Team Liquid (Glitter) | Antwerp 2022",
+    "gen_id": 5360,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Team Liquid (Holo) | Antwerp 2022",
+    "gen_id": 5361,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895343,
+    "BuffStickerId": 16931
+  },
+  {
+    "name": "Team Liquid (Gold) | Antwerp 2022",
+    "gen_id": 5362,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894314,
+    "BuffStickerId": 16730
+  },
+  {
+    "name": "9z Team | Antwerp 2022",
+    "gen_id": 5363,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894107,
+    "BuffStickerId": 16629
+  },
+  {
+    "name": "9z Team (Glitter) | Antwerp 2022",
+    "gen_id": 5364,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "9z Team (Holo) | Antwerp 2022",
+    "gen_id": 5365,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894383,
+    "BuffStickerId": 16791
+  },
+  {
+    "name": "9z Team (Gold) | Antwerp 2022",
+    "gen_id": 5366,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "PGL | Antwerp 2022",
+    "gen_id": 5367,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894081,
+    "BuffStickerId": 16618
+  },
+  {
+    "name": "PGL (Glitter) | Antwerp 2022",
+    "gen_id": 5368,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "PGL (Holo) | Antwerp 2022",
+    "gen_id": 5369,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894310,
+    "BuffStickerId": 16726
+  },
+  {
+    "name": "PGL (Gold) | Antwerp 2022",
+    "gen_id": 5370,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "stavn | Antwerp 2022",
+    "gen_id": 5396,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894262,
+    "BuffStickerId": 16688
+  },
+  {
+    "name": "stavn (Glitter) | Antwerp 2022",
+    "gen_id": 5397,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895378,
+    "BuffStickerId": 16963
+  },
+  {
+    "name": "stavn (Holo) | Antwerp 2022",
+    "gen_id": 5398,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895425,
+    "BuffStickerId": 17006
+  },
+  {
+    "name": "stavn (Gold) | Antwerp 2022",
+    "gen_id": 5399,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895552,
+    "BuffStickerId": 17287
+  },
+  {
+    "name": "cadiaN | Antwerp 2022",
+    "gen_id": 5400,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894311,
+    "BuffStickerId": 16727
+  },
+  {
+    "name": "cadiaN (Glitter) | Antwerp 2022",
+    "gen_id": 5401,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894287,
+    "BuffStickerId": 16711
+  },
+  {
+    "name": "cadiaN (Holo) | Antwerp 2022",
+    "gen_id": 5402,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894391,
+    "BuffStickerId": 16798
+  },
+  {
+    "name": "cadiaN (Gold) | Antwerp 2022",
+    "gen_id": 5403,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895484,
+    "BuffStickerId": 17057
+  },
+  {
+    "name": "TeSeS | Antwerp 2022",
+    "gen_id": 5404,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894264,
+    "BuffStickerId": 16690
+  },
+  {
+    "name": "TeSeS (Glitter) | Antwerp 2022",
+    "gen_id": 5405,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "TeSeS (Holo) | Antwerp 2022",
+    "gen_id": 5406,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894408,
+    "BuffStickerId": 16813
+  },
+  {
+    "name": "TeSeS (Gold) | Antwerp 2022",
+    "gen_id": 5407,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895429,
+    "BuffStickerId": 17010
+  },
+  {
+    "name": "refrezh | Antwerp 2022",
+    "gen_id": 5408,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "refrezh (Glitter) | Antwerp 2022",
+    "gen_id": 5409,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895349,
+    "BuffStickerId": 16937
+  },
+  {
+    "name": "refrezh (Holo) | Antwerp 2022",
+    "gen_id": 5410,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895373,
+    "BuffStickerId": 16958
+  },
+  {
+    "name": "refrezh (Gold) | Antwerp 2022",
+    "gen_id": 5411,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sjuush | Antwerp 2022",
+    "gen_id": 5412,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894266,
+    "BuffStickerId": 16692
+  },
+  {
+    "name": "sjuush (Glitter) | Antwerp 2022",
+    "gen_id": 5413,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895394,
+    "BuffStickerId": 16978
+  },
+  {
+    "name": "sjuush (Holo) | Antwerp 2022",
+    "gen_id": 5414,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894433,
+    "BuffStickerId": 16835
+  },
+  {
+    "name": "sjuush (Gold) | Antwerp 2022",
+    "gen_id": 5415,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895602,
+    "BuffStickerId": 17144
+  },
+  {
+    "name": "roeJ | Antwerp 2022",
+    "gen_id": 5416,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894267,
+    "BuffStickerId": 16693
+  },
+  {
+    "name": "roeJ (Glitter) | Antwerp 2022",
+    "gen_id": 5417,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894402,
+    "BuffStickerId": 16808
+  },
+  {
+    "name": "roeJ (Holo) | Antwerp 2022",
+    "gen_id": 5418,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895415,
+    "BuffStickerId": 16997
+  },
+  {
+    "name": "roeJ (Gold) | Antwerp 2022",
+    "gen_id": 5419,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895547,
+    "BuffStickerId": 17285
+  },
+  {
+    "name": "Zyphon | Antwerp 2022",
+    "gen_id": 5420,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894173,
+    "BuffStickerId": 16671
+  },
+  {
+    "name": "Zyphon (Glitter) | Antwerp 2022",
+    "gen_id": 5421,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894347,
+    "BuffStickerId": 16760
+  },
+  {
+    "name": "Zyphon (Holo) | Antwerp 2022",
+    "gen_id": 5422,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895416,
+    "BuffStickerId": 16998
+  },
+  {
+    "name": "Zyphon (Gold) | Antwerp 2022",
+    "gen_id": 5423,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895428,
+    "BuffStickerId": 17268
+  },
+  {
+    "name": "HooXi | Antwerp 2022",
+    "gen_id": 5424,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894271,
+    "BuffStickerId": 16697
+  },
+  {
+    "name": "HooXi (Glitter) | Antwerp 2022",
+    "gen_id": 5425,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894438,
+    "BuffStickerId": 16839
+  },
+  {
+    "name": "HooXi (Holo) | Antwerp 2022",
+    "gen_id": 5426,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895452,
+    "BuffStickerId": 17025
+  },
+  {
+    "name": "HooXi (Gold) | Antwerp 2022",
+    "gen_id": 5427,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895296,
+    "BuffStickerId": 16894
+  },
+  {
+    "name": "jabbi | Antwerp 2022",
+    "gen_id": 5428,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "jabbi (Glitter) | Antwerp 2022",
+    "gen_id": 5429,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894431,
+    "BuffStickerId": 16833
+  },
+  {
+    "name": "jabbi (Holo) | Antwerp 2022",
+    "gen_id": 5430,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895384,
+    "BuffStickerId": 16968
+  },
+  {
+    "name": "jabbi (Gold) | Antwerp 2022",
+    "gen_id": 5431,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895450,
+    "BuffStickerId": 17023
+  },
+  {
+    "name": "nicoodoz | Antwerp 2022",
+    "gen_id": 5432,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894288,
+    "BuffStickerId": 16712
+  },
+  {
+    "name": "nicoodoz (Glitter) | Antwerp 2022",
+    "gen_id": 5433,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894313,
+    "BuffStickerId": 16729
+  },
+  {
+    "name": "nicoodoz (Holo) | Antwerp 2022",
+    "gen_id": 5434,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895493,
+    "BuffStickerId": 17064
+  },
+  {
+    "name": "nicoodoz (Gold) | Antwerp 2022",
+    "gen_id": 5435,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895555,
+    "BuffStickerId": 17104
+  },
+  {
+    "name": "tabseN | Antwerp 2022",
+    "gen_id": 5436,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894326,
+    "BuffStickerId": 16741
+  },
+  {
+    "name": "tabseN (Glitter) | Antwerp 2022",
+    "gen_id": 5437,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895259,
+    "BuffStickerId": 16868
+  },
+  {
+    "name": "tabseN (Holo) | Antwerp 2022",
+    "gen_id": 5438,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894467,
+    "BuffStickerId": 17255
+  },
+  {
+    "name": "tabseN (Gold) | Antwerp 2022",
+    "gen_id": 5439,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895430,
+    "BuffStickerId": 17269
+  },
+  {
+    "name": "tiziaN | Antwerp 2022",
+    "gen_id": 5440,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894393,
+    "BuffStickerId": 16800
+  },
+  {
+    "name": "tiziaN (Glitter) | Antwerp 2022",
+    "gen_id": 5441,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895315,
+    "BuffStickerId": 16906
+  },
+  {
+    "name": "tiziaN (Holo) | Antwerp 2022",
+    "gen_id": 5442,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895444,
+    "BuffStickerId": 17017
+  },
+  {
+    "name": "tiziaN (Gold) | Antwerp 2022",
+    "gen_id": 5443,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895536,
+    "BuffStickerId": 17087
+  },
+  {
+    "name": "faveN | Antwerp 2022",
+    "gen_id": 5444,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894352,
+    "BuffStickerId": 16765
+  },
+  {
+    "name": "faveN (Glitter) | Antwerp 2022",
+    "gen_id": 5445,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894411,
+    "BuffStickerId": 16816
+  },
+  {
+    "name": "faveN (Holo) | Antwerp 2022",
+    "gen_id": 5446,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895350,
+    "BuffStickerId": 16938
+  },
+  {
+    "name": "faveN (Gold) | Antwerp 2022",
+    "gen_id": 5447,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Krimbo | Antwerp 2022",
+    "gen_id": 5448,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894284,
+    "BuffStickerId": 16708
+  },
+  {
+    "name": "Krimbo (Glitter) | Antwerp 2022",
+    "gen_id": 5449,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894324,
+    "BuffStickerId": 16739
+  },
+  {
+    "name": "Krimbo (Holo) | Antwerp 2022",
+    "gen_id": 5450,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895375,
+    "BuffStickerId": 16960
+  },
+  {
+    "name": "Krimbo (Gold) | Antwerp 2022",
+    "gen_id": 5451,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894156,
+    "BuffStickerId": 17246
+  },
+  {
+    "name": "syrsoN | Antwerp 2022",
+    "gen_id": 5452,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894309,
+    "BuffStickerId": 16725
+  },
+  {
+    "name": "syrsoN (Glitter) | Antwerp 2022",
+    "gen_id": 5453,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894361,
+    "BuffStickerId": 16771
+  },
+  {
+    "name": "syrsoN (Holo) | Antwerp 2022",
+    "gen_id": 5454,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "syrsoN (Gold) | Antwerp 2022",
+    "gen_id": 5455,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895342,
+    "BuffStickerId": 16930
+  },
+  {
+    "name": "interz | Antwerp 2022",
+    "gen_id": 5456,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894315,
+    "BuffStickerId": 16731
+  },
+  {
+    "name": "interz (Glitter) | Antwerp 2022",
+    "gen_id": 5457,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894261,
+    "BuffStickerId": 16687
+  },
+  {
+    "name": "interz (Holo) | Antwerp 2022",
+    "gen_id": 5458,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895337,
+    "BuffStickerId": 16925
+  },
+  {
+    "name": "interz (Gold) | Antwerp 2022",
+    "gen_id": 5459,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sh1ro | Antwerp 2022",
+    "gen_id": 5460,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894282,
+    "BuffStickerId": 16707
+  },
+  {
+    "name": "sh1ro (Glitter) | Antwerp 2022",
+    "gen_id": 5461,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894325,
+    "BuffStickerId": 16740
+  },
+  {
+    "name": "sh1ro (Holo) | Antwerp 2022",
+    "gen_id": 5462,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sh1ro (Gold) | Antwerp 2022",
+    "gen_id": 5463,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895513,
+    "BuffStickerId": 17281
+  },
+  {
+    "name": "nafany | Antwerp 2022",
+    "gen_id": 5464,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894328,
+    "BuffStickerId": 16743
+  },
+  {
+    "name": "nafany (Glitter) | Antwerp 2022",
+    "gen_id": 5465,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894409,
+    "BuffStickerId": 16814
+  },
+  {
+    "name": "nafany (Holo) | Antwerp 2022",
+    "gen_id": 5466,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895453,
+    "BuffStickerId": 17026
+  },
+  {
+    "name": "nafany (Gold) | Antwerp 2022",
+    "gen_id": 5467,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895557,
+    "BuffStickerId": 17106
+  },
+  {
+    "name": "Ax1Le | Antwerp 2022",
+    "gen_id": 5468,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894260,
+    "BuffStickerId": 16686
+  },
+  {
+    "name": "Ax1Le (Glitter) | Antwerp 2022",
+    "gen_id": 5469,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Ax1Le (Holo) | Antwerp 2022",
+    "gen_id": 5470,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895380,
+    "BuffStickerId": 16965
+  },
+  {
+    "name": "Ax1Le (Gold) | Antwerp 2022",
+    "gen_id": 5471,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895592,
+    "BuffStickerId": 17140
+  },
+  {
+    "name": "Hobbit | Antwerp 2022",
+    "gen_id": 5472,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Hobbit (Glitter) | Antwerp 2022",
+    "gen_id": 5473,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894331,
+    "BuffStickerId": 16746
+  },
+  {
+    "name": "Hobbit (Holo) | Antwerp 2022",
+    "gen_id": 5474,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894466,
+    "BuffStickerId": 16865
+  },
+  {
+    "name": "Hobbit (Gold) | Antwerp 2022",
+    "gen_id": 5475,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895489,
+    "BuffStickerId": 17062
+  },
+  {
+    "name": "yuurih | Antwerp 2022",
+    "gen_id": 5476,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894150,
+    "BuffStickerId": 16658
+  },
+  {
+    "name": "yuurih (Glitter) | Antwerp 2022",
+    "gen_id": 5477,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895390,
+    "BuffStickerId": 16974
+  },
+  {
+    "name": "yuurih (Holo) | Antwerp 2022",
+    "gen_id": 5478,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895426,
+    "BuffStickerId": 17007
+  },
+  {
+    "name": "yuurih (Gold) | Antwerp 2022",
+    "gen_id": 5479,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895404,
+    "BuffStickerId": 16986
+  },
+  {
+    "name": "arT | Antwerp 2022",
+    "gen_id": 5480,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894321,
+    "BuffStickerId": 16736
+  },
+  {
+    "name": "arT (Glitter) | Antwerp 2022",
+    "gen_id": 5481,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894332,
+    "BuffStickerId": 16747
+  },
+  {
+    "name": "arT (Holo) | Antwerp 2022",
+    "gen_id": 5482,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894148,
+    "BuffStickerId": 16656
+  },
+  {
+    "name": "arT (Gold) | Antwerp 2022",
+    "gen_id": 5483,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895412,
+    "BuffStickerId": 16994
+  },
+  {
+    "name": "KSCERATO | Antwerp 2022",
+    "gen_id": 5484,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894256,
+    "BuffStickerId": 16684
+  },
+  {
+    "name": "KSCERATO (Glitter) | Antwerp 2022",
+    "gen_id": 5485,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894406,
+    "BuffStickerId": 16811
+  },
+  {
+    "name": "KSCERATO (Holo) | Antwerp 2022",
+    "gen_id": 5486,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894276,
+    "BuffStickerId": 16702
+  },
+  {
+    "name": "KSCERATO (Gold) | Antwerp 2022",
+    "gen_id": 5487,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895542,
+    "BuffStickerId": 17093
+  },
+  {
+    "name": "drop | Antwerp 2022",
+    "gen_id": 5488,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894369,
+    "BuffStickerId": 16778
+  },
+  {
+    "name": "drop (Glitter) | Antwerp 2022",
+    "gen_id": 5489,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895336,
+    "BuffStickerId": 16924
+  },
+  {
+    "name": "drop (Holo) | Antwerp 2022",
+    "gen_id": 5490,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895383,
+    "BuffStickerId": 16967
+  },
+  {
+    "name": "drop (Gold) | Antwerp 2022",
+    "gen_id": 5491,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895558,
+    "BuffStickerId": 17290
+  },
+  {
+    "name": "saffee | Antwerp 2022",
+    "gen_id": 5492,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894269,
+    "BuffStickerId": 16695
+  },
+  {
+    "name": "saffee (Glitter) | Antwerp 2022",
+    "gen_id": 5493,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895297,
+    "BuffStickerId": 16895
+  },
+  {
+    "name": "saffee (Holo) | Antwerp 2022",
+    "gen_id": 5494,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895353,
+    "BuffStickerId": 16941
+  },
+  {
+    "name": "saffee (Gold) | Antwerp 2022",
+    "gen_id": 5495,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895451,
+    "BuffStickerId": 17024
+  },
+  {
+    "name": "rain | Antwerp 2022",
+    "gen_id": 5496,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894273,
+    "BuffStickerId": 16699
+  },
+  {
+    "name": "rain (Glitter) | Antwerp 2022",
+    "gen_id": 5497,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894255,
+    "BuffStickerId": 16683
+  },
+  {
+    "name": "rain (Holo) | Antwerp 2022",
+    "gen_id": 5498,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895352,
+    "BuffStickerId": 16940
+  },
+  {
+    "name": "rain (Gold) | Antwerp 2022",
+    "gen_id": 5499,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895282,
+    "BuffStickerId": 17256
+  },
+  {
+    "name": "karrigan | Antwerp 2022",
+    "gen_id": 5500,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894270,
+    "BuffStickerId": 16696
+  },
+  {
+    "name": "karrigan (Glitter) | Antwerp 2022",
+    "gen_id": 5501,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895338,
+    "BuffStickerId": 16926
+  },
+  {
+    "name": "Twistzz | Antwerp 2022",
+    "gen_id": 5504,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894289,
+    "BuffStickerId": 16713
+  },
+  {
+    "name": "Twistzz (Glitter) | Antwerp 2022",
+    "gen_id": 5505,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894254,
+    "BuffStickerId": 16682
+  },
+  {
+    "name": "Twistzz (Holo) | Antwerp 2022",
+    "gen_id": 5506,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895277,
+    "BuffStickerId": 16876
+  },
+  {
+    "name": "Twistzz (Gold) | Antwerp 2022",
+    "gen_id": 5507,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895514,
+    "BuffStickerId": 17079
+  },
+  {
+    "name": "broky | Antwerp 2022",
+    "gen_id": 5508,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894302,
+    "BuffStickerId": 16719
+  },
+  {
+    "name": "broky (Glitter) | Antwerp 2022",
+    "gen_id": 5509,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895318,
+    "BuffStickerId": 16909
+  },
+  {
+    "name": "broky (Holo) | Antwerp 2022",
+    "gen_id": 5510,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894141,
+    "BuffStickerId": 16649
+  },
+  {
+    "name": "broky (Gold) | Antwerp 2022",
+    "gen_id": 5511,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895540,
+    "BuffStickerId": 17284
+  },
+  {
+    "name": "ropz | Antwerp 2022",
+    "gen_id": 5512,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894281,
+    "BuffStickerId": 16706
+  },
+  {
+    "name": "ropz (Glitter) | Antwerp 2022",
+    "gen_id": 5513,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894149,
+    "BuffStickerId": 16657
+  },
+  {
+    "name": "ropz (Holo) | Antwerp 2022",
+    "gen_id": 5514,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895431,
+    "BuffStickerId": 17012
+  },
+  {
+    "name": "ropz (Gold) | Antwerp 2022",
+    "gen_id": 5515,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895470,
+    "BuffStickerId": 17043
+  },
+  {
+    "name": "REZ | Antwerp 2022",
+    "gen_id": 5516,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894154,
+    "BuffStickerId": 16661
+  },
+  {
+    "name": "REZ (Glitter) | Antwerp 2022",
+    "gen_id": 5517,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894405,
+    "BuffStickerId": 16810
+  },
+  {
+    "name": "REZ (Holo) | Antwerp 2022",
+    "gen_id": 5518,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894412,
+    "BuffStickerId": 16817
+  },
+  {
+    "name": "REZ (Gold) | Antwerp 2022",
+    "gen_id": 5519,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894265,
+    "BuffStickerId": 17247
+  },
+  {
+    "name": "hampus | Antwerp 2022",
+    "gen_id": 5520,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894274,
+    "BuffStickerId": 16700
+  },
+  {
+    "name": "hampus (Glitter) | Antwerp 2022",
+    "gen_id": 5521,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894423,
+    "BuffStickerId": 16826
+  },
+  {
+    "name": "hampus (Holo) | Antwerp 2022",
+    "gen_id": 5522,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895339,
+    "BuffStickerId": 16927
+  },
+  {
+    "name": "hampus (Gold) | Antwerp 2022",
+    "gen_id": 5523,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895455,
+    "BuffStickerId": 17028
+  },
+  {
+    "name": "Plopski | Antwerp 2022",
+    "gen_id": 5524,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894319,
+    "BuffStickerId": 16734
+  },
+  {
+    "name": "Plopski (Glitter) | Antwerp 2022",
+    "gen_id": 5525,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894410,
+    "BuffStickerId": 16815
+  },
+  {
+    "name": "Plopski (Holo) | Antwerp 2022",
+    "gen_id": 5526,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894386,
+    "BuffStickerId": 16794
+  },
+  {
+    "name": "Plopski (Gold) | Antwerp 2022",
+    "gen_id": 5527,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895379,
+    "BuffStickerId": 17244
+  },
+  {
+    "name": "es3tag | Antwerp 2022",
+    "gen_id": 5528,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894158,
+    "BuffStickerId": 16664
+  },
+  {
+    "name": "es3tag (Glitter) | Antwerp 2022",
+    "gen_id": 5529,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894278,
+    "BuffStickerId": 16703
+  },
+  {
+    "name": "es3tag (Holo) | Antwerp 2022",
+    "gen_id": 5530,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894334,
+    "BuffStickerId": 16749
+  },
+  {
+    "name": "es3tag (Gold) | Antwerp 2022",
+    "gen_id": 5531,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895594,
+    "BuffStickerId": 17142
+  },
+  {
+    "name": "Brollan | Antwerp 2022",
+    "gen_id": 5532,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894312,
+    "BuffStickerId": 16728
+  },
+  {
+    "name": "Brollan (Glitter) | Antwerp 2022",
+    "gen_id": 5533,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894447,
+    "BuffStickerId": 16848
+  },
+  {
+    "name": "Brollan (Holo) | Antwerp 2022",
+    "gen_id": 5534,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894430,
+    "BuffStickerId": 16832
+  },
+  {
+    "name": "Brollan (Gold) | Antwerp 2022",
+    "gen_id": 5535,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895488,
+    "BuffStickerId": 17277
+  },
+  {
+    "name": "s1mple | Antwerp 2022",
+    "gen_id": 5536,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894268,
+    "BuffStickerId": 16694
+  },
+  {
+    "name": "s1mple (Glitter) | Antwerp 2022",
+    "gen_id": 5537,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894434,
+    "BuffStickerId": 16836
+  },
+  {
+    "name": "s1mple (Holo) | Antwerp 2022",
+    "gen_id": 5538,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895372,
+    "BuffStickerId": 16957
+  },
+  {
+    "name": "s1mple (Gold) | Antwerp 2022",
+    "gen_id": 5539,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895480,
+    "BuffStickerId": 17275
+  },
+  {
+    "name": "Boombl4 | Antwerp 2022",
+    "gen_id": 5540,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894078,
+    "BuffStickerId": 16615
+  },
+  {
+    "name": "Boombl4 (Glitter) | Antwerp 2022",
+    "gen_id": 5541,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895403,
+    "BuffStickerId": 16985
+  },
+  {
+    "name": "Boombl4 (Holo) | Antwerp 2022",
+    "gen_id": 5542,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895395,
+    "BuffStickerId": 16979
+  },
+  {
+    "name": "Boombl4 (Gold) | Antwerp 2022",
+    "gen_id": 5543,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895509,
+    "BuffStickerId": 17074
+  },
+  {
+    "name": "Perfecto | Antwerp 2022",
+    "gen_id": 5544,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894275,
+    "BuffStickerId": 16701
+  },
+  {
+    "name": "Perfecto (Glitter) | Antwerp 2022",
+    "gen_id": 5545,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894152,
+    "BuffStickerId": 16660
+  },
+  {
+    "name": "Perfecto (Holo) | Antwerp 2022",
+    "gen_id": 5546,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894392,
+    "BuffStickerId": 16799
+  },
+  {
+    "name": "Perfecto (Gold) | Antwerp 2022",
+    "gen_id": 5547,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895485,
+    "BuffStickerId": 17058
+  },
+  {
+    "name": "electronic | Antwerp 2022",
+    "gen_id": 5548,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894143,
+    "BuffStickerId": 16651
+  },
+  {
+    "name": "electronic (Glitter) | Antwerp 2022",
+    "gen_id": 5549,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895351,
+    "BuffStickerId": 16939
+  },
+  {
+    "name": "electronic (Holo) | Antwerp 2022",
+    "gen_id": 5550,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895271,
+    "BuffStickerId": 16871
+  },
+  {
+    "name": "electronic (Gold) | Antwerp 2022",
+    "gen_id": 5551,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895573,
+    "BuffStickerId": 17121
+  },
+  {
+    "name": "b1t | Antwerp 2022",
+    "gen_id": 5552,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894155,
+    "BuffStickerId": 16662
+  },
+  {
+    "name": "b1t (Glitter) | Antwerp 2022",
+    "gen_id": 5553,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895356,
+    "BuffStickerId": 16943
+  },
+  {
+    "name": "b1t (Holo) | Antwerp 2022",
+    "gen_id": 5554,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895447,
+    "BuffStickerId": 17020
+  },
+  {
+    "name": "b1t (Gold) | Antwerp 2022",
+    "gen_id": 5555,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895561,
+    "BuffStickerId": 17110
+  },
+  {
+    "name": "Snappi | Antwerp 2022",
+    "gen_id": 5556,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894379,
+    "BuffStickerId": 16787
+  },
+  {
+    "name": "Snappi (Glitter) | Antwerp 2022",
+    "gen_id": 5557,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895377,
+    "BuffStickerId": 16962
+  },
+  {
+    "name": "Snappi (Holo) | Antwerp 2022",
+    "gen_id": 5558,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895486,
+    "BuffStickerId": 17059
+  },
+  {
+    "name": "Snappi (Gold) | Antwerp 2022",
+    "gen_id": 5559,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895475,
+    "BuffStickerId": 17048
+  },
+  {
+    "name": "dycha | Antwerp 2022",
+    "gen_id": 5560,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894304,
+    "BuffStickerId": 16721
+  },
+  {
+    "name": "dycha (Glitter) | Antwerp 2022",
+    "gen_id": 5561,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894358,
+    "BuffStickerId": 16768
+  },
+  {
+    "name": "dycha (Holo) | Antwerp 2022",
+    "gen_id": 5562,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "dycha (Gold) | Antwerp 2022",
+    "gen_id": 5563,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Spinx | Antwerp 2022",
+    "gen_id": 5564,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894419,
+    "BuffStickerId": 16824
+  },
+  {
+    "name": "Spinx (Glitter) | Antwerp 2022",
+    "gen_id": 5565,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895312,
+    "BuffStickerId": 16903
+  },
+  {
+    "name": "Spinx (Holo) | Antwerp 2022",
+    "gen_id": 5566,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895472,
+    "BuffStickerId": 17045
+  },
+  {
+    "name": "Spinx (Gold) | Antwerp 2022",
+    "gen_id": 5567,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895414,
+    "BuffStickerId": 17267
+  },
+  {
+    "name": "hades | Antwerp 2022",
+    "gen_id": 5568,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894429,
+    "BuffStickerId": 16831
+  },
+  {
+    "name": "hades (Glitter) | Antwerp 2022",
+    "gen_id": 5569,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895359,
+    "BuffStickerId": 16946
+  },
+  {
+    "name": "hades (Holo) | Antwerp 2022",
+    "gen_id": 5570,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894339,
+    "BuffStickerId": 16752
+  },
+  {
+    "name": "hades (Gold) | Antwerp 2022",
+    "gen_id": 5571,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895617,
+    "BuffStickerId": 17158
+  },
+  {
+    "name": "maden | Antwerp 2022",
+    "gen_id": 5572,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894404,
+    "BuffStickerId": 16809
+  },
+  {
+    "name": "maden (Glitter) | Antwerp 2022",
+    "gen_id": 5573,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894133,
+    "BuffStickerId": 16642
+  },
+  {
+    "name": "maden (Holo) | Antwerp 2022",
+    "gen_id": 5574,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895295,
+    "BuffStickerId": 16893
+  },
+  {
+    "name": "maden (Gold) | Antwerp 2022",
+    "gen_id": 5575,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895285,
+    "BuffStickerId": 17257
+  },
+  {
+    "name": "Aleksib | Antwerp 2022",
+    "gen_id": 5576,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895276,
+    "BuffStickerId": 16875
+  },
+  {
+    "name": "Aleksib (Glitter) | Antwerp 2022",
+    "gen_id": 5577,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895408,
+    "BuffStickerId": 16990
+  },
+  {
+    "name": "Aleksib (Holo) | Antwerp 2022",
+    "gen_id": 5578,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895468,
+    "BuffStickerId": 17041
+  },
+  {
+    "name": "Aleksib (Gold) | Antwerp 2022",
+    "gen_id": 5579,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895628,
+    "BuffStickerId": 17169
+  },
+  {
+    "name": "huNter | Antwerp 2022",
+    "gen_id": 5580,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895275,
+    "BuffStickerId": 16874
+  },
+  {
+    "name": "huNter (Glitter) | Antwerp 2022",
+    "gen_id": 5581,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895357,
+    "BuffStickerId": 16944
+  },
+  {
+    "name": "huNter (Holo) | Antwerp 2022",
+    "gen_id": 5582,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895370,
+    "BuffStickerId": 16955
+  },
+  {
+    "name": "huNter (Gold) | Antwerp 2022",
+    "gen_id": 5583,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895504,
+    "BuffStickerId": 17069
+  },
+  {
+    "name": "JaCkz | Antwerp 2022",
+    "gen_id": 5584,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894468,
+    "BuffStickerId": 16867
+  },
+  {
+    "name": "JaCkz (Glitter) | Antwerp 2022",
+    "gen_id": 5585,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895341,
+    "BuffStickerId": 16929
+  },
+  {
+    "name": "JaCkz (Holo) | Antwerp 2022",
+    "gen_id": 5586,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "JaCkz (Gold) | Antwerp 2022",
+    "gen_id": 5587,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895619,
+    "BuffStickerId": 17310
+  },
+  {
+    "name": "m0NESY | Antwerp 2022",
+    "gen_id": 5588,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894397,
+    "BuffStickerId": 16803
+  },
+  {
+    "name": "m0NESY (Glitter) | Antwerp 2022",
+    "gen_id": 5589,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "m0NESY (Holo) | Antwerp 2022",
+    "gen_id": 5590,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "m0NESY (Gold) | Antwerp 2022",
+    "gen_id": 5591,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895563,
+    "BuffStickerId": 17112
+  },
+  {
+    "name": "NiKo | Antwerp 2022",
+    "gen_id": 5592,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894443,
+    "BuffStickerId": 16844
+  },
+  {
+    "name": "NiKo (Glitter) | Antwerp 2022",
+    "gen_id": 5593,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895291,
+    "BuffStickerId": 16889
+  },
+  {
+    "name": "NiKo (Holo) | Antwerp 2022",
+    "gen_id": 5594,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895354,
+    "BuffStickerId": 16942
+  },
+  {
+    "name": "NiKo (Gold) | Antwerp 2022",
+    "gen_id": 5595,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895604,
+    "BuffStickerId": 17146
+  },
+  {
+    "name": "Jerry | Antwerp 2022",
+    "gen_id": 5596,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894398,
+    "BuffStickerId": 16804
+  },
+  {
+    "name": "Jerry (Glitter) | Antwerp 2022",
+    "gen_id": 5597,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894303,
+    "BuffStickerId": 16720
+  },
+  {
+    "name": "Jerry (Holo) | Antwerp 2022",
+    "gen_id": 5598,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Jerry (Gold) | Antwerp 2022",
+    "gen_id": 5599,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895586,
+    "BuffStickerId": 17134
+  },
+  {
+    "name": "zorte | Antwerp 2022",
+    "gen_id": 5600,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "zorte (Glitter) | Antwerp 2022",
+    "gen_id": 5601,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895436,
+    "BuffStickerId": 17016
+  },
+  {
+    "name": "zorte (Holo) | Antwerp 2022",
+    "gen_id": 5602,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "zorte (Gold) | Antwerp 2022",
+    "gen_id": 5603,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895553,
+    "BuffStickerId": 17288
+  },
+  {
+    "name": "KENSi | Antwerp 2022",
+    "gen_id": 5604,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894464,
+    "BuffStickerId": 16863
+  },
+  {
+    "name": "KENSi (Glitter) | Antwerp 2022",
+    "gen_id": 5605,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894417,
+    "BuffStickerId": 16822
+  },
+  {
+    "name": "KENSi (Holo) | Antwerp 2022",
+    "gen_id": 5606,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "KENSi (Gold) | Antwerp 2022",
+    "gen_id": 5607,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895551,
+    "BuffStickerId": 17101
+  },
+  {
+    "name": "Norwi | Antwerp 2022",
+    "gen_id": 5608,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894422,
+    "BuffStickerId": 16825
+  },
+  {
+    "name": "Norwi (Glitter) | Antwerp 2022",
+    "gen_id": 5609,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895371,
+    "BuffStickerId": 16956
+  },
+  {
+    "name": "Norwi (Holo) | Antwerp 2022",
+    "gen_id": 5610,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895532,
+    "BuffStickerId": 17083
+  },
+  {
+    "name": "Norwi (Gold) | Antwerp 2022",
+    "gen_id": 5611,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895508,
+    "BuffStickerId": 17073
+  },
+  {
+    "name": "shalfey | Antwerp 2022",
+    "gen_id": 5612,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894462,
+    "BuffStickerId": 16861
+  },
+  {
+    "name": "shalfey (Glitter) | Antwerp 2022",
+    "gen_id": 5613,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894450,
+    "BuffStickerId": 16850
+  },
+  {
+    "name": "shalfey (Holo) | Antwerp 2022",
+    "gen_id": 5614,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "shalfey (Gold) | Antwerp 2022",
+    "gen_id": 5615,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895590,
+    "BuffStickerId": 17138
+  },
+  {
+    "name": "gla1ve | Antwerp 2022",
+    "gen_id": 5616,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894344,
+    "BuffStickerId": 16757
+  },
+  {
+    "name": "gla1ve (Glitter) | Antwerp 2022",
+    "gen_id": 5617,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895294,
+    "BuffStickerId": 16892
+  },
+  {
+    "name": "gla1ve (Holo) | Antwerp 2022",
+    "gen_id": 5618,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894449,
+    "BuffStickerId": 16849
+  },
+  {
+    "name": "gla1ve (Gold) | Antwerp 2022",
+    "gen_id": 5619,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895614,
+    "BuffStickerId": 17156
+  },
+  {
+    "name": "blameF | Antwerp 2022",
+    "gen_id": 5620,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894363,
+    "BuffStickerId": 16773
+  },
+  {
+    "name": "blameF (Glitter) | Antwerp 2022",
+    "gen_id": 5621,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895358,
+    "BuffStickerId": 16945
+  },
+  {
+    "name": "blameF (Holo) | Antwerp 2022",
+    "gen_id": 5622,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "blameF (Gold) | Antwerp 2022",
+    "gen_id": 5623,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895565,
+    "BuffStickerId": 17114
+  },
+  {
+    "name": "k0nfig | Antwerp 2022",
+    "gen_id": 5624,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "k0nfig (Glitter) | Antwerp 2022",
+    "gen_id": 5625,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894359,
+    "BuffStickerId": 16769
+  },
+  {
+    "name": "k0nfig (Holo) | Antwerp 2022",
+    "gen_id": 5626,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895319,
+    "BuffStickerId": 17260
+  },
+  {
+    "name": "k0nfig (Gold) | Antwerp 2022",
+    "gen_id": 5627,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895622,
+    "BuffStickerId": 17237
+  },
+  {
+    "name": "Xyp9x | Antwerp 2022",
+    "gen_id": 5628,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894416,
+    "BuffStickerId": 16821
+  },
+  {
+    "name": "Xyp9x (Glitter) | Antwerp 2022",
+    "gen_id": 5629,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Xyp9x (Holo) | Antwerp 2022",
+    "gen_id": 5630,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895435,
+    "BuffStickerId": 17015
+  },
+  {
+    "name": "Xyp9x (Gold) | Antwerp 2022",
+    "gen_id": 5631,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895583,
+    "BuffStickerId": 17299
+  },
+  {
+    "name": "Farlig | Antwerp 2022",
+    "gen_id": 5632,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894121,
+    "BuffStickerId": 16636
+  },
+  {
+    "name": "Farlig (Glitter) | Antwerp 2022",
+    "gen_id": 5633,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894454,
+    "BuffStickerId": 16854
+  },
+  {
+    "name": "Farlig (Holo) | Antwerp 2022",
+    "gen_id": 5634,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Farlig (Gold) | Antwerp 2022",
+    "gen_id": 5635,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895630,
+    "BuffStickerId": 17314
+  },
+  {
+    "name": "apEX | Antwerp 2022",
+    "gen_id": 5636,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894445,
+    "BuffStickerId": 16846
+  },
+  {
+    "name": "apEX (Glitter) | Antwerp 2022",
+    "gen_id": 5637,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894413,
+    "BuffStickerId": 16818
+  },
+  {
+    "name": "apEX (Holo) | Antwerp 2022",
+    "gen_id": 5638,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895330,
+    "BuffStickerId": 16919
+  },
+  {
+    "name": "apEX (Gold) | Antwerp 2022",
+    "gen_id": 5639,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895608,
+    "BuffStickerId": 17306
+  },
+  {
+    "name": "misutaaa | Antwerp 2022",
+    "gen_id": 5640,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895279,
+    "BuffStickerId": 16878
+  },
+  {
+    "name": "misutaaa (Glitter) | Antwerp 2022",
+    "gen_id": 5641,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895301,
+    "BuffStickerId": 16899
+  },
+  {
+    "name": "misutaaa (Holo) | Antwerp 2022",
+    "gen_id": 5642,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895329,
+    "BuffStickerId": 16918
+  },
+  {
+    "name": "misutaaa (Gold) | Antwerp 2022",
+    "gen_id": 5643,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895588,
+    "BuffStickerId": 17136
+  },
+  {
+    "name": "dupreeh | Antwerp 2022",
+    "gen_id": 5644,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894389,
+    "BuffStickerId": 16796
+  },
+  {
+    "name": "dupreeh (Glitter) | Antwerp 2022",
+    "gen_id": 5645,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895298,
+    "BuffStickerId": 16896
+  },
+  {
+    "name": "dupreeh (Holo) | Antwerp 2022",
+    "gen_id": 5646,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895401,
+    "BuffStickerId": 16983
+  },
+  {
+    "name": "dupreeh (Gold) | Antwerp 2022",
+    "gen_id": 5647,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895467,
+    "BuffStickerId": 17040
+  },
+  {
+    "name": "Magisk | Antwerp 2022",
+    "gen_id": 5648,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894394,
+    "BuffStickerId": 16801
+  },
+  {
+    "name": "Magisk (Glitter) | Antwerp 2022",
+    "gen_id": 5649,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895326,
+    "BuffStickerId": 16916
+  },
+  {
+    "name": "Magisk (Holo) | Antwerp 2022",
+    "gen_id": 5650,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895320,
+    "BuffStickerId": 16911
+  },
+  {
+    "name": "Magisk (Gold) | Antwerp 2022",
+    "gen_id": 5651,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895615,
+    "BuffStickerId": 17308
+  },
+  {
+    "name": "ZywOo | Antwerp 2022",
+    "gen_id": 5652,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894381,
+    "BuffStickerId": 16789
+  },
+  {
+    "name": "ZywOo (Glitter) | Antwerp 2022",
+    "gen_id": 5653,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "ZywOo (Holo) | Antwerp 2022",
+    "gen_id": 5654,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895465,
+    "BuffStickerId": 17038
+  },
+  {
+    "name": "ZywOo (Gold) | Antwerp 2022",
+    "gen_id": 5655,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895481,
+    "BuffStickerId": 17054
+  },
+  {
+    "name": "WOOD7 | Antwerp 2022",
+    "gen_id": 5656,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894427,
+    "BuffStickerId": 16830
+  },
+  {
+    "name": "WOOD7 (Glitter) | Antwerp 2022",
+    "gen_id": 5657,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895369,
+    "BuffStickerId": 16954
+  },
+  {
+    "name": "WOOD7 (Holo) | Antwerp 2022",
+    "gen_id": 5658,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895476,
+    "BuffStickerId": 17049
+  },
+  {
+    "name": "WOOD7 (Gold) | Antwerp 2022",
+    "gen_id": 5659,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895587,
+    "BuffStickerId": 17135
+  },
+  {
+    "name": "chelo | Antwerp 2022",
+    "gen_id": 5660,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894300,
+    "BuffStickerId": 16717
+  },
+  {
+    "name": "chelo (Glitter) | Antwerp 2022",
+    "gen_id": 5661,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895268,
+    "BuffStickerId": 16870
+  },
+  {
+    "name": "chelo (Holo) | Antwerp 2022",
+    "gen_id": 5662,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895327,
+    "BuffStickerId": 17261
+  },
+  {
+    "name": "chelo (Gold) | Antwerp 2022",
+    "gen_id": 5663,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 894306,
+    "BuffStickerId": 17248
+  },
+  {
+    "name": "Tuurtle | Antwerp 2022",
+    "gen_id": 5664,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894349,
+    "BuffStickerId": 16762
+  },
+  {
+    "name": "Tuurtle (Glitter) | Antwerp 2022",
+    "gen_id": 5665,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895331,
+    "BuffStickerId": 16920
+  },
+  {
+    "name": "Tuurtle (Holo) | Antwerp 2022",
+    "gen_id": 5666,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894322,
+    "BuffStickerId": 16737
+  },
+  {
+    "name": "Tuurtle (Gold) | Antwerp 2022",
+    "gen_id": 5667,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895605,
+    "BuffStickerId": 17304
+  },
+  {
+    "name": "exit | Antwerp 2022",
+    "gen_id": 5668,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895281,
+    "BuffStickerId": 16880
+  },
+  {
+    "name": "exit (Glitter) | Antwerp 2022",
+    "gen_id": 5669,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894456,
+    "BuffStickerId": 16855
+  },
+  {
+    "name": "exit (Holo) | Antwerp 2022",
+    "gen_id": 5670,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895539,
+    "BuffStickerId": 17090
+  },
+  {
+    "name": "exit (Gold) | Antwerp 2022",
+    "gen_id": 5671,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895606,
+    "BuffStickerId": 17148
+  },
+  {
+    "name": "JOTA | Antwerp 2022",
+    "gen_id": 5672,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894426,
+    "BuffStickerId": 16829
+  },
+  {
+    "name": "JOTA (Glitter) | Antwerp 2022",
+    "gen_id": 5673,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895456,
+    "BuffStickerId": 17029
+  },
+  {
+    "name": "JOTA (Holo) | Antwerp 2022",
+    "gen_id": 5674,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "JOTA (Gold) | Antwerp 2022",
+    "gen_id": 5675,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895479,
+    "BuffStickerId": 17274
+  },
+  {
+    "name": "FalleN | Antwerp 2022",
+    "gen_id": 5676,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894301,
+    "BuffStickerId": 16718
+  },
+  {
+    "name": "FalleN (Glitter) | Antwerp 2022",
+    "gen_id": 5677,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895324,
+    "BuffStickerId": 16915
+  },
+  {
+    "name": "FalleN (Holo) | Antwerp 2022",
+    "gen_id": 5678,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894333,
+    "BuffStickerId": 16748
+  },
+  {
+    "name": "FalleN (Gold) | Antwerp 2022",
+    "gen_id": 5679,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895576,
+    "BuffStickerId": 17124
+  },
+  {
+    "name": "fer | Antwerp 2022",
+    "gen_id": 5680,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fer (Glitter) | Antwerp 2022",
+    "gen_id": 5681,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894425,
+    "BuffStickerId": 16828
+  },
+  {
+    "name": "fer (Holo) | Antwerp 2022",
+    "gen_id": 5682,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895406,
+    "BuffStickerId": 16988
+  },
+  {
+    "name": "fer (Gold) | Antwerp 2022",
+    "gen_id": 5683,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895632,
+    "BuffStickerId": 17316
+  },
+  {
+    "name": "fnx | Antwerp 2022",
+    "gen_id": 5684,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fnx (Glitter) | Antwerp 2022",
+    "gen_id": 5685,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895274,
+    "BuffStickerId": 16873
+  },
+  {
+    "name": "fnx (Holo) | Antwerp 2022",
+    "gen_id": 5686,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895458,
+    "BuffStickerId": 17031
+  },
+  {
+    "name": "fnx (Gold) | Antwerp 2022",
+    "gen_id": 5687,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895575,
+    "BuffStickerId": 17297
+  },
+  {
+    "name": "boltz | Antwerp 2022",
+    "gen_id": 5688,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894451,
+    "BuffStickerId": 16851
+  },
+  {
+    "name": "boltz (Glitter) | Antwerp 2022",
+    "gen_id": 5689,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895405,
+    "BuffStickerId": 16987
+  },
+  {
+    "name": "boltz (Holo) | Antwerp 2022",
+    "gen_id": 5690,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895445,
+    "BuffStickerId": 17018
+  },
+  {
+    "name": "boltz (Gold) | Antwerp 2022",
+    "gen_id": 5691,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "VINI | Antwerp 2022",
+    "gen_id": 5692,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894323,
+    "BuffStickerId": 16738
+  },
+  {
+    "name": "VINI (Glitter) | Antwerp 2022",
+    "gen_id": 5693,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895321,
+    "BuffStickerId": 16912
+  },
+  {
+    "name": "VINI (Holo) | Antwerp 2022",
+    "gen_id": 5694,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894459,
+    "BuffStickerId": 16858
+  },
+  {
+    "name": "VINI (Gold) | Antwerp 2022",
+    "gen_id": 5695,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895550,
+    "BuffStickerId": 17286
+  },
+  {
+    "name": "rigoN | Antwerp 2022",
+    "gen_id": 5696,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894307,
+    "BuffStickerId": 16723
+  },
+  {
+    "name": "rigoN (Glitter) | Antwerp 2022",
+    "gen_id": 5697,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895400,
+    "BuffStickerId": 16982
+  },
+  {
+    "name": "rigoN (Holo) | Antwerp 2022",
+    "gen_id": 5698,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895462,
+    "BuffStickerId": 17035
+  },
+  {
+    "name": "rigoN (Gold) | Antwerp 2022",
+    "gen_id": 5699,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895545,
+    "BuffStickerId": 17095
+  },
+  {
+    "name": "juanflatroo | Antwerp 2022",
+    "gen_id": 5700,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894385,
+    "BuffStickerId": 16793
+  },
+  {
+    "name": "juanflatroo (Glitter) | Antwerp 2022",
+    "gen_id": 5701,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895424,
+    "BuffStickerId": 17005
+  },
+  {
+    "name": "juanflatroo (Holo) | Antwerp 2022",
+    "gen_id": 5702,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "juanflatroo (Gold) | Antwerp 2022",
+    "gen_id": 5703,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895618,
+    "BuffStickerId": 17309
+  },
+  {
+    "name": "SENER1 | Antwerp 2022",
+    "gen_id": 5704,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "SENER1 (Glitter) | Antwerp 2022",
+    "gen_id": 5705,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895278,
+    "BuffStickerId": 16877
+  },
+  {
+    "name": "SENER1 (Holo) | Antwerp 2022",
+    "gen_id": 5706,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "SENER1 (Gold) | Antwerp 2022",
+    "gen_id": 5707,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895535,
+    "BuffStickerId": 17086
+  },
+  {
+    "name": "sinnopsyy | Antwerp 2022",
+    "gen_id": 5708,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894453,
+    "BuffStickerId": 16853
+  },
+  {
+    "name": "sinnopsyy (Glitter) | Antwerp 2022",
+    "gen_id": 5709,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895323,
+    "BuffStickerId": 16914
+  },
+  {
+    "name": "sinnopsyy (Holo) | Antwerp 2022",
+    "gen_id": 5710,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sinnopsyy (Gold) | Antwerp 2022",
+    "gen_id": 5711,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "gxx- | Antwerp 2022",
+    "gen_id": 5712,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "gxx- (Glitter) | Antwerp 2022",
+    "gen_id": 5713,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895280,
+    "BuffStickerId": 16879
+  },
+  {
+    "name": "gxx- (Holo) | Antwerp 2022",
+    "gen_id": 5714,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895483,
+    "BuffStickerId": 17056
+  },
+  {
+    "name": "gxx- (Gold) | Antwerp 2022",
+    "gen_id": 5715,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895473,
+    "BuffStickerId": 17046
+  },
+  {
+    "name": "XANTARES | Antwerp 2022",
+    "gen_id": 5716,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895317,
+    "BuffStickerId": 16908
+  },
+  {
+    "name": "XANTARES (Glitter) | Antwerp 2022",
+    "gen_id": 5717,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895386,
+    "BuffStickerId": 16970
+  },
+  {
+    "name": "XANTARES (Holo) | Antwerp 2022",
+    "gen_id": 5718,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895396,
+    "BuffStickerId": 16980
+  },
+  {
+    "name": "XANTARES (Gold) | Antwerp 2022",
+    "gen_id": 5719,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895487,
+    "BuffStickerId": 17060
+  },
+  {
+    "name": "woxic | Antwerp 2022",
+    "gen_id": 5720,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895332,
+    "BuffStickerId": 16921
+  },
+  {
+    "name": "woxic (Glitter) | Antwerp 2022",
+    "gen_id": 5721,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895299,
+    "BuffStickerId": 16897
+  },
+  {
+    "name": "woxic (Holo) | Antwerp 2022",
+    "gen_id": 5722,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895300,
+    "BuffStickerId": 17258
+  },
+  {
+    "name": "woxic (Gold) | Antwerp 2022",
+    "gen_id": 5723,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895589,
+    "BuffStickerId": 17137
+  },
+  {
+    "name": "imoRR | Antwerp 2022",
+    "gen_id": 5724,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894341,
+    "BuffStickerId": 16754
+  },
+  {
+    "name": "imoRR (Glitter) | Antwerp 2022",
+    "gen_id": 5725,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895348,
+    "BuffStickerId": 16936
+  },
+  {
+    "name": "imoRR (Holo) | Antwerp 2022",
+    "gen_id": 5726,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895564,
+    "BuffStickerId": 17293
+  },
+  {
+    "name": "imoRR (Gold) | Antwerp 2022",
+    "gen_id": 5727,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895577,
+    "BuffStickerId": 17125
+  },
+  {
+    "name": "Calyx | Antwerp 2022",
+    "gen_id": 5728,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894424,
+    "BuffStickerId": 16827
+  },
+  {
+    "name": "Calyx (Glitter) | Antwerp 2022",
+    "gen_id": 5729,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895389,
+    "BuffStickerId": 16973
+  },
+  {
+    "name": "Calyx (Holo) | Antwerp 2022",
+    "gen_id": 5730,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895610,
+    "BuffStickerId": 17152
+  },
+  {
+    "name": "Calyx (Gold) | Antwerp 2022",
+    "gen_id": 5731,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895662,
+    "BuffStickerId": 17189
+  },
+  {
+    "name": "xfl0ud | Antwerp 2022",
+    "gen_id": 5732,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894444,
+    "BuffStickerId": 16845
+  },
+  {
+    "name": "xfl0ud (Glitter) | Antwerp 2022",
+    "gen_id": 5733,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895496,
+    "BuffStickerId": 17067
+  },
+  {
+    "name": "xfl0ud (Holo) | Antwerp 2022",
+    "gen_id": 5734,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895570,
+    "BuffStickerId": 17118
+  },
+  {
+    "name": "xfl0ud (Gold) | Antwerp 2022",
+    "gen_id": 5735,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895636,
+    "BuffStickerId": 17177
+  },
+  {
+    "name": "chopper | Antwerp 2022",
+    "gen_id": 5736,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "chopper (Glitter) | Antwerp 2022",
+    "gen_id": 5737,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895393,
+    "BuffStickerId": 16977
+  },
+  {
+    "name": "chopper (Holo) | Antwerp 2022",
+    "gen_id": 5738,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895582,
+    "BuffStickerId": 17130
+  },
+  {
+    "name": "chopper (Gold) | Antwerp 2022",
+    "gen_id": 5739,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895641,
+    "BuffStickerId": 17319
+  },
+  {
+    "name": "magixx | Antwerp 2022",
+    "gen_id": 5740,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894285,
+    "BuffStickerId": 16709
+  },
+  {
+    "name": "magixx (Glitter) | Antwerp 2022",
+    "gen_id": 5741,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895266,
+    "BuffStickerId": 16869
+  },
+  {
+    "name": "magixx (Holo) | Antwerp 2022",
+    "gen_id": 5742,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895364,
+    "BuffStickerId": 16950
+  },
+  {
+    "name": "magixx (Gold) | Antwerp 2022",
+    "gen_id": 5743,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895663,
+    "BuffStickerId": 17190
+  },
+  {
+    "name": "degster | Antwerp 2022",
+    "gen_id": 5744,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894415,
+    "BuffStickerId": 16820
+  },
+  {
+    "name": "degster (Glitter) | Antwerp 2022",
+    "gen_id": 5745,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894401,
+    "BuffStickerId": 16807
+  },
+  {
+    "name": "degster (Holo) | Antwerp 2022",
+    "gen_id": 5746,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895392,
+    "BuffStickerId": 17265
+  },
+  {
+    "name": "degster (Gold) | Antwerp 2022",
+    "gen_id": 5747,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895621,
+    "BuffStickerId": 17162
+  },
+  {
+    "name": "Patsi | Antwerp 2022",
+    "gen_id": 5748,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894400,
+    "BuffStickerId": 16806
+  },
+  {
+    "name": "Patsi (Glitter) | Antwerp 2022",
+    "gen_id": 5749,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895522,
+    "BuffStickerId": 17080
+  },
+  {
+    "name": "Patsi (Holo) | Antwerp 2022",
+    "gen_id": 5750,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895510,
+    "BuffStickerId": 17075
+  },
+  {
+    "name": "Patsi (Gold) | Antwerp 2022",
+    "gen_id": 5751,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895627,
+    "BuffStickerId": 17168
+  },
+  {
+    "name": "S1ren | Antwerp 2022",
+    "gen_id": 5752,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894373,
+    "BuffStickerId": 16782
+  },
+  {
+    "name": "S1ren (Glitter) | Antwerp 2022",
+    "gen_id": 5753,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895584,
+    "BuffStickerId": 17300
+  },
+  {
+    "name": "S1ren (Holo) | Antwerp 2022",
+    "gen_id": 5754,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895578,
+    "BuffStickerId": 17298
+  },
+  {
+    "name": "S1ren (Gold) | Antwerp 2022",
+    "gen_id": 5755,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895652,
+    "BuffStickerId": 17187
+  },
+  {
+    "name": "Jame | Antwerp 2022",
+    "gen_id": 5756,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895309,
+    "BuffStickerId": 16901
+  },
+  {
+    "name": "Jame (Glitter) | Antwerp 2022",
+    "gen_id": 5757,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894460,
+    "BuffStickerId": 16859
+  },
+  {
+    "name": "Jame (Holo) | Antwerp 2022",
+    "gen_id": 5758,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895482,
+    "BuffStickerId": 17276
+  },
+  {
+    "name": "Jame (Gold) | Antwerp 2022",
+    "gen_id": 5759,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895631,
+    "BuffStickerId": 17315
+  },
+  {
+    "name": "qikert | Antwerp 2022",
+    "gen_id": 5760,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895284,
+    "BuffStickerId": 16882
+  },
+  {
+    "name": "qikert (Glitter) | Antwerp 2022",
+    "gen_id": 5761,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894372,
+    "BuffStickerId": 16781
+  },
+  {
+    "name": "qikert (Holo) | Antwerp 2022",
+    "gen_id": 5762,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895344,
+    "BuffStickerId": 17263
+  },
+  {
+    "name": "qikert (Gold) | Antwerp 2022",
+    "gen_id": 5763,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895664,
+    "BuffStickerId": 17191
+  },
+  {
+    "name": "buster | Antwerp 2022",
+    "gen_id": 5764,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894375,
+    "BuffStickerId": 16784
+  },
+  {
+    "name": "buster (Glitter) | Antwerp 2022",
+    "gen_id": 5765,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894367,
+    "BuffStickerId": 16776
+  },
+  {
+    "name": "buster (Holo) | Antwerp 2022",
+    "gen_id": 5766,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895568,
+    "BuffStickerId": 17116
+  },
+  {
+    "name": "buster (Gold) | Antwerp 2022",
+    "gen_id": 5767,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895633,
+    "BuffStickerId": 17174
+  },
+  {
+    "name": "YEKINDAR | Antwerp 2022",
+    "gen_id": 5768,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895273,
+    "BuffStickerId": 16872
+  },
+  {
+    "name": "YEKINDAR (Glitter) | Antwerp 2022",
+    "gen_id": 5769,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895420,
+    "BuffStickerId": 17001
+  },
+  {
+    "name": "YEKINDAR (Holo) | Antwerp 2022",
+    "gen_id": 5770,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895581,
+    "BuffStickerId": 17129
+  },
+  {
+    "name": "YEKINDAR (Gold) | Antwerp 2022",
+    "gen_id": 5771,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895572,
+    "BuffStickerId": 17120
+  },
+  {
+    "name": "FL1T | Antwerp 2022",
+    "gen_id": 5772,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895366,
+    "BuffStickerId": 16952
+  },
+  {
+    "name": "FL1T (Glitter) | Antwerp 2022",
+    "gen_id": 5773,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895423,
+    "BuffStickerId": 17004
+  },
+  {
+    "name": "FL1T (Holo) | Antwerp 2022",
+    "gen_id": 5774,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FL1T (Gold) | Antwerp 2022",
+    "gen_id": 5775,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895646,
+    "BuffStickerId": 17185
+  },
+  {
+    "name": "FaNg | Antwerp 2022",
+    "gen_id": 5776,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895316,
+    "BuffStickerId": 16907
+  },
+  {
+    "name": "FaNg (Glitter) | Antwerp 2022",
+    "gen_id": 5777,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894442,
+    "BuffStickerId": 16843
+  },
+  {
+    "name": "FaNg (Holo) | Antwerp 2022",
+    "gen_id": 5778,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FaNg (Gold) | Antwerp 2022",
+    "gen_id": 5779,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895635,
+    "BuffStickerId": 17176
+  },
+  {
+    "name": "floppy | Antwerp 2022",
+    "gen_id": 5780,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894439,
+    "BuffStickerId": 16840
+  },
+  {
+    "name": "floppy (Glitter) | Antwerp 2022",
+    "gen_id": 5781,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894384,
+    "BuffStickerId": 16792
+  },
+  {
+    "name": "floppy (Holo) | Antwerp 2022",
+    "gen_id": 5782,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "floppy (Gold) | Antwerp 2022",
+    "gen_id": 5783,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Grim | Antwerp 2022",
+    "gen_id": 5784,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894370,
+    "BuffStickerId": 16779
+  },
+  {
+    "name": "Grim (Glitter) | Antwerp 2022",
+    "gen_id": 5785,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895474,
+    "BuffStickerId": 17047
+  },
+  {
+    "name": "Grim (Holo) | Antwerp 2022",
+    "gen_id": 5786,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895585,
+    "BuffStickerId": 17301
+  },
+  {
+    "name": "Grim (Gold) | Antwerp 2022",
+    "gen_id": 5787,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895651,
+    "BuffStickerId": 17186
+  },
+  {
+    "name": "JT | Antwerp 2022",
+    "gen_id": 5788,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895314,
+    "BuffStickerId": 16905
+  },
+  {
+    "name": "JT (Glitter) | Antwerp 2022",
+    "gen_id": 5789,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895397,
+    "BuffStickerId": 16981
+  },
+  {
+    "name": "JT (Holo) | Antwerp 2022",
+    "gen_id": 5790,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895461,
+    "BuffStickerId": 17273
+  },
+  {
+    "name": "JT (Gold) | Antwerp 2022",
+    "gen_id": 5791,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895569,
+    "BuffStickerId": 17117
+  },
+  {
+    "name": "junior | Antwerp 2022",
+    "gen_id": 5792,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895293,
+    "BuffStickerId": 16891
+  },
+  {
+    "name": "junior (Glitter) | Antwerp 2022",
+    "gen_id": 5793,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894342,
+    "BuffStickerId": 16755
+  },
+  {
+    "name": "junior (Holo) | Antwerp 2022",
+    "gen_id": 5794,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895533,
+    "BuffStickerId": 17084
+  },
+  {
+    "name": "junior (Gold) | Antwerp 2022",
+    "gen_id": 5795,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895446,
+    "BuffStickerId": 17019
+  },
+  {
+    "name": "bLitz | Antwerp 2022",
+    "gen_id": 5796,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895345,
+    "BuffStickerId": 16933
+  },
+  {
+    "name": "bLitz (Glitter) | Antwerp 2022",
+    "gen_id": 5797,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895289,
+    "BuffStickerId": 16887
+  },
+  {
+    "name": "bLitz (Holo) | Antwerp 2022",
+    "gen_id": 5798,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "bLitz (Gold) | Antwerp 2022",
+    "gen_id": 5799,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895623,
+    "BuffStickerId": 17164
+  },
+  {
+    "name": "kabal | Antwerp 2022",
+    "gen_id": 5800,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "kabal (Glitter) | Antwerp 2022",
+    "gen_id": 5801,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895530,
+    "BuffStickerId": 17081
+  },
+  {
+    "name": "kabal (Holo) | Antwerp 2022",
+    "gen_id": 5802,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895609,
+    "BuffStickerId": 17307
+  },
+  {
+    "name": "karrigan (Holo) | Antwerp 2022",
+    "gen_id": 5802,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895407,
+    "BuffStickerId": 16989
+  },
+  {
+    "name": "kabal (Gold) | Antwerp 2022",
+    "gen_id": 5803,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895603,
+    "BuffStickerId": 17145
+  },
+  {
+    "name": "karrigan (Gold) | Antwerp 2022",
+    "gen_id": 5803,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895593,
+    "BuffStickerId": 17141
+  },
+  {
+    "name": "nin9 | Antwerp 2022",
+    "gen_id": 5804,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895362,
+    "BuffStickerId": 16948
+  },
+  {
+    "name": "nin9 (Glitter) | Antwerp 2022",
+    "gen_id": 5805,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895490,
+    "BuffStickerId": 17063
+  },
+  {
+    "name": "nin9 (Holo) | Antwerp 2022",
+    "gen_id": 5806,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 894461,
+    "BuffStickerId": 16860
+  },
+  {
+    "name": "nin9 (Gold) | Antwerp 2022",
+    "gen_id": 5807,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895503,
+    "BuffStickerId": 17068
+  },
+  {
+    "name": "sk0r | Antwerp 2022",
+    "gen_id": 5808,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sk0r (Glitter) | Antwerp 2022",
+    "gen_id": 5809,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sk0r (Holo) | Antwerp 2022",
+    "gen_id": 5810,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "sk0r (Gold) | Antwerp 2022",
+    "gen_id": 5811,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Techno4K | Antwerp 2022",
+    "gen_id": 5812,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895387,
+    "BuffStickerId": 16971
+  },
+  {
+    "name": "Techno4K (Glitter) | Antwerp 2022",
+    "gen_id": 5813,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895374,
+    "BuffStickerId": 16959
+  },
+  {
+    "name": "Techno4K (Holo) | Antwerp 2022",
+    "gen_id": 5814,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895574,
+    "BuffStickerId": 17296
+  },
+  {
+    "name": "Techno4K (Gold) | Antwerp 2022",
+    "gen_id": 5815,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895620,
+    "BuffStickerId": 17161
+  },
+  {
+    "name": "ins | Antwerp 2022",
+    "gen_id": 5816,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894446,
+    "BuffStickerId": 16847
+  },
+  {
+    "name": "ins (Glitter) | Antwerp 2022",
+    "gen_id": 5817,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895466,
+    "BuffStickerId": 17039
+  },
+  {
+    "name": "ins (Holo) | Antwerp 2022",
+    "gen_id": 5818,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "ins (Gold) | Antwerp 2022",
+    "gen_id": 5819,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895659,
+    "BuffStickerId": 17188
+  },
+  {
+    "name": "sico | Antwerp 2022",
+    "gen_id": 5820,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894371,
+    "BuffStickerId": 16780
+  },
+  {
+    "name": "sico (Glitter) | Antwerp 2022",
+    "gen_id": 5821,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895595,
+    "BuffStickerId": 17143
+  },
+  {
+    "name": "sico (Holo) | Antwerp 2022",
+    "gen_id": 5822,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895511,
+    "BuffStickerId": 17076
+  },
+  {
+    "name": "sico (Gold) | Antwerp 2022",
+    "gen_id": 5823,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895666,
+    "BuffStickerId": 17193
+  },
+  {
+    "name": "Liazz | Antwerp 2022",
+    "gen_id": 5824,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894350,
+    "BuffStickerId": 16763
+  },
+  {
+    "name": "Liazz (Glitter) | Antwerp 2022",
+    "gen_id": 5825,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895388,
+    "BuffStickerId": 16972
+  },
+  {
+    "name": "Liazz (Holo) | Antwerp 2022",
+    "gen_id": 5826,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895463,
+    "BuffStickerId": 17036
+  },
+  {
+    "name": "Liazz (Gold) | Antwerp 2022",
+    "gen_id": 5827,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895607,
+    "BuffStickerId": 17305
+  },
+  {
+    "name": "hatz | Antwerp 2022",
+    "gen_id": 5828,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894362,
+    "BuffStickerId": 16772
+  },
+  {
+    "name": "hatz (Glitter) | Antwerp 2022",
+    "gen_id": 5829,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895548,
+    "BuffStickerId": 17098
+  },
+  {
+    "name": "hatz (Holo) | Antwerp 2022",
+    "gen_id": 5830,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895562,
+    "BuffStickerId": 17111
+  },
+  {
+    "name": "hatz (Gold) | Antwerp 2022",
+    "gen_id": 5831,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895645,
+    "BuffStickerId": 17184
+  },
+  {
+    "name": "aliStair | Antwerp 2022",
+    "gen_id": 5832,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894142,
+    "BuffStickerId": 16650
+  },
+  {
+    "name": "aliStair (Glitter) | Antwerp 2022",
+    "gen_id": 5833,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895418,
+    "BuffStickerId": 17000
+  },
+  {
+    "name": "aliStair (Holo) | Antwerp 2022",
+    "gen_id": 5834,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895613,
+    "BuffStickerId": 17155
+  },
+  {
+    "name": "aliStair (Gold) | Antwerp 2022",
+    "gen_id": 5835,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895549,
+    "BuffStickerId": 17099
+  },
+  {
+    "name": "shox | Antwerp 2022",
+    "gen_id": 5836,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894345,
+    "BuffStickerId": 16758
+  },
+  {
+    "name": "shox (Glitter) | Antwerp 2022",
+    "gen_id": 5837,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895494,
+    "BuffStickerId": 17278
+  },
+  {
+    "name": "shox (Holo) | Antwerp 2022",
+    "gen_id": 5838,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895541,
+    "BuffStickerId": 17092
+  },
+  {
+    "name": "shox (Gold) | Antwerp 2022",
+    "gen_id": 5839,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895433,
+    "BuffStickerId": 17014
+  },
+  {
+    "name": "EliGE | Antwerp 2022",
+    "gen_id": 5840,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894174,
+    "BuffStickerId": 16672
+  },
+  {
+    "name": "EliGE (Glitter) | Antwerp 2022",
+    "gen_id": 5841,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895368,
+    "BuffStickerId": 17264
+  },
+  {
+    "name": "EliGE (Holo) | Antwerp 2022",
+    "gen_id": 5842,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895534,
+    "BuffStickerId": 17283
+  },
+  {
+    "name": "EliGE (Gold) | Antwerp 2022",
+    "gen_id": 5843,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895643,
+    "BuffStickerId": 17182
+  },
+  {
+    "name": "oSee | Antwerp 2022",
+    "gen_id": 5844,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894399,
+    "BuffStickerId": 16805
+  },
+  {
+    "name": "oSee (Glitter) | Antwerp 2022",
+    "gen_id": 5845,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895382,
+    "BuffStickerId": 16966
+  },
+  {
+    "name": "oSee (Holo) | Antwerp 2022",
+    "gen_id": 5846,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895448,
+    "BuffStickerId": 17270
+  },
+  {
+    "name": "oSee (Gold) | Antwerp 2022",
+    "gen_id": 5847,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895625,
+    "BuffStickerId": 17166
+  },
+  {
+    "name": "nitr0 | Antwerp 2022",
+    "gen_id": 5848,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895365,
+    "BuffStickerId": 16951
+  },
+  {
+    "name": "nitr0 (Glitter) | Antwerp 2022",
+    "gen_id": 5849,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895506,
+    "BuffStickerId": 17071
+  },
+  {
+    "name": "nitr0 (Holo) | Antwerp 2022",
+    "gen_id": 5850,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895559,
+    "BuffStickerId": 17108
+  },
+  {
+    "name": "nitr0 (Gold) | Antwerp 2022",
+    "gen_id": 5851,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "NAF | Antwerp 2022",
+    "gen_id": 5852,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895346,
+    "BuffStickerId": 16934
+  },
+  {
+    "name": "NAF (Glitter) | Antwerp 2022",
+    "gen_id": 5853,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895507,
+    "BuffStickerId": 17072
+  },
+  {
+    "name": "NAF (Holo) | Antwerp 2022",
+    "gen_id": 5854,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895413,
+    "BuffStickerId": 16995
+  },
+  {
+    "name": "NAF (Gold) | Antwerp 2022",
+    "gen_id": 5855,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895638,
+    "BuffStickerId": 17318
+  },
+  {
+    "name": "rox | Antwerp 2022",
+    "gen_id": 5856,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894286,
+    "BuffStickerId": 16710
+  },
+  {
+    "name": "rox (Glitter) | Antwerp 2022",
+    "gen_id": 5857,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895385,
+    "BuffStickerId": 16969
+  },
+  {
+    "name": "rox (Holo) | Antwerp 2022",
+    "gen_id": 5858,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895464,
+    "BuffStickerId": 17037
+  },
+  {
+    "name": "rox (Gold) | Antwerp 2022",
+    "gen_id": 5859,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895624,
+    "BuffStickerId": 17311
+  },
+  {
+    "name": "luken | Antwerp 2022",
+    "gen_id": 5860,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "luken (Glitter) | Antwerp 2022",
+    "gen_id": 5861,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895469,
+    "BuffStickerId": 17042
+  },
+  {
+    "name": "luken (Holo) | Antwerp 2022",
+    "gen_id": 5862,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895556,
+    "BuffStickerId": 17289
+  },
+  {
+    "name": "luken (Gold) | Antwerp 2022",
+    "gen_id": 5863,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895495,
+    "BuffStickerId": 17279
+  },
+  {
+    "name": "max | Antwerp 2022",
+    "gen_id": 5864,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 894343,
+    "BuffStickerId": 16756
+  },
+  {
+    "name": "max (Glitter) | Antwerp 2022",
+    "gen_id": 5865,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895449,
+    "BuffStickerId": 17022
+  },
+  {
+    "name": "max (Holo) | Antwerp 2022",
+    "gen_id": 5866,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895634,
+    "BuffStickerId": 17175
+  },
+  {
+    "name": "max (Gold) | Antwerp 2022",
+    "gen_id": 5867,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895665,
+    "BuffStickerId": 17192
+  },
+  {
+    "name": "dgt | Antwerp 2022",
+    "gen_id": 5868,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 895288,
+    "BuffStickerId": 16886
+  },
+  {
+    "name": "dgt (Glitter) | Antwerp 2022",
+    "gen_id": 5869,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 895538,
+    "BuffStickerId": 17089
+  },
+  {
+    "name": "dgt (Holo) | Antwerp 2022",
+    "gen_id": 5870,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895626,
+    "BuffStickerId": 17312
+  },
+  {
+    "name": "dgt (Gold) | Antwerp 2022",
+    "gen_id": 5871,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "dav1d | Antwerp 2022",
+    "gen_id": 5872,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "dav1d (Glitter) | Antwerp 2022",
+    "gen_id": 5873,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 894440,
+    "BuffStickerId": 16841
+  },
+  {
+    "name": "dav1d (Holo) | Antwerp 2022",
+    "gen_id": 5874,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895579,
+    "BuffStickerId": 17240
+  },
+  {
+    "name": "dav1d (Gold) | Antwerp 2022",
+    "gen_id": 5875,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895642,
+    "BuffStickerId": 17320
+  },
+  {
+    "name": "rain (Champion) | Antwerp 2022",
+    "gen_id": 5876,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 896639,
+    "BuffStickerId": 17326
+  },
+  {
+    "name": "rain (Glitter, Champion) | Antwerp 2022",
+    "gen_id": 5877,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896637,
+    "BuffStickerId": 17324
+  },
+  {
+    "name": "rain (Holo, Champion) | Antwerp 2022",
+    "gen_id": 5878,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896650,
+    "BuffStickerId": 17333
+  },
+  {
+    "name": "rain (Gold, Champion) | Antwerp 2022",
+    "gen_id": 5879,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 896651,
+    "BuffStickerId": 17334
+  },
+  {
+    "name": "karrigan (Champion) | Antwerp 2022",
+    "gen_id": 5880,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 896636,
+    "BuffStickerId": 17323
+  },
+  {
+    "name": "karrigan (Glitter, Champion) | Antwerp 2022",
+    "gen_id": 5881,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896638,
+    "BuffStickerId": 17325
+  },
+  {
+    "name": "karrigan (Holo, Champion) | Antwerp 2022",
+    "gen_id": 5882,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896648,
+    "BuffStickerId": 17331
+  },
+  {
+    "name": "karrigan (Gold, Champion) | Antwerp 2022",
+    "gen_id": 5883,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 896658,
+    "BuffStickerId": 17340
+  },
+  {
+    "name": "Twistzz (Champion) | Antwerp 2022",
+    "gen_id": 5884,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 896634,
+    "BuffStickerId": 17321
+  },
+  {
+    "name": "Twistzz (Glitter, Champion) | Antwerp 2022",
+    "gen_id": 5885,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896649,
+    "BuffStickerId": 17332
+  },
+  {
+    "name": "Twistzz (Holo, Champion) | Antwerp 2022",
+    "gen_id": 5886,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Twistzz (Gold, Champion) | Antwerp 2022",
+    "gen_id": 5887,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 896656,
+    "BuffStickerId": 17338
+  },
+  {
+    "name": "broky (Champion) | Antwerp 2022",
+    "gen_id": 5888,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 896642,
+    "BuffStickerId": 17328
+  },
+  {
+    "name": "broky (Glitter, Champion) | Antwerp 2022",
+    "gen_id": 5889,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896644,
+    "BuffStickerId": 17329
+  },
+  {
+    "name": "broky (Holo, Champion) | Antwerp 2022",
+    "gen_id": 5890,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896635,
+    "BuffStickerId": 17322
+  },
+  {
+    "name": "broky (Gold, Champion) | Antwerp 2022",
+    "gen_id": 5891,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 896657,
+    "BuffStickerId": 17339
+  },
+  {
+    "name": "ropz (Champion) | Antwerp 2022",
+    "gen_id": 5892,
+    "tournament": "Antwerp 2022",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 896645,
+    "BuffStickerId": 17330
+  },
+  {
+    "name": "ropz (Glitter, Champion) | Antwerp 2022",
+    "gen_id": 5893,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896640,
+    "BuffStickerId": 17327
+  },
+  {
+    "name": "ropz (Holo, Champion) | Antwerp 2022",
+    "gen_id": 5894,
+    "tournament": "Antwerp 2022",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 896652,
+    "BuffStickerId": 17335
+  },
+  {
+    "name": "ropz (Gold, Champion) | Antwerp 2022",
+    "gen_id": 5895,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 896655,
+    "BuffStickerId": 17337
+  }
+]

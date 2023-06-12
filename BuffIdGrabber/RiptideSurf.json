@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Orange Gnar",
+    "gen_id": 4817,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Blue Gnar",
+    "gen_id": 4818,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Green Gnar",
+    "gen_id": 4819,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871557,
+    "BuffStickerId": 16106
+  },
+  {
+    "name": "Purple Gnar",
+    "gen_id": 4820,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871718,
+    "BuffStickerId": 16108
+  },
+  {
+    "name": "Yellow Jaggyfish",
+    "gen_id": 4821,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871391,
+    "BuffStickerId": 16014
+  },
+  {
+    "name": "Pink Jaggyfish",
+    "gen_id": 4822,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871477,
+    "BuffStickerId": 16018
+  },
+  {
+    "name": "Purple Jaggyfish",
+    "gen_id": 4823,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871223,
+    "BuffStickerId": 16006
+  },
+  {
+    "name": "Black Jaggyfish",
+    "gen_id": 4824,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871629,
+    "BuffStickerId": 16051
+  },
+  {
+    "name": "Blue Lethal",
+    "gen_id": 4825,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871670,
+    "BuffStickerId": 16059
+  },
+  {
+    "name": "Green Lethal",
+    "gen_id": 4826,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871365,
+    "BuffStickerId": 16012
+  },
+  {
+    "name": "Fade Lethal",
+    "gen_id": 4827,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871741,
+    "BuffStickerId": 16077
+  },
+  {
+    "name": "Yellow Lethal",
+    "gen_id": 4828,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871510,
+    "BuffStickerId": 16024
+  },
+  {
+    "name": "Green Shark Shooter",
+    "gen_id": 4829,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871508,
+    "BuffStickerId": 16022
+  },
+  {
+    "name": "Black Shark Shooter",
+    "gen_id": 4830,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871633,
+    "BuffStickerId": 16054
+  },
+  {
+    "name": "Blue Shark Shooter",
+    "gen_id": 4831,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871563,
+    "BuffStickerId": 16042
+  },
+  {
+    "name": "Red Shark Shooter",
+    "gen_id": 4832,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871364,
+    "BuffStickerId": 16011
+  },
+  {
+    "name": "Green Cyclawps",
+    "gen_id": 4833,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871632,
+    "BuffStickerId": 16053
+  },
+  {
+    "name": "Red Cyclawps",
+    "gen_id": 4834,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871695,
+    "BuffStickerId": 16063
+  },
+  {
+    "name": "Purple Cyclawps",
+    "gen_id": 4835,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871553,
+    "BuffStickerId": 16036
+  },
+  {
+    "name": "Yellow Cyclawps",
+    "gen_id": 4836,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871524,
+    "BuffStickerId": 16026
+  },
+  {
+    "name": "Purple Bombster",
+    "gen_id": 4837,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871505,
+    "BuffStickerId": 16021
+  },
+  {
+    "name": "White Bombster",
+    "gen_id": 4838,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871591,
+    "BuffStickerId": 16047
+  },
+  {
+    "name": "Green Bombster",
+    "gen_id": 4839,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871565,
+    "BuffStickerId": 16044
+  },
+  {
+    "name": "Yellow Bombster",
+    "gen_id": 4840,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871738,
+    "BuffStickerId": 16074
+  },
+  {
+    "name": "Watermelon Tentaskull",
+    "gen_id": 4841,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871611,
+    "BuffStickerId": 16104
+  },
+  {
+    "name": "Blood Moon Tentaskull",
+    "gen_id": 4842,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871588,
+    "BuffStickerId": 16046
+  },
+  {
+    "name": "Sunset Ocean Tentaskull",
+    "gen_id": 4843,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871530,
+    "BuffStickerId": 16032
+  },
+  {
+    "name": "Toxic Tentaskull",
+    "gen_id": 4844,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871560,
+    "BuffStickerId": 16109
+  },
+  {
+    "name": "Watermelon Stabbyfish",
+    "gen_id": 4845,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871634,
+    "BuffStickerId": 16055
+  },
+  {
+    "name": "Miami Stabbyfish",
+    "gen_id": 4846,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "After Hours Stabbyfish",
+    "gen_id": 4847,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871543,
+    "BuffStickerId": 16034
+  },
+  {
+    "name": "Ocean Sunset Stabbyfish",
+    "gen_id": 4848,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871488,
+    "BuffStickerId": 16020
+  },
+  {
+    "name": "Miami Wave Rider",
+    "gen_id": 4849,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Blood Moon Wave Rider",
+    "gen_id": 4850,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Toxic Wave Rider",
+    "gen_id": 4851,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871525,
+    "BuffStickerId": 16027
+  },
+  {
+    "name": "Fools Gold Wave Rider",
+    "gen_id": 4852,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 871116,
+    "BuffStickerId": 16004
+  },
+  {
+    "name": "Candy Buttery (Holo)",
+    "gen_id": 4853,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871851,
+    "BuffStickerId": 16095
+  },
+  {
+    "name": "Flame Buttery (Holo)",
+    "gen_id": 4854,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871726,
+    "BuffStickerId": 16071
+  },
+  {
+    "name": "Watermelon Buttery (Holo)",
+    "gen_id": 4855,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871740,
+    "BuffStickerId": 16076
+  },
+  {
+    "name": "Miami Skill Surf (Holo)",
+    "gen_id": 4855,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871482,
+    "BuffStickerId": 16019
+  },
+  {
+    "name": "Opal Flick (Holo)",
+    "gen_id": 4857,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871526,
+    "BuffStickerId": 16028
+  },
+  {
+    "name": "Ocean Sunset Flick (Holo)",
+    "gen_id": 4858,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871753,
+    "BuffStickerId": 16083
+  },
+  {
+    "name": "Mercury Flick (Holo)",
+    "gen_id": 4859,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871663,
+    "BuffStickerId": 16057
+  },
+  {
+    "name": "Miami Flick (Holo)",
+    "gen_id": 4860,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871450,
+    "BuffStickerId": 16015
+  },
+  {
+    "name": "Watermelon Flow (Holo)",
+    "gen_id": 4861,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871559,
+    "BuffStickerId": 16039
+  },
+  {
+    "name": "Toxic Flow (Holo)",
+    "gen_id": 4862,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871855,
+    "BuffStickerId": 16097
+  },
+  {
+    "name": "Cotton Candy Flow (Holo)",
+    "gen_id": 4863,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871643,
+    "BuffStickerId": 16056
+  },
+  {
+    "name": "Miami Flow (Holo)",
+    "gen_id": 4864,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871474,
+    "BuffStickerId": 16016
+  },
+  {
+    "name": "Ocean Sunset Skill Surf (Holo)",
+    "gen_id": 4866,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871597,
+    "BuffStickerId": 16048
+  },
+  {
+    "name": "Coral Skill Surf (Holo)",
+    "gen_id": 4867,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871743,
+    "BuffStickerId": 16079
+  },
+  {
+    "name": "Bubble Gum Skill Surf (Holo)",
+    "gen_id": 4868,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871795,
+    "BuffStickerId": 16088
+  },
+  {
+    "name": "Abalone Strafe (Holo)",
+    "gen_id": 4869,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871735,
+    "BuffStickerId": 16073
+  },
+  {
+    "name": "Watermelon Strafe (Holo)",
+    "gen_id": 4870,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871725,
+    "BuffStickerId": 16070
+  },
+  {
+    "name": "Mood Ring Strafe (Holo)",
+    "gen_id": 4871,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871800,
+    "BuffStickerId": 16089
+  },
+  {
+    "name": "Neon Opal Strafe (Holo)",
+    "gen_id": 4872,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871732,
+    "BuffStickerId": 16072
+  },
+  {
+    "name": "Flame Tier6 (Holo)",
+    "gen_id": 4873,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871750,
+    "BuffStickerId": 16081
+  },
+  {
+    "name": "Watermelon Tier6 (Holo)",
+    "gen_id": 4874,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871724,
+    "BuffStickerId": 16069
+  },
+  {
+    "name": "Miami Tier6 (Holo)",
+    "gen_id": 4875,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871094,
+    "BuffStickerId": 16002
+  },
+  {
+    "name": "Forge Tier6 (Holo)",
+    "gen_id": 4876,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871689,
+    "BuffStickerId": 16061
+  },
+  {
+    "name": "Sticker Bomb Surf Ava (Foil)",
+    "gen_id": 4877,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871475,
+    "BuffStickerId": 16017
+  },
+  {
+    "name": "Dragon Lore Surf Ava (Foil)",
+    "gen_id": 4878,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871713,
+    "BuffStickerId": 16067
+  },
+  {
+    "name": "Akihabara Accept Surf Ava (Foil)",
+    "gen_id": 4879,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871854,
+    "BuffStickerId": 16096
+  },
+  {
+    "name": "Dark Water Surf Ava (Foil)",
+    "gen_id": 4880,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871686,
+    "BuffStickerId": 16060
+  },
+  {
+    "name": "Ultraviolet Poison Frog (Foil)",
+    "gen_id": 4881,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871744,
+    "BuffStickerId": 16080
+  },
+  {
+    "name": "Miami Buttery (Holo)",
+    "gen_id": 4884,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 871692,
+    "BuffStickerId": 16062
+  },
+  {
+    "name": "Lore Poison Frog (Foil)",
+    "gen_id": 4920,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Crimson Web Poison Frog (Foil)",
+    "gen_id": 4921,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871742,
+    "BuffStickerId": 16078
+  },
+  {
+    "name": "Doppler Poison Frog (Foil)",
+    "gen_id": 4922,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871804,
+    "BuffStickerId": 16090
+  },
+  {
+    "name": "Sticker Bomb Surf K (Foil)",
+    "gen_id": 4950,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871775,
+    "BuffStickerId": 16086
+  },
+  {
+    "name": "Hypnotic Surf K (Foil)",
+    "gen_id": 4951,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Fire Serpent Surf K (Foil)",
+    "gen_id": 4952,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": 871837,
+    "BuffStickerId": 16092
+  },
+  {
+    "name": "Blaze Surf K (Foil)",
+    "gen_id": 4953,
+    "tournament": "Riptide Surf Shop Sticker Collection",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  }
+]

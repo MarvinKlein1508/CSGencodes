@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Vitality | 2020 RMR",
+    "gen_id": 4701,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847203,
+    "BuffStickerId": 15778
+  },
+  {
+    "name": "Vitality (Holo) | 2020 RMR",
+    "gen_id": 4702,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847233,
+    "BuffStickerId": 15798
+  },
+  {
+    "name": "Vitality (Foil) | 2020 RMR",
+    "gen_id": 4703,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Vitality (Gold) | 2020 RMR",
+    "gen_id": 4704,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847232,
+    "BuffStickerId": 15797
+  },
+  {
+    "name": "Heroic | 2020 RMR",
+    "gen_id": 4705,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847224,
+    "BuffStickerId": 15789
+  },
+  {
+    "name": "Heroic (Holo) | 2020 RMR",
+    "gen_id": 4706,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847200,
+    "BuffStickerId": 15776
+  },
+  {
+    "name": "Heroic (Foil) | 2020 RMR",
+    "gen_id": 4707,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847296,
+    "BuffStickerId": 15833
+  },
+  {
+    "name": "Heroic (Gold) | 2020 RMR",
+    "gen_id": 4708,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847281,
+    "BuffStickerId": 15819
+  },
+  {
+    "name": "Ninjas in Pyjamas | 2020 RMR",
+    "gen_id": 4709,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847194,
+    "BuffStickerId": 15771
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | 2020 RMR",
+    "gen_id": 4710,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847280,
+    "BuffStickerId": 15818
+  },
+  {
+    "name": "Ninjas in Pyjamas (Foil) | 2020 RMR",
+    "gen_id": 4711,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847260,
+    "BuffStickerId": 15805
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | 2020 RMR",
+    "gen_id": 4712,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847313,
+    "BuffStickerId": 15850
+  },
+  {
+    "name": "Astralis | 2020 RMR",
+    "gen_id": 4713,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847195,
+    "BuffStickerId": 15772
+  },
+  {
+    "name": "Astralis (Holo) | 2020 RMR",
+    "gen_id": 4714,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847228,
+    "BuffStickerId": 15793
+  },
+  {
+    "name": "Astralis (Foil) | 2020 RMR",
+    "gen_id": 4715,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847305,
+    "BuffStickerId": 15842
+  },
+  {
+    "name": "Astralis (Gold) | 2020 RMR",
+    "gen_id": 4716,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847308,
+    "BuffStickerId": 15845
+  },
+  {
+    "name": "BIG | 2020 RMR",
+    "gen_id": 4717,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847219,
+    "BuffStickerId": 15784
+  },
+  {
+    "name": "BIG (Holo) | 2020 RMR",
+    "gen_id": 4718,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847283,
+    "BuffStickerId": 15820
+  },
+  {
+    "name": "BIG (Foil) | 2020 RMR",
+    "gen_id": 4719,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847301,
+    "BuffStickerId": 15838
+  },
+  {
+    "name": "BIG (Gold) | 2020 RMR",
+    "gen_id": 4720,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847325,
+    "BuffStickerId": 15861
+  },
+  {
+    "name": "Fnatic | 2020 RMR",
+    "gen_id": 4721,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847196,
+    "BuffStickerId": 15773
+  },
+  {
+    "name": "Fnatic (Holo) | 2020 RMR",
+    "gen_id": 4722,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847262,
+    "BuffStickerId": 15807
+  },
+  {
+    "name": "Fnatic (Foil) | 2020 RMR",
+    "gen_id": 4723,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847312,
+    "BuffStickerId": 15849
+  },
+  {
+    "name": "Fnatic (Gold) | 2020 RMR",
+    "gen_id": 4724,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847320,
+    "BuffStickerId": 15856
+  },
+  {
+    "name": "G2 | 2020 RMR",
+    "gen_id": 4725,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847216,
+    "BuffStickerId": 15781
+  },
+  {
+    "name": "G2 (Holo) | 2020 RMR",
+    "gen_id": 4726,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "G2 (Foil) | 2020 RMR",
+    "gen_id": 4727,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847290,
+    "BuffStickerId": 15827
+  },
+  {
+    "name": "G2 (Gold) | 2020 RMR",
+    "gen_id": 4728,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "OG | 2020 RMR",
+    "gen_id": 4729,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847197,
+    "BuffStickerId": 15774
+  },
+  {
+    "name": "OG (Holo) | 2020 RMR",
+    "gen_id": 4730,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847285,
+    "BuffStickerId": 15822
+  },
+  {
+    "name": "OG (Foil) | 2020 RMR",
+    "gen_id": 4731,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847306,
+    "BuffStickerId": 15843
+  },
+  {
+    "name": "OG (Gold) | 2020 RMR",
+    "gen_id": 4732,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847300,
+    "BuffStickerId": 15837
+  },
+  {
+    "name": "GODSENT | 2020 RMR",
+    "gen_id": 4733,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "GODSENT (Holo) | 2020 RMR",
+    "gen_id": 4734,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847231,
+    "BuffStickerId": 15796
+  },
+  {
+    "name": "GODSENT (Foil) | 2020 RMR",
+    "gen_id": 4735,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847284,
+    "BuffStickerId": 15821
+  },
+  {
+    "name": "GODSENT (Gold) | 2020 RMR",
+    "gen_id": 4736,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847322,
+    "BuffStickerId": 15858
+  },
+  {
+    "name": "FaZe | 2020 RMR",
+    "gen_id": 4737,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847259,
+    "BuffStickerId": 15804
+  },
+  {
+    "name": "FaZe (Holo) | 2020 RMR",
+    "gen_id": 4738,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847272,
+    "BuffStickerId": 15814
+  },
+  {
+    "name": "FaZe (Foil) | 2020 RMR",
+    "gen_id": 4739,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847304,
+    "BuffStickerId": 15841
+  },
+  {
+    "name": "FaZe (Gold) | 2020 RMR",
+    "gen_id": 4740,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847330,
+    "BuffStickerId": 15865
+  },
+  {
+    "name": "North | 2020 RMR",
+    "gen_id": 4741,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847276,
+    "BuffStickerId": 15816
+  },
+  {
+    "name": "North (Holo) | 2020 RMR",
+    "gen_id": 4742,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847294,
+    "BuffStickerId": 15831
+  },
+  {
+    "name": "North (Foil) | 2020 RMR",
+    "gen_id": 4743,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847271,
+    "BuffStickerId": 15813
+  },
+  {
+    "name": "North (Gold) | 2020 RMR",
+    "gen_id": 4744,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847331,
+    "BuffStickerId": 15866
+  },
+  {
+    "name": "Spirit | 2020 RMR",
+    "gen_id": 4745,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847222,
+    "BuffStickerId": 15787
+  },
+  {
+    "name": "Spirit (Holo) | 2020 RMR",
+    "gen_id": 4746,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847223,
+    "BuffStickerId": 15788
+  },
+  {
+    "name": "Spirit (Foil) | 2020 RMR",
+    "gen_id": 4747,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847287,
+    "BuffStickerId": 15824
+  },
+  {
+    "name": "Spirit (Gold) | 2020 RMR",
+    "gen_id": 4748,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847319,
+    "BuffStickerId": 15855
+  },
+  {
+    "name": "Natus Vincere | 2020 RMR",
+    "gen_id": 4749,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847201,
+    "BuffStickerId": 15777
+  },
+  {
+    "name": "Natus Vincere (Holo) | 2020 RMR",
+    "gen_id": 4750,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847234,
+    "BuffStickerId": 15799
+  },
+  {
+    "name": "Natus Vincere (Foil) | 2020 RMR",
+    "gen_id": 4751,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Natus Vincere (Gold) | 2020 RMR",
+    "gen_id": 4752,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847323,
+    "BuffStickerId": 15859
+  },
+  {
+    "name": "Nemiga | 2020 RMR",
+    "gen_id": 4753,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847218,
+    "BuffStickerId": 15783
+  },
+  {
+    "name": "Nemiga (Holo) | 2020 RMR",
+    "gen_id": 4754,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847293,
+    "BuffStickerId": 15830
+  },
+  {
+    "name": "Nemiga (Foil) | 2020 RMR",
+    "gen_id": 4755,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Nemiga (Gold) | 2020 RMR",
+    "gen_id": 4756,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847316,
+    "BuffStickerId": 15853
+  },
+  {
+    "name": "Virtus.pro | 2020 RMR",
+    "gen_id": 4757,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847269,
+    "BuffStickerId": 15811
+  },
+  {
+    "name": "Virtus.pro (Holo) | 2020 RMR",
+    "gen_id": 4758,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Virtus.pro (Foil) | 2020 RMR",
+    "gen_id": 4759,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847270,
+    "BuffStickerId": 15812
+  },
+  {
+    "name": "Virtus.pro (Gold) | 2020 RMR",
+    "gen_id": 4760,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847326,
+    "BuffStickerId": 15862
+  },
+  {
+    "name": "ESPADA | 2020 RMR",
+    "gen_id": 4761,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847264,
+    "BuffStickerId": 15809
+  },
+  {
+    "name": "ESPADA (Holo) | 2020 RMR",
+    "gen_id": 4762,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847263,
+    "BuffStickerId": 15808
+  },
+  {
+    "name": "ESPADA (Foil) | 2020 RMR",
+    "gen_id": 4763,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847314,
+    "BuffStickerId": 15851
+  },
+  {
+    "name": "ESPADA (Gold) | 2020 RMR",
+    "gen_id": 4764,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847317,
+    "BuffStickerId": 15854
+  },
+  {
+    "name": "Evil Geniuses | 2020 RMR",
+    "gen_id": 4765,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847205,
+    "BuffStickerId": 15779
+  },
+  {
+    "name": "Evil Geniuses (Holo) | 2020 RMR",
+    "gen_id": 4766,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847255,
+    "BuffStickerId": 15800
+  },
+  {
+    "name": "Evil Geniuses (Foil) | 2020 RMR",
+    "gen_id": 4767,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847295,
+    "BuffStickerId": 15832
+  },
+  {
+    "name": "Evil Geniuses (Gold) | 2020 RMR",
+    "gen_id": 4768,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847302,
+    "BuffStickerId": 15839
+  },
+  {
+    "name": "100 Thieves | 2020 RMR",
+    "gen_id": 4769,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847198,
+    "BuffStickerId": 15775
+  },
+  {
+    "name": "100 Thieves (Holo) | 2020 RMR",
+    "gen_id": 4770,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847286,
+    "BuffStickerId": 15823
+  },
+  {
+    "name": "100 Thieves (Foil) | 2020 RMR",
+    "gen_id": 4771,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847227,
+    "BuffStickerId": 15792
+  },
+  {
+    "name": "100 Thieves (Gold) | 2020 RMR",
+    "gen_id": 4772,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847310,
+    "BuffStickerId": 15847
+  },
+  {
+    "name": "FURIA | 2020 RMR",
+    "gen_id": 4773,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847208,
+    "BuffStickerId": 15780
+  },
+  {
+    "name": "FURIA (Holo) | 2020 RMR",
+    "gen_id": 4774,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FURIA (Foil) | 2020 RMR",
+    "gen_id": 4775,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847226,
+    "BuffStickerId": 15791
+  },
+  {
+    "name": "FURIA (Gold) | 2020 RMR",
+    "gen_id": 4776,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847297,
+    "BuffStickerId": 15834
+  },
+  {
+    "name": "Liquid | 2020 RMR",
+    "gen_id": 4777,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847217,
+    "BuffStickerId": 15782
+  },
+  {
+    "name": "Liquid (Holo) | 2020 RMR",
+    "gen_id": 4778,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Liquid (Foil) | 2020 RMR",
+    "gen_id": 4779,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847307,
+    "BuffStickerId": 15844
+  },
+  {
+    "name": "Liquid (Gold) | 2020 RMR",
+    "gen_id": 4780,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847309,
+    "BuffStickerId": 15846
+  },
+  {
+    "name": "Gen.G | 2020 RMR",
+    "gen_id": 4781,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847230,
+    "BuffStickerId": 15795
+  },
+  {
+    "name": "Gen.G (Holo) | 2020 RMR",
+    "gen_id": 4782,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847258,
+    "BuffStickerId": 15803
+  },
+  {
+    "name": "Gen.G (Foil) | 2020 RMR",
+    "gen_id": 4783,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Gen.G (Gold) | 2020 RMR",
+    "gen_id": 4784,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847315,
+    "BuffStickerId": 15852
+  },
+  {
+    "name": "Boom | 2020 RMR",
+    "gen_id": 4785,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847221,
+    "BuffStickerId": 15786
+  },
+  {
+    "name": "Boom (Holo) | 2020 RMR",
+    "gen_id": 4786,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Boom (Foil) | 2020 RMR",
+    "gen_id": 4787,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847311,
+    "BuffStickerId": 15848
+  },
+  {
+    "name": "Boom (Gold) | 2020 RMR",
+    "gen_id": 4788,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847328,
+    "BuffStickerId": 15863
+  },
+  {
+    "name": "Renegades | 2020 RMR",
+    "gen_id": 4789,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847225,
+    "BuffStickerId": 15790
+  },
+  {
+    "name": "Renegades (Holo) | 2020 RMR",
+    "gen_id": 4790,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 847279,
+    "BuffStickerId": 15817
+  },
+  {
+    "name": "Renegades (Foil) | 2020 RMR",
+    "gen_id": 4791,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847274,
+    "BuffStickerId": 15815
+  },
+  {
+    "name": "Renegades (Gold) | 2020 RMR",
+    "gen_id": 4792,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847329,
+    "BuffStickerId": 15864
+  },
+  {
+    "name": "TYLOO | 2020 RMR",
+    "gen_id": 4793,
+    "tournament": "2020 RMR",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 847261,
+    "BuffStickerId": 15806
+  },
+  {
+    "name": "TYLOO (Holo) | 2020 RMR",
+    "gen_id": 4794,
+    "tournament": "2020 RMR",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "TYLOO (Foil) | 2020 RMR",
+    "gen_id": 4795,
+    "tournament": "2020 RMR",
+    "rarity": "Exotic",
+    "BuffGoodsId": 847303,
+    "BuffStickerId": 15840
+  },
+  {
+    "name": "TYLOO (Gold) | 2020 RMR",
+    "gen_id": 4796,
+    "tournament": "2020 RMR",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 847324,
+    "BuffStickerId": 15860
+  }
+]

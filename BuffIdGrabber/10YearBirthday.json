@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Arms Race",
+    "gen_id": 5896,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903813,
+    "BuffStickerId": 17359
+  },
+  {
+    "name": "B-Day",
+    "gen_id": 5897,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903818,
+    "BuffStickerId": 17364
+  },
+  {
+    "name": "Baby Cerberus",
+    "gen_id": 5898,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903806,
+    "BuffStickerId": 17353
+  },
+  {
+    "name": "Baby Fire Serpent",
+    "gen_id": 5899,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903810,
+    "BuffStickerId": 17356
+  },
+  {
+    "name": "Baby Howl",
+    "gen_id": 5900,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Baby Lore",
+    "gen_id": 5901,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Baby Medusa",
+    "gen_id": 5902,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903831,
+    "BuffStickerId": 17376
+  },
+  {
+    "name": "Beaky Decade",
+    "gen_id": 5903,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903802,
+    "BuffStickerId": 17349
+  },
+  {
+    "name": "Booth",
+    "gen_id": 5904,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903839,
+    "BuffStickerId": 17382
+  },
+  {
+    "name": "Call Your Flashes",
+    "gen_id": 5905,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903844,
+    "BuffStickerId": 17387
+  },
+  {
+    "name": "Chicken Whisperer",
+    "gen_id": 5906,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903825,
+    "BuffStickerId": 17370
+  },
+  {
+    "name": "Clicking Heads",
+    "gen_id": 5907,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903846,
+    "BuffStickerId": 17388
+  },
+  {
+    "name": "Co Co Co",
+    "gen_id": 5908,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903868,
+    "BuffStickerId": 17407
+  },
+  {
+    "name": "C-S On The Go",
+    "gen_id": 5909,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903822,
+    "BuffStickerId": 17368
+  },
+  {
+    "name": "Cursed Penmanship",
+    "gen_id": 5910,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903857,
+    "BuffStickerId": 17399
+  },
+  {
+    "name": "Dragon Tale",
+    "gen_id": 5911,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903814,
+    "BuffStickerId": 17360
+  },
+  {
+    "name": "Dragon\u0027s Keep",
+    "gen_id": 5912,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903812,
+    "BuffStickerId": 17358
+  },
+  {
+    "name": "Dreams And Mimics",
+    "gen_id": 5913,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903840,
+    "BuffStickerId": 17383
+  },
+  {
+    "name": "Endless Cycle",
+    "gen_id": 5914,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Exo Jumper",
+    "gen_id": 5915,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903852,
+    "BuffStickerId": 17394
+  },
+  {
+    "name": "Free Range",
+    "gen_id": 5916,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903847,
+    "BuffStickerId": 17389
+  },
+  {
+    "name": "Good Sports",
+    "gen_id": 5917,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903858,
+    "BuffStickerId": 17400
+  },
+  {
+    "name": "GO",
+    "gen_id": 5918,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40215,
+    "BuffStickerId": 1126
+  },
+  {
+    "name": "Good Versus Evil",
+    "gen_id": 5919,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903833,
+    "BuffStickerId": 17378
+  },
+  {
+    "name": "Green\u0027s Problem",
+    "gen_id": 5920,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903832,
+    "BuffStickerId": 17377
+  },
+  {
+    "name": "Laser Beam",
+    "gen_id": 5921,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903830,
+    "BuffStickerId": 17375
+  },
+  {
+    "name": "Monster",
+    "gen_id": 5922,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903848,
+    "BuffStickerId": 17390
+  },
+  {
+    "name": "Noble Steed",
+    "gen_id": 5923,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903821,
+    "BuffStickerId": 17367
+  },
+  {
+    "name": "Not For Resale",
+    "gen_id": 5924,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903816,
+    "BuffStickerId": 17362
+  },
+  {
+    "name": "Press Start",
+    "gen_id": 5925,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903805,
+    "BuffStickerId": 17352
+  },
+  {
+    "name": "Choose Wisely",
+    "gen_id": 5926,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903836,
+    "BuffStickerId": 17380
+  },
+  {
+    "name": "Shifty Tactics",
+    "gen_id": 5927,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903824,
+    "BuffStickerId": 17369
+  },
+  {
+    "name": "Rush More",
+    "gen_id": 5928,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903804,
+    "BuffStickerId": 17351
+  },
+  {
+    "name": "Save Me",
+    "gen_id": 5929,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903820,
+    "BuffStickerId": 17366
+  },
+  {
+    "name": "Agent Select",
+    "gen_id": 5930,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903851,
+    "BuffStickerId": 17393
+  },
+  {
+    "name": "This Is Fine (H)",
+    "gen_id": 5931,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903817,
+    "BuffStickerId": 17363
+  },
+  {
+    "name": "TV On Mirage",
+    "gen_id": 5932,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 903849,
+    "BuffStickerId": 17391
+  },
+  {
+    "name": "Zeused",
+    "gen_id": 5933,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Ace Clutch Co. (Holo)",
+    "gen_id": 5934,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Blue Gem (Glitter)",
+    "gen_id": 5935,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Go Boom (Glitter)",
+    "gen_id": 5936,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 903826,
+    "BuffStickerId": 17371
+  },
+  {
+    "name": "Cbbl (Holo)",
+    "gen_id": 5937,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 903862,
+    "BuffStickerId": 17404
+  },
+  {
+    "name": "Defuse It (Holo)",
+    "gen_id": 5938,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 903850,
+    "BuffStickerId": 17392
+  },
+  {
+    "name": "Conspiracy Club (Holo)",
+    "gen_id": 5939,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Get Smoked (Holo)",
+    "gen_id": 5940,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Kawaii CT (Holo)",
+    "gen_id": 5941,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 903838,
+    "BuffStickerId": 17381
+  },
+  {
+    "name": "Kawaii T (Holo)",
+    "gen_id": 5942,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Leaving The Station (Holo)",
+    "gen_id": 5943,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Pain Train (Holo)",
+    "gen_id": 5944,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 903855,
+    "BuffStickerId": 17397
+  },
+  {
+    "name": "Vertigo\u0027s Hero (Holo)",
+    "gen_id": 5945,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 903829,
+    "BuffStickerId": 17374
+  },
+  {
+    "name": "Zeusception (Holo)",
+    "gen_id": 5946,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Dust FA (Foil)",
+    "gen_id": 5947,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 903872,
+    "BuffStickerId": 17410
+  },
+  {
+    "name": "In The Fire (Foil)",
+    "gen_id": 5948,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 903807,
+    "BuffStickerId": 17354
+  },
+  {
+    "name": "Approaching Site (Foil)",
+    "gen_id": 5949,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 903861,
+    "BuffStickerId": 17403
+  },
+  {
+    "name": "Overpass Diorama (Foil)",
+    "gen_id": 5950,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Pure Malt (Foil)",
+    "gen_id": 5951,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 903871,
+    "BuffStickerId": 17409
+  },
+  {
+    "name": "Showdown (Foil)",
+    "gen_id": 5952,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 903860,
+    "BuffStickerId": 17402
+  },
+  {
+    "name": "Ten Years (Foil)",
+    "gen_id": 5953,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Romanov\u0027s Fire (Foil)",
+    "gen_id": 5954,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 903811,
+    "BuffStickerId": 17357
+  },
+  {
+    "name": "Freeze (Lenticular)",
+    "gen_id": 5955,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 903866,
+    "BuffStickerId": 17406
+  },
+  {
+    "name": "Global TV (Lenticular)",
+    "gen_id": 5956,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 903863,
+    "BuffStickerId": 17405
+  },
+  {
+    "name": "Magic Rush Ball (Lenticular)",
+    "gen_id": 5957,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 903859,
+    "BuffStickerId": 17401
+  },
+  {
+    "name": "DJ Safecracker (Lenticular)",
+    "gen_id": 5958,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 903869,
+    "BuffStickerId": 17408
+  },
+  {
+    "name": "Skin Lover (Lenticular)",
+    "gen_id": 5959,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 903873,
+    "BuffStickerId": 17411
+  },
+  {
+    "name": "TV Installation (Lenticular)",
+    "gen_id": 5960,
+    "tournament": "10 Year Birthday Sticker Capsule",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 903874,
+    "BuffStickerId": 17412
+  }
+]

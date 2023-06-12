@@ -42,5 +42,4 @@ namespace CSGO_GEN.Core.Models
             return gencode;
         }
     }
-
 }

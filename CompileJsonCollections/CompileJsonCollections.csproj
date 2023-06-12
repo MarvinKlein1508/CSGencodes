@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="data\buff\buff_sticker_data.json" />
     <None Remove="data\collections\2018Inferno.json" />
     <None Remove="data\collections\2018Nuke.json" />
     <None Remove="data\collections\2021Dust2.json" />
@@ -140,6 +141,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="data\buff\buff_sticker_data.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="data\collections\2018Inferno.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

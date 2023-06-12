@@ -1,0 +1,2434 @@
+[
+  {
+    "name": "Ninjas in Pyjamas | MLG Columbus 2016",
+    "gen_id": 1007,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | MLG Columbus 2016",
+    "gen_id": 1008,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40624,
+    "BuffStickerId": 1525
+  },
+  {
+    "name": "Ninjas in Pyjamas (Foil) | MLG Columbus 2016",
+    "gen_id": 1009,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40618,
+    "BuffStickerId": 1519
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | MLG Columbus 2016",
+    "gen_id": 1010,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Splyce | MLG Columbus 2016",
+    "gen_id": 1011,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40840,
+    "BuffStickerId": 1740
+  },
+  {
+    "name": "Splyce (Holo) | MLG Columbus 2016",
+    "gen_id": 1012,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40839,
+    "BuffStickerId": 1739
+  },
+  {
+    "name": "Splyce (Foil) | MLG Columbus 2016",
+    "gen_id": 1013,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40838,
+    "BuffStickerId": 1738
+  },
+  {
+    "name": "Splyce (Gold) | MLG Columbus 2016",
+    "gen_id": 1014,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Counter Logic Gaming | MLG Columbus 2016",
+    "gen_id": 1015,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Counter Logic Gaming (Holo) | MLG Columbus 2016",
+    "gen_id": 1016,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39985,
+    "BuffStickerId": 900
+  },
+  {
+    "name": "Counter Logic Gaming (Foil) | MLG Columbus 2016",
+    "gen_id": 1017,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39982,
+    "BuffStickerId": 897
+  },
+  {
+    "name": "Counter Logic Gaming (Gold) | MLG Columbus 2016",
+    "gen_id": 1018,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Gambit Gaming | MLG Columbus 2016",
+    "gen_id": 1019,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40230,
+    "BuffStickerId": 1141
+  },
+  {
+    "name": "Gambit Gaming (Holo) | MLG Columbus 2016",
+    "gen_id": 1020,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Gambit Gaming (Foil) | MLG Columbus 2016",
+    "gen_id": 1021,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40224,
+    "BuffStickerId": 1135
+  },
+  {
+    "name": "Gambit Gaming (Gold) | MLG Columbus 2016",
+    "gen_id": 1022,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Flipsid3 Tactics | MLG Columbus 2016",
+    "gen_id": 1023,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40160,
+    "BuffStickerId": 1071
+  },
+  {
+    "name": "Flipsid3 Tactics (Holo) | MLG Columbus 2016",
+    "gen_id": 1024,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40151,
+    "BuffStickerId": 1062
+  },
+  {
+    "name": "Flipsid3 Tactics (Foil) | MLG Columbus 2016",
+    "gen_id": 1025,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40145,
+    "BuffStickerId": 1056
+  },
+  {
+    "name": "Flipsid3 Tactics (Gold) | MLG Columbus 2016",
+    "gen_id": 1026,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Team Liquid | MLG Columbus 2016",
+    "gen_id": 1027,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40950,
+    "BuffStickerId": 1848
+  },
+  {
+    "name": "Team Liquid (Holo) | MLG Columbus 2016",
+    "gen_id": 1028,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40945,
+    "BuffStickerId": 1843
+  },
+  {
+    "name": "Team Liquid (Foil) | MLG Columbus 2016",
+    "gen_id": 1029,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40941,
+    "BuffStickerId": 1839
+  },
+  {
+    "name": "Team Liquid (Gold) | MLG Columbus 2016",
+    "gen_id": 1030,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "mousesports | MLG Columbus 2016",
+    "gen_id": 1031,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41687,
+    "BuffStickerId": 2584
+  },
+  {
+    "name": "mousesports (Holo) | MLG Columbus 2016",
+    "gen_id": 1032,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41679,
+    "BuffStickerId": 2576
+  },
+  {
+    "name": "mousesports (Foil) | MLG Columbus 2016",
+    "gen_id": 1033,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41673,
+    "BuffStickerId": 2570
+  },
+  {
+    "name": "mousesports (Gold) | MLG Columbus 2016",
+    "gen_id": 1034,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Natus Vincere | MLG Columbus 2016",
+    "gen_id": 1035,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40589,
+    "BuffStickerId": 1490
+  },
+  {
+    "name": "Natus Vincere (Holo) | MLG Columbus 2016",
+    "gen_id": 1036,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40578,
+    "BuffStickerId": 1479
+  },
+  {
+    "name": "Natus Vincere (Foil) | MLG Columbus 2016",
+    "gen_id": 1037,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40570,
+    "BuffStickerId": 1472
+  },
+  {
+    "name": "Natus Vincere (Gold) | MLG Columbus 2016",
+    "gen_id": 1038,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Virtus.Pro | MLG Columbus 2016",
+    "gen_id": 1039,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41042,
+    "BuffStickerId": 1939
+  },
+  {
+    "name": "Virtus.Pro (Holo) | MLG Columbus 2016",
+    "gen_id": 1040,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41032,
+    "BuffStickerId": 1929
+  },
+  {
+    "name": "Virtus.Pro (Foil) | MLG Columbus 2016",
+    "gen_id": 1041,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41024,
+    "BuffStickerId": 1921
+  },
+  {
+    "name": "Virtus.Pro (Gold) | MLG Columbus 2016",
+    "gen_id": 1042,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Cloud9 | MLG Columbus 2016",
+    "gen_id": 1043,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39971,
+    "BuffStickerId": 887
+  },
+  {
+    "name": "Cloud9 (Holo) | MLG Columbus 2016",
+    "gen_id": 1044,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39960,
+    "BuffStickerId": 876
+  },
+  {
+    "name": "Cloud9 (Foil) | MLG Columbus 2016",
+    "gen_id": 1045,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39955,
+    "BuffStickerId": 871
+  },
+  {
+    "name": "Cloud9 (Gold) | MLG Columbus 2016",
+    "gen_id": 1046,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "G2 Esports | MLG Columbus 2016",
+    "gen_id": 1047,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40214,
+    "BuffStickerId": 1125
+  },
+  {
+    "name": "G2 Esports (Holo) | MLG Columbus 2016",
+    "gen_id": 1048,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40208,
+    "BuffStickerId": 1119
+  },
+  {
+    "name": "G2 Esports (Foil) | MLG Columbus 2016",
+    "gen_id": 1049,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "G2 Esports (Gold) | MLG Columbus 2016",
+    "gen_id": 1050,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FaZe Clan | MLG Columbus 2016",
+    "gen_id": 1051,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40111,
+    "BuffStickerId": 1022
+  },
+  {
+    "name": "FaZe Clan (Holo) | MLG Columbus 2016",
+    "gen_id": 1052,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40106,
+    "BuffStickerId": 1017
+  },
+  {
+    "name": "FaZe Clan (Foil) | MLG Columbus 2016",
+    "gen_id": 1053,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40101,
+    "BuffStickerId": 1012
+  },
+  {
+    "name": "FaZe Clan (Gold) | MLG Columbus 2016",
+    "gen_id": 1054,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Astralis | MLG Columbus 2016",
+    "gen_id": 1055,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Astralis (Holo) | MLG Columbus 2016",
+    "gen_id": 1056,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39865,
+    "BuffStickerId": 784
+  },
+  {
+    "name": "Astralis (Foil) | MLG Columbus 2016",
+    "gen_id": 1057,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39860,
+    "BuffStickerId": 779
+  },
+  {
+    "name": "Astralis (Gold) | MLG Columbus 2016",
+    "gen_id": 1058,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Team EnVyUs | MLG Columbus 2016",
+    "gen_id": 1059,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Team EnVyUs (Holo) | MLG Columbus 2016",
+    "gen_id": 1060,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40920,
+    "BuffStickerId": 1818
+  },
+  {
+    "name": "Team EnVyUs (Foil) | MLG Columbus 2016",
+    "gen_id": 1061,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40915,
+    "BuffStickerId": 1813
+  },
+  {
+    "name": "Team EnVyUs (Gold) | MLG Columbus 2016",
+    "gen_id": 1062,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Fnatic | MLG Columbus 2016",
+    "gen_id": 1063,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40189,
+    "BuffStickerId": 1100
+  },
+  {
+    "name": "Fnatic (Holo) | MLG Columbus 2016",
+    "gen_id": 1064,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40178,
+    "BuffStickerId": 1089
+  },
+  {
+    "name": "Fnatic (Foil) | MLG Columbus 2016",
+    "gen_id": 1065,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40169,
+    "BuffStickerId": 1080
+  },
+  {
+    "name": "Fnatic (Gold) | MLG Columbus 2016",
+    "gen_id": 1066,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Luminosity Gaming | MLG Columbus 2016",
+    "gen_id": 1067,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40465,
+    "BuffStickerId": 1371
+  },
+  {
+    "name": "Luminosity Gaming (Holo) | MLG Columbus 2016",
+    "gen_id": 1068,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40462,
+    "BuffStickerId": 1368
+  },
+  {
+    "name": "Luminosity Gaming (Foil) | MLG Columbus 2016",
+    "gen_id": 1069,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40461,
+    "BuffStickerId": 1367
+  },
+  {
+    "name": "Luminosity Gaming (Gold) | MLG Columbus 2016",
+    "gen_id": 1070,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "reltuC | MLG Columbus 2016",
+    "gen_id": 1075,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41812,
+    "BuffStickerId": 2709
+  },
+  {
+    "name": "reltuC (Foil) | MLG Columbus 2016",
+    "gen_id": 1076,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41808,
+    "BuffStickerId": 2705
+  },
+  {
+    "name": "reltuC (Gold) | MLG Columbus 2016",
+    "gen_id": 1077,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FugLy | MLG Columbus 2016",
+    "gen_id": 1078,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40193,
+    "BuffStickerId": 1104
+  },
+  {
+    "name": "FugLy (Foil) | MLG Columbus 2016",
+    "gen_id": 1079,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40191,
+    "BuffStickerId": 1102
+  },
+  {
+    "name": "FugLy (Gold) | MLG Columbus 2016",
+    "gen_id": 1080,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "hazed | MLG Columbus 2016",
+    "gen_id": 1081,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41490,
+    "BuffStickerId": 2387
+  },
+  {
+    "name": "hazed (Foil) | MLG Columbus 2016",
+    "gen_id": 1082,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41486,
+    "BuffStickerId": 2383
+  },
+  {
+    "name": "hazed (Gold) | MLG Columbus 2016",
+    "gen_id": 1083,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "jdm64 | MLG Columbus 2016",
+    "gen_id": 1084,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41530,
+    "BuffStickerId": 2427
+  },
+  {
+    "name": "jdm64 (Foil) | MLG Columbus 2016",
+    "gen_id": 1085,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "jdm64 (Gold) | MLG Columbus 2016",
+    "gen_id": 1086,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "tarik | MLG Columbus 2016",
+    "gen_id": 1087,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41921,
+    "BuffStickerId": 2818
+  },
+  {
+    "name": "tarik (Foil) | MLG Columbus 2016",
+    "gen_id": 1088,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41914,
+    "BuffStickerId": 2811
+  },
+  {
+    "name": "tarik (Gold) | MLG Columbus 2016",
+    "gen_id": 1089,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "freakazoid | MLG Columbus 2016",
+    "gen_id": 1090,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41454,
+    "BuffStickerId": 2351
+  },
+  {
+    "name": "freakazoid (Foil) | MLG Columbus 2016",
+    "gen_id": 1091,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41451,
+    "BuffStickerId": 2348
+  },
+  {
+    "name": "freakazoid (Gold) | MLG Columbus 2016",
+    "gen_id": 1092,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Stewie2K | MLG Columbus 2016",
+    "gen_id": 1093,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40854,
+    "BuffStickerId": 1754
+  },
+  {
+    "name": "Stewie2K (Foil) | MLG Columbus 2016",
+    "gen_id": 1094,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40849,
+    "BuffStickerId": 1749
+  },
+  {
+    "name": "Stewie2K (Gold) | MLG Columbus 2016",
+    "gen_id": 1095,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "shroud | MLG Columbus 2016",
+    "gen_id": 1096,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41878,
+    "BuffStickerId": 2775
+  },
+  {
+    "name": "shroud (Foil) | MLG Columbus 2016",
+    "gen_id": 1097,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41873,
+    "BuffStickerId": 2770
+  },
+  {
+    "name": "shroud (Gold) | MLG Columbus 2016",
+    "gen_id": 1098,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Skadoodle | MLG Columbus 2016",
+    "gen_id": 1099,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40789,
+    "BuffStickerId": 1689
+  },
+  {
+    "name": "Skadoodle (Foil) | MLG Columbus 2016",
+    "gen_id": 1100,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40782,
+    "BuffStickerId": 1682
+  },
+  {
+    "name": "Skadoodle (Gold) | MLG Columbus 2016",
+    "gen_id": 1101,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "n0thing | MLG Columbus 2016",
+    "gen_id": 1102,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41697,
+    "BuffStickerId": 2594
+  },
+  {
+    "name": "n0thing (Foil) | MLG Columbus 2016",
+    "gen_id": 1103,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41692,
+    "BuffStickerId": 2589
+  },
+  {
+    "name": "n0thing (Gold) | MLG Columbus 2016",
+    "gen_id": 1104,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "apEX | MLG Columbus 2016",
+    "gen_id": 1105,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41169,
+    "BuffStickerId": 2066
+  },
+  {
+    "name": "apEX (Foil) | MLG Columbus 2016",
+    "gen_id": 1106,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41160,
+    "BuffStickerId": 2057
+  },
+  {
+    "name": "apEX (Gold) | MLG Columbus 2016",
+    "gen_id": 1107,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Happy | MLG Columbus 2016",
+    "gen_id": 1108,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40290,
+    "BuffStickerId": 1201
+  },
+  {
+    "name": "Happy (Foil) | MLG Columbus 2016",
+    "gen_id": 1109,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40283,
+    "BuffStickerId": 1194
+  },
+  {
+    "name": "Happy (Gold) | MLG Columbus 2016",
+    "gen_id": 1110,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "DEVIL | MLG Columbus 2016",
+    "gen_id": 1111,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40002,
+    "BuffStickerId": 915
+  },
+  {
+    "name": "DEVIL (Foil) | MLG Columbus 2016",
+    "gen_id": 1112,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40000,
+    "BuffStickerId": 913
+  },
+  {
+    "name": "DEVIL (Gold) | MLG Columbus 2016",
+    "gen_id": 1113,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "kennyS | MLG Columbus 2016",
+    "gen_id": 1114,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41604,
+    "BuffStickerId": 2501
+  },
+  {
+    "name": "kennyS (Foil) | MLG Columbus 2016",
+    "gen_id": 1115,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41595,
+    "BuffStickerId": 2492
+  },
+  {
+    "name": "kennyS (Gold) | MLG Columbus 2016",
+    "gen_id": 1116,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "NBK- | MLG Columbus 2016",
+    "gen_id": 1117,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40545,
+    "BuffStickerId": 1447
+  },
+  {
+    "name": "NBK- (Foil) | MLG Columbus 2016",
+    "gen_id": 1118,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40536,
+    "BuffStickerId": 1438
+  },
+  {
+    "name": "NBK- (Gold) | MLG Columbus 2016",
+    "gen_id": 1119,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "B1ad3 | MLG Columbus 2016",
+    "gen_id": 1120,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39893,
+    "BuffStickerId": 812
+  },
+  {
+    "name": "B1ad3 (Foil) | MLG Columbus 2016",
+    "gen_id": 1121,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39884,
+    "BuffStickerId": 803
+  },
+  {
+    "name": "B1ad3 (Gold) | MLG Columbus 2016",
+    "gen_id": 1122,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "bondik | MLG Columbus 2016",
+    "gen_id": 1123,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41208,
+    "BuffStickerId": 2105
+  },
+  {
+    "name": "bondik (Foil) | MLG Columbus 2016",
+    "gen_id": 1124,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41202,
+    "BuffStickerId": 2099
+  },
+  {
+    "name": "bondik (Gold) | MLG Columbus 2016",
+    "gen_id": 1125,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Shara | MLG Columbus 2016",
+    "gen_id": 1126,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40767,
+    "BuffStickerId": 1668
+  },
+  {
+    "name": "Shara (Foil) | MLG Columbus 2016",
+    "gen_id": 1127,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40765,
+    "BuffStickerId": 1666
+  },
+  {
+    "name": "Shara (Gold) | MLG Columbus 2016",
+    "gen_id": 1128,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "markeloff | MLG Columbus 2016",
+    "gen_id": 1129,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41644,
+    "BuffStickerId": 2541
+  },
+  {
+    "name": "markeloff (Foil) | MLG Columbus 2016",
+    "gen_id": 1130,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41635,
+    "BuffStickerId": 2532
+  },
+  {
+    "name": "markeloff (Gold) | MLG Columbus 2016",
+    "gen_id": 1131,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "WorldEdit | MLG Columbus 2016",
+    "gen_id": 1132,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41077,
+    "BuffStickerId": 1974
+  },
+  {
+    "name": "WorldEdit (Foil) | MLG Columbus 2016",
+    "gen_id": 1133,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "WorldEdit (Gold) | MLG Columbus 2016",
+    "gen_id": 1134,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "flusha | MLG Columbus 2016",
+    "gen_id": 1135,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41431,
+    "BuffStickerId": 2328
+  },
+  {
+    "name": "flusha (Foil) | MLG Columbus 2016",
+    "gen_id": 1136,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41422,
+    "BuffStickerId": 2319
+  },
+  {
+    "name": "flusha (Gold) | MLG Columbus 2016",
+    "gen_id": 1137,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "JW | MLG Columbus 2016",
+    "gen_id": 1138,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40363,
+    "BuffStickerId": 1271
+  },
+  {
+    "name": "JW (Foil) | MLG Columbus 2016",
+    "gen_id": 1139,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40354,
+    "BuffStickerId": 1262
+  },
+  {
+    "name": "JW (Gold) | MLG Columbus 2016",
+    "gen_id": 1140,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "KRIMZ | MLG Columbus 2016",
+    "gen_id": 1141,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40389,
+    "BuffStickerId": 1297
+  },
+  {
+    "name": "KRIMZ (Foil) | MLG Columbus 2016",
+    "gen_id": 1142,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40380,
+    "BuffStickerId": 1288
+  },
+  {
+    "name": "KRIMZ (Gold) | MLG Columbus 2016",
+    "gen_id": 1143,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "olofmeister | MLG Columbus 2016",
+    "gen_id": 1144,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41740,
+    "BuffStickerId": 2637
+  },
+  {
+    "name": "olofmeister (Foil) | MLG Columbus 2016",
+    "gen_id": 1145,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41731,
+    "BuffStickerId": 2628
+  },
+  {
+    "name": "olofmeister (Gold) | MLG Columbus 2016",
+    "gen_id": 1146,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "dennis | MLG Columbus 2016",
+    "gen_id": 1147,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41317,
+    "BuffStickerId": 2214
+  },
+  {
+    "name": "dennis (Foil) | MLG Columbus 2016",
+    "gen_id": 1148,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41310,
+    "BuffStickerId": 2207
+  },
+  {
+    "name": "dennis (Gold) | MLG Columbus 2016",
+    "gen_id": 1149,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "aizy | MLG Columbus 2016",
+    "gen_id": 1150,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41144,
+    "BuffStickerId": 2041
+  },
+  {
+    "name": "aizy (Foil) | MLG Columbus 2016",
+    "gen_id": 1151,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41136,
+    "BuffStickerId": 2033
+  },
+  {
+    "name": "aizy (Gold) | MLG Columbus 2016",
+    "gen_id": 1152,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fox | MLG Columbus 2016",
+    "gen_id": 1153,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41448,
+    "BuffStickerId": 2345
+  },
+  {
+    "name": "fox (Foil) | MLG Columbus 2016",
+    "gen_id": 1154,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41443,
+    "BuffStickerId": 2340
+  },
+  {
+    "name": "fox (Gold) | MLG Columbus 2016",
+    "gen_id": 1155,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Maikelele | MLG Columbus 2016",
+    "gen_id": 1156,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40498,
+    "BuffStickerId": 1404
+  },
+  {
+    "name": "Maikelele (Foil) | MLG Columbus 2016",
+    "gen_id": 1157,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40495,
+    "BuffStickerId": 1401
+  },
+  {
+    "name": "Maikelele (Gold) | MLG Columbus 2016",
+    "gen_id": 1158,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "rain | MLG Columbus 2016",
+    "gen_id": 1159,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41800,
+    "BuffStickerId": 2697
+  },
+  {
+    "name": "rain (Foil) | MLG Columbus 2016",
+    "gen_id": 1160,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41791,
+    "BuffStickerId": 2688
+  },
+  {
+    "name": "rain (Gold) | MLG Columbus 2016",
+    "gen_id": 1161,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "jkaem | MLG Columbus 2016",
+    "gen_id": 1162,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41536,
+    "BuffStickerId": 2433
+  },
+  {
+    "name": "jkaem (Foil) | MLG Columbus 2016",
+    "gen_id": 1163,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41533,
+    "BuffStickerId": 2430
+  },
+  {
+    "name": "jkaem (Gold) | MLG Columbus 2016",
+    "gen_id": 1164,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fnx | MLG Columbus 2016",
+    "gen_id": 1165,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41438,
+    "BuffStickerId": 2335
+  },
+  {
+    "name": "fnx (Foil) | MLG Columbus 2016",
+    "gen_id": 1166,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fnx (Gold) | MLG Columbus 2016",
+    "gen_id": 1167,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "coldzera | MLG Columbus 2016",
+    "gen_id": 1168,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41282,
+    "BuffStickerId": 2179
+  },
+  {
+    "name": "coldzera (Foil) | MLG Columbus 2016",
+    "gen_id": 1169,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41273,
+    "BuffStickerId": 2170
+  },
+  {
+    "name": "coldzera (Gold) | MLG Columbus 2016",
+    "gen_id": 1170,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "FalleN | MLG Columbus 2016",
+    "gen_id": 1171,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40127,
+    "BuffStickerId": 1038
+  },
+  {
+    "name": "FalleN (Foil) | MLG Columbus 2016",
+    "gen_id": 1172,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40118,
+    "BuffStickerId": 1029
+  },
+  {
+    "name": "FalleN (Gold) | MLG Columbus 2016",
+    "gen_id": 1173,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fer | MLG Columbus 2016",
+    "gen_id": 1174,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "fer (Foil) | MLG Columbus 2016",
+    "gen_id": 1175,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41387,
+    "BuffStickerId": 2284
+  },
+  {
+    "name": "fer (Gold) | MLG Columbus 2016",
+    "gen_id": 1176,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "TACO | MLG Columbus 2016",
+    "gen_id": 1177,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40873,
+    "BuffStickerId": 1773
+  },
+  {
+    "name": "TACO (Foil) | MLG Columbus 2016",
+    "gen_id": 1178,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "TACO (Gold) | MLG Columbus 2016",
+    "gen_id": 1179,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "chrisJ | MLG Columbus 2016",
+    "gen_id": 1180,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41266,
+    "BuffStickerId": 2163
+  },
+  {
+    "name": "chrisJ (Foil) | MLG Columbus 2016",
+    "gen_id": 1181,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41258,
+    "BuffStickerId": 2155
+  },
+  {
+    "name": "chrisJ (Gold) | MLG Columbus 2016",
+    "gen_id": 1182,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "denis | MLG Columbus 2016",
+    "gen_id": 1183,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "denis (Foil) | MLG Columbus 2016",
+    "gen_id": 1184,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41295,
+    "BuffStickerId": 2192
+  },
+  {
+    "name": "denis (Gold) | MLG Columbus 2016",
+    "gen_id": 1185,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Spiidi | MLG Columbus 2016",
+    "gen_id": 1186,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40837,
+    "BuffStickerId": 1737
+  },
+  {
+    "name": "Spiidi (Foil) | MLG Columbus 2016",
+    "gen_id": 1187,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40831,
+    "BuffStickerId": 1731
+  },
+  {
+    "name": "Spiidi (Gold) | MLG Columbus 2016",
+    "gen_id": 1188,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "nex | MLG Columbus 2016",
+    "gen_id": 1189,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41711,
+    "BuffStickerId": 2608
+  },
+  {
+    "name": "nex (Foil) | MLG Columbus 2016",
+    "gen_id": 1190,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41703,
+    "BuffStickerId": 2600
+  },
+  {
+    "name": "nex (Gold) | MLG Columbus 2016",
+    "gen_id": 1191,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "NiKo | MLG Columbus 2016",
+    "gen_id": 1192,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40606,
+    "BuffStickerId": 1507
+  },
+  {
+    "name": "NiKo (Foil) | MLG Columbus 2016",
+    "gen_id": 1193,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40598,
+    "BuffStickerId": 1499
+  },
+  {
+    "name": "NiKo (Gold) | MLG Columbus 2016",
+    "gen_id": 1194,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Edward | MLG Columbus 2016",
+    "gen_id": 1195,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40074,
+    "BuffStickerId": 985
+  },
+  {
+    "name": "Edward (Foil) | MLG Columbus 2016",
+    "gen_id": 1196,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40065,
+    "BuffStickerId": 976
+  },
+  {
+    "name": "Edward (Gold) | MLG Columbus 2016",
+    "gen_id": 1197,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "flamie | MLG Columbus 2016",
+    "gen_id": 1198,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41415,
+    "BuffStickerId": 2312
+  },
+  {
+    "name": "flamie (Foil) | MLG Columbus 2016",
+    "gen_id": 1199,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41406,
+    "BuffStickerId": 2303
+  },
+  {
+    "name": "flamie (Gold) | MLG Columbus 2016",
+    "gen_id": 1200,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "GuardiaN | MLG Columbus 2016",
+    "gen_id": 1201,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40265,
+    "BuffStickerId": 1176
+  },
+  {
+    "name": "GuardiaN (Foil) | MLG Columbus 2016",
+    "gen_id": 1202,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40256,
+    "BuffStickerId": 1167
+  },
+  {
+    "name": "GuardiaN (Gold) | MLG Columbus 2016",
+    "gen_id": 1203,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "seized | MLG Columbus 2016",
+    "gen_id": 1204,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41853,
+    "BuffStickerId": 2750
+  },
+  {
+    "name": "seized (Foil) | MLG Columbus 2016",
+    "gen_id": 1205,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41844,
+    "BuffStickerId": 2741
+  },
+  {
+    "name": "seized (Gold) | MLG Columbus 2016",
+    "gen_id": 1206,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Zeus | MLG Columbus 2016",
+    "gen_id": 1207,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Zeus (Foil) | MLG Columbus 2016",
+    "gen_id": 1208,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41113,
+    "BuffStickerId": 2010
+  },
+  {
+    "name": "Zeus (Gold) | MLG Columbus 2016",
+    "gen_id": 1209,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "pyth | MLG Columbus 2016",
+    "gen_id": 1210,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41781,
+    "BuffStickerId": 2678
+  },
+  {
+    "name": "pyth (Foil) | MLG Columbus 2016",
+    "gen_id": 1211,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41779,
+    "BuffStickerId": 2676
+  },
+  {
+    "name": "pyth (Gold) | MLG Columbus 2016",
+    "gen_id": 1212,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "f0rest | MLG Columbus 2016",
+    "gen_id": 1213,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41375,
+    "BuffStickerId": 2272
+  },
+  {
+    "name": "f0rest (Foil) | MLG Columbus 2016",
+    "gen_id": 1214,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41371,
+    "BuffStickerId": 2268
+  },
+  {
+    "name": "f0rest (Gold) | MLG Columbus 2016",
+    "gen_id": 1215,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "friberg | MLG Columbus 2016",
+    "gen_id": 1216,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41462,
+    "BuffStickerId": 2359
+  },
+  {
+    "name": "friberg (Foil) | MLG Columbus 2016",
+    "gen_id": 1217,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41458,
+    "BuffStickerId": 2355
+  },
+  {
+    "name": "friberg (Gold) | MLG Columbus 2016",
+    "gen_id": 1218,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "GeT_RiGhT | MLG Columbus 2016",
+    "gen_id": 1219,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40239,
+    "BuffStickerId": 1150
+  },
+  {
+    "name": "GeT_RiGhT (Foil) | MLG Columbus 2016",
+    "gen_id": 1220,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40235,
+    "BuffStickerId": 1146
+  },
+  {
+    "name": "GeT_RiGhT (Gold) | MLG Columbus 2016",
+    "gen_id": 1221,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Xizt | MLG Columbus 2016",
+    "gen_id": 1222,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41088,
+    "BuffStickerId": 1985
+  },
+  {
+    "name": "Xizt (Foil) | MLG Columbus 2016",
+    "gen_id": 1223,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41084,
+    "BuffStickerId": 1981
+  },
+  {
+    "name": "Xizt (Gold) | MLG Columbus 2016",
+    "gen_id": 1224,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "jasonR | MLG Columbus 2016",
+    "gen_id": 1225,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41517,
+    "BuffStickerId": 2414
+  },
+  {
+    "name": "jasonR (Foil) | MLG Columbus 2016",
+    "gen_id": 1226,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41516,
+    "BuffStickerId": 2413
+  },
+  {
+    "name": "jasonR (Gold) | MLG Columbus 2016",
+    "gen_id": 1227,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "arya | MLG Columbus 2016",
+    "gen_id": 1228,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41171,
+    "BuffStickerId": 2068
+  },
+  {
+    "name": "arya (Foil) | MLG Columbus 2016",
+    "gen_id": 1229,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41170,
+    "BuffStickerId": 2067
+  },
+  {
+    "name": "arya (Gold) | MLG Columbus 2016",
+    "gen_id": 1230,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Professor_Chaos | MLG Columbus 2016",
+    "gen_id": 1231,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40677,
+    "BuffStickerId": 1578
+  },
+  {
+    "name": "Professor_Chaos (Foil) | MLG Columbus 2016",
+    "gen_id": 1232,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40676,
+    "BuffStickerId": 1577
+  },
+  {
+    "name": "Professor_Chaos (Gold) | MLG Columbus 2016",
+    "gen_id": 1233,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "DAVEY | MLG Columbus 2016",
+    "gen_id": 1234,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39995,
+    "BuffStickerId": 908
+  },
+  {
+    "name": "DAVEY (Foil) | MLG Columbus 2016",
+    "gen_id": 1235,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39994,
+    "BuffStickerId": 907
+  },
+  {
+    "name": "DAVEY (Gold) | MLG Columbus 2016",
+    "gen_id": 1236,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "abE | MLG Columbus 2016",
+    "gen_id": 1237,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41126,
+    "BuffStickerId": 2023
+  },
+  {
+    "name": "abE (Foil) | MLG Columbus 2016",
+    "gen_id": 1238,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41125,
+    "BuffStickerId": 2022
+  },
+  {
+    "name": "abE (Gold) | MLG Columbus 2016",
+    "gen_id": 1239,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "adreN | MLG Columbus 2016",
+    "gen_id": 1240,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41130,
+    "BuffStickerId": 2027
+  },
+  {
+    "name": "adreN (Foil) | MLG Columbus 2016",
+    "gen_id": 1241,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41128,
+    "BuffStickerId": 15740
+  },
+  {
+    "name": "adreN (Gold) | MLG Columbus 2016",
+    "gen_id": 1242,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "EliGE | MLG Columbus 2016",
+    "gen_id": 1243,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40085,
+    "BuffStickerId": 996
+  },
+  {
+    "name": "EliGE (Foil) | MLG Columbus 2016",
+    "gen_id": 1244,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40079,
+    "BuffStickerId": 990
+  },
+  {
+    "name": "EliGE (Gold) | MLG Columbus 2016",
+    "gen_id": 1245,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "s1mple | MLG Columbus 2016",
+    "gen_id": 1246,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41830,
+    "BuffStickerId": 2727
+  },
+  {
+    "name": "s1mple (Foil) | MLG Columbus 2016",
+    "gen_id": 1247,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41823,
+    "BuffStickerId": 2720
+  },
+  {
+    "name": "s1mple (Gold) | MLG Columbus 2016",
+    "gen_id": 1248,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Hiko | MLG Columbus 2016",
+    "gen_id": 1249,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40321,
+    "BuffStickerId": 1230
+  },
+  {
+    "name": "Hiko (Foil) | MLG Columbus 2016",
+    "gen_id": 1250,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40317,
+    "BuffStickerId": 1226
+  },
+  {
+    "name": "Hiko (Gold) | MLG Columbus 2016",
+    "gen_id": 1251,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "nitr0 | MLG Columbus 2016",
+    "gen_id": 1252,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41724,
+    "BuffStickerId": 2621
+  },
+  {
+    "name": "nitr0 (Foil) | MLG Columbus 2016",
+    "gen_id": 1253,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41719,
+    "BuffStickerId": 2616
+  },
+  {
+    "name": "nitr0 (Gold) | MLG Columbus 2016",
+    "gen_id": 1254,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Ex6TenZ | MLG Columbus 2016",
+    "gen_id": 1255,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40092,
+    "BuffStickerId": 1003
+  },
+  {
+    "name": "Ex6TenZ (Foil) | MLG Columbus 2016",
+    "gen_id": 1256,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 43938,
+    "BuffStickerId": 2856
+  },
+  {
+    "name": "Ex6TenZ (Gold) | MLG Columbus 2016",
+    "gen_id": 1257,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "RpK | MLG Columbus 2016",
+    "gen_id": 1258,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40719,
+    "BuffStickerId": 1620
+  },
+  {
+    "name": "RpK (Foil) | MLG Columbus 2016",
+    "gen_id": 1259,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40712,
+    "BuffStickerId": 1613
+  },
+  {
+    "name": "RpK (Gold) | MLG Columbus 2016",
+    "gen_id": 1260,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "ScreaM | MLG Columbus 2016",
+    "gen_id": 1261,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40758,
+    "BuffStickerId": 1659
+  },
+  {
+    "name": "ScreaM (Foil) | MLG Columbus 2016",
+    "gen_id": 1262,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40751,
+    "BuffStickerId": 1652
+  },
+  {
+    "name": "ScreaM (Gold) | MLG Columbus 2016",
+    "gen_id": 1263,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "shox | MLG Columbus 2016",
+    "gen_id": 1264,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41869,
+    "BuffStickerId": 2766
+  },
+  {
+    "name": "shox (Foil) | MLG Columbus 2016",
+    "gen_id": 1265,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41860,
+    "BuffStickerId": 2757
+  },
+  {
+    "name": "shox (Gold) | MLG Columbus 2016",
+    "gen_id": 1266,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "SmithZz | MLG Columbus 2016",
+    "gen_id": 1267,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40802,
+    "BuffStickerId": 1702
+  },
+  {
+    "name": "SmithZz (Foil) | MLG Columbus 2016",
+    "gen_id": 1268,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "SmithZz (Gold) | MLG Columbus 2016",
+    "gen_id": 1269,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "cajunb | MLG Columbus 2016",
+    "gen_id": 1270,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41242,
+    "BuffStickerId": 2139
+  },
+  {
+    "name": "cajunb (Foil) | MLG Columbus 2016",
+    "gen_id": 1271,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41234,
+    "BuffStickerId": 2131
+  },
+  {
+    "name": "cajunb (Gold) | MLG Columbus 2016",
+    "gen_id": 1272,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "device | MLG Columbus 2016",
+    "gen_id": 1273,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41333,
+    "BuffStickerId": 2230
+  },
+  {
+    "name": "device (Foil) | MLG Columbus 2016",
+    "gen_id": 1274,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41324,
+    "BuffStickerId": 2221
+  },
+  {
+    "name": "device (Gold) | MLG Columbus 2016",
+    "gen_id": 1275,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "dupreeh | MLG Columbus 2016",
+    "gen_id": 1276,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41357,
+    "BuffStickerId": 2254
+  },
+  {
+    "name": "dupreeh (Foil) | MLG Columbus 2016",
+    "gen_id": 1277,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41348,
+    "BuffStickerId": 2245
+  },
+  {
+    "name": "dupreeh (Gold) | MLG Columbus 2016",
+    "gen_id": 1278,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "karrigan | MLG Columbus 2016",
+    "gen_id": 1279,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41582,
+    "BuffStickerId": 2479
+  },
+  {
+    "name": "karrigan (Foil) | MLG Columbus 2016",
+    "gen_id": 1280,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41573,
+    "BuffStickerId": 2470
+  },
+  {
+    "name": "karrigan (Gold) | MLG Columbus 2016",
+    "gen_id": 1281,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Xyp9x | MLG Columbus 2016",
+    "gen_id": 1282,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41104,
+    "BuffStickerId": 2001
+  },
+  {
+    "name": "Xyp9x (Foil) | MLG Columbus 2016",
+    "gen_id": 1283,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41095,
+    "BuffStickerId": 1992
+  },
+  {
+    "name": "Xyp9x (Gold) | MLG Columbus 2016",
+    "gen_id": 1284,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "wayLander | MLG Columbus 2016",
+    "gen_id": 1285,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41943,
+    "BuffStickerId": 2840
+  },
+  {
+    "name": "wayLander (Foil) | MLG Columbus 2016",
+    "gen_id": 1286,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41936,
+    "BuffStickerId": 2833
+  },
+  {
+    "name": "wayLander (Gold) | MLG Columbus 2016",
+    "gen_id": 1287,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Dosia | MLG Columbus 2016",
+    "gen_id": 1288,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40031,
+    "BuffStickerId": 942
+  },
+  {
+    "name": "Dosia (Foil) | MLG Columbus 2016",
+    "gen_id": 1289,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40024,
+    "BuffStickerId": 935
+  },
+  {
+    "name": "Dosia (Gold) | MLG Columbus 2016",
+    "gen_id": 1290,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "hooch | MLG Columbus 2016",
+    "gen_id": 1291,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41494,
+    "BuffStickerId": 2391
+  },
+  {
+    "name": "hooch (Foil) | MLG Columbus 2016",
+    "gen_id": 1292,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "hooch (Gold) | MLG Columbus 2016",
+    "gen_id": 1293,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "mou | MLG Columbus 2016",
+    "gen_id": 1294,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41666,
+    "BuffStickerId": 2563
+  },
+  {
+    "name": "mou (Foil) | MLG Columbus 2016",
+    "gen_id": 1295,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41659,
+    "BuffStickerId": 2556
+  },
+  {
+    "name": "mou (Gold) | MLG Columbus 2016",
+    "gen_id": 1296,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "AdreN | MLG Columbus 2016",
+    "gen_id": 1297,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "AdreN (Foil) | MLG Columbus 2016",
+    "gen_id": 1298,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "AdreN (Gold) | MLG Columbus 2016",
+    "gen_id": 1299,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "byali | MLG Columbus 2016",
+    "gen_id": 1300,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41227,
+    "BuffStickerId": 2124
+  },
+  {
+    "name": "byali (Foil) | MLG Columbus 2016",
+    "gen_id": 1301,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41218,
+    "BuffStickerId": 2115
+  },
+  {
+    "name": "byali (Gold) | MLG Columbus 2016",
+    "gen_id": 1302,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "NEO | MLG Columbus 2016",
+    "gen_id": 1303,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40561,
+    "BuffStickerId": 1463
+  },
+  {
+    "name": "NEO (Foil) | MLG Columbus 2016",
+    "gen_id": 1304,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40552,
+    "BuffStickerId": 1454
+  },
+  {
+    "name": "NEO (Gold) | MLG Columbus 2016",
+    "gen_id": 1305,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "pashaBiceps | MLG Columbus 2016",
+    "gen_id": 1306,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41762,
+    "BuffStickerId": 2659
+  },
+  {
+    "name": "pashaBiceps (Foil) | MLG Columbus 2016",
+    "gen_id": 1307,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41753,
+    "BuffStickerId": 2650
+  },
+  {
+    "name": "pashaBiceps (Gold) | MLG Columbus 2016",
+    "gen_id": 1308,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "Snax | MLG Columbus 2016",
+    "gen_id": 1309,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40818,
+    "BuffStickerId": 1718
+  },
+  {
+    "name": "Snax (Foil) | MLG Columbus 2016",
+    "gen_id": 1310,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40809,
+    "BuffStickerId": 1709
+  },
+  {
+    "name": "Snax (Gold) | MLG Columbus 2016",
+    "gen_id": 1311,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  },
+  {
+    "name": "TaZ | MLG Columbus 2016",
+    "gen_id": 1313,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40894,
+    "BuffStickerId": 1794
+  },
+  {
+    "name": "TaZ (Foil) | MLG Columbus 2016",
+    "gen_id": 1314,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40885,
+    "BuffStickerId": 1785
+  },
+  {
+    "name": "TaZ (Gold) | MLG Columbus 2016",
+    "gen_id": 1315,
+    "tournament": "MLG Columbus 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
+  }
+]
