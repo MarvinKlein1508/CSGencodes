@@ -40,5 +40,9 @@ namespace CSGO_GEN_WebAssembly
 
             await builder.Build().RunAsync();
         }
+
+        //<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+		//    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(ProjectDir)/wwwroot/data/&quot;" />
+	    //</Target>
     }
 }
