@@ -3,6 +3,7 @@ using CSGO_GEN.Core.Services;
 using CSGO_GEN_WebAssembly;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using Plk.Blazor.DragDrop;
 using System.Net.Http.Json;
 
 namespace CSGO_GEN_WebAssembly
@@ -36,7 +37,7 @@ namespace CSGO_GEN_WebAssembly
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
             builder.Services.AddScoped<WeaponService>();
             builder.Services.AddScoped<StickerService>();
-
+            builder.Services.AddBlazorDragDrop();
 
             await builder.Build().RunAsync();
         }

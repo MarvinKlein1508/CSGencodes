@@ -73,8 +73,8 @@
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1)">Remove last sticker</button>
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
                         </div>
-                        @foreach (var sticker in SelectedStickers.Reverse<AppliedSticker>())
-                        {
+
+                        <Dropzone Items="SelectedStickers" Context="sticker">
                             <div class="selected-sticker">
                                 <h5>@sticker.name</h5>
                                 <div class="form-floating mb-3">
@@ -83,7 +83,9 @@
                                 </div>
                                 <button type="button" @onclick="() => SelectedStickers.Remove(sticker)" class="btn btn-danger">Remove</button>
                             </div>
-                        }
+                        </Dropzone>
+
+
                     }
                 </div>
 
