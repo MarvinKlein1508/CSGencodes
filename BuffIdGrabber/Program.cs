@@ -1,4 +1,8 @@
-﻿using CSGO_GEN.Core.Models;
+﻿using BuffIdGrabber.Models;
+using CSGO_GEN.Core.Models;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Hosting;
+using Serilog;
 using System.Net.Http.Json;
 using System.Text.Json;
 using System.Text.RegularExpressions;
@@ -8,189 +12,168 @@ namespace BuffIdGrabber
 {
     internal class Program
     {
+        // This value changes when the project is being cloned from github
+        private const string USER_SECRET_ID = "5554d5e3-8a68-4d44-a7ae-ad6aab189b32";
+        static HttpClient client = new HttpClient();
         static async Task Main(string[] args)
         {
-            string json = await File.ReadAllTextAsync("stickers.json");
+            var builder = new ConfigurationBuilder();
 
-            List<Sticker> stickers = JsonSerializer.Deserialize<List<Sticker>>(json)!;
+            BuildConfig(builder);
 
 
 
-            HttpClient client = new HttpClient();
-            client.DefaultRequestHeaders.Add("Cookie", "");
-            //https://buff.163.com/api/market/goods?game=csgo
+            var config = builder.Build();
 
-            //https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1
+            Log.Logger = new LoggerConfiguration()
+                .ReadFrom.Configuration(config)
+                .CreateLogger();
 
-            List<BuffDetails> items = new();
+            // Add login token here
+            client.DefaultRequestHeaders.Add("Cookie", config["BuffToken"]);
 
-            for (int i = 0; i < Int32.MaxValue; i++)
-            {
-                string url = $"https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num={i + 1}";
-                BuffObject? buff_object = await client.GetFromJsonAsync<BuffObject>(url);
-                await Task.Delay(3000);
+            var files = Directory.GetFiles("data/stickers");
 
-                if (buff_object is not null)
+            string[] alreadyDone = new string[]
                 {
-                    // Check if we have a sticker
-                    Regex regex = new Regex("(?<=\\\"sticker_v2\", \\\"id\\\": )\\d+");
-                    foreach (BuffItem item in buff_object.data.items)
+                    "10YearBirthday.json",
+                    "2021Community.json",
+                    "antwerp2022.json",
+                    "Atlanta2017.json",
+                    "berlin2019.json",
+                    "Bestiary.json",
+                    "boston2018.json",
+                    "Brokenfang.json",
+                    "Chicken.json",
+                    "Cluj-Napoja2015.json",
+                    "cologne2014.json",
+                    "cologne2015.json",
+                    "Cologne2016.json",
+                    "Community2018.json",
+                    "CommunityHalloween2014.json",
+                    "CommunitySeries1.json",
+                    "CommunitySeries2.json",
+                    "CommunitySeries3.json",
+                    "CommunitySeries4.json",
+                    "CommunitySeries5.json",
+                    "CS20.json",
+                    "dreamhack2014.json",
+                    "Enfu.json",
+                    "FeralPredators.json",
+                    "HalfLife.json",
+                    "Halo.json",
+                    "katowice2014.json",
+                    "katowice2015.json",
+                    "katowice2019.json",
+                    "krakow2017.json",
+                    "london2018.json"
+                };
+
+            foreach (var file in files)
+            {
+                string debug_filename = Path.GetFileName(file);
+
+                if (alreadyDone.Contains(debug_filename))
+                {
+                    continue;
+                }
+
+                string json = await File.ReadAllTextAsync(file);
+                List<Sticker> stickers = JsonSerializer.Deserialize<List<Sticker>>(json)!;
+
+                // Buff API examples
+                //https://buff.163.com/api/market/goods?game=csgo
+                //https://buff.163.com/api/market/goods?game=csgo&page_num=1&search=GAMBIT GAMING
+                //https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1
+                foreach (var sticker in stickers)
+                {
+                    // We don't need to ask for the same data twice
+                    if (sticker.BuffGoodsId is not null && sticker.BuffStickerId is not null)
                     {
-                        if (item.market_hash_name.Contains("Sticker", StringComparison.OrdinalIgnoreCase))
+                        continue;
+                    }
+
+
+                    List<BuffDetails> items = new();
+                    // Grab all details from buff 
+                    var url = $"https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1&search=Sticker | {sticker.name}";
+
+                    BuffObject? buff_object = await client.GetFromJsonAsync<BuffObject>(url);
+
+                    // manually slow down API access to not get timed out by buff
+                    await Task.Delay(2000);
+                    bool sticker_data_found = false;
+                    if (buff_object is not null)
+                    {
+                        if (buff_object.data is null || !buff_object.data.items.Any())
                         {
-                            Console.WriteLine($"Name: {item.market_hash_name}; ID: {item.id}");
-
+                            Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
                             await Task.Delay(2000);
-                            url = $"https://buff.163.com/goods/{item.id}";
-                            string page_html = await client.GetStringAsync(url);
+                            continue;
+                        }
 
-                            var result = regex.Match(page_html);
+                        // Check if we have a sticker
+                        Regex regex = new Regex("(?<=\\\"sticker_v2\", \\\"id\\\": )\\d+");
+                        foreach (BuffItem item in buff_object.data.items)
+                        {
 
-                            if (result.Success && int.TryParse(result.Value, out int searchId))
+                            var sanitizedName = item.market_hash_name.Replace("Sticker | ", string.Empty);
+                            if (sticker.name == sanitizedName)
                             {
-                                BuffDetails details = new BuffDetails(item.id, item.market_hash_name, searchId);
+                                Console.WriteLine($"Name: {item.market_hash_name}; ID: {item.id}");
+                                await Task.Delay(2000);
+                                url = $"https://buff.163.com/goods/{item.id}";
+                                string page_html = await client.GetStringAsync(url);
 
-                                if (!items.Contains(details))
+                                var result = regex.Match(page_html);
+
+                                if (result.Success && int.TryParse(result.Value, out int searchId))
                                 {
-                                    items.Add(details);
+                                    sticker_data_found = true;
+                                    BuffDetails details = new BuffDetails(item.id, item.market_hash_name, searchId);
+                                    sticker.BuffGoodsId = details.Id;
+                                    sticker.BuffStickerId = details.SearchId;
+                                    continue;
                                 }
                             }
-
-
                         }
+                    }
+
+
+                    if (!sticker_data_found)
+                    {
+                        sticker.BuffGoodsId = null;
+                        sticker.BuffStickerId = null;
+                        Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
+                        continue;
                     }
                 }
 
-                if (buff_object.data.total_page == i)
+                // Compile new list into output directory
+                string output_directory = config["OutputDirectory"]!;
+                string json_output = JsonSerializer.Serialize(stickers, new JsonSerializerOptions
                 {
-                    break;
+                    WriteIndented = true,
+                    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+                });
+
+                if (!Directory.Exists(output_directory))
+                {
+                    Directory.CreateDirectory(output_directory);
                 }
+
+                string filename = Path.Combine(output_directory, Path.GetFileName(file));
+                await File.WriteAllTextAsync(filename, json_output);
             }
-
-            var items_sorted = items.OrderBy(x => x.Id).ToArray();
-
-            string items_json = JsonSerializer.Serialize(items_sorted, new JsonSerializerOptions
-            {
-                WriteIndented = true,
-            });
-
-
-            await File.WriteAllTextAsync("buff_stickers.json", items_json);
-
-
-
-
-
-
         }
-    }
 
-
-    
-
-    public class BuffObject
-    {
-        public string code { get; set; }
-        public BuffData data { get; set; }
-        public object msg { get; set; }
-    }
-
-    public class BuffData
-    {
-        public BuffItem[] items { get; set; }
-        public int page_num { get; set; }
-        public int page_size { get; set; }
-        public int total_count { get; set; }
-        public int total_page { get; set; }
-    }
-
-    public class BuffItem
-    {
-        public int appid { get; set; }
-        public bool bookmarked { get; set; }
-        public string buy_max_price { get; set; }
-        public int buy_num { get; set; }
-        public bool can_bargain { get; set; }
-        public bool can_search_by_tournament { get; set; }
-        public object description { get; set; }
-        public string game { get; set; }
-        public BuffGoods_Info goods_info { get; set; }
-        public bool has_buff_price_history { get; set; }
-        public int id { get; set; }
-        public string market_hash_name { get; set; }
-        public string market_min_price { get; set; }
-        public string name { get; set; }
-        public string quick_price { get; set; }
-        public string sell_min_price { get; set; }
-        public int sell_num { get; set; }
-        public string sell_reference_price { get; set; }
-        public string short_name { get; set; }
-        public string steam_market_url { get; set; }
-        public int transacted_num { get; set; }
-    }
-
-    public class BuffGoods_Info
-    {
-        public string icon_url { get; set; }
-        public BuffInfo info { get; set; }
-        public object item_id { get; set; }
-        public string original_icon_url { get; set; }
-        public string steam_price { get; set; }
-        public string steam_price_cny { get; set; }
-    }
-
-    public class BuffInfo
-    {
-        public BuffTags tags { get; set; }
-    }
-
-    public class BuffTags
-    {
-        public BuffExterior exterior { get; set; }
-        public BuffQuality quality { get; set; }
-        public BuffRarity rarity { get; set; }
-        public BuffType type { get; set; }
-        public BuffWeapon weapon { get; set; }
-    }
-
-    public class BuffExterior
-    {
-        public string category { get; set; }
-        public int id { get; set; }
-        public string internal_name { get; set; }
-        public string localized_name { get; set; }
-    }
-
-    public class BuffQuality
-    {
-        public string category { get; set; }
-        public int id { get; set; }
-        public string internal_name { get; set; }
-        public string localized_name { get; set; }
-    }
-
-    public class BuffRarity
-    {
-        public string category { get; set; }
-        public int id { get; set; }
-        public string internal_name { get; set; }
-        public string localized_name { get; set; }
-    }
-
-    public class BuffType
-    {
-        public string category { get; set; }
-        public int id { get; set; }
-        public string internal_name { get; set; }
-        public string localized_name { get; set; }
-    }
-
-    public class BuffWeapon
-    {
-        public string category { get; set; }
-        public int id { get; set; }
-        public string internal_name { get; set; }
-        public string localized_name { get; set; }
+        private static void BuildConfig(IConfigurationBuilder builder)
+        {
+            builder.SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddUserSecrets(USER_SECRET_ID)
+                .AddEnvironmentVariables();
+        }
     }
 
 }
