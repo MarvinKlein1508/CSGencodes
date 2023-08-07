@@ -3,1747 +3,2328 @@
     "name": "Cloud9 G2A | Cologne 2015",
     "gen_id": 641,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39964,
+    "BuffStickerId": 880
   },
   {
     "name": "Cloud9 G2A (Foil) | Cologne 2015",
     "gen_id": 642,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 39961,
+    "BuffStickerId": 877
   },
   {
     "name": "Cloud9 G2A (Gold) | Cologne 2015",
     "gen_id": 643,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Counter Logic Gaming | Cologne 2015",
     "gen_id": 665,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39987,
+    "BuffStickerId": 902
   },
   {
     "name": "Counter Logic Gaming (Foil) | Cologne 2015",
     "gen_id": 666,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 39979,
+    "BuffStickerId": 894
   },
   {
     "name": "Counter Logic Gaming (Gold) | Cologne 2015",
     "gen_id": 667,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Flipsid3 Tactics | Cologne 2015",
     "gen_id": 659,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40155,
+    "BuffStickerId": 1066
   },
   {
     "name": "Flipsid3 Tactics (Foil) | Cologne 2015",
     "gen_id": 660,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40142,
+    "BuffStickerId": 1053
   },
   {
     "name": "Flipsid3 Tactics (Gold) | Cologne 2015",
     "gen_id": 661,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Fnatic | Cologne 2015",
     "gen_id": 620,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40183,
+    "BuffStickerId": 1094
   },
   {
     "name": "Fnatic (Foil) | Cologne 2015",
     "gen_id": 621,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40164,
+    "BuffStickerId": 1075
   },
   {
     "name": "Fnatic (Gold) | Cologne 2015",
     "gen_id": 622,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Luminosity Gaming | Cologne 2015",
     "gen_id": 650,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40464,
+    "BuffStickerId": 1370
   },
   {
     "name": "Luminosity Gaming (Foil) | Cologne 2015",
     "gen_id": 651,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40460,
+    "BuffStickerId": 1366
   },
   {
     "name": "Luminosity Gaming (Gold) | Cologne 2015",
     "gen_id": 652,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "mousesports | Cologne 2015",
     "gen_id": 626,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41683,
+    "BuffStickerId": 2580
   },
   {
     "name": "mousesports (Foil) | Cologne 2015",
     "gen_id": 627,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41670,
+    "BuffStickerId": 2567
   },
   {
     "name": "mousesports (Gold) | Cologne 2015",
     "gen_id": 628,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Natus Vincere | Cologne 2015",
     "gen_id": 629,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40583,
+    "BuffStickerId": 1484
   },
   {
     "name": "Natus Vincere (Foil) | Cologne 2015",
     "gen_id": 630,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40565,
+    "BuffStickerId": 1467
   },
   {
     "name": "Natus Vincere (Gold) | Cologne 2015",
     "gen_id": 631,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Ninjas in Pyjamas | Cologne 2015",
     "gen_id": 644,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40627,
+    "BuffStickerId": 1528
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Cologne 2015",
     "gen_id": 645,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40614,
+    "BuffStickerId": 1515
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | Cologne 2015",
     "gen_id": 646,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Renegades | Cologne 2015",
     "gen_id": 632,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40701,
+    "BuffStickerId": 1602
   },
   {
     "name": "Renegades (Foil) | Cologne 2015",
     "gen_id": 633,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 43942,
+    "BuffStickerId": 2860
   },
   {
     "name": "Renegades (Gold) | Cologne 2015",
     "gen_id": 634,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team eBettle | Cologne 2015",
     "gen_id": 638,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40956,
+    "BuffStickerId": 1854
   },
   {
     "name": "Team eBettle (Foil) | Cologne 2015",
     "gen_id": 639,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40955,
+    "BuffStickerId": 1853
   },
   {
     "name": "Team eBettle (Gold) | Cologne 2015",
     "gen_id": 640,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team EnVyUs | Cologne 2015",
     "gen_id": 647,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40924,
+    "BuffStickerId": 1822
   },
   {
     "name": "Team EnVyUs (Foil) | Cologne 2015",
     "gen_id": 648,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 43943,
+    "BuffStickerId": 2861
   },
   {
     "name": "Team EnVyUs (Gold) | Cologne 2015",
     "gen_id": 649,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team Immunity | Cologne 2015",
     "gen_id": 656,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40929,
+    "BuffStickerId": 1827
   },
   {
     "name": "Team Immunity (Foil) | Cologne 2015",
     "gen_id": 657,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40928,
+    "BuffStickerId": 1826
   },
   {
     "name": "Team Immunity (Gold) | Cologne 2015",
     "gen_id": 658,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team Kinguin | Cologne 2015",
     "gen_id": 635,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40931,
+    "BuffStickerId": 1829
   },
   {
     "name": "Team Kinguin (Foil) | Cologne 2015",
     "gen_id": 636,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40930,
+    "BuffStickerId": 1828
   },
   {
     "name": "Team Kinguin (Gold) | Cologne 2015",
     "gen_id": 637,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team SoloMid | Cologne 2015",
     "gen_id": 653,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40954,
+    "BuffStickerId": 1852
   },
   {
     "name": "Team SoloMid (Foil) | Cologne 2015",
     "gen_id": 654,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40952,
+    "BuffStickerId": 1850
   },
   {
     "name": "Team SoloMid (Gold) | Cologne 2015",
     "gen_id": 655,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Titan | Cologne 2015",
     "gen_id": 662,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40985,
+    "BuffStickerId": 1882
   },
   {
     "name": "Titan (Foil) | Cologne 2015",
     "gen_id": 663,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40978,
+    "BuffStickerId": 1875
   },
   {
     "name": "Titan (Gold) | Cologne 2015",
     "gen_id": 664,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Virtus.Pro | Cologne 2015",
     "gen_id": 623,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41037,
+    "BuffStickerId": 1934
   },
   {
     "name": "Virtus.Pro (Foil) | Cologne 2015",
     "gen_id": 624,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41020,
+    "BuffStickerId": 1917
   },
   {
     "name": "Virtus.Pro (Gold) | Cologne 2015",
     "gen_id": 625,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "ESL | Cologne 2015",
     "gen_id": 668,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40055,
+    "BuffStickerId": 966
   },
   {
     "name": "ESL (Foil) | Cologne 2015",
     "gen_id": 669,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40046,
+    "BuffStickerId": 957
   },
   {
     "name": "ESL (Gold) | Cologne 2015",
     "gen_id": 670,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "allu | Cologne 2015",
     "gen_id": 437,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41152,
+    "BuffStickerId": 2049
   },
   {
     "name": "allu (Foil) | Cologne 2015",
     "gen_id": 438,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41147,
+    "BuffStickerId": 2044
   },
   {
     "name": "allu (Gold) | Cologne 2015",
     "gen_id": 439,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "apEX | Cologne 2015",
     "gen_id": 449,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41166,
+    "BuffStickerId": 2063
   },
   {
     "name": "apEX (Foil) | Cologne 2015",
     "gen_id": 450,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41157,
+    "BuffStickerId": 2054
   },
   {
     "name": "apEX (Gold) | Cologne 2015",
     "gen_id": 451,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "AZR | Cologne 2015",
     "gen_id": 500,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39838,
+    "BuffStickerId": 757
   },
   {
     "name": "AZR (Foil) | Cologne 2015",
     "gen_id": 501,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 39835,
+    "BuffStickerId": 754
   },
   {
     "name": "AZR (Gold) | Cologne 2015",
     "gen_id": 502,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "B1ad3 | Cologne 2015",
     "gen_id": 533,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39890,
+    "BuffStickerId": 809
   },
   {
     "name": "B1ad3 (Foil) | Cologne 2015",
     "gen_id": 534,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 39881,
+    "BuffStickerId": 800
   },
   {
     "name": "B1ad3 (Gold) | Cologne 2015",
     "gen_id": 535,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "boltz | Cologne 2015",
     "gen_id": 404,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41196,
+    "BuffStickerId": 2093
   },
   {
     "name": "boltz (Foil) | Cologne 2015",
     "gen_id": 405,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41192,
+    "BuffStickerId": 2089
   },
   {
     "name": "boltz (Gold) | Cologne 2015",
     "gen_id": 406,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "bondik | Cologne 2015",
     "gen_id": 536,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41207,
+    "BuffStickerId": 2104
   },
   {
     "name": "bondik (Foil) | Cologne 2015",
     "gen_id": 537,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41201,
+    "BuffStickerId": 2098
   },
   {
     "name": "bondik (Gold) | Cologne 2015",
     "gen_id": 538,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "byali | Cologne 2015",
     "gen_id": 482,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41224,
+    "BuffStickerId": 2121
   },
   {
     "name": "byali (Foil) | Cologne 2015",
     "gen_id": 483,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41215,
+    "BuffStickerId": 2112
   },
   {
     "name": "byali (Gold) | Cologne 2015",
     "gen_id": 484,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "cajunb | Cologne 2015",
     "gen_id": 467,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41240,
+    "BuffStickerId": 2137
   },
   {
     "name": "cajunb (Foil) | Cologne 2015",
     "gen_id": 468,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41231,
+    "BuffStickerId": 2128
   },
   {
     "name": "cajunb (Gold) | Cologne 2015",
     "gen_id": 469,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "chrisJ | Cologne 2015",
     "gen_id": 485,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41263,
+    "BuffStickerId": 2160
   },
   {
     "name": "chrisJ (Foil) | Cologne 2015",
     "gen_id": 486,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41255,
+    "BuffStickerId": 2152
   },
   {
     "name": "chrisJ (Gold) | Cologne 2015",
     "gen_id": 487,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "coldzera | Cologne 2015",
     "gen_id": 407,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41279,
+    "BuffStickerId": 2176
   },
   {
     "name": "coldzera (Foil) | Cologne 2015",
     "gen_id": 408,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41270,
+    "BuffStickerId": 2167
   },
   {
     "name": "coldzera (Gold) | Cologne 2015",
     "gen_id": 409,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "DavCost | Cologne 2015",
     "gen_id": 542,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40006,
+    "BuffStickerId": 919
   },
   {
     "name": "DavCost (Foil) | Cologne 2015",
     "gen_id": 543,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40004,
+    "BuffStickerId": 917
   },
   {
     "name": "DavCost (Gold) | Cologne 2015",
     "gen_id": 544,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "denis | Cologne 2015",
     "gen_id": 491,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41301,
+    "BuffStickerId": 2198
   },
   {
     "name": "denis (Foil) | Cologne 2015",
     "gen_id": 492,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41292,
+    "BuffStickerId": 2189
   },
   {
     "name": "denis (Gold) | Cologne 2015",
     "gen_id": 493,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "dennis | Cologne 2015",
     "gen_id": 545,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41314,
+    "BuffStickerId": 2211
   },
   {
     "name": "dennis (Foil) | Cologne 2015",
     "gen_id": 546,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41307,
+    "BuffStickerId": 2204
   },
   {
     "name": "dennis (Gold) | Cologne 2015",
     "gen_id": 547,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "device | Cologne 2015",
     "gen_id": 458,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41330,
+    "BuffStickerId": 2227
   },
   {
     "name": "device (Foil) | Cologne 2015",
     "gen_id": 459,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41321,
+    "BuffStickerId": 2218
   },
   {
     "name": "device (Gold) | Cologne 2015",
     "gen_id": 460,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "dupreeh | Cologne 2015",
     "gen_id": 461,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41354,
+    "BuffStickerId": 2251
   },
   {
     "name": "dupreeh (Foil) | Cologne 2015",
     "gen_id": 462,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41345,
+    "BuffStickerId": 2242
   },
   {
     "name": "dupreeh (Gold) | Cologne 2015",
     "gen_id": 463,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Edward | Cologne 2015",
     "gen_id": 419,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40071,
+    "BuffStickerId": 982
   },
   {
     "name": "Edward (Foil) | Cologne 2015",
     "gen_id": 420,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40062,
+    "BuffStickerId": 973
   },
   {
     "name": "Edward (Gold) | Cologne 2015",
     "gen_id": 421,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "emagine | Cologne 2015",
     "gen_id": 521,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41367,
+    "BuffStickerId": 2264
   },
   {
     "name": "emagine (Foil) | Cologne 2015",
     "gen_id": 522,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41366,
+    "BuffStickerId": 2263
   },
   {
     "name": "emagine (Gold) | Cologne 2015",
     "gen_id": 523,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Ex6TenZ | Cologne 2015",
     "gen_id": 578,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40091,
+    "BuffStickerId": 1002
   },
   {
     "name": "Ex6TenZ (Foil) | Cologne 2015",
     "gen_id": 579,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40089,
+    "BuffStickerId": 1000
   },
   {
     "name": "Ex6TenZ (Gold) | Cologne 2015",
     "gen_id": 580,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "f0rest | Cologne 2015",
     "gen_id": 428,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41373,
+    "BuffStickerId": 2270
   },
   {
     "name": "f0rest (Foil) | Cologne 2015",
     "gen_id": 429,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41369,
+    "BuffStickerId": 2266
   },
   {
     "name": "f0rest (Gold) | Cologne 2015",
     "gen_id": 430,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "FalleN | Cologne 2015",
     "gen_id": 395,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40124,
+    "BuffStickerId": 1035
   },
   {
     "name": "FalleN (Foil) | Cologne 2015",
     "gen_id": 396,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40115,
+    "BuffStickerId": 1026
   },
   {
     "name": "FalleN (Gold) | Cologne 2015",
     "gen_id": 397,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "fer | Cologne 2015",
     "gen_id": 401,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "fer (Foil) | Cologne 2015",
     "gen_id": 402,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41384,
+    "BuffStickerId": 2281
   },
   {
     "name": "fer (Gold) | Cologne 2015",
     "gen_id": 403,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "flamie | Cologne 2015",
     "gen_id": 422,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41412,
+    "BuffStickerId": 2309
   },
   {
     "name": "flamie (Foil) | Cologne 2015",
     "gen_id": 423,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41403,
+    "BuffStickerId": 2300
   },
   {
     "name": "flamie (Gold) | Cologne 2015",
     "gen_id": 424,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "flusha | Cologne 2015",
     "gen_id": 383,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "flusha (Foil) | Cologne 2015",
     "gen_id": 384,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41419,
+    "BuffStickerId": 2316
   },
   {
     "name": "flusha (Gold) | Cologne 2015",
     "gen_id": 385,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "FNS | Cologne 2015",
     "gen_id": 593,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40096,
+    "BuffStickerId": 1007
   },
   {
     "name": "FNS (Foil) | Cologne 2015",
     "gen_id": 594,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40094,
+    "BuffStickerId": 1005
   },
   {
     "name": "FNS (Gold) | Cologne 2015",
     "gen_id": 595,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "fox | Cologne 2015",
     "gen_id": 557,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41446,
+    "BuffStickerId": 2343
   },
   {
     "name": "fox (Foil) | Cologne 2015",
     "gen_id": 558,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41441,
+    "BuffStickerId": 2338
   },
   {
     "name": "fox (Gold) | Cologne 2015",
     "gen_id": 559,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "freakazoid | Cologne 2015",
     "gen_id": 614,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41453,
+    "BuffStickerId": 2350
   },
   {
     "name": "freakazoid (Foil) | Cologne 2015",
     "gen_id": 615,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41450,
+    "BuffStickerId": 2347
   },
   {
     "name": "freakazoid (Gold) | Cologne 2015",
     "gen_id": 616,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "friberg | Cologne 2015",
     "gen_id": 434,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41460,
+    "BuffStickerId": 2357
   },
   {
     "name": "friberg (Foil) | Cologne 2015",
     "gen_id": 435,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41456,
+    "BuffStickerId": 2353
   },
   {
     "name": "friberg (Gold) | Cologne 2015",
     "gen_id": 436,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Furlan | Cologne 2015",
     "gen_id": 569,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40197,
+    "BuffStickerId": 1108
   },
   {
     "name": "Furlan (Foil) | Cologne 2015",
     "gen_id": 570,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40195,
+    "BuffStickerId": 1106
   },
   {
     "name": "Furlan (Gold) | Cologne 2015",
     "gen_id": 571,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "GeT_RiGhT | Cologne 2015",
     "gen_id": 431,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40237,
+    "BuffStickerId": 1148
   },
   {
     "name": "GeT_RiGhT (Foil) | Cologne 2015",
     "gen_id": 432,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40233,
+    "BuffStickerId": 1144
   },
   {
     "name": "GeT_RiGhT (Gold) | Cologne 2015",
     "gen_id": 433,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "gob b | Cologne 2015",
     "gen_id": 488,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41481,
+    "BuffStickerId": 2378
   },
   {
     "name": "gob b (Foil) | Cologne 2015",
     "gen_id": 489,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41475,
+    "BuffStickerId": 2372
   },
   {
     "name": "gob b (Gold) | Cologne 2015",
     "gen_id": 490,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "GruBy | Cologne 2015",
     "gen_id": 572,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40249,
+    "BuffStickerId": 1160
   },
   {
     "name": "GruBy (Foil) | Cologne 2015",
     "gen_id": 573,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 43941,
+    "BuffStickerId": 2859
   },
   {
     "name": "GruBy (Gold) | Cologne 2015",
     "gen_id": 574,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "GuardiaN | Cologne 2015",
     "gen_id": 410,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40262,
+    "BuffStickerId": 1173
   },
   {
     "name": "GuardiaN (Foil) | Cologne 2015",
     "gen_id": 411,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40253,
+    "BuffStickerId": 1164
   },
   {
     "name": "GuardiaN (Gold) | Cologne 2015",
     "gen_id": 412,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Happy | Cologne 2015",
     "gen_id": 446,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40288,
+    "BuffStickerId": 1199
   },
   {
     "name": "Happy (Foil) | Cologne 2015",
     "gen_id": 447,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40281,
+    "BuffStickerId": 1192
   },
   {
     "name": "Happy (Gold) | Cologne 2015",
     "gen_id": 448,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Havoc | Cologne 2015",
     "gen_id": 503,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40299,
+    "BuffStickerId": 1208
   },
   {
     "name": "Havoc (Foil) | Cologne 2015",
     "gen_id": 504,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40298,
+    "BuffStickerId": 1207
   },
   {
     "name": "Havoc (Gold) | Cologne 2015",
     "gen_id": 505,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "hazed | Cologne 2015",
     "gen_id": 590,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41488,
+    "BuffStickerId": 2385
   },
   {
     "name": "hazed (Foil) | Cologne 2015",
     "gen_id": 591,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41484,
+    "BuffStickerId": 2381
   },
   {
     "name": "hazed (Gold) | Cologne 2015",
     "gen_id": 592,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Hyper | Cologne 2015",
     "gen_id": 563,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40340,
+    "BuffStickerId": 1249
   },
   {
     "name": "Hyper (Foil) | Cologne 2015",
     "gen_id": 564,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40338,
+    "BuffStickerId": 1247
   },
   {
     "name": "Hyper (Gold) | Cologne 2015",
     "gen_id": 565,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "James | Cologne 2015",
     "gen_id": 527,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40370,
+    "BuffStickerId": 1278
   },
   {
     "name": "James (Foil) | Cologne 2015",
     "gen_id": 528,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40369,
+    "BuffStickerId": 1277
   },
   {
     "name": "James (Gold) | Cologne 2015",
     "gen_id": 529,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "jdm64 | Cologne 2015",
     "gen_id": 596,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41528,
+    "BuffStickerId": 2425
   },
   {
     "name": "jdm64 (Foil) | Cologne 2015",
     "gen_id": 597,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41521,
+    "BuffStickerId": 2418
   },
   {
     "name": "jdm64 (Gold) | Cologne 2015",
     "gen_id": 598,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "jks | Cologne 2015",
     "gen_id": 506,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41541,
+    "BuffStickerId": 2438
   },
   {
     "name": "jks (Foil) | Cologne 2015",
     "gen_id": 507,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41538,
+    "BuffStickerId": 2435
   },
   {
     "name": "jks (Gold) | Cologne 2015",
     "gen_id": 508,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "JW | Cologne 2015",
     "gen_id": 386,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40360,
+    "BuffStickerId": 1268
   },
   {
     "name": "JW (Foil) | Cologne 2015",
     "gen_id": 387,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40351,
+    "BuffStickerId": 1259
   },
   {
     "name": "JW (Gold) | Cologne 2015",
     "gen_id": 388,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "karrigan | Cologne 2015",
     "gen_id": 455,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41579,
+    "BuffStickerId": 2476
   },
   {
     "name": "karrigan (Foil) | Cologne 2015",
     "gen_id": 456,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41570,
+    "BuffStickerId": 2467
   },
   {
     "name": "karrigan (Gold) | Cologne 2015",
     "gen_id": 457,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "kennyS | Cologne 2015",
     "gen_id": 440,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41601,
+    "BuffStickerId": 2498
   },
   {
     "name": "kennyS (Foil) | Cologne 2015",
     "gen_id": 441,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41592,
+    "BuffStickerId": 2489
   },
   {
     "name": "kennyS (Gold) | Cologne 2015",
     "gen_id": 442,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "kioShiMa | Cologne 2015",
     "gen_id": 443,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41619,
+    "BuffStickerId": 2516
   },
   {
     "name": "kioShiMa (Foil) | Cologne 2015",
     "gen_id": 444,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41613,
+    "BuffStickerId": 2510
   },
   {
     "name": "kioShiMa (Gold) | Cologne 2015",
     "gen_id": 445,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "KRIMZ | Cologne 2015",
     "gen_id": 389,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40386,
+    "BuffStickerId": 1294
   },
   {
     "name": "KRIMZ (Foil) | Cologne 2015",
     "gen_id": 390,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40377,
+    "BuffStickerId": 1285
   },
   {
     "name": "KRIMZ (Gold) | Cologne 2015",
     "gen_id": 391,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Maikelele | Cologne 2015",
     "gen_id": 554,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40497,
+    "BuffStickerId": 1403
   },
   {
     "name": "Maikelele (Foil) | Cologne 2015",
     "gen_id": 555,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40494,
+    "BuffStickerId": 1400
   },
   {
     "name": "Maikelele (Gold) | Cologne 2015",
     "gen_id": 556,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Maniac | Cologne 2015",
     "gen_id": 575,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40500,
+    "BuffStickerId": 1406
   },
   {
     "name": "Maniac (Foil) | Cologne 2015",
     "gen_id": 576,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40499,
+    "BuffStickerId": 1405
   },
   {
     "name": "Maniac (Gold) | Cologne 2015",
     "gen_id": 577,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "markeloff | Cologne 2015",
     "gen_id": 530,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41641,
+    "BuffStickerId": 2538
   },
   {
     "name": "markeloff (Foil) | Cologne 2015",
     "gen_id": 531,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41632,
+    "BuffStickerId": 2529
   },
   {
     "name": "markeloff (Gold) | Cologne 2015",
     "gen_id": 532,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "n0thing | Cologne 2015",
     "gen_id": 605,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41695,
+    "BuffStickerId": 2592
   },
   {
     "name": "n0thing (Foil) | Cologne 2015",
     "gen_id": 606,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41690,
+    "BuffStickerId": 2587
   },
   {
     "name": "n0thing (Gold) | Cologne 2015",
     "gen_id": 607,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "NBK- | Cologne 2015",
     "gen_id": 452,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40542,
+    "BuffStickerId": 1444
   },
   {
     "name": "NBK- (Foil) | Cologne 2015",
     "gen_id": 453,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40533,
+    "BuffStickerId": 1435
   },
   {
     "name": "NBK- (Gold) | Cologne 2015",
     "gen_id": 454,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "NEO | Cologne 2015",
     "gen_id": 470,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40558,
+    "BuffStickerId": 1460
   },
   {
     "name": "NEO (Foil) | Cologne 2015",
     "gen_id": 471,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40549,
+    "BuffStickerId": 1451
   },
   {
     "name": "NEO (Gold) | Cologne 2015",
     "gen_id": 472,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "nex | Cologne 2015",
     "gen_id": 494,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41708,
+    "BuffStickerId": 2605
   },
   {
     "name": "nex (Foil) | Cologne 2015",
     "gen_id": 495,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41700,
+    "BuffStickerId": 2597
   },
   {
     "name": "nex (Gold) | Cologne 2015",
     "gen_id": 496,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "olofmeister | Cologne 2015",
     "gen_id": 392,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41737,
+    "BuffStickerId": 2634
   },
   {
     "name": "olofmeister (Foil) | Cologne 2015",
     "gen_id": 393,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41728,
+    "BuffStickerId": 2625
   },
   {
     "name": "olofmeister (Gold) | Cologne 2015",
     "gen_id": 394,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "pashaBiceps | Cologne 2015",
     "gen_id": 473,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41759,
+    "BuffStickerId": 2656
   },
   {
     "name": "pashaBiceps (Foil) | Cologne 2015",
     "gen_id": 474,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41750,
+    "BuffStickerId": 2647
   },
   {
     "name": "pashaBiceps (Gold) | Cologne 2015",
     "gen_id": 475,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "peet | Cologne 2015",
     "gen_id": 566,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41769,
+    "BuffStickerId": 2666
   },
   {
     "name": "peet (Foil) | Cologne 2015",
     "gen_id": 567,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41767,
+    "BuffStickerId": 2664
   },
   {
     "name": "peet (Gold) | Cologne 2015",
     "gen_id": 568,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "pronax | Cologne 2015",
     "gen_id": 380,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41777,
+    "BuffStickerId": 2674
   },
   {
     "name": "pronax (Foil) | Cologne 2015",
     "gen_id": 381,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41774,
+    "BuffStickerId": 2671
   },
   {
     "name": "pronax (Gold) | Cologne 2015",
     "gen_id": 382,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "rain | Cologne 2015",
     "gen_id": 551,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41797,
+    "BuffStickerId": 2694
   },
   {
     "name": "rain (Foil) | Cologne 2015",
     "gen_id": 552,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41788,
+    "BuffStickerId": 2685
   },
   {
     "name": "rain (Gold) | Cologne 2015",
     "gen_id": 553,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "rallen | Cologne 2015",
     "gen_id": 560,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41804,
+    "BuffStickerId": 2701
   },
   {
     "name": "rallen (Foil) | Cologne 2015",
     "gen_id": 561,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41802,
+    "BuffStickerId": 2699
   },
   {
     "name": "rallen (Gold) | Cologne 2015",
     "gen_id": 562,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "reltuC | Cologne 2015",
     "gen_id": 599,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41810,
+    "BuffStickerId": 2707
   },
   {
     "name": "reltuC (Foil) | Cologne 2015",
     "gen_id": 600,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "reltuC (Gold) | Cologne 2015",
     "gen_id": 601,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Rickeh | Cologne 2015",
     "gen_id": 518,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40704,
+    "BuffStickerId": 1605
   },
   {
     "name": "Rickeh (Foil) | Cologne 2015",
     "gen_id": 519,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40703,
+    "BuffStickerId": 1604
   },
   {
     "name": "Rickeh (Gold) | Cologne 2015",
     "gen_id": 520,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "RpK | Cologne 2015",
     "gen_id": 587,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40717,
+    "BuffStickerId": 1618
   },
   {
     "name": "RpK (Foil) | Cologne 2015",
     "gen_id": 588,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40710,
+    "BuffStickerId": 1611
   },
   {
     "name": "RpK (Gold) | Cologne 2015",
     "gen_id": 589,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "ScreaM | Cologne 2015",
     "gen_id": 548,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40756,
+    "BuffStickerId": 1657
   },
   {
     "name": "ScreaM (Foil) | Cologne 2015",
     "gen_id": 549,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40749,
+    "BuffStickerId": 1650
   },
   {
     "name": "ScreaM (Gold) | Cologne 2015",
     "gen_id": 550,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "seang@res | Cologne 2015",
     "gen_id": 608,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41837,
+    "BuffStickerId": 2734
   },
   {
     "name": "seang@res (Foil) | Cologne 2015",
     "gen_id": 609,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41833,
+    "BuffStickerId": 2730
   },
   {
     "name": "seang@res (Gold) | Cologne 2015",
     "gen_id": 610,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "seized | Cologne 2015",
     "gen_id": 416,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41850,
+    "BuffStickerId": 2747
   },
   {
     "name": "seized (Foil) | Cologne 2015",
     "gen_id": 417,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41841,
+    "BuffStickerId": 2738
   },
   {
     "name": "seized (Gold) | Cologne 2015",
     "gen_id": 418,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "shox | Cologne 2015",
     "gen_id": 581,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41866,
+    "BuffStickerId": 2763
   },
   {
     "name": "shox (Foil) | Cologne 2015",
     "gen_id": 582,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41857,
+    "BuffStickerId": 2754
   },
   {
     "name": "shox (Gold) | Cologne 2015",
     "gen_id": 583,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "shroud | Cologne 2015",
     "gen_id": 611,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41876,
+    "BuffStickerId": 2773
   },
   {
     "name": "shroud (Foil) | Cologne 2015",
     "gen_id": 612,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41871,
+    "BuffStickerId": 2768
   },
   {
     "name": "shroud (Gold) | Cologne 2015",
     "gen_id": 613,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Skadoodle | Cologne 2015",
     "gen_id": 617,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40787,
+    "BuffStickerId": 1687
   },
   {
     "name": "Skadoodle (Foil) | Cologne 2015",
     "gen_id": 618,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40780,
+    "BuffStickerId": 1680
   },
   {
     "name": "Skadoodle (Gold) | Cologne 2015",
     "gen_id": 619,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "SmithZz | Cologne 2015",
     "gen_id": 584,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40800,
+    "BuffStickerId": 1700
   },
   {
     "name": "SmithZz (Foil) | Cologne 2015",
     "gen_id": 585,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40795,
+    "BuffStickerId": 1695
   },
   {
     "name": "SmithZz (Gold) | Cologne 2015",
     "gen_id": 586,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Snax | Cologne 2015",
     "gen_id": 479,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40815,
+    "BuffStickerId": 1715
   },
   {
     "name": "Snax (Foil) | Cologne 2015",
     "gen_id": 480,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40806,
+    "BuffStickerId": 1706
   },
   {
     "name": "Snax (Gold) | Cologne 2015",
     "gen_id": 481,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "SnypeR | Cologne 2015",
     "gen_id": 524,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40821,
+    "BuffStickerId": 1721
   },
   {
     "name": "SnypeR (Foil) | Cologne 2015",
     "gen_id": 525,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40820,
+    "BuffStickerId": 1720
   },
   {
     "name": "SnypeR (Gold) | Cologne 2015",
     "gen_id": 526,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Spiidi | Cologne 2015",
     "gen_id": 497,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40835,
+    "BuffStickerId": 1735
   },
   {
     "name": "Spiidi (Foil) | Cologne 2015",
     "gen_id": 498,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40829,
+    "BuffStickerId": 1729
   },
   {
     "name": "Spiidi (Gold) | Cologne 2015",
     "gen_id": 499,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "SPUNJ | Cologne 2015",
     "gen_id": 509,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40739,
+    "BuffStickerId": 1640
   },
   {
     "name": "SPUNJ (Foil) | Cologne 2015",
     "gen_id": 510,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40738,
+    "BuffStickerId": 1639
   },
   {
     "name": "SPUNJ (Gold) | Cologne 2015",
     "gen_id": 511,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "steel | Cologne 2015",
     "gen_id": 398,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41896,
+    "BuffStickerId": 2793
   },
   {
     "name": "steel (Foil) | Cologne 2015",
     "gen_id": 399,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41892,
+    "BuffStickerId": 2789
   },
   {
     "name": "steel (Gold) | Cologne 2015",
     "gen_id": 400,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "tarik | Cologne 2015",
     "gen_id": 602,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41919,
+    "BuffStickerId": 2816
   },
   {
     "name": "tarik (Foil) | Cologne 2015",
     "gen_id": 603,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41912,
+    "BuffStickerId": 2809
   },
   {
     "name": "tarik (Gold) | Cologne 2015",
     "gen_id": 604,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "TaZ | Cologne 2015",
     "gen_id": 476,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40891,
+    "BuffStickerId": 1791
   },
   {
     "name": "TaZ (Foil) | Cologne 2015",
     "gen_id": 477,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40882,
+    "BuffStickerId": 1782
   },
   {
     "name": "TaZ (Gold) | Cologne 2015",
     "gen_id": 478,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "USTILO | Cologne 2015",
     "gen_id": 515,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41004,
+    "BuffStickerId": 1901
   },
   {
     "name": "USTILO (Foil) | Cologne 2015",
     "gen_id": 516,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41001,
+    "BuffStickerId": 1898
   },
   {
     "name": "USTILO (Gold) | Cologne 2015",
     "gen_id": 517,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "WorldEdit | Cologne 2015",
     "gen_id": 539,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 43998,
+    "BuffStickerId": 2871
   },
   {
     "name": "WorldEdit (Foil) | Cologne 2015",
     "gen_id": 540,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41066,
+    "BuffStickerId": 1963
   },
   {
     "name": "WorldEdit (Gold) | Cologne 2015",
     "gen_id": 541,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Xizt | Cologne 2015",
     "gen_id": 425,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Xizt (Foil) | Cologne 2015",
     "gen_id": 426,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Xizt (Gold) | Cologne 2015",
     "gen_id": 427,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Xyp9x | Cologne 2015",
     "gen_id": 464,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41101,
+    "BuffStickerId": 1998
   },
   {
     "name": "Xyp9x (Foil) | Cologne 2015",
     "gen_id": 465,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41092,
+    "BuffStickerId": 1989
   },
   {
     "name": "Xyp9x (Gold) | Cologne 2015",
     "gen_id": 466,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "yam | Cologne 2015",
     "gen_id": 512,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41948,
+    "BuffStickerId": 2845
   },
   {
     "name": "yam (Foil) | Cologne 2015",
     "gen_id": 513,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41947,
+    "BuffStickerId": 2844
   },
   {
     "name": "yam (Gold) | Cologne 2015",
     "gen_id": 514,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Zeus | Cologne 2015",
     "gen_id": 413,
     "tournament": "Cologne 2015",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41119,
+    "BuffStickerId": 2016
   },
   {
     "name": "Zeus (Foil) | Cologne 2015",
     "gen_id": 414,
     "tournament": "Cologne 2015",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 41110,
+    "BuffStickerId": 2007
   },
   {
     "name": "Zeus (Gold) | Cologne 2015",
     "gen_id": 415,
     "tournament": "Cologne 2015",
-    "rarity": "Extraordinary"
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
-  
 ]

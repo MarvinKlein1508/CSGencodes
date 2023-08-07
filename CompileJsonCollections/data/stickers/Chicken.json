@@ -3,102 +3,136 @@
     "name": "Big Clucks (Foil)",
     "gen_id": 3981,
     "tournament": "Chicken Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 770876,
+    "BuffStickerId": 8825
   },
   {
     "name": "Roosty Boosty (Foil)",
     "gen_id": 3982,
     "tournament": "Chicken Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 770846,
+    "BuffStickerId": 8809
   },
   {
     "name": "Hot Wings (Holo)",
     "gen_id": 3979,
     "tournament": "Chicken Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 770860,
+    "BuffStickerId": 8819
   },
   {
     "name": "Fowl Play (Holo)",
     "gen_id": 3978,
     "tournament": "Chicken Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 770852,
+    "BuffStickerId": 8813
   },
   {
     "name": "Double Dip (Holo)",
     "gen_id": 3977,
     "tournament": "Chicken Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 770858,
+    "BuffStickerId": 8817
   },
   {
     "name": "Bonehead (Holo)",
     "gen_id": 3976,
     "tournament": "Chicken Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 770861,
+    "BuffStickerId": 8820
   },
   {
     "name": "Nest Egg (Holo)",
     "gen_id": 3980,
     "tournament": "Chicken Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 770848,
+    "BuffStickerId": 8810
   },
   {
     "name": "Big Clucks",
     "gen_id": 3966,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770875,
+    "BuffStickerId": 8824
   },
   {
     "name": "BukAWP",
     "gen_id": 3968,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770849,
+    "BuffStickerId": 8811
   },
   {
     "name": "Hot Wings",
     "gen_id": 3972,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770853,
+    "BuffStickerId": 8814
   },
   {
     "name": "Fowl Play",
     "gen_id": 3970,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770850,
+    "BuffStickerId": 8812
   },
   {
     "name": "Bonehead",
     "gen_id": 3967,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770859,
+    "BuffStickerId": 8818
   },
   {
     "name": "What What",
     "gen_id": 3975,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770873,
+    "BuffStickerId": 8823
   },
   {
     "name": "Nest Egg",
     "gen_id": 3973,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770855,
+    "BuffStickerId": 8815
   },
   {
     "name": "Roosty Boosty",
     "gen_id": 3974,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770856,
+    "BuffStickerId": 8816
   },
   {
     "name": "Double Dip",
     "gen_id": 3969,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770872,
+    "BuffStickerId": 8822
   },
   {
     "name": "Heads Up",
     "gen_id": 3971,
     "tournament": "Chicken Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 770871,
+    "BuffStickerId": 8821
   }
 ]

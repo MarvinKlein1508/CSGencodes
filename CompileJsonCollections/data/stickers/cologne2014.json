@@ -3,300 +3,400 @@
     "name": "Vox Eminor | Cologne 2014",
     "gen_id": 150,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41051,
+    "BuffStickerId": 1948
   },
   {
     "name": "Vox Eminor (Holo) | Cologne 2014",
     "gen_id": 151,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41048,
+    "BuffStickerId": 1945
   },
   {
     "name": "Vox Eminor (Foil) | Cologne 2014",
     "gen_id": 170,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Virtus.Pro | Cologne 2014",
     "gen_id": 134,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41036,
+    "BuffStickerId": 1933
   },
   {
     "name": "Virtus.Pro (Holo) | Cologne 2014",
     "gen_id": 135,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41027,
+    "BuffStickerId": 1924
   },
   {
     "name": "Virtus.Pro (Foil) | Cologne 2014",
     "gen_id": 162,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Titan | Cologne 2014",
     "gen_id": 148,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40984,
+    "BuffStickerId": 1881
   },
   {
     "name": "Titan (Holo) | Cologne 2014",
     "gen_id": 149,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40980,
+    "BuffStickerId": 1877
   },
   {
     "name": "Titan (Foil) | Cologne 2014",
     "gen_id": 169,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team LDLC.com | Cologne 2014",
     "gen_id": 132,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40934,
+    "BuffStickerId": 1832
   },
   {
     "name": "Team LDLC.com (Holo) | Cologne 2014",
     "gen_id": 133,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40932,
+    "BuffStickerId": 1830
   },
   {
     "name": "Team LDLC.com (Foil) | Cologne 2014",
     "gen_id": 161,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Team Dignitas | Cologne 2014",
     "gen_id": 130,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40906,
+    "BuffStickerId": 1804
   },
   {
     "name": "Team Dignitas (Holo) | Cologne 2014",
     "gen_id": 131,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40901,
+    "BuffStickerId": 1800
   },
   {
     "name": "Team Dignitas (Foil) | Cologne 2014",
     "gen_id": 160,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Ninjas in Pyjamas | Cologne 2014",
     "gen_id": 128,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40626,
+    "BuffStickerId": 1527
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | Cologne 2014",
     "gen_id": 129,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40619,
+    "BuffStickerId": 1520
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Cologne 2014",
     "gen_id": 159,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Natus Vincere | Cologne 2014",
     "gen_id": 146,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40582,
+    "BuffStickerId": 1483
   },
   {
     "name": "Natus Vincere (Holo) | Cologne 2014",
     "gen_id": 147,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 43996,
+    "BuffStickerId": 2869
   },
   {
     "name": "Natus Vincere (Foil) | Cologne 2014",
     "gen_id": 168,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "MTS GameGod Wolf | Cologne 2014",
     "gen_id": 152,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40485,
+    "BuffStickerId": 1391
   },
   {
     "name": "MTS GameGod Wolf (Holo) | Cologne 2014",
     "gen_id": 153,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40484,
+    "BuffStickerId": 1390
   },
   {
     "name": "MTS GameGod Wolf (Foil) | Cologne 2014",
     "gen_id": 171,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "London Conspiracy | Cologne 2014",
     "gen_id": 144,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40448,
+    "BuffStickerId": 1354
   },
   {
     "name": "London Conspiracy (Holo) | Cologne 2014",
     "gen_id": 145,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40447,
+    "BuffStickerId": 1353
   },
   {
     "name": "London Conspiracy (Foil) | Cologne 2014",
     "gen_id": 167,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "iBUYPOWER | Cologne 2014",
     "gen_id": 143,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41502,
+    "BuffStickerId": 2399
   },
   {
     "name": "iBUYPOWER (Holo) | Cologne 2014",
     "gen_id": 142,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41501,
+    "BuffStickerId": 2398
   },
   {
     "name": "iBUYPOWER (Foil) | Cologne 2014",
     "gen_id": 166,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "HellRaisers | Cologne 2014",
     "gen_id": 127,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40310,
+    "BuffStickerId": 1219
   },
   {
     "name": "HellRaisers (Holo) | Cologne 2014",
     "gen_id": 126,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40306,
+    "BuffStickerId": 1215
   },
   {
     "name": "HellRaisers (Foil) | Cologne 2014",
     "gen_id": 158,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Fnatic | Cologne 2014",
     "gen_id": 125,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40182,
+    "BuffStickerId": 1093
   },
   {
     "name": "Fnatic (Holo) | Cologne 2014",
     "gen_id": 124,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40172,
+    "BuffStickerId": 1083
   },
   {
     "name": "Fnatic (Foil) | Cologne 2014",
     "gen_id": 157,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Epsilon eSports | Cologne 2014",
     "gen_id": 141,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40087,
+    "BuffStickerId": 998
   },
   {
     "name": "Epsilon eSports (Holo) | Cologne 2014",
     "gen_id": 140,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40086,
+    "BuffStickerId": 997
   },
   {
     "name": "Epsilon eSports (Foil) | Cologne 2014",
     "gen_id": 165,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "dAT team | Cologne 2014",
     "gen_id": 138,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41286,
+    "BuffStickerId": 2183
   },
   {
     "name": "dAT team (Holo) | Cologne 2014",
     "gen_id": 139,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41285,
+    "BuffStickerId": 2182
   },
   {
     "name": "dAT team (Foil) | Cologne 2014",
     "gen_id": 164,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Copenhagen Wolves | Cologne 2014",
     "gen_id": 136,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 43937,
+    "BuffStickerId": 2855
   },
   {
     "name": "Copenhagen Wolves (Holo) | Cologne 2014",
     "gen_id": 137,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39972,
+    "BuffStickerId": 888
   },
   {
     "name": "Copenhagen Wolves (Foil) | Cologne 2014",
     "gen_id": 163,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Cloud9 | Cologne 2014",
     "gen_id": 122,
     "tournament": "Cologne 2014",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39968,
+    "BuffStickerId": 884
   },
   {
     "name": "Cloud9 (Holo) | Cologne 2014",
     "gen_id": 123,
     "tournament": "Cologne 2014",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39957,
+    "BuffStickerId": 873
   },
   {
     "name": "Cloud9 (Foil) | Cologne 2014",
     "gen_id": 156,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "ESL One Cologne 2014 (Red)",
     "gen_id": 155,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40051,
+    "BuffStickerId": 962
   },
   {
     "name": "ESL One Cologne 2014 (Blue)",
     "gen_id": 154,
     "tournament": "Cologne 2014",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40050,
+    "BuffStickerId": 961
   }
 ]

@@ -3,78 +3,104 @@
     "name": "Health (Gold)",
     "gen_id": 4613,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 779021,
+    "BuffStickerId": 10948
   },
   {
     "name": "Last Vance (Gold)",
     "gen_id": 4612,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 779040,
+    "BuffStickerId": 10954
   },
   {
     "name": "Lambda (Holo)",
     "gen_id": 4611,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 779027,
+    "BuffStickerId": 10944
   },
   {
     "name": "Vortigaunt (Holo)",
     "gen_id": 4608,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 779029,
+    "BuffStickerId": 10945
   },
   {
     "name": "Combine Helmet (Holo)",
     "gen_id": 4610,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 779024,
+    "BuffStickerId": 10949
   },
   {
     "name": "Big Hugs (Holo)",
     "gen_id": 4609,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 779034,
+    "BuffStickerId": 10952
   },
   {
     "name": "Lambda",
     "gen_id": 4607,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779020,
+    "BuffStickerId": 10953
   },
   {
     "name": "Gnome Mercy",
     "gen_id": 4605,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779043,
+    "BuffStickerId": 10946
   },
   {
     "name": "Combine Helmet",
     "gen_id": 4604,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779097,
+    "BuffStickerId": 10950
   },
   {
     "name": "Greetings",
     "gen_id": 4606,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779019,
+    "BuffStickerId": 10947
   },
   {
     "name": "Big Hugs",
     "gen_id": 4603,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779030,
+    "BuffStickerId": 10943
   },
   {
     "name": "Last Vance",
     "gen_id": 4601,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779093,
+    "BuffStickerId": 10951
   },
   {
     "name": "Vortigaunt the Painter",
     "gen_id": 4602,
     "tournament": "Half-Life: Alyx Sticker Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 779031,
+    "BuffStickerId": 10955
   }
 ]
