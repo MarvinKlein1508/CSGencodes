@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Classic (Vanilla)",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 0,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 569,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 570,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 571,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 572,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 568,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Lore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 558,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Autotronic",
+    "min_wear": 0,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 573,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Black Laminate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 563,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Freehand",
+    "min_wear": 0,
+    "max_wear": 0.48,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 580,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Bright Water",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 578,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 413,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 409,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 418,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 419,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 420,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 421,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 415,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 416,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 417,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 410,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 98,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 414,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 38,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Slaughter",
+    "min_wear": 0.01,
+    "max_wear": 0.26,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 59,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Case Hardened",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 44,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 42,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 43,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Crimson Web",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 12,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 77,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Night Stripe",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 735,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 72,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Urban Masked",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 143,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Forest DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 5,
+    "collection": "Classic",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Classic | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 5,
+    "collection": "Classic",
+    "rarity": "Covert"
+  }
+]

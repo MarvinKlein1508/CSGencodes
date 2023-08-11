@@ -18,9 +18,15 @@ namespace CSGO_GEN.Core.Models
         public string collection { get; set; } = string.Empty;
         public string rarity { get; set; } = string.Empty;
 
+        public bool IsKnife => weapon_id switch
+        {
+            41 or 42 or 59 or 500 or 503 or 505 or 506 or 507 or 508 or 509 or 512 or 514 or 515 or 516 or 517 or 518 or 519 or 520 or 521 or 522 or 523 or 525 => true,
+            _ => false
+        };
         public int StickerSlotsAmount => weapon_id switch
         {
             11 or 64 => 5,
+            41 or 42 or 59 or 500 or 503 or 505 or 506 or 507 or 508 or 509 or 512 or 514 or 515 or 516 or 517 or 518 or 519 or 520 or 521 or 522 or 523 or 525 => 0,
             _ => 4
         };
 

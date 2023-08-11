@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Stiletto (Vanilla)",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 0,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 569,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 570,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 571,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 572,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 568,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Lore",
+    "min_wear": 0,
+    "max_wear": 0.65,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 558,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Autotronic",
+    "min_wear": 0,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 573,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Black Laminate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 563,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Freehand",
+    "min_wear": 0,
+    "max_wear": 0.48,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 580,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Bright Water",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 578,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 413,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 409,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 418,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 419,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 420,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 421,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 415,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 416,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 417,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 410,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 98,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 414,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 38,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Slaughter",
+    "min_wear": 0.01,
+    "max_wear": 0.26,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 59,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Case Hardened",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 44,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 42,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 43,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Crimson Web",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 12,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 77,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Night",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 40,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 72,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Urban Masked",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 143,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Forest DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 5,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+   {
+    "name": "Stiletto | Night Stripe",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 735,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Stiletto | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 5,
+    "collection": "Stiletto",
+    "rarity": "Covert"
+  }
+]
