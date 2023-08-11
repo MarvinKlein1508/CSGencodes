@@ -1,0 +1,352 @@
+[
+  {
+    "name": "M9-Bayonet (Vanilla)",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 0,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 569,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 570,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 571,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 572,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 568,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Lore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 558,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Autotronic",
+    "min_wear": 0,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 573,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Black Laminate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 563,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Freehand",
+    "min_wear": 0,
+    "max_wear": 0.48,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 580,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Bright Water",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 578,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 413,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 409,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 418,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 419,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 420,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 421,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 415,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 416,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 417,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 410,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 98,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 414,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 38,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Slaughter",
+    "min_wear": 0.01,
+    "max_wear": 0.26,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 59,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Case Hardened",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 44,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 42,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 43,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Crimson Web",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 12,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 77,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Night",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 40,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 72,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Urban Masked",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 143,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Forest DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 5,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  },
+  {
+    "name": "M9-Bayonet | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 5,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert"
+  }
+]

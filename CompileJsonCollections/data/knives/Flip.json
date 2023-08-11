@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Flip (Vanilla)",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 0,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 569,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 570,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 571,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 572,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 568,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Lore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 558,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Autotronic",
+    "min_wear": 0,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 573,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Black Laminate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 563,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Freehand",
+    "min_wear": 0,
+    "max_wear": 0.48,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 580,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Bright Water",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 578,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 413,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 409,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 418,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 419,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 420,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 421,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 415,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 416,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 417,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 410,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 98,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 414,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 38,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Slaughter",
+    "min_wear": 0.01,
+    "max_wear": 0.26,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 59,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Case Hardened",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 44,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 42,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 43,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Crimson Web",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 12,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 77,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Night",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 40,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 72,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Urban Masked",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 143,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Forest DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 5,
+    "collection": "Flip",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Flip | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 5,
+    "collection": "Flip",
+    "rarity": "Covert"
+  }
+]

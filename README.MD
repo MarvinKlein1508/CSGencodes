@@ -43,7 +43,9 @@
 |42|CT Knife|
 |59|T Knife|
 |500|Bayonet|
+|503|Classic|
 |505|Flipknife|
+|506|Gutknife|
 |507|Karambit|
 |508|M9-Bayonet|
 |509|Huntsman|
