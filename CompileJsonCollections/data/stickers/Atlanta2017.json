@@ -292,24 +292,24 @@
     "gen_id": 1750,
     "tournament": "Atlanta 2017",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40152,
+    "BuffStickerId": 1063
   },
   {
     "name": "Flipsid3 (Holo) | Atlanta 2017",
     "gen_id": 1751,
     "tournament": "Atlanta 2017",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40146,
+    "BuffStickerId": 1057
   },
   {
     "name": "Flipsid3 (Foil) | Atlanta 2017",
     "gen_id": 1752,
     "tournament": "Atlanta 2017",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40139,
+    "BuffStickerId": 1050
   },
   {
     "name": "Flipsid3 (Gold) | Atlanta 2017",
