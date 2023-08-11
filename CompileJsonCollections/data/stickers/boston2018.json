@@ -36,8 +36,8 @@
     "gen_id": 2444,
     "tournament": "Boston 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39867,
+    "BuffStickerId": 786
   },
   {
     "name": "Astralis (Holo) | Boston 2018",
@@ -156,14 +156,6 @@
     "gen_id": 2475,
     "tournament": "Boston 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
-  },
-  {
-    "name": "compLexity Gaming | Boston 2018",
-    "gen_id": 3023,
-    "tournament": "Boston 2018",
-    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null
   },
@@ -1492,8 +1484,8 @@
     "gen_id": 2564,
     "tournament": "Boston 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40028,
+    "BuffStickerId": 939
   },
   {
     "name": "Dosia (Foil) | Boston 2018",
@@ -1516,8 +1508,8 @@
     "gen_id": 2594,
     "tournament": "Boston 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41352,
+    "BuffStickerId": 2249
   },
   {
     "name": "dupreeh (Foil) | Boston 2018",
@@ -1828,8 +1820,8 @@
     "gen_id": 2624,
     "tournament": "Boston 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40243,
+    "BuffStickerId": 1154
   },
   {
     "name": "Golden (Foil) | Boston 2018",
@@ -3708,8 +3700,8 @@
     "gen_id": 2724,
     "tournament": "Boston 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41064,
+    "BuffStickerId": 1961
   },
   {
     "name": "WorldEdit (Gold) | Boston 2018",
