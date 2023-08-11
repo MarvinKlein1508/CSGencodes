@@ -7,9 +7,9 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CSGO-GEN-WebAssembly.dll": "sha256-BbWnxAibnQm4sGi4dvpQOkYMPjroeu2dqx3zezgIgZI=",
-      "CSGO-GEN.Core.dll": "sha256-vMUbzM\/BW5n4IU\/fPlWFEykiilXegl2nf\/BPDn5v4dQ=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-1Yf5kmIMZIqRcvEFpERMS5u47VBAEtMclV+5hUbMlQI=",
+      "CSGO-GEN-WebAssembly.dll": "sha256-8a\/kxhJ6tBo18Q7DVCseUgJz2+azHG1xH\/VG830XYT0=",
+      "CSGO-GEN.Core.dll": "sha256-Dp7LcmaKRozDkRMl0I9O104tNeHYrp1WHtqVGfJsqjs=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-dIpy\/eQ2HWsCDauIbkk3DTk4ultEQLj8qUilIqNfr3o=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-r5W+SMHKP6kzekVgZk7Y\/qAxj0A0l+ksWuG+pK6Gmew=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2\/cESvpd281cmPUvaLlj5RlX\/Gy2c0FzTfcec=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-X\/f4fDl2cuIRXeWHhK\/f2UqQbFioD+RU4a4CEh0zrrQ=",
