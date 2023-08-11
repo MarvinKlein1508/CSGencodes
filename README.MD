@@ -36,5 +36,26 @@
 |63|CZ75-Auto|
 |64|R8 Revolver|
 
-
-
+# Knife IDS
+|Weapon-ID|Knife|
+|---------|------|
+|41|Golden Knife (T)|
+|42|CT Knife|
+|59|T Knife|
+|500|Bayonet|
+|505|Flipknife|
+|507|Karambit|
+|508|M9-Bayonet|
+|509|Huntsman|
+|512|Falchion|
+|514|Bowie|
+|515|Butterfly|
+|516|Shadow Daggers|
+|517|Paracord|
+|518|Survival|
+|519|Ursus|
+|520|Navaja|
+|521|Nomad|
+|522|Stiletto|
+|523|Talon|
+|525|Skeleton|
