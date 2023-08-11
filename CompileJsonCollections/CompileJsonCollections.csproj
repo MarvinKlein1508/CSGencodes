@@ -86,6 +86,7 @@
     <None Remove="data\collections\WinterEsports2013.json" />
     <None Remove="data\collections\WinterOffensive.json" />
     <None Remove="data\collections\Xray.json" />
+    <None Remove="data\knifes\Bayonet.json" />
     <None Remove="data\stickers\10YearBirthday.json" />
     <None Remove="data\stickers\2021Community.json" />
     <None Remove="data\stickers\antwerp2022.json" />
@@ -532,6 +533,8 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+
+  
 
   <ItemGroup>
     <ProjectReference Include="..\CSGO-GEN.Core\CSGO-GEN.Core.csproj" />
