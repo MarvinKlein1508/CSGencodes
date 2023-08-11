@@ -8,5 +8,6 @@ namespace CSGO_GEN.Core.Filters
 {
     public class WeaponFilter : Filter
     {
+        public bool IncludeKnives { get; set; } = true;
     }
 }

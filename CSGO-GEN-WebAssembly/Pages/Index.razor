@@ -59,6 +59,14 @@
                         <label for="pattern">Pattern</label>
                     </div>
 
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" @bind="WeaponFilter.IncludeKnives" id="filter-include-knives">
+                        <label class="form-check-label" for="filter-include-knives">
+                            Include knives in search results
+                        </label>
+                    </div>
+
+
                     @if (SelectedWeapon is not null)
                     {
                         <button type="button" class="btn btn-danger w-100" @onclick="() => SelectedWeapon = null">Reset weapon</button>

@@ -13,13 +13,13 @@ namespace CSGO_GEN.Core.Services
     public class WeaponService
     {
         public static List<Weapon> _weapons = new();
-        
- 
 
-        
-        
 
-        
+
+
+
+
+
 
         public IEnumerable<Weapon> SearchWeapon(WeaponFilter filter)
         {
@@ -29,6 +29,11 @@ namespace CSGO_GEN.Core.Services
 
                 foreach (var weapon in _weapons)
                 {
+                    if (!filter.IncludeKnives && weapon.IsKnife)
+                    {
+                        continue;
+                    }
+
                     bool found_by_search = true;
                     foreach (var searchphrase in searchphrases)
                     {
@@ -40,7 +45,7 @@ namespace CSGO_GEN.Core.Services
 
                     }
 
-                    if(found_by_search)
+                    if (found_by_search)
                     {
                         yield return weapon;
                     }

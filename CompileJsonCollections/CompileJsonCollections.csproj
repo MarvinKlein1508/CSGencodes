@@ -543,61 +543,61 @@
   
 
   <ItemGroup>
-    <None Update="data\collections\Bayonet.json">
+    <None Update="data\collections\KnivesBayonet.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Bowie.json">
+    <None Update="data\collections\KnivesBowie.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Butterfly.json">
+    <None Update="data\collections\KnivesButterfly.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Classic.json">
+    <None Update="data\collections\KnivesClassic.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\FalchionKnives.json">
+    <None Update="data\collections\KnivesFalchion.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Flip.json">
+    <None Update="data\collections\KnivesFlip.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Gutknife.json">
+    <None Update="data\collections\KnivesGutknife.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="data\collections\HuntsmanKnives.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Karambit.json">
+    <None Update="data\collections\KnivesKarambit.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\M9Bayonet.json">
+    <None Update="data\collections\KnivesM9Bayonet.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Navaja.json">
+    <None Update="data\collections\KnivesNavaja.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Nomad.json">
+    <None Update="data\collections\KnivesNomad.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Paracord.json">
+    <None Update="data\collections\KnivesParacord.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\ShadowDaggers.json">
+    <None Update="data\collections\KnivesShadowDaggers.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Skeleton.json">
+    <None Update="data\collections\KnivesSkeleton.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Stiletto.json">
+    <None Update="data\collections\KnivesStiletto.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Survival.json">
+    <None Update="data\collections\KnivesSurvival.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Talon.json">
+    <None Update="data\collections\KnivesTalon.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\Ursus.json">
+    <None Update="data\collections\KnivesUrsus.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="data\knives\Classic.json">
