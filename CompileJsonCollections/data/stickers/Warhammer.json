@@ -1,194 +1,104 @@
 [
   {
-    "name": "Hello AWP (Gold)",
-    "gen_id": 4654,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Emperor (Foil)",
+    "gen_id": 4630,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Chaos Marine (Foil)",
+    "gen_id": 4629,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Bloodthirster (Foil)",
+    "gen_id": 4628,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Heresy (Holo)",
+    "gen_id": 4624,
+    "tournament": "Warhammer 40,000",
     "rarity": "Remarkable"
   },
   {
-    "name": "Hello AK-47 (Gold)",
-    "gen_id": 4650,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Tyranids Hive Tyrant (Holo)",
+    "gen_id": 4627,
+    "tournament": "Warhammer 40,000",
     "rarity": "Remarkable"
   },
   {
-    "name": "Hello UMP-45 (Gold)",
-    "gen_id": 4678,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Lord of Skulls (Holo)",
+    "gen_id": 4625,
+    "tournament": "Warhammer 40,000",
     "rarity": "Remarkable"
   },
   {
-    "name": "Hello M4A1-S (Gold)",
-    "gen_id": 4664,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Space Marine (Holo)",
+    "gen_id": 4626,
+    "tournament": "Warhammer 40,000",
     "rarity": "Remarkable"
   },
   {
-    "name": "Hello PP-Bizon (Gold)",
-    "gen_id": 4656,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello M4A4 (Gold)",
-    "gen_id": 4666,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello FAMAS (Gold)",
-    "gen_id": 4660,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello SG 553 (Gold)",
-    "gen_id": 4676,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello Galil AR (Gold)",
-    "gen_id": 4662,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello AUG (Gold)",
-    "gen_id": 4652,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello MP9 (Gold)",
-    "gen_id": 4672,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello P90 (Gold)",
-    "gen_id": 4674,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello XM1014 (Gold)",
-    "gen_id": 4680,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello MP7 (Gold)",
-    "gen_id": 4670,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello MAC-10 (Gold)",
-    "gen_id": 4668,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "Remarkable"
-  },
-  {
-    "name": "Hello CZ75-Auto (Gold)",
-    "gen_id": 4658,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Heresy",
+    "gen_id": 4617,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello AK-47",
-    "gen_id": 4649,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Adepta Sororitas",
+    "gen_id": 4614,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello M4A4",
-    "gen_id": 4665,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Necron",
+    "gen_id": 4618,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello AWP",
-    "gen_id": 4653,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Ork Waaagh!",
+    "gen_id": 4619,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello Galil AR",
-    "gen_id": 4661,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Tyranids Ravener",
+    "gen_id": 4623,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello SG 553",
-    "gen_id": 4675,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Space Marine",
+    "gen_id": 4622,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello UMP-45",
-    "gen_id": 4677,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Repulsor",
+    "gen_id": 4621,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello M4A1-S",
-    "gen_id": 4663,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Primaris Keychain",
+    "gen_id": 4620,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello CZ75-Auto",
-    "gen_id": 4657,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Full Buy",
+    "gen_id": 4616,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   },
   {
-    "name": "Hello AUG",
-    "gen_id": 4651,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello MP7",
-    "gen_id": 4669,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello P90",
-    "gen_id": 4673,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello XM1014",
-    "gen_id": 4679,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello MAC-10",
-    "gen_id": 4667,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello MP9",
-    "gen_id": 4671,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello FAMAS",
-    "gen_id": 4659,
-    "tournament": "Recoil Sticker Collection",
-    "rarity": "HighGrade"
-  },
-  {
-    "name": "Hello PP-Bizon",
-    "gen_id": 4655,
-    "tournament": "Recoil Sticker Collection",
+    "name": "Aeldari Avatar",
+    "gen_id": 4615,
+    "tournament": "Warhammer 40,000",
     "rarity": "HighGrade"
   }
 ]

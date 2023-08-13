@@ -14,7 +14,7 @@ namespace BuffIdGrabber
     {
         // This value changes when the project is being cloned from github
         private const string USER_SECRET_ID = "5554d5e3-8a68-4d44-a7ae-ad6aab189b32";
-        static HttpClient client = new HttpClient();
+        //static HttpClient client = new HttpClient();
         static async Task Main(string[] args)
         {
             var builder = new ConfigurationBuilder();
@@ -30,7 +30,7 @@ namespace BuffIdGrabber
                 .CreateLogger();
 
             // Add login token here
-            client.DefaultRequestHeaders.Add("Cookie", config["BuffToken"]);
+            //client.DefaultRequestHeaders.Add("Cookie", config["BuffToken"]);
 
             var files = Directory.GetFiles("data/stickers");
 
@@ -85,69 +85,69 @@ namespace BuffIdGrabber
                 //https://buff.163.com/api/market/goods?game=csgo
                 //https://buff.163.com/api/market/goods?game=csgo&page_num=1&search=GAMBIT GAMING
                 //https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1
-                foreach (var sticker in stickers)
-                {
-                    // We don't need to ask for the same data twice
-                    if (sticker.BuffGoodsId is not null && sticker.BuffStickerId is not null)
-                    {
-                        continue;
-                    }
+                //foreach (var sticker in stickers)
+                //{
+                //    // We don't need to ask for the same data twice
+                //    if (sticker.BuffGoodsId is not null && sticker.BuffStickerId is not null)
+                //    {
+                //        continue;
+                //    }
 
 
-                    List<BuffDetails> items = new();
-                    // Grab all details from buff 
-                    var url = $"https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1&search=Sticker | {sticker.name}";
+                //    //List<BuffDetails> items = new();
+                //    //// Grab all details from buff 
+                //    //var url = $"https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1&search=Sticker | {sticker.name}";
 
-                    BuffObject? buff_object = await client.GetFromJsonAsync<BuffObject>(url);
+                //    //BuffObject? buff_object = await client.GetFromJsonAsync<BuffObject>(url);
 
-                    // manually slow down API access to not get timed out by buff
-                    await Task.Delay(2000);
-                    bool sticker_data_found = false;
-                    if (buff_object is not null)
-                    {
-                        if (buff_object.data is null || !buff_object.data.items.Any())
-                        {
-                            Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
-                            await Task.Delay(2000);
-                            continue;
-                        }
+                //    // manually slow down API access to not get timed out by buff
+                //    await Task.Delay(2000);
+                //    bool sticker_data_found = false;
+                //    //if (buff_object is not null)
+                //    //{
+                //    //    if (buff_object.data is null || !buff_object.data.items.Any())
+                //    //    {
+                //    //        Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
+                //    //        await Task.Delay(2000);
+                //    //        continue;
+                //    //    }
 
-                        // Check if we have a sticker
-                        Regex regex = new Regex("(?<=\\\"sticker_v2\", \\\"id\\\": )\\d+");
-                        foreach (BuffItem item in buff_object.data.items)
-                        {
+                //    //    // Check if we have a sticker
+                //    //    Regex regex = new Regex("(?<=\\\"sticker_v2\", \\\"id\\\": )\\d+");
+                //    //    foreach (BuffItem item in buff_object.data.items)
+                //    //    {
 
-                            var sanitizedName = item.market_hash_name.Replace("Sticker | ", string.Empty);
-                            if (sticker.name == sanitizedName)
-                            {
-                                Console.WriteLine($"Name: {item.market_hash_name}; ID: {item.id}");
-                                await Task.Delay(2000);
-                                url = $"https://buff.163.com/goods/{item.id}";
-                                string page_html = await client.GetStringAsync(url);
+                //    //        var sanitizedName = item.market_hash_name.Replace("Sticker | ", string.Empty);
+                //    //        if (sticker.name == sanitizedName)
+                //    //        {
+                //    //            Console.WriteLine($"Name: {item.market_hash_name}; ID: {item.id}");
+                //    //            await Task.Delay(2000);
+                //    //            url = $"https://buff.163.com/goods/{item.id}";
+                //    //            string page_html = await client.GetStringAsync(url);
 
-                                var result = regex.Match(page_html);
+                //    //            var result = regex.Match(page_html);
 
-                                if (result.Success && int.TryParse(result.Value, out int searchId))
-                                {
-                                    sticker_data_found = true;
-                                    BuffDetails details = new BuffDetails(item.id, item.market_hash_name, searchId);
-                                    sticker.BuffGoodsId = details.Id;
-                                    sticker.BuffStickerId = details.SearchId;
-                                    continue;
-                                }
-                            }
-                        }
-                    }
+                //    //            if (result.Success && int.TryParse(result.Value, out int searchId))
+                //    //            {
+                //    //                sticker_data_found = true;
+                //    //                BuffDetails details = new BuffDetails(item.id, item.market_hash_name, searchId);
+                //    //                sticker.BuffGoodsId = details.Id;
+                //    //                sticker.BuffStickerId = details.SearchId;
+                //    //                continue;
+                //    //            }
+                //    //        }
+                //    //    }
+                //    //}
 
 
-                    if (!sticker_data_found)
-                    {
-                        sticker.BuffGoodsId = null;
-                        sticker.BuffStickerId = null;
-                        Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
-                        continue;
-                    }
-                }
+                //    //if (!sticker_data_found)
+                //    //{
+                //    //    sticker.BuffGoodsId = null;
+                //    //    sticker.BuffStickerId = null;
+                //    //    Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
+                //    //    continue;
+                //    //}
+                //}
 
                 // Compile new list into output directory
                 string output_directory = config["OutputDirectory"]!;
