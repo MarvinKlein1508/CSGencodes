@@ -2964,16 +2964,16 @@
     "gen_id": 425,
     "tournament": "Cologne 2015",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41086,
+    "BuffStickerId": 1983
   },
   {
     "name": "Xizt (Foil) | Cologne 2015",
     "gen_id": 426,
     "tournament": "Cologne 2015",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41082,
+    "BuffStickerId": 1979
   },
   {
     "name": "Xizt (Gold) | Cologne 2015",
@@ -4364,8 +4364,8 @@
     "gen_id": 600,
     "tournament": "Cologne 2015",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41806,
+    "BuffStickerId": 2703
   },
   {
     "name": "reltuC (Gold) | Cologne 2015",
