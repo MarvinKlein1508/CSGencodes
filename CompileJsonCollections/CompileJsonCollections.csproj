@@ -564,7 +564,7 @@
     <None Update="data\collections\KnivesGutknife.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\collections\HuntsmanKnives.json">
+    <None Update="data\collections\KnivesHuntsman.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="data\collections\KnivesKarambit.json">

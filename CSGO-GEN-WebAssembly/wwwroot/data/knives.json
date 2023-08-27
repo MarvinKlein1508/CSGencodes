@@ -5724,18 +5724,6 @@
     "StickerSlotsAmount": 0
   },
   {
-    "name": "M9-Bayonet | Lore",
-    "min_wear": 0,
-    "max_wear": 1,
-    "trade_up": false,
-    "weapon_id": 508,
-    "gen_id": 558,
-    "collection": "M9-Bayonet",
-    "rarity": "Covert",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0
-  },
-  {
     "name": "Navaja | Lore",
     "min_wear": 0,
     "max_wear": 1,
@@ -5839,6 +5827,18 @@
     "weapon_id": 519,
     "gen_id": 558,
     "collection": "Ursus",
+    "rarity": "Covert",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0
+  },
+  {
+    "name": "M9-Bayonet | Lore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 562,
+    "collection": "M9-Bayonet",
     "rarity": "Covert",
     "IsKnife": true,
     "StickerSlotsAmount": 0
