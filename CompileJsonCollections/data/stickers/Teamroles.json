@@ -4,16 +4,16 @@
     "gen_id": 1005,
     "tournament": "Team Roles Capsule",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40970,
+    "BuffStickerId": 1868
   },
   {
     "name": "The Fragger",
     "gen_id": 993,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40965,
+    "BuffStickerId": 1863
   },
   {
     "name": "The Ninja",
@@ -36,55 +36,55 @@
     "gen_id": 995,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40968,
+    "BuffStickerId": 1866
   },
   {
     "name": "The Bot",
     "gen_id": 992,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40964,
+    "BuffStickerId": 1862
   },
   {
     "name": "The Leader",
     "gen_id": 994,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40967,
+    "BuffStickerId": 1865
   },
   {
     "name": "The Baiter",
     "gen_id": 990,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40962,
+    "BuffStickerId": 1860
   },
   {
     "name": "Support",
     "gen_id": 998,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40859,
+    "BuffStickerId": 1759
   },
   {
     "name": "The 'Nader",
     "gen_id": 996,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40960,
+    "BuffStickerId": 1858
   },
   {
     "name": "The Bomber",
     "gen_id": 991,
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40963,
+    "BuffStickerId": 1861
   }
 ]

@@ -12,16 +12,16 @@
     "gen_id": 3004,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760707,
+    "BuffStickerId": 3102
   },
   {
     "name": "Astralis (Foil) | London 2018",
     "gen_id": 3005,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760921,
+    "BuffStickerId": 3233
   },
   {
     "name": "Astralis (Gold) | London 2018",
@@ -44,16 +44,16 @@
     "gen_id": 3000,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760577,
+    "BuffStickerId": 3035
   },
   {
     "name": "BIG (Foil) | London 2018",
     "gen_id": 3001,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760924,
+    "BuffStickerId": 3235
   },
   {
     "name": "BIG (Gold) | London 2018",
@@ -76,16 +76,16 @@
     "gen_id": 2956,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760499,
+    "BuffStickerId": 3325
   },
   {
     "name": "Cloud9 (Foil) | London 2018",
     "gen_id": 2957,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760530,
+    "BuffStickerId": 3471
   },
   {
     "name": "Cloud9 (Gold) | London 2018",
@@ -108,16 +108,16 @@
     "gen_id": 3024,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760466,
+    "BuffStickerId": 2941
   },
   {
     "name": "compLexity Gaming (Foil) | London 2018",
     "gen_id": 3025,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760463,
+    "BuffStickerId": 2938
   },
   {
     "name": "compLexity Gaming (Gold) | London 2018",
@@ -140,16 +140,16 @@
     "gen_id": 2960,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760459,
+    "BuffStickerId": 2935
   },
   {
     "name": "FaZe Clan (Foil) | London 2018",
     "gen_id": 2961,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760717,
+    "BuffStickerId": 3105
   },
   {
     "name": "FaZe Clan (Gold) | London 2018",
@@ -172,16 +172,16 @@
     "gen_id": 2984,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760537,
+    "BuffStickerId": 3007
   },
   {
     "name": "Fnatic (Foil) | London 2018",
     "gen_id": 2985,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760745,
+    "BuffStickerId": 3116
   },
   {
     "name": "Fnatic (Gold) | London 2018",
@@ -196,24 +196,24 @@
     "gen_id": 2979,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760415,
+    "BuffStickerId": 2914
   },
   {
     "name": "G2 Esports (Holo) | London 2018",
     "gen_id": 2980,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760748,
+    "BuffStickerId": 3117
   },
   {
     "name": "G2 Esports (Foil) | London 2018",
     "gen_id": 2981,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760589,
+    "BuffStickerId": 3044
   },
   {
     "name": "G2 Esports (Gold) | London 2018",
@@ -228,24 +228,24 @@
     "gen_id": 2988,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760383,
+    "BuffStickerId": 2888
   },
   {
     "name": "Gambit Esports (Holo) | London 2018",
     "gen_id": 2989,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760734,
+    "BuffStickerId": 3112
   },
   {
     "name": "Gambit Esports (Foil) | London 2018",
     "gen_id": 2990,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760927,
+    "BuffStickerId": 3238
   },
   {
     "name": "Gambit Esports (Gold) | London 2018",
@@ -268,16 +268,16 @@
     "gen_id": 3028,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760473,
+    "BuffStickerId": 2946
   },
   {
     "name": "HellRaisers (Foil) | London 2018",
     "gen_id": 3029,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760583,
+    "BuffStickerId": 3039
   },
   {
     "name": "HellRaisers (Gold) | London 2018",
@@ -300,16 +300,16 @@
     "gen_id": 2968,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760617,
+    "BuffStickerId": 3065
   },
   {
     "name": "MIBR (Foil) | London 2018",
     "gen_id": 2969,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760700,
+    "BuffStickerId": 3100
   },
   {
     "name": "MIBR (Gold) | London 2018",
@@ -332,16 +332,16 @@
     "gen_id": 2972,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760448,
+    "BuffStickerId": 2925
   },
   {
     "name": "mousesports (Foil) | London 2018",
     "gen_id": 2973,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760873,
+    "BuffStickerId": 3194
   },
   {
     "name": "mousesports (Gold) | London 2018",
@@ -356,24 +356,24 @@
     "gen_id": 2963,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760425,
+    "BuffStickerId": 2915
   },
   {
     "name": "Natus Vincere (Holo) | London 2018",
     "gen_id": 2964,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760585,
+    "BuffStickerId": 3041
   },
   {
     "name": "Natus Vincere (Foil) | London 2018",
     "gen_id": 2965,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760476,
+    "BuffStickerId": 2949
   },
   {
     "name": "Natus Vincere (Gold) | London 2018",
@@ -396,16 +396,16 @@
     "gen_id": 3020,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760387,
+    "BuffStickerId": 2892
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | London 2018",
     "gen_id": 3021,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760578,
+    "BuffStickerId": 3036
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | London 2018",
@@ -428,16 +428,16 @@
     "gen_id": 3012,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760470,
+    "BuffStickerId": 2944
   },
   {
     "name": "North (Foil) | London 2018",
     "gen_id": 3013,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760956,
+    "BuffStickerId": 3267
   },
   {
     "name": "North (Gold) | London 2018",
@@ -460,16 +460,16 @@
     "gen_id": 3036,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760579,
+    "BuffStickerId": 3037
   },
   {
     "name": "OpTic Gaming (Foil) | London 2018",
     "gen_id": 3037,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760797,
+    "BuffStickerId": 3146
   },
   {
     "name": "OpTic Gaming (Gold) | London 2018",
@@ -484,24 +484,24 @@
     "gen_id": 3031,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760427,
+    "BuffStickerId": 2916
   },
   {
     "name": "Renegades (Holo) | London 2018",
     "gen_id": 3032,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760775,
+    "BuffStickerId": 3131
   },
   {
     "name": "Renegades (Foil) | London 2018",
     "gen_id": 3033,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760576,
+    "BuffStickerId": 3034
   },
   {
     "name": "Renegades (Gold) | London 2018",
@@ -524,16 +524,16 @@
     "gen_id": 3040,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760474,
+    "BuffStickerId": 2947
   },
   {
     "name": "Rogue (Foil) | London 2018",
     "gen_id": 3041,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760454,
+    "BuffStickerId": 2930
   },
   {
     "name": "Rogue (Gold) | London 2018",
@@ -556,16 +556,16 @@
     "gen_id": 2996,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760485,
+    "BuffStickerId": 2958
   },
   {
     "name": "Space Soldiers (Foil) | London 2018",
     "gen_id": 2997,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760639,
+    "BuffStickerId": 3085
   },
   {
     "name": "Space Soldiers (Gold) | London 2018",
@@ -580,24 +580,24 @@
     "gen_id": 3007,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760393,
+    "BuffStickerId": 2898
   },
   {
     "name": "Team Liquid (Holo) | London 2018",
     "gen_id": 3008,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760769,
+    "BuffStickerId": 3127
   },
   {
     "name": "Team Liquid (Foil) | London 2018",
     "gen_id": 3009,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760730,
+    "BuffStickerId": 3110
   },
   {
     "name": "Team Liquid (Gold) | London 2018",
@@ -620,16 +620,16 @@
     "gen_id": 3044,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760482,
+    "BuffStickerId": 2955
   },
   {
     "name": "Team Spirit (Foil) | London 2018",
     "gen_id": 3045,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760516,
+    "BuffStickerId": 2989
   },
   {
     "name": "Team Spirit (Gold) | London 2018",
@@ -644,24 +644,24 @@
     "gen_id": 3047,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760395,
+    "BuffStickerId": 2900
   },
   {
     "name": "Tyloo (Holo) | London 2018",
     "gen_id": 3048,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760396,
+    "BuffStickerId": 2901
   },
   {
     "name": "Tyloo (Foil) | London 2018",
     "gen_id": 3049,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760509,
+    "BuffStickerId": 2982
   },
   {
     "name": "Tyloo (Gold) | London 2018",
@@ -692,8 +692,8 @@
     "gen_id": 2993,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760682,
+    "BuffStickerId": 3096
   },
   {
     "name": "Vega Squadron (Gold) | London 2018",
@@ -716,16 +716,16 @@
     "gen_id": 3016,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760862,
+    "BuffStickerId": 3184
   },
   {
     "name": "Virtus.Pro (Foil) | London 2018",
     "gen_id": 3017,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760767,
+    "BuffStickerId": 3126
   },
   {
     "name": "Virtus.Pro (Gold) | London 2018",
@@ -748,16 +748,16 @@
     "gen_id": 2976,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760449,
+    "BuffStickerId": 2926
   },
   {
     "name": "Winstrike Team (Foil) | London 2018",
     "gen_id": 2977,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760455,
+    "BuffStickerId": 2931
   },
   {
     "name": "Winstrike Team (Gold) | London 2018",
@@ -780,16 +780,16 @@
     "gen_id": 3052,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760457,
+    "BuffStickerId": 2933
   },
   {
     "name": "FACEIT (Foil) | London 2018",
     "gen_id": 3053,
     "tournament": "London 2018",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760529,
+    "BuffStickerId": 3000
   },
   {
     "name": "FACEIT (Gold) | London 2018",
@@ -804,88 +804,88 @@
     "gen_id": 3212,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760564,
+    "BuffStickerId": 3024
   },
   {
     "name": "AdreN (Foil) | London 2018",
     "gen_id": 3213,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760888,
+    "BuffStickerId": 3324
   },
   {
     "name": "AdreN (Gold) | London 2018",
     "gen_id": 3214,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760889,
+    "BuffStickerId": 3206
   },
   {
     "name": "aizy | London 2018",
     "gen_id": 3301,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760845,
+    "BuffStickerId": 3168
   },
   {
     "name": "aizy (Foil) | London 2018",
     "gen_id": 3302,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760762,
+    "BuffStickerId": 3123
   },
   {
     "name": "aizy (Gold) | London 2018",
     "gen_id": 3303,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761118,
+    "BuffStickerId": 3313
   },
   {
     "name": "ANDROID | London 2018",
     "gen_id": 3335,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760452,
+    "BuffStickerId": 2928
   },
   {
     "name": "ANDROID (Foil) | London 2018",
     "gen_id": 3336,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760633,
+    "BuffStickerId": 3080
   },
   {
     "name": "ANDROID (Gold) | London 2018",
     "gen_id": 3337,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760993,
+    "BuffStickerId": 3278
   },
   {
     "name": "ANGE1 | London 2018",
     "gen_id": 3359,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760527,
+    "BuffStickerId": 2998
   },
   {
     "name": "ANGE1 (Foil) | London 2018",
     "gen_id": 3360,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760514,
+    "BuffStickerId": 2987
   },
   {
     "name": "ANGE1 (Gold) | London 2018",
@@ -900,192 +900,192 @@
     "gen_id": 3083,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760625,
+    "BuffStickerId": 3073
   },
   {
     "name": "autimatic (Foil) | London 2018",
     "gen_id": 3084,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760735,
+    "BuffStickerId": 3113
   },
   {
     "name": "autimatic (Gold) | London 2018",
     "gen_id": 3085,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760937,
+    "BuffStickerId": 3248
   },
   {
     "name": "AZR | London 2018",
     "gen_id": 3377,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760584,
+    "BuffStickerId": 3040
   },
   {
     "name": "AZR (Foil) | London 2018",
     "gen_id": 3378,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760841,
+    "BuffStickerId": 3164
   },
   {
     "name": "AZR (Gold) | London 2018",
     "gen_id": 3379,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760957,
+    "BuffStickerId": 3268
   },
   {
     "name": "balblna | London 2018",
     "gen_id": 3161,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760593,
+    "BuffStickerId": 3048
   },
   {
     "name": "balblna (Foil) | London 2018",
     "gen_id": 3162,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760744,
+    "BuffStickerId": 3115
   },
   {
     "name": "balblna (Gold) | London 2018",
     "gen_id": 3163,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760959,
+    "BuffStickerId": 3270
   },
   {
     "name": "BnTeT | London 2018",
     "gen_id": 3431,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760451,
+    "BuffStickerId": 2927
   },
   {
     "name": "BnTeT (Foil) | London 2018",
     "gen_id": 3432,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760549,
+    "BuffStickerId": 3009
   },
   {
     "name": "BnTeT (Gold) | London 2018",
     "gen_id": 3433,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760925,
+    "BuffStickerId": 3236
   },
   {
     "name": "bodyy | London 2018",
     "gen_id": 3173,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760478,
+    "BuffStickerId": 2951
   },
   {
     "name": "bodyy (Foil) | London 2018",
     "gen_id": 3174,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760759,
+    "BuffStickerId": 3121
   },
   {
     "name": "bodyy (Gold) | London 2018",
     "gen_id": 3175,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760856,
+    "BuffStickerId": 3179
   },
   {
     "name": "bondik | London 2018",
     "gen_id": 3356,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760447,
+    "BuffStickerId": 2924
   },
   {
     "name": "bondik (Foil) | London 2018",
     "gen_id": 3357,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760619,
+    "BuffStickerId": 3067
   },
   {
     "name": "bondik (Gold) | London 2018",
     "gen_id": 3358,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760938,
+    "BuffStickerId": 3249
   },
   {
     "name": "Boombl4 | London 2018",
     "gen_id": 3167,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760600,
+    "BuffStickerId": 3051
   },
   {
     "name": "Boombl4 (Foil) | London 2018",
     "gen_id": 3168,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760721,
+    "BuffStickerId": 3107
   },
   {
     "name": "Boombl4 (Gold) | London 2018",
     "gen_id": 3169,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761022,
+    "BuffStickerId": 3284
   },
   {
     "name": "byali | London 2018",
     "gen_id": 3305,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760852,
+    "BuffStickerId": 3175
   },
   {
     "name": "byali (Foil) | London 2018",
     "gen_id": 3306,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760939,
+    "BuffStickerId": 3250
   },
   {
     "name": "byali (Gold) | London 2018",
     "gen_id": 3307,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761099,
+    "BuffStickerId": 3308
   },
   {
     "name": "cadiaN | London 2018",
@@ -1100,224 +1100,224 @@
     "gen_id": 3405,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760792,
+    "BuffStickerId": 3141
   },
   {
     "name": "cadiaN (Gold) | London 2018",
     "gen_id": 3406,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761032,
+    "BuffStickerId": 3294
   },
   {
     "name": "cajunb | London 2018",
     "gen_id": 3380,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760573,
+    "BuffStickerId": 3031
   },
   {
     "name": "cajunb (Foil) | London 2018",
     "gen_id": 3381,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760859,
+    "BuffStickerId": 3181
   },
   {
     "name": "cajunb (Gold) | London 2018",
     "gen_id": 3382,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760976,
+    "BuffStickerId": 3277
   },
   {
     "name": "Calyx | London 2018",
     "gen_id": 3233,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760388,
+    "BuffStickerId": 2893
   },
   {
     "name": "Calyx (Foil) | London 2018",
     "gen_id": 3234,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760622,
+    "BuffStickerId": 3070
   },
   {
     "name": "Calyx (Gold) | London 2018",
     "gen_id": 3235,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761023,
+    "BuffStickerId": 3285
   },
   {
     "name": "captainMo | London 2018",
     "gen_id": 3428,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760400,
+    "BuffStickerId": 2905
   },
   {
     "name": "captainMo (Foil) | London 2018",
     "gen_id": 3429,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760532,
+    "BuffStickerId": 3002
   },
   {
     "name": "captainMo (Gold) | London 2018",
     "gen_id": 3430,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760861,
+    "BuffStickerId": 3183
   },
   {
     "name": "chopper | London 2018",
     "gen_id": 3227,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760609,
+    "BuffStickerId": 3058
   },
   {
     "name": "chopper (Foil) | London 2018",
     "gen_id": 3228,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760556,
+    "BuffStickerId": 3016
   },
   {
     "name": "chopper (Gold) | London 2018",
     "gen_id": 3229,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760963,
+    "BuffStickerId": 3272
   },
   {
     "name": "chrisJ | London 2018",
     "gen_id": 3143,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760685,
+    "BuffStickerId": 3098
   },
   {
     "name": "chrisJ (Foil) | London 2018",
     "gen_id": 3144,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760563,
+    "BuffStickerId": 3023
   },
   {
     "name": "chrisJ (Gold) | London 2018",
     "gen_id": 3145,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760974,
+    "BuffStickerId": 3276
   },
   {
     "name": "COLDYY1 | London 2018",
     "gen_id": 3410,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760526,
+    "BuffStickerId": 2997
   },
   {
     "name": "COLDYY1 (Foil) | London 2018",
     "gen_id": 3411,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760606,
+    "BuffStickerId": 3055
   },
   {
     "name": "COLDYY1 (Gold) | London 2018",
     "gen_id": 3412,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760958,
+    "BuffStickerId": 3269
   },
   {
     "name": "coldzera | London 2018",
     "gen_id": 3125,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760631,
+    "BuffStickerId": 3078
   },
   {
     "name": "coldzera (Foil) | London 2018",
     "gen_id": 3126,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760683,
+    "BuffStickerId": 3097
   },
   {
     "name": "coldzera (Gold) | London 2018",
     "gen_id": 3127,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760940,
+    "BuffStickerId": 3251
   },
   {
     "name": "crush | London 2018",
     "gen_id": 3218,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760806,
+    "BuffStickerId": 3154
   },
   {
     "name": "crush (Foil) | London 2018",
     "gen_id": 3219,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761033,
+    "BuffStickerId": 3295
   },
   {
     "name": "crush (Gold) | London 2018",
     "gen_id": 3220,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760941,
+    "BuffStickerId": 3252
   },
   {
     "name": "DavCost | London 2018",
     "gen_id": 3422,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760558,
+    "BuffStickerId": 3018
   },
   {
     "name": "DavCost (Foil) | London 2018",
     "gen_id": 3423,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760496,
+    "BuffStickerId": 2969
   },
   {
     "name": "DavCost (Gold) | London 2018",
@@ -1332,24 +1332,24 @@
     "gen_id": 3434,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760406,
+    "BuffStickerId": 2909
   },
   {
     "name": "DD (Foil) | London 2018",
     "gen_id": 3435,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760614,
+    "BuffStickerId": 3062
   },
   {
     "name": "DD (Gold) | London 2018",
     "gen_id": 3436,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760848,
+    "BuffStickerId": 3171
   },
   {
     "name": "DeadFox | London 2018",
@@ -1364,160 +1364,160 @@
     "gen_id": 3363,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760559,
+    "BuffStickerId": 3019
   },
   {
     "name": "DeadFox (Gold) | London 2018",
     "gen_id": 3364,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760955,
+    "BuffStickerId": 3266
   },
   {
     "name": "dennis | London 2018",
     "gen_id": 3332,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760501,
+    "BuffStickerId": 2974
   },
   {
     "name": "dennis (Foil) | London 2018",
     "gen_id": 3333,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760603,
+    "BuffStickerId": 3052
   },
   {
     "name": "dennis (Gold) | London 2018",
     "gen_id": 3334,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760942,
+    "BuffStickerId": 3253
   },
   {
     "name": "dephh | London 2018",
     "gen_id": 3341,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760510,
+    "BuffStickerId": 2983
   },
   {
     "name": "dephh (Foil) | London 2018",
     "gen_id": 3342,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760793,
+    "BuffStickerId": 3142
   },
   {
     "name": "dephh (Gold) | London 2018",
     "gen_id": 3343,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760968,
+    "BuffStickerId": 3274
   },
   {
     "name": "device | London 2018",
     "gen_id": 3266,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760467,
+    "BuffStickerId": 2942
   },
   {
     "name": "device (Foil) | London 2018",
     "gen_id": 3267,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760805,
+    "BuffStickerId": 3153
   },
   {
     "name": "device (Gold) | London 2018",
     "gen_id": 3268,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761034,
+    "BuffStickerId": 3296
   },
   {
     "name": "Dima | London 2018",
     "gen_id": 3413,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760494,
+    "BuffStickerId": 2967
   },
   {
     "name": "Dima (Foil) | London 2018",
     "gen_id": 3414,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760863,
+    "BuffStickerId": 3185
   },
   {
     "name": "Dima (Gold) | London 2018",
     "gen_id": 3415,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760922,
+    "BuffStickerId": 3234
   },
   {
     "name": "Dosia | London 2018",
     "gen_id": 3203,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760586,
+    "BuffStickerId": 3042
   },
   {
     "name": "Dosia (Foil) | London 2018",
     "gen_id": 3204,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760880,
+    "BuffStickerId": 3200
   },
   {
     "name": "Dosia (Gold) | London 2018",
     "gen_id": 3205,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761025,
+    "BuffStickerId": 3287
   },
   {
     "name": "draken | London 2018",
     "gen_id": 3185,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760461,
+    "BuffStickerId": 2937
   },
   {
     "name": "draken (Foil) | London 2018",
     "gen_id": 3186,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760590,
+    "BuffStickerId": 3045
   },
   {
     "name": "draken (Gold) | London 2018",
     "gen_id": 3187,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761002,
+    "BuffStickerId": 3281
   },
   {
     "name": "dupreeh | London 2018",
@@ -1532,40 +1532,40 @@
     "gen_id": 3261,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760884,
+    "BuffStickerId": 3202
   },
   {
     "name": "dupreeh (Gold) | London 2018",
     "gen_id": 3262,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761035,
+    "BuffStickerId": 3297
   },
   {
     "name": "Edward | London 2018",
     "gen_id": 3119,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760668,
+    "BuffStickerId": 3094
   },
   {
     "name": "Edward (Foil) | London 2018",
     "gen_id": 3120,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760515,
+    "BuffStickerId": 2988
   },
   {
     "name": "Edward (Gold) | London 2018",
     "gen_id": 3121,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760864,
+    "BuffStickerId": 3186
   },
   {
     "name": "electronic | London 2018",
@@ -1580,40 +1580,40 @@
     "gen_id": 3111,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760694,
+    "BuffStickerId": 3099
   },
   {
     "name": "electronic (Gold) | London 2018",
     "gen_id": 3112,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760718,
+    "BuffStickerId": 3106
   },
   {
     "name": "EliGE | London 2018",
     "gen_id": 3275,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760623,
+    "BuffStickerId": 3071
   },
   {
     "name": "EliGE (Foil) | London 2018",
     "gen_id": 3276,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760871,
+    "BuffStickerId": 3192
   },
   {
     "name": "EliGE (Gold) | London 2018",
     "gen_id": 3277,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760926,
+    "BuffStickerId": 3237
   },
   {
     "name": "Ex6TenZ | London 2018",
@@ -1628,216 +1628,216 @@
     "gen_id": 3180,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760565,
+    "BuffStickerId": 3025
   },
   {
     "name": "Ex6TenZ (Gold) | London 2018",
     "gen_id": 3181,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760890,
+    "BuffStickerId": 3207
   },
   {
     "name": "f0rest | London 2018",
     "gen_id": 3323,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760502,
+    "BuffStickerId": 2975
   },
   {
     "name": "f0rest (Foil) | London 2018",
     "gen_id": 3324,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760484,
+    "BuffStickerId": 2957
   },
   {
     "name": "f0rest (Gold) | London 2018",
     "gen_id": 3325,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760905,
+    "BuffStickerId": 3222
   },
   {
     "name": "FalleN | London 2018",
     "gen_id": 3128,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760552,
+    "BuffStickerId": 3012
   },
   {
     "name": "FalleN (Foil) | London 2018",
     "gen_id": 3129,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760773,
+    "BuffStickerId": 3130
   },
   {
     "name": "FalleN (Gold) | London 2018",
     "gen_id": 3130,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760891,
+    "BuffStickerId": 3208
   },
   {
     "name": "fer | London 2018",
     "gen_id": 3137,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760477,
+    "BuffStickerId": 2950
   },
   {
     "name": "fer (Foil) | London 2018",
     "gen_id": 3138,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760517,
+    "BuffStickerId": 2990
   },
   {
     "name": "fer (Gold) | London 2018",
     "gen_id": 3139,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760943,
+    "BuffStickerId": 3254
   },
   {
     "name": "flamie | London 2018",
     "gen_id": 3122,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760468,
+    "BuffStickerId": 2943
   },
   {
     "name": "flamie (Foil) | London 2018",
     "gen_id": 3123,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760555,
+    "BuffStickerId": 3015
   },
   {
     "name": "flamie (Gold) | London 2018",
     "gen_id": 3124,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760944,
+    "BuffStickerId": 3255
   },
   {
     "name": "flusha | London 2018",
     "gen_id": 3194,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760518,
+    "BuffStickerId": 2991
   },
   {
     "name": "flusha (Foil) | London 2018",
     "gen_id": 3195,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760791,
+    "BuffStickerId": 3140
   },
   {
     "name": "flusha (Gold) | London 2018",
     "gen_id": 3196,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760870,
+    "BuffStickerId": 3191
   },
   {
     "name": "gade | London 2018",
     "gen_id": 3386,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760528,
+    "BuffStickerId": 2999
   },
   {
     "name": "gade (Foil) | London 2018",
     "gen_id": 3387,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760796,
+    "BuffStickerId": 3145
   },
   {
     "name": "gade (Gold) | London 2018",
     "gen_id": 3388,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761036,
+    "BuffStickerId": 3298
   },
   {
     "name": "GeT_RiGhT | London 2018",
     "gen_id": 3320,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760492,
+    "BuffStickerId": 2965
   },
   {
     "name": "GeT_RiGhT (Foil) | London 2018",
     "gen_id": 3321,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760604,
+    "BuffStickerId": 3053
   },
   {
     "name": "GeT_RiGhT (Gold) | London 2018",
     "gen_id": 3322,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760928,
+    "BuffStickerId": 3239
   },
   {
     "name": "gla1ve | London 2018",
     "gen_id": 3263,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760479,
+    "BuffStickerId": 2952
   },
   {
     "name": "gla1ve (Foil) | London 2018",
     "gen_id": 3264,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760872,
+    "BuffStickerId": 3193
   },
   {
     "name": "gla1ve (Gold) | London 2018",
     "gen_id": 3265,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760906,
+    "BuffStickerId": 3223
   },
   {
     "name": "gob b | London 2018",
     "gen_id": 3248,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760851,
+    "BuffStickerId": 3174
   },
   {
     "name": "gob b (Foil) | London 2018",
@@ -1852,16 +1852,16 @@
     "gen_id": 3250,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761247,
+    "BuffStickerId": 3321
   },
   {
     "name": "Golden | London 2018",
     "gen_id": 3080,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760486,
+    "BuffStickerId": 2959
   },
   {
     "name": "Golden (Foil) | London 2018",
@@ -1876,224 +1876,224 @@
     "gen_id": 3082,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760878,
+    "BuffStickerId": 3198
   },
   {
     "name": "GuardiaN | London 2018",
     "gen_id": 3095,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760551,
+    "BuffStickerId": 3011
   },
   {
     "name": "GuardiaN (Foil) | London 2018",
     "gen_id": 3096,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760569,
+    "BuffStickerId": 3028
   },
   {
     "name": "GuardiaN (Gold) | London 2018",
     "gen_id": 3097,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760892,
+    "BuffStickerId": 3209
   },
   {
     "name": "Hiko | London 2018",
     "gen_id": 3398,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760408,
+    "BuffStickerId": 2910
   },
   {
     "name": "Hiko (Foil) | London 2018",
     "gen_id": 3399,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760535,
+    "BuffStickerId": 3005
   },
   {
     "name": "Hiko (Gold) | London 2018",
     "gen_id": 3400,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760849,
+    "BuffStickerId": 3172
   },
   {
     "name": "Hobbit | London 2018",
     "gen_id": 3206,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760548,
+    "BuffStickerId": 3008
   },
   {
     "name": "Hobbit (Foil) | London 2018",
     "gen_id": 3207,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760855,
+    "BuffStickerId": 3178
   },
   {
     "name": "Hobbit (Gold) | London 2018",
     "gen_id": 3208,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760893,
+    "BuffStickerId": 3210
   },
   {
     "name": "hutji | London 2018",
     "gen_id": 3221,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760811,
+    "BuffStickerId": 3158
   },
   {
     "name": "hutji (Foil) | London 2018",
     "gen_id": 3222,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760868,
+    "BuffStickerId": 3189
   },
   {
     "name": "hutji (Gold) | London 2018",
     "gen_id": 3223,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761037,
+    "BuffStickerId": 3299
   },
   {
     "name": "ISSAA | London 2018",
     "gen_id": 3353,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760504,
+    "BuffStickerId": 2977
   },
   {
     "name": "ISSAA (Foil) | London 2018",
     "gen_id": 3354,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760782,
+    "BuffStickerId": 3133
   },
   {
     "name": "ISSAA (Gold) | London 2018",
     "gen_id": 3355,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760894,
+    "BuffStickerId": 3211
   },
   {
     "name": "jkaem | London 2018",
     "gen_id": 3368,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760511,
+    "BuffStickerId": 2984
   },
   {
     "name": "jkaem (Foil) | London 2018",
     "gen_id": 3369,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760524,
+    "BuffStickerId": 2995
   },
   {
     "name": "jkaem (Gold) | London 2018",
     "gen_id": 3370,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760947,
+    "BuffStickerId": 3258
   },
   {
     "name": "jks | London 2018",
     "gen_id": 3371,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760497,
+    "BuffStickerId": 2970
   },
   {
     "name": "jks (Foil) | London 2018",
     "gen_id": 3372,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760615,
+    "BuffStickerId": 3063
   },
   {
     "name": "jks (Gold) | London 2018",
     "gen_id": 3373,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760948,
+    "BuffStickerId": 3259
   },
   {
     "name": "jmqa | London 2018",
     "gen_id": 3155,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760660,
+    "BuffStickerId": 3091
   },
   {
     "name": "jmqa (Foil) | London 2018",
     "gen_id": 3156,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760757,
+    "BuffStickerId": 3120
   },
   {
     "name": "jmqa (Gold) | London 2018",
     "gen_id": 3157,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760907,
+    "BuffStickerId": 3224
   },
   {
     "name": "jR | London 2018",
     "gen_id": 3224,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760481,
+    "BuffStickerId": 2954
   },
   {
     "name": "jR (Foil) | London 2018",
     "gen_id": 3225,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760946,
+    "BuffStickerId": 3257
   },
   {
     "name": "jR (Gold) | London 2018",
     "gen_id": 3226,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761038,
+    "BuffStickerId": 3300
   },
   {
     "name": "JUGi | London 2018",
@@ -2108,248 +2108,248 @@
     "gen_id": 3393,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760574,
+    "BuffStickerId": 3032
   },
   {
     "name": "JUGi (Gold) | London 2018",
     "gen_id": 3394,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760895,
+    "BuffStickerId": 3212
   },
   {
     "name": "JW | London 2018",
     "gen_id": 3188,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760647,
+    "BuffStickerId": 3088
   },
   {
     "name": "JW (Foil) | London 2018",
     "gen_id": 3189,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760788,
+    "BuffStickerId": 3138
   },
   {
     "name": "JW (Gold) | London 2018",
     "gen_id": 3190,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760896,
+    "BuffStickerId": 3213
   },
   {
     "name": "k0nfig | London 2018",
     "gen_id": 3383,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760599,
+    "BuffStickerId": 3050
   },
   {
     "name": "k0nfig (Foil) | London 2018",
     "gen_id": 3384,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760835,
+    "BuffStickerId": 3159
   },
   {
     "name": "k0nfig (Gold) | London 2018",
     "gen_id": 3385,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760908,
+    "BuffStickerId": 3225
   },
   {
     "name": "karrigan | London 2018",
     "gen_id": 3101,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760536,
+    "BuffStickerId": 3006
   },
   {
     "name": "karrigan (Foil) | London 2018",
     "gen_id": 3102,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760763,
+    "BuffStickerId": 3124
   },
   {
     "name": "karrigan (Gold) | London 2018",
     "gen_id": 3103,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760665,
+    "BuffStickerId": 3093
   },
   {
     "name": "kennyS | London 2018",
     "gen_id": 3170,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760594,
+    "BuffStickerId": 3049
   },
   {
     "name": "kennyS (Foil) | London 2018",
     "gen_id": 3171,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760836,
+    "BuffStickerId": 3160
   },
   {
     "name": "kennyS (Gold) | London 2018",
     "gen_id": 3172,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760877,
+    "BuffStickerId": 3197
   },
   {
     "name": "Kjaerbye | London 2018",
     "gen_id": 3296,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760505,
+    "BuffStickerId": 2978
   },
   {
     "name": "Kjaerbye (Foil) | London 2018",
     "gen_id": 3297,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760885,
+    "BuffStickerId": 3203
   },
   {
     "name": "Kjaerbye (Gold) | London 2018",
     "gen_id": 3298,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761115,
+    "BuffStickerId": 3310
   },
   {
     "name": "KRIMZ | London 2018",
     "gen_id": 3191,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760456,
+    "BuffStickerId": 2932
   },
   {
     "name": "KRIMZ (Foil) | London 2018",
     "gen_id": 3192,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760657,
+    "BuffStickerId": 3090
   },
   {
     "name": "KRIMZ (Gold) | London 2018",
     "gen_id": 3193,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760970,
+    "BuffStickerId": 3275
   },
   {
     "name": "Kvik | London 2018",
     "gen_id": 3158,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760567,
+    "BuffStickerId": 3027
   },
   {
     "name": "Kvik (Foil) | London 2018",
     "gen_id": 3159,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760644,
+    "BuffStickerId": 3087
   },
   {
     "name": "Kvik (Gold) | London 2018",
     "gen_id": 3160,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760929,
+    "BuffStickerId": 3240
   },
   {
     "name": "Lekr0 | London 2018",
     "gen_id": 3326,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760533,
+    "BuffStickerId": 3003
   },
   {
     "name": "Lekr0 (Foil) | London 2018",
     "gen_id": 3327,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760513,
+    "BuffStickerId": 2986
   },
   {
     "name": "Lekr0 (Gold) | London 2018",
     "gen_id": 3328,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760846,
+    "BuffStickerId": 3169
   },
   {
     "name": "Magisk | London 2018",
     "gen_id": 3269,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760787,
+    "BuffStickerId": 3137
   },
   {
     "name": "Magisk (Foil) | London 2018",
     "gen_id": 3270,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760809,
+    "BuffStickerId": 3156
   },
   {
     "name": "Magisk (Gold) | London 2018",
     "gen_id": 3271,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760899,
+    "BuffStickerId": 3216
   },
   {
     "name": "MAJ3R | London 2018",
     "gen_id": 3242,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760618,
+    "BuffStickerId": 3066
   },
   {
     "name": "MAJ3R (Foil) | London 2018",
     "gen_id": 3243,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760853,
+    "BuffStickerId": 3176
   },
   {
     "name": "MAJ3R (Gold) | London 2018",
@@ -2364,136 +2364,136 @@
     "gen_id": 3314,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760722,
+    "BuffStickerId": 3108
   },
   {
     "name": "MICHU (Foil) | London 2018",
     "gen_id": 3315,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760804,
+    "BuffStickerId": 3152
   },
   {
     "name": "MICHU (Gold) | London 2018",
     "gen_id": 3316,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760898,
+    "BuffStickerId": 3215
   },
   {
     "name": "mir | London 2018",
     "gen_id": 3200,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760802,
+    "BuffStickerId": 3150
   },
   {
     "name": "mir (Foil) | London 2018",
     "gen_id": 3201,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760949,
+    "BuffStickerId": 3260
   },
   {
     "name": "mir (Gold) | London 2018",
     "gen_id": 3202,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761119,
+    "BuffStickerId": 3314
   },
   {
     "name": "mou | London 2018",
     "gen_id": 3209,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760656,
+    "BuffStickerId": 3089
   },
   {
     "name": "mou (Foil) | London 2018",
     "gen_id": 3210,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760950,
+    "BuffStickerId": 3261
   },
   {
     "name": "mou (Gold) | London 2018",
     "gen_id": 3211,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761211,
+    "BuffStickerId": 3316
   },
   {
     "name": "MSL | London 2018",
     "gen_id": 3290,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760506,
+    "BuffStickerId": 2979
   },
   {
     "name": "MSL (Foil) | London 2018",
     "gen_id": 3291,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760886,
+    "BuffStickerId": 3204
   },
   {
     "name": "MSL (Gold) | London 2018",
     "gen_id": 3292,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761246,
+    "BuffStickerId": 3320
   },
   {
     "name": "NAF | London 2018",
     "gen_id": 3284,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760844,
+    "BuffStickerId": 3167
   },
   {
     "name": "NAF (Foil) | London 2018",
     "gen_id": 3285,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760803,
+    "BuffStickerId": 3151
   },
   {
     "name": "NAF (Gold) | London 2018",
     "gen_id": 3286,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761026,
+    "BuffStickerId": 3288
   },
   {
     "name": "NEO | London 2018",
     "gen_id": 3311,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760621,
+    "BuffStickerId": 3069
   },
   {
     "name": "NEO (Foil) | London 2018",
     "gen_id": 3312,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760930,
+    "BuffStickerId": 3241
   },
   {
     "name": "NEO (Gold) | London 2018",
@@ -2508,72 +2508,72 @@
     "gen_id": 3254,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760786,
+    "BuffStickerId": 3136
   },
   {
     "name": "nex (Foil) | London 2018",
     "gen_id": 3255,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760562,
+    "BuffStickerId": 3022
   },
   {
     "name": "nex (Gold) | London 2018",
     "gen_id": 3256,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761212,
+    "BuffStickerId": 3317
   },
   {
     "name": "ngiN | London 2018",
     "gen_id": 3239,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760842,
+    "BuffStickerId": 3165
   },
   {
     "name": "ngiN (Foil) | London 2018",
     "gen_id": 3240,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760916,
+    "BuffStickerId": 3231
   },
   {
     "name": "ngiN (Gold) | London 2018",
     "gen_id": 3241,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761039,
+    "BuffStickerId": 3301
   },
   {
     "name": "Nifty | London 2018",
     "gen_id": 3365,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760390,
+    "BuffStickerId": 2895
   },
   {
     "name": "Nifty (Foil) | London 2018",
     "gen_id": 3366,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760808,
+    "BuffStickerId": 3155
   },
   {
     "name": "Nifty (Gold) | London 2018",
     "gen_id": 3367,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760883,
+    "BuffStickerId": 3201
   },
   {
     "name": "niko | London 2018",
@@ -2604,56 +2604,56 @@
     "gen_id": 3107,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760507,
+    "BuffStickerId": 15749
   },
   {
     "name": "NiKo (Foil) | London 2018",
     "gen_id": 3108,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760758,
+    "BuffStickerId": 15750
   },
   {
     "name": "NiKo (Gold) | London 2018",
     "gen_id": 3109,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760874,
+    "BuffStickerId": 15751
   },
   {
     "name": "nitr0 | London 2018",
     "gen_id": 3287,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760810,
+    "BuffStickerId": 3157
   },
   {
     "name": "nitr0 (Foil) | London 2018",
     "gen_id": 3288,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760772,
+    "BuffStickerId": 3129
   },
   {
     "name": "nitr0 (Gold) | London 2018",
     "gen_id": 3289,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761040,
+    "BuffStickerId": 3302
   },
   {
     "name": "olofmeister | London 2018",
     "gen_id": 3098,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760628,
+    "BuffStickerId": 3075
   },
   {
     "name": "olofmeister (Foil) | London 2018",
@@ -2668,104 +2668,104 @@
     "gen_id": 3100,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760909,
+    "BuffStickerId": 3226
   },
   {
     "name": "oskar | London 2018",
     "gen_id": 3152,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760620,
+    "BuffStickerId": 3068
   },
   {
     "name": "oskar (Foil) | London 2018",
     "gen_id": 3153,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760681,
+    "BuffStickerId": 3095
   },
   {
     "name": "oskar (Gold) | London 2018",
     "gen_id": 3154,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760715,
+    "BuffStickerId": 3104
   },
   {
     "name": "pashaBiceps | London 2018",
     "gen_id": 3308,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760458,
+    "BuffStickerId": 2934
   },
   {
     "name": "pashaBiceps (Foil) | London 2018",
     "gen_id": 3309,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760920,
+    "BuffStickerId": 3232
   },
   {
     "name": "pashaBiceps (Gold) | London 2018",
     "gen_id": 3310,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760910,
+    "BuffStickerId": 3227
   },
   {
     "name": "paz | London 2018",
     "gen_id": 3236,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760726,
+    "BuffStickerId": 3109
   },
   {
     "name": "paz (Foil) | London 2018",
     "gen_id": 3237,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760951,
+    "BuffStickerId": 3262
   },
   {
     "name": "paz (Gold) | London 2018",
     "gen_id": 3238,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761041,
+    "BuffStickerId": 3303
   },
   {
     "name": "rain | London 2018",
     "gen_id": 3104,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760592,
+    "BuffStickerId": 3047
   },
   {
     "name": "rain (Foil) | London 2018",
     "gen_id": 3105,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760630,
+    "BuffStickerId": 3077
   },
   {
     "name": "rain (Gold) | London 2018",
     "gen_id": 3106,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760839,
+    "BuffStickerId": 3162
   },
   {
     "name": "REZ | London 2018",
@@ -2780,416 +2780,416 @@
     "gen_id": 3330,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760607,
+    "BuffStickerId": 3056
   },
   {
     "name": "REZ (Gold) | London 2018",
     "gen_id": 3331,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761116,
+    "BuffStickerId": 3311
   },
   {
     "name": "Rickeh | London 2018",
     "gen_id": 3401,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760490,
+    "BuffStickerId": 2963
   },
   {
     "name": "Rickeh (Foil) | London 2018",
     "gen_id": 3402,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760663,
+    "BuffStickerId": 3092
   },
   {
     "name": "Rickeh (Gold) | London 2018",
     "gen_id": 3403,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760900,
+    "BuffStickerId": 3217
   },
   {
     "name": "ropz | London 2018",
     "gen_id": 3146,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760566,
+    "BuffStickerId": 3026
   },
   {
     "name": "ropz (Foil) | London 2018",
     "gen_id": 3147,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760798,
+    "BuffStickerId": 3147
   },
   {
     "name": "ropz (Gold) | London 2018",
     "gen_id": 3148,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761109,
+    "BuffStickerId": 3309
   },
   {
     "name": "RUSH | London 2018",
     "gen_id": 3086,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760638,
+    "BuffStickerId": 3084
   },
   {
     "name": "RUSH (Foil) | London 2018",
     "gen_id": 3087,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760770,
+    "BuffStickerId": 3128
   },
   {
     "name": "RUSH (Gold) | London 2018",
     "gen_id": 3088,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760931,
+    "BuffStickerId": 3242
   },
   {
     "name": "S0tF1k | London 2018",
     "gen_id": 3419,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760495,
+    "BuffStickerId": 2968
   },
   {
     "name": "S0tF1k (Foil) | London 2018",
     "gen_id": 3420,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760616,
+    "BuffStickerId": 3064
   },
   {
     "name": "S0tF1k (Gold) | London 2018",
     "gen_id": 3421,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760960,
+    "BuffStickerId": 3271
   },
   {
     "name": "s1mple | London 2018",
     "gen_id": 3116,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760632,
+    "BuffStickerId": 3079
   },
   {
     "name": "s1mple (Foil) | London 2018",
     "gen_id": 3117,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760627,
+    "BuffStickerId": 3074
   },
   {
     "name": "s1mple (Gold) | London 2018",
     "gen_id": 3118,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761042,
+    "BuffStickerId": 3304
   },
   {
     "name": "sdy | London 2018",
     "gen_id": 3416,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760512,
+    "BuffStickerId": 2985
   },
   {
     "name": "sdy (Foil) | London 2018",
     "gen_id": 3417,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760560,
+    "BuffStickerId": 3020
   },
   {
     "name": "sdy (Gold) | London 2018",
     "gen_id": 3418,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760875,
+    "BuffStickerId": 3196
   },
   {
     "name": "ShahZaM | London 2018",
     "gen_id": 3347,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760493,
+    "BuffStickerId": 2966
   },
   {
     "name": "ShahZaM (Foil) | London 2018",
     "gen_id": 3348,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760523,
+    "BuffStickerId": 2994
   },
   {
     "name": "ShahZaM (Gold) | London 2018",
     "gen_id": 3349,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760901,
+    "BuffStickerId": 3218
   },
   {
     "name": "shox | London 2018",
     "gen_id": 3176,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760591,
+    "BuffStickerId": 3046
   },
   {
     "name": "shox (Foil) | London 2018",
     "gen_id": 3177,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760634,
+    "BuffStickerId": 3081
   },
   {
     "name": "shox (Gold) | London 2018",
     "gen_id": 3178,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760952,
+    "BuffStickerId": 3263
   },
   {
     "name": "SicK | London 2018",
     "gen_id": 3395,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760525,
+    "BuffStickerId": 2996
   },
   {
     "name": "SicK (Foil) | London 2018",
     "gen_id": 3396,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760794,
+    "BuffStickerId": 3143
   },
   {
     "name": "SicK (Gold) | London 2018",
     "gen_id": 3397,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761028,
+    "BuffStickerId": 3290
   },
   {
     "name": "Skadoodle | London 2018",
     "gen_id": 3092,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760472,
+    "BuffStickerId": 2945
   },
   {
     "name": "Skadoodle (Foil) | London 2018",
     "gen_id": 3093,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760761,
+    "BuffStickerId": 3122
   },
   {
     "name": "Skadoodle (Gold) | London 2018",
     "gen_id": 3094,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760932,
+    "BuffStickerId": 3243
   },
   {
     "name": "SmithZz | London 2018",
     "gen_id": 3182,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760464,
+    "BuffStickerId": 2939
   },
   {
     "name": "SmithZz (Foil) | London 2018",
     "gen_id": 3183,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760624,
+    "BuffStickerId": 3072
   },
   {
     "name": "SmithZz (Gold) | London 2018",
     "gen_id": 3184,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760933,
+    "BuffStickerId": 3244
   },
   {
     "name": "smooya | London 2018",
     "gen_id": 3257,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760706,
+    "BuffStickerId": 3101
   },
   {
     "name": "smooya (Foil) | London 2018",
     "gen_id": 3258,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760847,
+    "BuffStickerId": 3170
   },
   {
     "name": "smooya (Gold) | London 2018",
     "gen_id": 3259,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761120,
+    "BuffStickerId": 3315
   },
   {
     "name": "Snappi | London 2018",
     "gen_id": 3389,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760612,
+    "BuffStickerId": 3061
   },
   {
     "name": "Snappi (Foil) | London 2018",
     "gen_id": 3390,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760503,
+    "BuffStickerId": 2976
   },
   {
     "name": "Snappi (Gold) | London 2018",
     "gen_id": 3391,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760902,
+    "BuffStickerId": 3219
   },
   {
     "name": "snatchie | London 2018",
     "gen_id": 3317,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760843,
+    "BuffStickerId": 3166
   },
   {
     "name": "snatchie (Foil) | London 2018",
     "gen_id": 3318,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760800,
+    "BuffStickerId": 3148
   },
   {
     "name": "snatchie (Gold) | London 2018",
     "gen_id": 3319,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760911,
+    "BuffStickerId": 3228
   },
   {
     "name": "Snax | London 2018",
     "gen_id": 3140,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760553,
+    "BuffStickerId": 3013
   },
   {
     "name": "Snax (Foil) | London 2018",
     "gen_id": 3141,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760766,
+    "BuffStickerId": 3125
   },
   {
     "name": "Snax (Gold) | London 2018",
     "gen_id": 3142,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761029,
+    "BuffStickerId": 3291
   },
   {
     "name": "somebody | London 2018",
     "gen_id": 3425,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760405,
+    "BuffStickerId": 2908
   },
   {
     "name": "somebody (Foil) | London 2018",
     "gen_id": 3426,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760403,
+    "BuffStickerId": 2907
   },
   {
     "name": "somebody (Gold) | London 2018",
     "gen_id": 3427,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761043,
+    "BuffStickerId": 3305
   },
   {
     "name": "stanislaw | London 2018",
     "gen_id": 3338,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760453,
+    "BuffStickerId": 2929
   },
   {
     "name": "stanislaw (Foil) | London 2018",
     "gen_id": 3339,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760784,
+    "BuffStickerId": 3134
   },
   {
     "name": "stanislaw (Gold) | London 2018",
@@ -3204,408 +3204,408 @@
     "gen_id": 3134,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760629,
+    "BuffStickerId": 3076
   },
   {
     "name": "Stewie2K (Foil) | London 2018",
     "gen_id": 3135,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760732,
+    "BuffStickerId": 3111
   },
   {
     "name": "Stewie2K (Gold) | London 2018",
     "gen_id": 3136,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760934,
+    "BuffStickerId": 3245
   },
   {
     "name": "STYKO | London 2018",
     "gen_id": 3089,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760483,
+    "BuffStickerId": 2956
   },
   {
     "name": "STYKO (Foil) | London 2018",
     "gen_id": 3090,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760637,
+    "BuffStickerId": 3083
   },
   {
     "name": "STYKO (Gold) | London 2018",
     "gen_id": 3091,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760869,
+    "BuffStickerId": 3190
   },
   {
     "name": "suNny | London 2018",
     "gen_id": 3149,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760520,
+    "BuffStickerId": 2993
   },
   {
     "name": "suNny (Foil) | London 2018",
     "gen_id": 3150,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760749,
+    "BuffStickerId": 3118
   },
   {
     "name": "suNny (Gold) | London 2018",
     "gen_id": 3151,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760953,
+    "BuffStickerId": 3264
   },
   {
     "name": "tabseN | London 2018",
     "gen_id": 3251,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760741,
+    "BuffStickerId": 3114
   },
   {
     "name": "tabseN (Foil) | London 2018",
     "gen_id": 3252,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760954,
+    "BuffStickerId": 3265
   },
   {
     "name": "tabseN (Gold) | London 2018",
     "gen_id": 3253,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760860,
+    "BuffStickerId": 3182
   },
   {
     "name": "TACO | London 2018",
     "gen_id": 3278,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760570,
+    "BuffStickerId": 3029
   },
   {
     "name": "TACO (Foil) | London 2018",
     "gen_id": 3279,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760879,
+    "BuffStickerId": 3199
   },
   {
     "name": "TACO (Gold) | London 2018",
     "gen_id": 3280,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760389,
+    "BuffStickerId": 2894
   },
   {
     "name": "tarik | London 2018",
     "gen_id": 3131,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760582,
+    "BuffStickerId": 3038
   },
   {
     "name": "tarik (Foil) | London 2018",
     "gen_id": 3132,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760713,
+    "BuffStickerId": 3103
   },
   {
     "name": "tarik (Gold) | London 2018",
     "gen_id": 3133,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761044,
+    "BuffStickerId": 3306
   },
   {
     "name": "tiziaN | London 2018",
     "gen_id": 3245,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760854,
+    "BuffStickerId": 3177
   },
   {
     "name": "tiziaN (Foil) | London 2018",
     "gen_id": 3246,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760858,
+    "BuffStickerId": 3180
   },
   {
     "name": "tiziaN (Gold) | London 2018",
     "gen_id": 3247,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761277,
+    "BuffStickerId": 3322
   },
   {
     "name": "tonyblack | London 2018",
     "gen_id": 3215,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760781,
+    "BuffStickerId": 3132
   },
   {
     "name": "tonyblack (Foil) | London 2018",
     "gen_id": 3216,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760790,
+    "BuffStickerId": 3139
   },
   {
     "name": "tonyblack (Gold) | London 2018",
     "gen_id": 3217,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761012,
+    "BuffStickerId": 3282
   },
   {
     "name": "Twistzz | London 2018",
     "gen_id": 3281,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760588,
+    "BuffStickerId": 3043
   },
   {
     "name": "Twistzz (Foil) | London 2018",
     "gen_id": 3282,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760850,
+    "BuffStickerId": 3173
   },
   {
     "name": "Twistzz (Gold) | London 2018",
     "gen_id": 3283,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761117,
+    "BuffStickerId": 3312
   },
   {
     "name": "USTILO | London 2018",
     "gen_id": 3374,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760487,
+    "BuffStickerId": 2960
   },
   {
     "name": "USTILO (Foil) | London 2018",
     "gen_id": 3375,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760795,
+    "BuffStickerId": 3144
   },
   {
     "name": "USTILO (Gold) | London 2018",
     "gen_id": 3376,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760903,
+    "BuffStickerId": 3220
   },
   {
     "name": "v4lde | London 2018",
     "gen_id": 3302,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760801,
+    "BuffStickerId": 3149
   },
   {
     "name": "v4lde (Foil) | London 2018",
     "gen_id": 3303,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760865,
+    "BuffStickerId": 3187
   },
   {
     "name": "v4lde (Gold) | London 2018",
     "gen_id": 3304,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761214,
+    "BuffStickerId": 3319
   },
   {
     "name": "vice | London 2018",
     "gen_id": 3407,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760489,
+    "BuffStickerId": 2962
   },
   {
     "name": "vice (Foil) | London 2018",
     "gen_id": 3408,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760557,
+    "BuffStickerId": 3017
   },
   {
     "name": "vice (Gold) | London 2018",
     "gen_id": 3409,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760840,
+    "BuffStickerId": 3163
   },
   {
     "name": "waterfaLLZ | London 2018",
     "gen_id": 3164,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760460,
+    "BuffStickerId": 2936
   },
   {
     "name": "waterfaLLZ (Foil) | London 2018",
     "gen_id": 3165,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760611,
+    "BuffStickerId": 3060
   },
   {
     "name": "waterfaLLZ (Gold) | London 2018",
     "gen_id": 3166,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761045,
+    "BuffStickerId": 3307
   },
   {
     "name": "woxic | London 2018",
     "gen_id": 3350,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760575,
+    "BuffStickerId": 3033
   },
   {
     "name": "woxic (Foil) | London 2018",
     "gen_id": 3351,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760785,
+    "BuffStickerId": 3135
   },
   {
     "name": "woxic (Gold) | London 2018",
     "gen_id": 3352,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760964,
+    "BuffStickerId": 3273
   },
   {
     "name": "XANTARES | London 2018",
     "gen_id": 3230,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760465,
+    "BuffStickerId": 2940
   },
   {
     "name": "XANTARES (Foil) | London 2018",
     "gen_id": 3231,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760935,
+    "BuffStickerId": 3246
   },
   {
     "name": "XANTARES (Gold) | London 2018",
     "gen_id": 3232,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761030,
+    "BuffStickerId": 3292
   },
   {
     "name": "xccurate | London 2018",
     "gen_id": 3437,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760401,
+    "BuffStickerId": 2906
   },
   {
     "name": "xccurate (Foil) | London 2018",
     "gen_id": 3438,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760605,
+    "BuffStickerId": 3054
   },
   {
     "name": "xccurate (Gold) | London 2018",
     "gen_id": 3439,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760867,
+    "BuffStickerId": 3188
   },
   {
     "name": "Xizt | London 2018",
     "gen_id": 3197,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760519,
+    "BuffStickerId": 2992
   },
   {
     "name": "Xizt (Foil) | London 2018",
     "gen_id": 3198,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760754,
+    "BuffStickerId": 3119
   },
   {
     "name": "Xizt (Gold) | London 2018",
     "gen_id": 3199,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760936,
+    "BuffStickerId": 3247
   },
   {
     "name": "Xyp9x | London 2018",
@@ -3620,63 +3620,63 @@
     "gen_id": 3273,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760475,
+    "BuffStickerId": 2948
   },
   {
     "name": "Xyp9x (Gold) | London 2018",
     "gen_id": 3274,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760904,
+    "BuffStickerId": 3221
   },
   {
     "name": "yay | London 2018",
     "gen_id": 3344,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760500,
+    "BuffStickerId": 2973
   },
   {
     "name": "yay (Foil) | London 2018",
     "gen_id": 3345,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760561,
+    "BuffStickerId": 3021
   },
   {
     "name": "yay (Gold) | London 2018",
     "gen_id": 3346,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760913,
+    "BuffStickerId": 3230
   },
   {
     "name": "Zeus | London 2018",
     "gen_id": 3344,
     "tournament": "London 2018",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760554,
+    "BuffStickerId": 3014
   },
   {
     "name": "Zeus (Foil) | London 2018",
     "gen_id": 3345,
     "tournament": "London 2018",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 760837,
+    "BuffStickerId": 3161
   },
   {
     "name": "Zeus (Gold) | London 2018",
     "gen_id": 3346,
     "tournament": "London 2018",
     "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 761031,
+    "BuffStickerId": 3293
   }
 ]

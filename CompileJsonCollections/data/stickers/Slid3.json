@@ -4,8 +4,8 @@
     "gen_id": 979,
     "tournament": "Slid3 Capsule",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39975,
+    "BuffStickerId": 8203
   },
   {
     "name": "Move It (Foil)",
@@ -20,8 +20,8 @@
     "gen_id": 976,
     "tournament": "Slid3 Capsule",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39923,
+    "BuffStickerId": 15722
   },
   {
     "name": "Don't Worry (Foil)",
@@ -44,24 +44,24 @@
     "gen_id": 975,
     "tournament": "Slid3 Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39924,
+    "BuffStickerId": 15723
   },
   {
     "name": "Move It (Holo)",
     "gen_id": 987,
     "tournament": "Slid3 Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40518,
+    "BuffStickerId": 8216
   },
   {
     "name": "Countdown (Holo)",
     "gen_id": 978,
     "tournament": "Slid3 Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39976,
+    "BuffStickerId": 8204
   },
   {
     "name": "Don't Worry (Holo)",
@@ -84,39 +84,39 @@
     "gen_id": 974,
     "tournament": "Slid3 Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39922,
+    "BuffStickerId": 840
   },
   {
     "name": "Countdown",
     "gen_id": 977,
     "tournament": "Slid3 Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39974,
+    "BuffStickerId": 890
   },
   {
     "name": "Move It",
     "gen_id": 986,
     "tournament": "Slid3 Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40516,
+    "BuffStickerId": 1420
   },
   {
     "name": "Hard Cluck Life",
     "gen_id": 983,
     "tournament": "Slid3 Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40291,
+    "BuffStickerId": 1202
   },
   {
     "name": "Don't Worry",
     "gen_id": 980,
     "tournament": "Slid3 Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40012,
+    "BuffStickerId": 925
   }
 ]

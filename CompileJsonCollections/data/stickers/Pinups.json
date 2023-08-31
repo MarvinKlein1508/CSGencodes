@@ -4,32 +4,32 @@
     "gen_id": 973,
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40896,
+    "BuffStickerId": 15739
   },
   {
     "name": "Sherry (Holo)",
     "gen_id": 972,
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40770,
+    "BuffStickerId": 15737
   },
   {
     "name": "Ivette (Holo)",
     "gen_id": 968,
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40346,
+    "BuffStickerId": 8210
   },
   {
     "name": "Kimberly (Holo)",
     "gen_id": 969,
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40402,
+    "BuffStickerId": 15897
   },
   {
     "name": "Merietta (Holo)",
@@ -44,16 +44,16 @@
     "gen_id": 970,
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40504,
+    "BuffStickerId": 15735
   },
   {
     "name": "Tamara",
     "gen_id": 967,
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40895,
+    "BuffStickerId": 1795
   },
   {
     "name": "Sherry",
@@ -68,8 +68,8 @@
     "gen_id": 963,
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40401,
+    "BuffStickerId": 1308
   },
   {
     "name": "Ivette",
@@ -84,15 +84,15 @@
     "gen_id": 965,
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40509,
+    "BuffStickerId": 1414
   },
   {
     "name": "Martha",
     "gen_id": 964,
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40503,
+    "BuffStickerId": 1409
   }
 ]
