@@ -4,8 +4,8 @@
     "gen_id": 1636,
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40662,
+    "BuffStickerId": 1563
   },
   {
     "name": "Jack (Holo)",
@@ -68,8 +68,8 @@
     "gen_id": 1630,
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41014,
+    "BuffStickerId": 1911
   },
   {
     "name": "Perry",
@@ -108,7 +108,7 @@
     "gen_id": 1625,
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39930,
+    "BuffStickerId": 846
   }
 ]
