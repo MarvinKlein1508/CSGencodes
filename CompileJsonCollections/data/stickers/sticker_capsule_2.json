@@ -3,96 +3,128 @@
     "name": "Crown (Foil)",
     "gen_id": 37,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Stupid Banana (Foil)",
     "gen_id": 46,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Bish (Holo)",
     "gen_id": 31,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Bash (Holo)",
     "gen_id": 32,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Bosh (Holo)",
     "gen_id": 33,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Let's Roll-oll (Holo)",
     "gen_id": 42,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Good Game",
     "gen_id": 38,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Nice Shot",
     "gen_id": 44,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Welcome to the Clutch",
     "gen_id": 47,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Banana",
     "gen_id": 34,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Good Luck",
     "gen_id": 39,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Bomb Code",
     "gen_id": 35,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Have Fun",
     "gen_id": 40,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Chicken Lover",
     "gen_id": 36,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Let's Roll-oll",
     "gen_id": 41,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Metal",
     "gen_id": 43,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
 ]

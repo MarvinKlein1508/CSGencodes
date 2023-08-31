@@ -3,102 +3,136 @@
     "name": "Emperor (Foil)",
     "gen_id": 4630,
     "tournament": "Warhammer 40,000",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Chaos Marine (Foil)",
     "gen_id": 4629,
     "tournament": "Warhammer 40,000",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Bloodthirster (Foil)",
     "gen_id": 4628,
     "tournament": "Warhammer 40,000",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Heresy (Holo)",
     "gen_id": 4624,
     "tournament": "Warhammer 40,000",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Tyranids Hive Tyrant (Holo)",
     "gen_id": 4627,
     "tournament": "Warhammer 40,000",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Lord of Skulls (Holo)",
     "gen_id": 4625,
     "tournament": "Warhammer 40,000",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Space Marine (Holo)",
     "gen_id": 4626,
     "tournament": "Warhammer 40,000",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Heresy",
     "gen_id": 4617,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Adepta Sororitas",
     "gen_id": 4614,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Necron",
     "gen_id": 4618,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Ork Waaagh!",
     "gen_id": 4619,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Tyranids Ravener",
     "gen_id": 4623,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Space Marine",
     "gen_id": 4622,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Repulsor",
     "gen_id": 4621,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Primaris Keychain",
     "gen_id": 4620,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Full Buy",
     "gen_id": 4616,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Aeldari Avatar",
     "gen_id": 4615,
     "tournament": "Warhammer 40,000",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
 ]

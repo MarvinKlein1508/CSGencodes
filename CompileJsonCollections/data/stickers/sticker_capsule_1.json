@@ -3,90 +3,120 @@
     "name": "Lucky 13 (Foil)",
     "gen_id": 26,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Luck Skill (Foil)",
     "gen_id": 27,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Aces High (Holo)",
     "gen_id": 15,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Vigilance (Holo)",
     "gen_id": 25,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Fearsome (Holo)",
     "gen_id": 20,
     "tournament": "Sticker Capsule 1",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Aces High",
     "gen_id": 14,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Fearsome",
     "gen_id": 19,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Black Dog",
     "gen_id": 18,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Easy Peasy",
     "gen_id": 22,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Lucky 13",
     "gen_id": 13,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Seek & Destroy",
     "gen_id": 17,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Vigilance",
     "gen_id": 24,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "I Conquered",
     "gen_id": 16,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Cerberus",
     "gen_id": 21,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Luck Skill",
     "gen_id": 23,
     "tournament": "Sticker Capsule 1",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
 ]

@@ -34,49 +34,13 @@ namespace BuffIdGrabber
 
             var files = Directory.GetFiles("data/stickers");
 
-            string[] alreadyDone = new string[]
-                {
-                    "10YearBirthday.json",
-                    "2021Community.json",
-                    "antwerp2022.json",
-                    "Atlanta2017.json",
-                    "berlin2019.json",
-                    "Bestiary.json",
-                    "boston2018.json",
-                    "Brokenfang.json",
-                    "Chicken.json",
-                    "Cluj-Napoja2015.json",
-                    "cologne2014.json",
-                    "cologne2015.json",
-                    "Cologne2016.json",
-                    "Community2018.json",
-                    "CommunityHalloween2014.json",
-                    "CommunitySeries1.json",
-                    "CommunitySeries2.json",
-                    "CommunitySeries3.json",
-                    "CommunitySeries4.json",
-                    "CommunitySeries5.json",
-                    "CS20.json",
-                    "dreamhack2014.json",
-                    "Enfu.json",
-                    "FeralPredators.json",
-                    "HalfLife.json",
-                    "Halo.json",
-                    "katowice2014.json",
-                    "katowice2015.json",
-                    "katowice2019.json",
-                    "krakow2017.json",
-                    "london2018.json"
-                };
+          
 
             foreach (var file in files)
             {
                 string debug_filename = Path.GetFileName(file);
 
-                if (alreadyDone.Contains(debug_filename))
-                {
-                    continue;
-                }
+               
 
                 string json = await File.ReadAllTextAsync(file);
                 List<Sticker> stickers = JsonSerializer.Deserialize<List<Sticker>>(json)!;

@@ -3,66 +3,88 @@
     "name": "The Pro (Foil)",
     "gen_id": 1005,
     "tournament": "Team Roles Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Fragger",
     "gen_id": 993,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Ninja",
     "gen_id": 997,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Awper",
     "gen_id": 989,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Lurker",
     "gen_id": 995,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Bot",
     "gen_id": 992,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Leader",
     "gen_id": 994,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Baiter",
     "gen_id": 990,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Support",
     "gen_id": 998,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The 'Nader",
     "gen_id": 996,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "The Bomber",
     "gen_id": 991,
     "tournament": "Team Roles Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
 ]

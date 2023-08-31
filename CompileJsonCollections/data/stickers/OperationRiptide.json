@@ -3,84 +3,112 @@
     "name": "Great Wave (Foil)",
     "gen_id": 4936,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Seeing Red (Foil)",
     "gen_id": 4935,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Liquid Fire (Holo)",
     "gen_id": 4934,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Great Wave (Holo)",
     "gen_id": 4932,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Kill Count (Holo)",
     "gen_id": 4933,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Dead Eye (Holo)",
     "gen_id": 4931,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Liquid Fire",
     "gen_id": 4929,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Great Wave",
     "gen_id": 4925,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Kill Count",
     "gen_id": 4927,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Chicken of the Sky",
     "gen_id": 4930,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Dead Eye",
     "gen_id": 4924,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Seeing Red",
     "gen_id": 4923,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Gutted",
     "gen_id": 4926,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Operation Riptide",
     "gen_id": 4928,
     "tournament": "Operation Riptide Sticker Collection",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
 ]

@@ -3,84 +3,112 @@
     "name": "Perry (Holo)",
     "gen_id": 1636,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Jack (Holo)",
     "gen_id": 1635,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Stan (Holo)",
     "gen_id": 1634,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Viggo (Holo)",
     "gen_id": 1637,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Max (Holo)",
     "gen_id": 1633,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Boris (Holo)",
     "gen_id": 1632,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Joan (Holo)",
     "gen_id": 1638,
     "tournament": "Sugarface Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Jack",
     "gen_id": 1628,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Viggo",
     "gen_id": 1630,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Perry",
     "gen_id": 1629,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Stan",
     "gen_id": 1627,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Max",
     "gen_id": 1626,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Joan",
     "gen_id": 1631,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   },
   {
     "name": "Boris",
     "gen_id": 1625,
     "tournament": "Sugarface Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null
   }
 ]
