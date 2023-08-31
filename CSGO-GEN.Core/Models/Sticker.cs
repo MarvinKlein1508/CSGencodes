@@ -14,6 +14,7 @@ namespace CSGO_GEN.Core.Models
         public string rarity { get; set; } = string.Empty;
         public int? BuffGoodsId { get; set; } = null;
         public int? BuffStickerId { get; set; } = null;
+        public string? Image { get; set; } 
     }
 
     public class AppliedSticker : Sticker
