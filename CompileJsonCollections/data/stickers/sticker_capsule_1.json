@@ -4,8 +4,8 @@
     "gen_id": 26,
     "tournament": "Sticker Capsule 1",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40457,
+    "BuffStickerId": 1363
   },
   {
     "name": "Luck Skill (Foil)",
@@ -84,8 +84,8 @@
     "gen_id": 17,
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 1660,
+    "BuffStickerId": 40759
   },
   {
     "name": "Vigilance",
