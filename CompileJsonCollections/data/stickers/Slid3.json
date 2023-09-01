@@ -12,8 +12,8 @@
     "gen_id": 988,
     "tournament": "Slid3 Capsule",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40517,
+    "BuffStickerId": 8215
   },
   {
     "name": "Boom (Foil)",
@@ -28,16 +28,16 @@
     "gen_id": 982,
     "tournament": "Slid3 Capsule",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40013,
+    "BuffStickerId": 15726
   },
   {
     "name": "Hard Cluck Life (Foil)",
     "gen_id": 985,
     "tournament": "Slid3 Capsule",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40294,
+    "BuffStickerId": 15731
   },
   {
     "name": "Boom (Holo)",
@@ -68,16 +68,16 @@
     "gen_id": 981,
     "tournament": "Slid3 Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40014,
+    "BuffStickerId": 15727
   },
   {
     "name": "Hard Cluck Life (Holo)",
     "gen_id": 984,
     "tournament": "Slid3 Capsule",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40293,
+    "BuffStickerId": 15731
   },
   {
     "name": "Boom",
