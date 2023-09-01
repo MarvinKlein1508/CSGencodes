@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CSGO-GEN-WebAssembly.dll": "sha256-T1\/cApt3QZftgrqLPJtwJQ86Hm+rfM\/0eXFllhhUKfE=",
-      "CSGO-GEN.Core.dll": "sha256-3I\/P8OInI34gt1JE0WYJWiQS4zRolaErPtabTs\/7xi0=",
+      "CSGO-GEN-WebAssembly.dll": "sha256-DiD9KZ5Mbgbi7QAZ6DQnRX3AR4fysDWNggR1th7c6oc=",
+      "CSGO-GEN.Core.dll": "sha256-YU6VFcCvy+F4R2Di6jq8K0rkmq2QZOi\/Oukn7yLGAV4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-dIpy\/eQ2HWsCDauIbkk3DTk4ultEQLj8qUilIqNfr3o=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-r5W+SMHKP6kzekVgZk7Y\/qAxj0A0l+ksWuG+pK6Gmew=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2\/cESvpd281cmPUvaLlj5RlX\/Gy2c0FzTfcec=",
@@ -32,7 +32,7 @@
       "System.Net.Http.dll": "sha256-EXsuiBiijoDwMMIFm3ZOJNyTw2ubUv0yXDWjUZZlZSQ=",
       "System.Net.Http.Json.dll": "sha256-JS7q6+QIY921Frjny5ZF17H\/Qgynsj3aFdZt5ZO8wEM=",
       "System.Net.Primitives.dll": "sha256-gHJVKtz6mzAKCHVwMuFkiOBrHy7jvpRRMBGUSxOK2Nc=",
-      "System.Private.CoreLib.dll": "sha256-5Oip9K3MYHvFNqseT4EXqHm0hFfvyK3YyymjzZajgMQ=",
+      "System.Private.CoreLib.dll": "sha256-h1Ix0a5w9YgHVCC6jc4kWfNEbtQeHcXu4t+tIb5v8Wo=",
       "System.Private.Uri.dll": "sha256-M46Nddprc6TRwFxg0Kb2Kbo7nVVeZjtiC9CjPgDcs5s=",
       "System.Runtime.dll": "sha256-E+E+wp\/MMFjCyCXxvQjG5Ic1H\/j+9QmL0mWPkNh6nPU=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-BelDVpqfDVmVY5eiUi5RxHoUd3QeudwAx2H8qM08YII=",
@@ -47,7 +47,7 @@
     "runtime": {
       "dotnet.7.0.10.1v9g9owx5z.js": "sha256-tUkVS4U0Vxxtapw398+Wa99LWNq9tlbfXS5gC7\/8Yh4=",
       "dotnet.timezones.blat": "sha256-pf9chcB37Cf13KuuvScsozomnAUanMeCfvDr9Wqofh8=",
-      "dotnet.wasm": "sha256-wyIzUXGCuWKEj4IgJxOrn8NfQQEHmEhwmIkc+t78xdc=",
+      "dotnet.wasm": "sha256-fQ49Ar8WrfO7Fhm6d04J6BLTPPCIhEJ26EN5kbbJA5E=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37\/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=",
@@ -56,7 +56,7 @@
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-wyIzUXGCuWKEj4IgJxOrn8NfQQEHmEhwmIkc+t78xdc="
+        "hash": "sha256-fQ49Ar8WrfO7Fhm6d04J6BLTPPCIhEJ26EN5kbbJA5E="
       }
     },
     "satelliteResources": null
