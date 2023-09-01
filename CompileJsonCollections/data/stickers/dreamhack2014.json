@@ -252,8 +252,8 @@
     "gen_id": 256,
     "tournament": "DreamHack 2014",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40157,
+    "BuffStickerId": 1068
   },
   {
     "name": "Flipsid3 (Gold) | DreamHack 2014",
@@ -357,6 +357,6 @@
     "tournament": "DreamHack 2014",
     "rarity": "Exotic",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": 947
   }
 ]
