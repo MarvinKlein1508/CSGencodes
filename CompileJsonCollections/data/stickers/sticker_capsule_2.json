@@ -92,8 +92,8 @@
     "gen_id": 35,
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 39917,
+    "BuffStickerId": 836
   },
   {
     "name": "Have Fun",
@@ -124,7 +124,7 @@
     "gen_id": 43,
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40512,
+    "BuffStickerId": 1416
   }
 ]
