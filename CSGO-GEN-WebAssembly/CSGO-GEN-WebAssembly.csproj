@@ -28,6 +28,10 @@
 		</Content>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="wwwroot\assets\img\items\stickers\Antwerp2022\" />
+	</ItemGroup>
+
 	
 
 
