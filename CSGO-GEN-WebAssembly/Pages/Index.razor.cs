@@ -71,7 +71,7 @@ namespace CSGO_GEN_WebAssembly.Pages
         {
             if (SelectedStickers.Count < 5)
             {
-                SelectedStickers.Add(new AppliedSticker(sticker));
+                SelectedStickers.Add(new AppliedSticker(sticker, SelectedStickers.Count));
             }
         }
 
@@ -141,6 +141,15 @@ namespace CSGO_GEN_WebAssembly.Pages
 
         }
 
+        private void OnStickerDrop(AppliedSticker sticker)
+        {
+            int counter = 0;
+            foreach (var item in SelectedStickers)
+            {
+                item.PosId = counter;
+                counter++;
+            }
+        }
         private string? GetBuff163Url()
         {
             // Example: https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids=16226,16226,16226,16226  

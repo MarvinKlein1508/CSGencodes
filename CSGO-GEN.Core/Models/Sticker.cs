@@ -19,8 +19,9 @@ namespace CSGO_GEN.Core.Models
     public class AppliedSticker : Sticker
     {
         public decimal Scratched { get; set; }
+        public int PosId { get; set; }
 
-        public AppliedSticker(Sticker sticker)
+        public AppliedSticker(Sticker sticker, int posId)
         {
             name = sticker.name;
             gen_id = sticker.gen_id;
@@ -28,6 +29,7 @@ namespace CSGO_GEN.Core.Models
             rarity = sticker.rarity;
             BuffGoodsId = sticker.BuffGoodsId;
             BuffStickerId = sticker.BuffStickerId;
+            PosId = posId;
         }
     }
 }
