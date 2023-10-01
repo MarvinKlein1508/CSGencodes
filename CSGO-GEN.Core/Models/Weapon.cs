@@ -30,6 +30,17 @@ namespace CSGO_GEN.Core.Models
             _ => 4
         };
 
+        public int RarityId => rarity switch
+        {
+            "Consumer" => 1,
+            "Industrial" => 2,
+            "Milspec" => 3,
+            "Restricted" => 4,
+            "Classified" => 5,
+            "Covert" => 6,
+            "Contraband" => 7,
+            _ => 1,
+        };
         public string GetGencode(decimal @float, int pattern, List<AppliedSticker> stickers)
         {
             StringBuilder sb = new();
@@ -47,5 +58,6 @@ namespace CSGO_GEN.Core.Models
             string gencode = sb.ToString();
             return gencode;
         }
+
     }
 }

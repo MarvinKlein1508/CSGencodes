@@ -140,5 +140,28 @@ namespace CSGO_GEN_WebAssembly.Pages
 
 
         }
+
+        private string? GetBuff163Url()
+        {
+            // Example: https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids=16226,16226,16226,16226  
+            List<int> searchIds = new();
+            if (SelectedStickers.Any())
+            { 
+                foreach (var sticker in SelectedStickers)
+                {
+                    if(sticker.BuffStickerId is not null)
+                    {
+                        searchIds.Add((int)sticker.BuffStickerId);
+                    }
+                }
+            }
+
+            if(!searchIds.Any())
+            {
+                return null;
+            }
+
+            return $"https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids={String.Join(",", searchIds)}";
+        }
     }
 }

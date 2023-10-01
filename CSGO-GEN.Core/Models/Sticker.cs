@@ -27,6 +27,8 @@ namespace CSGO_GEN.Core.Models
             gen_id = sticker.gen_id;
             tournament = sticker.tournament;
             rarity = sticker.rarity;
+            BuffGoodsId = sticker.BuffGoodsId;
+            BuffStickerId = sticker.BuffStickerId;
         }
     }
 }

@@ -3,90 +3,120 @@
     "name": "Countdown (Foil)",
     "gen_id": 979,
     "tournament": "Slid3 Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 39975,
+    "BuffStickerId": 8203
   },
   {
     "name": "Move It (Foil)",
     "gen_id": 988,
     "tournament": "Slid3 Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40517,
+    "BuffStickerId": 8215
   },
   {
     "name": "Boom (Foil)",
     "gen_id": 976,
     "tournament": "Slid3 Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 39923,
+    "BuffStickerId": 15722
   },
   {
     "name": "Don't Worry (Foil)",
     "gen_id": 982,
     "tournament": "Slid3 Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40013,
+    "BuffStickerId": 15726
   },
   {
     "name": "Hard Cluck Life (Foil)",
     "gen_id": 985,
     "tournament": "Slid3 Capsule",
-    "rarity": "Exotic"
+    "rarity": "Exotic",
+    "BuffGoodsId": 40294,
+    "BuffStickerId": 15731
   },
   {
     "name": "Boom (Holo)",
     "gen_id": 975,
     "tournament": "Slid3 Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39924,
+    "BuffStickerId": 15723
   },
   {
     "name": "Move It (Holo)",
     "gen_id": 987,
     "tournament": "Slid3 Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40518,
+    "BuffStickerId": 8216
   },
   {
     "name": "Countdown (Holo)",
     "gen_id": 978,
     "tournament": "Slid3 Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39976,
+    "BuffStickerId": 8204
   },
   {
     "name": "Don't Worry (Holo)",
     "gen_id": 981,
     "tournament": "Slid3 Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40014,
+    "BuffStickerId": 15727
   },
   {
     "name": "Hard Cluck Life (Holo)",
     "gen_id": 984,
     "tournament": "Slid3 Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40293,
+    "BuffStickerId": 15731
   },
   {
     "name": "Boom",
     "gen_id": 974,
     "tournament": "Slid3 Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39922,
+    "BuffStickerId": 840
   },
   {
     "name": "Countdown",
     "gen_id": 977,
     "tournament": "Slid3 Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39974,
+    "BuffStickerId": 890
   },
   {
     "name": "Move It",
     "gen_id": 986,
     "tournament": "Slid3 Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40516,
+    "BuffStickerId": 1420
   },
   {
     "name": "Hard Cluck Life",
     "gen_id": 983,
     "tournament": "Slid3 Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40291,
+    "BuffStickerId": 1202
   },
   {
     "name": "Don't Worry",
     "gen_id": 980,
     "tournament": "Slid3 Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40012,
+    "BuffStickerId": 925
   }
 ]

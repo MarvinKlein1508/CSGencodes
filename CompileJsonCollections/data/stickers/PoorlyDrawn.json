@@ -3,120 +3,160 @@
     "name": "Poorly Drawn Chicken (Holo)",
     "gen_id": 4810,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853161,
+    "BuffStickerId": 15908
   },
   {
     "name": "Poorly Drawn Terrorist (Holo)",
     "gen_id": 4816,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853183,
+    "BuffStickerId": 15918
   },
   {
     "name": "Poorly Drawn Balkan (Holo)",
     "gen_id": 4808,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853178,
+    "BuffStickerId": 15914
   },
   {
     "name": "Poorly Drawn Number K (Holo)",
     "gen_id": 4814,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853157,
+    "BuffStickerId": 15904
   },
   {
     "name": "Poorly Drawn SAS (Holo)",
     "gen_id": 4815,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853152,
+    "BuffStickerId": 15900
   },
   {
     "name": "Poorly Drawn FBI (Holo)",
     "gen_id": 4811,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853153,
+    "BuffStickerId": 15901
   },
   {
     "name": "Poorly Drawn Bloody Darryl (Holo)",
     "gen_id": 4809,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853179,
+    "BuffStickerId": 15915
   },
   {
     "name": "Poorly Drawn Leet Crew (Holo)",
     "gen_id": 4813,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853158,
+    "BuffStickerId": 15905
   },
   {
     "name": "Poorly Drawn IDF (Holo)",
     "gen_id": 4812,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853180,
+    "BuffStickerId": 15916
   },
   {
     "name": "Poorly Drawn Ava (Holo)",
     "gen_id": 4807,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853159,
+    "BuffStickerId": 15906
   },
   {
     "name": "Poorly Drawn Chicken",
     "gen_id": 4800,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853170,
+    "BuffStickerId": 15911
   },
   {
     "name": "Poorly Drawn Terrorist",
     "gen_id": 4806,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853160,
+    "BuffStickerId": 15907
   },
   {
     "name": "Poorly Drawn Number K",
     "gen_id": 4804,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853176,
+    "BuffStickerId": 15913
   },
   {
     "name": "Poorly Drawn FBI",
     "gen_id": 4801,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853175,
+    "BuffStickerId": 15912
   },
   {
     "name": "Poorly Drawn Leet Crew",
     "gen_id": 4803,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "Remarkable"
+    "rarity": "Remarkable",
+    "BuffGoodsId": 853154,
+    "BuffStickerId": 15902
   },
   {
     "name": "Poorly Drawn SAS",
     "gen_id": 4805,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853182,
+    "BuffStickerId": 15917
   },
   {
     "name": "Poorly Drawn Bloody Darryl",
     "gen_id": 4799,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853163,
+    "BuffStickerId": 15910
   },
   {
     "name": "Poorly Drawn Balkan",
     "gen_id": 4798,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853155,
+    "BuffStickerId": 15903
   },
   {
     "name": "Poorly Drawn Ava",
     "gen_id": 4797,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853162,
+    "BuffStickerId": 15909
   },
   {
     "name": "Poorly Drawn IDF",
     "gen_id": 4802,
     "tournament": "Poorly Drawn Capsule",
-    "rarity": "HighGrade"
+    "rarity": "HighGrade",
+    "BuffGoodsId": 853089,
+    "BuffStickerId": 15919
   }
 ]

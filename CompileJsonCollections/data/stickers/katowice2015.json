@@ -292,8 +292,8 @@
     "gen_id": 326,
     "tournament": "Katowice 2015",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40612,
+    "BuffStickerId": 1513
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | Katowice 2015",
@@ -324,8 +324,8 @@
     "gen_id": 330,
     "tournament": "Katowice 2015",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 40648,
+    "BuffStickerId": 1549
   },
   {
     "name": "PENTA Sports (Holo) | Katowice 2015",
@@ -452,24 +452,24 @@
     "gen_id": 346,
     "tournament": "Katowice 2015",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41045,
+    "BuffStickerId": 1942
   },
   {
     "name": "Virtus.Pro (Holo) | Katowice 2015",
     "gen_id": 347,
     "tournament": "Katowice 2015",
     "rarity": "Remarkable",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41044,
+    "BuffStickerId": 1941
   },
   {
     "name": "Virtus.Pro (Foil) | Katowice 2015",
     "gen_id": 348,
     "tournament": "Katowice 2015",
     "rarity": "Exotic",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41043,
+    "BuffStickerId": 1940
   },
   {
     "name": "Virtus.Pro (Gold) | Katowice 2015",
@@ -484,8 +484,8 @@
     "gen_id": 350,
     "tournament": "Katowice 2015",
     "rarity": "HighGrade",
-    "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffGoodsId": 41046,
+    "BuffStickerId": 1943
   },
   {
     "name": "Vox Eminor (Holo) | Katowice 2015",
@@ -533,6 +533,6 @@
     "tournament": "Katowice 2015",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": 12258
   }
 ]

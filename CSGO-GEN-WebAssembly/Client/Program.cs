@@ -37,6 +37,7 @@ namespace CSGO_GEN_WebAssembly
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
             builder.Services.AddScoped<WeaponService>();
             builder.Services.AddScoped<StickerService>();
+            builder.Services.AddScoped<InspectLinkService>();
             builder.Services.AddBlazorDragDrop();
 
             await builder.Build().RunAsync();

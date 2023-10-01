@@ -2,6 +2,7 @@
 @page "/home"
 @inject WeaponService weaponService
 @inject StickerService stickerService
+@inject InspectLinkService inspectService
 
 <PageTitle>CSGO Gencode Generator</PageTitle>
 
@@ -19,9 +20,9 @@
                         <input type="text" value="@SelectedWeapon.GetGencode(Float, Pattern, SelectedStickers)" class="form-control" placeholder="Gencode" id="gencode" />
                         <label for="gencode">Gencode</label>
                     </div>
+                    <a class="btn btn-info" href="@inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers)">Inspect</a>
                     <button type="button" class="btn btn-primary" onclick="copyGencode()"><i class="fa-solid fa-copy"></i></button>
                 </div>
-
 
             }
 
@@ -77,6 +78,10 @@
                         <h3 class="text-white">Selected stickers</h3>
                         <a href="@GetSteamMarketUrl()" target="_blank" class="btn btn-primary d-block mb-1">Search on Steam market</a>
                         <a href="@GetCsgofloatUrl()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on csgofloat</a>
+                        @if (!string.IsNullOrEmpty(GetBuff163Url()))
+                        {
+                            <a href="@GetBuff163Url()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on Buff163</a>
+                        }
                         <div class="toolbar mb-3 d-flex gap-1">
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1)">Remove last sticker</button>
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
