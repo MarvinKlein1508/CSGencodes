@@ -5,7 +5,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "Exotic",
     "BuffGoodsId": 40450,
-    "BuffStickerId": 1356
+    "BuffStickerId": 1356,
+    "Image": null
   },
   {
     "name": "Pixiu (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "Exotic",
     "BuffGoodsId": 40673,
-    "BuffStickerId": 1574
+    "BuffStickerId": 1574,
+    "Image": null
   },
   {
     "name": "Twin Koi (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "Remarkable",
     "BuffGoodsId": 40993,
-    "BuffStickerId": 1890
+    "BuffStickerId": 1890,
+    "Image": null
   },
   {
     "name": "Rage",
@@ -29,7 +32,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40694,
-    "BuffStickerId": 1595
+    "BuffStickerId": 1595,
+    "Image": null
   },
   {
     "name": "Longevity",
@@ -37,7 +41,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40449,
-    "BuffStickerId": 1355
+    "BuffStickerId": 1355,
+    "Image": null
   },
   {
     "name": "God of Fortune",
@@ -45,7 +50,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40240,
-    "BuffStickerId": 1151
+    "BuffStickerId": 1151,
+    "Image": null
   },
   {
     "name": "Blue Swallow",
@@ -53,7 +59,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 39913,
-    "BuffStickerId": 832
+    "BuffStickerId": 832,
+    "Image": null
   },
   {
     "name": "Twin Koi",
@@ -61,7 +68,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40992,
-    "BuffStickerId": 1889
+    "BuffStickerId": 1889,
+    "Image": null
   },
   {
     "name": "Green Swallow",
@@ -69,7 +77,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40246,
-    "BuffStickerId": 1157
+    "BuffStickerId": 1157,
+    "Image": null
   },
   {
     "name": "Non-Veg",
@@ -77,7 +86,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 33687,
-    "BuffStickerId": 741
+    "BuffStickerId": 741,
+    "Image": null
   },
   {
     "name": "Pixiu",
@@ -85,7 +95,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40672,
-    "BuffStickerId": 1573
+    "BuffStickerId": 1573,
+    "Image": null
   },
   {
     "name": "Nezha",
@@ -93,7 +104,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40592,
-    "BuffStickerId": 1493
+    "BuffStickerId": 1493,
+    "Image": null
   },
   {
     "name": "Zombie Hop",
@@ -101,7 +113,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 41123,
-    "BuffStickerId": 2020
+    "BuffStickerId": 2020,
+    "Image": null
   },
   {
     "name": "Huaji",
@@ -109,7 +122,8 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40336,
-    "BuffStickerId": 1245
+    "BuffStickerId": 1245,
+    "Image": null
   },
   {
     "name": "Shaolin",
@@ -117,6 +131,7 @@
     "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40763,
-    "BuffStickerId": 1664
+    "BuffStickerId": 1664,
+    "Image": null
   }
 ]

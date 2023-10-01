@@ -5,7 +5,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "Exotic",
     "BuffGoodsId": 774695,
-    "BuffStickerId": 10824
+    "BuffStickerId": 10824,
+    "Image": null
   },
   {
     "name": "Web Stuck (Holo)",
@@ -13,7 +14,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 774690,
-    "BuffStickerId": 10823
+    "BuffStickerId": 10823,
+    "Image": null
   },
   {
     "name": "Mastermind (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 774722,
-    "BuffStickerId": 10825
+    "BuffStickerId": 10825,
+    "Image": null
   },
   {
     "name": "Counter-Tech",
@@ -29,7 +32,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 774684,
-    "BuffStickerId": 10821
+    "BuffStickerId": 10821,
+    "Image": null
   },
   {
     "name": "Web Stuck",
@@ -37,7 +41,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 774734,
-    "BuffStickerId": 10827
+    "BuffStickerId": 10827,
+    "Image": null
   },
   {
     "name": "Gold Web",
@@ -45,7 +50,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 774723,
-    "BuffStickerId": 10826
+    "BuffStickerId": 10826,
+    "Image": null
   },
   {
     "name": "Shattered Web",
@@ -53,7 +59,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 774673,
-    "BuffStickerId": 10819
+    "BuffStickerId": 10819,
+    "Image": null
   },
   {
     "name": "Mastermind",
@@ -61,7 +68,8 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 774678,
-    "BuffStickerId": 10820
+    "BuffStickerId": 10820,
+    "Image": null
   },
   {
     "name": "Terrorist-Tech",
@@ -69,6 +77,7 @@
     "tournament": "Shattered Web Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 774689,
-    "BuffStickerId": 10822
+    "BuffStickerId": 10822,
+    "Image": null
   }
 ]

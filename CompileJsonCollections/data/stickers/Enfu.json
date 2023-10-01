@@ -5,7 +5,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 40777,
-    "BuffStickerId": 1677
+    "BuffStickerId": 1677,
+    "Image": null
   },
   {
     "name": "Bombsquad (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 39921,
-    "BuffStickerId": 838
+    "BuffStickerId": 838,
+    "Image": null
   },
   {
     "name": "Unicorn (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 41006,
-    "BuffStickerId": 1903
+    "BuffStickerId": 1903,
+    "Image": null
   },
   {
     "name": "Unicorn",
@@ -29,7 +32,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 41005,
-    "BuffStickerId": 1902
+    "BuffStickerId": 1902,
+    "Image": null
   },
   {
     "name": "Skulltorgeist",
@@ -37,7 +41,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40792,
-    "BuffStickerId": 1692
+    "BuffStickerId": 1692,
+    "Image": null
   },
   {
     "name": "Chabo",
@@ -45,7 +50,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 39943,
-    "BuffStickerId": 859
+    "BuffStickerId": 859,
+    "Image": null
   },
   {
     "name": "Skull Lil Boney",
@@ -53,7 +59,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40790,
-    "BuffStickerId": 1690
+    "BuffStickerId": 1690,
+    "Image": null
   },
   {
     "name": "The Guru",
@@ -61,7 +68,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40966,
-    "BuffStickerId": 1864
+    "BuffStickerId": 1864,
+    "Image": null
   },
   {
     "name": "The Spartan",
@@ -69,7 +77,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40973,
-    "BuffStickerId": 1870
+    "BuffStickerId": 1870,
+    "Image": null
   },
   {
     "name": "Salute!",
@@ -77,7 +86,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40745,
-    "BuffStickerId": 1646
+    "BuffStickerId": 1646,
+    "Image": null
   },
   {
     "name": "The Samurai",
@@ -85,7 +95,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40972,
-    "BuffStickerId": 1869
+    "BuffStickerId": 1869,
+    "Image": null
   },
   {
     "name": "The Zombie",
@@ -93,7 +104,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40974,
-    "BuffStickerId": 1871
+    "BuffStickerId": 1871,
+    "Image": null
   },
   {
     "name": "Silent Ninja",
@@ -101,7 +113,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40776,
-    "BuffStickerId": 1676
+    "BuffStickerId": 1676,
+    "Image": null
   },
   {
     "name": "Skull Troop",
@@ -109,7 +122,8 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40791,
-    "BuffStickerId": 1691
+    "BuffStickerId": 1691,
+    "Image": null
   },
   {
     "name": "Bombsquad",
@@ -117,6 +131,7 @@
     "tournament": "Enfu Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 39920,
-    "BuffStickerId": 839
+    "BuffStickerId": 839,
+    "Image": null
   }
 ]

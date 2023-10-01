@@ -5,7 +5,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40457,
-    "BuffStickerId": 1363
+    "BuffStickerId": 1363,
+    "Image": null
   },
   {
     "name": "Luck Skill (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40455,
-    "BuffStickerId": 1361
+    "BuffStickerId": 1361,
+    "Image": null
   },
   {
     "name": "Aces High (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 39840,
-    "BuffStickerId": 759
+    "BuffStickerId": 759,
+    "Image": null
   },
   {
     "name": "Vigilance (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 41017,
-    "BuffStickerId": 1914
+    "BuffStickerId": 1914,
+    "Image": null
   },
   {
     "name": "Fearsome (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 40131,
-    "BuffStickerId": 1042
+    "BuffStickerId": 1042,
+    "Image": null
   },
   {
     "name": "Aces High",
@@ -45,7 +50,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39839,
-    "BuffStickerId": 758
+    "BuffStickerId": 758,
+    "Image": null
   },
   {
     "name": "Fearsome",
@@ -53,7 +59,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40130,
-    "BuffStickerId": 1041
+    "BuffStickerId": 1041,
+    "Image": null
   },
   {
     "name": "Black Dog",
@@ -61,7 +68,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39910,
-    "BuffStickerId": 829
+    "BuffStickerId": 829,
+    "Image": null
   },
   {
     "name": "Easy Peasy",
@@ -69,7 +77,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40057,
-    "BuffStickerId": 968
+    "BuffStickerId": 968,
+    "Image": null
   },
   {
     "name": "Lucky 13",
@@ -77,7 +86,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40456,
-    "BuffStickerId": 1362
+    "BuffStickerId": 1362,
+    "Image": null
   },
   {
     "name": "Seek & Destroy",
@@ -85,7 +95,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 1660,
-    "BuffStickerId": 40759
+    "BuffStickerId": 40759,
+    "Image": null
   },
   {
     "name": "Vigilance",
@@ -93,7 +104,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 41016,
-    "BuffStickerId": 1913
+    "BuffStickerId": 1913,
+    "Image": null
   },
   {
     "name": "I Conquered",
@@ -101,7 +113,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40341,
-    "BuffStickerId": 1250
+    "BuffStickerId": 1250,
+    "Image": null
   },
   {
     "name": "Cerberus",
@@ -109,7 +122,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39942,
-    "BuffStickerId": 858
+    "BuffStickerId": 858,
+    "Image": null
   },
   {
     "name": "Luck Skill",
@@ -117,6 +131,7 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40454,
-    "BuffStickerId": 1360
+    "BuffStickerId": 1360,
+    "Image": null
   }
 ]

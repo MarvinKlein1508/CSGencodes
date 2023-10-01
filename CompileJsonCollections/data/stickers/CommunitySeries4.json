@@ -5,7 +5,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40133,
-    "BuffStickerId": 1044
+    "BuffStickerId": 1044,
+    "Image": null
   },
   {
     "name": "Lucky Cat (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40458,
-    "BuffStickerId": 1364
+    "BuffStickerId": 1364,
+    "Image": null
   },
   {
     "name": "Wanna Fight",
@@ -21,7 +23,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 41053,
-    "BuffStickerId": 1950
+    "BuffStickerId": 1950,
+    "Image": null
   },
   {
     "name": "Flickshot",
@@ -29,7 +32,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40138,
-    "BuffStickerId": 1049
+    "BuffStickerId": 1049,
+    "Image": null
   },
   {
     "name": "Witchcraft",
@@ -37,7 +41,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 41061,
-    "BuffStickerId": 1958
+    "BuffStickerId": 1958,
+    "Image": null
   },
   {
     "name": "Headless Chicken",
@@ -45,7 +50,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40301,
-    "BuffStickerId": 1210
+    "BuffStickerId": 1210,
+    "Image": null
   },
   {
     "name": "Just Trolling",
@@ -53,7 +59,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40373,
-    "BuffStickerId": 1281
+    "BuffStickerId": 1281,
+    "Image": null
   },
   {
     "name": "Eco Rush",
@@ -61,7 +68,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40058,
-    "BuffStickerId": 969
+    "BuffStickerId": 969,
+    "Image": null
   },
   {
     "name": "Headshot Guarantee",
@@ -69,7 +77,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40302,
-    "BuffStickerId": 1211
+    "BuffStickerId": 1211,
+    "Image": null
   },
   {
     "name": "Hamster Hawk",
@@ -77,7 +86,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40277,
-    "BuffStickerId": 1188
+    "BuffStickerId": 1188,
+    "Image": null
   },
   {
     "name": "Hostage Rescue",
@@ -85,7 +95,8 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40333,
-    "BuffStickerId": 1242
+    "BuffStickerId": 1242,
+    "Image": null
   },
   {
     "name": "Robo",
@@ -93,6 +104,7 @@
     "tournament": "Community Stickers Series 4",
     "rarity": "HighGrade",
     "BuffGoodsId": 40706,
-    "BuffStickerId": 1607
+    "BuffStickerId": 1607,
+    "Image": null
   }
 ]

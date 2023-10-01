@@ -5,7 +5,8 @@
     "tournament": "Community Stickers Halloween 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 40990,
-    "BuffStickerId": 1887
+    "BuffStickerId": 1887,
+    "Image": null
   },
   {
     "name": "Doomed",
@@ -13,7 +14,8 @@
     "tournament": "Community Stickers Halloween 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 40018,
-    "BuffStickerId": 929
+    "BuffStickerId": 929,
+    "Image": null
   },
   {
     "name": "Queen Of Pain",
@@ -21,7 +23,8 @@
     "tournament": "Community Stickers Halloween 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 40682,
-    "BuffStickerId": 1583
+    "BuffStickerId": 1583,
+    "Image": null
   },
   {
     "name": "Zombie Lover",
@@ -29,7 +32,8 @@
     "tournament": "Community Stickers Halloween 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 41124,
-    "BuffStickerId": 2021
+    "BuffStickerId": 2021,
+    "Image": null
   },
   {
     "name": "Witch",
@@ -37,7 +41,8 @@
     "tournament": "Community Stickers Halloween 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 41060,
-    "BuffStickerId": 1957
+    "BuffStickerId": 1957,
+    "Image": null
   },
   {
     "name": "Trick Or Treat",
@@ -45,6 +50,7 @@
     "tournament": "Community Stickers Halloween 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 40991,
-    "BuffStickerId": 1888
+    "BuffStickerId": 1888,
+    "Image": null
   }
 ]

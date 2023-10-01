@@ -5,7 +5,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 888068,
-    "BuffStickerId": 16541
+    "BuffStickerId": 16541,
+    "Image": null
   },
   {
     "name": "Face Me (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 888069,
-    "BuffStickerId": 16542
+    "BuffStickerId": 16542,
+    "Image": null
   },
   {
     "name": "The Real MVP (Foil)",
@@ -21,7 +23,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 888066,
-    "BuffStickerId": 16539
+    "BuffStickerId": 16539,
+    "Image": null
   },
   {
     "name": "Inferno Diorama (Foil)",
@@ -29,7 +32,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 888067,
-    "BuffStickerId": 16540
+    "BuffStickerId": 16540,
+    "Image": null
   },
   {
     "name": "Infinite Diamond (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 888057,
-    "BuffStickerId": 16534
+    "BuffStickerId": 16534,
+    "Image": null
   },
   {
     "name": "Phoenix Balaclava Co. (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 888031,
-    "BuffStickerId": 16524
+    "BuffStickerId": 16524,
+    "Image": null
   },
   {
     "name": "V For Victory (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 888034,
-    "BuffStickerId": 16526
+    "BuffStickerId": 16526,
+    "Image": null
   },
   {
     "name": "T Rush (Holo)",
@@ -61,7 +68,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 888027,
-    "BuffStickerId": 16521
+    "BuffStickerId": 16521,
+    "Image": null
   },
   {
     "name": "Sneaky Beaky Dept. (Holo)",
@@ -69,7 +77,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 888063,
-    "BuffStickerId": 16538
+    "BuffStickerId": 16538,
+    "Image": null
   },
   {
     "name": "Flashblack (Holo)",
@@ -77,7 +86,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 888037,
-    "BuffStickerId": 16529
+    "BuffStickerId": 16529,
+    "Image": null
   },
   {
     "name": "Smoke Criminal",
@@ -85,7 +95,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888033,
-    "BuffStickerId": 16525
+    "BuffStickerId": 16525,
+    "Image": null
   },
   {
     "name": "B Hop",
@@ -93,7 +104,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888030,
-    "BuffStickerId": 16523
+    "BuffStickerId": 16523,
+    "Image": null
   },
   {
     "name": "Flick Shotter",
@@ -101,7 +113,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888028,
-    "BuffStickerId": 16522
+    "BuffStickerId": 16522,
+    "Image": null
   },
   {
     "name": "Squeaky Door",
@@ -109,7 +122,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888061,
-    "BuffStickerId": 16537
+    "BuffStickerId": 16537,
+    "Image": null
   },
   {
     "name": "Hi, My Game Is",
@@ -117,7 +131,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888056,
-    "BuffStickerId": 16533
+    "BuffStickerId": 16533,
+    "Image": null
   },
   {
     "name": "Get Clucked",
@@ -125,7 +140,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888052,
-    "BuffStickerId": 16531
+    "BuffStickerId": 16531,
+    "Image": null
   },
   {
     "name": "Little Mischief",
@@ -133,7 +149,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888059,
-    "BuffStickerId": 16535
+    "BuffStickerId": 16535,
+    "Image": null
   },
   {
     "name": "I'm Lit",
@@ -141,7 +158,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888036,
-    "BuffStickerId": 16528
+    "BuffStickerId": 16528,
+    "Image": null
   },
   {
     "name": "This Is Fine (T)",
@@ -149,7 +167,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888035,
-    "BuffStickerId": 16527
+    "BuffStickerId": 16527,
+    "Image": null
   },
   {
     "name": "Run CT, Run",
@@ -157,7 +176,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888060,
-    "BuffStickerId": 16536
+    "BuffStickerId": 16536,
+    "Image": null
   },
   {
     "name": "Wallbang",
@@ -165,7 +185,8 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888055,
-    "BuffStickerId": 16532
+    "BuffStickerId": 16532,
+    "Image": null
   },
   {
     "name": "Rat Pack",
@@ -173,6 +194,7 @@
     "tournament": "The Boardroom Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 888038,
-    "BuffStickerId": 16530
+    "BuffStickerId": 16530,
+    "Image": null
   }
 ]

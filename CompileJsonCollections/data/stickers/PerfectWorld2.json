@@ -5,7 +5,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40267,
-    "BuffStickerId": 1178
+    "BuffStickerId": 1178,
+    "Image": null
   },
   {
     "name": "Fancy Koi (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40129,
-    "BuffStickerId": 1040
+    "BuffStickerId": 1040,
+    "Image": null
   },
   {
     "name": "Cheongsam (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 39945,
-    "BuffStickerId": 861
+    "BuffStickerId": 861,
+    "Image": null
   },
   {
     "name": "Terror Rice",
@@ -29,7 +32,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40958,
-    "BuffStickerId": 1856
+    "BuffStickerId": 1856,
+    "Image": null
   },
   {
     "name": "Guardian Dragon",
@@ -37,7 +41,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40266,
-    "BuffStickerId": 1177
+    "BuffStickerId": 1177,
+    "Image": null
   },
   {
     "name": "Mahjong Zhong",
@@ -45,7 +50,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 33685,
-    "BuffStickerId": 740
+    "BuffStickerId": 740,
+    "Image": null
   },
   {
     "name": "Water Gun",
@@ -53,7 +59,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 41056,
-    "BuffStickerId": 1953
+    "BuffStickerId": 1953,
+    "Image": null
   },
   {
     "name": "Cheongsam",
@@ -61,7 +68,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39944,
-    "BuffStickerId": 860
+    "BuffStickerId": 860,
+    "Image": null
   },
   {
     "name": "Mahjong Fa",
@@ -69,7 +77,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40491,
-    "BuffStickerId": 1397
+    "BuffStickerId": 1397,
+    "Image": null
   },
   {
     "name": "Mahjong Rooster",
@@ -77,7 +86,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40492,
-    "BuffStickerId": 1398
+    "BuffStickerId": 1398,
+    "Image": null
   },
   {
     "name": "Fancy Koi",
@@ -85,7 +95,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40128,
-    "BuffStickerId": 1039
+    "BuffStickerId": 1039,
+    "Image": null
   },
   {
     "name": "Toy Tiger",
@@ -93,7 +104,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40989,
-    "BuffStickerId": 1886
+    "BuffStickerId": 1886,
+    "Image": null
   },
   {
     "name": "Rice Bomb",
@@ -101,7 +113,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40702,
-    "BuffStickerId": 1603
+    "BuffStickerId": 1603,
+    "Image": null
   },
   {
     "name": "Noodles",
@@ -109,7 +122,8 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 43997,
-    "BuffStickerId": 2870
+    "BuffStickerId": 2870,
+    "Image": null
   },
   {
     "name": "Hotpot",
@@ -117,6 +131,7 @@
     "tournament": "Perfect World Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40334,
-    "BuffStickerId": 1243
+    "BuffStickerId": 1243,
+    "Image": null
   }
 ]

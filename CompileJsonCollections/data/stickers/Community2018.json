@@ -5,7 +5,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "Exotic",
     "BuffGoodsId": 45353,
-    "BuffStickerId": 2875
+    "BuffStickerId": 2875,
+    "Image": null
   },
   {
     "name": "Camper (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "Exotic",
     "BuffGoodsId": 45355,
-    "BuffStickerId": 2877
+    "BuffStickerId": 2877,
+    "Image": null
   },
   {
     "name": "Devouring Flame (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "Remarkable",
     "BuffGoodsId": 45358,
-    "BuffStickerId": 2880
+    "BuffStickerId": 2880,
+    "Image": null
   },
   {
     "name": "Small Arms (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "Remarkable",
     "BuffGoodsId": 45363,
-    "BuffStickerId": 2885
+    "BuffStickerId": 2885,
+    "Image": null
   },
   {
     "name": "Friendly Fire (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "Remarkable",
     "BuffGoodsId": 45240,
-    "BuffStickerId": 2873
+    "BuffStickerId": 2873,
+    "Image": null
   },
   {
     "name": "Retake Expert (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "Remarkable",
     "BuffGoodsId": 45361,
-    "BuffStickerId": 2883
+    "BuffStickerId": 2883,
+    "Image": null
   },
   {
     "name": "Bullet Rain",
@@ -53,7 +59,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45352,
-    "BuffStickerId": 2874
+    "BuffStickerId": 2874,
+    "Image": null
   },
   {
     "name": "Friendly Fire",
@@ -61,7 +68,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45360,
-    "BuffStickerId": 2882
+    "BuffStickerId": 2882,
+    "Image": null
   },
   {
     "name": "Small Arms",
@@ -69,7 +77,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45362,
-    "BuffStickerId": 2884
+    "BuffStickerId": 2884,
+    "Image": null
   },
   {
     "name": "Entry Fragger",
@@ -77,7 +86,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45359,
-    "BuffStickerId": 2881
+    "BuffStickerId": 2881,
+    "Image": null
   },
   {
     "name": "Devouring Flame",
@@ -85,7 +95,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45357,
-    "BuffStickerId": 2879
+    "BuffStickerId": 2879,
+    "Image": null
   },
   {
     "name": "Retake Expert",
@@ -93,7 +104,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45402,
-    "BuffStickerId": 2886
+    "BuffStickerId": 2886,
+    "Image": null
   },
   {
     "name": "Camper",
@@ -101,7 +113,8 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45354,
-    "BuffStickerId": 2876
+    "BuffStickerId": 2876,
+    "Image": null
   },
   {
     "name": "Dessert Eagle",
@@ -109,6 +122,7 @@
     "tournament": "Community Capsule 2018",
     "rarity": "HighGrade",
     "BuffGoodsId": 45356,
-    "BuffStickerId": 2878
+    "BuffStickerId": 2878,
+    "Image": null
   }
 ]

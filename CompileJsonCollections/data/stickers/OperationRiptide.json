@@ -5,7 +5,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "Exotic",
     "BuffGoodsId": 871531,
-    "BuffStickerId": 16033
+    "BuffStickerId": 16033,
+    "Image": null
   },
   {
     "name": "Seeing Red (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "Exotic",
     "BuffGoodsId": 871612,
-    "BuffStickerId": 16050
+    "BuffStickerId": 16050,
+    "Image": null
   },
   {
     "name": "Liquid Fire (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 871554,
-    "BuffStickerId": 16037
+    "BuffStickerId": 16037,
+    "Image": null
   },
   {
     "name": "Great Wave (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 871285,
-    "BuffStickerId": 16008
+    "BuffStickerId": 16008,
+    "Image": null
   },
   {
     "name": "Kill Count (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 871080,
-    "BuffStickerId": 16001
+    "BuffStickerId": 16001,
+    "Image": null
   },
   {
     "name": "Dead Eye (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 871552,
-    "BuffStickerId": 16035
+    "BuffStickerId": 16035,
+    "Image": null
   },
   {
     "name": "Liquid Fire",
@@ -53,7 +59,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871282,
-    "BuffStickerId": 16007
+    "BuffStickerId": 16007,
+    "Image": null
   },
   {
     "name": "Great Wave",
@@ -61,7 +68,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871294,
-    "BuffStickerId": 16010
+    "BuffStickerId": 16010,
+    "Image": null
   },
   {
     "name": "Kill Count",
@@ -69,7 +77,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871514,
-    "BuffStickerId": 16025
+    "BuffStickerId": 16025,
+    "Image": null
   },
   {
     "name": "Chicken of the Sky",
@@ -77,7 +86,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871527,
-    "BuffStickerId": 16029
+    "BuffStickerId": 16029,
+    "Image": null
   },
   {
     "name": "Dead Eye",
@@ -85,7 +95,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871290,
-    "BuffStickerId": 16009
+    "BuffStickerId": 16009,
+    "Image": null
   },
   {
     "name": "Seeing Red",
@@ -93,7 +104,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871509,
-    "BuffStickerId": 16023
+    "BuffStickerId": 16023,
+    "Image": null
   },
   {
     "name": "Gutted",
@@ -101,7 +113,8 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871529,
-    "BuffStickerId": 16031
+    "BuffStickerId": 16031,
+    "Image": null
   },
   {
     "name": "Operation Riptide",
@@ -109,6 +122,7 @@
     "tournament": "Operation Riptide Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 871110,
-    "BuffStickerId": 16003
+    "BuffStickerId": 16003,
+    "Image": null
   }
 ]

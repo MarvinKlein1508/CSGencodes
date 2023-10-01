@@ -5,7 +5,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40662,
-    "BuffStickerId": 1563
+    "BuffStickerId": 1563,
+    "Image": null
   },
   {
     "name": "Jack (Holo)",
@@ -13,7 +14,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40365,
-    "BuffStickerId": 1273
+    "BuffStickerId": 1273,
+    "Image": null
   },
   {
     "name": "Stan (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40845,
-    "BuffStickerId": 1745
+    "BuffStickerId": 1745,
+    "Image": null
   },
   {
     "name": "Viggo (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 41015,
-    "BuffStickerId": 1912
+    "BuffStickerId": 1912,
+    "Image": null
   },
   {
     "name": "Max (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40508,
-    "BuffStickerId": 1413
+    "BuffStickerId": 1413,
+    "Image": null
   },
   {
     "name": "Boris (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 39931,
-    "BuffStickerId": 847
+    "BuffStickerId": 847,
+    "Image": null
   },
   {
     "name": "Joan (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40372,
-    "BuffStickerId": 1280
+    "BuffStickerId": 1280,
+    "Image": null
   },
   {
     "name": "Jack",
@@ -61,7 +68,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40364,
-    "BuffStickerId": 1272
+    "BuffStickerId": 1272,
+    "Image": null
   },
   {
     "name": "Viggo",
@@ -69,7 +77,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 41014,
-    "BuffStickerId": 1911
+    "BuffStickerId": 1911,
+    "Image": null
   },
   {
     "name": "Perry",
@@ -77,7 +86,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40661,
-    "BuffStickerId": 1562
+    "BuffStickerId": 1562,
+    "Image": null
   },
   {
     "name": "Stan",
@@ -85,7 +95,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40844,
-    "BuffStickerId": 1744
+    "BuffStickerId": 1744,
+    "Image": null
   },
   {
     "name": "Max",
@@ -93,7 +104,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40507,
-    "BuffStickerId": 1412
+    "BuffStickerId": 1412,
+    "Image": null
   },
   {
     "name": "Joan",
@@ -101,7 +113,8 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40371,
-    "BuffStickerId": 1279
+    "BuffStickerId": 1279,
+    "Image": null
   },
   {
     "name": "Boris",
@@ -109,6 +122,7 @@
     "tournament": "Sugarface Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 39930,
-    "BuffStickerId": 846
+    "BuffStickerId": 846,
+    "Image": null
   }
 ]

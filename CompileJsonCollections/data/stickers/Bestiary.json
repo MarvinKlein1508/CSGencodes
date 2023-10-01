@@ -5,7 +5,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 40665,
-    "BuffStickerId": 1566
+    "BuffStickerId": 1566,
+    "Image": null
   },
   {
     "name": "Dragon (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 40033,
-    "BuffStickerId": 944
+    "BuffStickerId": 944,
+    "Image": null
   },
   {
     "name": "Basilisk (Foil)",
@@ -21,7 +23,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 39908,
-    "BuffStickerId": 827
+    "BuffStickerId": 827,
+    "Image": null
   },
   {
     "name": "Pegasus (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40660,
-    "BuffStickerId": 1561
+    "BuffStickerId": 1561,
+    "Image": null
   },
   {
     "name": "Sphinx (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40826,
-    "BuffStickerId": 1726
+    "BuffStickerId": 1726,
+    "Image": null
   },
   {
     "name": "Manticore (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40502,
-    "BuffStickerId": 1408
+    "BuffStickerId": 1408,
+    "Image": null
   },
   {
     "name": "Hippocamp (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40323,
-    "BuffStickerId": 1232
+    "BuffStickerId": 1232,
+    "Image": null
   },
   {
     "name": "Phoenix Reborn",
@@ -61,7 +68,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40664,
-    "BuffStickerId": 1565
+    "BuffStickerId": 1565,
+    "Image": null
   },
   {
     "name": "Dragon",
@@ -69,7 +77,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40032,
-    "BuffStickerId": 943
+    "BuffStickerId": 943,
+    "Image": null
   },
   {
     "name": "Pegasus",
@@ -77,7 +86,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40659,
-    "BuffStickerId": 1560
+    "BuffStickerId": 1560,
+    "Image": null
   },
   {
     "name": "Sphinx",
@@ -85,7 +95,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40825,
-    "BuffStickerId": 1725
+    "BuffStickerId": 1725,
+    "Image": null
   },
   {
     "name": "Basilisk",
@@ -93,7 +104,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 39907,
-    "BuffStickerId": 826
+    "BuffStickerId": 826,
+    "Image": null
   },
   {
     "name": "Manticore",
@@ -101,7 +113,8 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40501,
-    "BuffStickerId": 1407
+    "BuffStickerId": 1407,
+    "Image": null
   },
   {
     "name": "Hippocamp",
@@ -109,6 +122,7 @@
     "tournament": "Bestiary Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40322,
-    "BuffStickerId": 1231
+    "BuffStickerId": 1231,
+    "Image": null
   }
 ]

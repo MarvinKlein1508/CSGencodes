@@ -5,7 +5,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40896,
-    "BuffStickerId": 15739
+    "BuffStickerId": 15739,
+    "Image": null
   },
   {
     "name": "Sherry (Holo)",
@@ -13,7 +14,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40770,
-    "BuffStickerId": 15737
+    "BuffStickerId": 15737,
+    "Image": null
   },
   {
     "name": "Ivette (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40346,
-    "BuffStickerId": 8210
+    "BuffStickerId": 8210,
+    "Image": null
   },
   {
     "name": "Kimberly (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40402,
-    "BuffStickerId": 15897
+    "BuffStickerId": 15897,
+    "Image": null
   },
   {
     "name": "Merietta (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40510,
-    "BuffStickerId": 8214
+    "BuffStickerId": 8214,
+    "Image": null
   },
   {
     "name": "Martha (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 40504,
-    "BuffStickerId": 15735
+    "BuffStickerId": 15735,
+    "Image": null
   },
   {
     "name": "Tamara",
@@ -53,7 +59,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40895,
-    "BuffStickerId": 1795
+    "BuffStickerId": 1795,
+    "Image": null
   },
   {
     "name": "Sherry",
@@ -61,7 +68,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40769,
-    "BuffStickerId": 1670
+    "BuffStickerId": 1670,
+    "Image": null
   },
   {
     "name": "Kimberly",
@@ -69,7 +77,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40401,
-    "BuffStickerId": 1308
+    "BuffStickerId": 1308,
+    "Image": null
   },
   {
     "name": "Ivette",
@@ -77,7 +86,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40345,
-    "BuffStickerId": 1254
+    "BuffStickerId": 1254,
+    "Image": null
   },
   {
     "name": "Merietta",
@@ -85,7 +95,8 @@
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40509,
-    "BuffStickerId": 1414
+    "BuffStickerId": 1414,
+    "Image": null
   },
   {
     "name": "Martha",
@@ -93,6 +104,7 @@
     "tournament": "Pinups Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40503,
-    "BuffStickerId": 1409
+    "BuffStickerId": 1409,
+    "Image": null
   }
 ]

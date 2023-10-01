@@ -5,7 +5,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 773532,
-    "BuffStickerId": 10731
+    "BuffStickerId": 10731,
+    "Image": null
   },
   {
     "name": "All Hail the King (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 773548,
-    "BuffStickerId": 10769
+    "BuffStickerId": 10769,
+    "Image": null
   },
   {
     "name": "Door Stuck (Foil)",
@@ -21,7 +23,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 773545,
-    "BuffStickerId": 10765
+    "BuffStickerId": 10765,
+    "Image": null
   },
   {
     "name": "Rush 4x20 (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 773529,
-    "BuffStickerId": 10753
+    "BuffStickerId": 10753,
+    "Image": null
   },
   {
     "name": "Fire in the Hole (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 773549,
-    "BuffStickerId": 10755
+    "BuffStickerId": 10755,
+    "Image": null
   },
   {
     "name": "Boost (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 773546,
-    "BuffStickerId": 10759
+    "BuffStickerId": 10759,
+    "Image": null
   },
   {
     "name": "Guinea Pig (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 773543,
-    "BuffStickerId": 10764
+    "BuffStickerId": 10764,
+    "Image": null
   },
   {
     "name": "CS20 Classic (Holo)",
@@ -61,7 +68,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 773544,
-    "BuffStickerId": 10754
+    "BuffStickerId": 10754,
+    "Image": null
   },
   {
     "name": "Clutchman (Holo)",
@@ -69,7 +77,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 773542,
-    "BuffStickerId": 10760
+    "BuffStickerId": 10760,
+    "Image": null
   },
   {
     "name": "Nuke Beast",
@@ -77,7 +86,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773526,
-    "BuffStickerId": 10762
+    "BuffStickerId": 10762,
+    "Image": null
   },
   {
     "name": "Surf's Up",
@@ -85,7 +95,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773528,
-    "BuffStickerId": 10737
+    "BuffStickerId": 10737,
+    "Image": null
   },
   {
     "name": "Friend Code",
@@ -93,7 +104,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773527,
-    "BuffStickerId": 10752
+    "BuffStickerId": 10752,
+    "Image": null
   },
   {
     "name": "Obey SAS",
@@ -101,7 +113,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773533,
-    "BuffStickerId": 10744
+    "BuffStickerId": 10744,
+    "Image": null
   },
   {
     "name": "Pixel Avenger",
@@ -109,7 +122,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773531,
-    "BuffStickerId": 10738
+    "BuffStickerId": 10738,
+    "Image": null
   },
   {
     "name": "Too Late",
@@ -117,7 +131,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773530,
-    "BuffStickerId": 10745
+    "BuffStickerId": 10745,
+    "Image": null
   },
   {
     "name": "Aztec",
@@ -125,7 +140,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773537,
-    "BuffStickerId": 10767
+    "BuffStickerId": 10767,
+    "Image": null
   },
   {
     "name": "Separate Pixels",
@@ -133,7 +149,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773525,
-    "BuffStickerId": 10734
+    "BuffStickerId": 10734,
+    "Image": null
   },
   {
     "name": "Too Old for This",
@@ -141,7 +158,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773540,
-    "BuffStickerId": 10747
+    "BuffStickerId": 10747,
+    "Image": null
   },
   {
     "name": "Temperance",
@@ -149,7 +167,8 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773541,
-    "BuffStickerId": 10733
+    "BuffStickerId": 10733,
+    "Image": null
   },
   {
     "name": "Mondays",
@@ -157,6 +176,7 @@
     "tournament": "CS20 Sticker Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 773536,
-    "BuffStickerId": 10735
+    "BuffStickerId": 10735,
+    "Image": null
   }
 ]

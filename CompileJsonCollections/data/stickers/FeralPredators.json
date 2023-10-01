@@ -5,7 +5,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 769813,
-    "BuffStickerId": 8429
+    "BuffStickerId": 8429,
+    "Image": null
   },
   {
     "name": "Lurker (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 769809,
-    "BuffStickerId": 8773
+    "BuffStickerId": 8773,
+    "Image": null
   },
   {
     "name": "Bite Me (Foil)",
@@ -21,7 +23,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 769807,
-    "BuffStickerId": 8781
+    "BuffStickerId": 8781,
+    "Image": null
   },
   {
     "name": "Baited (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 769808,
-    "BuffStickerId": 8772
+    "BuffStickerId": 8772,
+    "Image": null
   },
   {
     "name": "First Blood (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 769783,
-    "BuffStickerId": 8412
+    "BuffStickerId": 8412,
+    "Image": null
   },
   {
     "name": "Cluck (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 769806,
-    "BuffStickerId": 8779
+    "BuffStickerId": 8779,
+    "Image": null
   },
   {
     "name": "One Sting (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 769787,
-    "BuffStickerId": 8769
+    "BuffStickerId": 8769,
+    "Image": null
   },
   {
     "name": "Free Hugs (Holo)",
@@ -61,7 +68,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 769782,
-    "BuffStickerId": 8768
+    "BuffStickerId": 8768,
+    "Image": null
   },
   {
     "name": "Scavenger (Holo)",
@@ -69,7 +77,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 769810,
-    "BuffStickerId": 8782
+    "BuffStickerId": 8782,
+    "Image": null
   },
   {
     "name": "First Blood",
@@ -77,7 +86,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769790,
-    "BuffStickerId": 8777
+    "BuffStickerId": 8777,
+    "Image": null
   },
   {
     "name": "Cluck",
@@ -85,7 +95,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769785,
-    "BuffStickerId": 8397
+    "BuffStickerId": 8397,
+    "Image": null
   },
   {
     "name": "Lurker",
@@ -93,7 +104,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769781,
-    "BuffStickerId": 8775
+    "BuffStickerId": 8775,
+    "Image": null
   },
   {
     "name": "Toxic",
@@ -101,7 +113,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769798,
-    "BuffStickerId": 8394
+    "BuffStickerId": 8394,
+    "Image": null
   },
   {
     "name": "Baited",
@@ -109,7 +122,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769800,
-    "BuffStickerId": 8409
+    "BuffStickerId": 8409,
+    "Image": null
   },
   {
     "name": "Bite Me",
@@ -117,7 +131,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769776,
-    "BuffStickerId": 8784
+    "BuffStickerId": 8784,
+    "Image": null
   },
   {
     "name": "One Sting",
@@ -125,7 +140,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769794,
-    "BuffStickerId": 8400
+    "BuffStickerId": 8400,
+    "Image": null
   },
   {
     "name": "Scavenger",
@@ -133,7 +149,8 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769775,
-    "BuffStickerId": 8396
+    "BuffStickerId": 8396,
+    "Image": null
   },
   {
     "name": "Free Hugs",
@@ -141,6 +158,7 @@
     "tournament": "Feral Predators Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 769792,
-    "BuffStickerId": 8770
+    "BuffStickerId": 8770,
+    "Image": null
   }
 ]

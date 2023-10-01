@@ -5,7 +5,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 39993,
-    "BuffStickerId": 906
+    "BuffStickerId": 906,
+    "Image": null
   },
   {
     "name": "Stupid Banana (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40855,
-    "BuffStickerId": 1755
+    "BuffStickerId": 1755,
+    "Image": null
   },
   {
     "name": "Bish (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 39909,
-    "BuffStickerId": 828
+    "BuffStickerId": 828,
+    "Image": null
   },
   {
     "name": "Bash (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 39906,
-    "BuffStickerId": 825
+    "BuffStickerId": 825,
+    "Image": null
   },
   {
     "name": "Bosh (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 39932,
-    "BuffStickerId": 848
+    "BuffStickerId": 848,
+    "Image": null
   },
   {
     "name": "Let's Roll-oll (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 40445,
-    "BuffStickerId": 1351
+    "BuffStickerId": 1351,
+    "Image": null
   },
   {
     "name": "Good Game",
@@ -53,7 +59,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40244,
-    "BuffStickerId": 1155
+    "BuffStickerId": 1155,
+    "Image": null
   },
   {
     "name": "Nice Shot",
@@ -61,7 +68,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40607,
-    "BuffStickerId": 1508
+    "BuffStickerId": 1508,
+    "Image": null
   },
   {
     "name": "Welcome to the Clutch",
@@ -69,7 +77,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 41057,
-    "BuffStickerId": 1954
+    "BuffStickerId": 1954,
+    "Image": null
   },
   {
     "name": "Banana",
@@ -77,7 +86,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39905,
-    "BuffStickerId": 824
+    "BuffStickerId": 824,
+    "Image": null
   },
   {
     "name": "Good Luck",
@@ -85,7 +95,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40245,
-    "BuffStickerId": 1156
+    "BuffStickerId": 1156,
+    "Image": null
   },
   {
     "name": "Bomb Code",
@@ -93,7 +104,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39917,
-    "BuffStickerId": 836
+    "BuffStickerId": 836,
+    "Image": null
   },
   {
     "name": "Have Fun",
@@ -101,7 +113,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40297,
-    "BuffStickerId": 1206
+    "BuffStickerId": 1206,
+    "Image": null
   },
   {
     "name": "Chicken Lover",
@@ -109,7 +122,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39947,
-    "BuffStickerId": 863
+    "BuffStickerId": 863,
+    "Image": null
   },
   {
     "name": "Let's Roll-oll",
@@ -117,7 +131,8 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40444,
-    "BuffStickerId": 1350
+    "BuffStickerId": 1350,
+    "Image": null
   },
   {
     "name": "Metal",
@@ -125,6 +140,7 @@
     "tournament": "Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40512,
-    "BuffStickerId": 1416
+    "BuffStickerId": 1416,
+    "Image": null
   }
 ]

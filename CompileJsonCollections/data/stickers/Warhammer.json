@@ -5,7 +5,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Exotic",
     "BuffGoodsId": 780275,
-    "BuffStickerId": 11636
+    "BuffStickerId": 11636,
+    "Image": null
   },
   {
     "name": "Chaos Marine (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Exotic",
     "BuffGoodsId": 780254,
-    "BuffStickerId": 11630
+    "BuffStickerId": 11630,
+    "Image": null
   },
   {
     "name": "Bloodthirster (Foil)",
@@ -21,7 +23,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Exotic",
     "BuffGoodsId": 780274,
-    "BuffStickerId": 11635
+    "BuffStickerId": 11635,
+    "Image": null
   },
   {
     "name": "Heresy (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Remarkable",
     "BuffGoodsId": 780252,
-    "BuffStickerId": 11622
+    "BuffStickerId": 11622,
+    "Image": null
   },
   {
     "name": "Tyranids Hive Tyrant (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Remarkable",
     "BuffGoodsId": 780276,
-    "BuffStickerId": 11632
+    "BuffStickerId": 11632,
+    "Image": null
   },
   {
     "name": "Lord of Skulls (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Remarkable",
     "BuffGoodsId": 780272,
-    "BuffStickerId": 11608
+    "BuffStickerId": 11608,
+    "Image": null
   },
   {
     "name": "Space Marine (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "Remarkable",
     "BuffGoodsId": 780258,
-    "BuffStickerId": 11614
+    "BuffStickerId": 11614,
+    "Image": null
   },
   {
     "name": "Heresy",
@@ -61,7 +68,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780261,
-    "BuffStickerId": 11606
+    "BuffStickerId": 11606,
+    "Image": null
   },
   {
     "name": "Adepta Sororitas",
@@ -69,7 +77,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780253,
-    "BuffStickerId": 11621
+    "BuffStickerId": 11621,
+    "Image": null
   },
   {
     "name": "Necron",
@@ -77,7 +86,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780255,
-    "BuffStickerId": 11610
+    "BuffStickerId": 11610,
+    "Image": null
   },
   {
     "name": "Ork Waaagh!",
@@ -85,7 +95,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780268,
-    "BuffStickerId": 11619
+    "BuffStickerId": 11619,
+    "Image": null
   },
   {
     "name": "Tyranids Ravener",
@@ -93,7 +104,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780263,
-    "BuffStickerId": 11603
+    "BuffStickerId": 11603,
+    "Image": null
   },
   {
     "name": "Space Marine",
@@ -101,7 +113,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780250,
-    "BuffStickerId": 11628
+    "BuffStickerId": 11628,
+    "Image": null
   },
   {
     "name": "Repulsor",
@@ -109,7 +122,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780256,
-    "BuffStickerId": 11612
+    "BuffStickerId": 11612,
+    "Image": null
   },
   {
     "name": "Primaris Keychain",
@@ -117,7 +131,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780257,
-    "BuffStickerId": 11624
+    "BuffStickerId": 11624,
+    "Image": null
   },
   {
     "name": "Full Buy",
@@ -125,7 +140,8 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780270,
-    "BuffStickerId": 11618
+    "BuffStickerId": 11618,
+    "Image": null
   },
   {
     "name": "Aeldari Avatar",
@@ -133,6 +149,7 @@
     "tournament": "Warhammer 40,000",
     "rarity": "HighGrade",
     "BuffGoodsId": 780265,
-    "BuffStickerId": 11626
+    "BuffStickerId": 11626,
+    "Image": null
   }
 ]
