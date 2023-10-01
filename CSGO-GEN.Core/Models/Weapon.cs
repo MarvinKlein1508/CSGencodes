@@ -47,5 +47,6 @@ namespace CSGO_GEN.Core.Models
             string gencode = sb.ToString();
             return gencode;
         }
+
     }
 }

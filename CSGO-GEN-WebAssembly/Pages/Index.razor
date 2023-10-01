@@ -2,6 +2,7 @@
 @page "/home"
 @inject WeaponService weaponService
 @inject StickerService stickerService
+@inject InspectLinkService inspectService
 
 <PageTitle>CSGO Gencode Generator</PageTitle>
 
@@ -19,9 +20,9 @@
                         <input type="text" value="@SelectedWeapon.GetGencode(Float, Pattern, SelectedStickers)" class="form-control" placeholder="Gencode" id="gencode" />
                         <label for="gencode">Gencode</label>
                     </div>
+                    <a class="btn btn-info" href="@inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers)">Inspect</a>
                     <button type="button" class="btn btn-primary" onclick="copyGencode()"><i class="fa-solid fa-copy"></i></button>
                 </div>
-
 
             }
 
