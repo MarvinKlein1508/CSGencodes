@@ -19,7 +19,7 @@ namespace CSGO_GEN.Core.Services
         {
             CEconItemPreviewDataBlock proto = new CEconItemPreviewDataBlock();
 
-            proto.Rarity = 1;
+            proto.Rarity = (uint)weapon.RarityId;
             proto.Defindex = (uint)weapon.weapon_id;
             proto.Paintindex = (uint)weapon.gen_id;
             proto.Paintseed = (uint)pattern;
