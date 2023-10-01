@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 769813,
     "BuffStickerId": 8429,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Toxic-Foil.png"
   },
   {
     "name": "Lurker (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 769809,
     "BuffStickerId": 8773,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Lurker-Foil.png"
   },
   {
     "name": "Bite Me (Foil)",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 769807,
     "BuffStickerId": 8781,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/BiteMe-Foil.png"
   },
   {
     "name": "Baited (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 769808,
     "BuffStickerId": 8772,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Baited-Holo.png"
   },
   {
     "name": "First Blood (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 769783,
     "BuffStickerId": 8412,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/FirstBlood-Holo.png"
   },
   {
     "name": "Cluck (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 769806,
     "BuffStickerId": 8779,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Cluck-Holo.png"
   },
   {
     "name": "One Sting (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 769787,
     "BuffStickerId": 8769,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/OneSting-Holo.png"
   },
   {
     "name": "Free Hugs (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 769782,
     "BuffStickerId": 8768,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/FreeHugs-Holo.png"
   },
   {
     "name": "Scavenger (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 769810,
     "BuffStickerId": 8782,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Scavenger-Holo.png"
   },
   {
     "name": "First Blood",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769790,
     "BuffStickerId": 8777,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/FirstBlood.png"
   },
   {
     "name": "Cluck",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769785,
     "BuffStickerId": 8397,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Cluck.png"
   },
   {
     "name": "Lurker",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769781,
     "BuffStickerId": 8775,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Lurker.png"
   },
   {
     "name": "Toxic",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769798,
     "BuffStickerId": 8394,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Toxic.png"
   },
   {
     "name": "Baited",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769800,
     "BuffStickerId": 8409,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Baited.png"
   },
   {
     "name": "Bite Me",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769776,
     "BuffStickerId": 8784,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/BiteMe.png"
   },
   {
     "name": "One Sting",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769794,
     "BuffStickerId": 8400,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/OneSting.png"
   },
   {
     "name": "Scavenger",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769775,
     "BuffStickerId": 8396,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/Scavenger.png"
   },
   {
     "name": "Free Hugs",
@@ -159,6 +159,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 769792,
     "BuffStickerId": 8770,
-    "Image": null
+    "Image": "/assets/img/items/stickers/FeralPredatorsCapsule/FreeHugs.png"
   }
 ]

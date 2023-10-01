@@ -6,7 +6,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 903859,
     "BuffStickerId": 17401,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/MagicRushBall-Lenticular.png"
   },
   {
     "name": "Global TV (Lenticular)",
@@ -15,7 +15,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 903863,
     "BuffStickerId": 17405,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GlobalTV-Lenticular.png"
   },
   {
     "name": "TV Installation (Lenticular)",
@@ -24,7 +24,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 903874,
     "BuffStickerId": 17412,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/TVInstallation-Lenticular.png"
   },
   {
     "name": "DJ Safecracker (Lenticular)",
@@ -33,7 +33,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 903869,
     "BuffStickerId": 17408,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/DJSafecracker-Lenticular.png"
   },
   {
     "name": "Skin Lover (Lenticular)",
@@ -42,7 +42,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 903873,
     "BuffStickerId": 17411,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/SkinLover-Lenticular.png"
   },
   {
     "name": "Freeze (Lenticular)",
@@ -51,7 +51,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 903866,
     "BuffStickerId": 17406,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Freeze-Lenticular.png"
   },
   {
     "name": "Showdown (Foil)",
@@ -60,7 +60,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903860,
     "BuffStickerId": 17402,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Showdown-Foil.png"
   },
   {
     "name": "Dust FA (Foil)",
@@ -69,7 +69,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903872,
     "BuffStickerId": 17410,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/DustFA-Foil.png"
   },
   {
     "name": "In The Fire (Foil)",
@@ -78,7 +78,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903807,
     "BuffStickerId": 17354,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/InTheFire-Foil.png"
   },
   {
     "name": "Approaching Site (Foil)",
@@ -87,7 +87,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903861,
     "BuffStickerId": 17403,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ApproachingSite-Foil.png"
   },
   {
     "name": "Romanov's Fire (Foil)",
@@ -96,7 +96,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903811,
     "BuffStickerId": 17357,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/RomanovsFire-Foil.png"
   },
   {
     "name": "Ten Years (Foil)",
@@ -105,7 +105,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903877,
     "BuffStickerId": 17413,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/TenYears-Foil.png"
   },
   {
     "name": "Pure Malt (Foil)",
@@ -114,7 +114,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903871,
     "BuffStickerId": 17409,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/PureMalt-Foil.png"
   },
   {
     "name": "Overpass Diorama (Foil)",
@@ -123,7 +123,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 903853,
     "BuffStickerId": 17395,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/OverpassDiorama-Foil.png"
   },
   {
     "name": "Leaving The Station (Holo)",
@@ -132,7 +132,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903835,
     "BuffStickerId": 17379,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/LeavingTheStation-Holo.png"
   },
   {
     "name": "Blue Gem (Glitter)",
@@ -141,7 +141,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903843,
     "BuffStickerId": 17386,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BlueGem-Glitter.png"
   },
   {
     "name": "Kawaii CT (Holo)",
@@ -150,7 +150,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903838,
     "BuffStickerId": 17381,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/KawaiiCT-Holo.png"
   },
   {
     "name": "Kawaii T (Holo)",
@@ -159,7 +159,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903841,
     "BuffStickerId": 17384,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/KawaiiT-Holo.png"
   },
   {
     "name": "Cbbl (Holo)",
@@ -168,7 +168,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903862,
     "BuffStickerId": 17404,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Cbbl-Holo.png"
   },
   {
     "name": "Ace Clutch Co. (Holo)",
@@ -177,7 +177,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903827,
     "BuffStickerId": 17372,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/AceClutchCo-Holo.png"
   },
   {
     "name": "Get Smoked (Holo)",
@@ -186,7 +186,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903842,
     "BuffStickerId": 17385,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GetSmoked-Holo.png"
   },
   {
     "name": "Zeusception (Holo)",
@@ -195,7 +195,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903808,
     "BuffStickerId": 17355,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Zeusception-Holo.png"
   },
   {
     "name": "Conspiracy Club (Holo)",
@@ -204,7 +204,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903854,
     "BuffStickerId": 17396,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ConspiracyClub-Holo.png"
   },
   {
     "name": "Vertigo's Hero (Holo)",
@@ -213,7 +213,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903829,
     "BuffStickerId": 17374,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/VertigosHero-Holo.png"
   },
   {
     "name": "Go Boom (Glitter)",
@@ -222,7 +222,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903826,
     "BuffStickerId": 17371,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GoBoom-Glitter.png"
   },
   {
     "name": "Pain Train (Holo)",
@@ -231,7 +231,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903855,
     "BuffStickerId": 17397,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/PainTrain-Holo.png"
   },
   {
     "name": "Defuse It (Holo)",
@@ -240,7 +240,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 903850,
     "BuffStickerId": 17392,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/DefuseIt-Holo.png"
   },
   {
     "name": "Baby Howl",
@@ -249,7 +249,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903856,
     "BuffStickerId": 17398,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BabyHowl.png"
   },
   {
     "name": "Baby Lore",
@@ -258,7 +258,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903815,
     "BuffStickerId": 17361,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BabyLore.png"
   },
   {
     "name": "Baby Medusa",
@@ -267,7 +267,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903831,
     "BuffStickerId": 17376,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BabyMedusa.png"
   },
   {
     "name": "Dragon Tale",
@@ -276,7 +276,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903814,
     "BuffStickerId": 17360,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/DragonTale.png"
   },
   {
     "name": "Zeused",
@@ -285,7 +285,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903819,
     "BuffStickerId": 17365,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Zeused.png"
   },
   {
     "name": "Shifty Tactics",
@@ -294,7 +294,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903824,
     "BuffStickerId": 17369,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ShiftyTactics.png"
   },
   {
     "name": "Good Versus Evil",
@@ -303,7 +303,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903833,
     "BuffStickerId": 17378,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GoodVersusEvil.png"
   },
   {
     "name": "Green's Problem",
@@ -312,7 +312,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903832,
     "BuffStickerId": 17377,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GreensProblem.png"
   },
   {
     "name": "GO",
@@ -321,7 +321,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903828,
     "BuffStickerId": 17373,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GO.png"
   },
   {
     "name": "Call Your Flashes",
@@ -330,7 +330,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903844,
     "BuffStickerId": 17387,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/CallYourFlashes.png"
   },
   {
     "name": "Dragon's Keep",
@@ -339,7 +339,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903812,
     "BuffStickerId": 17358,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/DragonsKeep.png"
   },
   {
     "name": "Baby Cerberus",
@@ -348,7 +348,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903806,
     "BuffStickerId": 17353,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BabyCerberus.png"
   },
   {
     "name": "Co Co Co",
@@ -357,7 +357,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903868,
     "BuffStickerId": 17407,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/CoCoCo.png"
   },
   {
     "name": "Baby Fire Serpent",
@@ -366,7 +366,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903810,
     "BuffStickerId": 17356,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BabyFireSerpent.png"
   },
   {
     "name": "Laser Beam",
@@ -375,7 +375,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903830,
     "BuffStickerId": 17375,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/LaserBeam.png"
   },
   {
     "name": "Clicking Heads",
@@ -384,7 +384,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903846,
     "BuffStickerId": 17388,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ClickingHeads.png"
   },
   {
     "name": "Cursed Penmanship",
@@ -393,7 +393,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903857,
     "BuffStickerId": 17399,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/CursedPenmanship.png"
   },
   {
     "name": "Monster",
@@ -402,7 +402,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903848,
     "BuffStickerId": 17390,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Monster.png"
   },
   {
     "name": "Rush More",
@@ -411,7 +411,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903804,
     "BuffStickerId": 17351,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/RushMore.png"
   },
   {
     "name": "This Is Fine (H)",
@@ -420,7 +420,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903817,
     "BuffStickerId": 17363,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ThisIsFineH.png"
   },
   {
     "name": "C-S On The Go",
@@ -429,7 +429,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903822,
     "BuffStickerId": 17368,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/CSOnTheGo.png"
   },
   {
     "name": "Agent Select",
@@ -438,7 +438,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903851,
     "BuffStickerId": 17393,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/AgentSelect.png"
   },
   {
     "name": "Choose Wisely",
@@ -447,7 +447,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903836,
     "BuffStickerId": 17380,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ChooseWisely.png"
   },
   {
     "name": "Not For Resale",
@@ -456,7 +456,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903816,
     "BuffStickerId": 17362,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/NotForResale.png"
   },
   {
     "name": "B-Day",
@@ -465,7 +465,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903818,
     "BuffStickerId": 17364,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BDay.png"
   },
   {
     "name": "TV On Mirage",
@@ -474,7 +474,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903849,
     "BuffStickerId": 17391,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/TVOnMirage.png"
   },
   {
     "name": "Dreams And Mimics",
@@ -483,7 +483,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903840,
     "BuffStickerId": 17383,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/DreamsAndMimics.png"
   },
   {
     "name": "Booth",
@@ -492,7 +492,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903839,
     "BuffStickerId": 17382,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/Booth.png"
   },
   {
     "name": "Beaky Decade",
@@ -501,7 +501,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903802,
     "BuffStickerId": 17349,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/BeakyDecade.png"
   },
   {
     "name": "Press Start",
@@ -510,7 +510,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903805,
     "BuffStickerId": 17352,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/PressStart.png"
   },
   {
     "name": "Arms Race",
@@ -519,7 +519,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903813,
     "BuffStickerId": 17359,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ArmsRace.png"
   },
   {
     "name": "Good Sports",
@@ -528,7 +528,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903858,
     "BuffStickerId": 17400,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/GoodSports.png"
   },
   {
     "name": "Exo Jumper",
@@ -537,7 +537,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903852,
     "BuffStickerId": 17394,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ExoJumper.png"
   },
   {
     "name": "Endless Cycle",
@@ -546,7 +546,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903803,
     "BuffStickerId": 17350,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/EndlessCycle.png"
   },
   {
     "name": "Noble Steed",
@@ -555,7 +555,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903821,
     "BuffStickerId": 17367,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/NobleSteed.png"
   },
   {
     "name": "Chicken Whisperer",
@@ -564,7 +564,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903825,
     "BuffStickerId": 17370,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/ChickenWhisperer.png"
   },
   {
     "name": "Save Me",
@@ -573,7 +573,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903820,
     "BuffStickerId": 17366,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/SaveMe.png"
   },
   {
     "name": "Free Range",
@@ -582,6 +582,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 903847,
     "BuffStickerId": 17389,
-    "Image": null
+    "Image": "/assets/img/items/stickers/10YearBirthdayStickerCapsule/FreeRange.png"
   }
 ]

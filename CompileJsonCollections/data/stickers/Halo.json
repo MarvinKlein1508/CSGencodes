@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 777216,
     "BuffStickerId": 10874,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Legendary-Foil.png"
   },
   {
     "name": "Chief (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 777234,
     "BuffStickerId": 10886,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Chief-Foil.png"
   },
   {
     "name": "Incineration (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 777203,
     "BuffStickerId": 10864,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Incineration-Holo.png"
   },
   {
     "name": "Killjoy (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 777205,
     "BuffStickerId": 10866,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Killjoy-Holo.png"
   },
   {
     "name": "Assassin (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 777218,
     "BuffStickerId": 10875,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Assassin-Holo.png"
   },
   {
     "name": "Noble (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 777235,
     "BuffStickerId": 10879,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Noble-Holo.png"
   },
   {
     "name": "Chief (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 777215,
     "BuffStickerId": 10873,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Chief-Holo.png"
   },
   {
     "name": "Assassin",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777213,
     "BuffStickerId": 10871,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Assassin.png"
   },
   {
     "name": "Mister Chief",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777233,
     "BuffStickerId": 10878,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/MisterChief.png"
   },
   {
     "name": "Killjoy",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777208,
     "BuffStickerId": 10869,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Killjoy.png"
   },
   {
     "name": "Extermination",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777220,
     "BuffStickerId": 10876,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Extermination.png"
   },
   {
     "name": "Incineration",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777207,
     "BuffStickerId": 10868,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Incineration.png"
   },
   {
     "name": "Dirty Money",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777206,
     "BuffStickerId": 10867,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/DirtyMoney.png"
   },
   {
     "name": "Noble",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777214,
     "BuffStickerId": 10872,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Noble.png"
   },
   {
     "name": "Legendary",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777211,
     "BuffStickerId": 10870,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Legendary.png"
   },
   {
     "name": "Spartan",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777221,
     "BuffStickerId": 10877,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Spartan.png"
   },
   {
     "name": "Chief",
@@ -150,6 +150,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 777204,
     "BuffStickerId": 10865,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HaloCapsule/Chief.png"
   }
 ]

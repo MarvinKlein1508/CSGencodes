@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40457,
     "BuffStickerId": 1363,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Lucky13-Foil.png"
   },
   {
     "name": "Luck Skill (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40455,
     "BuffStickerId": 1361,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/LuckSkill-Foil.png"
   },
   {
     "name": "Aces High (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39840,
     "BuffStickerId": 759,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/AcesHigh-Holo.png"
   },
   {
     "name": "Vigilance (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41017,
     "BuffStickerId": 1914,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Vigilance-Holo.png"
   },
   {
     "name": "Fearsome (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40131,
     "BuffStickerId": 1042,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Fearsome-Holo.png"
   },
   {
     "name": "Aces High",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39839,
     "BuffStickerId": 758,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/AcesHigh.png"
   },
   {
     "name": "Fearsome",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40130,
     "BuffStickerId": 1041,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Fearsome.png"
   },
   {
     "name": "Black Dog",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39910,
     "BuffStickerId": 829,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/BlackDog.png"
   },
   {
     "name": "Easy Peasy",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40057,
     "BuffStickerId": 968,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/EasyPeasy.png"
   },
   {
     "name": "Lucky 13",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40456,
     "BuffStickerId": 1362,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Lucky13.png"
   },
   {
     "name": "Seek & Destroy",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 1660,
     "BuffStickerId": 40759,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/SeekDestroy.png"
   },
   {
     "name": "Vigilance",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41016,
     "BuffStickerId": 1913,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Vigilance.png"
   },
   {
     "name": "I Conquered",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40341,
     "BuffStickerId": 1250,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/IConquered.png"
   },
   {
     "name": "Cerberus",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39942,
     "BuffStickerId": 858,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Cerberus.png"
   },
   {
     "name": "Luck Skill",
@@ -132,6 +132,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40454,
     "BuffStickerId": 1360,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/LuckSkill.png"
   }
 ]

@@ -34,7 +34,7 @@ namespace BuffIdGrabber
 
             var files = Directory.GetFiles("data/stickers");
 
-          
+            Regex onlyChars = new Regex("[^A-Za-z0-9]+");
 
             foreach (var file in files)
             {
@@ -45,73 +45,70 @@ namespace BuffIdGrabber
                 string json = await File.ReadAllTextAsync(file);
                 List<Sticker> stickers = JsonSerializer.Deserialize<List<Sticker>>(json)!;
 
-                // Buff API examples
-                //https://buff.163.com/api/market/goods?game=csgo
-                //https://buff.163.com/api/market/goods?game=csgo&page_num=1&search=GAMBIT GAMING
-                //https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1
-                //foreach (var sticker in stickers)
-                //{
-                //    // We don't need to ask for the same data twice
-                //    if (sticker.BuffGoodsId is not null && sticker.BuffStickerId is not null)
-                //    {
-                //        continue;
-                //    }
+                foreach (var sticker in stickers)
+                {
+                    string tournament =  Regex.Replace(sticker.tournament, "[^A-Za-z0-9]+", "");
+                    string name = sticker.name
+                        .Replace("(Holo)", string.Empty)
+                        .Replace("(Foil)", string.Empty)
+                        .Replace("(Gold)", string.Empty)
+                        .Replace("(Glitter)", string.Empty)
+                        .Replace("(Lenticular)", string.Empty)
+                        .Replace("(Champion)", string.Empty)
+                        .Replace("(Glitter, Champion)", string.Empty)
+                        .Replace("(Holo, Champion)", string.Empty)
+                        .Replace("(Gold, Champion)", string.Empty)
+                        .Replace(sticker.tournament, string.Empty)
+                        .Replace("|", string.Empty)
+                        ;
+
+                    string rarity = string.Empty;
+
+                    if(sticker.name.Contains("(Holo)"))
+                    {
+                        rarity = "Holo";
+                    }
+                    else if (sticker.name.Contains("(Foil)"))
+                    {
+                        rarity = "Foil";
+                    }
+                    else if (sticker.name.Contains("(Gold)"))
+                    {
+                        rarity = "Gold";
+                    }
+                    else if (sticker.name.Contains("(Glitter)"))
+                    {
+                        rarity = "Glitter";
+                    }
+                    else if (sticker.name.Contains("(Lenticular)"))
+                    {
+                        rarity = "Lenticular";
+                    }
+                    else if (sticker.name.Contains("(Champion)"))
+                    {
+                        rarity = "Champion";
+                    }
+                    else if (sticker.name.Contains("(Glitter, Champion)"))
+                    {
+                        rarity = "Champion-Glitter";
+                    }
+                    else if (sticker.name.Contains("(Holo, Champion)"))
+                    {
+                        rarity = "Champion-Holo";
+                    }
+                    else if (sticker.name.Contains("(Gold, Champion)"))
+                    {
+                        rarity = "Champion-Gold";
+                    }
 
 
-                //    //List<BuffDetails> items = new();
-                //    //// Grab all details from buff 
-                //    //var url = $"https://buff.163.com/api/market/goods?game=csgo&page_size=80&page_num=1&search=Sticker | {sticker.name}";
-
-                //    //BuffObject? buff_object = await client.GetFromJsonAsync<BuffObject>(url);
-
-                //    // manually slow down API access to not get timed out by buff
-                //    await Task.Delay(2000);
-                //    bool sticker_data_found = false;
-                //    //if (buff_object is not null)
-                //    //{
-                //    //    if (buff_object.data is null || !buff_object.data.items.Any())
-                //    //    {
-                //    //        Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
-                //    //        await Task.Delay(2000);
-                //    //        continue;
-                //    //    }
-
-                //    //    // Check if we have a sticker
-                //    //    Regex regex = new Regex("(?<=\\\"sticker_v2\", \\\"id\\\": )\\d+");
-                //    //    foreach (BuffItem item in buff_object.data.items)
-                //    //    {
-
-                //    //        var sanitizedName = item.market_hash_name.Replace("Sticker | ", string.Empty);
-                //    //        if (sticker.name == sanitizedName)
-                //    //        {
-                //    //            Console.WriteLine($"Name: {item.market_hash_name}; ID: {item.id}");
-                //    //            await Task.Delay(2000);
-                //    //            url = $"https://buff.163.com/goods/{item.id}";
-                //    //            string page_html = await client.GetStringAsync(url);
-
-                //    //            var result = regex.Match(page_html);
-
-                //    //            if (result.Success && int.TryParse(result.Value, out int searchId))
-                //    //            {
-                //    //                sticker_data_found = true;
-                //    //                BuffDetails details = new BuffDetails(item.id, item.market_hash_name, searchId);
-                //    //                sticker.BuffGoodsId = details.Id;
-                //    //                sticker.BuffStickerId = details.SearchId;
-                //    //                continue;
-                //    //            }
-                //    //        }
-                //    //    }
-                //    //}
+                    name = Regex.Replace(name, "[^A-Za-z0-9]+", "");
 
 
-                //    //if (!sticker_data_found)
-                //    //{
-                //    //    sticker.BuffGoodsId = null;
-                //    //    sticker.BuffStickerId = null;
-                //    //    Log.Logger.Error("Could not find buffId. File: {filename}; Sticker: {sticker_name}", file, sticker.name);
-                //    //    continue;
-                //    //}
-                //}
+
+                    // "/assets/img/items/stickers/Stockholm2021/MovistarRiders.png"
+                    sticker.Image = $"/assets/img/items/stickers/{tournament}/{name}{(rarity != string.Empty ? $"-{rarity}" : "")}.png";
+                }
 
                 // Compile new list into output directory
                 string output_directory = config["OutputDirectory"]!;

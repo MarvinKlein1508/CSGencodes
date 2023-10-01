@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39919,
     "BuffStickerId": 8200,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/BombSquad-Foil.png"
   },
   {
     "name": "Phoenix (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40663,
     "BuffStickerId": 1564,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/Phoenix-Foil.png"
   },
   {
     "name": "Piece Of Cake",
@@ -24,7 +24,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40666,
     "BuffStickerId": 12257,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/PieceOfCake.png"
   },
   {
     "name": "Massive Pear",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40506,
     "BuffStickerId": 1411,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/MassivePear.png"
   },
   {
     "name": "Dinked",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40011,
     "BuffStickerId": 924,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/Dinked.png"
   },
   {
     "name": "Blood Boiler",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39912,
     "BuffStickerId": 831,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/BloodBoiler.png"
   },
   {
     "name": "T-Rekt",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40861,
     "BuffStickerId": 1761,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/TRekt.png"
   },
   {
     "name": "Thug Life",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40975,
     "BuffStickerId": 1872,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/ThugLife.png"
   },
   {
     "name": "Work For Ammo",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41062,
     "BuffStickerId": 1959,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/WorkForAmmo.png"
   },
   {
     "name": "Drug War Veteran",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40038,
     "BuffStickerId": 949,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/DrugWarVeteran.png"
   },
   {
     "name": "My Little Friend",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40521,
     "BuffStickerId": 1423,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/MyLittleFriend.png"
   },
   {
     "name": "Warowl",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41055,
     "BuffStickerId": 1952,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/Warowl.png"
   },
   {
     "name": "SAS Chicken",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40720,
     "BuffStickerId": 1621,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/SASChicken.png"
   },
   {
     "name": "Ho Ho Ho",
@@ -123,6 +123,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40324,
     "BuffStickerId": 1233,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/HoHoHo.png"
   }
 ]

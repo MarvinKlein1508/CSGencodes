@@ -6,7 +6,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853161,
     "BuffStickerId": 15908,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnChicken-Holo.png"
   },
   {
     "name": "Poorly Drawn Terrorist (Holo)",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853183,
     "BuffStickerId": 15918,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnTerrorist-Holo.png"
   },
   {
     "name": "Poorly Drawn Balkan (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853178,
     "BuffStickerId": 15914,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnBalkan-Holo.png"
   },
   {
     "name": "Poorly Drawn Number K (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853157,
     "BuffStickerId": 15904,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnNumberK-Holo.png"
   },
   {
     "name": "Poorly Drawn SAS (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853152,
     "BuffStickerId": 15900,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnSAS-Holo.png"
   },
   {
     "name": "Poorly Drawn FBI (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853153,
     "BuffStickerId": 15901,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnFBI-Holo.png"
   },
   {
     "name": "Poorly Drawn Bloody Darryl (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853179,
     "BuffStickerId": 15915,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnBloodyDarryl-Holo.png"
   },
   {
     "name": "Poorly Drawn Leet Crew (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853158,
     "BuffStickerId": 15905,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnLeetCrew-Holo.png"
   },
   {
     "name": "Poorly Drawn IDF (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853180,
     "BuffStickerId": 15916,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnIDF-Holo.png"
   },
   {
     "name": "Poorly Drawn Ava (Holo)",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853159,
     "BuffStickerId": 15906,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnAva-Holo.png"
   },
   {
     "name": "Poorly Drawn Chicken",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853170,
     "BuffStickerId": 15911,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnChicken.png"
   },
   {
     "name": "Poorly Drawn Terrorist",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853160,
     "BuffStickerId": 15907,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnTerrorist.png"
   },
   {
     "name": "Poorly Drawn Number K",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853176,
     "BuffStickerId": 15913,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnNumberK.png"
   },
   {
     "name": "Poorly Drawn FBI",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853175,
     "BuffStickerId": 15912,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnFBI.png"
   },
   {
     "name": "Poorly Drawn Leet Crew",
@@ -132,7 +132,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 853154,
     "BuffStickerId": 15902,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnLeetCrew.png"
   },
   {
     "name": "Poorly Drawn SAS",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853182,
     "BuffStickerId": 15917,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnSAS.png"
   },
   {
     "name": "Poorly Drawn Bloody Darryl",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853163,
     "BuffStickerId": 15910,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnBloodyDarryl.png"
   },
   {
     "name": "Poorly Drawn Balkan",
@@ -159,7 +159,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853155,
     "BuffStickerId": 15903,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnBalkan.png"
   },
   {
     "name": "Poorly Drawn Ava",
@@ -168,7 +168,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853162,
     "BuffStickerId": 15909,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnAva.png"
   },
   {
     "name": "Poorly Drawn IDF",
@@ -177,6 +177,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 853089,
     "BuffStickerId": 15919,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PoorlyDrawnCapsule/PoorlyDrawnIDF.png"
   }
 ]

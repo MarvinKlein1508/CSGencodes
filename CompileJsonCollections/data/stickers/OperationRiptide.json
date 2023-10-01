@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 871531,
     "BuffStickerId": 16033,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/GreatWave-Foil.png"
   },
   {
     "name": "Seeing Red (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 871612,
     "BuffStickerId": 16050,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/SeeingRed-Foil.png"
   },
   {
     "name": "Liquid Fire (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 871554,
     "BuffStickerId": 16037,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/LiquidFire-Holo.png"
   },
   {
     "name": "Great Wave (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 871285,
     "BuffStickerId": 16008,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/GreatWave-Holo.png"
   },
   {
     "name": "Kill Count (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 871080,
     "BuffStickerId": 16001,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/KillCount-Holo.png"
   },
   {
     "name": "Dead Eye (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 871552,
     "BuffStickerId": 16035,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/DeadEye-Holo.png"
   },
   {
     "name": "Liquid Fire",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871282,
     "BuffStickerId": 16007,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/LiquidFire.png"
   },
   {
     "name": "Great Wave",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871294,
     "BuffStickerId": 16010,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/GreatWave.png"
   },
   {
     "name": "Kill Count",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871514,
     "BuffStickerId": 16025,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/KillCount.png"
   },
   {
     "name": "Chicken of the Sky",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871527,
     "BuffStickerId": 16029,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/ChickenoftheSky.png"
   },
   {
     "name": "Dead Eye",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871290,
     "BuffStickerId": 16009,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/DeadEye.png"
   },
   {
     "name": "Seeing Red",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871509,
     "BuffStickerId": 16023,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/SeeingRed.png"
   },
   {
     "name": "Gutted",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871529,
     "BuffStickerId": 16031,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/Gutted.png"
   },
   {
     "name": "Operation Riptide",
@@ -123,6 +123,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 871110,
     "BuffStickerId": 16003,
-    "Image": null
+    "Image": "/assets/img/items/stickers/OperationRiptideStickerCollection/OperationRiptide.png"
   }
 ]

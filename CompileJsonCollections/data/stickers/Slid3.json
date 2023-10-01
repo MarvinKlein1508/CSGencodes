@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39975,
     "BuffStickerId": 8203,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/Countdown-Foil.png"
   },
   {
     "name": "Move It (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40517,
     "BuffStickerId": 8215,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/MoveIt-Foil.png"
   },
   {
     "name": "Boom (Foil)",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39923,
     "BuffStickerId": 15722,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/Boom-Foil.png"
   },
   {
     "name": "Don't Worry (Foil)",
@@ -33,7 +33,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40013,
     "BuffStickerId": 15726,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/DontWorry-Foil.png"
   },
   {
     "name": "Hard Cluck Life (Foil)",
@@ -42,7 +42,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40294,
     "BuffStickerId": 15731,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/HardCluckLife-Foil.png"
   },
   {
     "name": "Boom (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39924,
     "BuffStickerId": 15723,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/Boom-Holo.png"
   },
   {
     "name": "Move It (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40518,
     "BuffStickerId": 8216,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/MoveIt-Holo.png"
   },
   {
     "name": "Countdown (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39976,
     "BuffStickerId": 8204,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/Countdown-Holo.png"
   },
   {
     "name": "Don't Worry (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40014,
     "BuffStickerId": 15727,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/DontWorry-Holo.png"
   },
   {
     "name": "Hard Cluck Life (Holo)",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40293,
     "BuffStickerId": 15731,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/HardCluckLife-Holo.png"
   },
   {
     "name": "Boom",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39922,
     "BuffStickerId": 840,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/Boom.png"
   },
   {
     "name": "Countdown",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39974,
     "BuffStickerId": 890,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/Countdown.png"
   },
   {
     "name": "Move It",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40516,
     "BuffStickerId": 1420,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/MoveIt.png"
   },
   {
     "name": "Hard Cluck Life",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40291,
     "BuffStickerId": 1202,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/HardCluckLife.png"
   },
   {
     "name": "Don't Worry",
@@ -132,6 +132,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40012,
     "BuffStickerId": 925,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Slid3Capsule/DontWorry.png"
   }
 ]

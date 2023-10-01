@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40970,
     "BuffStickerId": 1868,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/ThePro-Foil.png"
   },
   {
     "name": "The Fragger",
@@ -15,7 +15,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40965,
     "BuffStickerId": 1863,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheFragger.png"
   },
   {
     "name": "The Ninja",
@@ -24,7 +24,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40969,
     "BuffStickerId": 1867,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheNinja.png"
   },
   {
     "name": "The Awper",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40961,
     "BuffStickerId": 1859,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheAwper.png"
   },
   {
     "name": "The Lurker",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40968,
     "BuffStickerId": 1866,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheLurker.png"
   },
   {
     "name": "The Bot",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40964,
     "BuffStickerId": 1862,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheBot.png"
   },
   {
     "name": "The Leader",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40967,
     "BuffStickerId": 1865,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheLeader.png"
   },
   {
     "name": "The Baiter",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40962,
     "BuffStickerId": 1860,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheBaiter.png"
   },
   {
     "name": "Support",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40859,
     "BuffStickerId": 1759,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/Support.png"
   },
   {
     "name": "The 'Nader",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40960,
     "BuffStickerId": 1858,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheNader.png"
   },
   {
     "name": "The Bomber",
@@ -96,6 +96,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40963,
     "BuffStickerId": 1861,
-    "Image": null
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheBomber.png"
   }
 ]

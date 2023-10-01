@@ -6,7 +6,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40896,
     "BuffStickerId": 15739,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Tamara-Holo.png"
   },
   {
     "name": "Sherry (Holo)",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40770,
     "BuffStickerId": 15737,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Sherry-Holo.png"
   },
   {
     "name": "Ivette (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40346,
     "BuffStickerId": 8210,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Ivette-Holo.png"
   },
   {
     "name": "Kimberly (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40402,
     "BuffStickerId": 15897,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Kimberly-Holo.png"
   },
   {
     "name": "Merietta (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40510,
     "BuffStickerId": 8214,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Merietta-Holo.png"
   },
   {
     "name": "Martha (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40504,
     "BuffStickerId": 15735,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Martha-Holo.png"
   },
   {
     "name": "Tamara",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40895,
     "BuffStickerId": 1795,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Tamara.png"
   },
   {
     "name": "Sherry",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40769,
     "BuffStickerId": 1670,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Sherry.png"
   },
   {
     "name": "Kimberly",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40401,
     "BuffStickerId": 1308,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Kimberly.png"
   },
   {
     "name": "Ivette",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40345,
     "BuffStickerId": 1254,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Ivette.png"
   },
   {
     "name": "Merietta",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40509,
     "BuffStickerId": 1414,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Merietta.png"
   },
   {
     "name": "Martha",
@@ -105,6 +105,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40503,
     "BuffStickerId": 1409,
-    "Image": null
+    "Image": "/assets/img/items/stickers/PinupsCapsule/Martha.png"
   }
 ]

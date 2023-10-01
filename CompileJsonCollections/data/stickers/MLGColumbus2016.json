@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41042,
     "BuffStickerId": 1939,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/VirtusPro.png"
   },
   {
     "name": "Virtus.Pro (Holo) | MLG Columbus 2016",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41032,
     "BuffStickerId": 1929,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/VirtusPro-Holo.png"
   },
   {
     "name": "Virtus.Pro (Foil) | MLG Columbus 2016",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41024,
     "BuffStickerId": 1921,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/VirtusPro-Foil.png"
   },
   {
     "name": "Virtus.Pro (Gold) | MLG Columbus 2016",
@@ -33,7 +33,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/VirtusPro-Gold.png"
   },
   {
     "name": "Team Liquid | MLG Columbus 2016",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40950,
     "BuffStickerId": 1848,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamLiquid.png"
   },
   {
     "name": "Team Liquid (Holo) | MLG Columbus 2016",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40945,
     "BuffStickerId": 1843,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamLiquid-Holo.png"
   },
   {
     "name": "Team Liquid (Foil) | MLG Columbus 2016",
@@ -60,7 +60,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40941,
     "BuffStickerId": 1839,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamLiquid-Foil.png"
   },
   {
     "name": "Team Liquid (Gold) | MLG Columbus 2016",
@@ -69,7 +69,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamLiquid-Gold.png"
   },
   {
     "name": "Team EnVyUs | MLG Columbus 2016",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40927,
     "BuffStickerId": 1825,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamEnVyUs.png"
   },
   {
     "name": "Team EnVyUs (Holo) | MLG Columbus 2016",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40920,
     "BuffStickerId": 1818,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamEnVyUs-Holo.png"
   },
   {
     "name": "Team EnVyUs (Foil) | MLG Columbus 2016",
@@ -96,7 +96,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40915,
     "BuffStickerId": 1813,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamEnVyUs-Foil.png"
   },
   {
     "name": "Team EnVyUs (Gold) | MLG Columbus 2016",
@@ -105,7 +105,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TeamEnVyUs-Gold.png"
   },
   {
     "name": "Splyce | MLG Columbus 2016",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40840,
     "BuffStickerId": 1740,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Splyce.png"
   },
   {
     "name": "Splyce (Holo) | MLG Columbus 2016",
@@ -123,7 +123,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40839,
     "BuffStickerId": 1739,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Splyce-Holo.png"
   },
   {
     "name": "Splyce (Foil) | MLG Columbus 2016",
@@ -132,7 +132,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40838,
     "BuffStickerId": 1738,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Splyce-Foil.png"
   },
   {
     "name": "Splyce (Gold) | MLG Columbus 2016",
@@ -141,7 +141,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Splyce-Gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | MLG Columbus 2016",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40631,
     "BuffStickerId": 1532,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NinjasinPyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | MLG Columbus 2016",
@@ -159,7 +159,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40624,
     "BuffStickerId": 1525,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NinjasinPyjamas-Holo.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | MLG Columbus 2016",
@@ -168,7 +168,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40618,
     "BuffStickerId": 1519,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NinjasinPyjamas-Foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | MLG Columbus 2016",
@@ -177,7 +177,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NinjasinPyjamas-Gold.png"
   },
   {
     "name": "Natus Vincere | MLG Columbus 2016",
@@ -186,7 +186,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40589,
     "BuffStickerId": 1490,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NatusVincere.png"
   },
   {
     "name": "Natus Vincere (Holo) | MLG Columbus 2016",
@@ -195,7 +195,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40578,
     "BuffStickerId": 1479,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NatusVincere-Holo.png"
   },
   {
     "name": "Natus Vincere (Foil) | MLG Columbus 2016",
@@ -204,7 +204,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40570,
     "BuffStickerId": 1472,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NatusVincere-Foil.png"
   },
   {
     "name": "Natus Vincere (Gold) | MLG Columbus 2016",
@@ -213,7 +213,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NatusVincere-Gold.png"
   },
   {
     "name": "mousesports | MLG Columbus 2016",
@@ -222,7 +222,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41687,
     "BuffStickerId": 2584,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mousesports.png"
   },
   {
     "name": "mousesports (Holo) | MLG Columbus 2016",
@@ -231,7 +231,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41679,
     "BuffStickerId": 2576,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mousesports-Holo.png"
   },
   {
     "name": "mousesports (Foil) | MLG Columbus 2016",
@@ -240,7 +240,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41673,
     "BuffStickerId": 2570,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mousesports-Foil.png"
   },
   {
     "name": "mousesports (Gold) | MLG Columbus 2016",
@@ -249,7 +249,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mousesports-Gold.png"
   },
   {
     "name": "Luminosity Gaming | MLG Columbus 2016",
@@ -258,7 +258,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40465,
     "BuffStickerId": 1371,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/LuminosityGaming.png"
   },
   {
     "name": "Luminosity Gaming (Holo) | MLG Columbus 2016",
@@ -267,7 +267,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40462,
     "BuffStickerId": 1368,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/LuminosityGaming-Holo.png"
   },
   {
     "name": "Luminosity Gaming (Foil) | MLG Columbus 2016",
@@ -276,7 +276,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40461,
     "BuffStickerId": 1367,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/LuminosityGaming-Foil.png"
   },
   {
     "name": "Luminosity Gaming (Gold) | MLG Columbus 2016",
@@ -285,7 +285,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/LuminosityGaming-Gold.png"
   },
   {
     "name": "Gambit Gaming | MLG Columbus 2016",
@@ -294,7 +294,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40230,
     "BuffStickerId": 1141,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GambitGaming.png"
   },
   {
     "name": "Gambit Gaming (Holo) | MLG Columbus 2016",
@@ -303,7 +303,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GambitGaming-Holo.png"
   },
   {
     "name": "Gambit Gaming (Foil) | MLG Columbus 2016",
@@ -312,7 +312,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40224,
     "BuffStickerId": 1135,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GambitGaming-Foil.png"
   },
   {
     "name": "Gambit Gaming (Gold) | MLG Columbus 2016",
@@ -321,7 +321,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GambitGaming-Gold.png"
   },
   {
     "name": "G2 Esports | MLG Columbus 2016",
@@ -330,7 +330,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40214,
     "BuffStickerId": 1125,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/G2Esports.png"
   },
   {
     "name": "G2 Esports (Holo) | MLG Columbus 2016",
@@ -339,7 +339,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40208,
     "BuffStickerId": 1119,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/G2Esports-Holo.png"
   },
   {
     "name": "G2 Esports (Foil) | MLG Columbus 2016",
@@ -348,7 +348,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40203,
     "BuffStickerId": 1114,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/G2Esports-Foil.png"
   },
   {
     "name": "G2 Esports (Gold) | MLG Columbus 2016",
@@ -357,7 +357,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/G2Esports-Gold.png"
   },
   {
     "name": "Fnatic | MLG Columbus 2016",
@@ -366,7 +366,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40189,
     "BuffStickerId": 1100,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Fnatic.png"
   },
   {
     "name": "Fnatic (Holo) | MLG Columbus 2016",
@@ -375,7 +375,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40178,
     "BuffStickerId": 1089,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Fnatic-Holo.png"
   },
   {
     "name": "Fnatic (Foil) | MLG Columbus 2016",
@@ -384,7 +384,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40169,
     "BuffStickerId": 1080,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Fnatic-Foil.png"
   },
   {
     "name": "Fnatic (Gold) | MLG Columbus 2016",
@@ -393,7 +393,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Fnatic-Gold.png"
   },
   {
     "name": "Flipsid3 Tactics | MLG Columbus 2016",
@@ -402,7 +402,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40160,
     "BuffStickerId": 1071,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Flipsid3Tactics.png"
   },
   {
     "name": "Flipsid3 Tactics (Holo) | MLG Columbus 2016",
@@ -411,7 +411,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40151,
     "BuffStickerId": 1062,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Flipsid3Tactics-Holo.png"
   },
   {
     "name": "Flipsid3 Tactics (Foil) | MLG Columbus 2016",
@@ -420,7 +420,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40145,
     "BuffStickerId": 1056,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Flipsid3Tactics-Foil.png"
   },
   {
     "name": "Flipsid3 Tactics (Gold) | MLG Columbus 2016",
@@ -429,7 +429,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Flipsid3Tactics-Gold.png"
   },
   {
     "name": "FaZe Clan | MLG Columbus 2016",
@@ -438,7 +438,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40111,
     "BuffStickerId": 1022,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FaZeClan.png"
   },
   {
     "name": "FaZe Clan (Holo) | MLG Columbus 2016",
@@ -447,7 +447,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40106,
     "BuffStickerId": 1017,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FaZeClan-Holo.png"
   },
   {
     "name": "FaZe Clan (Foil) | MLG Columbus 2016",
@@ -456,7 +456,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40101,
     "BuffStickerId": 1012,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FaZeClan-Foil.png"
   },
   {
     "name": "FaZe Clan (Gold) | MLG Columbus 2016",
@@ -465,7 +465,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FaZeClan-Gold.png"
   },
   {
     "name": "Counter Logic Gaming | MLG Columbus 2016",
@@ -474,7 +474,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39990,
     "BuffStickerId": 905,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/CounterLogicGaming.png"
   },
   {
     "name": "Counter Logic Gaming (Holo) | MLG Columbus 2016",
@@ -483,7 +483,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39985,
     "BuffStickerId": 900,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/CounterLogicGaming-Holo.png"
   },
   {
     "name": "Counter Logic Gaming (Foil) | MLG Columbus 2016",
@@ -492,7 +492,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39982,
     "BuffStickerId": 897,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/CounterLogicGaming-Foil.png"
   },
   {
     "name": "Counter Logic Gaming (Gold) | MLG Columbus 2016",
@@ -501,7 +501,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/CounterLogicGaming-Gold.png"
   },
   {
     "name": "Cloud9 | MLG Columbus 2016",
@@ -510,7 +510,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39971,
     "BuffStickerId": 887,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Cloud9.png"
   },
   {
     "name": "Cloud9 (Holo) | MLG Columbus 2016",
@@ -519,7 +519,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39960,
     "BuffStickerId": 876,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Cloud9-Holo.png"
   },
   {
     "name": "Cloud9 (Foil) | MLG Columbus 2016",
@@ -528,7 +528,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39955,
     "BuffStickerId": 871,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Cloud9-Foil.png"
   },
   {
     "name": "Cloud9 (Gold) | MLG Columbus 2016",
@@ -537,7 +537,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Cloud9-Gold.png"
   },
   {
     "name": "Astralis | MLG Columbus 2016",
@@ -546,7 +546,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39870,
     "BuffStickerId": 789,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Astralis.png"
   },
   {
     "name": "Astralis (Holo) | MLG Columbus 2016",
@@ -555,7 +555,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39865,
     "BuffStickerId": 784,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Astralis-Holo.png"
   },
   {
     "name": "Astralis (Foil) | MLG Columbus 2016",
@@ -564,7 +564,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39860,
     "BuffStickerId": 779,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Astralis-Foil.png"
   },
   {
     "name": "Astralis (Gold) | MLG Columbus 2016",
@@ -573,7 +573,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Astralis-Gold.png"
   },
   {
     "name": "Zeus | MLG Columbus 2016",
@@ -582,7 +582,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41122,
     "BuffStickerId": 2019,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Zeus.png"
   },
   {
     "name": "Zeus (Foil) | MLG Columbus 2016",
@@ -591,7 +591,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41113,
     "BuffStickerId": 2010,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Zeus-Foil.png"
   },
   {
     "name": "Zeus (Gold) | MLG Columbus 2016",
@@ -600,7 +600,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Zeus-Gold.png"
   },
   {
     "name": "Xyp9x | MLG Columbus 2016",
@@ -609,7 +609,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41104,
     "BuffStickerId": 2001,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Xyp9x.png"
   },
   {
     "name": "Xyp9x (Foil) | MLG Columbus 2016",
@@ -618,7 +618,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41095,
     "BuffStickerId": 1992,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Xyp9x-Foil.png"
   },
   {
     "name": "Xyp9x (Gold) | MLG Columbus 2016",
@@ -627,7 +627,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Xyp9x-Gold.png"
   },
   {
     "name": "Xizt | MLG Columbus 2016",
@@ -636,7 +636,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41088,
     "BuffStickerId": 1985,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Xizt.png"
   },
   {
     "name": "Xizt (Foil) | MLG Columbus 2016",
@@ -645,7 +645,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41084,
     "BuffStickerId": 1981,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Xizt-Foil.png"
   },
   {
     "name": "Xizt (Gold) | MLG Columbus 2016",
@@ -654,7 +654,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Xizt-Gold.png"
   },
   {
     "name": "WorldEdit | MLG Columbus 2016",
@@ -663,7 +663,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41077,
     "BuffStickerId": 1974,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/WorldEdit.png"
   },
   {
     "name": "WorldEdit (Foil) | MLG Columbus 2016",
@@ -672,7 +672,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41069,
     "BuffStickerId": 1966,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/WorldEdit-Foil.png"
   },
   {
     "name": "WorldEdit (Gold) | MLG Columbus 2016",
@@ -681,7 +681,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/WorldEdit-Gold.png"
   },
   {
     "name": "wayLander | MLG Columbus 2016",
@@ -690,7 +690,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41943,
     "BuffStickerId": 2840,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/wayLander.png"
   },
   {
     "name": "wayLander (Foil) | MLG Columbus 2016",
@@ -699,7 +699,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41936,
     "BuffStickerId": 2833,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/wayLander-Foil.png"
   },
   {
     "name": "wayLander (Gold) | MLG Columbus 2016",
@@ -708,7 +708,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/wayLander-Gold.png"
   },
   {
     "name": "TaZ | MLG Columbus 2016",
@@ -717,7 +717,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40894,
     "BuffStickerId": 1794,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TaZ.png"
   },
   {
     "name": "TaZ (Foil) | MLG Columbus 2016",
@@ -726,7 +726,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40885,
     "BuffStickerId": 1785,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TaZ-Foil.png"
   },
   {
     "name": "TaZ (Gold) | MLG Columbus 2016",
@@ -735,7 +735,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TaZ-Gold.png"
   },
   {
     "name": "tarik | MLG Columbus 2016",
@@ -744,7 +744,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41921,
     "BuffStickerId": 2818,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/tarik.png"
   },
   {
     "name": "tarik (Foil) | MLG Columbus 2016",
@@ -753,7 +753,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41914,
     "BuffStickerId": 2811,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/tarik-Foil.png"
   },
   {
     "name": "tarik (Gold) | MLG Columbus 2016",
@@ -762,7 +762,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/tarik-Gold.png"
   },
   {
     "name": "TACO | MLG Columbus 2016",
@@ -771,7 +771,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40873,
     "BuffStickerId": 1773,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TACO.png"
   },
   {
     "name": "TACO (Foil) | MLG Columbus 2016",
@@ -780,7 +780,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40866,
     "BuffStickerId": 1766,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TACO-Foil.png"
   },
   {
     "name": "TACO (Gold) | MLG Columbus 2016",
@@ -789,7 +789,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/TACO-Gold.png"
   },
   {
     "name": "Stewie2K | MLG Columbus 2016",
@@ -798,7 +798,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40854,
     "BuffStickerId": 1754,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Stewie2K.png"
   },
   {
     "name": "Stewie2K (Foil) | MLG Columbus 2016",
@@ -807,7 +807,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40849,
     "BuffStickerId": 1749,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Stewie2K-Foil.png"
   },
   {
     "name": "Stewie2K (Gold) | MLG Columbus 2016",
@@ -816,7 +816,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Stewie2K-Gold.png"
   },
   {
     "name": "Spiidi | MLG Columbus 2016",
@@ -825,7 +825,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40837,
     "BuffStickerId": 1737,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Spiidi.png"
   },
   {
     "name": "Spiidi (Foil) | MLG Columbus 2016",
@@ -834,7 +834,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40831,
     "BuffStickerId": 1731,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Spiidi-Foil.png"
   },
   {
     "name": "Spiidi (Gold) | MLG Columbus 2016",
@@ -843,7 +843,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Spiidi-Gold.png"
   },
   {
     "name": "Snax | MLG Columbus 2016",
@@ -852,7 +852,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40818,
     "BuffStickerId": 1718,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Snax.png"
   },
   {
     "name": "Snax (Foil) | MLG Columbus 2016",
@@ -861,7 +861,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40809,
     "BuffStickerId": 1709,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Snax-Foil.png"
   },
   {
     "name": "Snax (Gold) | MLG Columbus 2016",
@@ -870,7 +870,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Snax-Gold.png"
   },
   {
     "name": "SmithZz | MLG Columbus 2016",
@@ -879,7 +879,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40802,
     "BuffStickerId": 1702,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/SmithZz.png"
   },
   {
     "name": "SmithZz (Foil) | MLG Columbus 2016",
@@ -888,7 +888,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40797,
     "BuffStickerId": 1697,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/SmithZz-Foil.png"
   },
   {
     "name": "SmithZz (Gold) | MLG Columbus 2016",
@@ -897,7 +897,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/SmithZz-Gold.png"
   },
   {
     "name": "Skadoodle | MLG Columbus 2016",
@@ -906,7 +906,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40789,
     "BuffStickerId": 1689,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Skadoodle.png"
   },
   {
     "name": "Skadoodle (Foil) | MLG Columbus 2016",
@@ -915,7 +915,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40782,
     "BuffStickerId": 1682,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Skadoodle-Foil.png"
   },
   {
     "name": "Skadoodle (Gold) | MLG Columbus 2016",
@@ -924,7 +924,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Skadoodle-Gold.png"
   },
   {
     "name": "shroud | MLG Columbus 2016",
@@ -933,7 +933,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41878,
     "BuffStickerId": 2775,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/shroud.png"
   },
   {
     "name": "shroud (Foil) | MLG Columbus 2016",
@@ -942,7 +942,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41873,
     "BuffStickerId": 2770,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/shroud-Foil.png"
   },
   {
     "name": "shroud (Gold) | MLG Columbus 2016",
@@ -951,7 +951,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/shroud-Gold.png"
   },
   {
     "name": "shox | MLG Columbus 2016",
@@ -960,7 +960,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41869,
     "BuffStickerId": 2766,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/shox.png"
   },
   {
     "name": "shox (Foil) | MLG Columbus 2016",
@@ -969,7 +969,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41860,
     "BuffStickerId": 2757,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/shox-Foil.png"
   },
   {
     "name": "shox (Gold) | MLG Columbus 2016",
@@ -978,7 +978,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/shox-Gold.png"
   },
   {
     "name": "Shara | MLG Columbus 2016",
@@ -987,7 +987,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40767,
     "BuffStickerId": 1668,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Shara.png"
   },
   {
     "name": "Shara (Foil) | MLG Columbus 2016",
@@ -996,7 +996,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40765,
     "BuffStickerId": 1666,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Shara-Foil.png"
   },
   {
     "name": "Shara (Gold) | MLG Columbus 2016",
@@ -1005,7 +1005,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Shara-Gold.png"
   },
   {
     "name": "seized | MLG Columbus 2016",
@@ -1014,7 +1014,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41853,
     "BuffStickerId": 2750,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/seized.png"
   },
   {
     "name": "seized (Foil) | MLG Columbus 2016",
@@ -1023,7 +1023,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41844,
     "BuffStickerId": 2741,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/seized-Foil.png"
   },
   {
     "name": "seized (Gold) | MLG Columbus 2016",
@@ -1032,7 +1032,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/seized-Gold.png"
   },
   {
     "name": "ScreaM | MLG Columbus 2016",
@@ -1041,7 +1041,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40758,
     "BuffStickerId": 1659,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/ScreaM.png"
   },
   {
     "name": "ScreaM (Foil) | MLG Columbus 2016",
@@ -1050,7 +1050,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40751,
     "BuffStickerId": 1652,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/ScreaM-Foil.png"
   },
   {
     "name": "ScreaM (Gold) | MLG Columbus 2016",
@@ -1059,7 +1059,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/ScreaM-Gold.png"
   },
   {
     "name": "s1mple | MLG Columbus 2016",
@@ -1068,7 +1068,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41830,
     "BuffStickerId": 2727,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/s1mple.png"
   },
   {
     "name": "s1mple (Foil) | MLG Columbus 2016",
@@ -1077,7 +1077,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41823,
     "BuffStickerId": 2720,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/s1mple-Foil.png"
   },
   {
     "name": "s1mple (Gold) | MLG Columbus 2016",
@@ -1086,7 +1086,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/s1mple-Gold.png"
   },
   {
     "name": "RpK | MLG Columbus 2016",
@@ -1095,7 +1095,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40719,
     "BuffStickerId": 1620,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/RpK.png"
   },
   {
     "name": "RpK (Foil) | MLG Columbus 2016",
@@ -1104,7 +1104,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40712,
     "BuffStickerId": 1613,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/RpK-Foil.png"
   },
   {
     "name": "RpK (Gold) | MLG Columbus 2016",
@@ -1113,7 +1113,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/RpK-Gold.png"
   },
   {
     "name": "reltuC | MLG Columbus 2016",
@@ -1122,7 +1122,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41812,
     "BuffStickerId": 2709,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/reltuC.png"
   },
   {
     "name": "reltuC (Foil) | MLG Columbus 2016",
@@ -1131,7 +1131,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41808,
     "BuffStickerId": 2705,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/reltuC-Foil.png"
   },
   {
     "name": "reltuC (Gold) | MLG Columbus 2016",
@@ -1140,7 +1140,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/reltuC-Gold.png"
   },
   {
     "name": "rain | MLG Columbus 2016",
@@ -1149,7 +1149,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41800,
     "BuffStickerId": 2697,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/rain.png"
   },
   {
     "name": "rain (Foil) | MLG Columbus 2016",
@@ -1158,7 +1158,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41791,
     "BuffStickerId": 2688,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/rain-Foil.png"
   },
   {
     "name": "rain (Gold) | MLG Columbus 2016",
@@ -1167,7 +1167,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/rain-Gold.png"
   },
   {
     "name": "pyth | MLG Columbus 2016",
@@ -1176,7 +1176,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41781,
     "BuffStickerId": 2678,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/pyth.png"
   },
   {
     "name": "pyth (Foil) | MLG Columbus 2016",
@@ -1185,7 +1185,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41779,
     "BuffStickerId": 2676,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/pyth-Foil.png"
   },
   {
     "name": "pyth (Gold) | MLG Columbus 2016",
@@ -1194,7 +1194,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/pyth-Gold.png"
   },
   {
     "name": "Professor_Chaos | MLG Columbus 2016",
@@ -1203,7 +1203,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40677,
     "BuffStickerId": 1578,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/ProfessorChaos.png"
   },
   {
     "name": "Professor_Chaos (Foil) | MLG Columbus 2016",
@@ -1212,7 +1212,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40676,
     "BuffStickerId": 1577,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/ProfessorChaos-Foil.png"
   },
   {
     "name": "Professor_Chaos (Gold) | MLG Columbus 2016",
@@ -1221,7 +1221,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/ProfessorChaos-Gold.png"
   },
   {
     "name": "pashaBiceps | MLG Columbus 2016",
@@ -1230,7 +1230,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41762,
     "BuffStickerId": 2659,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/pashaBiceps.png"
   },
   {
     "name": "pashaBiceps (Foil) | MLG Columbus 2016",
@@ -1239,7 +1239,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41753,
     "BuffStickerId": 2650,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/pashaBiceps-Foil.png"
   },
   {
     "name": "pashaBiceps (Gold) | MLG Columbus 2016",
@@ -1248,7 +1248,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/pashaBiceps-Gold.png"
   },
   {
     "name": "olofmeister | MLG Columbus 2016",
@@ -1257,7 +1257,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41740,
     "BuffStickerId": 2637,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/olofmeister.png"
   },
   {
     "name": "olofmeister (Foil) | MLG Columbus 2016",
@@ -1266,7 +1266,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41731,
     "BuffStickerId": 2628,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/olofmeister-Foil.png"
   },
   {
     "name": "olofmeister (Gold) | MLG Columbus 2016",
@@ -1275,7 +1275,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/olofmeister-Gold.png"
   },
   {
     "name": "nitr0 | MLG Columbus 2016",
@@ -1284,7 +1284,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41724,
     "BuffStickerId": 2621,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/nitr0.png"
   },
   {
     "name": "nitr0 (Foil) | MLG Columbus 2016",
@@ -1293,7 +1293,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41719,
     "BuffStickerId": 2616,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/nitr0-Foil.png"
   },
   {
     "name": "nitr0 (Gold) | MLG Columbus 2016",
@@ -1302,7 +1302,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/nitr0-Gold.png"
   },
   {
     "name": "NiKo | MLG Columbus 2016",
@@ -1311,7 +1311,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40606,
     "BuffStickerId": 1507,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NiKo.png"
   },
   {
     "name": "NiKo (Foil) | MLG Columbus 2016",
@@ -1320,7 +1320,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40598,
     "BuffStickerId": 1499,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NiKo-Foil.png"
   },
   {
     "name": "NiKo (Gold) | MLG Columbus 2016",
@@ -1329,7 +1329,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NiKo-Gold.png"
   },
   {
     "name": "nex | MLG Columbus 2016",
@@ -1338,7 +1338,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41711,
     "BuffStickerId": 2608,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/nex.png"
   },
   {
     "name": "nex (Foil) | MLG Columbus 2016",
@@ -1347,7 +1347,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41703,
     "BuffStickerId": 2600,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/nex-Foil.png"
   },
   {
     "name": "nex (Gold) | MLG Columbus 2016",
@@ -1356,7 +1356,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/nex-Gold.png"
   },
   {
     "name": "NEO | MLG Columbus 2016",
@@ -1365,7 +1365,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40561,
     "BuffStickerId": 1463,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NEO.png"
   },
   {
     "name": "NEO (Foil) | MLG Columbus 2016",
@@ -1374,7 +1374,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40552,
     "BuffStickerId": 1454,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NEO-Foil.png"
   },
   {
     "name": "NEO (Gold) | MLG Columbus 2016",
@@ -1383,7 +1383,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NEO-Gold.png"
   },
   {
     "name": "NBK- | MLG Columbus 2016",
@@ -1392,7 +1392,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40545,
     "BuffStickerId": 1447,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NBK.png"
   },
   {
     "name": "NBK- (Foil) | MLG Columbus 2016",
@@ -1401,7 +1401,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40536,
     "BuffStickerId": 1438,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NBK-Foil.png"
   },
   {
     "name": "NBK- (Gold) | MLG Columbus 2016",
@@ -1410,7 +1410,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/NBK-Gold.png"
   },
   {
     "name": "n0thing | MLG Columbus 2016",
@@ -1419,7 +1419,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41697,
     "BuffStickerId": 2594,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/n0thing.png"
   },
   {
     "name": "n0thing (Foil) | MLG Columbus 2016",
@@ -1428,7 +1428,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41692,
     "BuffStickerId": 2589,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/n0thing-Foil.png"
   },
   {
     "name": "n0thing (Gold) | MLG Columbus 2016",
@@ -1437,7 +1437,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/n0thing-Gold.png"
   },
   {
     "name": "mou | MLG Columbus 2016",
@@ -1446,7 +1446,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41666,
     "BuffStickerId": 2563,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mou.png"
   },
   {
     "name": "mou (Foil) | MLG Columbus 2016",
@@ -1455,7 +1455,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41659,
     "BuffStickerId": 2556,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mou-Foil.png"
   },
   {
     "name": "mou (Gold) | MLG Columbus 2016",
@@ -1464,7 +1464,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/mou-Gold.png"
   },
   {
     "name": "markeloff | MLG Columbus 2016",
@@ -1473,7 +1473,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41644,
     "BuffStickerId": 2541,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/markeloff.png"
   },
   {
     "name": "markeloff (Foil) | MLG Columbus 2016",
@@ -1482,7 +1482,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41635,
     "BuffStickerId": 2532,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/markeloff-Foil.png"
   },
   {
     "name": "markeloff (Gold) | MLG Columbus 2016",
@@ -1491,7 +1491,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/markeloff-Gold.png"
   },
   {
     "name": "Maikelele | MLG Columbus 2016",
@@ -1500,7 +1500,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40498,
     "BuffStickerId": 1404,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Maikelele.png"
   },
   {
     "name": "Maikelele (Foil) | MLG Columbus 2016",
@@ -1509,7 +1509,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40495,
     "BuffStickerId": 1401,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Maikelele-Foil.png"
   },
   {
     "name": "Maikelele (Gold) | MLG Columbus 2016",
@@ -1518,7 +1518,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Maikelele-Gold.png"
   },
   {
     "name": "KRIMZ | MLG Columbus 2016",
@@ -1527,7 +1527,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40389,
     "BuffStickerId": 1297,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/KRIMZ.png"
   },
   {
     "name": "KRIMZ (Foil) | MLG Columbus 2016",
@@ -1536,7 +1536,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40380,
     "BuffStickerId": 1288,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/KRIMZ-Foil.png"
   },
   {
     "name": "KRIMZ (Gold) | MLG Columbus 2016",
@@ -1545,7 +1545,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/KRIMZ-Gold.png"
   },
   {
     "name": "kennyS | MLG Columbus 2016",
@@ -1554,7 +1554,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41604,
     "BuffStickerId": 2501,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/kennyS.png"
   },
   {
     "name": "kennyS (Foil) | MLG Columbus 2016",
@@ -1563,7 +1563,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41595,
     "BuffStickerId": 2492,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/kennyS-Foil.png"
   },
   {
     "name": "kennyS (Gold) | MLG Columbus 2016",
@@ -1572,7 +1572,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/kennyS-Gold.png"
   },
   {
     "name": "karrigan | MLG Columbus 2016",
@@ -1581,7 +1581,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41582,
     "BuffStickerId": 2479,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/karrigan.png"
   },
   {
     "name": "karrigan (Foil) | MLG Columbus 2016",
@@ -1590,7 +1590,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41573,
     "BuffStickerId": 2470,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/karrigan-Foil.png"
   },
   {
     "name": "karrigan (Gold) | MLG Columbus 2016",
@@ -1599,7 +1599,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/karrigan-Gold.png"
   },
   {
     "name": "JW | MLG Columbus 2016",
@@ -1608,7 +1608,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40363,
     "BuffStickerId": 1271,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/JW.png"
   },
   {
     "name": "JW (Foil) | MLG Columbus 2016",
@@ -1617,7 +1617,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40354,
     "BuffStickerId": 1262,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/JW-Foil.png"
   },
   {
     "name": "JW (Gold) | MLG Columbus 2016",
@@ -1626,7 +1626,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/JW-Gold.png"
   },
   {
     "name": "jkaem | MLG Columbus 2016",
@@ -1635,7 +1635,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41536,
     "BuffStickerId": 2433,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jkaem.png"
   },
   {
     "name": "jkaem (Foil) | MLG Columbus 2016",
@@ -1644,7 +1644,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41533,
     "BuffStickerId": 2430,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jkaem-Foil.png"
   },
   {
     "name": "jkaem (Gold) | MLG Columbus 2016",
@@ -1653,7 +1653,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jkaem-Gold.png"
   },
   {
     "name": "jdm64 | MLG Columbus 2016",
@@ -1662,7 +1662,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41530,
     "BuffStickerId": 2427,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jdm64.png"
   },
   {
     "name": "jdm64 (Foil) | MLG Columbus 2016",
@@ -1671,7 +1671,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41523,
     "BuffStickerId": 2420,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jdm64-Foil.png"
   },
   {
     "name": "jdm64 (Gold) | MLG Columbus 2016",
@@ -1680,7 +1680,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jdm64-Gold.png"
   },
   {
     "name": "jasonR | MLG Columbus 2016",
@@ -1689,7 +1689,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41517,
     "BuffStickerId": 2414,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jasonR.png"
   },
   {
     "name": "jasonR (Foil) | MLG Columbus 2016",
@@ -1698,7 +1698,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41516,
     "BuffStickerId": 2413,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jasonR-Foil.png"
   },
   {
     "name": "jasonR (Gold) | MLG Columbus 2016",
@@ -1707,7 +1707,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/jasonR-Gold.png"
   },
   {
     "name": "hooch | MLG Columbus 2016",
@@ -1716,7 +1716,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41494,
     "BuffStickerId": 2391,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/hooch.png"
   },
   {
     "name": "hooch (Foil) | MLG Columbus 2016",
@@ -1725,7 +1725,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41492,
     "BuffStickerId": 2389,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/hooch-Foil.png"
   },
   {
     "name": "hooch (Gold) | MLG Columbus 2016",
@@ -1734,7 +1734,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/hooch-Gold.png"
   },
   {
     "name": "Hiko | MLG Columbus 2016",
@@ -1743,7 +1743,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40321,
     "BuffStickerId": 1230,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Hiko.png"
   },
   {
     "name": "Hiko (Foil) | MLG Columbus 2016",
@@ -1752,7 +1752,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40317,
     "BuffStickerId": 1226,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Hiko-Foil.png"
   },
   {
     "name": "Hiko (Gold) | MLG Columbus 2016",
@@ -1761,7 +1761,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Hiko-Gold.png"
   },
   {
     "name": "hazed | MLG Columbus 2016",
@@ -1770,7 +1770,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41490,
     "BuffStickerId": 2387,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/hazed.png"
   },
   {
     "name": "hazed (Foil) | MLG Columbus 2016",
@@ -1779,7 +1779,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41486,
     "BuffStickerId": 2383,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/hazed-Foil.png"
   },
   {
     "name": "hazed (Gold) | MLG Columbus 2016",
@@ -1788,7 +1788,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/hazed-Gold.png"
   },
   {
     "name": "Happy | MLG Columbus 2016",
@@ -1797,7 +1797,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40290,
     "BuffStickerId": 1201,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Happy.png"
   },
   {
     "name": "Happy (Foil) | MLG Columbus 2016",
@@ -1806,7 +1806,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40283,
     "BuffStickerId": 1194,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Happy-Foil.png"
   },
   {
     "name": "Happy (Gold) | MLG Columbus 2016",
@@ -1815,7 +1815,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Happy-Gold.png"
   },
   {
     "name": "GuardiaN | MLG Columbus 2016",
@@ -1824,7 +1824,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40265,
     "BuffStickerId": 1176,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GuardiaN.png"
   },
   {
     "name": "GuardiaN (Foil) | MLG Columbus 2016",
@@ -1833,7 +1833,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40256,
     "BuffStickerId": 1167,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GuardiaN-Foil.png"
   },
   {
     "name": "GuardiaN (Gold) | MLG Columbus 2016",
@@ -1842,7 +1842,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GuardiaN-Gold.png"
   },
   {
     "name": "GeT_RiGhT | MLG Columbus 2016",
@@ -1851,7 +1851,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40239,
     "BuffStickerId": 1150,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GeTRiGhT.png"
   },
   {
     "name": "GeT_RiGhT (Foil) | MLG Columbus 2016",
@@ -1860,7 +1860,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40235,
     "BuffStickerId": 1146,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GeTRiGhT-Foil.png"
   },
   {
     "name": "GeT_RiGhT (Gold) | MLG Columbus 2016",
@@ -1869,7 +1869,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/GeTRiGhT-Gold.png"
   },
   {
     "name": "FugLy | MLG Columbus 2016",
@@ -1878,7 +1878,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40193,
     "BuffStickerId": 1104,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FugLy.png"
   },
   {
     "name": "FugLy (Foil) | MLG Columbus 2016",
@@ -1887,7 +1887,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40191,
     "BuffStickerId": 1102,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FugLy-Foil.png"
   },
   {
     "name": "FugLy (Gold) | MLG Columbus 2016",
@@ -1896,7 +1896,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FugLy-Gold.png"
   },
   {
     "name": "friberg | MLG Columbus 2016",
@@ -1905,7 +1905,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41462,
     "BuffStickerId": 2359,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/friberg.png"
   },
   {
     "name": "friberg (Foil) | MLG Columbus 2016",
@@ -1914,7 +1914,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41458,
     "BuffStickerId": 2355,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/friberg-Foil.png"
   },
   {
     "name": "friberg (Gold) | MLG Columbus 2016",
@@ -1923,7 +1923,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/friberg-Gold.png"
   },
   {
     "name": "freakazoid | MLG Columbus 2016",
@@ -1932,7 +1932,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41454,
     "BuffStickerId": 2351,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/freakazoid.png"
   },
   {
     "name": "freakazoid (Foil) | MLG Columbus 2016",
@@ -1941,7 +1941,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41451,
     "BuffStickerId": 2348,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/freakazoid-Foil.png"
   },
   {
     "name": "freakazoid (Gold) | MLG Columbus 2016",
@@ -1950,7 +1950,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/freakazoid-Gold.png"
   },
   {
     "name": "fox | MLG Columbus 2016",
@@ -1959,7 +1959,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41448,
     "BuffStickerId": 2345,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fox.png"
   },
   {
     "name": "fox (Foil) | MLG Columbus 2016",
@@ -1968,7 +1968,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41443,
     "BuffStickerId": 2340,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fox-Foil.png"
   },
   {
     "name": "fox (Gold) | MLG Columbus 2016",
@@ -1977,7 +1977,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fox-Gold.png"
   },
   {
     "name": "fnx | MLG Columbus 2016",
@@ -1986,7 +1986,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41438,
     "BuffStickerId": 2335,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fnx.png"
   },
   {
     "name": "fnx (Foil) | MLG Columbus 2016",
@@ -1995,7 +1995,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41434,
     "BuffStickerId": 2331,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fnx-Foil.png"
   },
   {
     "name": "fnx (Gold) | MLG Columbus 2016",
@@ -2004,7 +2004,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fnx-Gold.png"
   },
   {
     "name": "flusha | MLG Columbus 2016",
@@ -2013,7 +2013,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41431,
     "BuffStickerId": 2328,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/flusha.png"
   },
   {
     "name": "flusha (Foil) | MLG Columbus 2016",
@@ -2022,7 +2022,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41422,
     "BuffStickerId": 2319,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/flusha-Foil.png"
   },
   {
     "name": "flusha (Gold) | MLG Columbus 2016",
@@ -2031,7 +2031,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/flusha-Gold.png"
   },
   {
     "name": "flamie | MLG Columbus 2016",
@@ -2040,7 +2040,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41415,
     "BuffStickerId": 2312,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/flamie.png"
   },
   {
     "name": "flamie (Foil) | MLG Columbus 2016",
@@ -2049,7 +2049,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41406,
     "BuffStickerId": 2303,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/flamie-Foil.png"
   },
   {
     "name": "flamie (Gold) | MLG Columbus 2016",
@@ -2058,7 +2058,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/flamie-Gold.png"
   },
   {
     "name": "fer | MLG Columbus 2016",
@@ -2067,7 +2067,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41396,
     "BuffStickerId": 2293,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fer.png"
   },
   {
     "name": "fer (Foil) | MLG Columbus 2016",
@@ -2076,7 +2076,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41387,
     "BuffStickerId": 2284,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fer-Foil.png"
   },
   {
     "name": "fer (Gold) | MLG Columbus 2016",
@@ -2085,7 +2085,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/fer-Gold.png"
   },
   {
     "name": "FalleN | MLG Columbus 2016",
@@ -2094,7 +2094,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40127,
     "BuffStickerId": 1038,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FalleN.png"
   },
   {
     "name": "FalleN (Foil) | MLG Columbus 2016",
@@ -2103,7 +2103,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40118,
     "BuffStickerId": 1029,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FalleN-Foil.png"
   },
   {
     "name": "FalleN (Gold) | MLG Columbus 2016",
@@ -2112,7 +2112,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/FalleN-Gold.png"
   },
   {
     "name": "f0rest | MLG Columbus 2016",
@@ -2121,7 +2121,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41375,
     "BuffStickerId": 2272,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/f0rest.png"
   },
   {
     "name": "f0rest (Foil) | MLG Columbus 2016",
@@ -2130,7 +2130,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41371,
     "BuffStickerId": 2268,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/f0rest-Foil.png"
   },
   {
     "name": "f0rest (Gold) | MLG Columbus 2016",
@@ -2139,7 +2139,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/f0rest-Gold.png"
   },
   {
     "name": "Ex6TenZ | MLG Columbus 2016",
@@ -2148,7 +2148,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40092,
     "BuffStickerId": 1003,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Ex6TenZ.png"
   },
   {
     "name": "Ex6TenZ (Foil) | MLG Columbus 2016",
@@ -2157,7 +2157,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 43938,
     "BuffStickerId": 2856,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Ex6TenZ-Foil.png"
   },
   {
     "name": "Ex6TenZ (Gold) | MLG Columbus 2016",
@@ -2166,7 +2166,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Ex6TenZ-Gold.png"
   },
   {
     "name": "EliGE | MLG Columbus 2016",
@@ -2175,7 +2175,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40085,
     "BuffStickerId": 996,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/EliGE.png"
   },
   {
     "name": "EliGE (Foil) | MLG Columbus 2016",
@@ -2184,7 +2184,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40079,
     "BuffStickerId": 990,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/EliGE-Foil.png"
   },
   {
     "name": "EliGE (Gold) | MLG Columbus 2016",
@@ -2193,7 +2193,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/EliGE-Gold.png"
   },
   {
     "name": "Edward | MLG Columbus 2016",
@@ -2202,7 +2202,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40074,
     "BuffStickerId": 985,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Edward.png"
   },
   {
     "name": "Edward (Foil) | MLG Columbus 2016",
@@ -2211,7 +2211,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40065,
     "BuffStickerId": 976,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Edward-Foil.png"
   },
   {
     "name": "Edward (Gold) | MLG Columbus 2016",
@@ -2220,7 +2220,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Edward-Gold.png"
   },
   {
     "name": "dupreeh | MLG Columbus 2016",
@@ -2229,7 +2229,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41357,
     "BuffStickerId": 2254,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/dupreeh.png"
   },
   {
     "name": "dupreeh (Foil) | MLG Columbus 2016",
@@ -2238,7 +2238,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41348,
     "BuffStickerId": 2245,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/dupreeh-Foil.png"
   },
   {
     "name": "dupreeh (Gold) | MLG Columbus 2016",
@@ -2247,7 +2247,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/dupreeh-Gold.png"
   },
   {
     "name": "Dosia | MLG Columbus 2016",
@@ -2256,7 +2256,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40031,
     "BuffStickerId": 942,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Dosia.png"
   },
   {
     "name": "Dosia (Foil) | MLG Columbus 2016",
@@ -2265,7 +2265,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40024,
     "BuffStickerId": 935,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Dosia-Foil.png"
   },
   {
     "name": "Dosia (Gold) | MLG Columbus 2016",
@@ -2274,7 +2274,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/Dosia-Gold.png"
   },
   {
     "name": "DEVIL | MLG Columbus 2016",
@@ -2283,7 +2283,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40002,
     "BuffStickerId": 915,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/DEVIL.png"
   },
   {
     "name": "DEVIL (Foil) | MLG Columbus 2016",
@@ -2292,7 +2292,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40000,
     "BuffStickerId": 913,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/DEVIL-Foil.png"
   },
   {
     "name": "DEVIL (Gold) | MLG Columbus 2016",
@@ -2301,7 +2301,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/DEVIL-Gold.png"
   },
   {
     "name": "device | MLG Columbus 2016",
@@ -2310,7 +2310,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41333,
     "BuffStickerId": 2230,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/device.png"
   },
   {
     "name": "device (Foil) | MLG Columbus 2016",
@@ -2319,7 +2319,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41324,
     "BuffStickerId": 2221,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/device-Foil.png"
   },
   {
     "name": "device (Gold) | MLG Columbus 2016",
@@ -2328,7 +2328,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/device-Gold.png"
   },
   {
     "name": "dennis | MLG Columbus 2016",
@@ -2337,7 +2337,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41317,
     "BuffStickerId": 2214,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/dennis.png"
   },
   {
     "name": "dennis (Foil) | MLG Columbus 2016",
@@ -2346,7 +2346,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41310,
     "BuffStickerId": 2207,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/dennis-Foil.png"
   },
   {
     "name": "dennis (Gold) | MLG Columbus 2016",
@@ -2355,7 +2355,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/dennis-Gold.png"
   },
   {
     "name": "denis | MLG Columbus 2016",
@@ -2364,7 +2364,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41304,
     "BuffStickerId": 2201,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/denis.png"
   },
   {
     "name": "denis (Foil) | MLG Columbus 2016",
@@ -2373,7 +2373,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41295,
     "BuffStickerId": 2192,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/denis-Foil.png"
   },
   {
     "name": "denis (Gold) | MLG Columbus 2016",
@@ -2382,7 +2382,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/denis-Gold.png"
   },
   {
     "name": "DAVEY | MLG Columbus 2016",
@@ -2391,7 +2391,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39995,
     "BuffStickerId": 908,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/DAVEY.png"
   },
   {
     "name": "DAVEY (Foil) | MLG Columbus 2016",
@@ -2400,7 +2400,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39994,
     "BuffStickerId": 907,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/DAVEY-Foil.png"
   },
   {
     "name": "DAVEY (Gold) | MLG Columbus 2016",
@@ -2409,7 +2409,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/DAVEY-Gold.png"
   },
   {
     "name": "coldzera | MLG Columbus 2016",
@@ -2418,7 +2418,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41282,
     "BuffStickerId": 2179,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/coldzera.png"
   },
   {
     "name": "coldzera (Foil) | MLG Columbus 2016",
@@ -2427,7 +2427,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41273,
     "BuffStickerId": 2170,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/coldzera-Foil.png"
   },
   {
     "name": "coldzera (Gold) | MLG Columbus 2016",
@@ -2436,7 +2436,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/coldzera-Gold.png"
   },
   {
     "name": "chrisJ | MLG Columbus 2016",
@@ -2445,7 +2445,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41266,
     "BuffStickerId": 2163,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/chrisJ.png"
   },
   {
     "name": "chrisJ (Foil) | MLG Columbus 2016",
@@ -2454,7 +2454,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41258,
     "BuffStickerId": 2155,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/chrisJ-Foil.png"
   },
   {
     "name": "chrisJ (Gold) | MLG Columbus 2016",
@@ -2463,7 +2463,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/chrisJ-Gold.png"
   },
   {
     "name": "cajunb | MLG Columbus 2016",
@@ -2472,7 +2472,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41242,
     "BuffStickerId": 2139,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/cajunb.png"
   },
   {
     "name": "cajunb (Foil) | MLG Columbus 2016",
@@ -2481,7 +2481,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41234,
     "BuffStickerId": 2131,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/cajunb-Foil.png"
   },
   {
     "name": "cajunb (Gold) | MLG Columbus 2016",
@@ -2490,7 +2490,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/cajunb-Gold.png"
   },
   {
     "name": "byali | MLG Columbus 2016",
@@ -2499,7 +2499,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41227,
     "BuffStickerId": 2124,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/byali.png"
   },
   {
     "name": "byali (Foil) | MLG Columbus 2016",
@@ -2508,7 +2508,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41218,
     "BuffStickerId": 2115,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/byali-Foil.png"
   },
   {
     "name": "byali (Gold) | MLG Columbus 2016",
@@ -2517,7 +2517,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/byali-Gold.png"
   },
   {
     "name": "bondik | MLG Columbus 2016",
@@ -2526,7 +2526,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41208,
     "BuffStickerId": 2105,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/bondik.png"
   },
   {
     "name": "bondik (Foil) | MLG Columbus 2016",
@@ -2535,7 +2535,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41202,
     "BuffStickerId": 2099,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/bondik-Foil.png"
   },
   {
     "name": "bondik (Gold) | MLG Columbus 2016",
@@ -2544,7 +2544,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/bondik-Gold.png"
   },
   {
     "name": "B1ad3 | MLG Columbus 2016",
@@ -2553,7 +2553,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39893,
     "BuffStickerId": 812,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/B1ad3.png"
   },
   {
     "name": "B1ad3 (Foil) | MLG Columbus 2016",
@@ -2562,7 +2562,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39884,
     "BuffStickerId": 803,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/B1ad3-Foil.png"
   },
   {
     "name": "B1ad3 (Gold) | MLG Columbus 2016",
@@ -2571,7 +2571,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/B1ad3-Gold.png"
   },
   {
     "name": "arya | MLG Columbus 2016",
@@ -2580,7 +2580,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41171,
     "BuffStickerId": 2068,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/arya.png"
   },
   {
     "name": "arya (Foil) | MLG Columbus 2016",
@@ -2589,7 +2589,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41170,
     "BuffStickerId": 2067,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/arya-Foil.png"
   },
   {
     "name": "arya (Gold) | MLG Columbus 2016",
@@ -2598,7 +2598,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/arya-Gold.png"
   },
   {
     "name": "apEX | MLG Columbus 2016",
@@ -2607,7 +2607,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41169,
     "BuffStickerId": 2066,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/apEX.png"
   },
   {
     "name": "apEX (Foil) | MLG Columbus 2016",
@@ -2616,7 +2616,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41160,
     "BuffStickerId": 2057,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/apEX-Foil.png"
   },
   {
     "name": "apEX (Gold) | MLG Columbus 2016",
@@ -2625,7 +2625,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/apEX-Gold.png"
   },
   {
     "name": "aizy | MLG Columbus 2016",
@@ -2634,7 +2634,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41144,
     "BuffStickerId": 2041,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/aizy.png"
   },
   {
     "name": "aizy (Foil) | MLG Columbus 2016",
@@ -2643,7 +2643,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41136,
     "BuffStickerId": 2033,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/aizy-Foil.png"
   },
   {
     "name": "aizy (Gold) | MLG Columbus 2016",
@@ -2652,7 +2652,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/aizy-Gold.png"
   },
   {
     "name": "AdreN | MLG Columbus 2016",
@@ -2661,7 +2661,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39841,
     "BuffStickerId": 760,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/AdreN.png"
   },
   {
     "name": "AdreN (Foil) | MLG Columbus 2016",
@@ -2670,7 +2670,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39842,
     "BuffStickerId": 15748,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/AdreN-Foil.png"
   },
   {
     "name": "AdreN (Gold) | MLG Columbus 2016",
@@ -2679,7 +2679,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/AdreN-Gold.png"
   },
   {
     "name": "adreN | MLG Columbus 2016",
@@ -2688,7 +2688,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41130,
     "BuffStickerId": 2027,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/adreN.png"
   },
   {
     "name": "adreN (Foil) | MLG Columbus 2016",
@@ -2697,7 +2697,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41128,
     "BuffStickerId": 15740,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/adreN-Foil.png"
   },
   {
     "name": "adreN (Gold) | MLG Columbus 2016",
@@ -2706,7 +2706,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/adreN-Gold.png"
   },
   {
     "name": "abE | MLG Columbus 2016",
@@ -2715,7 +2715,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41126,
     "BuffStickerId": 2023,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/abE.png"
   },
   {
     "name": "abE (Foil) | MLG Columbus 2016",
@@ -2724,7 +2724,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41125,
     "BuffStickerId": 2022,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/abE-Foil.png"
   },
   {
     "name": "abE (Gold) | MLG Columbus 2016",
@@ -2733,6 +2733,6 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/MLGColumbus2016/abE-Gold.png"
   }
 ]

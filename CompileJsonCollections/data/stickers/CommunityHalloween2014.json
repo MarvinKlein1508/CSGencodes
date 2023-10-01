@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40990,
     "BuffStickerId": 1887,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersHalloween2014/TrickOrThreat.png"
   },
   {
     "name": "Doomed",
@@ -15,7 +15,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40018,
     "BuffStickerId": 929,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersHalloween2014/Doomed.png"
   },
   {
     "name": "Queen Of Pain",
@@ -24,7 +24,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40682,
     "BuffStickerId": 1583,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersHalloween2014/QueenOfPain.png"
   },
   {
     "name": "Zombie Lover",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41124,
     "BuffStickerId": 2021,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersHalloween2014/ZombieLover.png"
   },
   {
     "name": "Witch",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41060,
     "BuffStickerId": 1957,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersHalloween2014/Witch.png"
   },
   {
     "name": "Trick Or Treat",
@@ -51,6 +51,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40991,
     "BuffStickerId": 1888,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersHalloween2014/TrickOrTreat.png"
   }
 ]

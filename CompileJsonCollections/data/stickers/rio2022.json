@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910981,
     "BuffStickerId": 17456,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/00Nation.png"
   },
   {
     "name": "00 Nation (Glitter) | Rio 2022",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911299,
     "BuffStickerId": 17600,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/00Nation-Glitter.png"
   },
   {
     "name": "00 Nation (Holo) | Rio 2022",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911480,
     "BuffStickerId": 17748,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/00Nation-Holo.png"
   },
   {
     "name": "00 Nation (Gold) | Rio 2022",
@@ -33,7 +33,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911564,
     "BuffStickerId": 17817,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/00Nation-Gold.png"
   },
   {
     "name": "9z Team | Rio 2022",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911148,
     "BuffStickerId": 17517,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/9zTeam.png"
   },
   {
     "name": "9z Team (Glitter) | Rio 2022",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911362,
     "BuffStickerId": 17652,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/9zTeam-Glitter.png"
   },
   {
     "name": "9z Team (Holo) | Rio 2022",
@@ -60,7 +60,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911309,
     "BuffStickerId": 17605,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/9zTeam-Holo.png"
   },
   {
     "name": "9z Team (Gold) | Rio 2022",
@@ -69,7 +69,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911728,
     "BuffStickerId": 17938,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/9zTeam-Gold.png"
   },
   {
     "name": "Bad News Eagles | Rio 2022",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911210,
     "BuffStickerId": 17549,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BadNewsEagles.png"
   },
   {
     "name": "Bad News Eagles (Glitter) | Rio 2022",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911220,
     "BuffStickerId": 17557,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BadNewsEagles-Glitter.png"
   },
   {
     "name": "Bad News Eagles (Holo) | Rio 2022",
@@ -96,7 +96,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911529,
     "BuffStickerId": 17784,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BadNewsEagles-Holo.png"
   },
   {
     "name": "Bad News Eagles (Gold) | Rio 2022",
@@ -105,7 +105,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911146,
     "BuffStickerId": 17515,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BadNewsEagles-Gold.png"
   },
   {
     "name": "BIG | Rio 2022",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910993,
     "BuffStickerId": 17459,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BIG.png"
   },
   {
     "name": "BIG (Glitter) | Rio 2022",
@@ -123,7 +123,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911015,
     "BuffStickerId": 17470,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BIG-Glitter.png"
   },
   {
     "name": "BIG (Holo) | Rio 2022",
@@ -132,7 +132,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911253,
     "BuffStickerId": 17564,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BIG-Holo.png"
   },
   {
     "name": "BIG (Gold) | Rio 2022",
@@ -141,7 +141,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911659,
     "BuffStickerId": 17880,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BIG-Gold.png"
   },
   {
     "name": "Cloud9 | Rio 2022",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911147,
     "BuffStickerId": 17516,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Cloud9.png"
   },
   {
     "name": "Cloud9 (Glitter) | Rio 2022",
@@ -159,7 +159,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911266,
     "BuffStickerId": 17577,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Cloud9-Glitter.png"
   },
   {
     "name": "Cloud9 (Holo) | Rio 2022",
@@ -168,7 +168,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911213,
     "BuffStickerId": 17551,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Cloud9-Holo.png"
   },
   {
     "name": "Cloud9 (Gold) | Rio 2022",
@@ -177,7 +177,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911527,
     "BuffStickerId": 17782,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Cloud9-Gold.png"
   },
   {
     "name": "ENCE | Rio 2022",
@@ -186,7 +186,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911017,
     "BuffStickerId": 17472,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ENCE.png"
   },
   {
     "name": "ENCE (Glitter) | Rio 2022",
@@ -195,7 +195,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911115,
     "BuffStickerId": 17492,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ENCE-Glitter.png"
   },
   {
     "name": "ENCE (Holo) | Rio 2022",
@@ -204,7 +204,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911398,
     "BuffStickerId": 17687,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ENCE-Holo.png"
   },
   {
     "name": "ENCE (Gold) | Rio 2022",
@@ -213,7 +213,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911615,
     "BuffStickerId": 17859,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ENCE-Gold.png"
   },
   {
     "name": "Evil Geniuses | Rio 2022",
@@ -222,7 +222,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910986,
     "BuffStickerId": 17458,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EvilGeniuses.png"
   },
   {
     "name": "Evil Geniuses (Glitter) | Rio 2022",
@@ -231,7 +231,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911270,
     "BuffStickerId": 17580,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EvilGeniuses-Glitter.png"
   },
   {
     "name": "Evil Geniuses (Holo) | Rio 2022",
@@ -240,7 +240,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911530,
     "BuffStickerId": 17785,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EvilGeniuses-Holo.png"
   },
   {
     "name": "Evil Geniuses (Gold) | Rio 2022",
@@ -249,7 +249,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911489,
     "BuffStickerId": 17754,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EvilGeniuses-Gold.png"
   },
   {
     "name": "FaZe Clan | Rio 2022",
@@ -258,7 +258,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911007,
     "BuffStickerId": 17466,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FaZeClan.png"
   },
   {
     "name": "FaZe Clan (Glitter) | Rio 2022",
@@ -267,7 +267,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911298,
     "BuffStickerId": 17599,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FaZeClan-Glitter.png"
   },
   {
     "name": "FaZe Clan (Holo) | Rio 2022",
@@ -276,7 +276,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911341,
     "BuffStickerId": 17632,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FaZeClan-Holo.png"
   },
   {
     "name": "FaZe Clan (Gold) | Rio 2022",
@@ -285,7 +285,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911248,
     "BuffStickerId": 17559,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FaZeClan-Gold.png"
   },
   {
     "name": "Fnatic | Rio 2022",
@@ -294,7 +294,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911086,
     "BuffStickerId": 17474,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Fnatic.png"
   },
   {
     "name": "Fnatic (Glitter) | Rio 2022",
@@ -303,7 +303,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911216,
     "BuffStickerId": 17554,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Fnatic-Glitter.png"
   },
   {
     "name": "Fnatic (Holo) | Rio 2022",
@@ -312,7 +312,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911215,
     "BuffStickerId": 17553,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Fnatic-Holo.png"
   },
   {
     "name": "Fnatic (Gold) | Rio 2022",
@@ -321,7 +321,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911544,
     "BuffStickerId": 17797,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Fnatic-Gold.png"
   },
   {
     "name": "FURIA | Rio 2022",
@@ -330,7 +330,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911211,
     "BuffStickerId": 17550,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FURIA.png"
   },
   {
     "name": "FURIA (Glitter) | Rio 2022",
@@ -339,7 +339,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911217,
     "BuffStickerId": 17555,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FURIA-Glitter.png"
   },
   {
     "name": "FURIA (Holo) | Rio 2022",
@@ -348,7 +348,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911516,
     "BuffStickerId": 17773,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FURIA-Holo.png"
   },
   {
     "name": "FURIA (Gold) | Rio 2022",
@@ -357,7 +357,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911725,
     "BuffStickerId": 17935,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FURIA-Gold.png"
   },
   {
     "name": "GamerLegion | Rio 2022",
@@ -366,7 +366,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911214,
     "BuffStickerId": 17552,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GamerLegion.png"
   },
   {
     "name": "GamerLegion (Glitter) | Rio 2022",
@@ -375,7 +375,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911447,
     "BuffStickerId": 17717,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GamerLegion-Glitter.png"
   },
   {
     "name": "GamerLegion (Holo) | Rio 2022",
@@ -384,7 +384,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911562,
     "BuffStickerId": 17815,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GamerLegion-Holo.png"
   },
   {
     "name": "GamerLegion (Gold) | Rio 2022",
@@ -393,7 +393,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911560,
     "BuffStickerId": 17813,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GamerLegion-Gold.png"
   },
   {
     "name": "Grayhound Gaming | Rio 2022",
@@ -402,7 +402,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911232,
     "BuffStickerId": 17558,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GrayhoundGaming.png"
   },
   {
     "name": "Grayhound Gaming (Glitter) | Rio 2022",
@@ -411,7 +411,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911300,
     "BuffStickerId": 17601,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GrayhoundGaming-Glitter.png"
   },
   {
     "name": "Grayhound Gaming (Holo) | Rio 2022",
@@ -420,7 +420,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911458,
     "BuffStickerId": 17727,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GrayhoundGaming-Holo.png"
   },
   {
     "name": "Grayhound Gaming (Gold) | Rio 2022",
@@ -429,7 +429,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911723,
     "BuffStickerId": 17933,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/GrayhoundGaming-Gold.png"
   },
   {
     "name": "Heroic | Rio 2022",
@@ -438,7 +438,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911149,
     "BuffStickerId": 17518,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Heroic.png"
   },
   {
     "name": "Heroic (Glitter) | Rio 2022",
@@ -447,7 +447,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911153,
     "BuffStickerId": 17522,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Heroic-Glitter.png"
   },
   {
     "name": "Heroic (Holo) | Rio 2022",
@@ -456,7 +456,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911384,
     "BuffStickerId": 17674,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Heroic-Holo.png"
   },
   {
     "name": "Heroic (Gold) | Rio 2022",
@@ -465,7 +465,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911577,
     "BuffStickerId": 17827,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Heroic-Gold.png"
   },
   {
     "name": "IHC Esports | Rio 2022",
@@ -474,7 +474,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911256,
     "BuffStickerId": 17567,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IHCEsports.png"
   },
   {
     "name": "IHC Esports (Glitter) | Rio 2022",
@@ -483,7 +483,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911457,
     "BuffStickerId": 17726,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IHCEsports-Glitter.png"
   },
   {
     "name": "IHC Esports (Holo) | Rio 2022",
@@ -492,7 +492,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911465,
     "BuffStickerId": 17734,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IHCEsports-Holo.png"
   },
   {
     "name": "IHC Esports (Gold) | Rio 2022",
@@ -501,7 +501,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911655,
     "BuffStickerId": 17876,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IHCEsports-Gold.png"
   },
   {
     "name": "Imperial Esports | Rio 2022",
@@ -510,7 +510,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911291,
     "BuffStickerId": 17595,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ImperialEsports.png"
   },
   {
     "name": "Imperial Esports (Glitter) | Rio 2022",
@@ -519,7 +519,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911255,
     "BuffStickerId": 17566,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ImperialEsports-Glitter.png"
   },
   {
     "name": "Imperial Esports (Holo) | Rio 2022",
@@ -528,7 +528,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911483,
     "BuffStickerId": 17749,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ImperialEsports-Holo.png"
   },
   {
     "name": "Imperial Esports (Gold) | Rio 2022",
@@ -537,7 +537,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911668,
     "BuffStickerId": 17885,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ImperialEsports-Gold.png"
   },
   {
     "name": "MOUZ | Rio 2022",
@@ -546,7 +546,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911013,
     "BuffStickerId": 17469,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/MOUZ.png"
   },
   {
     "name": "MOUZ (Glitter) | Rio 2022",
@@ -555,7 +555,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911116,
     "BuffStickerId": 17493,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/MOUZ-Glitter.png"
   },
   {
     "name": "MOUZ (Holo) | Rio 2022",
@@ -564,7 +564,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911410,
     "BuffStickerId": 17699,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/MOUZ-Holo.png"
   },
   {
     "name": "MOUZ (Gold) | Rio 2022",
@@ -573,7 +573,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911507,
     "BuffStickerId": 17766,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/MOUZ-Gold.png"
   },
   {
     "name": "Natus Vincere | Rio 2022",
@@ -582,7 +582,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910994,
     "BuffStickerId": 17460,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NatusVincere.png"
   },
   {
     "name": "Natus Vincere (Glitter) | Rio 2022",
@@ -591,7 +591,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911301,
     "BuffStickerId": 17602,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NatusVincere-Glitter.png"
   },
   {
     "name": "Natus Vincere (Holo) | Rio 2022",
@@ -600,7 +600,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911394,
     "BuffStickerId": 17683,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NatusVincere-Holo.png"
   },
   {
     "name": "Natus Vincere (Gold) | Rio 2022",
@@ -609,7 +609,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911383,
     "BuffStickerId": 17673,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NatusVincere-Gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Rio 2022",
@@ -618,7 +618,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911016,
     "BuffStickerId": 17471,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NinjasinPyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Glitter) | Rio 2022",
@@ -627,7 +627,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911206,
     "BuffStickerId": 17546,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NinjasinPyjamas-Glitter.png"
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | Rio 2022",
@@ -636,7 +636,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911205,
     "BuffStickerId": 17545,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NinjasinPyjamas-Holo.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | Rio 2022",
@@ -645,7 +645,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911703,
     "BuffStickerId": 17916,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NinjasinPyjamas-Gold.png"
   },
   {
     "name": "OG | Rio 2022",
@@ -654,7 +654,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911208,
     "BuffStickerId": 17548,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/OG.png"
   },
   {
     "name": "OG (Glitter) | Rio 2022",
@@ -663,7 +663,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911308,
     "BuffStickerId": 17604,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/OG-Glitter.png"
   },
   {
     "name": "OG (Holo) | Rio 2022",
@@ -672,7 +672,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911488,
     "BuffStickerId": 17753,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/OG-Holo.png"
   },
   {
     "name": "OG (Gold) | Rio 2022",
@@ -681,7 +681,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911531,
     "BuffStickerId": 17786,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/OG-Gold.png"
   },
   {
     "name": "Outsiders | Rio 2022",
@@ -690,7 +690,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911114,
     "BuffStickerId": 17491,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Outsiders.png"
   },
   {
     "name": "Outsiders (Glitter) | Rio 2022",
@@ -699,7 +699,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911092,
     "BuffStickerId": 17478,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Outsiders-Glitter.png"
   },
   {
     "name": "Outsiders (Holo) | Rio 2022",
@@ -708,7 +708,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911514,
     "BuffStickerId": 17772,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Outsiders-Holo.png"
   },
   {
     "name": "Outsiders (Gold) | Rio 2022",
@@ -717,7 +717,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911563,
     "BuffStickerId": 17816,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Outsiders-Gold.png"
   },
   {
     "name": "Sprout Esports | Rio 2022",
@@ -726,7 +726,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911012,
     "BuffStickerId": 17468,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SproutEsports.png"
   },
   {
     "name": "Sprout Esports (Glitter) | Rio 2022",
@@ -735,7 +735,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911004,
     "BuffStickerId": 17464,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SproutEsports-Glitter.png"
   },
   {
     "name": "Sprout Esports (Holo) | Rio 2022",
@@ -744,7 +744,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911391,
     "BuffStickerId": 17680,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SproutEsports-Holo.png"
   },
   {
     "name": "Sprout Esports (Gold) | Rio 2022",
@@ -753,7 +753,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911541,
     "BuffStickerId": 17796,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SproutEsports-Gold.png"
   },
   {
     "name": "Team Liquid | Rio 2022",
@@ -762,7 +762,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911096,
     "BuffStickerId": 17482,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamLiquid.png"
   },
   {
     "name": "Team Liquid (Glitter) | Rio 2022",
@@ -771,7 +771,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911097,
     "BuffStickerId": 17483,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamLiquid-Glitter.png"
   },
   {
     "name": "Team Liquid (Holo) | Rio 2022",
@@ -780,7 +780,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911404,
     "BuffStickerId": 17693,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamLiquid-Holo.png"
   },
   {
     "name": "Team Liquid (Gold) | Rio 2022",
@@ -789,7 +789,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911518,
     "BuffStickerId": 17774,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamLiquid-Gold.png"
   },
   {
     "name": "Team Spirit | Rio 2022",
@@ -798,7 +798,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910984,
     "BuffStickerId": 17457,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamSpirit.png"
   },
   {
     "name": "Team Spirit (Glitter) | Rio 2022",
@@ -807,7 +807,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911204,
     "BuffStickerId": 17544,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamSpirit-Glitter.png"
   },
   {
     "name": "Team Spirit (Holo) | Rio 2022",
@@ -816,7 +816,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911132,
     "BuffStickerId": 17508,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamSpirit-Holo.png"
   },
   {
     "name": "Team Spirit (Gold) | Rio 2022",
@@ -825,7 +825,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911586,
     "BuffStickerId": 17836,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeamSpirit-Gold.png"
   },
   {
     "name": "Vitality | Rio 2022",
@@ -834,7 +834,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911008,
     "BuffStickerId": 17467,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Vitality.png"
   },
   {
     "name": "Vitality (Glitter) | Rio 2022",
@@ -843,7 +843,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911207,
     "BuffStickerId": 17547,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Vitality-Glitter.png"
   },
   {
     "name": "Vitality (Holo) | Rio 2022",
@@ -852,7 +852,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911085,
     "BuffStickerId": 17473,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Vitality-Holo.png"
   },
   {
     "name": "Vitality (Gold) | Rio 2022",
@@ -861,7 +861,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911411,
     "BuffStickerId": 17700,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Vitality-Gold.png"
   },
   {
     "name": "IEM | Rio 2022",
@@ -870,7 +870,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910998,
     "BuffStickerId": 17462,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IEM.png"
   },
   {
     "name": "IEM (Glitter) | Rio 2022",
@@ -879,7 +879,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911131,
     "BuffStickerId": 17507,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IEM-Glitter.png"
   },
   {
     "name": "IEM (Holo) | Rio 2022",
@@ -888,7 +888,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911478,
     "BuffStickerId": 17747,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IEM-Holo.png"
   },
   {
     "name": "IEM (Gold) | Rio 2022",
@@ -897,7 +897,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911570,
     "BuffStickerId": 17821,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/IEM-Gold.png"
   },
   {
     "name": "acoR | Rio 2022",
@@ -906,7 +906,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911194,
     "BuffStickerId": 17535,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/acoR.png"
   },
   {
     "name": "acoR (Glitter) | Rio 2022",
@@ -915,7 +915,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911584,
     "BuffStickerId": 17834,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/acoR-Glitter.png"
   },
   {
     "name": "acoR (Holo) | Rio 2022",
@@ -924,7 +924,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911462,
     "BuffStickerId": 17731,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/acoR-Holo.png"
   },
   {
     "name": "acoR (Gold) | Rio 2022",
@@ -933,7 +933,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911842,
     "BuffStickerId": 18030,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/acoR-Gold.png"
   },
   {
     "name": "Aleksib | Rio 2022",
@@ -942,7 +942,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911361,
     "BuffStickerId": 17651,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Aleksib.png"
   },
   {
     "name": "Aleksib (Glitter) | Rio 2022",
@@ -951,7 +951,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911195,
     "BuffStickerId": 17536,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Aleksib-Glitter.png"
   },
   {
     "name": "Aleksib (Holo) | Rio 2022",
@@ -960,7 +960,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911702,
     "BuffStickerId": 17915,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Aleksib-Holo.png"
   },
   {
     "name": "Aleksib (Gold) | Rio 2022",
@@ -969,7 +969,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911673,
     "BuffStickerId": 17889,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Aleksib-Gold.png"
   },
   {
     "name": "aliStair | Rio 2022",
@@ -978,7 +978,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911471,
     "BuffStickerId": 17740,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/aliStair.png"
   },
   {
     "name": "aliStair (Glitter) | Rio 2022",
@@ -987,7 +987,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911501,
     "BuffStickerId": 17760,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/aliStair-Glitter.png"
   },
   {
     "name": "aliStair (Holo) | Rio 2022",
@@ -996,7 +996,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911718,
     "BuffStickerId": 17928,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/aliStair-Holo.png"
   },
   {
     "name": "aliStair (Gold) | Rio 2022",
@@ -1005,7 +1005,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911824,
     "BuffStickerId": 18012,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/aliStair-Gold.png"
   },
   {
     "name": "ANNIHILATION | Rio 2022",
@@ -1014,7 +1014,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911401,
     "BuffStickerId": 17690,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ANNIHILATION.png"
   },
   {
     "name": "ANNIHILATION (Glitter) | Rio 2022",
@@ -1023,7 +1023,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911487,
     "BuffStickerId": 17752,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ANNIHILATION-Glitter.png"
   },
   {
     "name": "ANNIHILATION (Holo) | Rio 2022",
@@ -1032,7 +1032,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911716,
     "BuffStickerId": 17926,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ANNIHILATION-Holo.png"
   },
   {
     "name": "ANNIHILATION (Gold) | Rio 2022",
@@ -1041,7 +1041,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911838,
     "BuffStickerId": 18026,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ANNIHILATION-Gold.png"
   },
   {
     "name": "apEX | Rio 2022",
@@ -1050,7 +1050,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911091,
     "BuffStickerId": 17477,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/apEX.png"
   },
   {
     "name": "apEX (Glitter) | Rio 2022",
@@ -1059,7 +1059,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911579,
     "BuffStickerId": 17829,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/apEX-Glitter.png"
   },
   {
     "name": "apEX (Holo) | Rio 2022",
@@ -1068,7 +1068,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911711,
     "BuffStickerId": 17924,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/apEX-Holo.png"
   },
   {
     "name": "apEX (Gold) | Rio 2022",
@@ -1077,7 +1077,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911583,
     "BuffStickerId": 17833,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/apEX-Gold.png"
   },
   {
     "name": "arT | Rio 2022",
@@ -1086,7 +1086,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911376,
     "BuffStickerId": 17666,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/arT.png"
   },
   {
     "name": "arT (Glitter) | Rio 2022",
@@ -1095,7 +1095,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911646,
     "BuffStickerId": 17867,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/arT-Glitter.png"
   },
   {
     "name": "arT (Holo) | Rio 2022",
@@ -1104,7 +1104,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911759,
     "BuffStickerId": 17963,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/arT-Holo.png"
   },
   {
     "name": "arT (Gold) | Rio 2022",
@@ -1113,7 +1113,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911778,
     "BuffStickerId": 17980,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/arT-Gold.png"
   },
   {
     "name": "autimatic | Rio 2022",
@@ -1122,7 +1122,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911279,
     "BuffStickerId": 17587,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/autimatic.png"
   },
   {
     "name": "autimatic (Glitter) | Rio 2022",
@@ -1131,7 +1131,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911415,
     "BuffStickerId": 17704,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/autimatic-Glitter.png"
   },
   {
     "name": "autimatic (Holo) | Rio 2022",
@@ -1140,7 +1140,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911548,
     "BuffStickerId": 17801,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/autimatic-Holo.png"
   },
   {
     "name": "autimatic (Gold) | Rio 2022",
@@ -1149,7 +1149,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911820,
     "BuffStickerId": 18010,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/autimatic-Gold.png"
   },
   {
     "name": "Ax1Le | Rio 2022",
@@ -1158,7 +1158,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911257,
     "BuffStickerId": 17568,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Ax1Le.png"
   },
   {
     "name": "Ax1Le (Glitter) | Rio 2022",
@@ -1167,7 +1167,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911393,
     "BuffStickerId": 17682,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Ax1Le-Glitter.png"
   },
   {
     "name": "Ax1Le (Holo) | Rio 2022",
@@ -1176,7 +1176,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911679,
     "BuffStickerId": 17895,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Ax1Le-Holo.png"
   },
   {
     "name": "Ax1Le (Gold) | Rio 2022",
@@ -1185,7 +1185,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911652,
     "BuffStickerId": 17873,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Ax1Le-Gold.png"
   },
   {
     "name": "b1t | Rio 2022",
@@ -1194,7 +1194,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911121,
     "BuffStickerId": 17498,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/b1t.png"
   },
   {
     "name": "b1t (Glitter) | Rio 2022",
@@ -1203,7 +1203,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911250,
     "BuffStickerId": 17561,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/b1t-Glitter.png"
   },
   {
     "name": "b1t (Holo) | Rio 2022",
@@ -1212,7 +1212,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911567,
     "BuffStickerId": 17818,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/b1t-Holo.png"
   },
   {
     "name": "b1t (Gold) | Rio 2022",
@@ -1221,7 +1221,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911720,
     "BuffStickerId": 17930,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/b1t-Gold.png"
   },
   {
     "name": "bLitz | Rio 2022",
@@ -1230,7 +1230,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911506,
     "BuffStickerId": 17765,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/bLitz.png"
   },
   {
     "name": "bLitz (Glitter) | Rio 2022",
@@ -1239,7 +1239,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911607,
     "BuffStickerId": 17852,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/bLitz-Glitter.png"
   },
   {
     "name": "bLitz (Holo) | Rio 2022",
@@ -1248,7 +1248,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911610,
     "BuffStickerId": 17855,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/bLitz-Holo.png"
   },
   {
     "name": "bLitz (Gold) | Rio 2022",
@@ -1257,7 +1257,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911861,
     "BuffStickerId": 18035,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/bLitz-Gold.png"
   },
   {
     "name": "boltz | Rio 2022",
@@ -1266,7 +1266,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911382,
     "BuffStickerId": 17672,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/boltz.png"
   },
   {
     "name": "boltz (Glitter) | Rio 2022",
@@ -1275,7 +1275,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911474,
     "BuffStickerId": 17743,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/boltz-Glitter.png"
   },
   {
     "name": "boltz (Holo) | Rio 2022",
@@ -1284,7 +1284,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911727,
     "BuffStickerId": 17937,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/boltz-Holo.png"
   },
   {
     "name": "boltz (Gold) | Rio 2022",
@@ -1293,7 +1293,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911843,
     "BuffStickerId": 18031,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/boltz-Gold.png"
   },
   {
     "name": "Brehze | Rio 2022",
@@ -1302,7 +1302,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911367,
     "BuffStickerId": 17657,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brehze.png"
   },
   {
     "name": "Brehze (Glitter) | Rio 2022",
@@ -1311,7 +1311,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911500,
     "BuffStickerId": 17759,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brehze-Glitter.png"
   },
   {
     "name": "Brehze (Holo) | Rio 2022",
@@ -1320,7 +1320,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911651,
     "BuffStickerId": 17872,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brehze-Holo.png"
   },
   {
     "name": "Brehze (Gold) | Rio 2022",
@@ -1329,7 +1329,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911801,
     "BuffStickerId": 17995,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brehze-Gold.png"
   },
   {
     "name": "broky | Rio 2022",
@@ -1338,7 +1338,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911124,
     "BuffStickerId": 17501,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/broky.png"
   },
   {
     "name": "broky (Glitter) | Rio 2022",
@@ -1347,7 +1347,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911354,
     "BuffStickerId": 17644,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/broky-Glitter.png"
   },
   {
     "name": "broky (Holo) | Rio 2022",
@@ -1356,7 +1356,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911641,
     "BuffStickerId": 17863,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/broky-Holo.png"
   },
   {
     "name": "broky (Gold) | Rio 2022",
@@ -1365,7 +1365,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911551,
     "BuffStickerId": 17804,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/broky-Gold.png"
   },
   {
     "name": "Brollan | Rio 2022",
@@ -1374,7 +1374,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911249,
     "BuffStickerId": 17560,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brollan.png"
   },
   {
     "name": "Brollan (Glitter) | Rio 2022",
@@ -1383,7 +1383,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911408,
     "BuffStickerId": 17697,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brollan-Glitter.png"
   },
   {
     "name": "Brollan (Holo) | Rio 2022",
@@ -1392,7 +1392,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911251,
     "BuffStickerId": 17562,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brollan-Holo.png"
   },
   {
     "name": "Brollan (Gold) | Rio 2022",
@@ -1401,7 +1401,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911099,
     "BuffStickerId": 17484,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Brollan-Gold.png"
   },
   {
     "name": "BUDA | Rio 2022",
@@ -1410,7 +1410,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911117,
     "BuffStickerId": 17494,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BUDA.png"
   },
   {
     "name": "BUDA (Glitter) | Rio 2022",
@@ -1419,7 +1419,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911587,
     "BuffStickerId": 17837,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BUDA-Glitter.png"
   },
   {
     "name": "BUDA (Holo) | Rio 2022",
@@ -1428,7 +1428,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911414,
     "BuffStickerId": 17703,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BUDA-Holo.png"
   },
   {
     "name": "BUDA (Gold) | Rio 2022",
@@ -1437,7 +1437,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911645,
     "BuffStickerId": 17866,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/BUDA-Gold.png"
   },
   {
     "name": "cadiaN | Rio 2022",
@@ -1446,7 +1446,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911122,
     "BuffStickerId": 17499,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/cadiaN.png"
   },
   {
     "name": "cadiaN (Glitter) | Rio 2022",
@@ -1455,7 +1455,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911337,
     "BuffStickerId": 17628,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/cadiaN-Glitter.png"
   },
   {
     "name": "cadiaN (Holo) | Rio 2022",
@@ -1464,7 +1464,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911509,
     "BuffStickerId": 17768,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/cadiaN-Holo.png"
   },
   {
     "name": "cadiaN (Gold) | Rio 2022",
@@ -1473,7 +1473,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911709,
     "BuffStickerId": 17922,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/cadiaN-Gold.png"
   },
   {
     "name": "CeRq | Rio 2022",
@@ -1482,7 +1482,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911316,
     "BuffStickerId": 17610,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/CeRq.png"
   },
   {
     "name": "CeRq (Glitter) | Rio 2022",
@@ -1491,7 +1491,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911580,
     "BuffStickerId": 17830,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/CeRq-Glitter.png"
   },
   {
     "name": "CeRq (Holo) | Rio 2022",
@@ -1500,7 +1500,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911701,
     "BuffStickerId": 17914,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/CeRq-Holo.png"
   },
   {
     "name": "CeRq (Gold) | Rio 2022",
@@ -1509,7 +1509,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911773,
     "BuffStickerId": 17975,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/CeRq-Gold.png"
   },
   {
     "name": "chelo | Rio 2022",
@@ -1518,7 +1518,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911468,
     "BuffStickerId": 17737,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chelo.png"
   },
   {
     "name": "chelo (Glitter) | Rio 2022",
@@ -1527,7 +1527,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911719,
     "BuffStickerId": 17929,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chelo-Glitter.png"
   },
   {
     "name": "chelo (Holo) | Rio 2022",
@@ -1536,7 +1536,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911726,
     "BuffStickerId": 17936,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chelo-Holo.png"
   },
   {
     "name": "chelo (Gold) | Rio 2022",
@@ -1545,7 +1545,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911819,
     "BuffStickerId": 18009,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chelo-Gold.png"
   },
   {
     "name": "chopper | Rio 2022",
@@ -1554,7 +1554,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911102,
     "BuffStickerId": 17487,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chopper.png"
   },
   {
     "name": "chopper (Glitter) | Rio 2022",
@@ -1563,7 +1563,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911406,
     "BuffStickerId": 17695,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chopper-Glitter.png"
   },
   {
     "name": "chopper (Holo) | Rio 2022",
@@ -1572,7 +1572,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911327,
     "BuffStickerId": 17620,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chopper-Holo.png"
   },
   {
     "name": "chopper (Gold) | Rio 2022",
@@ -1581,7 +1581,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911526,
     "BuffStickerId": 17781,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/chopper-Gold.png"
   },
   {
     "name": "coldzera | Rio 2022",
@@ -1590,7 +1590,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911399,
     "BuffStickerId": 17688,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/coldzera.png"
   },
   {
     "name": "coldzera (Glitter) | Rio 2022",
@@ -1599,7 +1599,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911674,
     "BuffStickerId": 17890,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/coldzera-Glitter.png"
   },
   {
     "name": "coldzera (Holo) | Rio 2022",
@@ -1608,7 +1608,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911671,
     "BuffStickerId": 17887,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/coldzera-Holo.png"
   },
   {
     "name": "coldzera (Gold) | Rio 2022",
@@ -1617,7 +1617,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911740,
     "BuffStickerId": 17949,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/coldzera-Gold.png"
   },
   {
     "name": "dav1deuS | Rio 2022",
@@ -1626,7 +1626,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911260,
     "BuffStickerId": 17571,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dav1deuS.png"
   },
   {
     "name": "dav1deuS (Glitter) | Rio 2022",
@@ -1635,7 +1635,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911366,
     "BuffStickerId": 17656,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dav1deuS-Glitter.png"
   },
   {
     "name": "dav1deuS (Holo) | Rio 2022",
@@ -1644,7 +1644,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911779,
     "BuffStickerId": 17981,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dav1deuS-Holo.png"
   },
   {
     "name": "dav1deuS (Gold) | Rio 2022",
@@ -1653,7 +1653,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911775,
     "BuffStickerId": 17977,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dav1deuS-Gold.png"
   },
   {
     "name": "degster | Rio 2022",
@@ -1662,7 +1662,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911325,
     "BuffStickerId": 17618,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/degster.png"
   },
   {
     "name": "degster (Glitter) | Rio 2022",
@@ -1671,7 +1671,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911513,
     "BuffStickerId": 17771,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/degster-Glitter.png"
   },
   {
     "name": "degster (Holo) | Rio 2022",
@@ -1680,7 +1680,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911693,
     "BuffStickerId": 17908,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/degster-Holo.png"
   },
   {
     "name": "degster (Gold) | Rio 2022",
@@ -1689,7 +1689,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911828,
     "BuffStickerId": 18016,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/degster-Gold.png"
   },
   {
     "name": "dexter | Rio 2022",
@@ -1698,7 +1698,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911326,
     "BuffStickerId": 17619,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dexter.png"
   },
   {
     "name": "dexter (Glitter) | Rio 2022",
@@ -1707,7 +1707,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911324,
     "BuffStickerId": 17617,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dexter-Glitter.png"
   },
   {
     "name": "dexter (Holo) | Rio 2022",
@@ -1716,7 +1716,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911731,
     "BuffStickerId": 17941,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dexter-Holo.png"
   },
   {
     "name": "dexter (Gold) | Rio 2022",
@@ -1725,7 +1725,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911742,
     "BuffStickerId": 17951,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dexter-Gold.png"
   },
   {
     "name": "dgt | Rio 2022",
@@ -1734,7 +1734,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911275,
     "BuffStickerId": 17583,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dgt.png"
   },
   {
     "name": "dgt (Glitter) | Rio 2022",
@@ -1743,7 +1743,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911259,
     "BuffStickerId": 17570,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dgt-Glitter.png"
   },
   {
     "name": "dgt (Holo) | Rio 2022",
@@ -1752,7 +1752,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911758,
     "BuffStickerId": 17962,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dgt-Holo.png"
   },
   {
     "name": "dgt (Gold) | Rio 2022",
@@ -1761,7 +1761,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911832,
     "BuffStickerId": 18020,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dgt-Gold.png"
   },
   {
     "name": "drop | Rio 2022",
@@ -1770,7 +1770,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911389,
     "BuffStickerId": 17678,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/drop.png"
   },
   {
     "name": "drop (Glitter) | Rio 2022",
@@ -1779,7 +1779,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911556,
     "BuffStickerId": 17809,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/drop-Glitter.png"
   },
   {
     "name": "drop (Holo) | Rio 2022",
@@ -1788,7 +1788,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911788,
     "BuffStickerId": 17986,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/drop-Holo.png"
   },
   {
     "name": "drop (Gold) | Rio 2022",
@@ -1797,7 +1797,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911833,
     "BuffStickerId": 18021,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/drop-Gold.png"
   },
   {
     "name": "dumau | Rio 2022",
@@ -1806,7 +1806,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911459,
     "BuffStickerId": 17728,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dumau.png"
   },
   {
     "name": "dumau (Glitter) | Rio 2022",
@@ -1815,7 +1815,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911357,
     "BuffStickerId": 17647,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dumau-Glitter.png"
   },
   {
     "name": "dumau (Holo) | Rio 2022",
@@ -1824,7 +1824,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911666,
     "BuffStickerId": 17883,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dumau-Holo.png"
   },
   {
     "name": "dumau (Gold) | Rio 2022",
@@ -1833,7 +1833,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911774,
     "BuffStickerId": 17976,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dumau-Gold.png"
   },
   {
     "name": "dupreeh | Rio 2022",
@@ -1842,7 +1842,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911197,
     "BuffStickerId": 17538,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dupreeh.png"
   },
   {
     "name": "dupreeh (Glitter) | Rio 2022",
@@ -1851,7 +1851,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911578,
     "BuffStickerId": 17828,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dupreeh-Glitter.png"
   },
   {
     "name": "dupreeh (Holo) | Rio 2022",
@@ -1860,7 +1860,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911372,
     "BuffStickerId": 17662,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dupreeh-Holo.png"
   },
   {
     "name": "dupreeh (Gold) | Rio 2022",
@@ -1869,7 +1869,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911777,
     "BuffStickerId": 17979,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dupreeh-Gold.png"
   },
   {
     "name": "dycha | Rio 2022",
@@ -1878,7 +1878,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911123,
     "BuffStickerId": 17500,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dycha.png"
   },
   {
     "name": "dycha (Glitter) | Rio 2022",
@@ -1887,7 +1887,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911581,
     "BuffStickerId": 17831,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dycha-Glitter.png"
   },
   {
     "name": "dycha (Holo) | Rio 2022",
@@ -1896,7 +1896,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911599,
     "BuffStickerId": 17846,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dycha-Holo.png"
   },
   {
     "name": "dycha (Gold) | Rio 2022",
@@ -1905,7 +1905,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911617,
     "BuffStickerId": 17861,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/dycha-Gold.png"
   },
   {
     "name": "electronic | Rio 2022",
@@ -1914,7 +1914,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911186,
     "BuffStickerId": 17527,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/electronic.png"
   },
   {
     "name": "electronic (Glitter) | Rio 2022",
@@ -1923,7 +1923,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911202,
     "BuffStickerId": 17543,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/electronic-Glitter.png"
   },
   {
     "name": "electronic (Holo) | Rio 2022",
@@ -1932,7 +1932,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911348,
     "BuffStickerId": 17638,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/electronic-Holo.png"
   },
   {
     "name": "electronic (Gold) | Rio 2022",
@@ -1941,7 +1941,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911656,
     "BuffStickerId": 17877,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/electronic-Gold.png"
   },
   {
     "name": "EliGE | Rio 2022",
@@ -1950,7 +1950,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911817,
     "BuffStickerId": 18007,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EliGE.png"
   },
   {
     "name": "EliGE (Glitter) | Rio 2022",
@@ -1959,7 +1959,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911818,
     "BuffStickerId": 18008,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EliGE-Glitter.png"
   },
   {
     "name": "EliGE (Holo) | Rio 2022",
@@ -1968,7 +1968,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911823,
     "BuffStickerId": 18011,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EliGE-Holo.png"
   },
   {
     "name": "EliGE (Gold) | Rio 2022",
@@ -1977,7 +1977,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911826,
     "BuffStickerId": 18044,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/EliGE-Gold.png"
   },
   {
     "name": "es3tag | Rio 2022",
@@ -1986,7 +1986,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911196,
     "BuffStickerId": 17537,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/es3tag.png"
   },
   {
     "name": "es3tag (Glitter) | Rio 2022",
@@ -1995,7 +1995,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911319,
     "BuffStickerId": 17612,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/es3tag-Glitter.png"
   },
   {
     "name": "es3tag (Holo) | Rio 2022",
@@ -2004,7 +2004,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911592,
     "BuffStickerId": 17842,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/es3tag-Holo.png"
   },
   {
     "name": "es3tag (Gold) | Rio 2022",
@@ -2013,7 +2013,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911335,
     "BuffStickerId": 17626,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/es3tag-Gold.png"
   },
   {
     "name": "F1KU | Rio 2022",
@@ -2022,7 +2022,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911403,
     "BuffStickerId": 17692,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/F1KU.png"
   },
   {
     "name": "F1KU (Glitter) | Rio 2022",
@@ -2031,7 +2031,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911598,
     "BuffStickerId": 17845,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/F1KU-Glitter.png"
   },
   {
     "name": "F1KU (Holo) | Rio 2022",
@@ -2040,7 +2040,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911681,
     "BuffStickerId": 17897,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/F1KU-Holo.png"
   },
   {
     "name": "F1KU (Gold) | Rio 2022",
@@ -2049,7 +2049,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911784,
     "BuffStickerId": 17983,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/F1KU-Gold.png"
   },
   {
     "name": "FalleN | Rio 2022",
@@ -2058,7 +2058,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911371,
     "BuffStickerId": 17661,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FalleN.png"
   },
   {
     "name": "FalleN (Glitter) | Rio 2022",
@@ -2067,7 +2067,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911729,
     "BuffStickerId": 17939,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FalleN-Glitter.png"
   },
   {
     "name": "FalleN (Holo) | Rio 2022",
@@ -2076,7 +2076,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911690,
     "BuffStickerId": 17905,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FalleN-Holo.png"
   },
   {
     "name": "FalleN (Gold) | Rio 2022",
@@ -2085,7 +2085,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911836,
     "BuffStickerId": 18024,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FalleN-Gold.png"
   },
   {
     "name": "fame | Rio 2022",
@@ -2094,7 +2094,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911386,
     "BuffStickerId": 17676,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame.png"
   },
   {
     "name": "fame (Glitter) | Rio 2022",
@@ -2103,7 +2103,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911453,
     "BuffStickerId": 17722,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Glitter.png"
   },
   {
     "name": "fame (Holo) | Rio 2022",
@@ -2112,7 +2112,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911815,
     "BuffStickerId": 18006,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Holo.png"
   },
   {
     "name": "fame (Gold) | Rio 2022",
@@ -2121,7 +2121,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911831,
     "BuffStickerId": 18019,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Gold.png"
   },
   {
     "name": "FASHR | Rio 2022",
@@ -2130,7 +2130,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911385,
     "BuffStickerId": 17675,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FASHR.png"
   },
   {
     "name": "FASHR (Glitter) | Rio 2022",
@@ -2139,7 +2139,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911558,
     "BuffStickerId": 17811,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FASHR-Glitter.png"
   },
   {
     "name": "FASHR (Holo) | Rio 2022",
@@ -2148,7 +2148,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911644,
     "BuffStickerId": 17865,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FASHR-Holo.png"
   },
   {
     "name": "FASHR (Gold) | Rio 2022",
@@ -2157,7 +2157,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911813,
     "BuffStickerId": 18004,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FASHR-Gold.png"
   },
   {
     "name": "faveN | Rio 2022",
@@ -2166,7 +2166,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911276,
     "BuffStickerId": 17584,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/faveN.png"
   },
   {
     "name": "faveN (Glitter) | Rio 2022",
@@ -2175,7 +2175,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911569,
     "BuffStickerId": 17820,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/faveN-Glitter.png"
   },
   {
     "name": "faveN (Holo) | Rio 2022",
@@ -2184,7 +2184,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911590,
     "BuffStickerId": 17840,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/faveN-Holo.png"
   },
   {
     "name": "faveN (Gold) | Rio 2022",
@@ -2193,7 +2193,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911834,
     "BuffStickerId": 18022,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/faveN-Gold.png"
   },
   {
     "name": "fer | Rio 2022",
@@ -2202,7 +2202,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911330,
     "BuffStickerId": 17623,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fer.png"
   },
   {
     "name": "fer (Glitter) | Rio 2022",
@@ -2211,7 +2211,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911717,
     "BuffStickerId": 17927,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fer-Glitter.png"
   },
   {
     "name": "fer (Holo) | Rio 2022",
@@ -2220,7 +2220,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911672,
     "BuffStickerId": 17888,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fer-Holo.png"
   },
   {
     "name": "fer (Gold) | Rio 2022",
@@ -2229,7 +2229,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911810,
     "BuffStickerId": 18002,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fer-Gold.png"
   },
   {
     "name": "FL1T | Rio 2022",
@@ -2238,7 +2238,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911261,
     "BuffStickerId": 17572,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T.png"
   },
   {
     "name": "FL1T (Glitter) | Rio 2022",
@@ -2247,7 +2247,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911549,
     "BuffStickerId": 17802,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Glitter.png"
   },
   {
     "name": "FL1T (Holo) | Rio 2022",
@@ -2256,7 +2256,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911557,
     "BuffStickerId": 17810,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Holo.png"
   },
   {
     "name": "FL1T (Gold) | Rio 2022",
@@ -2265,7 +2265,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911825,
     "BuffStickerId": 18013,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Gold.png"
   },
   {
     "name": "FlameZ | Rio 2022",
@@ -2274,7 +2274,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911283,
     "BuffStickerId": 17589,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FlameZ.png"
   },
   {
     "name": "FlameZ (Glitter) | Rio 2022",
@@ -2283,7 +2283,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911606,
     "BuffStickerId": 17851,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FlameZ-Glitter.png"
   },
   {
     "name": "FlameZ (Holo) | Rio 2022",
@@ -2292,7 +2292,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911649,
     "BuffStickerId": 17870,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FlameZ-Holo.png"
   },
   {
     "name": "FlameZ (Gold) | Rio 2022",
@@ -2301,7 +2301,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911795,
     "BuffStickerId": 17991,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FlameZ-Gold.png"
   },
   {
     "name": "frozen | Rio 2022",
@@ -2310,7 +2310,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911449,
     "BuffStickerId": 17718,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/frozen.png"
   },
   {
     "name": "frozen (Glitter) | Rio 2022",
@@ -2319,7 +2319,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911263,
     "BuffStickerId": 17574,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/frozen-Glitter.png"
   },
   {
     "name": "frozen (Holo) | Rio 2022",
@@ -2328,7 +2328,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911595,
     "BuffStickerId": 17844,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/frozen-Holo.png"
   },
   {
     "name": "frozen (Gold) | Rio 2022",
@@ -2337,7 +2337,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911761,
     "BuffStickerId": 17964,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/frozen-Gold.png"
   },
   {
     "name": "gxx- | Rio 2022",
@@ -2346,7 +2346,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911277,
     "BuffStickerId": 17585,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/gxx.png"
   },
   {
     "name": "gxx- (Glitter) | Rio 2022",
@@ -2355,7 +2355,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911418,
     "BuffStickerId": 17705,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/gxx-Glitter.png"
   },
   {
     "name": "gxx- (Holo) | Rio 2022",
@@ -2364,7 +2364,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911680,
     "BuffStickerId": 17896,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/gxx-Holo.png"
   },
   {
     "name": "gxx- (Gold) | Rio 2022",
@@ -2373,7 +2373,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911747,
     "BuffStickerId": 17955,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/gxx-Gold.png"
   },
   {
     "name": "hampus | Rio 2022",
@@ -2382,7 +2382,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911105,
     "BuffStickerId": 17490,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/hampus.png"
   },
   {
     "name": "hampus (Glitter) | Rio 2022",
@@ -2391,7 +2391,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911137,
     "BuffStickerId": 17512,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/hampus-Glitter.png"
   },
   {
     "name": "hampus (Holo) | Rio 2022",
@@ -2400,7 +2400,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911678,
     "BuffStickerId": 17894,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/hampus-Holo.png"
   },
   {
     "name": "hampus (Gold) | Rio 2022",
@@ -2409,7 +2409,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911694,
     "BuffStickerId": 17909,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/hampus-Gold.png"
   },
   {
     "name": "HexT | Rio 2022",
@@ -2418,7 +2418,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911284,
     "BuffStickerId": 17590,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/HexT.png"
   },
   {
     "name": "HexT (Glitter) | Rio 2022",
@@ -2427,7 +2427,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911503,
     "BuffStickerId": 17762,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/HexT-Glitter.png"
   },
   {
     "name": "HexT (Holo) | Rio 2022",
@@ -2436,7 +2436,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911688,
     "BuffStickerId": 17903,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/HexT-Holo.png"
   },
   {
     "name": "HexT (Gold) | Rio 2022",
@@ -2445,7 +2445,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911830,
     "BuffStickerId": 18018,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/HexT-Gold.png"
   },
   {
     "name": "Hobbit | Rio 2022",
@@ -2454,7 +2454,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911198,
     "BuffStickerId": 17539,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Hobbit.png"
   },
   {
     "name": "Hobbit (Glitter) | Rio 2022",
@@ -2463,7 +2463,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911522,
     "BuffStickerId": 17778,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Hobbit-Glitter.png"
   },
   {
     "name": "Hobbit (Holo) | Rio 2022",
@@ -2472,7 +2472,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911502,
     "BuffStickerId": 17761,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Hobbit-Holo.png"
   },
   {
     "name": "Hobbit (Gold) | Rio 2022",
@@ -2481,7 +2481,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911800,
     "BuffStickerId": 17994,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Hobbit-Gold.png"
   },
   {
     "name": "iM | Rio 2022",
@@ -2490,7 +2490,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911360,
     "BuffStickerId": 17650,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/iM.png"
   },
   {
     "name": "iM (Glitter) | Rio 2022",
@@ -2499,7 +2499,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911733,
     "BuffStickerId": 17943,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/iM-Glitter.png"
   },
   {
     "name": "iM (Holo) | Rio 2022",
@@ -2508,7 +2508,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911722,
     "BuffStickerId": 17932,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/iM-Holo.png"
   },
   {
     "name": "iM (Gold) | Rio 2022",
@@ -2517,7 +2517,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911612,
     "BuffStickerId": 17857,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/iM-Gold.png"
   },
   {
     "name": "INS | Rio 2022",
@@ -2526,7 +2526,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911358,
     "BuffStickerId": 17648,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/INS.png"
   },
   {
     "name": "INS (Glitter) | Rio 2022",
@@ -2535,7 +2535,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911585,
     "BuffStickerId": 17835,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/INS-Glitter.png"
   },
   {
     "name": "INS (Holo) | Rio 2022",
@@ -2544,7 +2544,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911748,
     "BuffStickerId": 17956,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/INS-Holo.png"
   },
   {
     "name": "INS (Gold) | Rio 2022",
@@ -2553,7 +2553,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911803,
     "BuffStickerId": 17997,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/INS-Gold.png"
   },
   {
     "name": "interz | Rio 2022",
@@ -2562,7 +2562,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911322,
     "BuffStickerId": 17615,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/interz.png"
   },
   {
     "name": "interz (Glitter) | Rio 2022",
@@ -2571,7 +2571,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911402,
     "BuffStickerId": 17691,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/interz-Glitter.png"
   },
   {
     "name": "interz (Holo) | Rio 2022",
@@ -2580,7 +2580,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911604,
     "BuffStickerId": 17849,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/interz-Holo.png"
   },
   {
     "name": "interz (Gold) | Rio 2022",
@@ -2589,7 +2589,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911829,
     "BuffStickerId": 18017,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/interz-Gold.png"
   },
   {
     "name": "isak | Rio 2022",
@@ -2598,7 +2598,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911476,
     "BuffStickerId": 17745,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/isak.png"
   },
   {
     "name": "isak (Glitter) | Rio 2022",
@@ -2607,7 +2607,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911654,
     "BuffStickerId": 17875,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/isak-Glitter.png"
   },
   {
     "name": "isak (Holo) | Rio 2022",
@@ -2616,7 +2616,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911381,
     "BuffStickerId": 17671,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/isak-Holo.png"
   },
   {
     "name": "isak (Gold) | Rio 2022",
@@ -2625,7 +2625,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911844,
     "BuffStickerId": 18032,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/isak-Gold.png"
   },
   {
     "name": "jabbi | Rio 2022",
@@ -2634,7 +2634,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911090,
     "BuffStickerId": 17476,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/jabbi.png"
   },
   {
     "name": "jabbi (Glitter) | Rio 2022",
@@ -2643,7 +2643,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911336,
     "BuffStickerId": 17627,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/jabbi-Glitter.png"
   },
   {
     "name": "jabbi (Holo) | Rio 2022",
@@ -2652,7 +2652,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911437,
     "BuffStickerId": 17712,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/jabbi-Holo.png"
   },
   {
     "name": "jabbi (Gold) | Rio 2022",
@@ -2661,7 +2661,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911508,
     "BuffStickerId": 17767,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/jabbi-Gold.png"
   },
   {
     "name": "Jame | Rio 2022",
@@ -2670,7 +2670,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911190,
     "BuffStickerId": 17531,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame.png"
   },
   {
     "name": "Jame (Glitter) | Rio 2022",
@@ -2679,7 +2679,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911535,
     "BuffStickerId": 17790,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Glitter.png"
   },
   {
     "name": "Jame (Holo) | Rio 2022",
@@ -2688,7 +2688,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911553,
     "BuffStickerId": 17806,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Holo.png"
   },
   {
     "name": "Jame (Gold) | Rio 2022",
@@ -2697,7 +2697,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911550,
     "BuffStickerId": 17803,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Gold.png"
   },
   {
     "name": "JDC | Rio 2022",
@@ -2706,7 +2706,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911490,
     "BuffStickerId": 17755,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/JDC.png"
   },
   {
     "name": "JDC (Glitter) | Rio 2022",
@@ -2715,7 +2715,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911697,
     "BuffStickerId": 17912,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/JDC-Glitter.png"
   },
   {
     "name": "JDC (Holo) | Rio 2022",
@@ -2724,7 +2724,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911571,
     "BuffStickerId": 17822,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/JDC-Holo.png"
   },
   {
     "name": "JDC (Gold) | Rio 2022",
@@ -2733,7 +2733,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911835,
     "BuffStickerId": 18023,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/JDC-Gold.png"
   },
   {
     "name": "juanflatroo | Rio 2022",
@@ -2742,7 +2742,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911280,
     "BuffStickerId": 17588,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/juanflatroo.png"
   },
   {
     "name": "juanflatroo (Glitter) | Rio 2022",
@@ -2751,7 +2751,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911473,
     "BuffStickerId": 17742,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/juanflatroo-Glitter.png"
   },
   {
     "name": "juanflatroo (Holo) | Rio 2022",
@@ -2760,7 +2760,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911685,
     "BuffStickerId": 17900,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/juanflatroo-Holo.png"
   },
   {
     "name": "juanflatroo (Gold) | Rio 2022",
@@ -2769,7 +2769,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911280,
     "BuffStickerId": 18001,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/juanflatroo-Gold.png"
   },
   {
     "name": "k1to | Rio 2022",
@@ -2778,7 +2778,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911087,
     "BuffStickerId": 17475,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/k1to.png"
   },
   {
     "name": "k1to (Glitter) | Rio 2022",
@@ -2787,7 +2787,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911504,
     "BuffStickerId": 17763,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/k1to-Glitter.png"
   },
   {
     "name": "k1to (Holo) | Rio 2022",
@@ -2796,7 +2796,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911684,
     "BuffStickerId": 17899,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/k1to-Holo.png"
   },
   {
     "name": "k1to (Gold) | Rio 2022",
@@ -2805,7 +2805,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911650,
     "BuffStickerId": 17871,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/k1to-Gold.png"
   },
   {
     "name": "kabal | Rio 2022",
@@ -2814,7 +2814,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911485,
     "BuffStickerId": 17750,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/kabal.png"
   },
   {
     "name": "kabal (Glitter) | Rio 2022",
@@ -2823,7 +2823,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911188,
     "BuffStickerId": 17529,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/kabal-Glitter.png"
   },
   {
     "name": "kabal (Holo) | Rio 2022",
@@ -2832,7 +2832,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911608,
     "BuffStickerId": 17853,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/kabal-Holo.png"
   },
   {
     "name": "kabal (Gold) | Rio 2022",
@@ -2841,7 +2841,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911768,
     "BuffStickerId": 17970,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/kabal-Gold.png"
   },
   {
     "name": "karrigan | Rio 2022",
@@ -2850,7 +2850,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911104,
     "BuffStickerId": 17489,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/karrigan.png"
   },
   {
     "name": "karrigan (Glitter) | Rio 2022",
@@ -2859,7 +2859,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911352,
     "BuffStickerId": 17642,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/karrigan-Glitter.png"
   },
   {
     "name": "karrigan (Holo) | Rio 2022",
@@ -2868,7 +2868,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911575,
     "BuffStickerId": 17825,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/karrigan-Holo.png"
   },
   {
     "name": "karrigan (Gold) | Rio 2022",
@@ -2877,7 +2877,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911715,
     "BuffStickerId": 17925,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/karrigan-Gold.png"
   },
   {
     "name": "Keoz | Rio 2022",
@@ -2886,7 +2886,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911369,
     "BuffStickerId": 17659,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Keoz.png"
   },
   {
     "name": "Keoz (Glitter) | Rio 2022",
@@ -2895,7 +2895,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911452,
     "BuffStickerId": 17721,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Keoz-Glitter.png"
   },
   {
     "name": "Keoz (Holo) | Rio 2022",
@@ -2904,7 +2904,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911710,
     "BuffStickerId": 17923,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Keoz-Holo.png"
   },
   {
     "name": "Keoz (Gold) | Rio 2022",
@@ -2913,7 +2913,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911609,
     "BuffStickerId": 17854,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Keoz-Gold.png"
   },
   {
     "name": "Krimbo | Rio 2022",
@@ -2922,7 +2922,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911286,
     "BuffStickerId": 17592,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Krimbo.png"
   },
   {
     "name": "Krimbo (Glitter) | Rio 2022",
@@ -2931,7 +2931,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911419,
     "BuffStickerId": 17706,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Krimbo-Glitter.png"
   },
   {
     "name": "Krimbo (Holo) | Rio 2022",
@@ -2940,7 +2940,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911307,
     "BuffStickerId": 17603,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Krimbo-Holo.png"
   },
   {
     "name": "Krimbo (Gold) | Rio 2022",
@@ -2949,7 +2949,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911771,
     "BuffStickerId": 17973,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Krimbo-Gold.png"
   },
   {
     "name": "KRIMZ | Rio 2022",
@@ -2958,7 +2958,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911187,
     "BuffStickerId": 17528,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KRIMZ.png"
   },
   {
     "name": "KRIMZ (Glitter) | Rio 2022",
@@ -2967,7 +2967,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911665,
     "BuffStickerId": 17882,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KRIMZ-Glitter.png"
   },
   {
     "name": "KRIMZ (Holo) | Rio 2022",
@@ -2976,7 +2976,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911721,
     "BuffStickerId": 17931,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KRIMZ-Holo.png"
   },
   {
     "name": "KRIMZ (Gold) | Rio 2022",
@@ -2985,7 +2985,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911691,
     "BuffStickerId": 17906,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KRIMZ-Gold.png"
   },
   {
     "name": "KSCERATO | Rio 2022",
@@ -2994,7 +2994,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911374,
     "BuffStickerId": 17664,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KSCERATO.png"
   },
   {
     "name": "KSCERATO (Glitter) | Rio 2022",
@@ -3003,7 +3003,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911532,
     "BuffStickerId": 17787,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KSCERATO-Glitter.png"
   },
   {
     "name": "KSCERATO (Holo) | Rio 2022",
@@ -3012,7 +3012,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911582,
     "BuffStickerId": 17832,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KSCERATO-Holo.png"
   },
   {
     "name": "KSCERATO (Gold) | Rio 2022",
@@ -3021,7 +3021,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911780,
     "BuffStickerId": 17982,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/KSCERATO-Gold.png"
   },
   {
     "name": "latto | Rio 2022",
@@ -3030,7 +3030,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911373,
     "BuffStickerId": 17663,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/latto.png"
   },
   {
     "name": "latto (Glitter) | Rio 2022",
@@ -3039,7 +3039,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911477,
     "BuffStickerId": 17746,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/latto-Glitter.png"
   },
   {
     "name": "latto (Holo) | Rio 2022",
@@ -3048,7 +3048,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911724,
     "BuffStickerId": 17934,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/latto-Holo.png"
   },
   {
     "name": "latto (Gold) | Rio 2022",
@@ -3057,7 +3057,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911764,
     "BuffStickerId": 17967,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/latto-Gold.png"
   },
   {
     "name": "lauNX | Rio 2022",
@@ -3066,7 +3066,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911119,
     "BuffStickerId": 17496,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/lauNX.png"
   },
   {
     "name": "lauNX (Glitter) | Rio 2022",
@@ -3075,7 +3075,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911343,
     "BuffStickerId": 17634,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/lauNX-Glitter.png"
   },
   {
     "name": "lauNX (Holo) | Rio 2022",
@@ -3084,7 +3084,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911409,
     "BuffStickerId": 17698,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/lauNX-Holo.png"
   },
   {
     "name": "lauNX (Gold) | Rio 2022",
@@ -3093,7 +3093,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911765,
     "BuffStickerId": 17968,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/lauNX-Gold.png"
   },
   {
     "name": "Liazz | Rio 2022",
@@ -3102,7 +3102,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911192,
     "BuffStickerId": 17533,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Liazz.png"
   },
   {
     "name": "Liazz (Glitter) | Rio 2022",
@@ -3111,7 +3111,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911505,
     "BuffStickerId": 17764,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Liazz-Glitter.png"
   },
   {
     "name": "Liazz (Holo) | Rio 2022",
@@ -3120,7 +3120,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911533,
     "BuffStickerId": 17788,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Liazz-Holo.png"
   },
   {
     "name": "Liazz (Gold) | Rio 2022",
@@ -3129,7 +3129,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911799,
     "BuffStickerId": 17993,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Liazz-Gold.png"
   },
   {
     "name": "maden | Rio 2022",
@@ -3138,7 +3138,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911002,
     "BuffStickerId": 17463,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/maden.png"
   },
   {
     "name": "maden (Glitter) | Rio 2022",
@@ -3147,7 +3147,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911150,
     "BuffStickerId": 17519,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/maden-Glitter.png"
   },
   {
     "name": "maden (Holo) | Rio 2022",
@@ -3156,7 +3156,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911546,
     "BuffStickerId": 17799,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/maden-Holo.png"
   },
   {
     "name": "maden (Gold) | Rio 2022",
@@ -3165,7 +3165,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911547,
     "BuffStickerId": 17800,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/maden-Gold.png"
   },
   {
     "name": "Magisk | Rio 2022",
@@ -3174,7 +3174,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911370,
     "BuffStickerId": 17660,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Magisk.png"
   },
   {
     "name": "Magisk (Glitter) | Rio 2022",
@@ -3183,7 +3183,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911329,
     "BuffStickerId": 17622,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Magisk-Glitter.png"
   },
   {
     "name": "Magisk (Holo) | Rio 2022",
@@ -3192,7 +3192,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911572,
     "BuffStickerId": 17823,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Magisk-Holo.png"
   },
   {
     "name": "Magisk (Gold) | Rio 2022",
@@ -3201,7 +3201,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911839,
     "BuffStickerId": 18027,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Magisk-Gold.png"
   },
   {
     "name": "magixx | Rio 2022",
@@ -3210,7 +3210,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911269,
     "BuffStickerId": 17579,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/magixx.png"
   },
   {
     "name": "magixx (Glitter) | Rio 2022",
@@ -3219,7 +3219,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911340,
     "BuffStickerId": 17631,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/magixx-Glitter.png"
   },
   {
     "name": "magixx (Holo) | Rio 2022",
@@ -3228,7 +3228,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911568,
     "BuffStickerId": 17819,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/magixx-Holo.png"
   },
   {
     "name": "magixx (Gold) | Rio 2022",
@@ -3237,7 +3237,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911695,
     "BuffStickerId": 17910,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/magixx-Gold.png"
   },
   {
     "name": "max | Rio 2022",
@@ -3246,7 +3246,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911346,
     "BuffStickerId": 17637,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/max.png"
   },
   {
     "name": "max (Glitter) | Rio 2022",
@@ -3255,7 +3255,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911512,
     "BuffStickerId": 17770,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/max-Glitter.png"
   },
   {
     "name": "max (Holo) | Rio 2022",
@@ -3264,7 +3264,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911749,
     "BuffStickerId": 17957,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/max-Holo.png"
   },
   {
     "name": "max (Gold) | Rio 2022",
@@ -3273,7 +3273,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911677,
     "BuffStickerId": 17893,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/max-Gold.png"
   },
   {
     "name": "mezii | Rio 2022",
@@ -3282,7 +3282,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911359,
     "BuffStickerId": 17649,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/mezii.png"
   },
   {
     "name": "mezii (Glitter) | Rio 2022",
@@ -3291,7 +3291,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911469,
     "BuffStickerId": 17738,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/mezii-Glitter.png"
   },
   {
     "name": "mezii (Holo) | Rio 2022",
@@ -3300,7 +3300,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911770,
     "BuffStickerId": 17972,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/mezii-Holo.png"
   },
   {
     "name": "mezii (Gold) | Rio 2022",
@@ -3309,7 +3309,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911806,
     "BuffStickerId": 17999,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/mezii-Gold.png"
   },
   {
     "name": "n0rb3r7 | Rio 2022",
@@ -3318,7 +3318,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911545,
     "BuffStickerId": 17798,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7.png"
   },
   {
     "name": "n0rb3r7 (Glitter) | Rio 2022",
@@ -3327,7 +3327,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911296,
     "BuffStickerId": 17597,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Glitter.png"
   },
   {
     "name": "n0rb3r7 (Holo) | Rio 2022",
@@ -3336,7 +3336,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911388,
     "BuffStickerId": 17677,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Holo.png"
   },
   {
     "name": "n0rb3r7 (Gold) | Rio 2022",
@@ -3345,7 +3345,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911752,
     "BuffStickerId": 17959,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Gold.png"
   },
   {
     "name": "NAF | Rio 2022",
@@ -3354,7 +3354,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911278,
     "BuffStickerId": 17586,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NAF.png"
   },
   {
     "name": "NAF (Glitter) | Rio 2022",
@@ -3363,7 +3363,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911338,
     "BuffStickerId": 17629,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NAF-Glitter.png"
   },
   {
     "name": "NAF (Holo) | Rio 2022",
@@ -3372,7 +3372,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911591,
     "BuffStickerId": 17841,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NAF-Holo.png"
   },
   {
     "name": "NAF (Gold) | Rio 2022",
@@ -3381,7 +3381,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911616,
     "BuffStickerId": 17860,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NAF-Gold.png"
   },
   {
     "name": "nafany | Rio 2022",
@@ -3390,7 +3390,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911151,
     "BuffStickerId": 17520,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nafany.png"
   },
   {
     "name": "nafany (Glitter) | Rio 2022",
@@ -3399,7 +3399,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911355,
     "BuffStickerId": 17645,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nafany-Glitter.png"
   },
   {
     "name": "nafany (Holo) | Rio 2022",
@@ -3408,7 +3408,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911743,
     "BuffStickerId": 17952,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nafany-Holo.png"
   },
   {
     "name": "nafany (Gold) | Rio 2022",
@@ -3417,7 +3417,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911792,
     "BuffStickerId": 17988,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nafany-Gold.png"
   },
   {
     "name": "neaLaN | Rio 2022",
@@ -3426,7 +3426,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911328,
     "BuffStickerId": 17621,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/neaLaN.png"
   },
   {
     "name": "neaLaN (Glitter) | Rio 2022",
@@ -3435,7 +3435,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911538,
     "BuffStickerId": 17793,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/neaLaN-Glitter.png"
   },
   {
     "name": "neaLaN (Holo) | Rio 2022",
@@ -3444,7 +3444,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911785,
     "BuffStickerId": 17984,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/neaLaN-Holo.png"
   },
   {
     "name": "neaLaN (Gold) | Rio 2022",
@@ -3453,7 +3453,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911805,
     "BuffStickerId": 17998,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/neaLaN-Gold.png"
   },
   {
     "name": "NEOFRAG | Rio 2022",
@@ -3462,7 +3462,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911285,
     "BuffStickerId": 17591,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NEOFRAG.png"
   },
   {
     "name": "NEOFRAG (Glitter) | Rio 2022",
@@ -3471,7 +3471,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911339,
     "BuffStickerId": 17630,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NEOFRAG-Glitter.png"
   },
   {
     "name": "NEOFRAG (Holo) | Rio 2022",
@@ -3480,7 +3480,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911640,
     "BuffStickerId": 17862,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NEOFRAG-Holo.png"
   },
   {
     "name": "NEOFRAG (Gold) | Rio 2022",
@@ -3489,7 +3489,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911787,
     "BuffStickerId": 17985,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NEOFRAG-Gold.png"
   },
   {
     "name": "nexa | Rio 2022",
@@ -3498,7 +3498,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911265,
     "BuffStickerId": 17576,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nexa.png"
   },
   {
     "name": "nexa (Glitter) | Rio 2022",
@@ -3507,7 +3507,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911312,
     "BuffStickerId": 17606,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nexa-Glitter.png"
   },
   {
     "name": "nexa (Holo) | Rio 2022",
@@ -3516,7 +3516,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911736,
     "BuffStickerId": 17946,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nexa-Holo.png"
   },
   {
     "name": "nexa (Gold) | Rio 2022",
@@ -3525,7 +3525,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911314,
     "BuffStickerId": 17608,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nexa-Gold.png"
   },
   {
     "name": "nicoodoz | Rio 2022",
@@ -3534,7 +3534,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911461,
     "BuffStickerId": 17730,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nicoodoz.png"
   },
   {
     "name": "nicoodoz (Glitter) | Rio 2022",
@@ -3543,7 +3543,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911704,
     "BuffStickerId": 17917,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nicoodoz-Glitter.png"
   },
   {
     "name": "nicoodoz (Holo) | Rio 2022",
@@ -3552,7 +3552,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911707,
     "BuffStickerId": 17920,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nicoodoz-Holo.png"
   },
   {
     "name": "nicoodoz (Gold) | Rio 2022",
@@ -3561,7 +3561,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911793,
     "BuffStickerId": 17989,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nicoodoz-Gold.png"
   },
   {
     "name": "nitr0 | Rio 2022",
@@ -3570,7 +3570,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911267,
     "BuffStickerId": 17578,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nitr0.png"
   },
   {
     "name": "nitr0 (Glitter) | Rio 2022",
@@ -3579,7 +3579,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911321,
     "BuffStickerId": 17614,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nitr0-Glitter.png"
   },
   {
     "name": "nitr0 (Holo) | Rio 2022",
@@ -3588,7 +3588,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911412,
     "BuffStickerId": 17701,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nitr0-Holo.png"
   },
   {
     "name": "nitr0 (Gold) | Rio 2022",
@@ -3597,7 +3597,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911537,
     "BuffStickerId": 17792,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/nitr0-Gold.png"
   },
   {
     "name": "NQZ | Rio 2022",
@@ -3606,7 +3606,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911199,
     "BuffStickerId": 17540,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NQZ.png"
   },
   {
     "name": "NQZ (Glitter) | Rio 2022",
@@ -3615,7 +3615,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911536,
     "BuffStickerId": 17791,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NQZ-Glitter.png"
   },
   {
     "name": "NQZ (Holo) | Rio 2022",
@@ -3624,7 +3624,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911675,
     "BuffStickerId": 17891,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NQZ-Holo.png"
   },
   {
     "name": "NQZ (Gold) | Rio 2022",
@@ -3633,7 +3633,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911840,
     "BuffStickerId": 18028,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/NQZ-Gold.png"
   },
   {
     "name": "oSee | Rio 2022",
@@ -3642,7 +3642,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911133,
     "BuffStickerId": 17509,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/oSee.png"
   },
   {
     "name": "oSee (Glitter) | Rio 2022",
@@ -3651,7 +3651,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911421,
     "BuffStickerId": 17708,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/oSee-Glitter.png"
   },
   {
     "name": "oSee (Holo) | Rio 2022",
@@ -3660,7 +3660,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911576,
     "BuffStickerId": 17826,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/oSee-Holo.png"
   },
   {
     "name": "oSee (Gold) | Rio 2022",
@@ -3669,7 +3669,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911682,
     "BuffStickerId": 17898,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/oSee-Gold.png"
   },
   {
     "name": "Patsi | Rio 2022",
@@ -3678,7 +3678,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911126,
     "BuffStickerId": 17503,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Patsi.png"
   },
   {
     "name": "Patsi (Glitter) | Rio 2022",
@@ -3687,7 +3687,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911272,
     "BuffStickerId": 17582,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Patsi-Glitter.png"
   },
   {
     "name": "Patsi (Holo) | Rio 2022",
@@ -3696,7 +3696,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911363,
     "BuffStickerId": 17653,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Patsi-Holo.png"
   },
   {
     "name": "Patsi (Gold) | Rio 2022",
@@ -3705,7 +3705,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911648,
     "BuffStickerId": 17869,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Patsi-Gold.png"
   },
   {
     "name": "Perfecto | Rio 2022",
@@ -3714,7 +3714,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911317,
     "BuffStickerId": 17611,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Perfecto.png"
   },
   {
     "name": "Perfecto (Glitter) | Rio 2022",
@@ -3723,7 +3723,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911103,
     "BuffStickerId": 17488,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Perfecto-Glitter.png"
   },
   {
     "name": "Perfecto (Holo) | Rio 2022",
@@ -3732,7 +3732,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911499,
     "BuffStickerId": 17758,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Perfecto-Holo.png"
   },
   {
     "name": "Perfecto (Gold) | Rio 2022",
@@ -3741,7 +3741,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911732,
     "BuffStickerId": 17942,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Perfecto-Gold.png"
   },
   {
     "name": "qikert | Rio 2022",
@@ -3750,7 +3750,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911392,
     "BuffStickerId": 17681,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert.png"
   },
   {
     "name": "qikert (Glitter) | Rio 2022",
@@ -3759,7 +3759,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911390,
     "BuffStickerId": 17679,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Glitter.png"
   },
   {
     "name": "qikert (Holo) | Rio 2022",
@@ -3768,7 +3768,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911705,
     "BuffStickerId": 17918,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Holo.png"
   },
   {
     "name": "qikert (Gold) | Rio 2022",
@@ -3777,7 +3777,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911706,
     "BuffStickerId": 17919,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Gold.png"
   },
   {
     "name": "rain | Rio 2022",
@@ -3786,7 +3786,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911128,
     "BuffStickerId": 17504,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rain.png"
   },
   {
     "name": "rain (Glitter) | Rio 2022",
@@ -3795,7 +3795,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911320,
     "BuffStickerId": 17613,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rain-Glitter.png"
   },
   {
     "name": "rain (Holo) | Rio 2022",
@@ -3804,7 +3804,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911601,
     "BuffStickerId": 17848,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rain-Holo.png"
   },
   {
     "name": "rain (Gold) | Rio 2022",
@@ -3813,7 +3813,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911746,
     "BuffStickerId": 17954,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rain-Gold.png"
   },
   {
     "name": "refrezh | Rio 2022",
@@ -3822,7 +3822,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911095,
     "BuffStickerId": 17481,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/refrezh.png"
   },
   {
     "name": "refrezh (Glitter) | Rio 2022",
@@ -3831,7 +3831,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911446,
     "BuffStickerId": 17716,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/refrezh-Glitter.png"
   },
   {
     "name": "refrezh (Holo) | Rio 2022",
@@ -3840,7 +3840,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911423,
     "BuffStickerId": 17710,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/refrezh-Holo.png"
   },
   {
     "name": "refrezh (Gold) | Rio 2022",
@@ -3849,7 +3849,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911614,
     "BuffStickerId": 17858,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/refrezh-Gold.png"
   },
   {
     "name": "REZ | Rio 2022",
@@ -3858,7 +3858,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911130,
     "BuffStickerId": 17506,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/REZ.png"
   },
   {
     "name": "REZ (Glitter) | Rio 2022",
@@ -3867,7 +3867,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911344,
     "BuffStickerId": 17635,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/REZ-Glitter.png"
   },
   {
     "name": "REZ (Holo) | Rio 2022",
@@ -3876,7 +3876,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911467,
     "BuffStickerId": 17736,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/REZ-Holo.png"
   },
   {
     "name": "REZ (Gold) | Rio 2022",
@@ -3885,7 +3885,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911463,
     "BuffStickerId": 17732,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/REZ-Gold.png"
   },
   {
     "name": "rigoN | Rio 2022",
@@ -3894,7 +3894,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911193,
     "BuffStickerId": 17534,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rigoN.png"
   },
   {
     "name": "rigoN (Glitter) | Rio 2022",
@@ -3903,7 +3903,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911422,
     "BuffStickerId": 17709,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rigoN-Glitter.png"
   },
   {
     "name": "rigoN (Holo) | Rio 2022",
@@ -3912,7 +3912,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911744,
     "BuffStickerId": 17953,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rigoN-Holo.png"
   },
   {
     "name": "rigoN (Gold) | Rio 2022",
@@ -3921,7 +3921,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911525,
     "BuffStickerId": 17780,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/rigoN-Gold.png"
   },
   {
     "name": "roeJ | Rio 2022",
@@ -3930,7 +3930,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911365,
     "BuffStickerId": 17655,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/roeJ.png"
   },
   {
     "name": "roeJ (Glitter) | Rio 2022",
@@ -3939,7 +3939,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911588,
     "BuffStickerId": 17838,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/roeJ-Glitter.png"
   },
   {
     "name": "roeJ (Holo) | Rio 2022",
@@ -3948,7 +3948,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911667,
     "BuffStickerId": 17884,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/roeJ-Holo.png"
   },
   {
     "name": "roeJ (Gold) | Rio 2022",
@@ -3957,7 +3957,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911738,
     "BuffStickerId": 17948,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/roeJ-Gold.png"
   },
   {
     "name": "ropz | Rio 2022",
@@ -3966,7 +3966,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911201,
     "BuffStickerId": 17542,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ropz.png"
   },
   {
     "name": "ropz (Glitter) | Rio 2022",
@@ -3975,7 +3975,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911157,
     "BuffStickerId": 17526,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ropz-Glitter.png"
   },
   {
     "name": "ropz (Holo) | Rio 2022",
@@ -3984,7 +3984,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911395,
     "BuffStickerId": 17684,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ropz-Holo.png"
   },
   {
     "name": "ropz (Gold) | Rio 2022",
@@ -3993,7 +3993,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911741,
     "BuffStickerId": 17950,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ropz-Gold.png"
   },
   {
     "name": "s1mple | Rio 2022",
@@ -4002,7 +4002,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911006,
     "BuffStickerId": 17465,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/s1mple.png"
   },
   {
     "name": "s1mple (Glitter) | Rio 2022",
@@ -4011,7 +4011,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911155,
     "BuffStickerId": 17524,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/s1mple-Glitter.png"
   },
   {
     "name": "s1mple (Holo) | Rio 2022",
@@ -4020,7 +4020,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911313,
     "BuffStickerId": 17607,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/s1mple-Holo.png"
   },
   {
     "name": "s1mple (Gold) | Rio 2022",
@@ -4029,7 +4029,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911349,
     "BuffStickerId": 17639,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/s1mple-Gold.png"
   },
   {
     "name": "S1ren | Rio 2022",
@@ -4038,7 +4038,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911101,
     "BuffStickerId": 17486,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/S1ren.png"
   },
   {
     "name": "S1ren (Glitter) | Rio 2022",
@@ -4047,7 +4047,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911139,
     "BuffStickerId": 17514,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/S1ren-Glitter.png"
   },
   {
     "name": "S1ren (Holo) | Rio 2022",
@@ -4056,7 +4056,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911377,
     "BuffStickerId": 17667,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/S1ren-Holo.png"
   },
   {
     "name": "S1ren (Gold) | Rio 2022",
@@ -4065,7 +4065,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911445,
     "BuffStickerId": 17715,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/S1ren-Gold.png"
   },
   {
     "name": "saffee | Rio 2022",
@@ -4074,7 +4074,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911472,
     "BuffStickerId": 17741,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/saffee.png"
   },
   {
     "name": "saffee (Glitter) | Rio 2022",
@@ -4083,7 +4083,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911466,
     "BuffStickerId": 17735,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/saffee-Glitter.png"
   },
   {
     "name": "saffee (Holo) | Rio 2022",
@@ -4092,7 +4092,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911520,
     "BuffStickerId": 17776,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/saffee-Holo.png"
   },
   {
     "name": "saffee (Gold) | Rio 2022",
@@ -4101,7 +4101,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911848,
     "BuffStickerId": 18034,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/saffee-Gold.png"
   },
   {
     "name": "sdy | Rio 2022",
@@ -4110,7 +4110,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911100,
     "BuffStickerId": 17485,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sdy.png"
   },
   {
     "name": "sdy (Glitter) | Rio 2022",
@@ -4119,7 +4119,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911219,
     "BuffStickerId": 17556,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sdy-Glitter.png"
   },
   {
     "name": "sdy (Holo) | Rio 2022",
@@ -4128,7 +4128,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911378,
     "BuffStickerId": 17668,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sdy-Holo.png"
   },
   {
     "name": "sdy (Gold) | Rio 2022",
@@ -4137,7 +4137,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911750,
     "BuffStickerId": 17958,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sdy-Gold.png"
   },
   {
     "name": "SENER1 | Rio 2022",
@@ -4146,7 +4146,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911297,
     "BuffStickerId": 17598,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SENER1.png"
   },
   {
     "name": "SENER1 (Glitter) | Rio 2022",
@@ -4155,7 +4155,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911464,
     "BuffStickerId": 17733,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SENER1-Glitter.png"
   },
   {
     "name": "SENER1 (Holo) | Rio 2022",
@@ -4164,7 +4164,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911692,
     "BuffStickerId": 17907,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SENER1-Holo.png"
   },
   {
     "name": "SENER1 (Gold) | Rio 2022",
@@ -4173,7 +4173,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911808,
     "BuffStickerId": 18000,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SENER1-Gold.png"
   },
   {
     "name": "sh1ro | Rio 2022",
@@ -4182,7 +4182,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911396,
     "BuffStickerId": 17685,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sh1ro.png"
   },
   {
     "name": "sh1ro (Glitter) | Rio 2022",
@@ -4191,7 +4191,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911521,
     "BuffStickerId": 17777,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sh1ro-Glitter.png"
   },
   {
     "name": "sh1ro (Holo) | Rio 2022",
@@ -4200,7 +4200,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911594,
     "BuffStickerId": 17843,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sh1ro-Holo.png"
   },
   {
     "name": "sh1ro (Gold) | Rio 2022",
@@ -4209,7 +4209,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911762,
     "BuffStickerId": 17965,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sh1ro-Gold.png"
   },
   {
     "name": "Sico | Rio 2022",
@@ -4218,7 +4218,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911400,
     "BuffStickerId": 17689,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Sico.png"
   },
   {
     "name": "Sico (Glitter) | Rio 2022",
@@ -4227,7 +4227,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911456,
     "BuffStickerId": 17725,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Sico-Glitter.png"
   },
   {
     "name": "Sico (Holo) | Rio 2022",
@@ -4236,7 +4236,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911555,
     "BuffStickerId": 17808,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Sico-Holo.png"
   },
   {
     "name": "Sico (Gold) | Rio 2022",
@@ -4245,7 +4245,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911794,
     "BuffStickerId": 17990,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Sico-Gold.png"
   },
   {
     "name": "sinnopsyy | Rio 2022",
@@ -4254,7 +4254,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911425,
     "BuffStickerId": 17711,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sinnopsyy.png"
   },
   {
     "name": "sinnopsyy (Glitter) | Rio 2022",
@@ -4263,7 +4263,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911323,
     "BuffStickerId": 17616,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sinnopsyy-Glitter.png"
   },
   {
     "name": "sinnopsyy (Holo) | Rio 2022",
@@ -4272,7 +4272,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911686,
     "BuffStickerId": 17901,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sinnopsyy-Holo.png"
   },
   {
     "name": "sinnopsyy (Gold) | Rio 2022",
@@ -4281,7 +4281,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911796,
     "BuffStickerId": 17992,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sinnopsyy-Gold.png"
   },
   {
     "name": "siuhy | Rio 2022",
@@ -4290,7 +4290,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911315,
     "BuffStickerId": 17609,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/siuhy.png"
   },
   {
     "name": "siuhy (Glitter) | Rio 2022",
@@ -4299,7 +4299,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911734,
     "BuffStickerId": 17944,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/siuhy-Glitter.png"
   },
   {
     "name": "siuhy (Holo) | Rio 2022",
@@ -4308,7 +4308,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911776,
     "BuffStickerId": 17978,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/siuhy-Holo.png"
   },
   {
     "name": "siuhy (Gold) | Rio 2022",
@@ -4317,7 +4317,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911791,
     "BuffStickerId": 17987,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/siuhy-Gold.png"
   },
   {
     "name": "sjuush | Rio 2022",
@@ -4326,7 +4326,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911129,
     "BuffStickerId": 17505,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sjuush.png"
   },
   {
     "name": "sjuush (Glitter) | Rio 2022",
@@ -4335,7 +4335,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911156,
     "BuffStickerId": 17525,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sjuush-Glitter.png"
   },
   {
     "name": "sjuush (Holo) | Rio 2022",
@@ -4344,7 +4344,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911438,
     "BuffStickerId": 17713,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sjuush-Holo.png"
   },
   {
     "name": "sjuush (Gold) | Rio 2022",
@@ -4353,7 +4353,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911735,
     "BuffStickerId": 17945,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sjuush-Gold.png"
   },
   {
     "name": "sk0r | Rio 2022",
@@ -4362,7 +4362,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911420,
     "BuffStickerId": 17707,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sk0r.png"
   },
   {
     "name": "sk0r (Glitter) | Rio 2022",
@@ -4371,7 +4371,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911561,
     "BuffStickerId": 17814,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sk0r-Glitter.png"
   },
   {
     "name": "sk0r (Holo) | Rio 2022",
@@ -4380,7 +4380,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911676,
     "BuffStickerId": 17892,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sk0r-Holo.png"
   },
   {
     "name": "sk0r (Gold) | Rio 2022",
@@ -4389,7 +4389,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911767,
     "BuffStickerId": 17969,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/sk0r-Gold.png"
   },
   {
     "name": "slaxz- | Rio 2022",
@@ -4398,7 +4398,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911118,
     "BuffStickerId": 17495,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/slaxz.png"
   },
   {
     "name": "slaxz- (Glitter) | Rio 2022",
@@ -4407,7 +4407,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911134,
     "BuffStickerId": 17510,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/slaxz-Glitter.png"
   },
   {
     "name": "slaxz- (Holo) | Rio 2022",
@@ -4416,7 +4416,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911540,
     "BuffStickerId": 17795,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/slaxz-Holo.png"
   },
   {
     "name": "slaxz- (Gold) | Rio 2022",
@@ -4425,7 +4425,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911689,
     "BuffStickerId": 17904,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/slaxz-Gold.png"
   },
   {
     "name": "Snappi | Rio 2022",
@@ -4434,7 +4434,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911200,
     "BuffStickerId": 17541,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Snappi.png"
   },
   {
     "name": "Snappi (Glitter) | Rio 2022",
@@ -4443,7 +4443,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911364,
     "BuffStickerId": 17654,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Snappi-Glitter.png"
   },
   {
     "name": "Snappi (Holo) | Rio 2022",
@@ -4452,7 +4452,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911454,
     "BuffStickerId": 17723,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Snappi-Holo.png"
   },
   {
     "name": "Snappi (Gold) | Rio 2022",
@@ -4461,7 +4461,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911519,
     "BuffStickerId": 17775,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Snappi-Gold.png"
   },
   {
     "name": "Spinx | Rio 2022",
@@ -4470,7 +4470,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911258,
     "BuffStickerId": 17569,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Spinx.png"
   },
   {
     "name": "Spinx (Glitter) | Rio 2022",
@@ -4479,7 +4479,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911470,
     "BuffStickerId": 17739,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Spinx-Glitter.png"
   },
   {
     "name": "Spinx (Holo) | Rio 2022",
@@ -4488,7 +4488,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911455,
     "BuffStickerId": 17724,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Spinx-Holo.png"
   },
   {
     "name": "Spinx (Gold) | Rio 2022",
@@ -4497,7 +4497,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911643,
     "BuffStickerId": 17864,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Spinx-Gold.png"
   },
   {
     "name": "Staehr | Rio 2022",
@@ -4506,7 +4506,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911264,
     "BuffStickerId": 17575,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Staehr.png"
   },
   {
     "name": "Staehr (Glitter) | Rio 2022",
@@ -4515,7 +4515,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911252,
     "BuffStickerId": 17563,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Staehr-Glitter.png"
   },
   {
     "name": "Staehr (Holo) | Rio 2022",
@@ -4524,7 +4524,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911345,
     "BuffStickerId": 17636,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Staehr-Holo.png"
   },
   {
     "name": "Staehr (Gold) | Rio 2022",
@@ -4533,7 +4533,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911407,
     "BuffStickerId": 17696,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Staehr-Gold.png"
   },
   {
     "name": "stavn | Rio 2022",
@@ -4542,7 +4542,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911287,
     "BuffStickerId": 17593,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/stavn.png"
   },
   {
     "name": "stavn (Glitter) | Rio 2022",
@@ -4551,7 +4551,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911475,
     "BuffStickerId": 17744,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/stavn-Glitter.png"
   },
   {
     "name": "stavn (Holo) | Rio 2022",
@@ -4560,7 +4560,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911093,
     "BuffStickerId": 17479,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/stavn-Holo.png"
   },
   {
     "name": "stavn (Gold) | Rio 2022",
@@ -4569,7 +4569,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911379,
     "BuffStickerId": 17669,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/stavn-Gold.png"
   },
   {
     "name": "SunPayus | Rio 2022",
@@ -4578,7 +4578,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911136,
     "BuffStickerId": 17511,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SunPayus.png"
   },
   {
     "name": "SunPayus (Glitter) | Rio 2022",
@@ -4587,7 +4587,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911491,
     "BuffStickerId": 17756,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SunPayus-Glitter.png"
   },
   {
     "name": "SunPayus (Holo) | Rio 2022",
@@ -4596,7 +4596,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911554,
     "BuffStickerId": 17807,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SunPayus-Holo.png"
   },
   {
     "name": "SunPayus (Gold) | Rio 2022",
@@ -4605,7 +4605,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911589,
     "BuffStickerId": 17839,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/SunPayus-Gold.png"
   },
   {
     "name": "syrsoN | Rio 2022",
@@ -4614,7 +4614,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911413,
     "BuffStickerId": 17702,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/syrsoN.png"
   },
   {
     "name": "syrsoN (Glitter) | Rio 2022",
@@ -4623,7 +4623,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911523,
     "BuffStickerId": 17779,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/syrsoN-Glitter.png"
   },
   {
     "name": "syrsoN (Holo) | Rio 2022",
@@ -4632,7 +4632,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911405,
     "BuffStickerId": 17694,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/syrsoN-Holo.png"
   },
   {
     "name": "syrsoN (Gold) | Rio 2022",
@@ -4641,7 +4641,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911737,
     "BuffStickerId": 17947,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/syrsoN-Gold.png"
   },
   {
     "name": "tabseN | Rio 2022",
@@ -4650,7 +4650,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911368,
     "BuffStickerId": 17658,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/tabseN.png"
   },
   {
     "name": "tabseN (Glitter) | Rio 2022",
@@ -4659,7 +4659,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911189,
     "BuffStickerId": 17530,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/tabseN-Glitter.png"
   },
   {
     "name": "tabseN (Holo) | Rio 2022",
@@ -4668,7 +4668,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911511,
     "BuffStickerId": 17769,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/tabseN-Holo.png"
   },
   {
     "name": "tabseN (Gold) | Rio 2022",
@@ -4677,7 +4677,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911769,
     "BuffStickerId": 17971,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/tabseN-Gold.png"
   },
   {
     "name": "TACO | Rio 2022",
@@ -4686,7 +4686,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911331,
     "BuffStickerId": 17624,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TACO.png"
   },
   {
     "name": "TACO (Glitter) | Rio 2022",
@@ -4695,7 +4695,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911708,
     "BuffStickerId": 17921,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TACO-Glitter.png"
   },
   {
     "name": "TACO (Holo) | Rio 2022",
@@ -4704,7 +4704,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911763,
     "BuffStickerId": 17966,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TACO-Holo.png"
   },
   {
     "name": "TACO (Gold) | Rio 2022",
@@ -4713,7 +4713,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911827,
     "BuffStickerId": 18015,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TACO-Gold.png"
   },
   {
     "name": "Techno4K | Rio 2022",
@@ -4722,7 +4722,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911293,
     "BuffStickerId": 17596,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Techno4K.png"
   },
   {
     "name": "Techno4K (Glitter) | Rio 2022",
@@ -4731,7 +4731,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911559,
     "BuffStickerId": 17812,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Techno4K-Glitter.png"
   },
   {
     "name": "Techno4K (Holo) | Rio 2022",
@@ -4740,7 +4740,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911814,
     "BuffStickerId": 18005,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Techno4K-Holo.png"
   },
   {
     "name": "Techno4K (Gold) | Rio 2022",
@@ -4749,7 +4749,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911841,
     "BuffStickerId": 18029,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Techno4K-Gold.png"
   },
   {
     "name": "TeSeS | Rio 2022",
@@ -4758,7 +4758,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911333,
     "BuffStickerId": 17625,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeSeS.png"
   },
   {
     "name": "TeSeS (Glitter) | Rio 2022",
@@ -4767,7 +4767,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911342,
     "BuffStickerId": 17633,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeSeS-Glitter.png"
   },
   {
     "name": "TeSeS (Holo) | Rio 2022",
@@ -4776,7 +4776,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911653,
     "BuffStickerId": 17874,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeSeS-Holo.png"
   },
   {
     "name": "TeSeS (Gold) | Rio 2022",
@@ -4785,7 +4785,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911669,
     "BuffStickerId": 17886,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TeSeS-Gold.png"
   },
   {
     "name": "torzsi | Rio 2022",
@@ -4794,7 +4794,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911460,
     "BuffStickerId": 17729,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/torzsi.png"
   },
   {
     "name": "torzsi (Glitter) | Rio 2022",
@@ -4803,7 +4803,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911574,
     "BuffStickerId": 17824,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/torzsi-Glitter.png"
   },
   {
     "name": "torzsi (Holo) | Rio 2022",
@@ -4812,7 +4812,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911605,
     "BuffStickerId": 17850,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/torzsi-Holo.png"
   },
   {
     "name": "torzsi (Gold) | Rio 2022",
@@ -4821,7 +4821,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911772,
     "BuffStickerId": 17974,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/torzsi-Gold.png"
   },
   {
     "name": "TRY | Rio 2022",
@@ -4830,7 +4830,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911380,
     "BuffStickerId": 17670,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TRY.png"
   },
   {
     "name": "TRY (Glitter) | Rio 2022",
@@ -4839,7 +4839,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911647,
     "BuffStickerId": 17868,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TRY-Glitter.png"
   },
   {
     "name": "TRY (Holo) | Rio 2022",
@@ -4848,7 +4848,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911600,
     "BuffStickerId": 17847,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TRY-Holo.png"
   },
   {
     "name": "TRY (Gold) | Rio 2022",
@@ -4857,7 +4857,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911802,
     "BuffStickerId": 17996,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/TRY-Gold.png"
   },
   {
     "name": "Twistzz | Rio 2022",
@@ -4866,7 +4866,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911094,
     "BuffStickerId": 17480,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Twistzz.png"
   },
   {
     "name": "Twistzz (Glitter) | Rio 2022",
@@ -4875,7 +4875,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911353,
     "BuffStickerId": 17643,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Twistzz-Glitter.png"
   },
   {
     "name": "Twistzz (Holo) | Rio 2022",
@@ -4884,7 +4884,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911350,
     "BuffStickerId": 17640,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Twistzz-Holo.png"
   },
   {
     "name": "Twistzz (Gold) | Rio 2022",
@@ -4893,7 +4893,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911611,
     "BuffStickerId": 17856,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Twistzz-Gold.png"
   },
   {
     "name": "v4lde | Rio 2022",
@@ -4902,7 +4902,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 910997,
     "BuffStickerId": 17461,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/v4lde.png"
   },
   {
     "name": "v4lde (Glitter) | Rio 2022",
@@ -4911,7 +4911,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911262,
     "BuffStickerId": 17573,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/v4lde-Glitter.png"
   },
   {
     "name": "v4lde (Holo) | Rio 2022",
@@ -4920,7 +4920,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911254,
     "BuffStickerId": 17565,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/v4lde-Holo.png"
   },
   {
     "name": "v4lde (Gold) | Rio 2022",
@@ -4929,7 +4929,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911657,
     "BuffStickerId": 17878,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/v4lde-Gold.png"
   },
   {
     "name": "vexite | Rio 2022",
@@ -4938,7 +4938,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911356,
     "BuffStickerId": 17646,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/vexite.png"
   },
   {
     "name": "vexite (Glitter) | Rio 2022",
@@ -4947,7 +4947,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911486,
     "BuffStickerId": 17751,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/vexite-Glitter.png"
   },
   {
     "name": "vexite (Holo) | Rio 2022",
@@ -4956,7 +4956,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911730,
     "BuffStickerId": 17940,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/vexite-Holo.png"
   },
   {
     "name": "vexite (Gold) | Rio 2022",
@@ -4965,7 +4965,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911845,
     "BuffStickerId": 18033,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/vexite-Gold.png"
   },
   {
     "name": "VINI | Rio 2022",
@@ -4974,7 +4974,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911288,
     "BuffStickerId": 17594,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/VINI.png"
   },
   {
     "name": "VINI (Glitter) | Rio 2022",
@@ -4983,7 +4983,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911451,
     "BuffStickerId": 17720,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/VINI-Glitter.png"
   },
   {
     "name": "VINI (Holo) | Rio 2022",
@@ -4992,7 +4992,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911534,
     "BuffStickerId": 17789,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/VINI-Holo.png"
   },
   {
     "name": "VINI (Gold) | Rio 2022",
@@ -5001,7 +5001,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911756,
     "BuffStickerId": 17960,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/VINI-Gold.png"
   },
   {
     "name": "w0nderful | Rio 2022",
@@ -5010,7 +5010,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911154,
     "BuffStickerId": 17523,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/w0nderful.png"
   },
   {
     "name": "w0nderful (Glitter) | Rio 2022",
@@ -5019,7 +5019,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911351,
     "BuffStickerId": 17641,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/w0nderful-Glitter.png"
   },
   {
     "name": "w0nderful (Holo) | Rio 2022",
@@ -5028,7 +5028,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911138,
     "BuffStickerId": 17513,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/w0nderful-Holo.png"
   },
   {
     "name": "w0nderful (Gold) | Rio 2022",
@@ -5037,7 +5037,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911696,
     "BuffStickerId": 17911,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/w0nderful-Gold.png"
   },
   {
     "name": "xertioN | Rio 2022",
@@ -5046,7 +5046,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911375,
     "BuffStickerId": 17665,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/xertioN.png"
   },
   {
     "name": "xertioN (Glitter) | Rio 2022",
@@ -5055,7 +5055,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911497,
     "BuffStickerId": 17757,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/xertioN-Glitter.png"
   },
   {
     "name": "xertioN (Holo) | Rio 2022",
@@ -5064,7 +5064,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911397,
     "BuffStickerId": 17686,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/xertioN-Holo.png"
   },
   {
     "name": "xertioN (Gold) | Rio 2022",
@@ -5073,7 +5073,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911812,
     "BuffStickerId": 18003,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/xertioN-Gold.png"
   },
   {
     "name": "YEKINDAR | Rio 2022",
@@ -5082,7 +5082,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911125,
     "BuffStickerId": 17502,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/YEKINDAR.png"
   },
   {
     "name": "YEKINDAR (Glitter) | Rio 2022",
@@ -5091,7 +5091,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911271,
     "BuffStickerId": 17581,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/YEKINDAR-Glitter.png"
   },
   {
     "name": "YEKINDAR (Holo) | Rio 2022",
@@ -5100,7 +5100,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911528,
     "BuffStickerId": 17783,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/YEKINDAR-Holo.png"
   },
   {
     "name": "YEKINDAR (Gold) | Rio 2022",
@@ -5109,7 +5109,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911700,
     "BuffStickerId": 17913,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/YEKINDAR-Gold.png"
   },
   {
     "name": "yuurih | Rio 2022",
@@ -5118,7 +5118,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911450,
     "BuffStickerId": 17719,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/yuurih.png"
   },
   {
     "name": "yuurih (Glitter) | Rio 2022",
@@ -5127,7 +5127,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911664,
     "BuffStickerId": 17881,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/yuurih-Glitter.png"
   },
   {
     "name": "yuurih (Holo) | Rio 2022",
@@ -5136,7 +5136,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911757,
     "BuffStickerId": 17961,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/yuurih-Holo.png"
   },
   {
     "name": "yuurih (Gold) | Rio 2022",
@@ -5145,7 +5145,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911837,
     "BuffStickerId": 18025,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/yuurih-Gold.png"
   },
   {
     "name": "Zyphon | Rio 2022",
@@ -5154,7 +5154,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911191,
     "BuffStickerId": 17532,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Zyphon.png"
   },
   {
     "name": "Zyphon (Glitter) | Rio 2022",
@@ -5163,7 +5163,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911120,
     "BuffStickerId": 17497,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Zyphon-Glitter.png"
   },
   {
     "name": "Zyphon (Holo) | Rio 2022",
@@ -5172,7 +5172,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911440,
     "BuffStickerId": 17714,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Zyphon-Holo.png"
   },
   {
     "name": "Zyphon (Gold) | Rio 2022",
@@ -5181,7 +5181,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911658,
     "BuffStickerId": 17879,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Zyphon-Gold.png"
   },
   {
     "name": "ZywOo | Rio 2022",
@@ -5190,7 +5190,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 911152,
     "BuffStickerId": 17521,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ZywOo.png"
   },
   {
     "name": "ZywOo (Glitter) | Rio 2022",
@@ -5199,7 +5199,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 911539,
     "BuffStickerId": 17794,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ZywOo-Glitter.png"
   },
   {
     "name": "ZywOo (Holo) | Rio 2022",
@@ -5208,7 +5208,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 911552,
     "BuffStickerId": 17805,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ZywOo-Holo.png"
   },
   {
     "name": "ZywOo (Gold) | Rio 2022",
@@ -5217,7 +5217,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 911687,
     "BuffStickerId": 17902,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/ZywOo-Gold.png"
   },
   {
     "name": "FL1T (Champion) | Rio 2022",
@@ -5226,7 +5226,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 914083,
     "BuffStickerId": 18045,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Champion.png"
   },
   {
     "name": "FL1T (Glitter, Champion) | Rio 2022",
@@ -5235,7 +5235,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914075,
     "BuffStickerId": 18062,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Champion-Glitter.png"
   },
   {
     "name": "FL1T (Holo, Champion) | Rio 2022",
@@ -5244,7 +5244,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914117,
     "BuffStickerId": 18074,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Champion-Holo.png"
   },
   {
     "name": "FL1T (Gold, Champion) | Rio 2022",
@@ -5253,7 +5253,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 914119,
     "BuffStickerId": 18075,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/FL1T-Champion-Gold.png"
   },
   {
     "name": "n0rb3r7 (Champion) | Rio 2022",
@@ -5262,7 +5262,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 914073,
     "BuffStickerId": 18049,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Champion.png"
   },
   {
     "name": "n0rb3r7 (Glitter, Champion) | Rio 2022",
@@ -5271,7 +5271,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914070,
     "BuffStickerId": 18061,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Champion-Glitter.png"
   },
   {
     "name": "n0rb3r7 (Holo, Champion) | Rio 2022",
@@ -5280,7 +5280,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914116,
     "BuffStickerId": 18073,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Champion-Holo.png"
   },
   {
     "name": "n0rb3r7 (Gold, Champion) | Rio 2022",
@@ -5289,7 +5289,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 914113,
     "BuffStickerId": 18070,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/n0rb3r7-Champion-Gold.png"
   },
   {
     "name": "Jame (Champion) | Rio 2022",
@@ -5298,7 +5298,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 914109,
     "BuffStickerId": 18066,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Champion.png"
   },
   {
     "name": "Jame (Glitter, Champion) | Rio 2022",
@@ -5307,7 +5307,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914110,
     "BuffStickerId": 18067,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Champion-Glitter.png"
   },
   {
     "name": "Jame (Holo, Champion) | Rio 2022",
@@ -5316,7 +5316,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914084,
     "BuffStickerId": 18065,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Champion-Holo.png"
   },
   {
     "name": "Jame (Gold, Champion) | Rio 2022",
@@ -5325,7 +5325,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 914120,
     "BuffStickerId": 18076,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/Jame-Champion-Gold.png"
   },
   {
     "name": "qikert (Champion) | Rio 2022",
@@ -5334,7 +5334,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 914071,
     "BuffStickerId": 18047,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Champion.png"
   },
   {
     "name": "qikert (Glitter, Champion) | Rio 2022",
@@ -5343,7 +5343,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914111,
     "BuffStickerId": 18068,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Champion-Glitter.png"
   },
   {
     "name": "qikert (Holo, Champion) | Rio 2022",
@@ -5352,7 +5352,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914112,
     "BuffStickerId": 18069,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Champion-Holo.png"
   },
   {
     "name": "qikert (Gold, Champion) | Rio 2022",
@@ -5361,7 +5361,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 914079,
     "BuffStickerId": 18063,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/qikert-Champion-Gold.png"
   },
   {
     "name": "fame (Champion) | Rio 2022",
@@ -5370,7 +5370,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 914072,
     "BuffStickerId": 18048,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Champion.png"
   },
   {
     "name": "fame (Glitter, Champion) | Rio 2022",
@@ -5379,7 +5379,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914082,
     "BuffStickerId": 18064,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Champion-Glitter.png"
   },
   {
     "name": "fame (Holo, Champion) | Rio 2022",
@@ -5388,7 +5388,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 914114,
     "BuffStickerId": 18071,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Champion-Holo.png"
   },
   {
     "name": "fame (Gold, Champion) | Rio 2022",
@@ -5397,6 +5397,6 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 914115,
     "BuffStickerId": 18072,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Rio2022/fame-Champion-Gold.png"
   }
 ]

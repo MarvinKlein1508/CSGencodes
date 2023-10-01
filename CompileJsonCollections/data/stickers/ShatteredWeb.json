@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 774695,
     "BuffStickerId": 10824,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/GoldWeb-Foil.png"
   },
   {
     "name": "Web Stuck (Holo)",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 774690,
     "BuffStickerId": 10823,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/WebStuck-Holo.png"
   },
   {
     "name": "Mastermind (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 774722,
     "BuffStickerId": 10825,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/Mastermind-Holo.png"
   },
   {
     "name": "Counter-Tech",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774684,
     "BuffStickerId": 10821,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/CounterTech.png"
   },
   {
     "name": "Web Stuck",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774734,
     "BuffStickerId": 10827,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/WebStuck.png"
   },
   {
     "name": "Gold Web",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774723,
     "BuffStickerId": 10826,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/GoldWeb.png"
   },
   {
     "name": "Shattered Web",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774673,
     "BuffStickerId": 10819,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/ShatteredWeb.png"
   },
   {
     "name": "Mastermind",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774678,
     "BuffStickerId": 10820,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/Mastermind.png"
   },
   {
     "name": "Terrorist-Tech",
@@ -78,6 +78,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774689,
     "BuffStickerId": 10822,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/TerroristTech.png"
   }
 ]

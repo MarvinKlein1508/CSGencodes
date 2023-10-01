@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772041,
     "BuffStickerId": 10336,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Astralis.png"
   },
   {
     "name": "Astralis (Holo) | Berlin 2019",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772270,
     "BuffStickerId": 10481,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Astralis-Holo.png"
   },
   {
     "name": "Astralis (Foil) | Berlin 2019",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772199,
     "BuffStickerId": 10418,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Astralis-Foil.png"
   },
   {
     "name": "Astralis (Gold) | Berlin 2019",
@@ -33,7 +33,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Astralis-Gold.png"
   },
   {
     "name": "Avangar | Berlin 2019",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772381,
     "BuffStickerId": 10567,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Avangar.png"
   },
   {
     "name": "Avangar (Holo) | Berlin 2019",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772016,
     "BuffStickerId": 10315,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Avangar-Holo.png"
   },
   {
     "name": "Avangar (Foil) | Berlin 2019",
@@ -60,7 +60,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772438,
     "BuffStickerId": 10611,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Avangar-Foil.png"
   },
   {
     "name": "Avangar (Gold) | Berlin 2019",
@@ -69,7 +69,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Avangar-Gold.png"
   },
   {
     "name": "compLexity Gaming | Berlin 2019",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772376,
     "BuffStickerId": 10562,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/compLexityGaming.png"
   },
   {
     "name": "compLexity Gaming (Holo) | Berlin 2019",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772236,
     "BuffStickerId": 10453,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/compLexityGaming-Holo.png"
   },
   {
     "name": "compLexity Gaming (Foil) | Berlin 2019",
@@ -96,7 +96,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772396,
     "BuffStickerId": 10575,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/compLexityGaming-Foil.png"
   },
   {
     "name": "compLexity Gaming (Gold) | Berlin 2019",
@@ -105,7 +105,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/compLexityGaming-Gold.png"
   },
   {
     "name": "CR4ZY | Berlin 2019",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772375,
     "BuffStickerId": 10561,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CR4ZY.png"
   },
   {
     "name": "CR4ZY (Holo) | Berlin 2019",
@@ -123,7 +123,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772070,
     "BuffStickerId": 10361,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CR4ZY-Holo.png"
   },
   {
     "name": "CR4ZY (Foil) | Berlin 2019",
@@ -132,7 +132,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772356,
     "BuffStickerId": 10546,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CR4ZY-Foil.png"
   },
   {
     "name": "CR4ZY (Gold) | Berlin 2019",
@@ -141,7 +141,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CR4ZY-Gold.png"
   },
   {
     "name": "DreamEaters | Berlin 2019",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772379,
     "BuffStickerId": 10565,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DreamEaters.png"
   },
   {
     "name": "DreamEaters (Holo) | Berlin 2019",
@@ -159,7 +159,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772134,
     "BuffStickerId": 10379,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DreamEaters-Holo.png"
   },
   {
     "name": "DreamEaters (Foil) | Berlin 2019",
@@ -168,7 +168,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772498,
     "BuffStickerId": 10638,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DreamEaters-Foil.png"
   },
   {
     "name": "DreamEaters (Gold) | Berlin 2019",
@@ -177,7 +177,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DreamEaters-Gold.png"
   },
   {
     "name": "ENCE | Berlin 2019",
@@ -186,7 +186,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772279,
     "BuffStickerId": 10489,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ENCE.png"
   },
   {
     "name": "ENCE (Holo) | Berlin 2019",
@@ -195,7 +195,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772008,
     "BuffStickerId": 10307,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ENCE-Holo.png"
   },
   {
     "name": "ENCE (Foil) | Berlin 2019",
@@ -204,7 +204,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772196,
     "BuffStickerId": 10416,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ENCE-Foil.png"
   },
   {
     "name": "ENCE (Gold) | Berlin 2019",
@@ -213,7 +213,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ENCE-Gold.png"
   },
   {
     "name": "FaZe Clan | Berlin 2019",
@@ -222,7 +222,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772298,
     "BuffStickerId": 10505,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FaZeClan.png"
   },
   {
     "name": "FaZe Clan (Holo) | Berlin 2019",
@@ -231,7 +231,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772180,
     "BuffStickerId": 10401,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FaZeClan-Holo.png"
   },
   {
     "name": "FaZe Clan (Foil) | Berlin 2019",
@@ -240,7 +240,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772348,
     "BuffStickerId": 10538,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FaZeClan-Foil.png"
   },
   {
     "name": "FaZe Clan (Gold) | Berlin 2019",
@@ -249,7 +249,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FaZeClan-Gold.png"
   },
   {
     "name": "forZe eSports | Berlin 2019",
@@ -258,7 +258,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772377,
     "BuffStickerId": 10563,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/forZeeSports.png"
   },
   {
     "name": "forZe eSports (Holo) | Berlin 2019",
@@ -267,7 +267,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772118,
     "BuffStickerId": 10378,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/forZeeSports-Holo.png"
   },
   {
     "name": "forZe eSports (Foil) | Berlin 2019",
@@ -276,7 +276,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772355,
     "BuffStickerId": 10545,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/forZeeSports-Foil.png"
   },
   {
     "name": "forZe eSports (Gold) | Berlin 2019",
@@ -285,7 +285,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/forZeeSports-Gold.png"
   },
   {
     "name": "FURIA | Berlin 2019",
@@ -294,7 +294,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772382,
     "BuffStickerId": 10568,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FURIA.png"
   },
   {
     "name": "FURIA (Holo) | Berlin 2019",
@@ -303,7 +303,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772056,
     "BuffStickerId": 10349,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FURIA-Holo.png"
   },
   {
     "name": "FURIA (Foil) | Berlin 2019",
@@ -312,7 +312,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772086,
     "BuffStickerId": 10370,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FURIA-Foil.png"
   },
   {
     "name": "FURIA (Gold) | Berlin 2019",
@@ -321,7 +321,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FURIA-Gold.png"
   },
   {
     "name": "G2 Esports | Berlin 2019",
@@ -330,7 +330,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771971,
     "BuffStickerId": 10283,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/G2Esports.png"
   },
   {
     "name": "G2 Esports (Holo) | Berlin 2019",
@@ -339,7 +339,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772045,
     "BuffStickerId": 10338,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/G2Esports-Holo.png"
   },
   {
     "name": "G2 Esports (Foil) | Berlin 2019",
@@ -348,7 +348,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772395,
     "BuffStickerId": 10574,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/G2Esports-Foil.png"
   },
   {
     "name": "G2 Esports (Gold) | Berlin 2019",
@@ -357,7 +357,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/G2Esports-Gold.png"
   },
   {
     "name": "Grayhound Gaming | Berlin 2019",
@@ -366,7 +366,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772384,
     "BuffStickerId": 10570,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GrayhoundGaming.png"
   },
   {
     "name": "Grayhound Gaming (Holo) | Berlin 2019",
@@ -375,7 +375,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772077,
     "BuffStickerId": 10365,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GrayhoundGaming-Holo.png"
   },
   {
     "name": "Grayhound Gaming (Foil) | Berlin 2019",
@@ -384,7 +384,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772404,
     "BuffStickerId": 10583,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GrayhoundGaming-Foil.png"
   },
   {
     "name": "Grayhound Gaming (Gold) | Berlin 2019",
@@ -393,7 +393,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GrayhoundGaming-Gold.png"
   },
   {
     "name": "HellRaisers | Berlin 2019",
@@ -402,7 +402,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772378,
     "BuffStickerId": 10564,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/HellRaisers.png"
   },
   {
     "name": "HellRaisers (Holo) | Berlin 2019",
@@ -411,7 +411,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772208,
     "BuffStickerId": 10427,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/HellRaisers-Holo.png"
   },
   {
     "name": "HellRaisers (Foil) | Berlin 2019",
@@ -420,7 +420,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772009,
     "BuffStickerId": 10308,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/HellRaisers-Foil.png"
   },
   {
     "name": "HellRaisers (Gold) | Berlin 2019",
@@ -429,7 +429,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/HellRaisers-Gold.png"
   },
   {
     "name": "INTZ E-SPORTS CLUB | Berlin 2019",
@@ -438,7 +438,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772374,
     "BuffStickerId": 10560,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/INTZESPORTSCLUB.png"
   },
   {
     "name": "INTZ E-SPORTS CLUB (Holo) | Berlin 2019",
@@ -447,7 +447,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771981,
     "BuffStickerId": 10292,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/INTZESPORTSCLUB-Holo.png"
   },
   {
     "name": "INTZ E-SPORTS CLUB (Foil) | Berlin 2019",
@@ -456,7 +456,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772114,
     "BuffStickerId": 10377,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/INTZESPORTSCLUB-Foil.png"
   },
   {
     "name": "INTZ E-SPORTS CLUB (Gold) | Berlin 2019",
@@ -465,7 +465,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/INTZESPORTSCLUB-Gold.png"
   },
   {
     "name": "MIBR | Berlin 2019",
@@ -474,7 +474,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771996,
     "BuffStickerId": 10300,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/MIBR.png"
   },
   {
     "name": "MIBR (Holo) | Berlin 2019",
@@ -483,7 +483,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772013,
     "BuffStickerId": 10312,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/MIBR-Holo.png"
   },
   {
     "name": "MIBR (Foil) | Berlin 2019",
@@ -492,7 +492,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772250,
     "BuffStickerId": 10463,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/MIBR-Foil.png"
   },
   {
     "name": "MIBR (Gold) | Berlin 2019",
@@ -501,7 +501,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/MIBR-Gold.png"
   },
   {
     "name": "mousesports | Berlin 2019",
@@ -510,7 +510,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772291,
     "BuffStickerId": 10501,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/mousesports.png"
   },
   {
     "name": "mousesports (Holo) | Berlin 2019",
@@ -519,7 +519,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772229,
     "BuffStickerId": 10446,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/mousesports-Holo.png"
   },
   {
     "name": "mousesports (Foil) | Berlin 2019",
@@ -528,7 +528,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772105,
     "BuffStickerId": 10375,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/mousesports-Foil.png"
   },
   {
     "name": "mousesports (Gold) | Berlin 2019",
@@ -537,7 +537,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/mousesports-Gold.png"
   },
   {
     "name": "Natus Vincere | Berlin 2019",
@@ -546,7 +546,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771988,
     "BuffStickerId": 10299,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NatusVincere.png"
   },
   {
     "name": "Natus Vincere (Holo) | Berlin 2019",
@@ -555,7 +555,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772181,
     "BuffStickerId": 10402,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NatusVincere-Holo.png"
   },
   {
     "name": "Natus Vincere (Foil) | Berlin 2019",
@@ -564,7 +564,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772098,
     "BuffStickerId": 10372,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NatusVincere-Foil.png"
   },
   {
     "name": "Natus Vincere (Gold) | Berlin 2019",
@@ -573,7 +573,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NatusVincere-Gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Berlin 2019",
@@ -582,7 +582,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772266,
     "BuffStickerId": 10477,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NinjasinPyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | Berlin 2019",
@@ -591,7 +591,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772230,
     "BuffStickerId": 10447,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NinjasinPyjamas-Holo.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Berlin 2019",
@@ -600,7 +600,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772366,
     "BuffStickerId": 10552,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NinjasinPyjamas-Foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | Berlin 2019",
@@ -609,7 +609,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NinjasinPyjamas-Gold.png"
   },
   {
     "name": "North | Berlin 2019",
@@ -618,7 +618,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772373,
     "BuffStickerId": 10559,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/North.png"
   },
   {
     "name": "North (Holo) | Berlin 2019",
@@ -627,7 +627,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771980,
     "BuffStickerId": 10291,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/North-Holo.png"
   },
   {
     "name": "North (Foil) | Berlin 2019",
@@ -636,7 +636,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772273,
     "BuffStickerId": 10483,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/North-Foil.png"
   },
   {
     "name": "North (Gold) | Berlin 2019",
@@ -645,7 +645,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/North-Gold.png"
   },
   {
     "name": "NRG | Berlin 2019",
@@ -654,7 +654,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772385,
     "BuffStickerId": 10571,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NRG.png"
   },
   {
     "name": "NRG (Holo) | Berlin 2019",
@@ -663,7 +663,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772145,
     "BuffStickerId": 10387,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NRG-Holo.png"
   },
   {
     "name": "NRG (Foil) | Berlin 2019",
@@ -672,7 +672,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772408,
     "BuffStickerId": 10587,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NRG-Foil.png"
   },
   {
     "name": "NRG (Gold) | Berlin 2019",
@@ -681,7 +681,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NRG-Gold.png"
   },
   {
     "name": "Renegades | Berlin 2019",
@@ -690,7 +690,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772380,
     "BuffStickerId": 10566,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Renegades.png"
   },
   {
     "name": "Renegades (Holo) | Berlin 2019",
@@ -699,7 +699,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772010,
     "BuffStickerId": 10309,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Renegades-Holo.png"
   },
   {
     "name": "Renegades (Foil) | Berlin 2019",
@@ -708,7 +708,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772190,
     "BuffStickerId": 10410,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Renegades-Foil.png"
   },
   {
     "name": "Renegades (Gold) | Berlin 2019",
@@ -717,7 +717,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Renegades-Gold.png"
   },
   {
     "name": "Syman Gaming | Berlin 2019",
@@ -726,7 +726,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772383,
     "BuffStickerId": 10569,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SymanGaming.png"
   },
   {
     "name": "Syman Gaming (Holo) | Berlin 2019",
@@ -735,7 +735,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772269,
     "BuffStickerId": 10480,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SymanGaming-Holo.png"
   },
   {
     "name": "Syman Gaming (Foil) | Berlin 2019",
@@ -744,7 +744,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772268,
     "BuffStickerId": 10479,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SymanGaming-Foil.png"
   },
   {
     "name": "Syman Gaming (Gold) | Berlin 2019",
@@ -753,7 +753,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SymanGaming-Gold.png"
   },
   {
     "name": "Team Liquid | Berlin 2019",
@@ -762,7 +762,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771973,
     "BuffStickerId": 10285,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TeamLiquid.png"
   },
   {
     "name": "Team Liquid (Holo) | Berlin 2019",
@@ -771,7 +771,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772195,
     "BuffStickerId": 10415,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TeamLiquid-Holo.png"
   },
   {
     "name": "Team Liquid (Foil) | Berlin 2019",
@@ -780,7 +780,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772314,
     "BuffStickerId": 10519,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TeamLiquid-Foil.png"
   },
   {
     "name": "Team Liquid (Gold) | Berlin 2019",
@@ -789,7 +789,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TeamLiquid-Gold.png"
   },
   {
     "name": "Tyloo | Berlin 2019",
@@ -798,7 +798,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771979,
     "BuffStickerId": 10290,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Tyloo.png"
   },
   {
     "name": "Tyloo (Holo) | Berlin 2019",
@@ -807,7 +807,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772064,
     "BuffStickerId": 10357,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Tyloo-Holo.png"
   },
   {
     "name": "Tyloo (Foil) | Berlin 2019",
@@ -816,7 +816,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772075,
     "BuffStickerId": 10364,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Tyloo-Foil.png"
   },
   {
     "name": "Tyloo (Gold) | Berlin 2019",
@@ -825,7 +825,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Tyloo-Gold.png"
   },
   {
     "name": "Vitality | Berlin 2019",
@@ -834,7 +834,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772286,
     "BuffStickerId": 10496,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Vitality.png"
   },
   {
     "name": "Vitality (Holo) | Berlin 2019",
@@ -843,7 +843,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772192,
     "BuffStickerId": 10412,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Vitality-Holo.png"
   },
   {
     "name": "Vitality (Foil) | Berlin 2019",
@@ -852,7 +852,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772412,
     "BuffStickerId": 10591,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Vitality-Foil.png"
   },
   {
     "name": "Vitality (Gold) | Berlin 2019",
@@ -861,7 +861,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Vitality-Gold.png"
   },
   {
     "name": "StarLadder | Berlin 2019",
@@ -870,7 +870,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772194,
     "BuffStickerId": 10414,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/StarLadder.png"
   },
   {
     "name": "StarLadder (Holo) | Berlin 2019",
@@ -879,7 +879,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772027,
     "BuffStickerId": 10325,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/StarLadder-Holo.png"
   },
   {
     "name": "StarLadder (Foil) | Berlin 2019",
@@ -888,7 +888,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 772300,
     "BuffStickerId": 10506,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/StarLadder-Foil.png"
   },
   {
     "name": "StarLadder (Gold) | Berlin 2019",
@@ -897,7 +897,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 10701,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/StarLadder-Gold.png"
   },
   {
     "name": "ableJ | Berlin 2019",
@@ -906,7 +906,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772226,
     "BuffStickerId": 10443,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ableJ.png"
   },
   {
     "name": "ableJ (Foil) | Berlin 2019",
@@ -915,7 +915,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772414,
     "BuffStickerId": 10593,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ableJ-Foil.png"
   },
   {
     "name": "ableJ (Gold) | Berlin 2019",
@@ -924,7 +924,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772550,
     "BuffStickerId": 10685,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ableJ-Gold.png"
   },
   {
     "name": "AdreN | Berlin 2019",
@@ -933,7 +933,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772011,
     "BuffStickerId": 10310,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AdreN.png"
   },
   {
     "name": "AdreN (Foil) | Berlin 2019",
@@ -942,7 +942,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772303,
     "BuffStickerId": 10509,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AdreN-Foil.png"
   },
   {
     "name": "AdreN (Gold) | Berlin 2019",
@@ -951,7 +951,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772499,
     "BuffStickerId": 10639,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AdreN-Gold.png"
   },
   {
     "name": "Aerial | Berlin 2019",
@@ -960,7 +960,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771998,
     "BuffStickerId": 10302,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Aerial.png"
   },
   {
     "name": "Aerial (Foil) | Berlin 2019",
@@ -969,7 +969,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772274,
     "BuffStickerId": 10484,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Aerial-Foil.png"
   },
   {
     "name": "Aerial (Gold) | Berlin 2019",
@@ -978,7 +978,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772450,
     "BuffStickerId": 10618,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Aerial-Gold.png"
   },
   {
     "name": "aizy | Berlin 2019",
@@ -987,7 +987,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772335,
     "BuffStickerId": 10529,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/aizy.png"
   },
   {
     "name": "aizy (Foil) | Berlin 2019",
@@ -996,7 +996,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772237,
     "BuffStickerId": 10454,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/aizy-Foil.png"
   },
   {
     "name": "aizy (Gold) | Berlin 2019",
@@ -1005,7 +1005,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772537,
     "BuffStickerId": 10674,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/aizy-Gold.png"
   },
   {
     "name": "Aleksib | Berlin 2019",
@@ -1014,7 +1014,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771965,
     "BuffStickerId": 10279,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Aleksib.png"
   },
   {
     "name": "Aleksib (Foil) | Berlin 2019",
@@ -1023,7 +1023,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772211,
     "BuffStickerId": 10430,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Aleksib-Foil.png"
   },
   {
     "name": "Aleksib (Gold) | Berlin 2019",
@@ -1032,7 +1032,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772205,
     "BuffStickerId": 10424,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Aleksib-Gold.png"
   },
   {
     "name": "ALEX | Berlin 2019",
@@ -1041,7 +1041,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772264,
     "BuffStickerId": 10475,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ALEX.png"
   },
   {
     "name": "ALEX (Foil) | Berlin 2019",
@@ -1050,7 +1050,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772316,
     "BuffStickerId": 10521,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ALEX-Foil.png"
   },
   {
     "name": "ALEX (Gold) | Berlin 2019",
@@ -1059,7 +1059,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772340,
     "BuffStickerId": 10534,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ALEX-Gold.png"
   },
   {
     "name": "allu | Berlin 2019",
@@ -1068,7 +1068,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772021,
     "BuffStickerId": 10319,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/allu.png"
   },
   {
     "name": "allu (Foil) | Berlin 2019",
@@ -1077,7 +1077,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772225,
     "BuffStickerId": 10442,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/allu-Foil.png"
   },
   {
     "name": "allu (Gold) | Berlin 2019",
@@ -1086,7 +1086,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772433,
     "BuffStickerId": 10606,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/allu-Gold.png"
   },
   {
     "name": "almazer | Berlin 2019",
@@ -1095,7 +1095,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772159,
     "BuffStickerId": 10392,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/almazer.png"
   },
   {
     "name": "almazer (Foil) | Berlin 2019",
@@ -1104,7 +1104,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772234,
     "BuffStickerId": 10451,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/almazer-Foil.png"
   },
   {
     "name": "almazer (Gold) | Berlin 2019",
@@ -1113,7 +1113,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772518,
     "BuffStickerId": 10656,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/almazer-Gold.png"
   },
   {
     "name": "AmaNEk | Berlin 2019",
@@ -1122,7 +1122,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771972,
     "BuffStickerId": 10284,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AmaNEk.png"
   },
   {
     "name": "AmaNEk (Foil) | Berlin 2019",
@@ -1131,7 +1131,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772315,
     "BuffStickerId": 10520,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AmaNEk-Foil.png"
   },
   {
     "name": "AmaNEk (Gold) | Berlin 2019",
@@ -1140,7 +1140,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772526,
     "BuffStickerId": 10663,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AmaNEk-Gold.png"
   },
   {
     "name": "ANGE1 | Berlin 2019",
@@ -1149,7 +1149,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771997,
     "BuffStickerId": 10301,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ANGE1.png"
   },
   {
     "name": "ANGE1 (Foil) | Berlin 2019",
@@ -1158,7 +1158,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772370,
     "BuffStickerId": 10556,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ANGE1-Foil.png"
   },
   {
     "name": "ANGE1 (Gold) | Berlin 2019",
@@ -1167,7 +1167,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772525,
     "BuffStickerId": 10662,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ANGE1-Gold.png"
   },
   {
     "name": "apEX | Berlin 2019",
@@ -1176,7 +1176,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772262,
     "BuffStickerId": 10474,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/apEX.png"
   },
   {
     "name": "apEX (Foil) | Berlin 2019",
@@ -1185,7 +1185,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772310,
     "BuffStickerId": 10515,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/apEX-Foil.png"
   },
   {
     "name": "apEX (Gold) | Berlin 2019",
@@ -1194,7 +1194,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772051,
     "BuffStickerId": 10344,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/apEX-Gold.png"
   },
   {
     "name": "arT | Berlin 2019",
@@ -1203,7 +1203,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772066,
     "BuffStickerId": 10359,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/arT.png"
   },
   {
     "name": "arT (Foil) | Berlin 2019",
@@ -1212,7 +1212,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772277,
     "BuffStickerId": 10487,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/arT-Foil.png"
   },
   {
     "name": "arT (Gold) | Berlin 2019",
@@ -1221,7 +1221,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772440,
     "BuffStickerId": 10613,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/arT-Gold.png"
   },
   {
     "name": "Attacker | Berlin 2019",
@@ -1230,7 +1230,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772227,
     "BuffStickerId": 10444,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Attacker.png"
   },
   {
     "name": "Attacker (Foil) | Berlin 2019",
@@ -1239,7 +1239,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772244,
     "BuffStickerId": 10458,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Attacker-Foil.png"
   },
   {
     "name": "Attacker (Gold) | Berlin 2019",
@@ -1248,7 +1248,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772527,
     "BuffStickerId": 10664,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Attacker-Gold.png"
   },
   {
     "name": "AZR | Berlin 2019",
@@ -1257,7 +1257,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771983,
     "BuffStickerId": 10294,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AZR.png"
   },
   {
     "name": "AZR (Foil) | Berlin 2019",
@@ -1266,7 +1266,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772288,
     "BuffStickerId": 10498,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AZR-Foil.png"
   },
   {
     "name": "AZR (Gold) | Berlin 2019",
@@ -1275,7 +1275,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772397,
     "BuffStickerId": 10576,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/AZR-Gold.png"
   },
   {
     "name": "BnTeT | Berlin 2019",
@@ -1284,7 +1284,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772252,
     "BuffStickerId": 10465,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/BnTeT.png"
   },
   {
     "name": "BnTeT (Foil) | Berlin 2019",
@@ -1293,7 +1293,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772319,
     "BuffStickerId": 10523,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/BnTeT-Foil.png"
   },
   {
     "name": "BnTeT (Gold) | Berlin 2019",
@@ -1302,7 +1302,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772411,
     "BuffStickerId": 10590,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/BnTeT-Gold.png"
   },
   {
     "name": "Boombl4 | Berlin 2019",
@@ -1311,7 +1311,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771951,
     "BuffStickerId": 10267,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Boombl4.png"
   },
   {
     "name": "Boombl4 (Foil) | Berlin 2019",
@@ -1320,7 +1320,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771987,
     "BuffStickerId": 10298,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Boombl4-Foil.png"
   },
   {
     "name": "Boombl4 (Gold) | Berlin 2019",
@@ -1329,7 +1329,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772215,
     "BuffStickerId": 10434,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Boombl4-Gold.png"
   },
   {
     "name": "Brehze | Berlin 2019",
@@ -1338,7 +1338,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772058,
     "BuffStickerId": 10351,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Brehze.png"
   },
   {
     "name": "Brehze (Foil) | Berlin 2019",
@@ -1347,7 +1347,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772285,
     "BuffStickerId": 10495,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Brehze-Foil.png"
   },
   {
     "name": "Brehze (Gold) | Berlin 2019",
@@ -1356,7 +1356,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772528,
     "BuffStickerId": 10665,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Brehze-Gold.png"
   },
   {
     "name": "buster | Berlin 2019",
@@ -1365,7 +1365,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771982,
     "BuffStickerId": 10293,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/buster.png"
   },
   {
     "name": "buster (Foil) | Berlin 2019",
@@ -1374,7 +1374,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772200,
     "BuffStickerId": 10419,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/buster-Foil.png"
   },
   {
     "name": "buster (Gold) | Berlin 2019",
@@ -1383,7 +1383,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772452,
     "BuffStickerId": 10620,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/buster-Gold.png"
   },
   {
     "name": "CeRq | Berlin 2019",
@@ -1392,7 +1392,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772235,
     "BuffStickerId": 10452,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CeRq.png"
   },
   {
     "name": "CeRq (Foil) | Berlin 2019",
@@ -1401,7 +1401,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771953,
     "BuffStickerId": 10269,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CeRq-Foil.png"
   },
   {
     "name": "CeRq (Gold) | Berlin 2019",
@@ -1410,7 +1410,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772529,
     "BuffStickerId": 10666,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/CeRq-Gold.png"
   },
   {
     "name": "chelo | Berlin 2019",
@@ -1419,7 +1419,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772071,
     "BuffStickerId": 10362,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/chelo.png"
   },
   {
     "name": "chelo (Foil) | Berlin 2019",
@@ -1428,7 +1428,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772143,
     "BuffStickerId": 10385,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/chelo-Foil.png"
   },
   {
     "name": "chelo (Gold) | Berlin 2019",
@@ -1437,7 +1437,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772445,
     "BuffStickerId": 10616,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/chelo-Gold.png"
   },
   {
     "name": "chrisJ | Berlin 2019",
@@ -1446,7 +1446,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772060,
     "BuffStickerId": 10353,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/chrisJ.png"
   },
   {
     "name": "chrisJ (Foil) | Berlin 2019",
@@ -1455,7 +1455,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772278,
     "BuffStickerId": 10488,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/chrisJ-Foil.png"
   },
   {
     "name": "chrisJ (Gold) | Berlin 2019",
@@ -1464,7 +1464,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772538,
     "BuffStickerId": 10675,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/chrisJ-Gold.png"
   },
   {
     "name": "coldzera | Berlin 2019",
@@ -1473,7 +1473,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772012,
     "BuffStickerId": 10311,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/coldzera.png"
   },
   {
     "name": "coldzera (Foil) | Berlin 2019",
@@ -1482,7 +1482,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772289,
     "BuffStickerId": 10499,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/coldzera-Foil.png"
   },
   {
     "name": "coldzera (Gold) | Berlin 2019",
@@ -1491,7 +1491,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772517,
     "BuffStickerId": 10655,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/coldzera-Gold.png"
   },
   {
     "name": "DeadFox | Berlin 2019",
@@ -1500,7 +1500,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772257,
     "BuffStickerId": 10469,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DeadFox.png"
   },
   {
     "name": "DeadFox (Foil) | Berlin 2019",
@@ -1509,7 +1509,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772336,
     "BuffStickerId": 10530,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DeadFox-Foil.png"
   },
   {
     "name": "DeadFox (Gold) | Berlin 2019",
@@ -1518,7 +1518,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772369,
     "BuffStickerId": 10555,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DeadFox-Gold.png"
   },
   {
     "name": "dephh | Berlin 2019",
@@ -1527,7 +1527,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772233,
     "BuffStickerId": 10450,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dephh.png"
   },
   {
     "name": "dephh (Foil) | Berlin 2019",
@@ -1536,7 +1536,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772253,
     "BuffStickerId": 10466,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dephh-Foil.png"
   },
   {
     "name": "dephh (Gold) | Berlin 2019",
@@ -1545,7 +1545,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772545,
     "BuffStickerId": 10682,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dephh-Gold.png"
   },
   {
     "name": "DeStiNy | Berlin 2019",
@@ -1554,7 +1554,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772231,
     "BuffStickerId": 10448,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DeStiNy.png"
   },
   {
     "name": "DeStiNy (Foil) | Berlin 2019",
@@ -1563,7 +1563,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772365,
     "BuffStickerId": 10551,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DeStiNy-Foil.png"
   },
   {
     "name": "DeStiNy (Gold) | Berlin 2019",
@@ -1572,7 +1572,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772530,
     "BuffStickerId": 10667,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DeStiNy-Gold.png"
   },
   {
     "name": "device | Berlin 2019",
@@ -1581,7 +1581,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772039,
     "BuffStickerId": 10334,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/device.png"
   },
   {
     "name": "device (Foil) | Berlin 2019",
@@ -1590,7 +1590,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771961,
     "BuffStickerId": 10275,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/device-Foil.png"
   },
   {
     "name": "device (Gold) | Berlin 2019",
@@ -1599,7 +1599,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772346,
     "BuffStickerId": 10536,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/device-Gold.png"
   },
   {
     "name": "dexter | Berlin 2019",
@@ -1608,7 +1608,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772248,
     "BuffStickerId": 10461,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dexter.png"
   },
   {
     "name": "dexter (Foil) | Berlin 2019",
@@ -1617,7 +1617,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772367,
     "BuffStickerId": 10553,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dexter-Foil.png"
   },
   {
     "name": "dexter (Gold) | Berlin 2019",
@@ -1626,7 +1626,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772516,
     "BuffStickerId": 10654,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dexter-Gold.png"
   },
   {
     "name": "DickStacy | Berlin 2019",
@@ -1635,7 +1635,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772084,
     "BuffStickerId": 10369,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DickStacy.png"
   },
   {
     "name": "DickStacy (Foil) | Berlin 2019",
@@ -1644,7 +1644,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772400,
     "BuffStickerId": 10579,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DickStacy-Foil.png"
   },
   {
     "name": "DickStacy (Gold) | Berlin 2019",
@@ -1653,7 +1653,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772515,
     "BuffStickerId": 10653,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/DickStacy-Gold.png"
   },
   {
     "name": "dupreeh | Berlin 2019",
@@ -1662,7 +1662,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772047,
     "BuffStickerId": 10340,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dupreeh.png"
   },
   {
     "name": "dupreeh (Foil) | Berlin 2019",
@@ -1671,7 +1671,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772210,
     "BuffStickerId": 10429,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dupreeh-Foil.png"
   },
   {
     "name": "dupreeh (Gold) | Berlin 2019",
@@ -1680,7 +1680,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772313,
     "BuffStickerId": 10518,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/dupreeh-Gold.png"
   },
   {
     "name": "electronic | Berlin 2019",
@@ -1689,7 +1689,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772185,
     "BuffStickerId": 10405,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/electronic.png"
   },
   {
     "name": "electronic (Foil) | Berlin 2019",
@@ -1698,7 +1698,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772276,
     "BuffStickerId": 10486,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/electronic-Foil.png"
   },
   {
     "name": "electronic (Gold) | Berlin 2019",
@@ -1707,7 +1707,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772435,
     "BuffStickerId": 10608,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/electronic-Gold.png"
   },
   {
     "name": "EliGE | Berlin 2019",
@@ -1716,7 +1716,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771948,
     "BuffStickerId": 10264,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/EliGE.png"
   },
   {
     "name": "EliGE (Foil) | Berlin 2019",
@@ -1725,7 +1725,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772242,
     "BuffStickerId": 10456,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/EliGE-Foil.png"
   },
   {
     "name": "EliGE (Gold) | Berlin 2019",
@@ -1734,7 +1734,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772304,
     "BuffStickerId": 10510,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/EliGE-Gold.png"
   },
   {
     "name": "erkaSt | Berlin 2019",
@@ -1743,7 +1743,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772166,
     "BuffStickerId": 10394,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/erkaSt.png"
   },
   {
     "name": "erkaSt (Foil) | Berlin 2019",
@@ -1752,7 +1752,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772339,
     "BuffStickerId": 10533,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/erkaSt-Foil.png"
   },
   {
     "name": "erkaSt (Gold) | Berlin 2019",
@@ -1761,7 +1761,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772539,
     "BuffStickerId": 10676,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/erkaSt-Gold.png"
   },
   {
     "name": "EspiranTo | Berlin 2019",
@@ -1770,7 +1770,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772147,
     "BuffStickerId": 10388,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/EspiranTo.png"
   },
   {
     "name": "EspiranTo (Foil) | Berlin 2019",
@@ -1779,7 +1779,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772308,
     "BuffStickerId": 10513,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/EspiranTo-Foil.png"
   },
   {
     "name": "EspiranTo (Gold) | Berlin 2019",
@@ -1788,7 +1788,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772571,
     "BuffStickerId": 10697,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/EspiranTo-Gold.png"
   },
   {
     "name": "Ethan | Berlin 2019",
@@ -1797,7 +1797,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772063,
     "BuffStickerId": 10356,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Ethan.png"
   },
   {
     "name": "Ethan (Foil) | Berlin 2019",
@@ -1806,7 +1806,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772371,
     "BuffStickerId": 10557,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Ethan-Foil.png"
   },
   {
     "name": "Ethan (Gold) | Berlin 2019",
@@ -1815,7 +1815,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772503,
     "BuffStickerId": 10642,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Ethan-Gold.png"
   },
   {
     "name": "f0rest | Berlin 2019",
@@ -1824,7 +1824,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772173,
     "BuffStickerId": 10396,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/f0rest.png"
   },
   {
     "name": "f0rest (Foil) | Berlin 2019",
@@ -1833,7 +1833,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772207,
     "BuffStickerId": 10426,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/f0rest-Foil.png"
   },
   {
     "name": "f0rest (Gold) | Berlin 2019",
@@ -1842,7 +1842,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772430,
     "BuffStickerId": 10605,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/f0rest-Gold.png"
   },
   {
     "name": "facecrack | Berlin 2019",
@@ -1851,7 +1851,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772069,
     "BuffStickerId": 10360,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/facecrack.png"
   },
   {
     "name": "facecrack (Foil) | Berlin 2019",
@@ -1860,7 +1860,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772351,
     "BuffStickerId": 10541,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/facecrack-Foil.png"
   },
   {
     "name": "facecrack (Gold) | Berlin 2019",
@@ -1869,7 +1869,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772390,
     "BuffStickerId": 10573,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/facecrack-Gold.png"
   },
   {
     "name": "FalleN | Berlin 2019",
@@ -1878,7 +1878,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771956,
     "BuffStickerId": 10272,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FalleN.png"
   },
   {
     "name": "FalleN (Foil) | Berlin 2019",
@@ -1887,7 +1887,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772220,
     "BuffStickerId": 10439,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FalleN-Foil.png"
   },
   {
     "name": "FalleN (Gold) | Berlin 2019",
@@ -1896,7 +1896,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772504,
     "BuffStickerId": 10643,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FalleN-Gold.png"
   },
   {
     "name": "fer | Berlin 2019",
@@ -1905,7 +1905,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771967,
     "BuffStickerId": 10281,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/fer.png"
   },
   {
     "name": "fer (Foil) | Berlin 2019",
@@ -1914,7 +1914,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772290,
     "BuffStickerId": 10500,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/fer-Foil.png"
   },
   {
     "name": "fer (Gold) | Berlin 2019",
@@ -1923,7 +1923,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772418,
     "BuffStickerId": 10595,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/fer-Gold.png"
   },
   {
     "name": "FL1T | Berlin 2019",
@@ -1932,7 +1932,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772187,
     "BuffStickerId": 10407,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FL1T.png"
   },
   {
     "name": "FL1T (Foil) | Berlin 2019",
@@ -1941,7 +1941,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772481,
     "BuffStickerId": 10625,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FL1T-Foil.png"
   },
   {
     "name": "FL1T (Gold) | Berlin 2019",
@@ -1950,7 +1950,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772549,
     "BuffStickerId": 10684,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/FL1T-Gold.png"
   },
   {
     "name": "flamie | Berlin 2019",
@@ -1959,7 +1959,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772007,
     "BuffStickerId": 10306,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/flamie.png"
   },
   {
     "name": "flamie (Foil) | Berlin 2019",
@@ -1968,7 +1968,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771950,
     "BuffStickerId": 10266,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/flamie-Foil.png"
   },
   {
     "name": "flamie (Gold) | Berlin 2019",
@@ -1977,7 +1977,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772224,
     "BuffStickerId": 10441,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/flamie-Gold.png"
   },
   {
     "name": "Forester | Berlin 2019",
@@ -1986,7 +1986,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772142,
     "BuffStickerId": 10384,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Forester.png"
   },
   {
     "name": "Forester (Foil) | Berlin 2019",
@@ -1995,7 +1995,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772446,
     "BuffStickerId": 10617,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Forester-Foil.png"
   },
   {
     "name": "Forester (Gold) | Berlin 2019",
@@ -2004,7 +2004,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772563,
     "BuffStickerId": 10692,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Forester-Gold.png"
   },
   {
     "name": "Freeman | Berlin 2019",
@@ -2013,7 +2013,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772144,
     "BuffStickerId": 10386,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Freeman.png"
   },
   {
     "name": "Freeman (Foil) | Berlin 2019",
@@ -2022,7 +2022,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772321,
     "BuffStickerId": 10524,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Freeman-Foil.png"
   },
   {
     "name": "Freeman (Gold) | Berlin 2019",
@@ -2031,7 +2031,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772531,
     "BuffStickerId": 10668,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Freeman-Gold.png"
   },
   {
     "name": "frozen | Berlin 2019",
@@ -2040,7 +2040,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772255,
     "BuffStickerId": 10468,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/frozen.png"
   },
   {
     "name": "frozen (Foil) | Berlin 2019",
@@ -2049,7 +2049,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772403,
     "BuffStickerId": 10582,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/frozen-Foil.png"
   },
   {
     "name": "frozen (Gold) | Berlin 2019",
@@ -2058,7 +2058,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772510,
     "BuffStickerId": 10648,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/frozen-Gold.png"
   },
   {
     "name": "gade | Berlin 2019",
@@ -2067,7 +2067,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772055,
     "BuffStickerId": 10348,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/gade.png"
   },
   {
     "name": "gade (Foil) | Berlin 2019",
@@ -2076,7 +2076,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772410,
     "BuffStickerId": 10589,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/gade-Foil.png"
   },
   {
     "name": "gade (Gold) | Berlin 2019",
@@ -2085,7 +2085,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772490,
     "BuffStickerId": 10631,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/gade-Gold.png"
   },
   {
     "name": "GeT_RiGhT | Berlin 2019",
@@ -2094,7 +2094,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772040,
     "BuffStickerId": 10335,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GeTRiGhT.png"
   },
   {
     "name": "GeT_RiGhT (Foil) | Berlin 2019",
@@ -2103,7 +2103,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772219,
     "BuffStickerId": 10438,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GeTRiGhT-Foil.png"
   },
   {
     "name": "GeT_RiGhT (Gold) | Berlin 2019",
@@ -2112,7 +2112,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772407,
     "BuffStickerId": 10586,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GeTRiGhT-Gold.png"
   },
   {
     "name": "gla1ve | Berlin 2019",
@@ -2121,7 +2121,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772204,
     "BuffStickerId": 10423,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/gla1ve.png"
   },
   {
     "name": "gla1ve (Foil) | Berlin 2019",
@@ -2130,7 +2130,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772023,
     "BuffStickerId": 10321,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/gla1ve-Foil.png"
   },
   {
     "name": "gla1ve (Gold) | Berlin 2019",
@@ -2139,7 +2139,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772354,
     "BuffStickerId": 10544,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/gla1ve-Gold.png"
   },
   {
     "name": "Golden | Berlin 2019",
@@ -2148,7 +2148,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771963,
     "BuffStickerId": 10277,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Golden.png"
   },
   {
     "name": "Golden (Foil) | Berlin 2019",
@@ -2157,7 +2157,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772280,
     "BuffStickerId": 10490,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Golden-Foil.png"
   },
   {
     "name": "Golden (Gold) | Berlin 2019",
@@ -2166,7 +2166,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 771954,
     "BuffStickerId": 10270,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Golden-Gold.png"
   },
   {
     "name": "Gratisfaction | Berlin 2019",
@@ -2175,7 +2175,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771952,
     "BuffStickerId": 10268,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Gratisfaction.png"
   },
   {
     "name": "Gratisfaction (Foil) | Berlin 2019",
@@ -2184,7 +2184,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772305,
     "BuffStickerId": 10511,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Gratisfaction-Foil.png"
   },
   {
     "name": "Gratisfaction (Gold) | Berlin 2019",
@@ -2193,7 +2193,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772546,
     "BuffStickerId": 10683,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Gratisfaction-Gold.png"
   },
   {
     "name": "GuardiaN | Berlin 2019",
@@ -2202,7 +2202,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771962,
     "BuffStickerId": 10276,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GuardiaN.png"
   },
   {
     "name": "GuardiaN (Foil) | Berlin 2019",
@@ -2211,7 +2211,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772222,
     "BuffStickerId": 10440,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GuardiaN-Foil.png"
   },
   {
     "name": "GuardiaN (Gold) | Berlin 2019",
@@ -2220,7 +2220,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772428,
     "BuffStickerId": 10603,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/GuardiaN-Gold.png"
   },
   {
     "name": "huNter- | Berlin 2019",
@@ -2229,7 +2229,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771984,
     "BuffStickerId": 10295,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/huNter.png"
   },
   {
     "name": "huNter- (Foil) | Berlin 2019",
@@ -2238,7 +2238,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772080,
     "BuffStickerId": 10367,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/huNter-Foil.png"
   },
   {
     "name": "huNter- (Gold) | Berlin 2019",
@@ -2247,7 +2247,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772551,
     "BuffStickerId": 10686,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/huNter-Gold.png"
   },
   {
     "name": "ISSAA | Berlin 2019",
@@ -2256,7 +2256,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772046,
     "BuffStickerId": 10339,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ISSAA.png"
   },
   {
     "name": "ISSAA (Foil) | Berlin 2019",
@@ -2265,7 +2265,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772325,
     "BuffStickerId": 10525,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ISSAA-Foil.png"
   },
   {
     "name": "ISSAA (Gold) | Berlin 2019",
@@ -2274,7 +2274,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772564,
     "BuffStickerId": 10693,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ISSAA-Gold.png"
   },
   {
     "name": "JaCkz | Berlin 2019",
@@ -2283,7 +2283,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772018,
     "BuffStickerId": 10317,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/JaCkz.png"
   },
   {
     "name": "JaCkz (Foil) | Berlin 2019",
@@ -2292,7 +2292,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772309,
     "BuffStickerId": 10514,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/JaCkz-Foil.png"
   },
   {
     "name": "JaCkz (Gold) | Berlin 2019",
@@ -2301,7 +2301,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772522,
     "BuffStickerId": 10659,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/JaCkz-Gold.png"
   },
   {
     "name": "Jame | Berlin 2019",
@@ -2310,7 +2310,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771986,
     "BuffStickerId": 10297,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Jame.png"
   },
   {
     "name": "Jame (Foil) | Berlin 2019",
@@ -2319,7 +2319,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772022,
     "BuffStickerId": 10320,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Jame-Foil.png"
   },
   {
     "name": "Jame (Gold) | Berlin 2019",
@@ -2328,7 +2328,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772409,
     "BuffStickerId": 10588,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Jame-Gold.png"
   },
   {
     "name": "Jerry | Berlin 2019",
@@ -2337,7 +2337,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772059,
     "BuffStickerId": 10352,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Jerry.png"
   },
   {
     "name": "Jerry (Foil) | Berlin 2019",
@@ -2346,7 +2346,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772421,
     "BuffStickerId": 10597,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Jerry-Foil.png"
   },
   {
     "name": "Jerry (Gold) | Berlin 2019",
@@ -2355,7 +2355,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772488,
     "BuffStickerId": 10630,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Jerry-Gold.png"
   },
   {
     "name": "jkaem | Berlin 2019",
@@ -2364,7 +2364,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771959,
     "BuffStickerId": 10273,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/jkaem.png"
   },
   {
     "name": "jkaem (Foil) | Berlin 2019",
@@ -2373,7 +2373,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772241,
     "BuffStickerId": 10455,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/jkaem-Foil.png"
   },
   {
     "name": "jkaem (Gold) | Berlin 2019",
@@ -2382,7 +2382,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772493,
     "BuffStickerId": 10633,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/jkaem-Gold.png"
   },
   {
     "name": "jks | Berlin 2019",
@@ -2391,7 +2391,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772035,
     "BuffStickerId": 10331,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/jks.png"
   },
   {
     "name": "jks (Foil) | Berlin 2019",
@@ -2400,7 +2400,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772246,
     "BuffStickerId": 10460,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/jks-Foil.png"
   },
   {
     "name": "jks (Gold) | Berlin 2019",
@@ -2409,7 +2409,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772434,
     "BuffStickerId": 10607,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/jks-Gold.png"
   },
   {
     "name": "JUGi | Berlin 2019",
@@ -2418,7 +2418,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772139,
     "BuffStickerId": 10381,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/JUGi.png"
   },
   {
     "name": "JUGi (Foil) | Berlin 2019",
@@ -2427,7 +2427,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772301,
     "BuffStickerId": 10507,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/JUGi-Foil.png"
   },
   {
     "name": "JUGi (Gold) | Berlin 2019",
@@ -2436,7 +2436,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772494,
     "BuffStickerId": 10634,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/JUGi-Gold.png"
   },
   {
     "name": "karrigan | Berlin 2019",
@@ -2445,7 +2445,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771975,
     "BuffStickerId": 10287,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/karrigan.png"
   },
   {
     "name": "karrigan (Foil) | Berlin 2019",
@@ -2454,7 +2454,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772141,
     "BuffStickerId": 10383,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/karrigan-Foil.png"
   },
   {
     "name": "karrigan (Gold) | Berlin 2019",
@@ -2463,7 +2463,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772523,
     "BuffStickerId": 10660,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/karrigan-Gold.png"
   },
   {
     "name": "kennyS | Berlin 2019",
@@ -2472,7 +2472,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772265,
     "BuffStickerId": 10476,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kennyS.png"
   },
   {
     "name": "kennyS (Foil) | Berlin 2019",
@@ -2481,7 +2481,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772049,
     "BuffStickerId": 10342,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kennyS-Foil.png"
   },
   {
     "name": "kennyS (Gold) | Berlin 2019",
@@ -2490,7 +2490,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772500,
     "BuffStickerId": 10640,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kennyS-Gold.png"
   },
   {
     "name": "Keoz | Berlin 2019",
@@ -2499,7 +2499,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772259,
     "BuffStickerId": 10471,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Keoz.png"
   },
   {
     "name": "Keoz (Foil) | Berlin 2019",
@@ -2508,7 +2508,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772487,
     "BuffStickerId": 10629,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Keoz-Foil.png"
   },
   {
     "name": "Keoz (Gold) | Berlin 2019",
@@ -2517,7 +2517,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772423,
     "BuffStickerId": 10599,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Keoz-Gold.png"
   },
   {
     "name": "kinqie | Berlin 2019",
@@ -2526,7 +2526,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772172,
     "BuffStickerId": 10395,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kinqie.png"
   },
   {
     "name": "kinqie (Foil) | Berlin 2019",
@@ -2535,7 +2535,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772424,
     "BuffStickerId": 10600,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kinqie-Foil.png"
   },
   {
     "name": "kinqie (Gold) | Berlin 2019",
@@ -2544,7 +2544,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772496,
     "BuffStickerId": 10636,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kinqie-Gold.png"
   },
   {
     "name": "Kjaerbye | Berlin 2019",
@@ -2553,7 +2553,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772149,
     "BuffStickerId": 10390,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Kjaerbye.png"
   },
   {
     "name": "Kjaerbye (Foil) | Berlin 2019",
@@ -2562,7 +2562,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772260,
     "BuffStickerId": 10472,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Kjaerbye-Foil.png"
   },
   {
     "name": "Kjaerbye (Gold) | Berlin 2019",
@@ -2571,7 +2571,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772533,
     "BuffStickerId": 10670,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Kjaerbye-Gold.png"
   },
   {
     "name": "kNgV- | Berlin 2019",
@@ -2580,7 +2580,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772081,
     "BuffStickerId": 10368,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kNgV.png"
   },
   {
     "name": "kNgV- (Foil) | Berlin 2019",
@@ -2589,7 +2589,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772415,
     "BuffStickerId": 10594,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kNgV-Foil.png"
   },
   {
     "name": "kNgV- (Gold) | Berlin 2019",
@@ -2598,7 +2598,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772513,
     "BuffStickerId": 10651,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/kNgV-Gold.png"
   },
   {
     "name": "Krad | Berlin 2019",
@@ -2607,7 +2607,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772179,
     "BuffStickerId": 10400,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Krad.png"
   },
   {
     "name": "Krad (Foil) | Berlin 2019",
@@ -2616,7 +2616,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772275,
     "BuffStickerId": 10485,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Krad-Foil.png"
   },
   {
     "name": "Krad (Gold) | Berlin 2019",
@@ -2625,7 +2625,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772420,
     "BuffStickerId": 10596,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Krad-Gold.png"
   },
   {
     "name": "KSCERATO | Berlin 2019",
@@ -2634,7 +2634,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772188,
     "BuffStickerId": 10408,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/KSCERATO.png"
   },
   {
     "name": "KSCERATO (Foil) | Berlin 2019",
@@ -2643,7 +2643,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772228,
     "BuffStickerId": 10445,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/KSCERATO-Foil.png"
   },
   {
     "name": "KSCERATO (Gold) | Berlin 2019",
@@ -2652,7 +2652,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772532,
     "BuffStickerId": 10669,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/KSCERATO-Gold.png"
   },
   {
     "name": "Lekr0 | Berlin 2019",
@@ -2661,7 +2661,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771968,
     "BuffStickerId": 10282,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Lekr0.png"
   },
   {
     "name": "Lekr0 (Foil) | Berlin 2019",
@@ -2670,7 +2670,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772201,
     "BuffStickerId": 10420,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Lekr0-Foil.png"
   },
   {
     "name": "Lekr0 (Gold) | Berlin 2019",
@@ -2679,7 +2679,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772349,
     "BuffStickerId": 10539,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Lekr0-Gold.png"
   },
   {
     "name": "LETN1 | Berlin 2019",
@@ -2688,7 +2688,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772102,
     "BuffStickerId": 10374,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/LETN1.png"
   },
   {
     "name": "LETN1 (Foil) | Berlin 2019",
@@ -2697,7 +2697,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772347,
     "BuffStickerId": 10537,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/LETN1-Foil.png"
   },
   {
     "name": "LETN1 (Gold) | Berlin 2019",
@@ -2706,7 +2706,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772534,
     "BuffStickerId": 10671,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/LETN1-Gold.png"
   },
   {
     "name": "Liazz | Berlin 2019",
@@ -2715,7 +2715,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771985,
     "BuffStickerId": 10296,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Liazz.png"
   },
   {
     "name": "Liazz (Foil) | Berlin 2019",
@@ -2724,7 +2724,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772232,
     "BuffStickerId": 10449,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Liazz-Foil.png"
   },
   {
     "name": "Liazz (Gold) | Berlin 2019",
@@ -2733,7 +2733,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772427,
     "BuffStickerId": 10602,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Liazz-Gold.png"
   },
   {
     "name": "loWel | Berlin 2019",
@@ -2742,7 +2742,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772032,
     "BuffStickerId": 10329,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/loWel.png"
   },
   {
     "name": "loWel (Foil) | Berlin 2019",
@@ -2751,7 +2751,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772038,
     "BuffStickerId": 10333,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/loWel-Foil.png"
   },
   {
     "name": "loWel (Gold) | Berlin 2019",
@@ -2760,7 +2760,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772251,
     "BuffStickerId": 10464,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/loWel-Gold.png"
   },
   {
     "name": "LUCAS1 | Berlin 2019",
@@ -2769,7 +2769,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772006,
     "BuffStickerId": 10305,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/LUCAS1.png"
   },
   {
     "name": "LUCAS1 (Foil) | Berlin 2019",
@@ -2778,7 +2778,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772183,
     "BuffStickerId": 10403,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/LUCAS1-Foil.png"
   },
   {
     "name": "LUCAS1 (Gold) | Berlin 2019",
@@ -2787,7 +2787,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772484,
     "BuffStickerId": 10627,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/LUCAS1-Gold.png"
   },
   {
     "name": "Lucky | Berlin 2019",
@@ -2796,7 +2796,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772048,
     "BuffStickerId": 10341,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Lucky.png"
   },
   {
     "name": "Lucky (Foil) | Berlin 2019",
@@ -2805,7 +2805,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772050,
     "BuffStickerId": 10343,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Lucky-Foil.png"
   },
   {
     "name": "Lucky (Gold) | Berlin 2019",
@@ -2814,7 +2814,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772455,
     "BuffStickerId": 10622,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Lucky-Gold.png"
   },
   {
     "name": "Magisk | Berlin 2019",
@@ -2823,7 +2823,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771955,
     "BuffStickerId": 10271,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Magisk.png"
   },
   {
     "name": "Magisk (Foil) | Berlin 2019",
@@ -2832,7 +2832,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772212,
     "BuffStickerId": 10431,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Magisk-Foil.png"
   },
   {
     "name": "Magisk (Gold) | Berlin 2019",
@@ -2841,7 +2841,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772511,
     "BuffStickerId": 10649,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Magisk-Gold.png"
   },
   {
     "name": "malta | Berlin 2019",
@@ -2850,7 +2850,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772107,
     "BuffStickerId": 10376,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/malta.png"
   },
   {
     "name": "malta (Foil) | Berlin 2019",
@@ -2859,7 +2859,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772333,
     "BuffStickerId": 10528,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/malta-Foil.png"
   },
   {
     "name": "malta (Gold) | Berlin 2019",
@@ -2868,7 +2868,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772521,
     "BuffStickerId": 10658,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/malta-Gold.png"
   },
   {
     "name": "NAF | Berlin 2019",
@@ -2877,7 +2877,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771960,
     "BuffStickerId": 10274,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NAF.png"
   },
   {
     "name": "NAF (Foil) | Berlin 2019",
@@ -2886,7 +2886,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772206,
     "BuffStickerId": 10425,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NAF-Foil.png"
   },
   {
     "name": "NAF (Gold) | Berlin 2019",
@@ -2895,7 +2895,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772453,
     "BuffStickerId": 10621,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NAF-Gold.png"
   },
   {
     "name": "NBK- | Berlin 2019",
@@ -2904,7 +2904,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772053,
     "BuffStickerId": 10346,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NBK.png"
   },
   {
     "name": "NBK- (Foil) | Berlin 2019",
@@ -2913,7 +2913,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772015,
     "BuffStickerId": 10314,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NBK-Foil.png"
   },
   {
     "name": "NBK- (Gold) | Berlin 2019",
@@ -2922,7 +2922,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772429,
     "BuffStickerId": 10604,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NBK-Gold.png"
   },
   {
     "name": "neaLaN | Berlin 2019",
@@ -2931,7 +2931,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772078,
     "BuffStickerId": 10366,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/neaLaN.png"
   },
   {
     "name": "neaLaN (Foil) | Berlin 2019",
@@ -2940,7 +2940,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772072,
     "BuffStickerId": 10363,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/neaLaN-Foil.png"
   },
   {
     "name": "neaLaN (Gold) | Berlin 2019",
@@ -2949,7 +2949,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772540,
     "BuffStickerId": 10677,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/neaLaN-Gold.png"
   },
   {
     "name": "NEO | Berlin 2019",
@@ -2958,7 +2958,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772029,
     "BuffStickerId": 10326,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NEO.png"
   },
   {
     "name": "NEO (Foil) | Berlin 2019",
@@ -2967,7 +2967,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772295,
     "BuffStickerId": 10503,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NEO-Foil.png"
   },
   {
     "name": "NEO (Gold) | Berlin 2019",
@@ -2976,7 +2976,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772439,
     "BuffStickerId": 10612,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NEO-Gold.png"
   },
   {
     "name": "nexa | Berlin 2019",
@@ -2985,7 +2985,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772283,
     "BuffStickerId": 10493,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/nexa.png"
   },
   {
     "name": "nexa (Foil) | Berlin 2019",
@@ -2994,7 +2994,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772282,
     "BuffStickerId": 10492,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/nexa-Foil.png"
   },
   {
     "name": "nexa (Gold) | Berlin 2019",
@@ -3003,7 +3003,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772565,
     "BuffStickerId": 10694,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/nexa-Gold.png"
   },
   {
     "name": "NiKo | Berlin 2019",
@@ -3012,7 +3012,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772024,
     "BuffStickerId": 10322,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NiKo.png"
   },
   {
     "name": "NiKo (Foil) | Berlin 2019",
@@ -3021,7 +3021,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772177,
     "BuffStickerId": 10398,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NiKo-Foil.png"
   },
   {
     "name": "NiKo (Gold) | Berlin 2019",
@@ -3030,7 +3030,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772506,
     "BuffStickerId": 10645,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/NiKo-Gold.png"
   },
   {
     "name": "nitr0 | Berlin 2019",
@@ -3039,7 +3039,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772033,
     "BuffStickerId": 10330,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/nitr0.png"
   },
   {
     "name": "nitr0 (Foil) | Berlin 2019",
@@ -3048,7 +3048,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771964,
     "BuffStickerId": 10278,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/nitr0-Foil.png"
   },
   {
     "name": "nitr0 (Gold) | Berlin 2019",
@@ -3057,7 +3057,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772486,
     "BuffStickerId": 10628,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/nitr0-Gold.png"
   },
   {
     "name": "oBo | Berlin 2019",
@@ -3066,7 +3066,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771978,
     "BuffStickerId": 10289,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/oBo.png"
   },
   {
     "name": "oBo (Foil) | Berlin 2019",
@@ -3075,7 +3075,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772350,
     "BuffStickerId": 10540,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/oBo-Foil.png"
   },
   {
     "name": "oBo (Gold) | Berlin 2019",
@@ -3084,7 +3084,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772443,
     "BuffStickerId": 10615,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/oBo-Gold.png"
   },
   {
     "name": "olofmeister | Berlin 2019",
@@ -3093,7 +3093,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771949,
     "BuffStickerId": 10265,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/olofmeister.png"
   },
   {
     "name": "olofmeister (Foil) | Berlin 2019",
@@ -3102,7 +3102,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771966,
     "BuffStickerId": 10280,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/olofmeister-Foil.png"
   },
   {
     "name": "olofmeister (Gold) | Berlin 2019",
@@ -3111,7 +3111,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772402,
     "BuffStickerId": 10581,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/olofmeister-Gold.png"
   },
   {
     "name": "oskar | Berlin 2019",
@@ -3120,7 +3120,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 771974,
     "BuffStickerId": 10286,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/oskar.png"
   },
   {
     "name": "oskar (Foil) | Berlin 2019",
@@ -3129,7 +3129,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772284,
     "BuffStickerId": 10494,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/oskar-Foil.png"
   },
   {
     "name": "oskar (Gold) | Berlin 2019",
@@ -3138,7 +3138,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772480,
     "BuffStickerId": 10624,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/oskar-Gold.png"
   },
   {
     "name": "ottoNd | Berlin 2019",
@@ -3147,7 +3147,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772176,
     "BuffStickerId": 10397,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ottoNd.png"
   },
   {
     "name": "ottoNd (Foil) | Berlin 2019",
@@ -3156,7 +3156,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772162,
     "BuffStickerId": 10393,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ottoNd-Foil.png"
   },
   {
     "name": "ottoNd (Gold) | Berlin 2019",
@@ -3165,7 +3165,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772514,
     "BuffStickerId": 10652,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ottoNd-Gold.png"
   },
   {
     "name": "Perfecto | Berlin 2019",
@@ -3174,7 +3174,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772062,
     "BuffStickerId": 10355,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Perfecto.png"
   },
   {
     "name": "Perfecto (Foil) | Berlin 2019",
@@ -3183,7 +3183,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772302,
     "BuffStickerId": 10508,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Perfecto-Foil.png"
   },
   {
     "name": "Perfecto (Gold) | Berlin 2019",
@@ -3192,7 +3192,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772519,
     "BuffStickerId": 10657,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Perfecto-Gold.png"
   },
   {
     "name": "qikert | Berlin 2019",
@@ -3201,7 +3201,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772030,
     "BuffStickerId": 10327,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/qikert.png"
   },
   {
     "name": "qikert (Foil) | Berlin 2019",
@@ -3210,7 +3210,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772317,
     "BuffStickerId": 10522,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/qikert-Foil.png"
   },
   {
     "name": "qikert (Gold) | Berlin 2019",
@@ -3219,7 +3219,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772553,
     "BuffStickerId": 10688,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/qikert-Gold.png"
   },
   {
     "name": "rain | Berlin 2019",
@@ -3228,7 +3228,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772037,
     "BuffStickerId": 10332,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/rain.png"
   },
   {
     "name": "rain (Foil) | Berlin 2019",
@@ -3237,7 +3237,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772186,
     "BuffStickerId": 10406,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/rain-Foil.png"
   },
   {
     "name": "rain (Gold) | Berlin 2019",
@@ -3246,7 +3246,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772422,
     "BuffStickerId": 10598,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/rain-Gold.png"
   },
   {
     "name": "Ramz1kBO$$ | Berlin 2019",
@@ -3255,7 +3255,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772312,
     "BuffStickerId": 10517,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Ramz1kBO.png"
   },
   {
     "name": "Ramz1kBO$$ (Foil) | Berlin 2019",
@@ -3264,7 +3264,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772398,
     "BuffStickerId": 10577,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Ramz1kBO-Foil.png"
   },
   {
     "name": "Ramz1kBO$$ (Gold) | Berlin 2019",
@@ -3273,7 +3273,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772574,
     "BuffStickerId": 10698,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Ramz1kBO-Gold.png"
   },
   {
     "name": "REZ | Berlin 2019",
@@ -3282,7 +3282,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772216,
     "BuffStickerId": 10435,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/REZ.png"
   },
   {
     "name": "REZ (Foil) | Berlin 2019",
@@ -3291,7 +3291,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772026,
     "BuffStickerId": 10324,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/REZ-Foil.png"
   },
   {
     "name": "REZ (Gold) | Berlin 2019",
@@ -3300,7 +3300,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772451,
     "BuffStickerId": 10619,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/REZ-Gold.png"
   },
   {
     "name": "Rickeh | Berlin 2019",
@@ -3309,7 +3309,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772031,
     "BuffStickerId": 10328,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Rickeh.png"
   },
   {
     "name": "Rickeh (Foil) | Berlin 2019",
@@ -3318,7 +3318,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772329,
     "BuffStickerId": 10526,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Rickeh-Foil.png"
   },
   {
     "name": "Rickeh (Gold) | Berlin 2019",
@@ -3327,7 +3327,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772352,
     "BuffStickerId": 10542,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Rickeh-Gold.png"
   },
   {
     "name": "ropz | Berlin 2019",
@@ -3336,7 +3336,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772087,
     "BuffStickerId": 10371,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ropz.png"
   },
   {
     "name": "ropz (Foil) | Berlin 2019",
@@ -3345,7 +3345,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772442,
     "BuffStickerId": 10614,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ropz-Foil.png"
   },
   {
     "name": "ropz (Gold) | Berlin 2019",
@@ -3354,7 +3354,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772401,
     "BuffStickerId": 10580,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ropz-Gold.png"
   },
   {
     "name": "RpK | Berlin 2019",
@@ -3363,7 +3363,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772209,
     "BuffStickerId": 10428,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/RpK.png"
   },
   {
     "name": "RpK (Foil) | Berlin 2019",
@@ -3372,7 +3372,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772293,
     "BuffStickerId": 10502,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/RpK-Foil.png"
   },
   {
     "name": "RpK (Gold) | Berlin 2019",
@@ -3381,7 +3381,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772505,
     "BuffStickerId": 10644,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/RpK-Gold.png"
   },
   {
     "name": "s1mple | Berlin 2019",
@@ -3390,7 +3390,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772202,
     "BuffStickerId": 10421,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/s1mple.png"
   },
   {
     "name": "s1mple (Foil) | Berlin 2019",
@@ -3399,7 +3399,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772306,
     "BuffStickerId": 10512,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/s1mple-Foil.png"
   },
   {
     "name": "s1mple (Gold) | Berlin 2019",
@@ -3408,7 +3408,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772425,
     "BuffStickerId": 10601,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/s1mple-Gold.png"
   },
   {
     "name": "SANJI | Berlin 2019",
@@ -3417,7 +3417,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772054,
     "BuffStickerId": 10347,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SANJI.png"
   },
   {
     "name": "SANJI (Foil) | Berlin 2019",
@@ -3426,7 +3426,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 771976,
     "BuffStickerId": 10288,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SANJI-Foil.png"
   },
   {
     "name": "SANJI (Gold) | Berlin 2019",
@@ -3435,7 +3435,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772535,
     "BuffStickerId": 10672,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SANJI-Gold.png"
   },
   {
     "name": "sergej | Berlin 2019",
@@ -3444,7 +3444,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772189,
     "BuffStickerId": 10409,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/sergej.png"
   },
   {
     "name": "sergej (Foil) | Berlin 2019",
@@ -3453,7 +3453,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772311,
     "BuffStickerId": 10516,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/sergej-Foil.png"
   },
   {
     "name": "sergej (Gold) | Berlin 2019",
@@ -3462,7 +3462,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772459,
     "BuffStickerId": 10623,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/sergej-Gold.png"
   },
   {
     "name": "ShahZaM | Berlin 2019",
@@ -3471,7 +3471,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772014,
     "BuffStickerId": 10313,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ShahZaM.png"
   },
   {
     "name": "ShahZaM (Foil) | Berlin 2019",
@@ -3480,7 +3480,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772360,
     "BuffStickerId": 10549,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ShahZaM-Foil.png"
   },
   {
     "name": "ShahZaM (Gold) | Berlin 2019",
@@ -3489,7 +3489,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772507,
     "BuffStickerId": 10646,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ShahZaM-Gold.png"
   },
   {
     "name": "shox | Berlin 2019",
@@ -3498,7 +3498,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772271,
     "BuffStickerId": 10482,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/shox.png"
   },
   {
     "name": "shox (Foil) | Berlin 2019",
@@ -3507,7 +3507,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772213,
     "BuffStickerId": 10432,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/shox-Foil.png"
   },
   {
     "name": "shox (Gold) | Berlin 2019",
@@ -3516,7 +3516,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772353,
     "BuffStickerId": 10543,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/shox-Gold.png"
   },
   {
     "name": "SicK | Berlin 2019",
@@ -3525,7 +3525,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772254,
     "BuffStickerId": 10467,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SicK.png"
   },
   {
     "name": "SicK (Foil) | Berlin 2019",
@@ -3534,7 +3534,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772052,
     "BuffStickerId": 10345,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SicK-Foil.png"
   },
   {
     "name": "SicK (Gold) | Berlin 2019",
@@ -3543,7 +3543,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772368,
     "BuffStickerId": 10554,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/SicK-Gold.png"
   },
   {
     "name": "Sico | Berlin 2019",
@@ -3552,7 +3552,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772357,
     "BuffStickerId": 10547,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Sico.png"
   },
   {
     "name": "Sico (Foil) | Berlin 2019",
@@ -3561,7 +3561,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772281,
     "BuffStickerId": 10491,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Sico-Foil.png"
   },
   {
     "name": "Sico (Gold) | Berlin 2019",
@@ -3570,7 +3570,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772512,
     "BuffStickerId": 10650,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Sico-Gold.png"
   },
   {
     "name": "somebody | Berlin 2019",
@@ -3579,7 +3579,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772193,
     "BuffStickerId": 10413,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/somebody.png"
   },
   {
     "name": "somebody (Foil) | Berlin 2019",
@@ -3588,7 +3588,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772136,
     "BuffStickerId": 10380,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/somebody-Foil.png"
   },
   {
     "name": "somebody (Gold) | Berlin 2019",
@@ -3597,7 +3597,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772497,
     "BuffStickerId": 10637,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/somebody-Gold.png"
   },
   {
     "name": "speed4k | Berlin 2019",
@@ -3606,7 +3606,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772178,
     "BuffStickerId": 10399,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/speed4k.png"
   },
   {
     "name": "speed4k (Foil) | Berlin 2019",
@@ -3615,7 +3615,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772203,
     "BuffStickerId": 10422,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/speed4k-Foil.png"
   },
   {
     "name": "speed4k (Gold) | Berlin 2019",
@@ -3624,7 +3624,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772541,
     "BuffStickerId": 10678,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/speed4k-Gold.png"
   },
   {
     "name": "stanislaw | Berlin 2019",
@@ -3633,7 +3633,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772065,
     "BuffStickerId": 10358,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/stanislaw.png"
   },
   {
     "name": "stanislaw (Foil) | Berlin 2019",
@@ -3642,7 +3642,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772491,
     "BuffStickerId": 10632,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/stanislaw-Foil.png"
   },
   {
     "name": "stanislaw (Gold) | Berlin 2019",
@@ -3651,7 +3651,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772559,
     "BuffStickerId": 10690,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/stanislaw-Gold.png"
   },
   {
     "name": "Stewie2K | Berlin 2019",
@@ -3660,7 +3660,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772184,
     "BuffStickerId": 10404,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Stewie2K.png"
   },
   {
     "name": "Stewie2K (Foil) | Berlin 2019",
@@ -3669,7 +3669,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772243,
     "BuffStickerId": 10457,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Stewie2K-Foil.png"
   },
   {
     "name": "Stewie2K (Gold) | Berlin 2019",
@@ -3678,7 +3678,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772495,
     "BuffStickerId": 10635,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Stewie2K-Gold.png"
   },
   {
     "name": "Summer | Berlin 2019",
@@ -3687,7 +3687,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772148,
     "BuffStickerId": 10389,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Summer.png"
   },
   {
     "name": "Summer (Foil) | Berlin 2019",
@@ -3696,7 +3696,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772330,
     "BuffStickerId": 10527,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Summer-Foil.png"
   },
   {
     "name": "Summer (Gold) | Berlin 2019",
@@ -3705,7 +3705,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772524,
     "BuffStickerId": 10661,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Summer-Gold.png"
   },
   {
     "name": "svyat | Berlin 2019",
@@ -3714,7 +3714,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772261,
     "BuffStickerId": 10473,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/svyat.png"
   },
   {
     "name": "svyat (Foil) | Berlin 2019",
@@ -3723,7 +3723,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772436,
     "BuffStickerId": 10609,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/svyat-Foil.png"
   },
   {
     "name": "svyat (Gold) | Berlin 2019",
@@ -3732,7 +3732,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772509,
     "BuffStickerId": 10647,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/svyat-Gold.png"
   },
   {
     "name": "t0rick | Berlin 2019",
@@ -3741,7 +3741,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772338,
     "BuffStickerId": 10532,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/t0rick.png"
   },
   {
     "name": "t0rick (Foil) | Berlin 2019",
@@ -3750,7 +3750,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772405,
     "BuffStickerId": 10584,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/t0rick-Foil.png"
   },
   {
     "name": "t0rick (Gold) | Berlin 2019",
@@ -3759,7 +3759,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772567,
     "BuffStickerId": 10695,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/t0rick-Gold.png"
   },
   {
     "name": "TACO | Berlin 2019",
@@ -3768,7 +3768,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772217,
     "BuffStickerId": 10436,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TACO.png"
   },
   {
     "name": "TACO (Foil) | Berlin 2019",
@@ -3777,7 +3777,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772296,
     "BuffStickerId": 10504,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TACO-Foil.png"
   },
   {
     "name": "TACO (Gold) | Berlin 2019",
@@ -3786,7 +3786,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772364,
     "BuffStickerId": 10550,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/TACO-Gold.png"
   },
   {
     "name": "tarik | Berlin 2019",
@@ -3795,7 +3795,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772258,
     "BuffStickerId": 10470,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/tarik.png"
   },
   {
     "name": "tarik (Foil) | Berlin 2019",
@@ -3804,7 +3804,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772337,
     "BuffStickerId": 10531,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/tarik-Foil.png"
   },
   {
     "name": "tarik (Gold) | Berlin 2019",
@@ -3813,7 +3813,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772061,
     "BuffStickerId": 10354,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/tarik-Gold.png"
   },
   {
     "name": "Twistzz | Berlin 2019",
@@ -3822,7 +3822,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772017,
     "BuffStickerId": 10316,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Twistzz.png"
   },
   {
     "name": "Twistzz (Foil) | Berlin 2019",
@@ -3831,7 +3831,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772267,
     "BuffStickerId": 10478,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Twistzz-Foil.png"
   },
   {
     "name": "Twistzz (Gold) | Berlin 2019",
@@ -3840,7 +3840,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772399,
     "BuffStickerId": 10578,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Twistzz-Gold.png"
   },
   {
     "name": "v4lde | Berlin 2019",
@@ -3849,7 +3849,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772101,
     "BuffStickerId": 10373,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/v4lde.png"
   },
   {
     "name": "v4lde (Foil) | Berlin 2019",
@@ -3858,7 +3858,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772140,
     "BuffStickerId": 10382,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/v4lde-Foil.png"
   },
   {
     "name": "v4lde (Gold) | Berlin 2019",
@@ -3867,7 +3867,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772556,
     "BuffStickerId": 10689,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/v4lde-Gold.png"
   },
   {
     "name": "VINI | Berlin 2019",
@@ -3876,7 +3876,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772249,
     "BuffStickerId": 10462,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/VINI.png"
   },
   {
     "name": "VINI (Foil) | Berlin 2019",
@@ -3885,7 +3885,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772389,
     "BuffStickerId": 10572,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/VINI-Foil.png"
   },
   {
     "name": "VINI (Gold) | Berlin 2019",
@@ -3894,7 +3894,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772536,
     "BuffStickerId": 10673,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/VINI-Gold.png"
   },
   {
     "name": "woxic | Berlin 2019",
@@ -3903,7 +3903,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772191,
     "BuffStickerId": 10411,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/woxic.png"
   },
   {
     "name": "woxic (Foil) | Berlin 2019",
@@ -3912,7 +3912,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772413,
     "BuffStickerId": 10592,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/woxic-Foil.png"
   },
   {
     "name": "woxic (Gold) | Berlin 2019",
@@ -3921,7 +3921,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772542,
     "BuffStickerId": 10679,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/woxic-Gold.png"
   },
   {
     "name": "xand | Berlin 2019",
@@ -3930,7 +3930,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772155,
     "BuffStickerId": 10391,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xand.png"
   },
   {
     "name": "xand (Foil) | Berlin 2019",
@@ -3939,7 +3939,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772372,
     "BuffStickerId": 10558,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xand-Foil.png"
   },
   {
     "name": "xand (Gold) | Berlin 2019",
@@ -3948,7 +3948,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772568,
     "BuffStickerId": 10696,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xand-Gold.png"
   },
   {
     "name": "xsepower | Berlin 2019",
@@ -3957,7 +3957,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772057,
     "BuffStickerId": 10350,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xsepower.png"
   },
   {
     "name": "xsepower (Foil) | Berlin 2019",
@@ -3966,7 +3966,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772341,
     "BuffStickerId": 10535,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xsepower-Foil.png"
   },
   {
     "name": "xsepower (Gold) | Berlin 2019",
@@ -3975,7 +3975,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772543,
     "BuffStickerId": 10680,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xsepower-Gold.png"
   },
   {
     "name": "xseveN | Berlin 2019",
@@ -3984,7 +3984,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772214,
     "BuffStickerId": 10433,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xseveN.png"
   },
   {
     "name": "xseveN (Foil) | Berlin 2019",
@@ -3993,7 +3993,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772218,
     "BuffStickerId": 10437,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xseveN-Foil.png"
   },
   {
     "name": "xseveN (Gold) | Berlin 2019",
@@ -4002,7 +4002,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772483,
     "BuffStickerId": 10626,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/xseveN-Gold.png"
   },
   {
     "name": "Xyp9x | Berlin 2019",
@@ -4011,7 +4011,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772042,
     "BuffStickerId": 10337,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Xyp9x.png"
   },
   {
     "name": "Xyp9x (Foil) | Berlin 2019",
@@ -4020,7 +4020,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772287,
     "BuffStickerId": 10497,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Xyp9x-Foil.png"
   },
   {
     "name": "Xyp9x (Gold) | Berlin 2019",
@@ -4029,7 +4029,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772406,
     "BuffStickerId": 10585,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Xyp9x-Gold.png"
   },
   {
     "name": "yel | Berlin 2019",
@@ -4038,7 +4038,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772198,
     "BuffStickerId": 10417,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/yel.png"
   },
   {
     "name": "yel (Foil) | Berlin 2019",
@@ -4047,7 +4047,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772359,
     "BuffStickerId": 10548,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/yel-Foil.png"
   },
   {
     "name": "yel (Gold) | Berlin 2019",
@@ -4056,7 +4056,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772560,
     "BuffStickerId": 10691,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/yel-Gold.png"
   },
   {
     "name": "yuurih | Berlin 2019",
@@ -4065,7 +4065,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772245,
     "BuffStickerId": 10459,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/yuurih.png"
   },
   {
     "name": "yuurih (Foil) | Berlin 2019",
@@ -4074,7 +4074,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772437,
     "BuffStickerId": 10610,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/yuurih-Foil.png"
   },
   {
     "name": "yuurih (Gold) | Berlin 2019",
@@ -4083,7 +4083,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772552,
     "BuffStickerId": 10687,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/yuurih-Gold.png"
   },
   {
     "name": "Zeus | Berlin 2019",
@@ -4092,7 +4092,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772004,
     "BuffStickerId": 10304,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Zeus.png"
   },
   {
     "name": "Zeus (Foil) | Berlin 2019",
@@ -4101,7 +4101,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772025,
     "BuffStickerId": 10323,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Zeus-Foil.png"
   },
   {
     "name": "Zeus (Gold) | Berlin 2019",
@@ -4110,7 +4110,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772501,
     "BuffStickerId": 10641,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/Zeus-Gold.png"
   },
   {
     "name": "ZywOo | Berlin 2019",
@@ -4119,7 +4119,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 772019,
     "BuffStickerId": 10318,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ZywOo.png"
   },
   {
     "name": "ZywOo (Foil) | Berlin 2019",
@@ -4128,7 +4128,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 772001,
     "BuffStickerId": 10303,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ZywOo-Foil.png"
   },
   {
     "name": "ZywOo (Gold) | Berlin 2019",
@@ -4137,6 +4137,6 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": 772544,
     "BuffStickerId": 10681,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Berlin2019/ZywOo-Gold.png"
   }
 ]

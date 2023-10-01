@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 770876,
     "BuffStickerId": 8825,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/BigClucks-Foil.png"
   },
   {
     "name": "Roosty Boosty (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 770846,
     "BuffStickerId": 8809,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/RoostyBoosty-Foil.png"
   },
   {
     "name": "Hot Wings (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 770860,
     "BuffStickerId": 8819,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/HotWings-Holo.png"
   },
   {
     "name": "Fowl Play (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 770852,
     "BuffStickerId": 8813,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/FowlPlay-Holo.png"
   },
   {
     "name": "Double Dip (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 770858,
     "BuffStickerId": 8817,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/DoubleDip-Holo.png"
   },
   {
     "name": "Bonehead (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 770861,
     "BuffStickerId": 8820,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/Bonehead-Holo.png"
   },
   {
     "name": "Nest Egg (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 770848,
     "BuffStickerId": 8810,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/NestEgg-Holo.png"
   },
   {
     "name": "Big Clucks",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770875,
     "BuffStickerId": 8824,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/BigClucks.png"
   },
   {
     "name": "BukAWP",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770849,
     "BuffStickerId": 8811,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/BukAWP.png"
   },
   {
     "name": "Hot Wings",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770853,
     "BuffStickerId": 8814,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/HotWings.png"
   },
   {
     "name": "Fowl Play",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770850,
     "BuffStickerId": 8812,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/FowlPlay.png"
   },
   {
     "name": "Bonehead",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770859,
     "BuffStickerId": 8818,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/Bonehead.png"
   },
   {
     "name": "What What",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770873,
     "BuffStickerId": 8823,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/WhatWhat.png"
   },
   {
     "name": "Nest Egg",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770855,
     "BuffStickerId": 8815,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/NestEgg.png"
   },
   {
     "name": "Roosty Boosty",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770856,
     "BuffStickerId": 8816,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/RoostyBoosty.png"
   },
   {
     "name": "Double Dip",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770872,
     "BuffStickerId": 8822,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/DoubleDip.png"
   },
   {
     "name": "Heads Up",
@@ -150,6 +150,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 770871,
     "BuffStickerId": 8821,
-    "Image": null
+    "Image": "/assets/img/items/stickers/ChickenCapsule/HeadsUp.png"
   }
 ]

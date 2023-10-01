@@ -6,7 +6,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40662,
     "BuffStickerId": 1563,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Perry-Holo.png"
   },
   {
     "name": "Jack (Holo)",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40365,
     "BuffStickerId": 1273,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Jack-Holo.png"
   },
   {
     "name": "Stan (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40845,
     "BuffStickerId": 1745,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Stan-Holo.png"
   },
   {
     "name": "Viggo (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41015,
     "BuffStickerId": 1912,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Viggo-Holo.png"
   },
   {
     "name": "Max (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40508,
     "BuffStickerId": 1413,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Max-Holo.png"
   },
   {
     "name": "Boris (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39931,
     "BuffStickerId": 847,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Boris-Holo.png"
   },
   {
     "name": "Joan (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40372,
     "BuffStickerId": 1280,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Joan-Holo.png"
   },
   {
     "name": "Jack",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40364,
     "BuffStickerId": 1272,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Jack.png"
   },
   {
     "name": "Viggo",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41014,
     "BuffStickerId": 1911,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Viggo.png"
   },
   {
     "name": "Perry",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40661,
     "BuffStickerId": 1562,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Perry.png"
   },
   {
     "name": "Stan",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40844,
     "BuffStickerId": 1744,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Stan.png"
   },
   {
     "name": "Max",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40507,
     "BuffStickerId": 1412,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Max.png"
   },
   {
     "name": "Joan",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40371,
     "BuffStickerId": 1279,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Joan.png"
   },
   {
     "name": "Boris",
@@ -123,6 +123,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39930,
     "BuffStickerId": 846,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SugarfaceCapsule/Boris.png"
   }
 ]

@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39993,
     "BuffStickerId": 906,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Crown-Foil.png"
   },
   {
     "name": "Stupid Banana (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40855,
     "BuffStickerId": 1755,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/StupidBanana-Foil.png"
   },
   {
     "name": "Bish (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39909,
     "BuffStickerId": 828,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Bish-Holo.png"
   },
   {
     "name": "Bash (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39906,
     "BuffStickerId": 825,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Bash-Holo.png"
   },
   {
     "name": "Bosh (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39932,
     "BuffStickerId": 848,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Bosh-Holo.png"
   },
   {
     "name": "Let's Roll-oll (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40445,
     "BuffStickerId": 1351,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/LetsRolloll-Holo.png"
   },
   {
     "name": "Good Game",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40244,
     "BuffStickerId": 1155,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/GoodGame.png"
   },
   {
     "name": "Nice Shot",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40607,
     "BuffStickerId": 1508,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/NiceShot.png"
   },
   {
     "name": "Welcome to the Clutch",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41057,
     "BuffStickerId": 1954,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/WelcometotheClutch.png"
   },
   {
     "name": "Banana",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39905,
     "BuffStickerId": 824,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Banana.png"
   },
   {
     "name": "Good Luck",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40245,
     "BuffStickerId": 1156,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/GoodLuck.png"
   },
   {
     "name": "Bomb Code",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39917,
     "BuffStickerId": 836,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/BombCode.png"
   },
   {
     "name": "Have Fun",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40297,
     "BuffStickerId": 1206,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/HaveFun.png"
   },
   {
     "name": "Chicken Lover",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39947,
     "BuffStickerId": 863,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/ChickenLover.png"
   },
   {
     "name": "Let's Roll-oll",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40444,
     "BuffStickerId": 1350,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/LetsRolloll.png"
   },
   {
     "name": "Metal",
@@ -141,6 +141,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40512,
     "BuffStickerId": 1416,
-    "Image": null
+    "Image": "/assets/img/items/stickers/StickerCapsule1/Metal.png"
   }
 ]

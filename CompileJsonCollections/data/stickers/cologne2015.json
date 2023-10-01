@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39964,
     "BuffStickerId": 880,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Cloud9G2A.png"
   },
   {
     "name": "Cloud9 G2A (Foil) | Cologne 2015",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39961,
     "BuffStickerId": 877,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Cloud9G2A-Foil.png"
   },
   {
     "name": "Cloud9 G2A (Gold) | Cologne 2015",
@@ -24,7 +24,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Cloud9G2A-Gold.png"
   },
   {
     "name": "Counter Logic Gaming | Cologne 2015",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39987,
     "BuffStickerId": 902,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/CounterLogicGaming.png"
   },
   {
     "name": "Counter Logic Gaming (Foil) | Cologne 2015",
@@ -42,7 +42,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39979,
     "BuffStickerId": 894,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/CounterLogicGaming-Foil.png"
   },
   {
     "name": "Counter Logic Gaming (Gold) | Cologne 2015",
@@ -51,7 +51,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/CounterLogicGaming-Gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Cologne 2015",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40155,
     "BuffStickerId": 1066,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Flipsid3Tactics.png"
   },
   {
     "name": "Flipsid3 Tactics (Foil) | Cologne 2015",
@@ -69,7 +69,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40142,
     "BuffStickerId": 1053,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Flipsid3Tactics-Foil.png"
   },
   {
     "name": "Flipsid3 Tactics (Gold) | Cologne 2015",
@@ -78,7 +78,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Flipsid3Tactics-Gold.png"
   },
   {
     "name": "Fnatic | Cologne 2015",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40183,
     "BuffStickerId": 1094,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Fnatic.png"
   },
   {
     "name": "Fnatic (Foil) | Cologne 2015",
@@ -96,7 +96,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40164,
     "BuffStickerId": 1075,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Fnatic-Foil.png"
   },
   {
     "name": "Fnatic (Gold) | Cologne 2015",
@@ -105,7 +105,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Fnatic-Gold.png"
   },
   {
     "name": "Luminosity Gaming | Cologne 2015",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40464,
     "BuffStickerId": 1370,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/LuminosityGaming.png"
   },
   {
     "name": "Luminosity Gaming (Foil) | Cologne 2015",
@@ -123,7 +123,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40460,
     "BuffStickerId": 1366,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/LuminosityGaming-Foil.png"
   },
   {
     "name": "Luminosity Gaming (Gold) | Cologne 2015",
@@ -132,7 +132,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/LuminosityGaming-Gold.png"
   },
   {
     "name": "mousesports | Cologne 2015",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41683,
     "BuffStickerId": 2580,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/mousesports.png"
   },
   {
     "name": "mousesports (Foil) | Cologne 2015",
@@ -150,7 +150,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41670,
     "BuffStickerId": 2567,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/mousesports-Foil.png"
   },
   {
     "name": "mousesports (Gold) | Cologne 2015",
@@ -159,7 +159,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/mousesports-Gold.png"
   },
   {
     "name": "Natus Vincere | Cologne 2015",
@@ -168,7 +168,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40583,
     "BuffStickerId": 1484,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NatusVincere.png"
   },
   {
     "name": "Natus Vincere (Foil) | Cologne 2015",
@@ -177,7 +177,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40565,
     "BuffStickerId": 1467,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NatusVincere-Foil.png"
   },
   {
     "name": "Natus Vincere (Gold) | Cologne 2015",
@@ -186,7 +186,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NatusVincere-Gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Cologne 2015",
@@ -195,7 +195,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40627,
     "BuffStickerId": 1528,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NinjasinPyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Cologne 2015",
@@ -204,7 +204,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40614,
     "BuffStickerId": 1515,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NinjasinPyjamas-Foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | Cologne 2015",
@@ -213,7 +213,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NinjasinPyjamas-Gold.png"
   },
   {
     "name": "Renegades | Cologne 2015",
@@ -222,7 +222,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40701,
     "BuffStickerId": 1602,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Renegades.png"
   },
   {
     "name": "Renegades (Foil) | Cologne 2015",
@@ -231,7 +231,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 43942,
     "BuffStickerId": 2860,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Renegades-Foil.png"
   },
   {
     "name": "Renegades (Gold) | Cologne 2015",
@@ -240,7 +240,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Renegades-Gold.png"
   },
   {
     "name": "Team eBettle | Cologne 2015",
@@ -249,7 +249,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40956,
     "BuffStickerId": 1854,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeameBettle.png"
   },
   {
     "name": "Team eBettle (Foil) | Cologne 2015",
@@ -258,7 +258,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40955,
     "BuffStickerId": 1853,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeameBettle-Foil.png"
   },
   {
     "name": "Team eBettle (Gold) | Cologne 2015",
@@ -267,7 +267,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeameBettle-Gold.png"
   },
   {
     "name": "Team EnVyUs | Cologne 2015",
@@ -276,7 +276,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40924,
     "BuffStickerId": 1822,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamEnVyUs.png"
   },
   {
     "name": "Team EnVyUs (Foil) | Cologne 2015",
@@ -285,7 +285,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 43943,
     "BuffStickerId": 2861,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamEnVyUs-Foil.png"
   },
   {
     "name": "Team EnVyUs (Gold) | Cologne 2015",
@@ -294,7 +294,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamEnVyUs-Gold.png"
   },
   {
     "name": "Team Immunity | Cologne 2015",
@@ -303,7 +303,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40929,
     "BuffStickerId": 1827,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamImmunity.png"
   },
   {
     "name": "Team Immunity (Foil) | Cologne 2015",
@@ -312,7 +312,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40928,
     "BuffStickerId": 1826,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamImmunity-Foil.png"
   },
   {
     "name": "Team Immunity (Gold) | Cologne 2015",
@@ -321,7 +321,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamImmunity-Gold.png"
   },
   {
     "name": "Team Kinguin | Cologne 2015",
@@ -330,7 +330,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40931,
     "BuffStickerId": 1829,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamKinguin.png"
   },
   {
     "name": "Team Kinguin (Foil) | Cologne 2015",
@@ -339,7 +339,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40930,
     "BuffStickerId": 1828,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamKinguin-Foil.png"
   },
   {
     "name": "Team Kinguin (Gold) | Cologne 2015",
@@ -348,7 +348,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamKinguin-Gold.png"
   },
   {
     "name": "Team SoloMid | Cologne 2015",
@@ -357,7 +357,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40954,
     "BuffStickerId": 1852,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamSoloMid.png"
   },
   {
     "name": "Team SoloMid (Foil) | Cologne 2015",
@@ -366,7 +366,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40952,
     "BuffStickerId": 1850,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamSoloMid-Foil.png"
   },
   {
     "name": "Team SoloMid (Gold) | Cologne 2015",
@@ -375,7 +375,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TeamSoloMid-Gold.png"
   },
   {
     "name": "Titan | Cologne 2015",
@@ -384,7 +384,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40985,
     "BuffStickerId": 1882,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Titan.png"
   },
   {
     "name": "Titan (Foil) | Cologne 2015",
@@ -393,7 +393,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40978,
     "BuffStickerId": 1875,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Titan-Foil.png"
   },
   {
     "name": "Titan (Gold) | Cologne 2015",
@@ -402,7 +402,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Titan-Gold.png"
   },
   {
     "name": "Virtus.Pro | Cologne 2015",
@@ -411,7 +411,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41037,
     "BuffStickerId": 1934,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/VirtusPro.png"
   },
   {
     "name": "Virtus.Pro (Foil) | Cologne 2015",
@@ -420,7 +420,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41020,
     "BuffStickerId": 1917,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/VirtusPro-Foil.png"
   },
   {
     "name": "Virtus.Pro (Gold) | Cologne 2015",
@@ -429,7 +429,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/VirtusPro-Gold.png"
   },
   {
     "name": "ESL | Cologne 2015",
@@ -438,7 +438,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40055,
     "BuffStickerId": 966,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/ESL.png"
   },
   {
     "name": "ESL (Foil) | Cologne 2015",
@@ -447,7 +447,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40046,
     "BuffStickerId": 957,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/ESL-Foil.png"
   },
   {
     "name": "ESL (Gold) | Cologne 2015",
@@ -456,7 +456,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 12259,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/ESL-Gold.png"
   },
   {
     "name": "allu | Cologne 2015",
@@ -465,7 +465,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41152,
     "BuffStickerId": 2049,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/allu.png"
   },
   {
     "name": "allu (Foil) | Cologne 2015",
@@ -474,7 +474,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41147,
     "BuffStickerId": 2044,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/allu-Foil.png"
   },
   {
     "name": "allu (Gold) | Cologne 2015",
@@ -483,7 +483,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/allu-Gold.png"
   },
   {
     "name": "apEX | Cologne 2015",
@@ -492,7 +492,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41166,
     "BuffStickerId": 2063,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/apEX.png"
   },
   {
     "name": "apEX (Foil) | Cologne 2015",
@@ -501,7 +501,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41157,
     "BuffStickerId": 2054,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/apEX-Foil.png"
   },
   {
     "name": "apEX (Gold) | Cologne 2015",
@@ -510,7 +510,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/apEX-Gold.png"
   },
   {
     "name": "AZR | Cologne 2015",
@@ -519,7 +519,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39838,
     "BuffStickerId": 757,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/AZR.png"
   },
   {
     "name": "AZR (Foil) | Cologne 2015",
@@ -528,7 +528,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39835,
     "BuffStickerId": 754,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/AZR-Foil.png"
   },
   {
     "name": "AZR (Gold) | Cologne 2015",
@@ -537,7 +537,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/AZR-Gold.png"
   },
   {
     "name": "B1ad3 | Cologne 2015",
@@ -546,7 +546,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39890,
     "BuffStickerId": 809,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/B1ad3.png"
   },
   {
     "name": "B1ad3 (Foil) | Cologne 2015",
@@ -555,7 +555,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39881,
     "BuffStickerId": 800,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/B1ad3-Foil.png"
   },
   {
     "name": "B1ad3 (Gold) | Cologne 2015",
@@ -564,7 +564,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/B1ad3-Gold.png"
   },
   {
     "name": "boltz | Cologne 2015",
@@ -573,7 +573,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41196,
     "BuffStickerId": 2093,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/boltz.png"
   },
   {
     "name": "boltz (Foil) | Cologne 2015",
@@ -582,7 +582,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41192,
     "BuffStickerId": 2089,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/boltz-Foil.png"
   },
   {
     "name": "boltz (Gold) | Cologne 2015",
@@ -591,7 +591,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/boltz-Gold.png"
   },
   {
     "name": "bondik | Cologne 2015",
@@ -600,7 +600,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41207,
     "BuffStickerId": 2104,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/bondik.png"
   },
   {
     "name": "bondik (Foil) | Cologne 2015",
@@ -609,7 +609,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41201,
     "BuffStickerId": 2098,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/bondik-Foil.png"
   },
   {
     "name": "bondik (Gold) | Cologne 2015",
@@ -618,7 +618,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/bondik-Gold.png"
   },
   {
     "name": "byali | Cologne 2015",
@@ -627,7 +627,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41224,
     "BuffStickerId": 2121,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/byali.png"
   },
   {
     "name": "byali (Foil) | Cologne 2015",
@@ -636,7 +636,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41215,
     "BuffStickerId": 2112,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/byali-Foil.png"
   },
   {
     "name": "byali (Gold) | Cologne 2015",
@@ -645,7 +645,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/byali-Gold.png"
   },
   {
     "name": "cajunb | Cologne 2015",
@@ -654,7 +654,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41240,
     "BuffStickerId": 2137,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/cajunb.png"
   },
   {
     "name": "cajunb (Foil) | Cologne 2015",
@@ -663,7 +663,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41231,
     "BuffStickerId": 2128,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/cajunb-Foil.png"
   },
   {
     "name": "cajunb (Gold) | Cologne 2015",
@@ -672,7 +672,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/cajunb-Gold.png"
   },
   {
     "name": "chrisJ | Cologne 2015",
@@ -681,7 +681,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41263,
     "BuffStickerId": 2160,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/chrisJ.png"
   },
   {
     "name": "chrisJ (Foil) | Cologne 2015",
@@ -690,7 +690,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41255,
     "BuffStickerId": 2152,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/chrisJ-Foil.png"
   },
   {
     "name": "chrisJ (Gold) | Cologne 2015",
@@ -699,7 +699,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/chrisJ-Gold.png"
   },
   {
     "name": "coldzera | Cologne 2015",
@@ -708,7 +708,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41279,
     "BuffStickerId": 2176,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/coldzera.png"
   },
   {
     "name": "coldzera (Foil) | Cologne 2015",
@@ -717,7 +717,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41270,
     "BuffStickerId": 2167,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/coldzera-Foil.png"
   },
   {
     "name": "coldzera (Gold) | Cologne 2015",
@@ -726,7 +726,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/coldzera-Gold.png"
   },
   {
     "name": "DavCost | Cologne 2015",
@@ -735,7 +735,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40006,
     "BuffStickerId": 919,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/DavCost.png"
   },
   {
     "name": "DavCost (Foil) | Cologne 2015",
@@ -744,7 +744,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40004,
     "BuffStickerId": 917,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/DavCost-Foil.png"
   },
   {
     "name": "DavCost (Gold) | Cologne 2015",
@@ -753,7 +753,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/DavCost-Gold.png"
   },
   {
     "name": "denis | Cologne 2015",
@@ -762,7 +762,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41301,
     "BuffStickerId": 2198,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/denis.png"
   },
   {
     "name": "denis (Foil) | Cologne 2015",
@@ -771,7 +771,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41292,
     "BuffStickerId": 2189,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/denis-Foil.png"
   },
   {
     "name": "denis (Gold) | Cologne 2015",
@@ -780,7 +780,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/denis-Gold.png"
   },
   {
     "name": "dennis | Cologne 2015",
@@ -789,7 +789,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41314,
     "BuffStickerId": 2211,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/dennis.png"
   },
   {
     "name": "dennis (Foil) | Cologne 2015",
@@ -798,7 +798,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41307,
     "BuffStickerId": 2204,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/dennis-Foil.png"
   },
   {
     "name": "dennis (Gold) | Cologne 2015",
@@ -807,7 +807,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/dennis-Gold.png"
   },
   {
     "name": "device | Cologne 2015",
@@ -816,7 +816,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41330,
     "BuffStickerId": 2227,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/device.png"
   },
   {
     "name": "device (Foil) | Cologne 2015",
@@ -825,7 +825,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41321,
     "BuffStickerId": 2218,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/device-Foil.png"
   },
   {
     "name": "device (Gold) | Cologne 2015",
@@ -834,7 +834,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/device-Gold.png"
   },
   {
     "name": "dupreeh | Cologne 2015",
@@ -843,7 +843,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41354,
     "BuffStickerId": 2251,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/dupreeh.png"
   },
   {
     "name": "dupreeh (Foil) | Cologne 2015",
@@ -852,7 +852,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41345,
     "BuffStickerId": 2242,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/dupreeh-Foil.png"
   },
   {
     "name": "dupreeh (Gold) | Cologne 2015",
@@ -861,7 +861,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/dupreeh-Gold.png"
   },
   {
     "name": "Edward | Cologne 2015",
@@ -870,7 +870,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40071,
     "BuffStickerId": 982,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Edward.png"
   },
   {
     "name": "Edward (Foil) | Cologne 2015",
@@ -879,7 +879,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40062,
     "BuffStickerId": 973,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Edward-Foil.png"
   },
   {
     "name": "Edward (Gold) | Cologne 2015",
@@ -888,7 +888,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Edward-Gold.png"
   },
   {
     "name": "emagine | Cologne 2015",
@@ -897,7 +897,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41367,
     "BuffStickerId": 2264,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/emagine.png"
   },
   {
     "name": "emagine (Foil) | Cologne 2015",
@@ -906,7 +906,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41366,
     "BuffStickerId": 2263,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/emagine-Foil.png"
   },
   {
     "name": "emagine (Gold) | Cologne 2015",
@@ -915,7 +915,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/emagine-Gold.png"
   },
   {
     "name": "Ex6TenZ | Cologne 2015",
@@ -924,7 +924,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40091,
     "BuffStickerId": 1002,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Ex6TenZ.png"
   },
   {
     "name": "Ex6TenZ (Foil) | Cologne 2015",
@@ -933,7 +933,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40089,
     "BuffStickerId": 1000,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Ex6TenZ-Foil.png"
   },
   {
     "name": "Ex6TenZ (Gold) | Cologne 2015",
@@ -942,7 +942,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Ex6TenZ-Gold.png"
   },
   {
     "name": "f0rest | Cologne 2015",
@@ -951,7 +951,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41373,
     "BuffStickerId": 2270,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/f0rest.png"
   },
   {
     "name": "f0rest (Foil) | Cologne 2015",
@@ -960,7 +960,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41369,
     "BuffStickerId": 2266,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/f0rest-Foil.png"
   },
   {
     "name": "f0rest (Gold) | Cologne 2015",
@@ -969,7 +969,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/f0rest-Gold.png"
   },
   {
     "name": "FalleN | Cologne 2015",
@@ -978,7 +978,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40124,
     "BuffStickerId": 1035,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/FalleN.png"
   },
   {
     "name": "FalleN (Foil) | Cologne 2015",
@@ -987,7 +987,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40115,
     "BuffStickerId": 1026,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/FalleN-Foil.png"
   },
   {
     "name": "FalleN (Gold) | Cologne 2015",
@@ -996,7 +996,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/FalleN-Gold.png"
   },
   {
     "name": "fer | Cologne 2015",
@@ -1005,7 +1005,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41393,
     "BuffStickerId": 2290,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/fer.png"
   },
   {
     "name": "fer (Foil) | Cologne 2015",
@@ -1014,7 +1014,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41384,
     "BuffStickerId": 2281,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/fer-Foil.png"
   },
   {
     "name": "fer (Gold) | Cologne 2015",
@@ -1023,7 +1023,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/fer-Gold.png"
   },
   {
     "name": "flamie | Cologne 2015",
@@ -1032,7 +1032,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41412,
     "BuffStickerId": 2309,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/flamie.png"
   },
   {
     "name": "flamie (Foil) | Cologne 2015",
@@ -1041,7 +1041,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41403,
     "BuffStickerId": 2300,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/flamie-Foil.png"
   },
   {
     "name": "flamie (Gold) | Cologne 2015",
@@ -1050,7 +1050,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/flamie-Gold.png"
   },
   {
     "name": "flusha | Cologne 2015",
@@ -1059,7 +1059,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41428,
     "BuffStickerId": 2325,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/flusha.png"
   },
   {
     "name": "flusha (Foil) | Cologne 2015",
@@ -1068,7 +1068,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41419,
     "BuffStickerId": 2316,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/flusha-Foil.png"
   },
   {
     "name": "flusha (Gold) | Cologne 2015",
@@ -1077,7 +1077,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/flusha-Gold.png"
   },
   {
     "name": "FNS | Cologne 2015",
@@ -1086,7 +1086,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40096,
     "BuffStickerId": 1007,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/FNS.png"
   },
   {
     "name": "FNS (Foil) | Cologne 2015",
@@ -1095,7 +1095,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40094,
     "BuffStickerId": 1005,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/FNS-Foil.png"
   },
   {
     "name": "FNS (Gold) | Cologne 2015",
@@ -1104,7 +1104,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/FNS-Gold.png"
   },
   {
     "name": "fox | Cologne 2015",
@@ -1113,7 +1113,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41446,
     "BuffStickerId": 2343,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/fox.png"
   },
   {
     "name": "fox (Foil) | Cologne 2015",
@@ -1122,7 +1122,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41441,
     "BuffStickerId": 2338,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/fox-Foil.png"
   },
   {
     "name": "fox (Gold) | Cologne 2015",
@@ -1131,7 +1131,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/fox-Gold.png"
   },
   {
     "name": "freakazoid | Cologne 2015",
@@ -1140,7 +1140,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41453,
     "BuffStickerId": 2350,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/freakazoid.png"
   },
   {
     "name": "freakazoid (Foil) | Cologne 2015",
@@ -1149,7 +1149,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41450,
     "BuffStickerId": 2347,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/freakazoid-Foil.png"
   },
   {
     "name": "freakazoid (Gold) | Cologne 2015",
@@ -1158,7 +1158,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/freakazoid-Gold.png"
   },
   {
     "name": "friberg | Cologne 2015",
@@ -1167,7 +1167,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41460,
     "BuffStickerId": 2357,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/friberg.png"
   },
   {
     "name": "friberg (Foil) | Cologne 2015",
@@ -1176,7 +1176,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41456,
     "BuffStickerId": 2353,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/friberg-Foil.png"
   },
   {
     "name": "friberg (Gold) | Cologne 2015",
@@ -1185,7 +1185,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/friberg-Gold.png"
   },
   {
     "name": "Furlan | Cologne 2015",
@@ -1194,7 +1194,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40197,
     "BuffStickerId": 1108,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Furlan.png"
   },
   {
     "name": "Furlan (Foil) | Cologne 2015",
@@ -1203,7 +1203,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40195,
     "BuffStickerId": 1106,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Furlan-Foil.png"
   },
   {
     "name": "Furlan (Gold) | Cologne 2015",
@@ -1212,7 +1212,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Furlan-Gold.png"
   },
   {
     "name": "GeT_RiGhT | Cologne 2015",
@@ -1221,7 +1221,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40237,
     "BuffStickerId": 1148,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GeTRiGhT.png"
   },
   {
     "name": "GeT_RiGhT (Foil) | Cologne 2015",
@@ -1230,7 +1230,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40233,
     "BuffStickerId": 1144,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GeTRiGhT-Foil.png"
   },
   {
     "name": "GeT_RiGhT (Gold) | Cologne 2015",
@@ -1239,7 +1239,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GeTRiGhT-Gold.png"
   },
   {
     "name": "gob b | Cologne 2015",
@@ -1248,7 +1248,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41481,
     "BuffStickerId": 2378,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/gobb.png"
   },
   {
     "name": "gob b (Foil) | Cologne 2015",
@@ -1257,7 +1257,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41475,
     "BuffStickerId": 2372,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/gobb-Foil.png"
   },
   {
     "name": "gob b (Gold) | Cologne 2015",
@@ -1266,7 +1266,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/gobb-Gold.png"
   },
   {
     "name": "GruBy | Cologne 2015",
@@ -1275,7 +1275,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40249,
     "BuffStickerId": 1160,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GruBy.png"
   },
   {
     "name": "GruBy (Foil) | Cologne 2015",
@@ -1284,7 +1284,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 43941,
     "BuffStickerId": 2859,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GruBy-Foil.png"
   },
   {
     "name": "GruBy (Gold) | Cologne 2015",
@@ -1293,7 +1293,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GruBy-Gold.png"
   },
   {
     "name": "GuardiaN | Cologne 2015",
@@ -1302,7 +1302,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40262,
     "BuffStickerId": 1173,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GuardiaN.png"
   },
   {
     "name": "GuardiaN (Foil) | Cologne 2015",
@@ -1311,7 +1311,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40253,
     "BuffStickerId": 1164,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GuardiaN-Foil.png"
   },
   {
     "name": "GuardiaN (Gold) | Cologne 2015",
@@ -1320,7 +1320,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/GuardiaN-Gold.png"
   },
   {
     "name": "Happy | Cologne 2015",
@@ -1329,7 +1329,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40288,
     "BuffStickerId": 1199,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Happy.png"
   },
   {
     "name": "Happy (Foil) | Cologne 2015",
@@ -1338,7 +1338,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40281,
     "BuffStickerId": 1192,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Happy-Foil.png"
   },
   {
     "name": "Happy (Gold) | Cologne 2015",
@@ -1347,7 +1347,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Happy-Gold.png"
   },
   {
     "name": "Havoc | Cologne 2015",
@@ -1356,7 +1356,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40299,
     "BuffStickerId": 1208,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Havoc.png"
   },
   {
     "name": "Havoc (Foil) | Cologne 2015",
@@ -1365,7 +1365,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40298,
     "BuffStickerId": 1207,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Havoc-Foil.png"
   },
   {
     "name": "Havoc (Gold) | Cologne 2015",
@@ -1374,7 +1374,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Havoc-Gold.png"
   },
   {
     "name": "hazed | Cologne 2015",
@@ -1383,7 +1383,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41488,
     "BuffStickerId": 2385,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/hazed.png"
   },
   {
     "name": "hazed (Foil) | Cologne 2015",
@@ -1392,7 +1392,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41484,
     "BuffStickerId": 2381,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/hazed-Foil.png"
   },
   {
     "name": "hazed (Gold) | Cologne 2015",
@@ -1401,7 +1401,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/hazed-Gold.png"
   },
   {
     "name": "Hyper | Cologne 2015",
@@ -1410,7 +1410,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40340,
     "BuffStickerId": 1249,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Hyper.png"
   },
   {
     "name": "Hyper (Foil) | Cologne 2015",
@@ -1419,7 +1419,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40338,
     "BuffStickerId": 1247,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Hyper-Foil.png"
   },
   {
     "name": "Hyper (Gold) | Cologne 2015",
@@ -1428,7 +1428,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Hyper-Gold.png"
   },
   {
     "name": "James | Cologne 2015",
@@ -1437,7 +1437,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40370,
     "BuffStickerId": 1278,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/James.png"
   },
   {
     "name": "James (Foil) | Cologne 2015",
@@ -1446,7 +1446,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40369,
     "BuffStickerId": 1277,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/James-Foil.png"
   },
   {
     "name": "James (Gold) | Cologne 2015",
@@ -1455,7 +1455,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/James-Gold.png"
   },
   {
     "name": "jdm64 | Cologne 2015",
@@ -1464,7 +1464,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41528,
     "BuffStickerId": 2425,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/jdm64.png"
   },
   {
     "name": "jdm64 (Foil) | Cologne 2015",
@@ -1473,7 +1473,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41521,
     "BuffStickerId": 2418,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/jdm64-Foil.png"
   },
   {
     "name": "jdm64 (Gold) | Cologne 2015",
@@ -1482,7 +1482,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/jdm64-Gold.png"
   },
   {
     "name": "jks | Cologne 2015",
@@ -1491,7 +1491,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41541,
     "BuffStickerId": 2438,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/jks.png"
   },
   {
     "name": "jks (Foil) | Cologne 2015",
@@ -1500,7 +1500,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41538,
     "BuffStickerId": 2435,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/jks-Foil.png"
   },
   {
     "name": "jks (Gold) | Cologne 2015",
@@ -1509,7 +1509,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/jks-Gold.png"
   },
   {
     "name": "JW | Cologne 2015",
@@ -1518,7 +1518,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40360,
     "BuffStickerId": 1268,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/JW.png"
   },
   {
     "name": "JW (Foil) | Cologne 2015",
@@ -1527,7 +1527,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40351,
     "BuffStickerId": 1259,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/JW-Foil.png"
   },
   {
     "name": "JW (Gold) | Cologne 2015",
@@ -1536,7 +1536,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/JW-Gold.png"
   },
   {
     "name": "karrigan | Cologne 2015",
@@ -1545,7 +1545,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41579,
     "BuffStickerId": 2476,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/karrigan.png"
   },
   {
     "name": "karrigan (Foil) | Cologne 2015",
@@ -1554,7 +1554,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41570,
     "BuffStickerId": 2467,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/karrigan-Foil.png"
   },
   {
     "name": "karrigan (Gold) | Cologne 2015",
@@ -1563,7 +1563,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/karrigan-Gold.png"
   },
   {
     "name": "kennyS | Cologne 2015",
@@ -1572,7 +1572,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41601,
     "BuffStickerId": 2498,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/kennyS.png"
   },
   {
     "name": "kennyS (Foil) | Cologne 2015",
@@ -1581,7 +1581,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41592,
     "BuffStickerId": 2489,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/kennyS-Foil.png"
   },
   {
     "name": "kennyS (Gold) | Cologne 2015",
@@ -1590,7 +1590,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/kennyS-Gold.png"
   },
   {
     "name": "kioShiMa | Cologne 2015",
@@ -1599,7 +1599,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41619,
     "BuffStickerId": 2516,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/kioShiMa.png"
   },
   {
     "name": "kioShiMa (Foil) | Cologne 2015",
@@ -1608,7 +1608,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41613,
     "BuffStickerId": 2510,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/kioShiMa-Foil.png"
   },
   {
     "name": "kioShiMa (Gold) | Cologne 2015",
@@ -1617,7 +1617,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/kioShiMa-Gold.png"
   },
   {
     "name": "KRIMZ | Cologne 2015",
@@ -1626,7 +1626,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40386,
     "BuffStickerId": 1294,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/KRIMZ.png"
   },
   {
     "name": "KRIMZ (Foil) | Cologne 2015",
@@ -1635,7 +1635,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40377,
     "BuffStickerId": 1285,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/KRIMZ-Foil.png"
   },
   {
     "name": "KRIMZ (Gold) | Cologne 2015",
@@ -1644,7 +1644,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/KRIMZ-Gold.png"
   },
   {
     "name": "Maikelele | Cologne 2015",
@@ -1653,7 +1653,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40497,
     "BuffStickerId": 1403,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Maikelele.png"
   },
   {
     "name": "Maikelele (Foil) | Cologne 2015",
@@ -1662,7 +1662,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40494,
     "BuffStickerId": 1400,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Maikelele-Foil.png"
   },
   {
     "name": "Maikelele (Gold) | Cologne 2015",
@@ -1671,7 +1671,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Maikelele-Gold.png"
   },
   {
     "name": "Maniac | Cologne 2015",
@@ -1680,7 +1680,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40500,
     "BuffStickerId": 1406,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Maniac.png"
   },
   {
     "name": "Maniac (Foil) | Cologne 2015",
@@ -1689,7 +1689,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40499,
     "BuffStickerId": 1405,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Maniac-Foil.png"
   },
   {
     "name": "Maniac (Gold) | Cologne 2015",
@@ -1698,7 +1698,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Maniac-Gold.png"
   },
   {
     "name": "markeloff | Cologne 2015",
@@ -1707,7 +1707,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41641,
     "BuffStickerId": 2538,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/markeloff.png"
   },
   {
     "name": "markeloff (Foil) | Cologne 2015",
@@ -1716,7 +1716,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41632,
     "BuffStickerId": 2529,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/markeloff-Foil.png"
   },
   {
     "name": "markeloff (Gold) | Cologne 2015",
@@ -1725,7 +1725,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/markeloff-Gold.png"
   },
   {
     "name": "n0thing | Cologne 2015",
@@ -1734,7 +1734,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41695,
     "BuffStickerId": 2592,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/n0thing.png"
   },
   {
     "name": "n0thing (Foil) | Cologne 2015",
@@ -1743,7 +1743,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41690,
     "BuffStickerId": 2587,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/n0thing-Foil.png"
   },
   {
     "name": "n0thing (Gold) | Cologne 2015",
@@ -1752,7 +1752,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/n0thing-Gold.png"
   },
   {
     "name": "NBK- | Cologne 2015",
@@ -1761,7 +1761,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40542,
     "BuffStickerId": 1444,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NBK.png"
   },
   {
     "name": "NBK- (Foil) | Cologne 2015",
@@ -1770,7 +1770,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40533,
     "BuffStickerId": 1435,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NBK-Foil.png"
   },
   {
     "name": "NBK- (Gold) | Cologne 2015",
@@ -1779,7 +1779,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NBK-Gold.png"
   },
   {
     "name": "NEO | Cologne 2015",
@@ -1788,7 +1788,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40558,
     "BuffStickerId": 1460,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NEO.png"
   },
   {
     "name": "NEO (Foil) | Cologne 2015",
@@ -1797,7 +1797,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40549,
     "BuffStickerId": 1451,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NEO-Foil.png"
   },
   {
     "name": "NEO (Gold) | Cologne 2015",
@@ -1806,7 +1806,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/NEO-Gold.png"
   },
   {
     "name": "nex | Cologne 2015",
@@ -1815,7 +1815,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41708,
     "BuffStickerId": 2605,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/nex.png"
   },
   {
     "name": "nex (Foil) | Cologne 2015",
@@ -1824,7 +1824,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41700,
     "BuffStickerId": 2597,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/nex-Foil.png"
   },
   {
     "name": "nex (Gold) | Cologne 2015",
@@ -1833,7 +1833,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/nex-Gold.png"
   },
   {
     "name": "olofmeister | Cologne 2015",
@@ -1842,7 +1842,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41737,
     "BuffStickerId": 2634,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/olofmeister.png"
   },
   {
     "name": "olofmeister (Foil) | Cologne 2015",
@@ -1851,7 +1851,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41728,
     "BuffStickerId": 2625,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/olofmeister-Foil.png"
   },
   {
     "name": "olofmeister (Gold) | Cologne 2015",
@@ -1860,7 +1860,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/olofmeister-Gold.png"
   },
   {
     "name": "pashaBiceps | Cologne 2015",
@@ -1869,7 +1869,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41759,
     "BuffStickerId": 2656,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/pashaBiceps.png"
   },
   {
     "name": "pashaBiceps (Foil) | Cologne 2015",
@@ -1878,7 +1878,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41750,
     "BuffStickerId": 2647,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/pashaBiceps-Foil.png"
   },
   {
     "name": "pashaBiceps (Gold) | Cologne 2015",
@@ -1887,7 +1887,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/pashaBiceps-Gold.png"
   },
   {
     "name": "peet | Cologne 2015",
@@ -1896,7 +1896,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41769,
     "BuffStickerId": 2666,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/peet.png"
   },
   {
     "name": "peet (Foil) | Cologne 2015",
@@ -1905,7 +1905,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41767,
     "BuffStickerId": 2664,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/peet-Foil.png"
   },
   {
     "name": "peet (Gold) | Cologne 2015",
@@ -1914,7 +1914,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/peet-Gold.png"
   },
   {
     "name": "pronax | Cologne 2015",
@@ -1923,7 +1923,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41777,
     "BuffStickerId": 2674,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/pronax.png"
   },
   {
     "name": "pronax (Foil) | Cologne 2015",
@@ -1932,7 +1932,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41774,
     "BuffStickerId": 2671,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/pronax-Foil.png"
   },
   {
     "name": "pronax (Gold) | Cologne 2015",
@@ -1941,7 +1941,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/pronax-Gold.png"
   },
   {
     "name": "rain | Cologne 2015",
@@ -1950,7 +1950,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41797,
     "BuffStickerId": 2694,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/rain.png"
   },
   {
     "name": "rain (Foil) | Cologne 2015",
@@ -1959,7 +1959,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41788,
     "BuffStickerId": 2685,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/rain-Foil.png"
   },
   {
     "name": "rain (Gold) | Cologne 2015",
@@ -1968,7 +1968,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/rain-Gold.png"
   },
   {
     "name": "rallen | Cologne 2015",
@@ -1977,7 +1977,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41804,
     "BuffStickerId": 2701,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/rallen.png"
   },
   {
     "name": "rallen (Foil) | Cologne 2015",
@@ -1986,7 +1986,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41802,
     "BuffStickerId": 2699,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/rallen-Foil.png"
   },
   {
     "name": "rallen (Gold) | Cologne 2015",
@@ -1995,7 +1995,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/rallen-Gold.png"
   },
   {
     "name": "reltuC | Cologne 2015",
@@ -2004,7 +2004,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41810,
     "BuffStickerId": 2707,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/reltuC.png"
   },
   {
     "name": "reltuC (Foil) | Cologne 2015",
@@ -2013,7 +2013,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41806,
     "BuffStickerId": 2703,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/reltuC-Foil.png"
   },
   {
     "name": "reltuC (Gold) | Cologne 2015",
@@ -2022,7 +2022,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/reltuC-Gold.png"
   },
   {
     "name": "Rickeh | Cologne 2015",
@@ -2031,7 +2031,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40704,
     "BuffStickerId": 1605,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Rickeh.png"
   },
   {
     "name": "Rickeh (Foil) | Cologne 2015",
@@ -2040,7 +2040,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40703,
     "BuffStickerId": 1604,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Rickeh-Foil.png"
   },
   {
     "name": "Rickeh (Gold) | Cologne 2015",
@@ -2049,7 +2049,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Rickeh-Gold.png"
   },
   {
     "name": "RpK | Cologne 2015",
@@ -2058,7 +2058,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40717,
     "BuffStickerId": 1618,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/RpK.png"
   },
   {
     "name": "RpK (Foil) | Cologne 2015",
@@ -2067,7 +2067,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40710,
     "BuffStickerId": 1611,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/RpK-Foil.png"
   },
   {
     "name": "RpK (Gold) | Cologne 2015",
@@ -2076,7 +2076,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/RpK-Gold.png"
   },
   {
     "name": "ScreaM | Cologne 2015",
@@ -2085,7 +2085,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40756,
     "BuffStickerId": 1657,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/ScreaM.png"
   },
   {
     "name": "ScreaM (Foil) | Cologne 2015",
@@ -2094,7 +2094,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40749,
     "BuffStickerId": 1650,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/ScreaM-Foil.png"
   },
   {
     "name": "ScreaM (Gold) | Cologne 2015",
@@ -2103,7 +2103,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/ScreaM-Gold.png"
   },
   {
     "name": "seang@res | Cologne 2015",
@@ -2112,7 +2112,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41837,
     "BuffStickerId": 2734,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/seangres.png"
   },
   {
     "name": "seang@res (Foil) | Cologne 2015",
@@ -2121,7 +2121,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41833,
     "BuffStickerId": 2730,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/seangres-Foil.png"
   },
   {
     "name": "seang@res (Gold) | Cologne 2015",
@@ -2130,7 +2130,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/seangres-Gold.png"
   },
   {
     "name": "seized | Cologne 2015",
@@ -2139,7 +2139,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41850,
     "BuffStickerId": 2747,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/seized.png"
   },
   {
     "name": "seized (Foil) | Cologne 2015",
@@ -2148,7 +2148,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41841,
     "BuffStickerId": 2738,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/seized-Foil.png"
   },
   {
     "name": "seized (Gold) | Cologne 2015",
@@ -2157,7 +2157,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/seized-Gold.png"
   },
   {
     "name": "shox | Cologne 2015",
@@ -2166,7 +2166,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41866,
     "BuffStickerId": 2763,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/shox.png"
   },
   {
     "name": "shox (Foil) | Cologne 2015",
@@ -2175,7 +2175,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41857,
     "BuffStickerId": 2754,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/shox-Foil.png"
   },
   {
     "name": "shox (Gold) | Cologne 2015",
@@ -2184,7 +2184,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/shox-Gold.png"
   },
   {
     "name": "shroud | Cologne 2015",
@@ -2193,7 +2193,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41876,
     "BuffStickerId": 2773,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/shroud.png"
   },
   {
     "name": "shroud (Foil) | Cologne 2015",
@@ -2202,7 +2202,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41871,
     "BuffStickerId": 2768,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/shroud-Foil.png"
   },
   {
     "name": "shroud (Gold) | Cologne 2015",
@@ -2211,7 +2211,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/shroud-Gold.png"
   },
   {
     "name": "Skadoodle | Cologne 2015",
@@ -2220,7 +2220,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40787,
     "BuffStickerId": 1687,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Skadoodle.png"
   },
   {
     "name": "Skadoodle (Foil) | Cologne 2015",
@@ -2229,7 +2229,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40780,
     "BuffStickerId": 1680,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Skadoodle-Foil.png"
   },
   {
     "name": "Skadoodle (Gold) | Cologne 2015",
@@ -2238,7 +2238,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Skadoodle-Gold.png"
   },
   {
     "name": "SmithZz | Cologne 2015",
@@ -2247,7 +2247,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40800,
     "BuffStickerId": 1700,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SmithZz.png"
   },
   {
     "name": "SmithZz (Foil) | Cologne 2015",
@@ -2256,7 +2256,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40795,
     "BuffStickerId": 1695,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SmithZz-Foil.png"
   },
   {
     "name": "SmithZz (Gold) | Cologne 2015",
@@ -2265,7 +2265,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SmithZz-Gold.png"
   },
   {
     "name": "Snax | Cologne 2015",
@@ -2274,7 +2274,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40815,
     "BuffStickerId": 1715,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Snax.png"
   },
   {
     "name": "Snax (Foil) | Cologne 2015",
@@ -2283,7 +2283,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40806,
     "BuffStickerId": 1706,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Snax-Foil.png"
   },
   {
     "name": "Snax (Gold) | Cologne 2015",
@@ -2292,7 +2292,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Snax-Gold.png"
   },
   {
     "name": "SnypeR | Cologne 2015",
@@ -2301,7 +2301,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40821,
     "BuffStickerId": 1721,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SnypeR.png"
   },
   {
     "name": "SnypeR (Foil) | Cologne 2015",
@@ -2310,7 +2310,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40820,
     "BuffStickerId": 1720,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SnypeR-Foil.png"
   },
   {
     "name": "SnypeR (Gold) | Cologne 2015",
@@ -2319,7 +2319,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SnypeR-Gold.png"
   },
   {
     "name": "Spiidi | Cologne 2015",
@@ -2328,7 +2328,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40835,
     "BuffStickerId": 1735,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Spiidi.png"
   },
   {
     "name": "Spiidi (Foil) | Cologne 2015",
@@ -2337,7 +2337,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40829,
     "BuffStickerId": 1729,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Spiidi-Foil.png"
   },
   {
     "name": "Spiidi (Gold) | Cologne 2015",
@@ -2346,7 +2346,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Spiidi-Gold.png"
   },
   {
     "name": "SPUNJ | Cologne 2015",
@@ -2355,7 +2355,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40739,
     "BuffStickerId": 1640,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SPUNJ.png"
   },
   {
     "name": "SPUNJ (Foil) | Cologne 2015",
@@ -2364,7 +2364,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40738,
     "BuffStickerId": 1639,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SPUNJ-Foil.png"
   },
   {
     "name": "SPUNJ (Gold) | Cologne 2015",
@@ -2373,7 +2373,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/SPUNJ-Gold.png"
   },
   {
     "name": "steel | Cologne 2015",
@@ -2382,7 +2382,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41896,
     "BuffStickerId": 2793,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/steel.png"
   },
   {
     "name": "steel (Foil) | Cologne 2015",
@@ -2391,7 +2391,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41892,
     "BuffStickerId": 2789,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/steel-Foil.png"
   },
   {
     "name": "steel (Gold) | Cologne 2015",
@@ -2400,7 +2400,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/steel-Gold.png"
   },
   {
     "name": "tarik | Cologne 2015",
@@ -2409,7 +2409,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41919,
     "BuffStickerId": 2816,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/tarik.png"
   },
   {
     "name": "tarik (Foil) | Cologne 2015",
@@ -2418,7 +2418,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41912,
     "BuffStickerId": 2809,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/tarik-Foil.png"
   },
   {
     "name": "tarik (Gold) | Cologne 2015",
@@ -2427,7 +2427,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/tarik-Gold.png"
   },
   {
     "name": "TaZ | Cologne 2015",
@@ -2436,7 +2436,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40891,
     "BuffStickerId": 1791,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TaZ.png"
   },
   {
     "name": "TaZ (Foil) | Cologne 2015",
@@ -2445,7 +2445,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40882,
     "BuffStickerId": 1782,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TaZ-Foil.png"
   },
   {
     "name": "TaZ (Gold) | Cologne 2015",
@@ -2454,7 +2454,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/TaZ-Gold.png"
   },
   {
     "name": "USTILO | Cologne 2015",
@@ -2463,7 +2463,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41004,
     "BuffStickerId": 1901,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/USTILO.png"
   },
   {
     "name": "USTILO (Foil) | Cologne 2015",
@@ -2472,7 +2472,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41001,
     "BuffStickerId": 1898,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/USTILO-Foil.png"
   },
   {
     "name": "USTILO (Gold) | Cologne 2015",
@@ -2481,7 +2481,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/USTILO-Gold.png"
   },
   {
     "name": "WorldEdit | Cologne 2015",
@@ -2490,7 +2490,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 43998,
     "BuffStickerId": 2871,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/WorldEdit.png"
   },
   {
     "name": "WorldEdit (Foil) | Cologne 2015",
@@ -2499,7 +2499,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41066,
     "BuffStickerId": 1963,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/WorldEdit-Foil.png"
   },
   {
     "name": "WorldEdit (Gold) | Cologne 2015",
@@ -2508,7 +2508,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/WorldEdit-Gold.png"
   },
   {
     "name": "Xizt | Cologne 2015",
@@ -2517,7 +2517,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41086,
     "BuffStickerId": 1983,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Xizt.png"
   },
   {
     "name": "Xizt (Foil) | Cologne 2015",
@@ -2526,7 +2526,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41082,
     "BuffStickerId": 1979,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Xizt-Foil.png"
   },
   {
     "name": "Xizt (Gold) | Cologne 2015",
@@ -2535,7 +2535,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Xizt-Gold.png"
   },
   {
     "name": "Xyp9x | Cologne 2015",
@@ -2544,7 +2544,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41101,
     "BuffStickerId": 1998,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Xyp9x.png"
   },
   {
     "name": "Xyp9x (Foil) | Cologne 2015",
@@ -2553,7 +2553,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41092,
     "BuffStickerId": 1989,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Xyp9x-Foil.png"
   },
   {
     "name": "Xyp9x (Gold) | Cologne 2015",
@@ -2562,7 +2562,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Xyp9x-Gold.png"
   },
   {
     "name": "yam | Cologne 2015",
@@ -2571,7 +2571,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41948,
     "BuffStickerId": 2845,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/yam.png"
   },
   {
     "name": "yam (Foil) | Cologne 2015",
@@ -2580,7 +2580,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41947,
     "BuffStickerId": 2844,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/yam-Foil.png"
   },
   {
     "name": "yam (Gold) | Cologne 2015",
@@ -2589,7 +2589,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/yam-Gold.png"
   },
   {
     "name": "Zeus | Cologne 2015",
@@ -2598,7 +2598,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41119,
     "BuffStickerId": 2016,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Zeus.png"
   },
   {
     "name": "Zeus (Foil) | Cologne 2015",
@@ -2607,7 +2607,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41110,
     "BuffStickerId": 2007,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Zeus-Foil.png"
   },
   {
     "name": "Zeus (Gold) | Cologne 2015",
@@ -2616,6 +2616,6 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/Cologne2015/Zeus-Gold.png"
   }
 ]

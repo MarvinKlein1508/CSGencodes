@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 762851,
     "BuffStickerId": 3959,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/GlobalElite-Foil.png"
   },
   {
     "name": "Silver (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 762862,
     "BuffStickerId": 3944,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/Silver-Foil.png"
   },
   {
     "name": "Gold Nova (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762853,
     "BuffStickerId": 3960,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/GoldNova-Holo.png"
   },
   {
     "name": "Supreme Master First Class (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762850,
     "BuffStickerId": 3957,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/SupremeMasterFirstClass-Holo.png"
   },
   {
     "name": "Distinguished Master Guardian (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762858,
     "BuffStickerId": 3962,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/DistinguishedMasterGuardian-Holo.png"
   },
   {
     "name": "Legendary Eagle Master (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762852,
     "BuffStickerId": 3954,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/LegendaryEagleMaster-Holo.png"
   },
   {
     "name": "Legendary Eagle (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762849,
     "BuffStickerId": 3963,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/LegendaryEagle-Holo.png"
   },
   {
     "name": "Master Guardian Elite (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762855,
     "BuffStickerId": 3964,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/MasterGuardianElite-Holo.png"
   },
   {
     "name": "Master Guardian (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 762861,
     "BuffStickerId": 3956,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/MasterGuardian-Holo.png"
   },
   {
     "name": "Gold Nova",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762859,
     "BuffStickerId": 9114,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/GoldNova.png"
   },
   {
     "name": "Global Elite",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762844,
     "BuffStickerId": 3948,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/GlobalElite.png"
   },
   {
     "name": "Silver",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762860,
     "BuffStickerId": 3958,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/Silver.png"
   },
   {
     "name": "Legendary Eagle",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762848,
     "BuffStickerId": 3949,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/LegendaryEagle.png"
   },
   {
     "name": "Master Guardian Elite",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762847,
     "BuffStickerId": 3955,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/MasterGuardianElite.png"
   },
   {
     "name": "Distinguished Master Guardian",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762843,
     "BuffStickerId": 3961,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/DistinguishedMasterGuardian.png"
   },
   {
     "name": "Legendary Eagle Master",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762854,
     "BuffStickerId": 3951,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/LegendaryEagleMaster.png"
   },
   {
     "name": "Supreme Master First Class",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762845,
     "BuffStickerId": 3946,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/SupremeMasterFirstClass.png"
   },
   {
     "name": "Master Guardian",
@@ -159,6 +159,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 762857,
     "BuffStickerId": 3952,
-    "Image": null
+    "Image": "/assets/img/items/stickers/SkillGroupsCapsule/MasterGuardian.png"
   }
 ]

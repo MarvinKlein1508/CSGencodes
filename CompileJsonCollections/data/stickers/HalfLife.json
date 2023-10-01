@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 779021,
     "BuffStickerId": 10948,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Health-Gold.png"
   },
   {
     "name": "Last Vance (Gold)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 779040,
     "BuffStickerId": 10954,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/LastVance-Gold.png"
   },
   {
     "name": "Lambda (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779027,
     "BuffStickerId": 10944,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Lambda-Holo.png"
   },
   {
     "name": "Vortigaunt (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779029,
     "BuffStickerId": 10945,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Vortigaunt-Holo.png"
   },
   {
     "name": "Combine Helmet (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779024,
     "BuffStickerId": 10949,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/CombineHelmet-Holo.png"
   },
   {
     "name": "Big Hugs (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779034,
     "BuffStickerId": 10952,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/BigHugs-Holo.png"
   },
   {
     "name": "Lambda",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779020,
     "BuffStickerId": 10953,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Lambda.png"
   },
   {
     "name": "Gnome Mercy",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779043,
     "BuffStickerId": 10946,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/GnomeMercy.png"
   },
   {
     "name": "Combine Helmet",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779097,
     "BuffStickerId": 10950,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/CombineHelmet.png"
   },
   {
     "name": "Greetings",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779019,
     "BuffStickerId": 10947,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Greetings.png"
   },
   {
     "name": "Big Hugs",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779030,
     "BuffStickerId": 10943,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/BigHugs.png"
   },
   {
     "name": "Last Vance",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779093,
     "BuffStickerId": 10951,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/LastVance.png"
   },
   {
     "name": "Vortigaunt the Painter",
@@ -114,6 +114,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779031,
     "BuffStickerId": 10955,
-    "Image": null
+    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/VortigauntthePainter.png"
   }
 ]

@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 45353,
     "BuffStickerId": 2875,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/BulletRain-Foil.png"
   },
   {
     "name": "Camper (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 45355,
     "BuffStickerId": 2877,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/Camper-Foil.png"
   },
   {
     "name": "Devouring Flame (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 45358,
     "BuffStickerId": 2880,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/DevouringFlame-Holo.png"
   },
   {
     "name": "Small Arms (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 45363,
     "BuffStickerId": 2885,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/SmallArms-Holo.png"
   },
   {
     "name": "Friendly Fire (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 45240,
     "BuffStickerId": 2873,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/FriendlyFire-Holo.png"
   },
   {
     "name": "Retake Expert (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 45361,
     "BuffStickerId": 2883,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/RetakeExpert-Holo.png"
   },
   {
     "name": "Bullet Rain",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45352,
     "BuffStickerId": 2874,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/BulletRain.png"
   },
   {
     "name": "Friendly Fire",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45360,
     "BuffStickerId": 2882,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/FriendlyFire.png"
   },
   {
     "name": "Small Arms",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45362,
     "BuffStickerId": 2884,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/SmallArms.png"
   },
   {
     "name": "Entry Fragger",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45359,
     "BuffStickerId": 2881,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/EntryFragger.png"
   },
   {
     "name": "Devouring Flame",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45357,
     "BuffStickerId": 2879,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/DevouringFlame.png"
   },
   {
     "name": "Retake Expert",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45402,
     "BuffStickerId": 2886,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/RetakeExpert.png"
   },
   {
     "name": "Camper",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45354,
     "BuffStickerId": 2876,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/Camper.png"
   },
   {
     "name": "Dessert Eagle",
@@ -123,6 +123,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 45356,
     "BuffStickerId": 2878,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityCapsule2018/DessertEagle.png"
   }
 ]

@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39946,
     "BuffStickerId": 862,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/ChiBomb.png"
   },
   {
     "name": "Doru The Fox",
@@ -15,7 +15,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40019,
     "BuffStickerId": 930,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/DoruTheFox.png"
   },
   {
     "name": "Kawaii Killer Terrorist",
@@ -24,7 +24,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40394,
     "BuffStickerId": 1302,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/KawaiiKillerTerrorist.png"
   },
   {
     "name": "CS On The Mind",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39936,
     "BuffStickerId": 852,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/CSOnTheMind.png"
   },
   {
     "name": "Baaa-ckstabber!",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39903,
     "BuffStickerId": 822,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/Baaackstabber.png"
   },
   {
     "name": "Knife Club",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40415,
     "BuffStickerId": 1321,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/KnifeClub.png"
   },
   {
     "name": "Awp Country",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39877,
     "BuffStickerId": 796,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/AwpCountry.png"
   },
   {
     "name": "Delicious Tears",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40010,
     "BuffStickerId": 923,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/DeliciousTears.png"
   },
   {
     "name": "Ninja Defuse",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40611,
     "BuffStickerId": 1512,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/NinjaDefuse.png"
   },
   {
     "name": "Pros Don't Fake",
@@ -87,6 +87,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40678,
     "BuffStickerId": 1579,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/ProsDontFake.png"
   }
 ]

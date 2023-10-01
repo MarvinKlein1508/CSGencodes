@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 773532,
     "BuffStickerId": 10731,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/DragonLore-Foil.png"
   },
   {
     "name": "All Hail the King (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 773548,
     "BuffStickerId": 10769,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/AllHailtheKing-Foil.png"
   },
   {
     "name": "Door Stuck (Foil)",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 773545,
     "BuffStickerId": 10765,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/DoorStuck-Foil.png"
   },
   {
     "name": "Rush 4x20 (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 773529,
     "BuffStickerId": 10753,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/Rush4x20-Holo.png"
   },
   {
     "name": "Fire in the Hole (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 773549,
     "BuffStickerId": 10755,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/FireintheHole-Holo.png"
   },
   {
     "name": "Boost (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 773546,
     "BuffStickerId": 10759,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/Boost-Holo.png"
   },
   {
     "name": "Guinea Pig (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 773543,
     "BuffStickerId": 10764,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/GuineaPig-Holo.png"
   },
   {
     "name": "CS20 Classic (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 773544,
     "BuffStickerId": 10754,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/CS20Classic-Holo.png"
   },
   {
     "name": "Clutchman (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 773542,
     "BuffStickerId": 10760,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/Clutchman-Holo.png"
   },
   {
     "name": "Nuke Beast",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773526,
     "BuffStickerId": 10762,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/NukeBeast.png"
   },
   {
     "name": "Surf's Up",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773528,
     "BuffStickerId": 10737,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/SurfsUp.png"
   },
   {
     "name": "Friend Code",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773527,
     "BuffStickerId": 10752,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/FriendCode.png"
   },
   {
     "name": "Obey SAS",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773533,
     "BuffStickerId": 10744,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/ObeySAS.png"
   },
   {
     "name": "Pixel Avenger",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773531,
     "BuffStickerId": 10738,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/PixelAvenger.png"
   },
   {
     "name": "Too Late",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773530,
     "BuffStickerId": 10745,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/TooLate.png"
   },
   {
     "name": "Aztec",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773537,
     "BuffStickerId": 10767,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/Aztec.png"
   },
   {
     "name": "Separate Pixels",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773525,
     "BuffStickerId": 10734,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/SeparatePixels.png"
   },
   {
     "name": "Too Old for This",
@@ -159,7 +159,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773540,
     "BuffStickerId": 10747,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/TooOldforThis.png"
   },
   {
     "name": "Temperance",
@@ -168,7 +168,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773541,
     "BuffStickerId": 10733,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/Temperance.png"
   },
   {
     "name": "Mondays",
@@ -177,6 +177,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 773536,
     "BuffStickerId": 10735,
-    "Image": null
+    "Image": "/assets/img/items/stickers/CS20StickerCapsule/Mondays.png"
   }
 ]
