@@ -30,6 +30,7 @@
 
 	<ItemGroup>
 	  <Folder Include="wwwroot\assets\img\items\stickers\Antwerp2022\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\BrokenFangStickerCollection\" />
 	</ItemGroup>
 
 	
