@@ -18,6 +18,15 @@
     "Image": "/assets/img/items/stickers/CommunityStickersSeries3/Phoenix-Foil.png"
   },
   {
+    "name": "Pandamonium",
+    "gen_id": 264,
+    "tournament": "Community Stickers Series 3",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40658,
+    "BuffStickerId": 1559,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries3/PieceOfCake.png"
+  },
+  {
     "name": "Piece Of Cake",
     "gen_id": 265,
     "tournament": "Community Stickers Series 3",
