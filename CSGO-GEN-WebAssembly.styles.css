@@ -2,10 +2,15 @@
 .sticker[b-8puwb53nm1] {
     background: none;
     padding: .75rem;
-    display: block;
+    display: flex;
     width: 100%;
     border: 1px solid gray;
     margin-top: -1px;
+    align-items: center;
+}
+
+.sticker-name[b-8puwb53nm1] {
+    flex: 1;
 }
 
     .sticker:is(:hover)[b-8puwb53nm1] {
