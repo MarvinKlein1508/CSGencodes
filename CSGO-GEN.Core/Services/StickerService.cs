@@ -12,24 +12,34 @@ namespace CSGO_GEN.Core.Services
         {
             if (!string.IsNullOrWhiteSpace(filter.Searchterm))
             {
-                var searchphrases = filter.Searchterm.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-
-                foreach (var sticker in _stickers.OrderBy(x => x.gen_id))
+                if (filter.Searchterm == "*")
                 {
-                    bool found_by_search = true;
-                    foreach (var searchphrase in searchphrases)
-                    {
-                        if (!sticker.name.Contains(searchphrase, StringComparison.OrdinalIgnoreCase))
-                        {
-                            found_by_search = false;
-                            break;
-                        }
-
-                    }
-
-                    if(found_by_search)
+                    foreach (var sticker in _stickers.OrderBy(x => x.gen_id))
                     {
                         yield return sticker;
+                    }
+                }
+                else
+                {
+                    var searchphrases = filter.Searchterm.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                    foreach (var sticker in _stickers.OrderBy(x => x.gen_id))
+                    {
+                        bool found_by_search = true;
+                        foreach (var searchphrase in searchphrases)
+                        {
+                            if (!sticker.name.Contains(searchphrase, StringComparison.OrdinalIgnoreCase))
+                            {
+                                found_by_search = false;
+                                break;
+                            }
+
+                        }
+
+                        if (found_by_search)
+                        {
+                            yield return sticker;
+                        }
                     }
                 }
             }
