@@ -33,7 +33,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/3DMAX-Gold.png"
+    "Image": null
   },
   {
     "name": "Cloud9 G2A | Katowice 2015",
@@ -69,7 +69,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/Cloud9G2A-Gold.png"
+    "Image": null
   },
   {
     "name": "Counter Logic Gaming | Katowice 2015",
@@ -105,7 +105,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/CounterLogicGaming-Gold.png"
+    "Image": null
   },
   {
     "name": "Flipsid3 Tactics | Katowice 2015",
@@ -141,7 +141,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/Flipsid3Tactics-Gold.png"
+    "Image": null
   },
   {
     "name": "Fnatic | Katowice 2015",
@@ -177,7 +177,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/Fnatic-Gold.png"
+    "Image": null
   },
   {
     "name": "HellRaisers | Katowice 2015",
@@ -213,7 +213,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/HellRaisers-Gold.png"
+    "Image": null
   },
   {
     "name": "Keyd Stars | Katowice 2015",
@@ -249,7 +249,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/KeydStars-Gold.png"
+    "Image": null
   },
   {
     "name": "LGB eSports | Katowice 2015",
@@ -285,7 +285,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/LGBeSports-Gold.png"
+    "Image": null
   },
   {
     "name": "Natus Vincere | Katowice 2015",
@@ -321,7 +321,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/NatusVincere-Gold.png"
+    "Image": null
   },
   {
     "name": "Ninjas in Pyjamas | Katowice 2015",
@@ -357,7 +357,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/NinjasinPyjamas-Gold.png"
+    "Image": null
   },
   {
     "name": "PENTA Sports | Katowice 2015",
@@ -393,7 +393,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/PENTASports-Gold.png"
+    "Image": null
   },
   {
     "name": "Team EnVyUs | Katowice 2015",
@@ -429,7 +429,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/TeamEnVyUs-Gold.png"
+    "Image": null
   },
   {
     "name": "Titan | Katowice 2015",
@@ -465,7 +465,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/Titan-Gold.png"
+    "Image": null
   },
   {
     "name": "TSM Kinguin | Katowice 2015",
@@ -501,7 +501,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/TSMKinguin-Gold.png"
+    "Image": null
   },
   {
     "name": "Virtus.Pro | Katowice 2015",
@@ -537,7 +537,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/VirtusPro-Gold.png"
+    "Image": null
   },
   {
     "name": "Vox Eminor | Katowice 2015",
@@ -573,7 +573,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/Katowice2015/VoxEminor-Gold.png"
+    "Image": null
   },
   {
     "name": "ESL One | Katowice 2015",
@@ -600,6 +600,6 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 12258,
-    "Image": "/assets/img/items/stickers/Katowice2015/ESLOne-Gold.png"
+    "Image": null
   }
 ]
