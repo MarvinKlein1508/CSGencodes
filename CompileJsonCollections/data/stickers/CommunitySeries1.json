@@ -5,7 +5,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Contraband",
     "BuffGoodsId": 40335,
-    "BuffStickerId": 1244
+    "BuffStickerId": 1244,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/HowlingDawn.png"
   },
   {
     "name": "Flammable (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40134,
-    "BuffStickerId": 1045
+    "BuffStickerId": 1045,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/Flammable-Foil.png"
   },
   {
     "name": "Swag (Foil)",
@@ -21,7 +23,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40860,
-    "BuffStickerId": 1760
+    "BuffStickerId": 1760,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/Swag-Foil.png"
   },
   {
     "name": "Headhunter (Foil)",
@@ -29,7 +32,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40300,
-    "BuffStickerId": 1209
+    "BuffStickerId": 1209,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/Headhunter-Foil.png"
   },
   {
     "name": "New Sheriff (Foil)",
@@ -37,7 +41,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Exotic",
     "BuffGoodsId": 40591,
-    "BuffStickerId": 1492
+    "BuffStickerId": 1492,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/NewSheriff-Foil.png"
   },
   {
     "name": "Harp of War (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 40296,
-    "BuffStickerId": 1205
+    "BuffStickerId": 1205,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/HarpofWar-Holo.png"
   },
   {
     "name": "Teamwork (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 40957,
-    "BuffStickerId": 1855
+    "BuffStickerId": 1855,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/Teamwork-Holo.png"
   },
   {
     "name": "Rekt (Holo)",
@@ -61,7 +68,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "Remarkable",
     "BuffGoodsId": 40697,
-    "BuffStickerId": 1598
+    "BuffStickerId": 1598,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/Rekt-Holo.png"
   },
   {
     "name": "Bomb Doge",
@@ -69,7 +77,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39918,
-    "BuffStickerId": 837
+    "BuffStickerId": 837,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/BombDoge.png"
   },
   {
     "name": "Rising Skull",
@@ -77,7 +86,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40705,
-    "BuffStickerId": 1606
+    "BuffStickerId": 1606,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/RisingSkull.png"
   },
   {
     "name": "My Other Awp",
@@ -85,7 +95,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40522,
-    "BuffStickerId": 1424
+    "BuffStickerId": 1424,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/MyOtherAwp.png"
   },
   {
     "name": "King on the Field",
@@ -93,7 +104,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40404,
-    "BuffStickerId": 1310
+    "BuffStickerId": 1310,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/KingontheField.png"
   },
   {
     "name": "Winged Defuser",
@@ -101,7 +113,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 41059,
-    "BuffStickerId": 1956
+    "BuffStickerId": 1956,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/WingedDefuser.png"
   },
   {
     "name": "Shave Master",
@@ -109,7 +122,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40768,
-    "BuffStickerId": 1669
+    "BuffStickerId": 1669,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/ShaveMaster.png"
   },
   {
     "name": "Llama Cannon",
@@ -117,7 +131,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40446,
-    "BuffStickerId": 1352
+    "BuffStickerId": 1352,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/LlamaCannon.png"
   },
   {
     "name": "Death Comes",
@@ -125,7 +140,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40009,
-    "BuffStickerId": 922
+    "BuffStickerId": 922,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/DeathComes.png"
   },
   {
     "name": "Sneaky Beaky Like",
@@ -133,7 +149,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40819,
-    "BuffStickerId": 1719
+    "BuffStickerId": 1719,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/SneakyBeakyLike.png"
   },
   {
     "name": "Backstab",
@@ -141,7 +158,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39904,
-    "BuffStickerId": 823
+    "BuffStickerId": 823,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/Backstab.png"
   },
   {
     "name": "Pocket BBQ",
@@ -149,7 +167,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40675,
-    "BuffStickerId": 1576
+    "BuffStickerId": 1576,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/PocketBBQ.png"
   },
   {
     "name": "To B or not to B",
@@ -157,7 +176,8 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 40988,
-    "BuffStickerId": 1885
+    "BuffStickerId": 1885,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/ToBornottoB.png"
   },
   {
     "name": "Burn Them All",
@@ -165,6 +185,7 @@
     "tournament": "Community Sticker Capsule 1",
     "rarity": "HighGrade",
     "BuffGoodsId": 39935,
-    "BuffStickerId": 851
+    "BuffStickerId": 851,
+    "Image": "/assets/img/items/stickers/CommunityStickerCapsule1/BurnThemAll.png"
   }
 ]

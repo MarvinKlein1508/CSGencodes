@@ -5,7 +5,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 770876,
-    "BuffStickerId": 8825
+    "BuffStickerId": 8825,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/BigClucks-Foil.png"
   },
   {
     "name": "Roosty Boosty (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 770846,
-    "BuffStickerId": 8809
+    "BuffStickerId": 8809,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/RoostyBoosty-Foil.png"
   },
   {
     "name": "Hot Wings (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 770860,
-    "BuffStickerId": 8819
+    "BuffStickerId": 8819,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/HotWings-Holo.png"
   },
   {
     "name": "Fowl Play (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 770852,
-    "BuffStickerId": 8813
+    "BuffStickerId": 8813,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/FowlPlay-Holo.png"
   },
   {
     "name": "Double Dip (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 770858,
-    "BuffStickerId": 8817
+    "BuffStickerId": 8817,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/DoubleDip-Holo.png"
   },
   {
     "name": "Bonehead (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 770861,
-    "BuffStickerId": 8820
+    "BuffStickerId": 8820,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/Bonehead-Holo.png"
   },
   {
     "name": "Nest Egg (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 770848,
-    "BuffStickerId": 8810
+    "BuffStickerId": 8810,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/NestEgg-Holo.png"
   },
   {
     "name": "Big Clucks",
@@ -61,7 +68,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770875,
-    "BuffStickerId": 8824
+    "BuffStickerId": 8824,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/BigClucks.png"
   },
   {
     "name": "BukAWP",
@@ -69,7 +77,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770849,
-    "BuffStickerId": 8811
+    "BuffStickerId": 8811,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/BukAWP.png"
   },
   {
     "name": "Hot Wings",
@@ -77,7 +86,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770853,
-    "BuffStickerId": 8814
+    "BuffStickerId": 8814,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/HotWings.png"
   },
   {
     "name": "Fowl Play",
@@ -85,7 +95,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770850,
-    "BuffStickerId": 8812
+    "BuffStickerId": 8812,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/FowlPlay.png"
   },
   {
     "name": "Bonehead",
@@ -93,7 +104,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770859,
-    "BuffStickerId": 8818
+    "BuffStickerId": 8818,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/Bonehead.png"
   },
   {
     "name": "What What",
@@ -101,7 +113,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770873,
-    "BuffStickerId": 8823
+    "BuffStickerId": 8823,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/WhatWhat.png"
   },
   {
     "name": "Nest Egg",
@@ -109,7 +122,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770855,
-    "BuffStickerId": 8815
+    "BuffStickerId": 8815,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/NestEgg.png"
   },
   {
     "name": "Roosty Boosty",
@@ -117,7 +131,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770856,
-    "BuffStickerId": 8816
+    "BuffStickerId": 8816,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/RoostyBoosty.png"
   },
   {
     "name": "Double Dip",
@@ -125,7 +140,8 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770872,
-    "BuffStickerId": 8822
+    "BuffStickerId": 8822,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/DoubleDip.png"
   },
   {
     "name": "Heads Up",
@@ -133,6 +149,7 @@
     "tournament": "Chicken Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 770871,
-    "BuffStickerId": 8821
+    "BuffStickerId": 8821,
+    "Image": "/assets/img/items/stickers/ChickenCapsule/HeadsUp.png"
   }
 ]

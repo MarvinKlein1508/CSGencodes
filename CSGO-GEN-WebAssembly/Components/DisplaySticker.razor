@@ -1,7 +1,11 @@
 ﻿@if (Sticker is not null)
 {
     <button type="button" class="sticker @GetRarityCSS()" @onclick="async () => await OnClick.InvokeAsync(Sticker)">
-        @Sticker.name
+        @if (Sticker.Image is not null)
+        {
+            <img style="max-width: 70px;" loading="lazy" src="@Sticker.Image" />
+        }
+        <span class="sticker-name">@Sticker.name</span>
     </button>
 }
 

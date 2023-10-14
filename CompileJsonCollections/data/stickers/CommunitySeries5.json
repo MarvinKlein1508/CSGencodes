@@ -5,7 +5,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 39946,
-    "BuffStickerId": 862
+    "BuffStickerId": 862,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/ChiBomb.png"
   },
   {
     "name": "Doru The Fox",
@@ -13,7 +14,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 40019,
-    "BuffStickerId": 930
+    "BuffStickerId": 930,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/DoruTheFox.png"
   },
   {
     "name": "Kawaii Killer Terrorist",
@@ -21,7 +23,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 40394,
-    "BuffStickerId": 1302
+    "BuffStickerId": 1302,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/KawaiiKillerTerrorist.png"
   },
   {
     "name": "CS On The Mind",
@@ -29,7 +32,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 39936,
-    "BuffStickerId": 852
+    "BuffStickerId": 852,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/CSOnTheMind.png"
   },
   {
     "name": "Baaa-ckstabber!",
@@ -37,7 +41,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 39903,
-    "BuffStickerId": 822
+    "BuffStickerId": 822,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/Baaackstabber.png"
   },
   {
     "name": "Knife Club",
@@ -45,7 +50,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 40415,
-    "BuffStickerId": 1321
+    "BuffStickerId": 1321,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/KnifeClub.png"
   },
   {
     "name": "Awp Country",
@@ -53,7 +59,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 39877,
-    "BuffStickerId": 796
+    "BuffStickerId": 796,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/AwpCountry.png"
   },
   {
     "name": "Delicious Tears",
@@ -61,7 +68,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 40010,
-    "BuffStickerId": 923
+    "BuffStickerId": 923,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/DeliciousTears.png"
   },
   {
     "name": "Ninja Defuse",
@@ -69,7 +77,8 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 40611,
-    "BuffStickerId": 1512
+    "BuffStickerId": 1512,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/NinjaDefuse.png"
   },
   {
     "name": "Pros Don't Fake",
@@ -77,6 +86,7 @@
     "tournament": "Community Stickers Series 5",
     "rarity": "HighGrade",
     "BuffGoodsId": 40678,
-    "BuffStickerId": 1579
+    "BuffStickerId": 1579,
+    "Image": "/assets/img/items/stickers/CommunityStickersSeries5/ProsDontFake.png"
   }
 ]

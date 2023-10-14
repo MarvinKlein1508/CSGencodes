@@ -5,7 +5,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 777216,
-    "BuffStickerId": 10874
+    "BuffStickerId": 10874,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Legendary-Foil.png"
   },
   {
     "name": "Chief (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 777234,
-    "BuffStickerId": 10886
+    "BuffStickerId": 10886,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Chief-Foil.png"
   },
   {
     "name": "Incineration (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 777203,
-    "BuffStickerId": 10864
+    "BuffStickerId": 10864,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Incineration-Holo.png"
   },
   {
     "name": "Killjoy (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 777205,
-    "BuffStickerId": 10866
+    "BuffStickerId": 10866,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Killjoy-Holo.png"
   },
   {
     "name": "Assassin (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 777218,
-    "BuffStickerId": 10875
+    "BuffStickerId": 10875,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Assassin-Holo.png"
   },
   {
     "name": "Noble (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 777235,
-    "BuffStickerId": 10879
+    "BuffStickerId": 10879,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Noble-Holo.png"
   },
   {
     "name": "Chief (Holo)",
@@ -53,7 +59,8 @@
     "tournament": "Halo Capsule",
     "rarity": "Remarkable",
     "BuffGoodsId": 777215,
-    "BuffStickerId": 10873
+    "BuffStickerId": 10873,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Chief-Holo.png"
   },
   {
     "name": "Assassin",
@@ -61,7 +68,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777213,
-    "BuffStickerId": 10871
+    "BuffStickerId": 10871,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Assassin.png"
   },
   {
     "name": "Mister Chief",
@@ -69,7 +77,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777233,
-    "BuffStickerId": 10878
+    "BuffStickerId": 10878,
+    "Image": "/assets/img/items/stickers/HaloCapsule/MisterChief.png"
   },
   {
     "name": "Killjoy",
@@ -77,7 +86,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777208,
-    "BuffStickerId": 10869
+    "BuffStickerId": 10869,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Killjoy.png"
   },
   {
     "name": "Extermination",
@@ -85,7 +95,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777220,
-    "BuffStickerId": 10876
+    "BuffStickerId": 10876,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Extermination.png"
   },
   {
     "name": "Incineration",
@@ -93,7 +104,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777207,
-    "BuffStickerId": 10868
+    "BuffStickerId": 10868,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Incineration.png"
   },
   {
     "name": "Dirty Money",
@@ -101,7 +113,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777206,
-    "BuffStickerId": 10867
+    "BuffStickerId": 10867,
+    "Image": "/assets/img/items/stickers/HaloCapsule/DirtyMoney.png"
   },
   {
     "name": "Noble",
@@ -109,7 +122,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777214,
-    "BuffStickerId": 10872
+    "BuffStickerId": 10872,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Noble.png"
   },
   {
     "name": "Legendary",
@@ -117,7 +131,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777211,
-    "BuffStickerId": 10870
+    "BuffStickerId": 10870,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Legendary.png"
   },
   {
     "name": "Spartan",
@@ -125,7 +140,8 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777221,
-    "BuffStickerId": 10877
+    "BuffStickerId": 10877,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Spartan.png"
   },
   {
     "name": "Chief",
@@ -133,6 +149,7 @@
     "tournament": "Halo Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 777204,
-    "BuffStickerId": 10865
+    "BuffStickerId": 10865,
+    "Image": "/assets/img/items/stickers/HaloCapsule/Chief.png"
   }
 ]

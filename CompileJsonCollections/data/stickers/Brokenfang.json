@@ -5,7 +5,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "Exotic",
     "BuffGoodsId": 835615,
-    "BuffStickerId": 15509
+    "BuffStickerId": 15509,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/StoneScales-Foil.png"
   },
   {
     "name": "Ancient Beast (Foil)",
@@ -13,7 +14,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "Exotic",
     "BuffGoodsId": 835482,
-    "BuffStickerId": 15495
+    "BuffStickerId": 15495,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/AncientBeast-Foil.png"
   },
   {
     "name": "Battle Scarred (Holo)",
@@ -21,7 +23,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 835504,
-    "BuffStickerId": 15504
+    "BuffStickerId": 15504,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BattleScarred-Holo.png"
   },
   {
     "name": "Coiled Strike (Holo)",
@@ -29,7 +32,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 835485,
-    "BuffStickerId": 15498
+    "BuffStickerId": 15498,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/CoiledStrike-Holo.png"
   },
   {
     "name": "Enemy Spotted (Holo)",
@@ -37,7 +41,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 835402,
-    "BuffStickerId": 15486
+    "BuffStickerId": 15486,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/EnemySpotted-Holo.png"
   },
   {
     "name": "Broken Fang (Holo)",
@@ -45,7 +50,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "Remarkable",
     "BuffGoodsId": 835491,
-    "BuffStickerId": 15500
+    "BuffStickerId": 15500,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BrokenFang-Holo.png"
   },
   {
     "name": "Battle Scarred",
@@ -53,7 +59,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835480,
-    "BuffStickerId": 15494
+    "BuffStickerId": 15494,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BattleScarred.png"
   },
   {
     "name": "Broken Fang",
@@ -61,7 +68,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835483,
-    "BuffStickerId": 15496
+    "BuffStickerId": 15496,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BrokenFang.png"
   },
   {
     "name": "Stalking Prey",
@@ -69,7 +77,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835460,
-    "BuffStickerId": 15490
+    "BuffStickerId": 15490,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/StalkingPrey.png"
   },
   {
     "name": "Enemy Spotted",
@@ -77,7 +86,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835493,
-    "BuffStickerId": 15501
+    "BuffStickerId": 15501,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/EnemySpotted.png"
   },
   {
     "name": "Coiled Strike",
@@ -85,7 +95,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835502,
-    "BuffStickerId": 15503
+    "BuffStickerId": 15503,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/CoiledStrike.png"
   },
   {
     "name": "Stone Scales",
@@ -93,7 +104,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835484,
-    "BuffStickerId": 15497
+    "BuffStickerId": 15497,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/StoneScales.png"
   },
   {
     "name": "Ancient Protector",
@@ -101,7 +113,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835469,
-    "BuffStickerId": 15492
+    "BuffStickerId": 15492,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/AncientProtector.png"
   },
   {
     "name": "Badge of Service",
@@ -109,7 +122,8 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835479,
-    "BuffStickerId": 15493
+    "BuffStickerId": 15493,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BadgeofService.png"
   },
   {
     "name": "Ancient Beast",
@@ -117,6 +131,7 @@
     "tournament": "Broken Fang Sticker Collection",
     "rarity": "HighGrade",
     "BuffGoodsId": 835495,
-    "BuffStickerId": 15502
+    "BuffStickerId": 15502,
+    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/AncientBeast.png"
   }
 ]

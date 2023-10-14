@@ -2,129 +2,145 @@
   {
     "name": "Crown (Foil)",
     "gen_id": 37,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "Exotic",
     "BuffGoodsId": 39993,
-    "BuffStickerId": 906
+    "BuffStickerId": 906,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/Crown-Foil.png"
   },
   {
     "name": "Stupid Banana (Foil)",
     "gen_id": 46,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "Exotic",
     "BuffGoodsId": 40855,
-    "BuffStickerId": 1755
+    "BuffStickerId": 1755,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/StupidBanana-Foil.png"
   },
   {
     "name": "Bish (Holo)",
     "gen_id": 31,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "Remarkable",
     "BuffGoodsId": 39909,
-    "BuffStickerId": 828
+    "BuffStickerId": 828,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/Bish-Holo.png"
   },
   {
     "name": "Bash (Holo)",
     "gen_id": 32,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "Remarkable",
     "BuffGoodsId": 39906,
-    "BuffStickerId": 825
+    "BuffStickerId": 825,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/Bash-Holo.png"
   },
   {
     "name": "Bosh (Holo)",
     "gen_id": 33,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "Remarkable",
     "BuffGoodsId": 39932,
-    "BuffStickerId": 848
+    "BuffStickerId": 848,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/Bosh-Holo.png"
   },
   {
     "name": "Let's Roll-oll (Holo)",
     "gen_id": 42,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "Remarkable",
     "BuffGoodsId": 40445,
-    "BuffStickerId": 1351
+    "BuffStickerId": 1351,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/LetsRolloll-Holo.png"
   },
   {
     "name": "Good Game",
     "gen_id": 38,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40244,
-    "BuffStickerId": 1155
+    "BuffStickerId": 1155,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/GoodGame.png"
   },
   {
     "name": "Nice Shot",
     "gen_id": 44,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40607,
-    "BuffStickerId": 1508
+    "BuffStickerId": 1508,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/NiceShot.png"
   },
   {
     "name": "Welcome to the Clutch",
     "gen_id": 47,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 41057,
-    "BuffStickerId": 1954
+    "BuffStickerId": 1954,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/WelcometotheClutch.png"
   },
   {
     "name": "Banana",
     "gen_id": 34,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 39905,
-    "BuffStickerId": 824
+    "BuffStickerId": 824,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/Banana.png"
   },
   {
     "name": "Good Luck",
     "gen_id": 39,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40245,
-    "BuffStickerId": 1156
+    "BuffStickerId": 1156,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/GoodLuck.png"
   },
   {
     "name": "Bomb Code",
     "gen_id": 35,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 39917,
-    "BuffStickerId": 836
+    "BuffStickerId": 836,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/BombCode.png"
   },
   {
     "name": "Have Fun",
     "gen_id": 40,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40297,
-    "BuffStickerId": 1206
+    "BuffStickerId": 1206,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/HaveFun.png"
   },
   {
     "name": "Chicken Lover",
     "gen_id": 36,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 39947,
-    "BuffStickerId": 863
+    "BuffStickerId": 863,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/ChickenLover.png"
   },
   {
     "name": "Let's Roll-oll",
     "gen_id": 41,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40444,
-    "BuffStickerId": 1350
+    "BuffStickerId": 1350,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/LetsRolloll.png"
   },
   {
     "name": "Metal",
     "gen_id": 43,
-    "tournament": "Sticker Capsule 1",
+    "tournament": "Sticker Capsule 2",
     "rarity": "HighGrade",
     "BuffGoodsId": 40512,
-    "BuffStickerId": 1416
+    "BuffStickerId": 1416,
+    "Image": "/assets/img/items/stickers/StickerCapsule2/Metal.png"
   }
 ]

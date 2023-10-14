@@ -5,7 +5,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768325,
-    "BuffStickerId": 4479
+    "BuffStickerId": 4479,
+    "Image": "/assets/img/items/stickers/Katowice2019/Astralis.png"
   },
   {
     "name": "Astralis (Holo) | Katowice 2019",
@@ -13,7 +14,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768209,
-    "BuffStickerId": 4572
+    "BuffStickerId": 4572,
+    "Image": "/assets/img/items/stickers/Katowice2019/Astralis-Holo.png"
   },
   {
     "name": "Astralis (Foil) | Katowice 2019",
@@ -21,7 +23,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768451,
-    "BuffStickerId": 4760
+    "BuffStickerId": 4760,
+    "Image": "/assets/img/items/stickers/Katowice2019/Astralis-Foil.png"
   },
   {
     "name": "Astralis (Gold) | Katowice 2019",
@@ -29,7 +32,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Avangar | Katowice 2019",
@@ -37,7 +41,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768359,
-    "BuffStickerId": 4721
+    "BuffStickerId": 4721,
+    "Image": "/assets/img/items/stickers/Katowice2019/Avangar.png"
   },
   {
     "name": "Avangar (Holo) | Katowice 2019",
@@ -45,7 +50,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768229,
-    "BuffStickerId": 4680
+    "BuffStickerId": 4680,
+    "Image": "/assets/img/items/stickers/Katowice2019/Avangar-Holo.png"
   },
   {
     "name": "Avangar (Foil) | Katowice 2019",
@@ -53,7 +59,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768659,
-    "BuffStickerId": 4496
+    "BuffStickerId": 4496,
+    "Image": "/assets/img/items/stickers/Katowice2019/Avangar-Foil.png"
   },
   {
     "name": "Avangar (Gold) | Katowice 2019",
@@ -61,7 +68,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "BIG | Katowice 2019",
@@ -69,7 +77,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768484,
-    "BuffStickerId": 4777
+    "BuffStickerId": 4777,
+    "Image": "/assets/img/items/stickers/Katowice2019/BIG.png"
   },
   {
     "name": "BIG (Holo) | Katowice 2019",
@@ -77,7 +86,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768225,
-    "BuffStickerId": 4677
+    "BuffStickerId": 4677,
+    "Image": "/assets/img/items/stickers/Katowice2019/BIG-Holo.png"
   },
   {
     "name": "BIG (Foil) | Katowice 2019",
@@ -85,7 +95,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768321,
-    "BuffStickerId": 4703
+    "BuffStickerId": 4703,
+    "Image": "/assets/img/items/stickers/Katowice2019/BIG-Foil.png"
   },
   {
     "name": "BIG (Gold) | Katowice 2019",
@@ -93,7 +104,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Cloud9 | Katowice 2019",
@@ -101,7 +113,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768391,
-    "BuffStickerId": 4477
+    "BuffStickerId": 4477,
+    "Image": "/assets/img/items/stickers/Katowice2019/Cloud9.png"
   },
   {
     "name": "Cloud9 (Holo) | Katowice 2019",
@@ -109,7 +122,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768231,
-    "BuffStickerId": 4681
+    "BuffStickerId": 4681,
+    "Image": "/assets/img/items/stickers/Katowice2019/Cloud9-Holo.png"
   },
   {
     "name": "Cloud9 (Foil) | Katowice 2019",
@@ -117,7 +131,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768592,
-    "BuffStickerId": 4843
+    "BuffStickerId": 4843,
+    "Image": "/assets/img/items/stickers/Katowice2019/Cloud9-Foil.png"
   },
   {
     "name": "Cloud9 (Gold) | Katowice 2019",
@@ -125,7 +140,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "compLexity Gaming | Katowice 2019",
@@ -133,7 +149,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768577,
-    "BuffStickerId": 4830
+    "BuffStickerId": 4830,
+    "Image": "/assets/img/items/stickers/Katowice2019/compLexityGaming.png"
   },
   {
     "name": "compLexity Gaming (Holo) | Katowice 2019",
@@ -141,7 +158,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768230,
-    "BuffStickerId": 4590
+    "BuffStickerId": 4590,
+    "Image": "/assets/img/items/stickers/Katowice2019/compLexityGaming-Holo.png"
   },
   {
     "name": "compLexity Gaming (Foil) | Katowice 2019",
@@ -149,7 +167,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768234,
-    "BuffStickerId": 4683
+    "BuffStickerId": 4683,
+    "Image": "/assets/img/items/stickers/Katowice2019/compLexityGaming-Foil.png"
   },
   {
     "name": "compLexity Gaming (Gold) | Katowice 2019",
@@ -157,7 +176,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "ENCE | Katowice 2019",
@@ -165,7 +185,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768482,
-    "BuffStickerId": 4775
+    "BuffStickerId": 4775,
+    "Image": "/assets/img/items/stickers/Katowice2019/ENCE.png"
   },
   {
     "name": "ENCE (Holo) | Katowice 2019",
@@ -173,7 +194,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768178,
-    "BuffStickerId": 4649
+    "BuffStickerId": 4649,
+    "Image": "/assets/img/items/stickers/Katowice2019/ENCE-Holo.png"
   },
   {
     "name": "ENCE (Foil) | Katowice 2019",
@@ -181,7 +203,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768528,
-    "BuffStickerId": 4798
+    "BuffStickerId": 4798,
+    "Image": "/assets/img/items/stickers/Katowice2019/ENCE-Foil.png"
   },
   {
     "name": "ENCE (Gold) | Katowice 2019",
@@ -189,7 +212,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "FaZe Clan | Katowice 2019",
@@ -197,7 +221,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768313,
-    "BuffStickerId": 4576
+    "BuffStickerId": 4576,
+    "Image": "/assets/img/items/stickers/Katowice2019/FaZeClan.png"
   },
   {
     "name": "FaZe Clan (Holo) | Katowice 2019",
@@ -205,7 +230,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768177,
-    "BuffStickerId": 4533
+    "BuffStickerId": 4533,
+    "Image": "/assets/img/items/stickers/Katowice2019/FaZeClan-Holo.png"
   },
   {
     "name": "FaZe Clan (Foil) | Katowice 2019",
@@ -213,7 +239,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768153,
-    "BuffStickerId": 4638
+    "BuffStickerId": 4638,
+    "Image": "/assets/img/items/stickers/Katowice2019/FaZeClan-Foil.png"
   },
   {
     "name": "FaZe Clan (Gold) | Katowice 2019",
@@ -221,7 +248,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Fnatic | Katowice 2019",
@@ -229,7 +257,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768396,
-    "BuffStickerId": 4735
+    "BuffStickerId": 4735,
+    "Image": "/assets/img/items/stickers/Katowice2019/Fnatic.png"
   },
   {
     "name": "Fnatic (Holo) | Katowice 2019",
@@ -237,7 +266,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768208,
-    "BuffStickerId": 4665
+    "BuffStickerId": 4665,
+    "Image": "/assets/img/items/stickers/Katowice2019/Fnatic-Holo.png"
   },
   {
     "name": "Fnatic (Foil) | Katowice 2019",
@@ -245,7 +275,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768441,
-    "BuffStickerId": 4611
+    "BuffStickerId": 4611,
+    "Image": "/assets/img/items/stickers/Katowice2019/Fnatic-Foil.png"
   },
   {
     "name": "Fnatic (Gold) | Katowice 2019",
@@ -253,7 +284,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "FURIA | Katowice 2019",
@@ -261,7 +293,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768554,
-    "BuffStickerId": 4815
+    "BuffStickerId": 4815,
+    "Image": "/assets/img/items/stickers/Katowice2019/FURIA.png"
   },
   {
     "name": "FURIA (Holo) | Katowice 2019",
@@ -269,7 +302,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768486,
-    "BuffStickerId": 4568
+    "BuffStickerId": 4568,
+    "Image": "/assets/img/items/stickers/Katowice2019/FURIA-Holo.png"
   },
   {
     "name": "FURIA (Foil) | Katowice 2019",
@@ -277,7 +311,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768564,
-    "BuffStickerId": 4634
+    "BuffStickerId": 4634,
+    "Image": "/assets/img/items/stickers/Katowice2019/FURIA-Foil.png"
   },
   {
     "name": "FURIA (Gold) | Katowice 2019",
@@ -285,7 +320,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "G2 Esports | Katowice 2019",
@@ -293,7 +329,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768402,
-    "BuffStickerId": 4584
+    "BuffStickerId": 4584,
+    "Image": "/assets/img/items/stickers/Katowice2019/G2Esports.png"
   },
   {
     "name": "G2 Esports (Holo) | Katowice 2019",
@@ -301,7 +338,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768239,
-    "BuffStickerId": 4539
+    "BuffStickerId": 4539,
+    "Image": "/assets/img/items/stickers/Katowice2019/G2Esports-Holo.png"
   },
   {
     "name": "G2 Esports (Foil) | Katowice 2019",
@@ -309,7 +347,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768446,
-    "BuffStickerId": 4756
+    "BuffStickerId": 4756,
+    "Image": "/assets/img/items/stickers/Katowice2019/G2Esports-Foil.png"
   },
   {
     "name": "G2 Esports (Gold) | Katowice 2019",
@@ -317,7 +356,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Grayhound Gaming | Katowice 2019",
@@ -325,7 +365,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768572,
-    "BuffStickerId": 4826
+    "BuffStickerId": 4826,
+    "Image": "/assets/img/items/stickers/Katowice2019/GrayhoundGaming.png"
   },
   {
     "name": "Grayhound Gaming (Holo) | Katowice 2019",
@@ -333,7 +374,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768472,
-    "BuffStickerId": 4773
+    "BuffStickerId": 4773,
+    "Image": "/assets/img/items/stickers/Katowice2019/GrayhoundGaming-Holo.png"
   },
   {
     "name": "Grayhound Gaming (Foil) | Katowice 2019",
@@ -341,7 +383,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768471,
-    "BuffStickerId": 4772
+    "BuffStickerId": 4772,
+    "Image": "/assets/img/items/stickers/Katowice2019/GrayhoundGaming-Foil.png"
   },
   {
     "name": "Grayhound Gaming (Gold) | Katowice 2019",
@@ -349,7 +392,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "HellRaisers | Katowice 2019",
@@ -357,7 +401,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768399,
-    "BuffStickerId": 4552
+    "BuffStickerId": 4552,
+    "Image": "/assets/img/items/stickers/Katowice2019/HellRaisers.png"
   },
   {
     "name": "HellRaisers (Holo) | Katowice 2019",
@@ -365,7 +410,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/Katowice2019/HellRaisers-Holo.png"
   },
   {
     "name": "HellRaisers (Foil) | Katowice 2019",
@@ -373,7 +419,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768384,
-    "BuffStickerId": 4730
+    "BuffStickerId": 4730,
+    "Image": "/assets/img/items/stickers/Katowice2019/HellRaisers-Foil.png"
   },
   {
     "name": "HellRaisers (Gold) | Katowice 2019",
@@ -381,7 +428,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "MIBR | Katowice 2019",
@@ -389,7 +437,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768503,
-    "BuffStickerId": 4783
+    "BuffStickerId": 4783,
+    "Image": "/assets/img/items/stickers/Katowice2019/MIBR.png"
   },
   {
     "name": "MIBR (Holo) | Katowice 2019",
@@ -397,7 +446,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768232,
-    "BuffStickerId": 4537
+    "BuffStickerId": 4537,
+    "Image": "/assets/img/items/stickers/Katowice2019/MIBR-Holo.png"
   },
   {
     "name": "MIBR (Foil) | Katowice 2019",
@@ -405,7 +455,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768323,
-    "BuffStickerId": 4705
+    "BuffStickerId": 4705,
+    "Image": "/assets/img/items/stickers/Katowice2019/MIBR-Foil.png"
   },
   {
     "name": "MIBR (Gold) | Katowice 2019",
@@ -413,7 +464,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Natus Vincere | Katowice 2019",
@@ -421,7 +473,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768311,
-    "BuffStickerId": 4481
+    "BuffStickerId": 4481,
+    "Image": "/assets/img/items/stickers/Katowice2019/NatusVincere.png"
   },
   {
     "name": "Natus Vincere (Holo) | Katowice 2019",
@@ -429,7 +482,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768243,
-    "BuffStickerId": 4685
+    "BuffStickerId": 4685,
+    "Image": "/assets/img/items/stickers/Katowice2019/NatusVincere-Holo.png"
   },
   {
     "name": "Natus Vincere (Foil) | Katowice 2019",
@@ -437,7 +491,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768238,
-    "BuffStickerId": 4684
+    "BuffStickerId": 4684,
+    "Image": "/assets/img/items/stickers/Katowice2019/NatusVincere-Foil.png"
   },
   {
     "name": "Natus Vincere (Gold) | Katowice 2019",
@@ -445,7 +500,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Ninjas in Pyjamas | Katowice 2019",
@@ -453,7 +509,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768394,
-    "BuffStickerId": 4733
+    "BuffStickerId": 4733,
+    "Image": "/assets/img/items/stickers/Katowice2019/NinjasinPyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | Katowice 2019",
@@ -461,7 +518,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768190,
-    "BuffStickerId": 4491
+    "BuffStickerId": 4491,
+    "Image": "/assets/img/items/stickers/Katowice2019/NinjasinPyjamas-Holo.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Katowice 2019",
@@ -469,7 +527,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768380,
-    "BuffStickerId": 4728
+    "BuffStickerId": 4728,
+    "Image": "/assets/img/items/stickers/Katowice2019/NinjasinPyjamas-Foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | Katowice 2019",
@@ -477,7 +536,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "NRG | Katowice 2019",
@@ -485,7 +545,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768483,
-    "BuffStickerId": 4776
+    "BuffStickerId": 4776,
+    "Image": "/assets/img/items/stickers/Katowice2019/NRG.png"
   },
   {
     "name": "NRG (Holo) | Katowice 2019",
@@ -493,7 +554,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768324,
-    "BuffStickerId": 4500
+    "BuffStickerId": 4500,
+    "Image": "/assets/img/items/stickers/Katowice2019/NRG-Holo.png"
   },
   {
     "name": "NRG (Foil) | Katowice 2019",
@@ -501,7 +563,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768526,
-    "BuffStickerId": 4796
+    "BuffStickerId": 4796,
+    "Image": "/assets/img/items/stickers/Katowice2019/NRG-Foil.png"
   },
   {
     "name": "NRG (Gold) | Katowice 2019",
@@ -509,7 +572,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Renegades | Katowice 2019",
@@ -517,7 +581,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768502,
-    "BuffStickerId": 4782
+    "BuffStickerId": 4782,
+    "Image": "/assets/img/items/stickers/Katowice2019/Renegades.png"
   },
   {
     "name": "Renegades (Holo) | Katowice 2019",
@@ -525,7 +590,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768468,
-    "BuffStickerId": 4504
+    "BuffStickerId": 4504,
+    "Image": "/assets/img/items/stickers/Katowice2019/Renegades-Holo.png"
   },
   {
     "name": "Renegades (Foil) | Katowice 2019",
@@ -533,7 +599,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768684,
-    "BuffStickerId": 4917
+    "BuffStickerId": 4917,
+    "Image": "/assets/img/items/stickers/Katowice2019/Renegades-Foil.png"
   },
   {
     "name": "Renegades (Gold) | Katowice 2019",
@@ -541,7 +608,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Team Liquid | Katowice 2019",
@@ -549,7 +617,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768436,
-    "BuffStickerId": 4588
+    "BuffStickerId": 4588,
+    "Image": "/assets/img/items/stickers/Katowice2019/TeamLiquid.png"
   },
   {
     "name": "Team Liquid (Holo) | Katowice 2019",
@@ -557,7 +626,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768200,
-    "BuffStickerId": 4662
+    "BuffStickerId": 4662,
+    "Image": "/assets/img/items/stickers/Katowice2019/TeamLiquid-Holo.png"
   },
   {
     "name": "Team Liquid (Foil) | Katowice 2019",
@@ -565,7 +635,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768233,
-    "BuffStickerId": 4682
+    "BuffStickerId": 4682,
+    "Image": "/assets/img/items/stickers/Katowice2019/TeamLiquid-Foil.png"
   },
   {
     "name": "Team Liquid (Gold) | Katowice 2019",
@@ -573,7 +644,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Team Spirit | Katowice 2019",
@@ -581,7 +653,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768555,
-    "BuffStickerId": 4535
+    "BuffStickerId": 4535,
+    "Image": "/assets/img/items/stickers/Katowice2019/TeamSpirit.png"
   },
   {
     "name": "Team Spirit (Holo) | Katowice 2019",
@@ -589,7 +662,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768267,
-    "BuffStickerId": 4567
+    "BuffStickerId": 4567,
+    "Image": "/assets/img/items/stickers/Katowice2019/TeamSpirit-Holo.png"
   },
   {
     "name": "Team Spirit (Foil) | Katowice 2019",
@@ -597,7 +671,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768603,
-    "BuffStickerId": 4850
+    "BuffStickerId": 4850,
+    "Image": "/assets/img/items/stickers/Katowice2019/TeamSpirit-Foil.png"
   },
   {
     "name": "Team Spirit (Gold) | Katowice 2019",
@@ -605,7 +680,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Tyloo | Katowice 2019",
@@ -613,7 +689,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768163,
-    "BuffStickerId": 4475
+    "BuffStickerId": 4475,
+    "Image": "/assets/img/items/stickers/Katowice2019/Tyloo.png"
   },
   {
     "name": "Tyloo (Holo) | Katowice 2019",
@@ -621,7 +698,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768152,
-    "BuffStickerId": 4517
+    "BuffStickerId": 4517,
+    "Image": "/assets/img/items/stickers/Katowice2019/Tyloo-Holo.png"
   },
   {
     "name": "Tyloo (Foil) | Katowice 2019",
@@ -629,7 +707,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768226,
-    "BuffStickerId": 4678
+    "BuffStickerId": 4678,
+    "Image": "/assets/img/items/stickers/Katowice2019/Tyloo-Foil.png"
   },
   {
     "name": "Tyloo (Gold) | Katowice 2019",
@@ -637,7 +716,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Vega Squadron | Katowice 2019",
@@ -645,7 +725,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768410,
-    "BuffStickerId": 4742
+    "BuffStickerId": 4742,
+    "Image": "/assets/img/items/stickers/Katowice2019/VegaSquadron.png"
   },
   {
     "name": "Vega Squadron (Holo) | Katowice 2019",
@@ -653,7 +734,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768242,
-    "BuffStickerId": 4502
+    "BuffStickerId": 4502,
+    "Image": "/assets/img/items/stickers/Katowice2019/VegaSquadron-Holo.png"
   },
   {
     "name": "Vega Squadron (Foil) | Katowice 2019",
@@ -661,7 +743,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768440,
-    "BuffStickerId": 4569
+    "BuffStickerId": 4569,
+    "Image": "/assets/img/items/stickers/Katowice2019/VegaSquadron-Foil.png"
   },
   {
     "name": "Vega Squadron (Gold) | Katowice 2019",
@@ -669,7 +752,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "ViCi Gaming | Katowice 2019",
@@ -677,7 +761,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768158,
-    "BuffStickerId": 4483
+    "BuffStickerId": 4483,
+    "Image": "/assets/img/items/stickers/Katowice2019/ViCiGaming.png"
   },
   {
     "name": "ViCi Gaming (Holo) | Katowice 2019",
@@ -685,7 +770,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768381,
-    "BuffStickerId": 4982
+    "BuffStickerId": 4982,
+    "Image": "/assets/img/items/stickers/Katowice2019/ViCiGaming-Holo.png"
   },
   {
     "name": "ViCi Gaming (Foil) | Katowice 2019",
@@ -693,7 +779,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768633,
-    "BuffStickerId": 5081
+    "BuffStickerId": 5081,
+    "Image": "/assets/img/items/stickers/Katowice2019/ViCiGaming-Foil.png"
   },
   {
     "name": "ViCi Gaming (Gold) | Katowice 2019",
@@ -701,7 +788,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Vitality | Katowice 2019",
@@ -709,7 +797,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768438,
-    "BuffStickerId": 4753
+    "BuffStickerId": 4753,
+    "Image": "/assets/img/items/stickers/Katowice2019/Vitality.png"
   },
   {
     "name": "Vitality (Holo) | Katowice 2019",
@@ -717,7 +806,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768196,
-    "BuffStickerId": 4659
+    "BuffStickerId": 4659,
+    "Image": "/assets/img/items/stickers/Katowice2019/Vitality-Holo.png"
   },
   {
     "name": "Vitality (Foil) | Katowice 2019",
@@ -725,7 +815,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768630,
-    "BuffStickerId": 4868
+    "BuffStickerId": 4868,
+    "Image": "/assets/img/items/stickers/Katowice2019/Vitality-Foil.png"
   },
   {
     "name": "Vitality (Gold) | Katowice 2019",
@@ -733,7 +824,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "Winstrike Team | Katowice 2019",
@@ -741,7 +833,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768635,
-    "BuffStickerId": 4626
+    "BuffStickerId": 4626,
+    "Image": "/assets/img/items/stickers/Katowice2019/WinstrikeTeam.png"
   },
   {
     "name": "Winstrike Team (Holo) | Katowice 2019",
@@ -749,7 +842,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768522,
-    "BuffStickerId": 4793
+    "BuffStickerId": 4793,
+    "Image": "/assets/img/items/stickers/Katowice2019/WinstrikeTeam-Holo.png"
   },
   {
     "name": "Winstrike Team (Foil) | Katowice 2019",
@@ -757,7 +851,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768606,
-    "BuffStickerId": 4853
+    "BuffStickerId": 4853,
+    "Image": "/assets/img/items/stickers/Katowice2019/WinstrikeTeam-Foil.png"
   },
   {
     "name": "Winstrike Team (Gold) | Katowice 2019",
@@ -765,7 +860,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "IEM | Katowice 2019",
@@ -773,7 +869,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768157,
-    "BuffStickerId": 4639
+    "BuffStickerId": 4639,
+    "Image": "/assets/img/items/stickers/Katowice2019/IEM.png"
   },
   {
     "name": "IEM (Holo) | Katowice 2019",
@@ -781,7 +878,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768156,
-    "BuffStickerId": 4556
+    "BuffStickerId": 4556,
+    "Image": "/assets/img/items/stickers/Katowice2019/IEM-Holo.png"
   },
   {
     "name": "IEM (Foil) | Katowice 2019",
@@ -789,7 +887,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Exotic",
     "BuffGoodsId": 768322,
-    "BuffStickerId": 4704
+    "BuffStickerId": 4704,
+    "Image": "/assets/img/items/stickers/Katowice2019/IEM-Foil.png"
   },
   {
     "name": "IEM (Gold) | Katowice 2019",
@@ -797,7 +896,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
-    "BuffStickerId": null
+    "BuffStickerId": null,
+    "Image": null
   },
   {
     "name": "ableJ | Katowice 2019",
@@ -805,7 +905,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768415,
-    "BuffStickerId": 4746
+    "BuffStickerId": 4746,
+    "Image": "/assets/img/items/stickers/Katowice2019/ableJ.png"
   },
   {
     "name": "ableJ (Foil) | Katowice 2019",
@@ -813,7 +914,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768653,
-    "BuffStickerId": 4887
+    "BuffStickerId": 4887,
+    "Image": "/assets/img/items/stickers/Katowice2019/ableJ-Foil.png"
   },
   {
     "name": "ableJ (Gold) | Katowice 2019",
@@ -821,7 +923,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768600,
-    "BuffStickerId": 4848
+    "BuffStickerId": 4848,
+    "Image": "/assets/img/items/stickers/Katowice2019/ableJ-Gold.png"
   },
   {
     "name": "AdreN | Katowice 2019",
@@ -829,7 +932,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768377,
-    "BuffStickerId": 4725
+    "BuffStickerId": 4725,
+    "Image": "/assets/img/items/stickers/Katowice2019/AdreN.png"
   },
   {
     "name": "AdreN (Foil) | Katowice 2019",
@@ -837,7 +941,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768536,
-    "BuffStickerId": 4805
+    "BuffStickerId": 4805,
+    "Image": "/assets/img/items/stickers/Katowice2019/AdreN-Foil.png"
   },
   {
     "name": "AdreN (Gold) | Katowice 2019",
@@ -845,7 +950,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768664,
-    "BuffStickerId": 4897
+    "BuffStickerId": 4897,
+    "Image": "/assets/img/items/stickers/Katowice2019/AdreN-Gold.png"
   },
   {
     "name": "advent | Katowice 2019",
@@ -853,7 +959,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768378,
-    "BuffStickerId": 4726
+    "BuffStickerId": 4726,
+    "Image": "/assets/img/items/stickers/Katowice2019/advent.png"
   },
   {
     "name": "advent (Foil) | Katowice 2019",
@@ -861,7 +968,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768467,
-    "BuffStickerId": 4770
+    "BuffStickerId": 4770,
+    "Image": "/assets/img/items/stickers/Katowice2019/advent-Foil.png"
   },
   {
     "name": "advent (Gold) | Katowice 2019",
@@ -869,7 +977,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768727,
-    "BuffStickerId": 4956
+    "BuffStickerId": 4956,
+    "Image": "/assets/img/items/stickers/Katowice2019/advent-Gold.png"
   },
   {
     "name": "Aerial | Katowice 2019",
@@ -877,7 +986,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768198,
-    "BuffStickerId": 4623
+    "BuffStickerId": 4623,
+    "Image": "/assets/img/items/stickers/Katowice2019/Aerial.png"
   },
   {
     "name": "Aerial (Foil) | Katowice 2019",
@@ -885,7 +995,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768665,
-    "BuffStickerId": 4898
+    "BuffStickerId": 4898,
+    "Image": "/assets/img/items/stickers/Katowice2019/Aerial-Foil.png"
   },
   {
     "name": "Aerial (Gold) | Katowice 2019",
@@ -893,7 +1004,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768728,
-    "BuffStickerId": 4957
+    "BuffStickerId": 4957,
+    "Image": "/assets/img/items/stickers/Katowice2019/Aerial-Gold.png"
   },
   {
     "name": "Aleksib | Katowice 2019",
@@ -901,7 +1013,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768175,
-    "BuffStickerId": 4648
+    "BuffStickerId": 4648,
+    "Image": "/assets/img/items/stickers/Katowice2019/Aleksib.png"
   },
   {
     "name": "Aleksib (Foil) | Katowice 2019",
@@ -909,7 +1022,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768529,
-    "BuffStickerId": 4799
+    "BuffStickerId": 4799,
+    "Image": "/assets/img/items/stickers/Katowice2019/Aleksib-Foil.png"
   },
   {
     "name": "Aleksib (Gold) | Katowice 2019",
@@ -917,7 +1031,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768604,
-    "BuffStickerId": 4851
+    "BuffStickerId": 4851,
+    "Image": "/assets/img/items/stickers/Katowice2019/Aleksib-Gold.png"
   },
   {
     "name": "ALEX | Katowice 2019",
@@ -925,7 +1040,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768197,
-    "BuffStickerId": 4660
+    "BuffStickerId": 4660,
+    "Image": "/assets/img/items/stickers/Katowice2019/ALEX.png"
   },
   {
     "name": "ALEX (Foil) | Katowice 2019",
@@ -933,7 +1049,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768641,
-    "BuffStickerId": 4876
+    "BuffStickerId": 4876,
+    "Image": "/assets/img/items/stickers/Katowice2019/ALEX-Foil.png"
   },
   {
     "name": "ALEX (Gold) | Katowice 2019",
@@ -941,7 +1058,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768662,
-    "BuffStickerId": 4895
+    "BuffStickerId": 4895,
+    "Image": "/assets/img/items/stickers/Katowice2019/ALEX-Gold.png"
   },
   {
     "name": "allu | Katowice 2019",
@@ -949,7 +1067,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768460,
-    "BuffStickerId": 4765
+    "BuffStickerId": 4765,
+    "Image": "/assets/img/items/stickers/Katowice2019/allu.png"
   },
   {
     "name": "allu (Foil) | Katowice 2019",
@@ -957,7 +1076,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768534,
-    "BuffStickerId": 4803
+    "BuffStickerId": 4803,
+    "Image": "/assets/img/items/stickers/Katowice2019/allu-Foil.png"
   },
   {
     "name": "allu (Gold) | Katowice 2019",
@@ -965,7 +1085,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768753,
-    "BuffStickerId": 4975
+    "BuffStickerId": 4975,
+    "Image": "/assets/img/items/stickers/Katowice2019/allu-Gold.png"
   },
   {
     "name": "ANGE1 | Katowice 2019",
@@ -973,7 +1094,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768358,
-    "BuffStickerId": 4543
+    "BuffStickerId": 4543,
+    "Image": "/assets/img/items/stickers/Katowice2019/ANGE1.png"
   },
   {
     "name": "ANGE1 (Foil) | Katowice 2019",
@@ -981,7 +1103,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768347,
-    "BuffStickerId": 4718
+    "BuffStickerId": 4718,
+    "Image": "/assets/img/items/stickers/Katowice2019/ANGE1-Foil.png"
   },
   {
     "name": "ANGE1 (Gold) | Katowice 2019",
@@ -989,7 +1112,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768710,
-    "BuffStickerId": 4943
+    "BuffStickerId": 4943,
+    "Image": "/assets/img/items/stickers/Katowice2019/ANGE1-Gold.png"
   },
   {
     "name": "apEX | Katowice 2019",
@@ -997,7 +1121,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768487,
-    "BuffStickerId": 4779
+    "BuffStickerId": 4779,
+    "Image": "/assets/img/items/stickers/Katowice2019/apEX.png"
   },
   {
     "name": "apEX (Foil) | Katowice 2019",
@@ -1005,7 +1130,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768561,
-    "BuffStickerId": 4820
+    "BuffStickerId": 4820,
+    "Image": "/assets/img/items/stickers/Katowice2019/apEX-Foil.png"
   },
   {
     "name": "apEX (Gold) | Katowice 2019",
@@ -1013,7 +1139,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768713,
-    "BuffStickerId": 4945
+    "BuffStickerId": 4945,
+    "Image": "/assets/img/items/stickers/Katowice2019/apEX-Gold.png"
   },
   {
     "name": "arT | Katowice 2019",
@@ -1021,7 +1148,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768221,
-    "BuffStickerId": 4674
+    "BuffStickerId": 4674,
+    "Image": "/assets/img/items/stickers/Katowice2019/arT.png"
   },
   {
     "name": "arT (Foil) | Katowice 2019",
@@ -1029,7 +1157,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768689,
-    "BuffStickerId": 4922
+    "BuffStickerId": 4922,
+    "Image": "/assets/img/items/stickers/Katowice2019/arT-Foil.png"
   },
   {
     "name": "arT (Gold) | Katowice 2019",
@@ -1037,7 +1166,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768621,
-    "BuffStickerId": 4865
+    "BuffStickerId": 4865,
+    "Image": "/assets/img/items/stickers/Katowice2019/arT-Gold.png"
   },
   {
     "name": "Attacker | Katowice 2019",
@@ -1045,7 +1175,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768265,
-    "BuffStickerId": 4522
+    "BuffStickerId": 4522,
+    "Image": "/assets/img/items/stickers/Katowice2019/Attacker.png"
   },
   {
     "name": "Attacker (Foil) | Katowice 2019",
@@ -1053,7 +1184,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768461,
-    "BuffStickerId": 4766
+    "BuffStickerId": 4766,
+    "Image": "/assets/img/items/stickers/Katowice2019/Attacker-Foil.png"
   },
   {
     "name": "Attacker (Gold) | Katowice 2019",
@@ -1061,7 +1193,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768661,
-    "BuffStickerId": 4894
+    "BuffStickerId": 4894,
+    "Image": "/assets/img/items/stickers/Katowice2019/Attacker-Gold.png"
   },
   {
     "name": "aumaN | Katowice 2019",
@@ -1069,7 +1202,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768465,
-    "BuffStickerId": 4619
+    "BuffStickerId": 4619,
+    "Image": "/assets/img/items/stickers/Katowice2019/aumaN.png"
   },
   {
     "name": "aumaN (Foil) | Katowice 2019",
@@ -1077,7 +1211,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768447,
-    "BuffStickerId": 4757
+    "BuffStickerId": 4757,
+    "Image": "/assets/img/items/stickers/Katowice2019/aumaN-Foil.png"
   },
   {
     "name": "aumaN (Gold) | Katowice 2019",
@@ -1085,7 +1220,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768690,
-    "BuffStickerId": 4923
+    "BuffStickerId": 4923,
+    "Image": "/assets/img/items/stickers/Katowice2019/aumaN-Gold.png"
   },
   {
     "name": "autimatic | Katowice 2019",
@@ -1093,7 +1229,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768180,
-    "BuffStickerId": 4598
+    "BuffStickerId": 4598,
+    "Image": "/assets/img/items/stickers/Katowice2019/autimatic.png"
   },
   {
     "name": "autimatic (Foil) | Katowice 2019",
@@ -1101,7 +1238,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768452,
-    "BuffStickerId": 4761
+    "BuffStickerId": 4761,
+    "Image": "/assets/img/items/stickers/Katowice2019/autimatic-Foil.png"
   },
   {
     "name": "autimatic (Gold) | Katowice 2019",
@@ -1109,7 +1247,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768724,
-    "BuffStickerId": 4953
+    "BuffStickerId": 4953,
+    "Image": "/assets/img/items/stickers/Katowice2019/autimatic-Gold.png"
   },
   {
     "name": "AZR | Katowice 2019",
@@ -1117,7 +1256,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768266,
-    "BuffStickerId": 4694
+    "BuffStickerId": 4694,
+    "Image": "/assets/img/items/stickers/Katowice2019/AZR.png"
   },
   {
     "name": "AZR (Foil) | Katowice 2019",
@@ -1125,7 +1265,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768531,
-    "BuffStickerId": 4801
+    "BuffStickerId": 4801,
+    "Image": "/assets/img/items/stickers/Katowice2019/AZR-Foil.png"
   },
   {
     "name": "AZR (Gold) | Katowice 2019",
@@ -1133,7 +1274,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768663,
-    "BuffStickerId": 4896
+    "BuffStickerId": 4896,
+    "Image": "/assets/img/items/stickers/Katowice2019/AZR-Gold.png"
   },
   {
     "name": "BnTeT | Katowice 2019",
@@ -1141,7 +1283,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768240,
-    "BuffStickerId": 4564
+    "BuffStickerId": 4564,
+    "Image": "/assets/img/items/stickers/Katowice2019/BnTeT.png"
   },
   {
     "name": "BnTeT (Foil) | Katowice 2019",
@@ -1149,7 +1292,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768558,
-    "BuffStickerId": 4818
+    "BuffStickerId": 4818,
+    "Image": "/assets/img/items/stickers/Katowice2019/BnTeT-Foil.png"
   },
   {
     "name": "BnTeT (Gold) | Katowice 2019",
@@ -1157,7 +1301,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768590,
-    "BuffStickerId": 4841
+    "BuffStickerId": 4841,
+    "Image": "/assets/img/items/stickers/Katowice2019/BnTeT-Gold.png"
   },
   {
     "name": "bodyy | Katowice 2019",
@@ -1165,7 +1310,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768314,
-    "BuffStickerId": 4595
+    "BuffStickerId": 4595,
+    "Image": "/assets/img/items/stickers/Katowice2019/bodyy.png"
   },
   {
     "name": "bodyy (Foil) | Katowice 2019",
@@ -1173,7 +1319,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768260,
-    "BuffStickerId": 4691
+    "BuffStickerId": 4691,
+    "Image": "/assets/img/items/stickers/Katowice2019/bodyy-Foil.png"
   },
   {
     "name": "bodyy (Gold) | Katowice 2019",
@@ -1181,7 +1328,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768691,
-    "BuffStickerId": 4924
+    "BuffStickerId": 4924,
+    "Image": "/assets/img/items/stickers/Katowice2019/bodyy-Gold.png"
   },
   {
     "name": "Boombl4 | Katowice 2019",
@@ -1189,7 +1337,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768174,
-    "BuffStickerId": 4647
+    "BuffStickerId": 4647,
+    "Image": "/assets/img/items/stickers/Katowice2019/Boombl4.png"
   },
   {
     "name": "Boombl4 (Foil) | Katowice 2019",
@@ -1197,7 +1346,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768645,
-    "BuffStickerId": 4879
+    "BuffStickerId": 4879,
+    "Image": "/assets/img/items/stickers/Katowice2019/Boombl4-Foil.png"
   },
   {
     "name": "Boombl4 (Gold) | Katowice 2019",
@@ -1205,7 +1355,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768666,
-    "BuffStickerId": 4899
+    "BuffStickerId": 4899,
+    "Image": "/assets/img/items/stickers/Katowice2019/Boombl4-Gold.png"
   },
   {
     "name": "Brehze | Katowice 2019",
@@ -1213,7 +1364,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768535,
-    "BuffStickerId": 4804
+    "BuffStickerId": 4804,
+    "Image": "/assets/img/items/stickers/Katowice2019/Brehze.png"
   },
   {
     "name": "Brehze (Foil) | Katowice 2019",
@@ -1221,7 +1373,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768448,
-    "BuffStickerId": 4758
+    "BuffStickerId": 4758,
+    "Image": "/assets/img/items/stickers/Katowice2019/Brehze-Foil.png"
   },
   {
     "name": "Brehze (Gold) | Katowice 2019",
@@ -1229,7 +1382,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768741,
-    "BuffStickerId": 4964
+    "BuffStickerId": 4964,
+    "Image": "/assets/img/items/stickers/Katowice2019/Brehze-Gold.png"
   },
   {
     "name": "Brollan | Katowice 2019",
@@ -1237,7 +1391,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768315,
-    "BuffStickerId": 4508
+    "BuffStickerId": 4508,
+    "Image": "/assets/img/items/stickers/Katowice2019/Brollan.png"
   },
   {
     "name": "Brollan (Foil) | Katowice 2019",
@@ -1245,7 +1400,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768450,
-    "BuffStickerId": 4616
+    "BuffStickerId": 4616,
+    "Image": "/assets/img/items/stickers/Katowice2019/Brollan-Foil.png"
   },
   {
     "name": "Brollan (Gold) | Katowice 2019",
@@ -1253,7 +1409,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768655,
-    "BuffStickerId": 4889
+    "BuffStickerId": 4889,
+    "Image": "/assets/img/items/stickers/Katowice2019/Brollan-Gold.png"
   },
   {
     "name": "buster | Katowice 2019",
@@ -1261,7 +1418,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768220,
-    "BuffStickerId": 4673
+    "BuffStickerId": 4673,
+    "Image": "/assets/img/items/stickers/Katowice2019/buster.png"
   },
   {
     "name": "buster (Foil) | Katowice 2019",
@@ -1269,7 +1427,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768634,
-    "BuffStickerId": 4872
+    "BuffStickerId": 4872,
+    "Image": "/assets/img/items/stickers/Katowice2019/buster-Foil.png"
   },
   {
     "name": "buster (Gold) | Katowice 2019",
@@ -1277,7 +1436,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768642,
-    "BuffStickerId": 4877
+    "BuffStickerId": 4877,
+    "Image": "/assets/img/items/stickers/Katowice2019/buster-Gold.png"
   },
   {
     "name": "CeRq | Katowice 2019",
@@ -1285,7 +1445,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768170,
-    "BuffStickerId": 4643
+    "BuffStickerId": 4643,
+    "Image": "/assets/img/items/stickers/Katowice2019/CeRq.png"
   },
   {
     "name": "CeRq (Foil) | Katowice 2019",
@@ -1293,7 +1454,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768582,
-    "BuffStickerId": 4833
+    "BuffStickerId": 4833,
+    "Image": "/assets/img/items/stickers/Katowice2019/CeRq-Foil.png"
   },
   {
     "name": "CeRq (Gold) | Katowice 2019",
@@ -1301,7 +1463,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768668,
-    "BuffStickerId": 4901
+    "BuffStickerId": 4901,
+    "Image": "/assets/img/items/stickers/Katowice2019/CeRq-Gold.png"
   },
   {
     "name": "chopper | Katowice 2019",
@@ -1309,7 +1472,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768188,
-    "BuffStickerId": 4654
+    "BuffStickerId": 4654,
+    "Image": "/assets/img/items/stickers/Katowice2019/chopper.png"
   },
   {
     "name": "chopper (Foil) | Katowice 2019",
@@ -1317,7 +1481,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768457,
-    "BuffStickerId": 4764
+    "BuffStickerId": 4764,
+    "Image": "/assets/img/items/stickers/Katowice2019/chopper-Foil.png"
   },
   {
     "name": "chopper (Gold) | Katowice 2019",
@@ -1325,7 +1490,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768726,
-    "BuffStickerId": 4955
+    "BuffStickerId": 4955,
+    "Image": "/assets/img/items/stickers/Katowice2019/chopper-Gold.png"
   },
   {
     "name": "COLDYY1 | Katowice 2019",
@@ -1333,7 +1499,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768326,
-    "BuffStickerId": 4706
+    "BuffStickerId": 4706,
+    "Image": "/assets/img/items/stickers/Katowice2019/COLDYY1.png"
   },
   {
     "name": "COLDYY1 (Foil) | Katowice 2019",
@@ -1341,7 +1508,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768656,
-    "BuffStickerId": 4890
+    "BuffStickerId": 4890,
+    "Image": "/assets/img/items/stickers/Katowice2019/COLDYY1-Foil.png"
   },
   {
     "name": "COLDYY1 (Gold) | Katowice 2019",
@@ -1349,7 +1517,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768667,
-    "BuffStickerId": 4900
+    "BuffStickerId": 4900,
+    "Image": "/assets/img/items/stickers/Katowice2019/COLDYY1-Gold.png"
   },
   {
     "name": "coldzera | Katowice 2019",
@@ -1357,7 +1526,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768346,
-    "BuffStickerId": 4717
+    "BuffStickerId": 4717,
+    "Image": "/assets/img/items/stickers/Katowice2019/coldzera.png"
   },
   {
     "name": "coldzera (Foil) | Katowice 2019",
@@ -1365,7 +1535,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768560,
-    "BuffStickerId": 4819
+    "BuffStickerId": 4819,
+    "Image": "/assets/img/items/stickers/Katowice2019/coldzera-Foil.png"
   },
   {
     "name": "coldzera (Gold) | Katowice 2019",
@@ -1373,7 +1544,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768717,
-    "BuffStickerId": 4949
+    "BuffStickerId": 4949,
+    "Image": "/assets/img/items/stickers/Katowice2019/coldzera-Gold.png"
   },
   {
     "name": "crush | Katowice 2019",
@@ -1381,7 +1553,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768207,
-    "BuffStickerId": 5079
+    "BuffStickerId": 5079,
+    "Image": "/assets/img/items/stickers/Katowice2019/crush.png"
   },
   {
     "name": "crush (Foil) | Katowice 2019",
@@ -1389,7 +1562,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768587,
-    "BuffStickerId": 4980
+    "BuffStickerId": 4980,
+    "Image": "/assets/img/items/stickers/Katowice2019/crush-Foil.png"
   },
   {
     "name": "crush (Gold) | Katowice 2019",
@@ -1397,7 +1571,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768716,
-    "BuffStickerId": 4948
+    "BuffStickerId": 4948,
+    "Image": "/assets/img/items/stickers/Katowice2019/crush-Gold.png"
   },
   {
     "name": "daps | Katowice 2019",
@@ -1405,7 +1580,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768551,
-    "BuffStickerId": 4812
+    "BuffStickerId": 4812,
+    "Image": "/assets/img/items/stickers/Katowice2019/daps.png"
   },
   {
     "name": "daps (Foil) | Katowice 2019",
@@ -1413,7 +1589,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768530,
-    "BuffStickerId": 4800
+    "BuffStickerId": 4800,
+    "Image": "/assets/img/items/stickers/Katowice2019/daps-Foil.png"
   },
   {
     "name": "daps (Gold) | Katowice 2019",
@@ -1421,7 +1598,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768692,
-    "BuffStickerId": 4925
+    "BuffStickerId": 4925,
+    "Image": "/assets/img/items/stickers/Katowice2019/daps-Gold.png"
   },
   {
     "name": "DavCost | Katowice 2019",
@@ -1429,7 +1607,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768187,
-    "BuffStickerId": 4653
+    "BuffStickerId": 4653,
+    "Image": "/assets/img/items/stickers/Katowice2019/DavCost.png"
   },
   {
     "name": "DavCost (Foil) | Katowice 2019",
@@ -1437,7 +1616,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768658,
-    "BuffStickerId": 4892
+    "BuffStickerId": 4892,
+    "Image": "/assets/img/items/stickers/Katowice2019/DavCost-Foil.png"
   },
   {
     "name": "DavCost (Gold) | Katowice 2019",
@@ -1445,7 +1625,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768654,
-    "BuffStickerId": 4888
+    "BuffStickerId": 4888,
+    "Image": "/assets/img/items/stickers/Katowice2019/DavCost-Gold.png"
   },
   {
     "name": "DeadFox | Katowice 2019",
@@ -1453,7 +1634,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768303,
-    "BuffStickerId": 4700
+    "BuffStickerId": 4700,
+    "Image": "/assets/img/items/stickers/Katowice2019/DeadFox.png"
   },
   {
     "name": "DeadFox (Foil) | Katowice 2019",
@@ -1461,7 +1643,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768179,
-    "BuffStickerId": 4493
+    "BuffStickerId": 4493,
+    "Image": "/assets/img/items/stickers/Katowice2019/DeadFox-Foil.png"
   },
   {
     "name": "DeadFox (Gold) | Katowice 2019",
@@ -1469,7 +1652,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768644,
-    "BuffStickerId": 4878
+    "BuffStickerId": 4878,
+    "Image": "/assets/img/items/stickers/Katowice2019/DeadFox-Gold.png"
   },
   {
     "name": "dennis | Katowice 2019",
@@ -1477,7 +1661,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768237,
-    "BuffStickerId": 4525
+    "BuffStickerId": 4525,
+    "Image": "/assets/img/items/stickers/Katowice2019/dennis.png"
   },
   {
     "name": "dennis (Foil) | Katowice 2019",
@@ -1485,7 +1670,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768462,
-    "BuffStickerId": 4767
+    "BuffStickerId": 4767,
+    "Image": "/assets/img/items/stickers/Katowice2019/dennis-Foil.png"
   },
   {
     "name": "dennis (Gold) | Katowice 2019",
@@ -1493,7 +1679,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768507,
-    "BuffStickerId": 4787
+    "BuffStickerId": 4787,
+    "Image": "/assets/img/items/stickers/Katowice2019/dennis-Gold.png"
   },
   {
     "name": "dephh | Katowice 2019",
@@ -1501,7 +1688,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768212,
-    "BuffStickerId": 4667
+    "BuffStickerId": 4667,
+    "Image": "/assets/img/items/stickers/Katowice2019/dephh.png"
   },
   {
     "name": "dephh (Foil) | Katowice 2019",
@@ -1509,7 +1697,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768443,
-    "BuffStickerId": 4754
+    "BuffStickerId": 4754,
+    "Image": "/assets/img/items/stickers/Katowice2019/dephh-Foil.png"
   },
   {
     "name": "dephh (Gold) | Katowice 2019",
@@ -1517,7 +1706,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768591,
-    "BuffStickerId": 4842
+    "BuffStickerId": 4842,
+    "Image": "/assets/img/items/stickers/Katowice2019/dephh-Gold.png"
   },
   {
     "name": "device | Katowice 2019",
@@ -1525,7 +1715,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768306,
-    "BuffStickerId": 4489
+    "BuffStickerId": 4489,
+    "Image": "/assets/img/items/stickers/Katowice2019/device.png"
   },
   {
     "name": "device (Foil) | Katowice 2019",
@@ -1533,7 +1724,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768246,
-    "BuffStickerId": 4687
+    "BuffStickerId": 4687,
+    "Image": "/assets/img/items/stickers/Katowice2019/device-Foil.png"
   },
   {
     "name": "device (Gold) | Katowice 2019",
@@ -1541,7 +1733,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768693,
-    "BuffStickerId": 4926
+    "BuffStickerId": 4926,
+    "Image": "/assets/img/items/stickers/Katowice2019/device-Gold.png"
   },
   {
     "name": "dexter | Katowice 2019",
@@ -1549,7 +1742,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768379,
-    "BuffStickerId": 4727
+    "BuffStickerId": 4727,
+    "Image": "/assets/img/items/stickers/Katowice2019/dexter.png"
   },
   {
     "name": "dexter (Foil) | Katowice 2019",
@@ -1557,7 +1751,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768584,
-    "BuffStickerId": 4835
+    "BuffStickerId": 4835,
+    "Image": "/assets/img/items/stickers/Katowice2019/dexter-Foil.png"
   },
   {
     "name": "dexter (Gold) | Katowice 2019",
@@ -1565,7 +1760,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768694,
-    "BuffStickerId": 4927
+    "BuffStickerId": 4927,
+    "Image": "/assets/img/items/stickers/Katowice2019/dexter-Gold.png"
   },
   {
     "name": "DickStacy | Katowice 2019",
@@ -1573,7 +1769,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768429,
-    "BuffStickerId": 4621
+    "BuffStickerId": 4621,
+    "Image": "/assets/img/items/stickers/Katowice2019/DickStacy.png"
   },
   {
     "name": "DickStacy (Foil) | Katowice 2019",
@@ -1581,7 +1778,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768525,
-    "BuffStickerId": 4795
+    "BuffStickerId": 4795,
+    "Image": "/assets/img/items/stickers/Katowice2019/DickStacy-Foil.png"
   },
   {
     "name": "DickStacy (Gold) | Katowice 2019",
@@ -1589,7 +1787,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768742,
-    "BuffStickerId": 4965
+    "BuffStickerId": 4965,
+    "Image": "/assets/img/items/stickers/Katowice2019/DickStacy-Gold.png"
   },
   {
     "name": "Dima | Katowice 2019",
@@ -1597,7 +1796,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768409,
-    "BuffStickerId": 4741
+    "BuffStickerId": 4741,
+    "Image": "/assets/img/items/stickers/Katowice2019/Dima.png"
   },
   {
     "name": "Dima (Foil) | Katowice 2019",
@@ -1605,7 +1805,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768632,
-    "BuffStickerId": 4870
+    "BuffStickerId": 4870,
+    "Image": "/assets/img/items/stickers/Katowice2019/Dima-Foil.png"
   },
   {
     "name": "Dima (Gold) | Katowice 2019",
@@ -1613,7 +1814,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768669,
-    "BuffStickerId": 4902
+    "BuffStickerId": 4902,
+    "Image": "/assets/img/items/stickers/Katowice2019/Dima-Gold.png"
   },
   {
     "name": "dupreeh | Katowice 2019",
@@ -1621,7 +1823,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768247,
-    "BuffStickerId": 4632
+    "BuffStickerId": 4632,
+    "Image": "/assets/img/items/stickers/Katowice2019/dupreeh.png"
   },
   {
     "name": "dupreeh (Foil) | Katowice 2019",
@@ -1629,7 +1832,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768407,
-    "BuffStickerId": 4739
+    "BuffStickerId": 4739,
+    "Image": "/assets/img/items/stickers/Katowice2019/dupreeh-Foil.png"
   },
   {
     "name": "dupreeh (Gold) | Katowice 2019",
@@ -1637,7 +1841,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768737,
-    "BuffStickerId": 4962
+    "BuffStickerId": 4962,
+    "Image": "/assets/img/items/stickers/Katowice2019/dupreeh-Gold.png"
   },
   {
     "name": "Edward | Katowice 2019",
@@ -1645,7 +1850,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768251,
-    "BuffStickerId": 4690
+    "BuffStickerId": 4690,
+    "Image": "/assets/img/items/stickers/Katowice2019/Edward.png"
   },
   {
     "name": "Edward (Foil) | Katowice 2019",
@@ -1653,7 +1859,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768342,
-    "BuffStickerId": 4716
+    "BuffStickerId": 4716,
+    "Image": "/assets/img/items/stickers/Katowice2019/Edward-Foil.png"
   },
   {
     "name": "Edward (Gold) | Katowice 2019",
@@ -1661,7 +1868,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768602,
-    "BuffStickerId": 4849
+    "BuffStickerId": 4849,
+    "Image": "/assets/img/items/stickers/Katowice2019/Edward-Gold.png"
   },
   {
     "name": "electronic | Katowice 2019",
@@ -1669,7 +1877,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768272,
-    "BuffStickerId": 4515
+    "BuffStickerId": 4515,
+    "Image": "/assets/img/items/stickers/Katowice2019/electronic.png"
   },
   {
     "name": "electronic (Foil) | Katowice 2019",
@@ -1677,7 +1886,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768276,
-    "BuffStickerId": 4606
+    "BuffStickerId": 4606,
+    "Image": "/assets/img/items/stickers/Katowice2019/electronic-Foil.png"
   },
   {
     "name": "electronic (Gold) | Katowice 2019",
@@ -1685,7 +1895,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768722,
-    "BuffStickerId": 4952
+    "BuffStickerId": 4952,
+    "Image": "/assets/img/items/stickers/Katowice2019/electronic-Gold.png"
   },
   {
     "name": "EliGE | Katowice 2019",
@@ -1693,7 +1904,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768248,
-    "BuffStickerId": 4688
+    "BuffStickerId": 4688,
+    "Image": "/assets/img/items/stickers/Katowice2019/EliGE.png"
   },
   {
     "name": "EliGE (Foil) | Katowice 2019",
@@ -1701,7 +1913,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768421,
-    "BuffStickerId": 4748
+    "BuffStickerId": 4748,
+    "Image": "/assets/img/items/stickers/Katowice2019/EliGE-Foil.png"
   },
   {
     "name": "EliGE (Gold) | Katowice 2019",
@@ -1709,7 +1922,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768538,
-    "BuffStickerId": 4806
+    "BuffStickerId": 4806,
+    "Image": "/assets/img/items/stickers/Katowice2019/EliGE-Gold.png"
   },
   {
     "name": "erkaSt | Katowice 2019",
@@ -1717,7 +1931,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768608,
-    "BuffStickerId": 4855
+    "BuffStickerId": 4855,
+    "Image": "/assets/img/items/stickers/Katowice2019/erkaSt.png"
   },
   {
     "name": "erkaSt (Foil) | Katowice 2019",
@@ -1725,7 +1940,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768383,
-    "BuffStickerId": 4729
+    "BuffStickerId": 4729,
+    "Image": "/assets/img/items/stickers/Katowice2019/erkaSt-Foil.png"
   },
   {
     "name": "erkaSt (Gold) | Katowice 2019",
@@ -1733,7 +1949,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768744,
-    "BuffStickerId": 4967
+    "BuffStickerId": 4967,
+    "Image": "/assets/img/items/stickers/Katowice2019/erkaSt-Gold.png"
   },
   {
     "name": "Ethan | Katowice 2019",
@@ -1741,7 +1958,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768426,
-    "BuffStickerId": 4750
+    "BuffStickerId": 4750,
+    "Image": "/assets/img/items/stickers/Katowice2019/Ethan.png"
   },
   {
     "name": "Ethan (Foil) | Katowice 2019",
@@ -1749,7 +1967,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768263,
-    "BuffStickerId": 4693
+    "BuffStickerId": 4693,
+    "Image": "/assets/img/items/stickers/Katowice2019/Ethan-Foil.png"
   },
   {
     "name": "Ethan (Gold) | Katowice 2019",
@@ -1757,7 +1976,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768670,
-    "BuffStickerId": 4903
+    "BuffStickerId": 4903,
+    "Image": "/assets/img/items/stickers/Katowice2019/Ethan-Gold.png"
   },
   {
     "name": "f0rest | Katowice 2019",
@@ -1765,7 +1985,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768397,
-    "BuffStickerId": 4736
+    "BuffStickerId": 4736,
+    "Image": "/assets/img/items/stickers/Katowice2019/f0rest.png"
   },
   {
     "name": "f0rest (Foil) | Katowice 2019",
@@ -1773,7 +1994,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768588,
-    "BuffStickerId": 4839
+    "BuffStickerId": 4839,
+    "Image": "/assets/img/items/stickers/Katowice2019/f0rest-Foil.png"
   },
   {
     "name": "f0rest (Gold) | Katowice 2019",
@@ -1781,7 +2003,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768695,
-    "BuffStickerId": 4928
+    "BuffStickerId": 4928,
+    "Image": "/assets/img/items/stickers/Katowice2019/f0rest-Gold.png"
   },
   {
     "name": "FalleN | Katowice 2019",
@@ -1789,7 +2012,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768183,
-    "BuffStickerId": 4593
+    "BuffStickerId": 4593,
+    "Image": "/assets/img/items/stickers/Katowice2019/FalleN.png"
   },
   {
     "name": "FalleN (Foil) | Katowice 2019",
@@ -1797,7 +2021,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768511,
-    "BuffStickerId": 4790
+    "BuffStickerId": 4790,
+    "Image": "/assets/img/items/stickers/Katowice2019/FalleN-Foil.png"
   },
   {
     "name": "FalleN (Gold) | Katowice 2019",
@@ -1805,7 +2030,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768671,
-    "BuffStickerId": 4904
+    "BuffStickerId": 4904,
+    "Image": "/assets/img/items/stickers/Katowice2019/FalleN-Gold.png"
   },
   {
     "name": "felps | Katowice 2019",
@@ -1813,7 +2039,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768351,
-    "BuffStickerId": 4720
+    "BuffStickerId": 4720,
+    "Image": "/assets/img/items/stickers/Katowice2019/felps.png"
   },
   {
     "name": "felps (Foil) | Katowice 2019",
@@ -1821,7 +2048,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768552,
-    "BuffStickerId": 4813
+    "BuffStickerId": 4813,
+    "Image": "/assets/img/items/stickers/Katowice2019/felps-Foil.png"
   },
   {
     "name": "felps (Gold) | Katowice 2019",
@@ -1829,7 +2057,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768542,
-    "BuffStickerId": 4807
+    "BuffStickerId": 4807,
+    "Image": "/assets/img/items/stickers/Katowice2019/felps-Gold.png"
   },
   {
     "name": "fer | Katowice 2019",
@@ -1837,7 +2066,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768338,
-    "BuffStickerId": 4628
+    "BuffStickerId": 4628,
+    "Image": "/assets/img/items/stickers/Katowice2019/fer.png"
   },
   {
     "name": "fer (Foil) | Katowice 2019",
@@ -1845,7 +2075,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768249,
-    "BuffStickerId": 4689
+    "BuffStickerId": 4689,
+    "Image": "/assets/img/items/stickers/Katowice2019/fer-Foil.png"
   },
   {
     "name": "fer (Gold) | Katowice 2019",
@@ -1853,7 +2084,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768696,
-    "BuffStickerId": 4929
+    "BuffStickerId": 4929,
+    "Image": "/assets/img/items/stickers/Katowice2019/fer-Gold.png"
   },
   {
     "name": "fitch | Katowice 2019",
@@ -1861,7 +2093,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768428,
-    "BuffStickerId": 4752
+    "BuffStickerId": 4752,
+    "Image": "/assets/img/items/stickers/Katowice2019/fitch.png"
   },
   {
     "name": "fitch (Foil) | Katowice 2019",
@@ -1869,7 +2102,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768648,
-    "BuffStickerId": 4882
+    "BuffStickerId": 4882,
+    "Image": "/assets/img/items/stickers/Katowice2019/fitch-Foil.png"
   },
   {
     "name": "fitch (Gold) | Katowice 2019",
@@ -1877,7 +2111,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768697,
-    "BuffStickerId": 4930
+    "BuffStickerId": 4930,
+    "Image": "/assets/img/items/stickers/Katowice2019/fitch-Gold.png"
   },
   {
     "name": "flamie | Katowice 2019",
@@ -1885,7 +2120,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768316,
-    "BuffStickerId": 4467
+    "BuffStickerId": 4467,
+    "Image": "/assets/img/items/stickers/Katowice2019/flamie.png"
   },
   {
     "name": "flamie (Foil) | Katowice 2019",
@@ -1893,7 +2129,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768388,
-    "BuffStickerId": 4573
+    "BuffStickerId": 4573,
+    "Image": "/assets/img/items/stickers/Katowice2019/flamie-Foil.png"
   },
   {
     "name": "flamie (Gold) | Katowice 2019",
@@ -1901,7 +2138,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768412,
-    "BuffStickerId": 4744
+    "BuffStickerId": 4744,
+    "Image": "/assets/img/items/stickers/Katowice2019/flamie-Gold.png"
   },
   {
     "name": "flusha | Katowice 2019",
@@ -1909,7 +2147,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768235,
-    "BuffStickerId": 4513
+    "BuffStickerId": 4513,
+    "Image": "/assets/img/items/stickers/Katowice2019/flusha.png"
   },
   {
     "name": "flusha (Foil) | Katowice 2019",
@@ -1917,7 +2156,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768553,
-    "BuffStickerId": 4814
+    "BuffStickerId": 4814,
+    "Image": "/assets/img/items/stickers/Katowice2019/flusha-Foil.png"
   },
   {
     "name": "flusha (Gold) | Katowice 2019",
@@ -1925,7 +2165,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768745,
-    "BuffStickerId": 4968
+    "BuffStickerId": 4968,
+    "Image": "/assets/img/items/stickers/Katowice2019/flusha-Gold.png"
   },
   {
     "name": "Freeman | Katowice 2019",
@@ -1933,7 +2174,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768459,
-    "BuffStickerId": 4519
+    "BuffStickerId": 4519,
+    "Image": "/assets/img/items/stickers/Katowice2019/Freeman.png"
   },
   {
     "name": "Freeman (Foil) | Katowice 2019",
@@ -1941,7 +2183,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768570,
-    "BuffStickerId": 4824
+    "BuffStickerId": 4824,
+    "Image": "/assets/img/items/stickers/Katowice2019/Freeman-Foil.png"
   },
   {
     "name": "Freeman (Gold) | Katowice 2019",
@@ -1949,7 +2192,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768740,
-    "BuffStickerId": 4963
+    "BuffStickerId": 4963,
+    "Image": "/assets/img/items/stickers/Katowice2019/Freeman-Gold.png"
   },
   {
     "name": "FugLy | Katowice 2019",
@@ -1957,7 +2201,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768172,
-    "BuffStickerId": 4645
+    "BuffStickerId": 4645,
+    "Image": "/assets/img/items/stickers/Katowice2019/FugLy.png"
   },
   {
     "name": "FugLy (Foil) | Katowice 2019",
@@ -1965,7 +2210,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768403,
-    "BuffStickerId": 4737
+    "BuffStickerId": 4737,
+    "Image": "/assets/img/items/stickers/Katowice2019/FugLy-Foil.png"
   },
   {
     "name": "FugLy (Gold) | Katowice 2019",
@@ -1973,7 +2219,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768771,
-    "BuffStickerId": 4977
+    "BuffStickerId": 4977,
+    "Image": "/assets/img/items/stickers/Katowice2019/FugLy-Gold.png"
   },
   {
     "name": "GeT_RiGhT | Katowice 2019",
@@ -1981,7 +2228,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768162,
-    "BuffStickerId": 4640
+    "BuffStickerId": 4640,
+    "Image": "/assets/img/items/stickers/Katowice2019/GeTRiGhT.png"
   },
   {
     "name": "GeT_RiGhT (Foil) | Katowice 2019",
@@ -1989,7 +2237,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768574,
-    "BuffStickerId": 4828
+    "BuffStickerId": 4828,
+    "Image": "/assets/img/items/stickers/Katowice2019/GeTRiGhT-Foil.png"
   },
   {
     "name": "GeT_RiGhT (Gold) | Katowice 2019",
@@ -1997,7 +2246,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768672,
-    "BuffStickerId": 4905
+    "BuffStickerId": 4905,
+    "Image": "/assets/img/items/stickers/Katowice2019/GeTRiGhT-Gold.png"
   },
   {
     "name": "gla1ve | Katowice 2019",
@@ -2005,7 +2255,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768223,
-    "BuffStickerId": 4511
+    "BuffStickerId": 4511,
+    "Image": "/assets/img/items/stickers/Katowice2019/gla1ve.png"
   },
   {
     "name": "gla1ve (Foil) | Katowice 2019",
@@ -2013,7 +2264,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768549,
-    "BuffStickerId": 4596
+    "BuffStickerId": 4596,
+    "Image": "/assets/img/items/stickers/Katowice2019/gla1ve-Foil.png"
   },
   {
     "name": "gla1ve (Gold) | Katowice 2019",
@@ -2021,7 +2273,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768575,
-    "BuffStickerId": 4829
+    "BuffStickerId": 4829,
+    "Image": "/assets/img/items/stickers/Katowice2019/gla1ve-Gold.png"
   },
   {
     "name": "gob b | Katowice 2019",
@@ -2029,7 +2282,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768252,
-    "BuffStickerId": 4630
+    "BuffStickerId": 4630,
+    "Image": "/assets/img/items/stickers/Katowice2019/gobb.png"
   },
   {
     "name": "gob b (Foil) | Katowice 2019",
@@ -2037,7 +2291,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768365,
-    "BuffStickerId": 4723
+    "BuffStickerId": 4723,
+    "Image": "/assets/img/items/stickers/Katowice2019/gobb-Foil.png"
   },
   {
     "name": "gob b (Gold) | Katowice 2019",
@@ -2045,7 +2300,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768715,
-    "BuffStickerId": 4947
+    "BuffStickerId": 4947,
+    "Image": "/assets/img/items/stickers/Katowice2019/gobb-Gold.png"
   },
   {
     "name": "Golden | Katowice 2019",
@@ -2053,7 +2309,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768193,
-    "BuffStickerId": 4657
+    "BuffStickerId": 4657,
+    "Image": "/assets/img/items/stickers/Katowice2019/Golden.png"
   },
   {
     "name": "Golden (Foil) | Katowice 2019",
@@ -2061,7 +2318,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768595,
-    "BuffStickerId": 4560
+    "BuffStickerId": 4560,
+    "Image": "/assets/img/items/stickers/Katowice2019/Golden-Foil.png"
   },
   {
     "name": "Golden (Gold) | Katowice 2019",
@@ -2069,7 +2327,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768731,
-    "BuffStickerId": 4960
+    "BuffStickerId": 4960,
+    "Image": "/assets/img/items/stickers/Katowice2019/Golden-Gold.png"
   },
   {
     "name": "Gratisfaction | Katowice 2019",
@@ -2077,7 +2336,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768169,
-    "BuffStickerId": 4624
+    "BuffStickerId": 4624,
+    "Image": "/assets/img/items/stickers/Katowice2019/Gratisfaction.png"
   },
   {
     "name": "Gratisfaction (Foil) | Katowice 2019",
@@ -2085,7 +2345,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768500,
-    "BuffStickerId": 4781
+    "BuffStickerId": 4781,
+    "Image": "/assets/img/items/stickers/Katowice2019/Gratisfaction-Foil.png"
   },
   {
     "name": "Gratisfaction (Gold) | Katowice 2019",
@@ -2093,7 +2354,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768673,
-    "BuffStickerId": 4906
+    "BuffStickerId": 4906,
+    "Image": "/assets/img/items/stickers/Katowice2019/Gratisfaction-Gold.png"
   },
   {
     "name": "GuardiaN | Katowice 2019",
@@ -2101,7 +2363,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768210,
-    "BuffStickerId": 4600
+    "BuffStickerId": 4600,
+    "Image": "/assets/img/items/stickers/Katowice2019/GuardiaN.png"
   },
   {
     "name": "GuardiaN (Foil) | Katowice 2019",
@@ -2109,7 +2372,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768340,
-    "BuffStickerId": 4714
+    "BuffStickerId": 4714,
+    "Image": "/assets/img/items/stickers/Katowice2019/GuardiaN-Foil.png"
   },
   {
     "name": "GuardiaN (Gold) | Katowice 2019",
@@ -2117,7 +2381,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768649,
-    "BuffStickerId": 4883
+    "BuffStickerId": 4883,
+    "Image": "/assets/img/items/stickers/Katowice2019/GuardiaN-Gold.png"
   },
   {
     "name": "Hobbit | Katowice 2019",
@@ -2125,7 +2390,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768334,
-    "BuffStickerId": 4712
+    "BuffStickerId": 4712,
+    "Image": "/assets/img/items/stickers/Katowice2019/Hobbit.png"
   },
   {
     "name": "Hobbit (Foil) | Katowice 2019",
@@ -2133,7 +2399,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768445,
-    "BuffStickerId": 4755
+    "BuffStickerId": 4755,
+    "Image": "/assets/img/items/stickers/Katowice2019/Hobbit-Foil.png"
   },
   {
     "name": "Hobbit (Gold) | Katowice 2019",
@@ -2141,7 +2408,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768674,
-    "BuffStickerId": 4907
+    "BuffStickerId": 4907,
+    "Image": "/assets/img/items/stickers/Katowice2019/Hobbit-Gold.png"
   },
   {
     "name": "hutji | Katowice 2019",
@@ -2149,7 +2417,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768227,
-    "BuffStickerId": 4604
+    "BuffStickerId": 4604,
+    "Image": "/assets/img/items/stickers/Katowice2019/hutji.png"
   },
   {
     "name": "hutji (Foil) | Katowice 2019",
@@ -2157,7 +2426,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768386,
-    "BuffStickerId": 4732
+    "BuffStickerId": 4732,
+    "Image": "/assets/img/items/stickers/Katowice2019/hutji-Foil.png"
   },
   {
     "name": "hutji (Gold) | Katowice 2019",
@@ -2165,7 +2435,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768711,
-    "BuffStickerId": 4944
+    "BuffStickerId": 4944,
+    "Image": "/assets/img/items/stickers/Katowice2019/hutji-Gold.png"
   },
   {
     "name": "ISSAA | Katowice 2019",
@@ -2173,7 +2444,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768214,
-    "BuffStickerId": 4668
+    "BuffStickerId": 4668,
+    "Image": "/assets/img/items/stickers/Katowice2019/ISSAA.png"
   },
   {
     "name": "ISSAA (Foil) | Katowice 2019",
@@ -2181,7 +2453,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768505,
-    "BuffStickerId": 4785
+    "BuffStickerId": 4785,
+    "Image": "/assets/img/items/stickers/Katowice2019/ISSAA-Foil.png"
   },
   {
     "name": "ISSAA (Gold) | Katowice 2019",
@@ -2189,7 +2462,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768675,
-    "BuffStickerId": 4908
+    "BuffStickerId": 4908,
+    "Image": "/assets/img/items/stickers/Katowice2019/ISSAA-Gold.png"
   },
   {
     "name": "JaCkz | Katowice 2019",
@@ -2197,7 +2471,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768195,
-    "BuffStickerId": 4658
+    "BuffStickerId": 4658,
+    "Image": "/assets/img/items/stickers/Katowice2019/JaCkz.png"
   },
   {
     "name": "JaCkz (Foil) | Katowice 2019",
@@ -2205,7 +2480,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768228,
-    "BuffStickerId": 4679
+    "BuffStickerId": 4679,
+    "Image": "/assets/img/items/stickers/Katowice2019/JaCkz-Foil.png"
   },
   {
     "name": "JaCkz (Gold) | Katowice 2019",
@@ -2213,7 +2489,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768677,
-    "BuffStickerId": 4910
+    "BuffStickerId": 4910,
+    "Image": "/assets/img/items/stickers/Katowice2019/JaCkz-Gold.png"
   },
   {
     "name": "Jame | Katowice 2019",
@@ -2221,7 +2498,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768581,
-    "BuffStickerId": 4832
+    "BuffStickerId": 4832,
+    "Image": "/assets/img/items/stickers/Katowice2019/Jame.png"
   },
   {
     "name": "Jame (Foil) | Katowice 2019",
@@ -2229,7 +2507,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768601,
-    "BuffStickerId": 4558
+    "BuffStickerId": 4558,
+    "Image": "/assets/img/items/stickers/Katowice2019/Jame-Foil.png"
   },
   {
     "name": "Jame (Gold) | Katowice 2019",
@@ -2237,7 +2516,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768678,
-    "BuffStickerId": 4911
+    "BuffStickerId": 4911,
+    "Image": "/assets/img/items/stickers/Katowice2019/Jame-Gold.png"
   },
   {
     "name": "jkaem | Katowice 2019",
@@ -2245,7 +2525,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768427,
-    "BuffStickerId": 4751
+    "BuffStickerId": 4751,
+    "Image": "/assets/img/items/stickers/Katowice2019/jkaem.png"
   },
   {
     "name": "jkaem (Foil) | Katowice 2019",
@@ -2253,7 +2534,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768533,
-    "BuffStickerId": 4802
+    "BuffStickerId": 4802,
+    "Image": "/assets/img/items/stickers/Katowice2019/jkaem-Foil.png"
   },
   {
     "name": "jkaem (Gold) | Katowice 2019",
@@ -2261,7 +2543,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768698,
-    "BuffStickerId": 4931
+    "BuffStickerId": 4931,
+    "Image": "/assets/img/items/stickers/Katowice2019/jkaem-Gold.png"
   },
   {
     "name": "jks | Katowice 2019",
@@ -2269,7 +2552,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768222,
-    "BuffStickerId": 4675
+    "BuffStickerId": 4675,
+    "Image": "/assets/img/items/stickers/Katowice2019/jks.png"
   },
   {
     "name": "jks (Foil) | Katowice 2019",
@@ -2277,7 +2561,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768562,
-    "BuffStickerId": 4562
+    "BuffStickerId": 4562,
+    "Image": "/assets/img/items/stickers/Katowice2019/jks-Foil.png"
   },
   {
     "name": "jks (Gold) | Katowice 2019",
@@ -2285,7 +2570,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768699,
-    "BuffStickerId": 4932
+    "BuffStickerId": 4932,
+    "Image": "/assets/img/items/stickers/Katowice2019/jks-Gold.png"
   },
   {
     "name": "jR | Katowice 2019",
@@ -2293,7 +2579,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768189,
-    "BuffStickerId": 4609
+    "BuffStickerId": 4609,
+    "Image": "/assets/img/items/stickers/Katowice2019/jR.png"
   },
   {
     "name": "jR (Foil) | Katowice 2019",
@@ -2301,7 +2588,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768559,
-    "BuffStickerId": 4570
+    "BuffStickerId": 4570,
+    "Image": "/assets/img/items/stickers/Katowice2019/jR-Foil.png"
   },
   {
     "name": "jR (Gold) | Katowice 2019",
@@ -2309,7 +2597,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768652,
-    "BuffStickerId": 4886
+    "BuffStickerId": 4886,
+    "Image": "/assets/img/items/stickers/Katowice2019/jR-Gold.png"
   },
   {
     "name": "JW | Katowice 2019",
@@ -2317,7 +2606,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768186,
-    "BuffStickerId": 4652
+    "BuffStickerId": 4652,
+    "Image": "/assets/img/items/stickers/Katowice2019/JW.png"
   },
   {
     "name": "JW (Foil) | Katowice 2019",
@@ -2325,7 +2615,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768509,
-    "BuffStickerId": 4788
+    "BuffStickerId": 4788,
+    "Image": "/assets/img/items/stickers/Katowice2019/JW-Foil.png"
   },
   {
     "name": "JW (Gold) | Katowice 2019",
@@ -2333,7 +2624,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768676,
-    "BuffStickerId": 4909
+    "BuffStickerId": 4909,
+    "Image": "/assets/img/items/stickers/Katowice2019/JW-Gold.png"
   },
   {
     "name": "Kaze | Katowice 2019",
@@ -2341,7 +2633,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768385,
-    "BuffStickerId": 4731
+    "BuffStickerId": 4731,
+    "Image": "/assets/img/items/stickers/Katowice2019/Kaze.png"
   },
   {
     "name": "Kaze (Foil) | Katowice 2019",
@@ -2349,7 +2642,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768636,
-    "BuffStickerId": 4873
+    "BuffStickerId": 4873,
+    "Image": "/assets/img/items/stickers/Katowice2019/Kaze-Foil.png"
   },
   {
     "name": "Kaze (Gold) | Katowice 2019",
@@ -2357,7 +2651,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768680,
-    "BuffStickerId": 4913
+    "BuffStickerId": 4913,
+    "Image": "/assets/img/items/stickers/Katowice2019/Kaze-Gold.png"
   },
   {
     "name": "kennyS | Katowice 2019",
@@ -2365,7 +2660,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768515,
-    "BuffStickerId": 4791
+    "BuffStickerId": 4791,
+    "Image": "/assets/img/items/stickers/Katowice2019/kennyS.png"
   },
   {
     "name": "kennyS (Foil) | Katowice 2019",
@@ -2373,7 +2669,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768510,
-    "BuffStickerId": 4789
+    "BuffStickerId": 4789,
+    "Image": "/assets/img/items/stickers/Katowice2019/kennyS-Foil.png"
   },
   {
     "name": "kennyS (Gold) | Katowice 2019",
@@ -2381,7 +2678,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768617,
-    "BuffStickerId": 4862
+    "BuffStickerId": 4862,
+    "Image": "/assets/img/items/stickers/Katowice2019/kennyS-Gold.png"
   },
   {
     "name": "kioShiMa | Katowice 2019",
@@ -2389,7 +2687,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768204,
-    "BuffStickerId": 4527
+    "BuffStickerId": 4527,
+    "Image": "/assets/img/items/stickers/Katowice2019/kioShiMa.png"
   },
   {
     "name": "kioShiMa (Foil) | Katowice 2019",
@@ -2397,7 +2696,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768224,
-    "BuffStickerId": 4676
+    "BuffStickerId": 4676,
+    "Image": "/assets/img/items/stickers/Katowice2019/kioShiMa-Foil.png"
   },
   {
     "name": "kioShiMa (Gold) | Katowice 2019",
@@ -2405,7 +2705,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768700,
-    "BuffStickerId": 4933
+    "BuffStickerId": 4933,
+    "Image": "/assets/img/items/stickers/Katowice2019/kioShiMa-Gold.png"
   },
   {
     "name": "KRIMZ | Katowice 2019",
@@ -2413,7 +2714,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768206,
-    "BuffStickerId": 4663
+    "BuffStickerId": 4663,
+    "Image": "/assets/img/items/stickers/Katowice2019/KRIMZ.png"
   },
   {
     "name": "KRIMZ (Foil) | Katowice 2019",
@@ -2421,7 +2723,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768395,
-    "BuffStickerId": 4734
+    "BuffStickerId": 4734,
+    "Image": "/assets/img/items/stickers/Katowice2019/KRIMZ-Foil.png"
   },
   {
     "name": "KRIMZ (Gold) | Katowice 2019",
@@ -2429,7 +2732,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768719,
-    "BuffStickerId": 4950
+    "BuffStickerId": 4950,
+    "Image": "/assets/img/items/stickers/Katowice2019/KRIMZ-Gold.png"
   },
   {
     "name": "KrizzeN | Katowice 2019",
@@ -2437,7 +2741,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768171,
-    "BuffStickerId": 4644
+    "BuffStickerId": 4644,
+    "Image": "/assets/img/items/stickers/Katowice2019/KrizzeN.png"
   },
   {
     "name": "KrizzeN (Foil) | Katowice 2019",
@@ -2445,7 +2750,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768612,
-    "BuffStickerId": 4859
+    "BuffStickerId": 4859,
+    "Image": "/assets/img/items/stickers/Katowice2019/KrizzeN-Foil.png"
   },
   {
     "name": "KrizzeN (Gold) | Katowice 2019",
@@ -2453,7 +2759,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768743,
-    "BuffStickerId": 4966
+    "BuffStickerId": 4966,
+    "Image": "/assets/img/items/stickers/Katowice2019/KrizzeN-Gold.png"
   },
   {
     "name": "KSCERATO | Katowice 2019",
@@ -2461,7 +2768,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768199,
-    "BuffStickerId": 4661
+    "BuffStickerId": 4661,
+    "Image": "/assets/img/items/stickers/Katowice2019/KSCERATO.png"
   },
   {
     "name": "KSCERATO (Foil) | Katowice 2019",
@@ -2469,7 +2777,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768583,
-    "BuffStickerId": 4834
+    "BuffStickerId": 4834,
+    "Image": "/assets/img/items/stickers/Katowice2019/KSCERATO-Foil.png"
   },
   {
     "name": "KSCERATO (Gold) | Katowice 2019",
@@ -2477,7 +2786,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768679,
-    "BuffStickerId": 4912
+    "BuffStickerId": 4912,
+    "Image": "/assets/img/items/stickers/Katowice2019/KSCERATO-Gold.png"
   },
   {
     "name": "Kvik | Katowice 2019",
@@ -2485,7 +2795,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768414,
-    "BuffStickerId": 4745
+    "BuffStickerId": 4745,
+    "Image": "/assets/img/items/stickers/Katowice2019/Kvik.png"
   },
   {
     "name": "Kvik (Foil) | Katowice 2019",
@@ -2493,7 +2804,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768647,
-    "BuffStickerId": 4881
+    "BuffStickerId": 4881,
+    "Image": "/assets/img/items/stickers/Katowice2019/Kvik-Foil.png"
   },
   {
     "name": "Kvik (Gold) | Katowice 2019",
@@ -2501,7 +2813,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768166,
-    "BuffStickerId": 4641
+    "BuffStickerId": 4641,
+    "Image": "/assets/img/items/stickers/Katowice2019/Kvik-Gold.png"
   },
   {
     "name": "Lekr0 | Katowice 2019",
@@ -2509,7 +2822,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768262,
-    "BuffStickerId": 4692
+    "BuffStickerId": 4692,
+    "Image": "/assets/img/items/stickers/Katowice2019/Lekr0.png"
   },
   {
     "name": "Lekr0 (Foil) | Katowice 2019",
@@ -2517,7 +2831,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768585,
-    "BuffStickerId": 4836
+    "BuffStickerId": 4836,
+    "Image": "/assets/img/items/stickers/Katowice2019/Lekr0-Foil.png"
   },
   {
     "name": "Lekr0 (Gold) | Katowice 2019",
@@ -2525,7 +2840,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768681,
-    "BuffStickerId": 4914
+    "BuffStickerId": 4914,
+    "Image": "/assets/img/items/stickers/Katowice2019/Lekr0-Gold.png"
   },
   {
     "name": "Liazz | Katowice 2019",
@@ -2533,7 +2849,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768464,
-    "BuffStickerId": 4769
+    "BuffStickerId": 4769,
+    "Image": "/assets/img/items/stickers/Katowice2019/Liazz.png"
   },
   {
     "name": "Liazz (Foil) | Katowice 2019",
@@ -2541,7 +2858,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768607,
-    "BuffStickerId": 4854
+    "BuffStickerId": 4854,
+    "Image": "/assets/img/items/stickers/Katowice2019/Liazz-Foil.png"
   },
   {
     "name": "Liazz (Gold) | Katowice 2019",
@@ -2549,7 +2867,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768750,
-    "BuffStickerId": 4973
+    "BuffStickerId": 4973,
+    "Image": "/assets/img/items/stickers/Katowice2019/Liazz-Gold.png"
   },
   {
     "name": "Lucky | Katowice 2019",
@@ -2557,7 +2876,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768331,
-    "BuffStickerId": 4709
+    "BuffStickerId": 4709,
+    "Image": "/assets/img/items/stickers/Katowice2019/Lucky.png"
   },
   {
     "name": "Lucky (Foil) | Katowice 2019",
@@ -2565,7 +2885,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768605,
-    "BuffStickerId": 4852
+    "BuffStickerId": 4852,
+    "Image": "/assets/img/items/stickers/Katowice2019/Lucky-Foil.png"
   },
   {
     "name": "Lucky (Gold) | Katowice 2019",
@@ -2573,7 +2894,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768729,
-    "BuffStickerId": 4958
+    "BuffStickerId": 4958,
+    "Image": "/assets/img/items/stickers/Katowice2019/Lucky-Gold.png"
   },
   {
     "name": "Magisk | Katowice 2019",
@@ -2581,7 +2903,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768182,
-    "BuffStickerId": 4541
+    "BuffStickerId": 4541,
+    "Image": "/assets/img/items/stickers/Katowice2019/Magisk.png"
   },
   {
     "name": "Magisk (Foil) | Katowice 2019",
@@ -2589,7 +2912,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768337,
-    "BuffStickerId": 4471
+    "BuffStickerId": 4471,
+    "Image": "/assets/img/items/stickers/Katowice2019/Magisk-Foil.png"
   },
   {
     "name": "Magisk (Gold) | Katowice 2019",
@@ -2597,7 +2921,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768730,
-    "BuffStickerId": 4959
+    "BuffStickerId": 4959,
+    "Image": "/assets/img/items/stickers/Katowice2019/Magisk-Gold.png"
   },
   {
     "name": "malta | Katowice 2019",
@@ -2605,7 +2930,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768408,
-    "BuffStickerId": 4740
+    "BuffStickerId": 4740,
+    "Image": "/assets/img/items/stickers/Katowice2019/malta.png"
   },
   {
     "name": "malta (Foil) | Katowice 2019",
@@ -2613,7 +2939,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768557,
-    "BuffStickerId": 4817
+    "BuffStickerId": 4817,
+    "Image": "/assets/img/items/stickers/Katowice2019/malta-Foil.png"
   },
   {
     "name": "malta (Gold) | Katowice 2019",
@@ -2621,7 +2948,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768701,
-    "BuffStickerId": 4934
+    "BuffStickerId": 4934,
+    "Image": "/assets/img/items/stickers/Katowice2019/malta-Gold.png"
   },
   {
     "name": "n0rb3r7 | Katowice 2019",
@@ -2629,7 +2957,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768405,
-    "BuffStickerId": 4738
+    "BuffStickerId": 4738,
+    "Image": "/assets/img/items/stickers/Katowice2019/n0rb3r7.png"
   },
   {
     "name": "n0rb3r7 (Foil) | Katowice 2019",
@@ -2637,7 +2966,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768618,
-    "BuffStickerId": 4863
+    "BuffStickerId": 4863,
+    "Image": "/assets/img/items/stickers/Katowice2019/n0rb3r7-Foil.png"
   },
   {
     "name": "n0rb3r7 (Gold) | Katowice 2019",
@@ -2645,7 +2975,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768746,
-    "BuffStickerId": 4969
+    "BuffStickerId": 4969,
+    "Image": "/assets/img/items/stickers/Katowice2019/n0rb3r7-Gold.png"
   },
   {
     "name": "n0thing | Katowice 2019",
@@ -2653,7 +2984,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768213,
-    "BuffStickerId": 4506
+    "BuffStickerId": 4506,
+    "Image": "/assets/img/items/stickers/Katowice2019/n0thing.png"
   },
   {
     "name": "n0thing (Foil) | Katowice 2019",
@@ -2661,7 +2993,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768307,
-    "BuffStickerId": 4701
+    "BuffStickerId": 4701,
+    "Image": "/assets/img/items/stickers/Katowice2019/n0thing-Foil.png"
   },
   {
     "name": "n0thing (Gold) | Katowice 2019",
@@ -2669,7 +3002,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768660,
-    "BuffStickerId": 4893
+    "BuffStickerId": 4893,
+    "Image": "/assets/img/items/stickers/Katowice2019/n0thing-Gold.png"
   },
   {
     "name": "NAF | Katowice 2019",
@@ -2677,7 +3011,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768264,
-    "BuffStickerId": 4529
+    "BuffStickerId": 4529,
+    "Image": "/assets/img/items/stickers/Katowice2019/NAF.png"
   },
   {
     "name": "NAF (Foil) | Katowice 2019",
@@ -2685,7 +3020,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768275,
-    "BuffStickerId": 4697
+    "BuffStickerId": 4697,
+    "Image": "/assets/img/items/stickers/Katowice2019/NAF-Foil.png"
   },
   {
     "name": "NAF (Gold) | Katowice 2019",
@@ -2693,7 +3029,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768682,
-    "BuffStickerId": 4915
+    "BuffStickerId": 4915,
+    "Image": "/assets/img/items/stickers/Katowice2019/NAF-Gold.png"
   },
   {
     "name": "NBK- | Katowice 2019",
@@ -2701,7 +3038,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768360,
-    "BuffStickerId": 4722
+    "BuffStickerId": 4722,
+    "Image": "/assets/img/items/stickers/Katowice2019/NBK.png"
   },
   {
     "name": "NBK- (Foil) | Katowice 2019",
@@ -2709,7 +3047,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768566,
-    "BuffStickerId": 4821
+    "BuffStickerId": 4821,
+    "Image": "/assets/img/items/stickers/Katowice2019/NBK-Foil.png"
   },
   {
     "name": "NBK- (Gold) | Katowice 2019",
@@ -2717,7 +3056,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768803,
-    "BuffStickerId": 4979
+    "BuffStickerId": 4979,
+    "Image": "/assets/img/items/stickers/Katowice2019/NBK-Gold.png"
   },
   {
     "name": "NiKo | Katowice 2019",
@@ -2725,7 +3065,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768253,
-    "BuffStickerId": 4582
+    "BuffStickerId": 4582,
+    "Image": "/assets/img/items/stickers/Katowice2019/NiKo.png"
   },
   {
     "name": "NiKo (Foil) | Katowice 2019",
@@ -2733,7 +3074,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768411,
-    "BuffStickerId": 4743
+    "BuffStickerId": 4743,
+    "Image": "/assets/img/items/stickers/Katowice2019/NiKo-Foil.png"
   },
   {
     "name": "NiKo (Gold) | Katowice 2019",
@@ -2741,7 +3083,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768623,
-    "BuffStickerId": 4867
+    "BuffStickerId": 4867,
+    "Image": "/assets/img/items/stickers/Katowice2019/NiKo-Gold.png"
   },
   {
     "name": "nitr0 | Katowice 2019",
@@ -2749,7 +3092,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768218,
-    "BuffStickerId": 4671
+    "BuffStickerId": 4671,
+    "Image": "/assets/img/items/stickers/Katowice2019/nitr0.png"
   },
   {
     "name": "nitr0 (Foil) | Katowice 2019",
@@ -2757,7 +3101,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768504,
-    "BuffStickerId": 4784
+    "BuffStickerId": 4784,
+    "Image": "/assets/img/items/stickers/Katowice2019/nitr0-Foil.png"
   },
   {
     "name": "nitr0 (Gold) | Katowice 2019",
@@ -2765,7 +3110,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768449,
-    "BuffStickerId": 4759
+    "BuffStickerId": 4759,
+    "Image": "/assets/img/items/stickers/Katowice2019/nitr0-Gold.png"
   },
   {
     "name": "olofmeister | Katowice 2019",
@@ -2773,7 +3119,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768201,
-    "BuffStickerId": 4473
+    "BuffStickerId": 4473,
+    "Image": "/assets/img/items/stickers/Katowice2019/olofmeister.png"
   },
   {
     "name": "olofmeister (Foil) | Katowice 2019",
@@ -2781,7 +3128,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768296,
-    "BuffStickerId": 4698
+    "BuffStickerId": 4698,
+    "Image": "/assets/img/items/stickers/Katowice2019/olofmeister-Foil.png"
   },
   {
     "name": "olofmeister (Gold) | Katowice 2019",
@@ -2789,7 +3137,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768702,
-    "BuffStickerId": 4935
+    "BuffStickerId": 4935,
+    "Image": "/assets/img/items/stickers/Katowice2019/olofmeister-Gold.png"
   },
   {
     "name": "qikert | Katowice 2019",
@@ -2797,7 +3146,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768191,
-    "BuffStickerId": 4655
+    "BuffStickerId": 4655,
+    "Image": "/assets/img/items/stickers/Katowice2019/qikert.png"
   },
   {
     "name": "qikert (Foil) | Katowice 2019",
@@ -2805,7 +3155,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768611,
-    "BuffStickerId": 4858
+    "BuffStickerId": 4858,
+    "Image": "/assets/img/items/stickers/Katowice2019/qikert-Foil.png"
   },
   {
     "name": "qikert (Gold) | Katowice 2019",
@@ -2813,7 +3164,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768703,
-    "BuffStickerId": 4936
+    "BuffStickerId": 4936,
+    "Image": "/assets/img/items/stickers/Katowice2019/qikert-Gold.png"
   },
   {
     "name": "rain | Katowice 2019",
@@ -2821,7 +3173,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768302,
-    "BuffStickerId": 4531
+    "BuffStickerId": 4531,
+    "Image": "/assets/img/items/stickers/Katowice2019/rain.png"
   },
   {
     "name": "rain (Foil) | Katowice 2019",
@@ -2829,7 +3182,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768202,
-    "BuffStickerId": 4544
+    "BuffStickerId": 4544,
+    "Image": "/assets/img/items/stickers/Katowice2019/rain-Foil.png"
   },
   {
     "name": "rain (Gold) | Katowice 2019",
@@ -2837,7 +3191,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768650,
-    "BuffStickerId": 4884
+    "BuffStickerId": 4884,
+    "Image": "/assets/img/items/stickers/Katowice2019/rain-Gold.png"
   },
   {
     "name": "REZ | Katowice 2019",
@@ -2845,7 +3200,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768269,
-    "BuffStickerId": 4695
+    "BuffStickerId": 4695,
+    "Image": "/assets/img/items/stickers/Katowice2019/REZ.png"
   },
   {
     "name": "REZ (Foil) | Katowice 2019",
@@ -2853,7 +3209,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768589,
-    "BuffStickerId": 4840
+    "BuffStickerId": 4840,
+    "Image": "/assets/img/items/stickers/Katowice2019/REZ-Foil.png"
   },
   {
     "name": "REZ (Gold) | Katowice 2019",
@@ -2861,7 +3218,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768683,
-    "BuffStickerId": 4916
+    "BuffStickerId": 4916,
+    "Image": "/assets/img/items/stickers/Katowice2019/REZ-Gold.png"
   },
   {
     "name": "Rickeh | Katowice 2019",
@@ -2869,7 +3227,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768154,
-    "BuffStickerId": 4549
+    "BuffStickerId": 4549,
+    "Image": "/assets/img/items/stickers/Katowice2019/Rickeh.png"
   },
   {
     "name": "Rickeh (Foil) | Katowice 2019",
@@ -2877,7 +3236,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768418,
-    "BuffStickerId": 4607
+    "BuffStickerId": 4607,
+    "Image": "/assets/img/items/stickers/Katowice2019/Rickeh-Foil.png"
   },
   {
     "name": "Rickeh (Gold) | Katowice 2019",
@@ -2885,7 +3245,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768739,
-    "BuffStickerId": 4487
+    "BuffStickerId": 4487,
+    "Image": "/assets/img/items/stickers/Katowice2019/Rickeh-Gold.png"
   },
   {
     "name": "RpK | Katowice 2019",
@@ -2893,7 +3254,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768491,
-    "BuffStickerId": 4780
+    "BuffStickerId": 4780,
+    "Image": "/assets/img/items/stickers/Katowice2019/RpK.png"
   },
   {
     "name": "RpK (Foil) | Katowice 2019",
@@ -2901,7 +3263,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768550,
-    "BuffStickerId": 4811
+    "BuffStickerId": 4811,
+    "Image": "/assets/img/items/stickers/Katowice2019/RpK-Foil.png"
   },
   {
     "name": "RpK (Gold) | Katowice 2019",
@@ -2909,7 +3272,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768685,
-    "BuffStickerId": 4918
+    "BuffStickerId": 4918,
+    "Image": "/assets/img/items/stickers/Katowice2019/RpK-Gold.png"
   },
   {
     "name": "RUSH | Katowice 2019",
@@ -2917,7 +3281,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768194,
-    "BuffStickerId": 4580
+    "BuffStickerId": 4580,
+    "Image": "/assets/img/items/stickers/Katowice2019/RUSH.png"
   },
   {
     "name": "RUSH (Foil) | Katowice 2019",
@@ -2925,7 +3290,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768420,
-    "BuffStickerId": 4747
+    "BuffStickerId": 4747,
+    "Image": "/assets/img/items/stickers/Katowice2019/RUSH-Foil.png"
   },
   {
     "name": "RUSH (Gold) | Katowice 2019",
@@ -2933,7 +3299,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768725,
-    "BuffStickerId": 4954
+    "BuffStickerId": 4954,
+    "Image": "/assets/img/items/stickers/Katowice2019/RUSH-Gold.png"
   },
   {
     "name": "S0tF1k | Katowice 2019",
@@ -2941,7 +3308,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768485,
-    "BuffStickerId": 4778
+    "BuffStickerId": 4778,
+    "Image": "/assets/img/items/stickers/Katowice2019/S0tF1k.png"
   },
   {
     "name": "S0tF1k (Foil) | Katowice 2019",
@@ -2949,7 +3317,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768546,
-    "BuffStickerId": 4808
+    "BuffStickerId": 4808,
+    "Image": "/assets/img/items/stickers/Katowice2019/S0tF1k-Foil.png"
   },
   {
     "name": "S0tF1k (Gold) | Katowice 2019",
@@ -2957,7 +3326,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768751,
-    "BuffStickerId": 4974
+    "BuffStickerId": 4974,
+    "Image": "/assets/img/items/stickers/Katowice2019/S0tF1k-Gold.png"
   },
   {
     "name": "s1mple | Katowice 2019",
@@ -2965,7 +3335,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768310,
-    "BuffStickerId": 4547
+    "BuffStickerId": 4547,
+    "Image": "/assets/img/items/stickers/Katowice2019/s1mple.png"
   },
   {
     "name": "s1mple (Foil) | Katowice 2019",
@@ -2973,7 +3344,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768454,
-    "BuffStickerId": 4763
+    "BuffStickerId": 4763,
+    "Image": "/assets/img/items/stickers/Katowice2019/s1mple-Foil.png"
   },
   {
     "name": "s1mple (Gold) | Katowice 2019",
@@ -2981,7 +3353,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768704,
-    "BuffStickerId": 4937
+    "BuffStickerId": 4937,
+    "Image": "/assets/img/items/stickers/Katowice2019/s1mple-Gold.png"
   },
   {
     "name": "sdy | Katowice 2019",
@@ -2989,7 +3362,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768173,
-    "BuffStickerId": 4646
+    "BuffStickerId": 4646,
+    "Image": "/assets/img/items/stickers/Katowice2019/sdy.png"
   },
   {
     "name": "sdy (Foil) | Katowice 2019",
@@ -2997,7 +3371,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768609,
-    "BuffStickerId": 4856
+    "BuffStickerId": 4856,
+    "Image": "/assets/img/items/stickers/Katowice2019/sdy-Foil.png"
   },
   {
     "name": "sdy (Gold) | Katowice 2019",
@@ -3005,7 +3380,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768705,
-    "BuffStickerId": 4938
+    "BuffStickerId": 4938,
+    "Image": "/assets/img/items/stickers/Katowice2019/sdy-Gold.png"
   },
   {
     "name": "sergej | Katowice 2019",
@@ -3013,7 +3389,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768544,
-    "BuffStickerId": 4614
+    "BuffStickerId": 4614,
+    "Image": "/assets/img/items/stickers/Katowice2019/sergej.png"
   },
   {
     "name": "sergej (Foil) | Katowice 2019",
@@ -3021,7 +3398,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768646,
-    "BuffStickerId": 4880
+    "BuffStickerId": 4880,
+    "Image": "/assets/img/items/stickers/Katowice2019/sergej-Foil.png"
   },
   {
     "name": "sergej (Gold) | Katowice 2019",
@@ -3029,7 +3407,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768747,
-    "BuffStickerId": 4970
+    "BuffStickerId": 4970,
+    "Image": "/assets/img/items/stickers/Katowice2019/sergej-Gold.png"
   },
   {
     "name": "ShahZaM | Katowice 2019",
@@ -3037,7 +3416,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768336,
-    "BuffStickerId": 4469
+    "BuffStickerId": 4469,
+    "Image": "/assets/img/items/stickers/Katowice2019/ShahZaM.png"
   },
   {
     "name": "ShahZaM (Foil) | Katowice 2019",
@@ -3045,7 +3425,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768470,
-    "BuffStickerId": 4771
+    "BuffStickerId": 4771,
+    "Image": "/assets/img/items/stickers/Katowice2019/ShahZaM-Foil.png"
   },
   {
     "name": "ShahZaM (Gold) | Katowice 2019",
@@ -3053,7 +3434,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768453,
-    "BuffStickerId": 4762
+    "BuffStickerId": 4762,
+    "Image": "/assets/img/items/stickers/Katowice2019/ShahZaM-Gold.png"
   },
   {
     "name": "shox | Katowice 2019",
@@ -3061,7 +3443,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768185,
-    "BuffStickerId": 4651
+    "BuffStickerId": 4651,
+    "Image": "/assets/img/items/stickers/Katowice2019/shox.png"
   },
   {
     "name": "shox (Foil) | Katowice 2019",
@@ -3069,7 +3452,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768527,
-    "BuffStickerId": 4797
+    "BuffStickerId": 4797,
+    "Image": "/assets/img/items/stickers/Katowice2019/shox-Foil.png"
   },
   {
     "name": "shox (Gold) | Katowice 2019",
@@ -3077,7 +3461,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768598,
-    "BuffStickerId": 4847
+    "BuffStickerId": 4847,
+    "Image": "/assets/img/items/stickers/Katowice2019/shox-Gold.png"
   },
   {
     "name": "smooya | Katowice 2019",
@@ -3085,7 +3470,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768217,
-    "BuffStickerId": 4670
+    "BuffStickerId": 4670,
+    "Image": "/assets/img/items/stickers/Katowice2019/smooya.png"
   },
   {
     "name": "smooya (Foil) | Katowice 2019",
@@ -3093,7 +3479,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768573,
-    "BuffStickerId": 4827
+    "BuffStickerId": 4827,
+    "Image": "/assets/img/items/stickers/Katowice2019/smooya-Foil.png"
   },
   {
     "name": "smooya (Gold) | Katowice 2019",
@@ -3101,7 +3488,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768610,
-    "BuffStickerId": 4857
+    "BuffStickerId": 4857,
+    "Image": "/assets/img/items/stickers/Katowice2019/smooya-Gold.png"
   },
   {
     "name": "somebody | Katowice 2019",
@@ -3109,7 +3497,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768261,
-    "BuffStickerId": 4521
+    "BuffStickerId": 4521,
+    "Image": "/assets/img/items/stickers/Katowice2019/somebody.png"
   },
   {
     "name": "somebody (Foil) | Katowice 2019",
@@ -3117,7 +3506,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768317,
-    "BuffStickerId": 4702
+    "BuffStickerId": 4702,
+    "Image": "/assets/img/items/stickers/Katowice2019/somebody-Foil.png"
   },
   {
     "name": "somebody (Gold) | Katowice 2019",
@@ -3125,7 +3515,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768506,
-    "BuffStickerId": 4786
+    "BuffStickerId": 4786,
+    "Image": "/assets/img/items/stickers/Katowice2019/somebody-Gold.png"
   },
   {
     "name": "stanislaw | Katowice 2019",
@@ -3133,7 +3524,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768215,
-    "BuffStickerId": 4542
+    "BuffStickerId": 4542,
+    "Image": "/assets/img/items/stickers/Katowice2019/stanislaw.png"
   },
   {
     "name": "stanislaw (Foil) | Katowice 2019",
@@ -3141,7 +3533,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768343,
-    "BuffStickerId": 4618
+    "BuffStickerId": 4618,
+    "Image": "/assets/img/items/stickers/Katowice2019/stanislaw-Foil.png"
   },
   {
     "name": "stanislaw (Gold) | Katowice 2019",
@@ -3149,7 +3542,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768720,
-    "BuffStickerId": 4951
+    "BuffStickerId": 4951,
+    "Image": "/assets/img/items/stickers/Katowice2019/stanislaw-Gold.png"
   },
   {
     "name": "sterling | Katowice 2019",
@@ -3157,7 +3551,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768167,
-    "BuffStickerId": 4642
+    "BuffStickerId": 4642,
+    "Image": "/assets/img/items/stickers/Katowice2019/sterling.png"
   },
   {
     "name": "sterling (Foil) | Katowice 2019",
@@ -3165,7 +3560,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768639,
-    "BuffStickerId": 4875
+    "BuffStickerId": 4875,
+    "Image": "/assets/img/items/stickers/Katowice2019/sterling-Foil.png"
   },
   {
     "name": "sterling (Gold) | Katowice 2019",
@@ -3173,7 +3569,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768706,
-    "BuffStickerId": 4939
+    "BuffStickerId": 4939,
+    "Image": "/assets/img/items/stickers/Katowice2019/sterling-Gold.png"
   },
   {
     "name": "Stewie2K | Katowice 2019",
@@ -3181,7 +3578,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768184,
-    "BuffStickerId": 4554
+    "BuffStickerId": 4554,
+    "Image": "/assets/img/items/stickers/Katowice2019/Stewie2K.png"
   },
   {
     "name": "Stewie2K (Foil) | Katowice 2019",
@@ -3189,7 +3587,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768463,
-    "BuffStickerId": 4768
+    "BuffStickerId": 4768,
+    "Image": "/assets/img/items/stickers/Katowice2019/Stewie2K-Foil.png"
   },
   {
     "name": "Stewie2K (Gold) | Katowice 2019",
@@ -3197,7 +3596,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768686,
-    "BuffStickerId": 4919
+    "BuffStickerId": 4919,
+    "Image": "/assets/img/items/stickers/Katowice2019/Stewie2K-Gold.png"
   },
   {
     "name": "Summer | Katowice 2019",
@@ -3205,7 +3605,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768330,
-    "BuffStickerId": 4565
+    "BuffStickerId": 4565,
+    "Image": "/assets/img/items/stickers/Katowice2019/Summer.png"
   },
   {
     "name": "Summer (Foil) | Katowice 2019",
@@ -3213,7 +3614,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768613,
-    "BuffStickerId": 4860
+    "BuffStickerId": 4860,
+    "Image": "/assets/img/items/stickers/Katowice2019/Summer-Foil.png"
   },
   {
     "name": "Summer (Gold) | Katowice 2019",
@@ -3221,7 +3623,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768620,
-    "BuffStickerId": 4864
+    "BuffStickerId": 4864,
+    "Image": "/assets/img/items/stickers/Katowice2019/Summer-Gold.png"
   },
   {
     "name": "tabseN | Katowice 2019",
@@ -3229,7 +3632,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768341,
-    "BuffStickerId": 4715
+    "BuffStickerId": 4715,
+    "Image": "/assets/img/items/stickers/Katowice2019/tabseN.png"
   },
   {
     "name": "tabseN (Foil) | Katowice 2019",
@@ -3237,7 +3641,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768271,
-    "BuffStickerId": 4696
+    "BuffStickerId": 4696,
+    "Image": "/assets/img/items/stickers/Katowice2019/tabseN-Foil.png"
   },
   {
     "name": "tabseN (Gold) | Katowice 2019",
@@ -3245,7 +3650,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768568,
-    "BuffStickerId": 4822
+    "BuffStickerId": 4822,
+    "Image": "/assets/img/items/stickers/Katowice2019/tabseN-Gold.png"
   },
   {
     "name": "TACO | Katowice 2019",
@@ -3253,7 +3659,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768245,
-    "BuffStickerId": 4686
+    "BuffStickerId": 4686,
+    "Image": "/assets/img/items/stickers/Katowice2019/TACO.png"
   },
   {
     "name": "TACO (Foil) | Katowice 2019",
@@ -3261,7 +3668,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768211,
-    "BuffStickerId": 4666
+    "BuffStickerId": 4666,
+    "Image": "/assets/img/items/stickers/Katowice2019/TACO-Foil.png"
   },
   {
     "name": "TACO (Gold) | Katowice 2019",
@@ -3269,7 +3677,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768687,
-    "BuffStickerId": 4920
+    "BuffStickerId": 4920,
+    "Image": "/assets/img/items/stickers/Katowice2019/TACO-Gold.png"
   },
   {
     "name": "tiziaN | Katowice 2019",
@@ -3277,7 +3686,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768349,
-    "BuffStickerId": 4719
+    "BuffStickerId": 4719,
+    "Image": "/assets/img/items/stickers/Katowice2019/tiziaN.png"
   },
   {
     "name": "tiziaN (Foil) | Katowice 2019",
@@ -3285,7 +3695,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768480,
-    "BuffStickerId": 4774
+    "BuffStickerId": 4774,
+    "Image": "/assets/img/items/stickers/Katowice2019/tiziaN-Foil.png"
   },
   {
     "name": "tiziaN (Gold) | Katowice 2019",
@@ -3293,7 +3704,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768707,
-    "BuffStickerId": 4940
+    "BuffStickerId": 4940,
+    "Image": "/assets/img/items/stickers/Katowice2019/tiziaN-Gold.png"
   },
   {
     "name": "tonyblack | Katowice 2019",
@@ -3301,7 +3713,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768327,
-    "BuffStickerId": 4707
+    "BuffStickerId": 4707,
+    "Image": "/assets/img/items/stickers/Katowice2019/tonyblack.png"
   },
   {
     "name": "tonyblack (Foil) | Katowice 2019",
@@ -3309,7 +3722,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768631,
-    "BuffStickerId": 4869
+    "BuffStickerId": 4869,
+    "Image": "/assets/img/items/stickers/Katowice2019/tonyblack-Foil.png"
   },
   {
     "name": "tonyblack (Gold) | Katowice 2019",
@@ -3317,7 +3731,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768734,
-    "BuffStickerId": 4961
+    "BuffStickerId": 4961,
+    "Image": "/assets/img/items/stickers/Katowice2019/tonyblack-Gold.png"
   },
   {
     "name": "twist | Katowice 2019",
@@ -3325,7 +3740,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768192,
-    "BuffStickerId": 4656
+    "BuffStickerId": 4656,
+    "Image": "/assets/img/items/stickers/Katowice2019/twist.png"
   },
   {
     "name": "twist (Foil) | Katowice 2019",
@@ -3333,7 +3749,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768216,
-    "BuffStickerId": 4669
+    "BuffStickerId": 4669,
+    "Image": "/assets/img/items/stickers/Katowice2019/twist-Foil.png"
   },
   {
     "name": "twist (Gold) | Katowice 2019",
@@ -3341,7 +3758,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768708,
-    "BuffStickerId": 4941
+    "BuffStickerId": 4941,
+    "Image": "/assets/img/items/stickers/Katowice2019/twist-Gold.png"
   },
   {
     "name": "Twistzz | Katowice 2019",
@@ -3349,7 +3767,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768328,
-    "BuffStickerId": 4708
+    "BuffStickerId": 4708,
+    "Image": "/assets/img/items/stickers/Katowice2019/Twistzz.png"
   },
   {
     "name": "Twistzz (Foil) | Katowice 2019",
@@ -3357,7 +3776,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768339,
-    "BuffStickerId": 4713
+    "BuffStickerId": 4713,
+    "Image": "/assets/img/items/stickers/Katowice2019/Twistzz-Foil.png"
   },
   {
     "name": "Twistzz (Gold) | Katowice 2019",
@@ -3365,7 +3785,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768622,
-    "BuffStickerId": 4866
+    "BuffStickerId": 4866,
+    "Image": "/assets/img/items/stickers/Katowice2019/Twistzz-Gold.png"
   },
   {
     "name": "VINI | Katowice 2019",
@@ -3373,7 +3794,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768548,
-    "BuffStickerId": 4810
+    "BuffStickerId": 4810,
+    "Image": "/assets/img/items/stickers/Katowice2019/VINI.png"
   },
   {
     "name": "VINI (Foil) | Katowice 2019",
@@ -3381,7 +3803,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768524,
-    "BuffStickerId": 4794
+    "BuffStickerId": 4794,
+    "Image": "/assets/img/items/stickers/Katowice2019/VINI-Foil.png"
   },
   {
     "name": "VINI (Gold) | Katowice 2019",
@@ -3389,7 +3812,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768714,
-    "BuffStickerId": 4946
+    "BuffStickerId": 4946,
+    "Image": "/assets/img/items/stickers/Katowice2019/VINI-Gold.png"
   },
   {
     "name": "wayLander | Katowice 2019",
@@ -3397,7 +3821,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768181,
-    "BuffStickerId": 4650
+    "BuffStickerId": 4650,
+    "Image": "/assets/img/items/stickers/Katowice2019/wayLander.png"
   },
   {
     "name": "wayLander (Foil) | Katowice 2019",
@@ -3405,7 +3830,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768569,
-    "BuffStickerId": 4823
+    "BuffStickerId": 4823,
+    "Image": "/assets/img/items/stickers/Katowice2019/wayLander-Foil.png"
   },
   {
     "name": "wayLander (Gold) | Katowice 2019",
@@ -3413,7 +3839,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768748,
-    "BuffStickerId": 4971
+    "BuffStickerId": 4971,
+    "Image": "/assets/img/items/stickers/Katowice2019/wayLander-Gold.png"
   },
   {
     "name": "WorldEdit | Katowice 2019",
@@ -3421,7 +3848,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768532,
-    "BuffStickerId": 4495
+    "BuffStickerId": 4495,
+    "Image": "/assets/img/items/stickers/Katowice2019/WorldEdit.png"
   },
   {
     "name": "WorldEdit (Foil) | Katowice 2019",
@@ -3429,7 +3857,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768596,
-    "BuffStickerId": 4845
+    "BuffStickerId": 4845,
+    "Image": "/assets/img/items/stickers/Katowice2019/WorldEdit-Foil.png"
   },
   {
     "name": "WorldEdit (Gold) | Katowice 2019",
@@ -3437,7 +3866,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768688,
-    "BuffStickerId": 4921
+    "BuffStickerId": 4921,
+    "Image": "/assets/img/items/stickers/Katowice2019/WorldEdit-Gold.png"
   },
   {
     "name": "woxic | Katowice 2019",
@@ -3445,7 +3875,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768203,
-    "BuffStickerId": 4468
+    "BuffStickerId": 4468,
+    "Image": "/assets/img/items/stickers/Katowice2019/woxic.png"
   },
   {
     "name": "woxic (Foil) | Katowice 2019",
@@ -3453,7 +3884,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768344,
-    "BuffStickerId": 4546
+    "BuffStickerId": 4546,
+    "Image": "/assets/img/items/stickers/Katowice2019/woxic-Foil.png"
   },
   {
     "name": "woxic (Gold) | Katowice 2019",
@@ -3461,7 +3893,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768547,
-    "BuffStickerId": 4809
+    "BuffStickerId": 4809,
+    "Image": "/assets/img/items/stickers/Katowice2019/woxic-Gold.png"
   },
   {
     "name": "XANTARES | Katowice 2019",
@@ -3469,7 +3902,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768364,
-    "BuffStickerId": 4550
+    "BuffStickerId": 4550,
+    "Image": "/assets/img/items/stickers/Katowice2019/XANTARES.png"
   },
   {
     "name": "XANTARES (Foil) | Katowice 2019",
@@ -3477,7 +3911,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768517,
-    "BuffStickerId": 4792
+    "BuffStickerId": 4792,
+    "Image": "/assets/img/items/stickers/Katowice2019/XANTARES-Foil.png"
   },
   {
     "name": "XANTARES (Gold) | Katowice 2019",
@@ -3485,7 +3920,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768614,
-    "BuffStickerId": 4861
+    "BuffStickerId": 4861,
+    "Image": "/assets/img/items/stickers/Katowice2019/XANTARES-Gold.png"
   },
   {
     "name": "xccurate | Katowice 2019",
@@ -3493,7 +3929,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768205,
-    "BuffStickerId": 4602
+    "BuffStickerId": 4602,
+    "Image": "/assets/img/items/stickers/Katowice2019/xccurate.png"
   },
   {
     "name": "xccurate (Foil) | Katowice 2019",
@@ -3501,7 +3938,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768586,
-    "BuffStickerId": 4837
+    "BuffStickerId": 4837,
+    "Image": "/assets/img/items/stickers/Katowice2019/xccurate-Foil.png"
   },
   {
     "name": "xccurate (Gold) | Katowice 2019",
@@ -3509,7 +3947,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768657,
-    "BuffStickerId": 4891
+    "BuffStickerId": 4891,
+    "Image": "/assets/img/items/stickers/Katowice2019/xccurate-Gold.png"
   },
   {
     "name": "Xizt | Katowice 2019",
@@ -3517,7 +3956,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768362,
-    "BuffStickerId": 4485
+    "BuffStickerId": 4485,
+    "Image": "/assets/img/items/stickers/Katowice2019/Xizt.png"
   },
   {
     "name": "Xizt (Foil) | Katowice 2019",
@@ -3525,7 +3965,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768571,
-    "BuffStickerId": 4825
+    "BuffStickerId": 4825,
+    "Image": "/assets/img/items/stickers/Katowice2019/Xizt-Foil.png"
   },
   {
     "name": "Xizt (Gold) | Katowice 2019",
@@ -3533,7 +3974,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768580,
-    "BuffStickerId": 4831
+    "BuffStickerId": 4831,
+    "Image": "/assets/img/items/stickers/Katowice2019/Xizt-Gold.png"
   },
   {
     "name": "xseveN | Katowice 2019",
@@ -3541,7 +3983,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768219,
-    "BuffStickerId": 4672
+    "BuffStickerId": 4672,
+    "Image": "/assets/img/items/stickers/Katowice2019/xseveN.png"
   },
   {
     "name": "xseveN (Foil) | Katowice 2019",
@@ -3549,7 +3992,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768594,
-    "BuffStickerId": 4942
+    "BuffStickerId": 4942,
+    "Image": "/assets/img/items/stickers/Katowice2019/xseveN-Foil.png"
   },
   {
     "name": "xseveN (Gold) | Katowice 2019",
@@ -3557,7 +4001,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768709,
-    "BuffStickerId": 4942
+    "BuffStickerId": 4942,
+    "Image": "/assets/img/items/stickers/Katowice2019/xseveN-Gold.png"
   },
   {
     "name": "Xyp9x | Katowice 2019",
@@ -3565,7 +4010,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768301,
-    "BuffStickerId": 4699
+    "BuffStickerId": 4699,
+    "Image": "/assets/img/items/stickers/Katowice2019/Xyp9x.png"
   },
   {
     "name": "Xyp9x (Foil) | Katowice 2019",
@@ -3573,7 +4019,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768545,
-    "BuffStickerId": 4498
+    "BuffStickerId": 4498,
+    "Image": "/assets/img/items/stickers/Katowice2019/Xyp9x-Foil.png"
   },
   {
     "name": "Xyp9x (Gold) | Katowice 2019",
@@ -3581,7 +4028,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768597,
-    "BuffStickerId": 4846
+    "BuffStickerId": 4846,
+    "Image": "/assets/img/items/stickers/Katowice2019/Xyp9x-Gold.png"
   },
   {
     "name": "yuurih | Katowice 2019",
@@ -3589,7 +4037,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768168,
-    "BuffStickerId": 4578
+    "BuffStickerId": 4578,
+    "Image": "/assets/img/items/stickers/Katowice2019/yuurih.png"
   },
   {
     "name": "yuurih (Foil) | Katowice 2019",
@@ -3597,7 +4046,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768638,
-    "BuffStickerId": 4874
+    "BuffStickerId": 4874,
+    "Image": "/assets/img/items/stickers/Katowice2019/yuurih-Foil.png"
   },
   {
     "name": "yuurih (Gold) | Katowice 2019",
@@ -3605,7 +4055,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768754,
-    "BuffStickerId": 4976
+    "BuffStickerId": 4976,
+    "Image": "/assets/img/items/stickers/Katowice2019/yuurih-Gold.png"
   },
   {
     "name": "Zeus | Katowice 2019",
@@ -3613,7 +4064,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768332,
-    "BuffStickerId": 4710
+    "BuffStickerId": 4710,
+    "Image": "/assets/img/items/stickers/Katowice2019/Zeus.png"
   },
   {
     "name": "Zeus (Foil) | Katowice 2019",
@@ -3621,7 +4073,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768333,
-    "BuffStickerId": 4711
+    "BuffStickerId": 4711,
+    "Image": "/assets/img/items/stickers/Katowice2019/Zeus-Foil.png"
   },
   {
     "name": "Zeus (Gold) | Katowice 2019",
@@ -3629,7 +4082,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768651,
-    "BuffStickerId": 4885
+    "BuffStickerId": 4885,
+    "Image": "/assets/img/items/stickers/Katowice2019/Zeus-Gold.png"
   },
   {
     "name": "zhokiNg | Katowice 2019",
@@ -3637,7 +4091,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768556,
-    "BuffStickerId": 4816
+    "BuffStickerId": 4816,
+    "Image": "/assets/img/items/stickers/Katowice2019/zhokiNg.png"
   },
   {
     "name": "zhokiNg (Foil) | Katowice 2019",
@@ -3645,7 +4100,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768374,
-    "BuffStickerId": 4724
+    "BuffStickerId": 4724,
+    "Image": "/assets/img/items/stickers/Katowice2019/zhokiNg-Foil.png"
   },
   {
     "name": "zhokiNg (Gold) | Katowice 2019",
@@ -3653,7 +4109,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768749,
-    "BuffStickerId": 4972
+    "BuffStickerId": 4972,
+    "Image": "/assets/img/items/stickers/Katowice2019/zhokiNg-Gold.png"
   },
   {
     "name": "ZywOo | Katowice 2019",
@@ -3661,7 +4118,8 @@
     "tournament": "Katowice 2019",
     "rarity": "HighGrade",
     "BuffGoodsId": 768258,
-    "BuffStickerId": 4613
+    "BuffStickerId": 4613,
+    "Image": "/assets/img/items/stickers/Katowice2019/ZywOo.png"
   },
   {
     "name": "ZywOo (Foil) | Katowice 2019",
@@ -3669,7 +4127,8 @@
     "tournament": "Katowice 2019",
     "rarity": "Remarkable",
     "BuffGoodsId": 768425,
-    "BuffStickerId": 4749
+    "BuffStickerId": 4749,
+    "Image": "/assets/img/items/stickers/Katowice2019/ZywOo-Foil.png"
   },
   {
     "name": "ZywOo (Gold) | Katowice 2019",
@@ -3677,6 +4136,7 @@
     "tournament": "Katowice 2019",
     "rarity": "Extraordinary",
     "BuffGoodsId": 768772,
-    "BuffStickerId": 4978
+    "BuffStickerId": 4978,
+    "Image": "/assets/img/items/stickers/Katowice2019/ZywOo-Gold.png"
   }
 ]

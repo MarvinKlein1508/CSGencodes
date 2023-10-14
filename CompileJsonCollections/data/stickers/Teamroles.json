@@ -5,7 +5,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "Exotic",
     "BuffGoodsId": 40970,
-    "BuffStickerId": 1868
+    "BuffStickerId": 1868,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/ThePro-Foil.png"
   },
   {
     "name": "The Fragger",
@@ -13,7 +14,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40965,
-    "BuffStickerId": 1863
+    "BuffStickerId": 1863,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheFragger.png"
   },
   {
     "name": "The Ninja",
@@ -21,7 +23,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40969,
-    "BuffStickerId": 1867
+    "BuffStickerId": 1867,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheNinja.png"
   },
   {
     "name": "The Awper",
@@ -29,7 +32,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40961,
-    "BuffStickerId": 1859
+    "BuffStickerId": 1859,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheAwper.png"
   },
   {
     "name": "The Lurker",
@@ -37,7 +41,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40968,
-    "BuffStickerId": 1866
+    "BuffStickerId": 1866,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheLurker.png"
   },
   {
     "name": "The Bot",
@@ -45,7 +50,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40964,
-    "BuffStickerId": 1862
+    "BuffStickerId": 1862,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheBot.png"
   },
   {
     "name": "The Leader",
@@ -53,7 +59,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40967,
-    "BuffStickerId": 1865
+    "BuffStickerId": 1865,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheLeader.png"
   },
   {
     "name": "The Baiter",
@@ -61,7 +68,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40962,
-    "BuffStickerId": 1860
+    "BuffStickerId": 1860,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheBaiter.png"
   },
   {
     "name": "Support",
@@ -69,7 +77,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40859,
-    "BuffStickerId": 1759
+    "BuffStickerId": 1759,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/Support.png"
   },
   {
     "name": "The 'Nader",
@@ -77,7 +86,8 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40960,
-    "BuffStickerId": 1858
+    "BuffStickerId": 1858,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheNader.png"
   },
   {
     "name": "The Bomber",
@@ -85,6 +95,7 @@
     "tournament": "Team Roles Capsule",
     "rarity": "HighGrade",
     "BuffGoodsId": 40963,
-    "BuffStickerId": 1861
+    "BuffStickerId": 1861,
+    "Image": "/assets/img/items/stickers/TeamRolesCapsule/TheBomber.png"
   }
 ]

@@ -1,10 +1,15 @@
 ﻿.sticker {
     background: none;
     padding: .75rem;
-    display: block;
+    display: flex;
     width: 100%;
     border: 1px solid gray;
     margin-top: -1px;
+    align-items: center;
+}
+
+.sticker-name {
+    flex: 1;
 }
 
     .sticker:is(:hover) {

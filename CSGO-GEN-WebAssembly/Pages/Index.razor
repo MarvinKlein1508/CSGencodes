@@ -90,6 +90,14 @@
                         <Dropzone TItem="AppliedSticker" Items="SelectedStickers" Context="sticker" OnItemDrop="OnStickerDrop">
                             <div class="selected-sticker">
                                 <h5>@sticker.name (Pos: @sticker.PosId)</h5>
+                                @if (!string.IsNullOrWhiteSpace(sticker.Image))
+                                {
+                                    <div class="d-flex justify-content-center align-items-center">
+                                        <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" />
+                                    </div>
+                                }
+                                
+                                
                                 <div class="form-floating mb-3">
                                     <input type="number" @bind="sticker.Scratched" @bind:event="oninput" class="form-control" step="0.01" max="1" min="0" placeholder="Scratched" id="@($"selected-sticker-{sticker.GetHashCode()}")" />
                                     <label for="@($"selected-sticker-{sticker.GetHashCode()}")">Scratched</label>

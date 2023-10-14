@@ -28,6 +28,17 @@
 		</Content>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="wwwroot\assets\img\items\stickers\Antwerp2022\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\BrokenFangStickerCollection\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\ChickenCapsule\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\ClujNapoca2015\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2014\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2015\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2016\" />
+	  <Folder Include="wwwroot\assets\img\items\stickers\CommunityCapsule2018\" />
+	</ItemGroup>
+
 	
 
 
