@@ -478,10 +478,10 @@
     <Content Include="data\stickers\paris2023.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="data\stickers\PerfectWorld1.json">
+    <Content Include="data\stickers\PerfectWorld2.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="data\stickers\PerfectWorld2.json">
+    <Content Include="data\stickers\PerfectWorld1.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Pinups.json">

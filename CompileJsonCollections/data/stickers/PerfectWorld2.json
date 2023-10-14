@@ -1,137 +1,137 @@
 [
   {
-    "name": "Guardian Dragon (Foil)",
-    "gen_id": 2394,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Longevity (Foil)",
+    "gen_id": 2408,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "Exotic",
-    "BuffGoodsId": 40267,
-    "BuffStickerId": 1178,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/GuardianDragon-Foil.png"
+    "BuffGoodsId": 40450,
+    "BuffStickerId": 1356,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Longevity-Foil.png"
   },
   {
-    "name": "Fancy Koi (Foil)",
-    "gen_id": 2392,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Pixiu (Foil)",
+    "gen_id": 2411,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "Exotic",
-    "BuffGoodsId": 40129,
-    "BuffStickerId": 1040,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/FancyKoi-Foil.png"
+    "BuffGoodsId": 40673,
+    "BuffStickerId": 1574,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Pixiu-Foil.png"
   },
   {
-    "name": "Cheongsam (Holo)",
-    "gen_id": 2390,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Twin Koi (Holo)",
+    "gen_id": 2413,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "Remarkable",
-    "BuffGoodsId": 39945,
-    "BuffStickerId": 861,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Cheongsam-Holo.png"
+    "BuffGoodsId": 40993,
+    "BuffStickerId": 1890,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/TwinKoi-Holo.png"
   },
   {
-    "name": "Terror Rice",
-    "gen_id": 2398,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Rage",
+    "gen_id": 2406,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40958,
-    "BuffStickerId": 1856,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/TerrorRice.png"
+    "BuffGoodsId": 40694,
+    "BuffStickerId": 1595,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Rage.png"
   },
   {
-    "name": "Guardian Dragon",
-    "gen_id": 2393,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Longevity",
+    "gen_id": 2407,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40266,
-    "BuffStickerId": 1177,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/GuardianDragon.png"
+    "BuffGoodsId": 40449,
+    "BuffStickerId": 1355,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Longevity.png"
   },
   {
-    "name": "Mahjong Zhong",
-    "gen_id": 2401,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "God of Fortune",
+    "gen_id": 2403,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 33685,
-    "BuffStickerId": 740,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/MahjongZhong.png"
+    "BuffGoodsId": 40240,
+    "BuffStickerId": 1151,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/GodofFortune.png"
   },
   {
-    "name": "Water Gun",
-    "gen_id": 2388,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Blue Swallow",
+    "gen_id": 2416,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 41056,
-    "BuffStickerId": 1953,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/WaterGun.png"
+    "BuffGoodsId": 39913,
+    "BuffStickerId": 832,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/BlueSwallow.png"
   },
   {
-    "name": "Cheongsam",
-    "gen_id": 2389,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Twin Koi",
+    "gen_id": 2412,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 39944,
-    "BuffStickerId": 860,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Cheongsam.png"
+    "BuffGoodsId": 40992,
+    "BuffStickerId": 1889,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/TwinKoi.png"
   },
   {
-    "name": "Mahjong Fa",
-    "gen_id": 2399,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Green Swallow",
+    "gen_id": 2415,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40491,
-    "BuffStickerId": 1397,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/MahjongFa.png"
+    "BuffGoodsId": 40246,
+    "BuffStickerId": 1157,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/GreenSwallow.png"
   },
   {
-    "name": "Mahjong Rooster",
-    "gen_id": 2400,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Non-Veg",
+    "gen_id": 409,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40492,
-    "BuffStickerId": 1398,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/MahjongRooster.png"
+    "BuffGoodsId": 33687,
+    "BuffStickerId": 741,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/NonVeg.png"
   },
   {
-    "name": "Fancy Koi",
-    "gen_id": 2391,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Pixiu",
+    "gen_id": 2410,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40128,
-    "BuffStickerId": 1039,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/FancyKoi.png"
+    "BuffGoodsId": 40672,
+    "BuffStickerId": 1573,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Pixiu.png"
   },
   {
-    "name": "Toy Tiger",
-    "gen_id": 2402,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Nezha",
+    "gen_id": 2405,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40989,
-    "BuffStickerId": 1886,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/ToyTiger.png"
+    "BuffGoodsId": 40592,
+    "BuffStickerId": 1493,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Nezha.png"
   },
   {
-    "name": "Rice Bomb",
-    "gen_id": 2397,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Zombie Hop",
+    "gen_id": 2417,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40702,
-    "BuffStickerId": 1603,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/RiceBomb.png"
+    "BuffGoodsId": 41123,
+    "BuffStickerId": 2020,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/ZombieHop.png"
   },
   {
-    "name": "Noodles",
-    "gen_id": 2396,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Huaji",
+    "gen_id": 2404,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 43997,
-    "BuffStickerId": 2870,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Noodles.png"
+    "BuffGoodsId": 40336,
+    "BuffStickerId": 1245,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Huaji.png"
   },
   {
-    "name": "Hotpot",
-    "gen_id": 2395,
-    "tournament": "Perfect World Sticker Capsule 1",
+    "name": "Shaolin",
+    "gen_id": 2414,
+    "tournament": "Perfect World Sticker Capsule 2",
     "rarity": "HighGrade",
-    "BuffGoodsId": 40334,
-    "BuffStickerId": 1243,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Hotpot.png"
+    "BuffGoodsId": 40763,
+    "BuffStickerId": 1664,
+    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Shaolin.png"
   }
 ]
