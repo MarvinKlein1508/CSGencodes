@@ -28,10 +28,11 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     gap: 1rem;
     margin-top: 1rem;
 }
+
 .selected-sticker {
     width: auto;
     width: 20%;
@@ -39,6 +40,14 @@ main {
     border-radius: 1.25rem;
     padding: 1rem;
     margin-bottom: 1em;
+}
+@media (max-width: 768px) {
+    .selected-sticker-wrapper {
+        flex-direction: column;
+    }
+    .selected-sticker {
+        width: 100%;
+    }
 }
 /* Blazor specific */
 .valid.modified:not([type=checkbox]) {
