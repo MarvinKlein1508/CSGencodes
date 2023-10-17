@@ -1,25 +1,53 @@
 /* App style */
-#app {
+.main-wrapper {
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: 100vh;
+    height: 100dvh;
 }
-.content-wrapper {
-    flex: 1;
+
+main {
+    flex: 1 !important;
 }
+
+.item-wrapper {
+    max-height: 40vh;
+    overflow: auto;
+    border: 1px solid gray;
+}
+
 .generator-wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
     gap: 1em;
 }
+.inspect-btn {
+    padding-top: 1rem;
+}
+.selected-sticker-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    gap: 1rem;
+    margin-top: 1rem;
+}
 
 .selected-sticker {
-    position: relative;
-    background: #fff;
+    width: auto;
+    width: 20%;
     border: 1px solid #000;
     border-radius: 1.25rem;
     padding: 1rem;
     margin-bottom: 1em;
+}
+@media (max-width: 768px) {
+    .selected-sticker-wrapper {
+        flex-direction: column;
+    }
+    .selected-sticker {
+        width: 100%;
+    }
 }
 /* Blazor specific */
 .valid.modified:not([type=checkbox]) {
