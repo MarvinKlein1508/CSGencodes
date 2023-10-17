@@ -1,58 +1,51 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="content-wrapper bg-dark text-inverse">
-    <header class="wrapper p-6">
-        <nav class="navbar navbar-expand-lg center-logo transparent navbar-light">
-            <div class="container flex-lg-row flex-nowrap align-items-center">
-                <div class="navbar-brand w-100">
-                    <h2 class="text-white"><a href="home"><img src="/assets/img/logo/logo.png" alt="CS-Gencodes Logo" /></a></h2>
-                </div>
-            </div>
-            <!-- /.container -->
-        </nav>
-        <!-- /.navbar -->
-    </header>
-    <!-- /header -->
+<div class="main-wrapper">
+    <nav class="navbar bg-body-tertiary">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="/assets/img/logo/logo.png" alt="CS2 Gencodes">
+            </a>
+        </div>
+    </nav>
 
-    @Body
+    <main class="container-fluid pt-3">
+        @Body
+    </main>
 
-</div>
-<!-- /.content-wrapper -->
-<footer class="bg-dark text-inverse">
-    <div class="container py-13 py-md-15">
-        <div class="row gy-6 gy-lg-0">
-            <div class="col-md-4 col-lg-3">
-                <div class="widget">
-                    <p class="mb-4">© 2023 Marvin Klein. <br class="d-none d-lg-block" />All rights reserved.</p>
-                    <nav class="nav social social-white">
-                        <a target="_blank" href="https://steamcommunity.com/id/_orphy_"><i class="fa-brands fa-steam"></i></a>
-                        <a target="_blank" href="https://twitch.tv/erdbeerchen02"><i class="fa-brands fa-twitch"></i></a>
-                        <a target="_blank" href="https://youtube.com/marvinkleinmusic"><i class="fa-brands fa-youtube"></i></a>
-                        <a target="_blank" href="https://github.com/MarvinKlein1508"><i class="fa-brands fa-github"></i></a>
-                    </nav>
+    <footer class="bg-body-tertiary p-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-lg-3">
 
-                    <p class="mb-4">For issues pls contact me on Steam, Github or Twitch.</p>
+                    <div class="d-flex gap-3 text-light mb-3">
+                        <a target="_blank" href="https://steamcommunity.com/id/_orphy_"><i class="fa-brands fa-steam fa-xl"></i></a>
+                        <a target="_blank" href="https://twitch.tv/erdbeerchen02"><i class="fa-brands fa-twitch fa-xl"></i></a>
+                        <a target="_blank" href="https://youtube.com/marvinkleinmusic"><i class="fa-brands fa-youtube fa-xl"></i></a>
+                        <a target="_blank" href="https://github.com/MarvinKlein1508"><i class="fa-brands fa-github fa-xl"></i></a>
+                    </div>
 
                     <p class="mb-4">Special thanks to Anxioustricky for helping us collecting all the skin data.</p>
 
                     <p class="mb-4">Special thanks to dr3fty for helping us out with generating the inspect links.</p>
-                    <!-- /.social -->
+
+
+
                 </div>
-                <!-- /.widget -->
-            </div>
-            <div class="col-md-4 col-lg-3">
-                <div class="widget">
-                    <h4 class="widget-title text-white mb-3">Learn More</h4>
+                <div class="col-md-4 col-lg-3">
+
+                    <h4>Learn More</h4>
                     <ul class="list-unstyled mb-0">
                         <li><a href="changelog">Changelog</a></li>
                     </ul>
+
+
                 </div>
-                <!-- /.widget -->
+
+
             </div>
-
-
+            <p class="text-center">&copy; 2023 Marvin Klein. All rights reserved.</p>
         </div>
-        <!--/.row -->
-    </div>
-    <!-- /.container -->
-</footer>
+    </footer>
+
+</div>

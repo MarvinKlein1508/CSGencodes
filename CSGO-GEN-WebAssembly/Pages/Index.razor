@@ -10,7 +10,7 @@
 
 <section id="skingenerator">
     <div class="wrapper">
-        <div class="container py-14 py-md-17">
+        <div class="container">
 
             @if (SelectedWeapon is not null)
             {
@@ -20,7 +20,8 @@
                         <input type="text" value="@SelectedWeapon.GetGencode(Float, Pattern, SelectedStickers)" class="form-control" placeholder="Gencode" id="gencode" />
                         <label for="gencode">Gencode</label>
                     </div>
-                    <a class="btn btn-info" href="@inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers)">Inspect</a>
+                    <a class="inspect-btn btn btn-info" href="@inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers)">Inspect</a>
+                   
                     <button type="button" class="btn btn-primary" onclick="copyGencode()"><i class="fa-solid fa-copy"></i></button>
                 </div>
 
@@ -33,9 +34,15 @@
                         <input type="text" @bind="WeaponFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search weapon" id="search-weapon" />
                         <label for="search-weapon">Search weapon</label>
                     </div>
-                    @foreach (var weapon in weaponService.SearchWeapon(WeaponFilter))
+                    @if (weaponService.SearchWeapon(WeaponFilter).Any())
                     {
-                        <DisplayWeapon Weapon="weapon" OnClick="OnWeaponClicked" />
+                        <div class="item-wrapper">
+                            @foreach (var weapon in weaponService.SearchWeapon(WeaponFilter))
+                            {
+                                <DisplayWeapon Weapon="weapon" OnClick="OnWeaponClicked" />
+                            }
+
+                        </div>
                     }
                 </div>
 
@@ -44,9 +51,14 @@
                         <input type="text" @bind="StickerFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search stickers" id="search-stickers" />
                         <label for="search-stickers">Search stickers</label>
                     </div>
-                    @foreach (var sticker in stickerService.SearchSticker(StickerFilter))
+                    @if (stickerService.SearchSticker(StickerFilter).Any())
                     {
-                        <DisplaySticker Sticker="sticker" OnClick="OnStickerClicked" />
+                        <div class="item-wrapper">
+                            @foreach (var sticker in stickerService.SearchSticker(StickerFilter))
+                            {
+                                <DisplaySticker Sticker="sticker" OnClick="OnStickerClicked" />
+                            }
+                        </div>
                     }
                 </div>
 
@@ -70,48 +82,30 @@
 
                     @if (SelectedWeapon is not null)
                     {
-                        <button type="button" class="btn btn-danger w-100" @onclick="() => SelectedWeapon = null">Reset weapon</button>
+                        <button type="button" class="btn btn-danger w-100 mb-1" @onclick="() => SelectedWeapon = null">Reset weapon</button>
                     }
+
+                    
 
                     @if (SelectedStickers.Any())
                     {
-                        <h3 class="text-white">Selected stickers</h3>
-                        <a href="@GetSteamMarketUrl()" target="_blank" class="btn btn-primary d-block mb-1">Search on Steam market</a>
-                        <a href="@GetCsgofloatUrl()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on csgofloat</a>
-                        @if (!string.IsNullOrEmpty(GetBuff163Url()))
-                        {
-                            <a href="@GetBuff163Url()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on Buff163</a>
-                        }
-
-                        @if (!string.IsNullOrEmpty(GetSkinportUrl()))
-                        {
-                            <a href="@GetSkinportUrl()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on Skinport</a>
-                        }
                         <div class="toolbar mb-3 d-flex gap-1">
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1)">Remove last sticker</button>
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
                         </div>
 
-                        <Dropzone TItem="AppliedSticker" Items="SelectedStickers" Context="sticker" OnItemDrop="OnStickerDrop">
-                            <div class="selected-sticker">
-                                <h5>@sticker.name (Pos: @sticker.PosId)</h5>
-                                @if (!string.IsNullOrWhiteSpace(sticker.Image))
-                                {
-                                    <div class="d-flex justify-content-center align-items-center">
-                                        <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" />
-                                    </div>
-                                }
-                                
-                                
-                                <div class="form-floating mb-3">
-                                    <input type="number" @bind="sticker.Scratched" @bind:event="oninput" class="form-control" step="0.01" max="1" min="0" placeholder="Scratched" id="@($"selected-sticker-{sticker.GetHashCode()}")" />
-                                    <label for="@($"selected-sticker-{sticker.GetHashCode()}")">Scratched</label>
-                                </div>
-                                <button type="button" @onclick="() => SelectedStickers.Remove(sticker)" class="btn btn-danger">Remove</button>
-                            </div>
-                        </Dropzone>
+                        <h3 class="text-white">Search marketplace</h3>
+                        <a href="@GetSteamMarketUrl()" target="_blank" class="btn btn-primary d-block mb-1">Steam market</a>
+                        <a href="@GetCsgofloatUrl()" target="_blank" class="btn btn-primary d-block mb-1">csfloat</a>
+                        @if (!string.IsNullOrEmpty(GetBuff163Url()))
+                        {
+                            <a href="@GetBuff163Url()" target="_blank" class="btn btn-primary d-block mb-1">Buff163</a>
+                        }
 
-
+                        @if (!string.IsNullOrEmpty(GetSkinportUrl()))
+                        {
+                            <a href="@GetSkinportUrl()" target="_blank" class="btn btn-primary d-block mb-1">Skinport</a>
+                        }
                     }
                 </div>
 
@@ -122,7 +116,27 @@
         </div>
     </div>
 </section>
+<div class="selected-sticker-wrapper py-14 py-md-17">
+    @foreach (var sticker in SelectedStickers)
+    {
+        <div class="selected-sticker">
+            <h5>@sticker.name (Pos: @sticker.PosId)</h5>
+            @if (!string.IsNullOrWhiteSpace(sticker.Image))
+            {
+                <div class="d-flex justify-content-center align-items-center">
+                    <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" />
+                </div>
+            }
 
+
+            <div class="form-floating mb-3">
+                <input type="number" @bind="sticker.Scratched" @bind:event="oninput" class="form-control" step="0.01" max="1" min="0" placeholder="Scratched" id="@($"selected-sticker-{sticker.GetHashCode()}")" />
+                <label for="@($"selected-sticker-{sticker.GetHashCode()}")">Scratched</label>
+            </div>
+            <button type="button" @onclick="() => SelectedStickers.Remove(sticker)" class="btn btn-danger">Remove</button>
+        </div>
+    }
+</div>
 
 
 

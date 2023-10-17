@@ -3,7 +3,9 @@
     padding: .75rem;
     display: block;
     width: 100%;
-    border: 1px solid gray;
+    min-height: 95px;
+    border: none;
+    border-top: 1px solid gray;
     margin-top: -1px;
 }
 
