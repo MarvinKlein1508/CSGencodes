@@ -99,6 +99,28 @@ namespace CSGO_GEN_WebAssembly.Pages
             return url;
         }
 
+        private string GetSkinportUrl()
+        {
+            if (!SelectedStickers.Any())
+            {
+                return string.Empty;
+            }
+
+            StringBuilder sb = new();
+            sb.Append("https://skinport.com/market?sticker=");
+
+            string query = $"{string.Join("%2C", SelectedStickers.Select(x => x.name.Replace(" ", "+")))}";
+
+            sb.Append(query);
+
+            sb.Append("&r=erdbeerchen02");
+ 
+
+            string url = sb.ToString();
+
+            return url;
+        }
+
         private string GetCsgofloatUrl()
         {
             // Example: https://csgofloat.com/db?defIndex=7&paintIndex=282&min=0.1&max=0.7&stickers=%5B%7B%22i%22:%225015%22%7D,%7B%22i%22:%225015%22%7D,%7B%22i%22:%225015%22%7D,%7B%22i%22:%225015%22%7D%5D

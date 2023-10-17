@@ -82,6 +82,11 @@
                         {
                             <a href="@GetBuff163Url()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on Buff163</a>
                         }
+
+                        @if (!string.IsNullOrEmpty(GetSkinportUrl()))
+                        {
+                            <a href="@GetSkinportUrl()" target="_blank" class="btn btn-primary d-block mb-1">Lookup on Skinport</a>
+                        }
                         <div class="toolbar mb-3 d-flex gap-1">
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1)">Remove last sticker</button>
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
