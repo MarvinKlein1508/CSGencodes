@@ -936,22 +936,22 @@
     "Image": "/assets/img/items/stickers/Cologne2014/dATteam-Holo.png"
   },
   {
-    "name": "Epsilon eSports (Holo) | Cologne 2014",
-    "gen_id": 140,
-    "tournament": "Cologne 2014",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40086,
-    "BuffStickerId": 997,
-    "Image": "/assets/img/items/stickers/Cologne2014/EpsiloneSports-Holo.png"
-  },
-  {
     "name": "Epsilon eSports | Cologne 2014",
-    "gen_id": 141,
+    "gen_id": 140,
     "tournament": "Cologne 2014",
     "rarity": "HighGrade",
     "BuffGoodsId": 40087,
     "BuffStickerId": 998,
     "Image": "/assets/img/items/stickers/Cologne2014/EpsiloneSports.png"
+  },
+  {
+    "name": "Epsilon eSports (Holo) | Cologne 2014",
+    "gen_id": 141,
+    "tournament": "Cologne 2014",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40086,
+    "BuffStickerId": 997,
+    "Image": "/assets/img/items/stickers/Cologne2014/EpsiloneSports-Holo.png"
   },
   {
     "name": "iBUYPOWER (Holo) | Cologne 2014",
