@@ -1,5 +1,6 @@
 using CSGO_GEN.Core.Filters;
 using CSGO_GEN.Core.Models;
+using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.Primitives;
 using System.Text;
 using System.Web;
@@ -71,7 +72,17 @@ namespace CSGO_GEN_WebAssembly.Pages
         {
             if (SelectedStickers.Count < 5)
             {
-                SelectedStickers.Add(new AppliedSticker(sticker, SelectedStickers.Count));
+                for (int posId = 0; posId < 5; posId++)
+                {
+                    var searchSticker = SelectedStickers.FirstOrDefault(x => x.PosId == posId);
+
+                    if(searchSticker is null)
+                    {
+                        SelectedStickers.Add(new AppliedSticker(sticker, posId));
+                        SortSelectedStickers();
+                        break;
+                    }
+                }
             }
         }
 
@@ -114,7 +125,7 @@ namespace CSGO_GEN_WebAssembly.Pages
             sb.Append(query);
 
             sb.Append("&r=erdbeerchen02");
- 
+
 
             string url = sb.ToString();
 
@@ -158,7 +169,7 @@ namespace CSGO_GEN_WebAssembly.Pages
             sb.Append(string.Join("&", parameters));
 
             return sb.ToString();
-            
+
 
 
         }
@@ -172,22 +183,42 @@ namespace CSGO_GEN_WebAssembly.Pages
                 counter++;
             }
         }
+
+        private void OnStickerPosChanged(int newPos, AppliedSticker sticker)
+        {
+            int oldPos = sticker.PosId;
+            var searchOtherPosId = SelectedStickers.FirstOrDefault(x => x.PosId == newPos);
+            sticker.PosId = newPos;
+
+            if (searchOtherPosId is not null)
+            {
+                searchOtherPosId.PosId = oldPos;
+            }
+
+            SortSelectedStickers();
+        }
+
+        private void SortSelectedStickers()
+        {
+            SelectedStickers.Sort((x, y) => x.PosId.CompareTo(y.PosId));
+        }
+
         private string? GetBuff163Url()
         {
             // Example: https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids=16226,16226,16226,16226  
             List<int> searchIds = new();
             if (SelectedStickers.Any())
-            { 
+            {
                 foreach (var sticker in SelectedStickers)
                 {
-                    if(sticker.BuffStickerId is not null)
+                    if (sticker.BuffStickerId is not null)
                     {
                         searchIds.Add((int)sticker.BuffStickerId);
                     }
                 }
             }
 
-            if(!searchIds.Any())
+            if (!searchIds.Any())
             {
                 return null;
             }

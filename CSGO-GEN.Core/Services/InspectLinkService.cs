@@ -29,12 +29,12 @@ namespace CSGO_GEN.Core.Services
 
             if (stickers.Any())
             {
-                int slot = 0;
+                
                 foreach (AppliedSticker sticker in stickers.OrderBy(x => x.PosId))
                 {
                     CEconItemPreviewDataBlock.Types.Sticker proto_sticker = new()
                     {
-                        Slot = (uint)slot++,
+                        Slot = (uint)sticker.PosId,
                         StickerId = (uint)sticker.gen_id,
                         Wear = (float)sticker.Scratched,
                     };

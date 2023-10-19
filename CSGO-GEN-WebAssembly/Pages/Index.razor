@@ -21,7 +21,7 @@
                         <label for="gencode">Gencode</label>
                     </div>
                     <a class="inspect-btn btn btn-info" href="@inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers)">Inspect</a>
-                   
+
                     <button type="button" class="btn btn-primary" onclick="copyGencode()"><i class="fa-solid fa-copy"></i></button>
                 </div>
 
@@ -85,7 +85,7 @@
                         <button type="button" class="btn btn-danger w-100 mb-1" @onclick="() => SelectedWeapon = null">Reset weapon</button>
                     }
 
-                    
+
 
                     @if (SelectedStickers.Any())
                     {
@@ -127,7 +127,32 @@
                     <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" />
                 </div>
             }
-
+            <EditForm Model="sticker">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-floating mb-3">
+                            <input type="number" @bind="sticker.Scratched" @bind:event="oninput" class="form-control" step="0.01" max="1" min="0" placeholder="Scratched" id="@($"selected-sticker-{sticker.GetHashCode()}")" />
+                            <label for="@($"selected-sticker-{sticker.GetHashCode()}")">Scratched</label>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating mb-3">
+                            <InputSelect TValue="int"
+                                         Value="@sticker.PosId"
+                                         ValueChanged="(value) => OnStickerPosChanged(value, sticker)"
+                                         ValueExpression="() => sticker.PosId"
+                                         class="form-select" id="@($"selected-sticker-position{sticker.GetHashCode()}")" aria-placeholder="Position">
+                                <option value="0">0</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                            </InputSelect>
+                            <label for="@($"selected-sticker-position{sticker.GetHashCode()}")">Position</label>
+                        </div>
+                    </div>
+                </div>
+            </EditForm>
 
             <div class="form-floating mb-3">
                 <input type="number" @bind="sticker.Scratched" @bind:event="oninput" class="form-control" step="0.01" max="1" min="0" placeholder="Scratched" id="@($"selected-sticker-{sticker.GetHashCode()}")" />
