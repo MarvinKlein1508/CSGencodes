@@ -50,7 +50,7 @@
     "gen_id": 418,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 419,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 420,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 421,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,13 +106,13 @@
     "gen_id": 415,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerRuby.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-Ruby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
   },
   {
-    "name": "Ursus | Doppler (Saphire)",
+    "name": "Ursus | Doppler (Sapphire)",
     "min_wear": 0,
     "max_wear": 0.08,
     "trade_up": false,
@@ -120,7 +120,7 @@
     "gen_id": 416,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-Sapphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 417,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/Ursus/Doppler-BlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
