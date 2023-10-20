@@ -38,6 +38,7 @@
 	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2016\" />
 	  <Folder Include="wwwroot\assets\img\items\stickers\CommunityCapsule2018\" />
 	  <Folder Include="wwwroot\assets\img\items\weapons\eSports2013WinterCollection\" />
+	  <Folder Include="wwwroot\assets\img\items\weapons\WildfireCollection\" />
 	</ItemGroup>
 
 	
