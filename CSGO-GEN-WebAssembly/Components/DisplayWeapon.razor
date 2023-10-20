@@ -1,7 +1,11 @@
 ﻿@if (Weapon is not null)
 {
     <button type="button" class="weapon @GetRarityCSS()" @onclick="async () => await OnClick.InvokeAsync(Weapon)">
-        @Weapon.name
+        @if (Weapon.Image is not null)
+        {
+            <img style="max-width: 70px;" loading="lazy" src="@Weapon.Image" />
+        }
+        <span class="weapon-name">@Weapon.name</span>
     </button>
 }
 

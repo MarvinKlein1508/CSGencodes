@@ -1,14 +1,18 @@
 ﻿.weapon {
     background: none;
     padding: .75rem;
-    display: block;
+    display: flex;
     width: 100%;
-    min-height: 95px;
     border: none;
     border-top: 1px solid gray;
+    min-height: 95px;
+    align-items: center;
     margin-top: -1px;
 }
 
+.weapon-name {
+    flex: 1;
+}
     .weapon:is(:hover) {
         background: #23232a;
     }
