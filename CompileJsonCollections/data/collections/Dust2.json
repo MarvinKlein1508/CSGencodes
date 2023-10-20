@@ -7,7 +7,11 @@
     "weapon_id": 64,
     "gen_id": 523,
     "collection": "The Dust 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/R8Revolver-AmberFade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 5
   },
   {
     "name": "P2000 | Amber Fade",
@@ -17,7 +21,11 @@
     "weapon_id": 32,
     "gen_id": 246,
     "collection": "The Dust 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/P2000-AmberFade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "PP-Bizon | Brass",
@@ -27,7 +35,11 @@
     "weapon_id": 26,
     "gen_id": 159,
     "collection": "The Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/PP-Bizon-Brass.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Damascus Steel",
@@ -37,7 +49,11 @@
     "weapon_id": 39,
     "gen_id": 247,
     "collection": "The Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/SG553-DamascusSteel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M4A1-S | VariCamo",
@@ -47,7 +63,11 @@
     "weapon_id": 60,
     "gen_id": 235,
     "collection": "The Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/M4A1-S-VariCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AK-47 | Safari Mesh",
@@ -57,7 +77,11 @@
     "weapon_id": 7,
     "gen_id": 72,
     "collection": "The Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/AK-47-SafariMesh.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Five-SeveN | Orange Peel",
@@ -67,7 +91,11 @@
     "weapon_id": 3,
     "gen_id": 141,
     "collection": "The Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/Five-SeveN-OrangePeel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Sawed-Off | Snake Camo",
@@ -77,7 +105,11 @@
     "weapon_id": 29,
     "gen_id": 30,
     "collection": "The Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/Sawed-Off-SnakeCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MAC-10 | Palm",
@@ -87,7 +119,11 @@
     "weapon_id": 17,
     "gen_id": 157,
     "collection": "The Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/MAC-10-Palm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Tec-9 | VariCamo",
@@ -97,7 +133,11 @@
     "weapon_id": 30,
     "gen_id": 235,
     "collection": "The Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/Tec-9-VariCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P250 | Sand Dune",
@@ -107,7 +147,11 @@
     "weapon_id": 36,
     "gen_id": 99,
     "collection": "The Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/P250-SandDune.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "G3SG1 | Desert Storm",
@@ -117,7 +161,11 @@
     "weapon_id": 11,
     "gen_id": 8,
     "collection": "The Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/G3SG1-DesertStorm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 1
   },
   {
     "name": "P90 | Sand Spray",
@@ -127,7 +175,11 @@
     "weapon_id": 19,
     "gen_id": 124,
     "collection": "The Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/P90-SandSpray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SCAR-20 | Sand Mesh",
@@ -137,7 +189,11 @@
     "weapon_id": 38,
     "gen_id": 116,
     "collection": "The Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/SCAR-20-SandMesh.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MP9 | Sand Dashed",
@@ -147,7 +203,11 @@
     "weapon_id": 34,
     "gen_id": 148,
     "collection": "The Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/MP9-SandDashed.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Nova | Predator",
@@ -157,7 +217,10 @@
     "weapon_id": 35,
     "gen_id": 170,
     "collection": "The Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheDust2Collection/Nova-Predator.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

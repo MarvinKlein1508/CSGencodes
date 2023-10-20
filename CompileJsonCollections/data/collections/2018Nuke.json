@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 792,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/M4A1-S-ControlPanel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Tec-9 | Remote Control",
@@ -17,7 +21,11 @@
     "weapon_id": 30,
     "gen_id": 791,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/Tec-9-RemoteControl.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Glock-18 | Nuclear Garden",
@@ -27,7 +35,11 @@
     "weapon_id": 4,
     "gen_id": 789,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/Glock-18-NuclearGarden.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAG-7 | Core Breach",
@@ -37,7 +49,11 @@
     "weapon_id": 27,
     "gen_id": 787,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/MAG-7-CoreBreach.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AUG | Random Access",
@@ -47,7 +63,11 @@
     "weapon_id": 8,
     "gen_id": 779,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/AUG-RandomAccess.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SSG 08 | Hand Brake",
@@ -57,7 +77,11 @@
     "weapon_id": 40,
     "gen_id": 751,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/SSG08-HandBrake.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AWP | Acheron",
@@ -67,7 +91,11 @@
     "weapon_id": 9,
     "gen_id": 788,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/AWP-Acheron.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP5-SD | Co-Processor",
@@ -77,7 +105,11 @@
     "weapon_id": 23,
     "gen_id": 781,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/MP5-SD-Co-Processor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Facility Negative",
@@ -87,7 +119,11 @@
     "weapon_id": 19,
     "gen_id": 776,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/P90-FacilityNegative.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P250 | Exchanger",
@@ -97,7 +133,11 @@
     "weapon_id": 36,
     "gen_id": 786,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/P250-Exchanger.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Galil AR | Cold Fusion",
@@ -107,7 +147,11 @@
     "weapon_id": 13,
     "gen_id": 790,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/GalilAR-ColdFusion.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M4A4 | Mainframe",
@@ -117,7 +161,11 @@
     "weapon_id": 16,
     "gen_id": 780,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/M4A4-Mainframe.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Negev | Bulkhead",
@@ -127,7 +175,11 @@
     "weapon_id": 28,
     "gen_id": 783,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/Negev-Bulkhead.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP7 | Motherboard",
@@ -137,7 +189,11 @@
     "weapon_id": 33,
     "gen_id": 782,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/MP7-Motherboard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "PP-Bizon | Facility Sketch",
@@ -147,7 +203,11 @@
     "weapon_id": 26,
     "gen_id": 775,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/PP-Bizon-FacilitySketch.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Five-SeveN | Coolant",
@@ -157,7 +217,11 @@
     "weapon_id": 3,
     "gen_id": 784,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/Five-SeveN-Coolant.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "P250 | Facility Draft",
@@ -167,7 +231,11 @@
     "weapon_id": 36,
     "gen_id": 777,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/P250-FacilityDraft.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Nova | Mandrel",
@@ -177,7 +245,11 @@
     "weapon_id": 35,
     "gen_id": 785,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/Nova-Mandrel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "UMP-45 | Facility Dark",
@@ -187,7 +259,10 @@
     "weapon_id": 24,
     "gen_id": 778,
     "collection": "The 2018 Nuke Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2018NukeCollection/UMP-45-FacilityDark.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

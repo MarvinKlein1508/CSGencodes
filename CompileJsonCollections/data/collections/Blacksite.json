@@ -7,6 +7,10 @@
     "weapon_id": 23,
     "gen_id": 800,
     "collection": "The Blacksite Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheBlacksiteCollection/MP5-SD-LabRats.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   }
 ]

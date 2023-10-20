@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 801,
     "collection": "Danger Zone Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/AK-47-Asiimov.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AWP | Neo-Noir",
@@ -17,7 +21,11 @@
     "weapon_id": 9,
     "gen_id": 803,
     "collection": "Danger Zone Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/AWP-Neo-Noir.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Desert Eagle | Mecha Industries",
@@ -27,7 +35,11 @@
     "weapon_id": 1,
     "gen_id": 805,
     "collection": "Danger Zone Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/DesertEagle-MechaIndustries.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MP5-SD | Phosphor",
@@ -37,7 +49,11 @@
     "weapon_id": 23,
     "gen_id": 810,
     "collection": "Danger Zone Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/MP5-SD-Phosphor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "UMP-45 | Momentum",
@@ -47,7 +63,11 @@
     "weapon_id": 24,
     "gen_id": 802,
     "collection": "Danger Zone Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/UMP-45-Momentum.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "USP-S | Flashback",
@@ -57,7 +77,11 @@
     "weapon_id": 61,
     "gen_id": 817,
     "collection": "Danger Zone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/USP-S-Flashback.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Nevermore",
@@ -67,7 +91,11 @@
     "weapon_id": 36,
     "gen_id": 813,
     "collection": "Danger Zone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/P250-Nevermore.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Signal",
@@ -77,7 +105,11 @@
     "weapon_id": 13,
     "gen_id": 807,
     "collection": "Danger Zone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/GalilAR-Signal.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Pipe Down",
@@ -87,7 +119,11 @@
     "weapon_id": 17,
     "gen_id": 812,
     "collection": "Danger Zone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/MAC-10-PipeDown.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "G3SG1 | Scavenger",
@@ -97,7 +133,11 @@
     "weapon_id": 11,
     "gen_id": 806,
     "collection": "Danger Zone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/G3SG1-Scavenger.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 4
   },
   {
     "name": "M4A4 | Magnesium",
@@ -107,7 +147,11 @@
     "weapon_id": 16,
     "gen_id": 811,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/M4A4-Magnesium.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Fubar",
@@ -117,7 +161,11 @@
     "weapon_id": 30,
     "gen_id": 816,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/Tec-9-Fubar.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Glock-18 | Oxide Blaze",
@@ -127,7 +175,11 @@
     "weapon_id": 4,
     "gen_id": 808,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/Glock-18-OxideBlaze.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Modest Threat",
@@ -137,7 +189,11 @@
     "weapon_id": 34,
     "gen_id": 804,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/MP9-ModestThreat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Nova | Wood Fired",
@@ -147,7 +203,11 @@
     "weapon_id": 35,
     "gen_id": 809,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/Nova-WoodFired.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Danger Close",
@@ -157,7 +217,11 @@
     "weapon_id": 39,
     "gen_id": 815,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/SG553-DangerClose.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Sawed-Off | Black Sand",
@@ -167,7 +231,10 @@
     "weapon_id": 29,
     "gen_id": 814,
     "collection": "Danger Zone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DangerZoneCollection/Sawed-Off-BlackSand.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-  
 ]

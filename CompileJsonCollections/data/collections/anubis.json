@@ -7,7 +7,11 @@
     "weapon_id": 16,
     "gen_id": 1255,
     "collection": "Anubis Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/AnubisCollection/M4A4-EyeofHorus.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "FAMAS | Waters of Nephthys",
@@ -17,7 +21,11 @@
     "weapon_id": 10,
     "gen_id": 1241,
     "collection": "Anubis Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/AnubisCollection/FAMAS-WatersofNephthys.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P250 | Apep's Curse",
@@ -27,7 +35,11 @@
     "weapon_id": 36,
     "gen_id": 1241,
     "collection": "Anubis Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/AnubisCollection/P250-ApepsCurse.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Glock-18 | Ramese's Reach",
@@ -37,7 +49,11 @@
     "weapon_id": 4,
     "gen_id": 1240,
     "collection": "Anubis Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/AnubisCollection/Glock-18-RamesesReach.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P90 | ScaraB Rush",
@@ -47,7 +63,11 @@
     "weapon_id": 19,
     "gen_id": 1250,
     "collection": "Anubis Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/AnubisCollection/P90-ScaraBRush.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Nova | Sobek's Bite",
@@ -57,7 +77,11 @@
     "weapon_id": 35,
     "gen_id": 1247,
     "collection": "Anubis Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/AnubisCollection/Nova-SobeksBite.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AWP | Black Nile",
@@ -67,7 +91,11 @@
     "weapon_id": 9,
     "gen_id": 1239,
     "collection": "Anubis Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/AnubisCollection/AWP-BlackNile.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AK-47 | Steel Delta",
@@ -77,7 +105,11 @@
     "weapon_id": 7,
     "gen_id": 1238,
     "collection": "Anubis Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/AnubisCollection/AK-47-SteelDelta.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAG-7 | Copper Coated",
@@ -87,7 +119,11 @@
     "weapon_id": 27,
     "gen_id": 1245,
     "collection": "Anubis Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/AnubisCollection/MAG-7-CopperCoated.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Mummy's Rot",
@@ -97,7 +133,11 @@
     "weapon_id": 30,
     "gen_id": 1252,
     "collection": "Anubis Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/AnubisCollection/Tec-9-MummysRot.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "USP-S | Desert Tactical",
@@ -107,7 +147,11 @@
     "weapon_id": 61,
     "gen_id": 1253,
     "collection": "Anubis Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/AnubisCollection/USP-S-DesertTactical.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M4A1-S | Mud-Spec",
@@ -117,7 +161,11 @@
     "weapon_id": 60,
     "gen_id": 1243,
     "collection": "Anubis Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/AnubisCollection/M4A1-S-Mud-Spec.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MAC-10 | Echoing Sands",
@@ -127,7 +175,11 @@
     "weapon_id": 17,
     "gen_id": 1244,
     "collection": "Anubis Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/AnubisCollection/MAC-10-EchoingSands.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "SSG 08 | Azure Glyph",
@@ -137,7 +189,11 @@
     "weapon_id": 40,
     "gen_id": 1251,
     "collection": "Anubis Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/AnubisCollection/SSG08-AzureGlyph.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP7 | Sunbaked",
@@ -147,7 +203,11 @@
     "weapon_id": 33,
     "gen_id": 1246,
     "collection": "Anubis Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/AnubisCollection/MP7-Sunbaked.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "R8 Revolver | Inlay",
@@ -157,7 +217,11 @@
     "weapon_id": 64,
     "gen_id": 1237,
     "collection": "Anubis Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/AnubisCollection/R8Revolver-Inlay.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 1
   },
   {
     "name": "XM1014 | Hieroglyph",
@@ -167,7 +231,11 @@
     "weapon_id": 25,
     "gen_id": 1254,
     "collection": "Anubis Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/AnubisCollection/XM1014-Hieroglyph.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "AUG | Snake Pit",
@@ -177,7 +245,11 @@
     "weapon_id": 8,
     "gen_id": 1249,
     "collection": "Anubis Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/AnubisCollection/AUG-SnakePit.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "M249 | Submerged",
@@ -187,6 +259,10 @@
     "weapon_id": 14,
     "gen_id": 1242,
     "collection": "Anubis Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/AnubisCollection/M249-Submerged.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
 ]

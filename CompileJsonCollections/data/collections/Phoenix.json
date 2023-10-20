@@ -7,7 +7,11 @@
     "weapon_id": 9,
     "gen_id": 279,
     "collection": "Phoenix Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/AWP-Asiimov.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AUG | Chameleon",
@@ -17,7 +21,11 @@
     "weapon_id": 8,
     "gen_id": 280,
     "collection": "Phoenix Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/AUG-Chameleon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Redline",
@@ -27,7 +35,11 @@
     "weapon_id": 7,
     "gen_id": 282,
     "collection": "Phoenix Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/AK-47-Redline.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Nova | Antique",
@@ -37,7 +49,11 @@
     "weapon_id": 35,
     "gen_id": 286,
     "collection": "Phoenix Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/Nova-Antique.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P90 | Trigon",
@@ -47,7 +63,11 @@
     "weapon_id": 19,
     "gen_id": 283,
     "collection": "Phoenix Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/P90-Trigon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "USP-S | Guardian",
@@ -57,7 +77,11 @@
     "weapon_id": 61,
     "gen_id": 290,
     "collection": "Phoenix Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/USP-S-Guardian.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Heat",
@@ -67,7 +91,11 @@
     "weapon_id": 17,
     "gen_id": 284,
     "collection": "Phoenix Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/MAC-10-Heat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SG 553 | Pulse",
@@ -77,7 +105,11 @@
     "weapon_id": 39,
     "gen_id": 287,
     "collection": "Phoenix Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/SG553-Pulse.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "FAMAS | Sergeant",
@@ -87,7 +119,11 @@
     "weapon_id": 10,
     "gen_id": 288,
     "collection": "Phoenix Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/FAMAS-Sergeant.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Tec-9 | Sandstorm",
@@ -97,7 +133,11 @@
     "weapon_id": 30,
     "gen_id": 289,
     "collection": "Phoenix Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/Tec-9-Sandstorm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "UMP-45 | Corporal",
@@ -107,7 +147,11 @@
     "weapon_id": 24,
     "gen_id": 281,
     "collection": "Phoenix Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/UMP-45-Corporal.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAG-7 | Heaven Guard",
@@ -117,7 +161,11 @@
     "weapon_id": 27,
     "gen_id": 291,
     "collection": "Phoenix Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/MAG-7-HeavenGuard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Terrain",
@@ -127,7 +175,10 @@
     "weapon_id": 28,
     "gen_id": 285,
     "collection": "Phoenix Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/PhoenixCollection/Negev-Terrain.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

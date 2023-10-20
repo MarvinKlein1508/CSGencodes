@@ -7,7 +7,11 @@
     "weapon_id": 516,
     "gen_id": 0,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggersVanilla.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 1)",
@@ -17,7 +21,11 @@
     "weapon_id": 516,
     "gen_id": 569,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-GammaDopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 2)",
@@ -27,7 +35,11 @@
     "weapon_id": 516,
     "gen_id": 570,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-GammaDopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 3)",
@@ -37,7 +49,11 @@
     "weapon_id": 516,
     "gen_id": 571,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-GammaDopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 4)",
@@ -47,7 +63,11 @@
     "weapon_id": 516,
     "gen_id": 572,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-GammaDopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Emerald)",
@@ -57,7 +77,11 @@
     "weapon_id": 516,
     "gen_id": 568,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-GammaDopplerEmerald.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Lore",
@@ -67,7 +91,11 @@
     "weapon_id": 516,
     "gen_id": 1108,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Lore.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Autotronic",
@@ -77,7 +105,11 @@
     "weapon_id": 516,
     "gen_id": 573,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Autotronic.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Black Laminate",
@@ -87,7 +119,11 @@
     "weapon_id": 516,
     "gen_id": 563,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-BlackLaminate.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Freehand",
@@ -97,7 +133,11 @@
     "weapon_id": 516,
     "gen_id": 580,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Freehand.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Bright Water",
@@ -107,7 +147,11 @@
     "weapon_id": 516,
     "gen_id": 578,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-BrightWater.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Marble Fade",
@@ -117,7 +161,11 @@
     "weapon_id": 516,
     "gen_id": 413,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-MarbleFade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Tiger Tooth",
@@ -127,7 +175,11 @@
     "weapon_id": 516,
     "gen_id": 409,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-TigerTooth.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 1)",
@@ -137,7 +189,11 @@
     "weapon_id": 516,
     "gen_id": 418,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 2)",
@@ -147,7 +203,11 @@
     "weapon_id": 516,
     "gen_id": 419,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 3)",
@@ -157,7 +217,11 @@
     "weapon_id": 516,
     "gen_id": 420,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 4)",
@@ -167,7 +231,11 @@
     "weapon_id": 516,
     "gen_id": 421,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Ruby)",
@@ -177,7 +245,11 @@
     "weapon_id": 516,
     "gen_id": 415,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerRuby.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Saphire)",
@@ -187,7 +259,11 @@
     "weapon_id": 516,
     "gen_id": 416,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerSaphire.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Black Pearl)",
@@ -197,7 +273,11 @@
     "weapon_id": 516,
     "gen_id": 417,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DopplerBlackPearl.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Damascus Steel",
@@ -207,7 +287,11 @@
     "weapon_id": 516,
     "gen_id": 410,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-DamascusSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Ultraviolet",
@@ -217,7 +301,11 @@
     "weapon_id": 516,
     "gen_id": 98,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Ultraviolet.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Rust Coat",
@@ -227,7 +315,11 @@
     "weapon_id": 516,
     "gen_id": 414,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-RustCoat.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Fade",
@@ -237,7 +329,11 @@
     "weapon_id": 516,
     "gen_id": 38,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Fade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Slaughter",
@@ -247,7 +343,11 @@
     "weapon_id": 516,
     "gen_id": 59,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Slaughter.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Case Hardened",
@@ -257,7 +357,11 @@
     "weapon_id": 516,
     "gen_id": 44,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-CaseHardened.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Blue Steel",
@@ -267,7 +371,11 @@
     "weapon_id": 516,
     "gen_id": 42,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-BlueSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Stained",
@@ -277,7 +385,11 @@
     "weapon_id": 516,
     "gen_id": 43,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Stained.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Crimson Web",
@@ -287,7 +399,11 @@
     "weapon_id": 516,
     "gen_id": 12,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-CrimsonWeb.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Boreal Forest",
@@ -297,7 +413,11 @@
     "weapon_id": 516,
     "gen_id": 77,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-BorealForest.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Night",
@@ -307,7 +427,11 @@
     "weapon_id": 516,
     "gen_id": 40,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Night.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Safari Mesh",
@@ -317,7 +441,11 @@
     "weapon_id": 516,
     "gen_id": 72,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-SafariMesh.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Urban Masked",
@@ -327,7 +455,11 @@
     "weapon_id": 516,
     "gen_id": 143,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-UrbanMasked.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Forest DDPAT",
@@ -337,7 +469,11 @@
     "weapon_id": 516,
     "gen_id": 5,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-ForestDDPAT.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Scorched",
@@ -347,6 +483,10 @@
     "weapon_id": 516,
     "gen_id": 5,
     "collection": "Shadow Daggers",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShadowDaggers/ShadowDaggers-Scorched.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   }
 ]

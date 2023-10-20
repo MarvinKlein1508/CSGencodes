@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 984,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/M4A1-S-Printstream.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Glock-18 | Neo-Noir",
@@ -17,7 +21,11 @@
     "weapon_id": 4,
     "gen_id": 988,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/Glock-18-Neo-Noir.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A4 | Cyber Security",
@@ -27,7 +35,11 @@
     "weapon_id": 16,
     "gen_id": 985,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/M4A4-CyberSecurity.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Five-SeveN | Fairy Tale",
@@ -37,7 +49,11 @@
     "weapon_id": 3,
     "gen_id": 979,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/Five-SeveN-FairyTale.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "USP-S | Monster Mashup",
@@ -47,7 +63,11 @@
     "weapon_id": 61,
     "gen_id": 991,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/USP-S-MonsterMashup.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | Exoskeleton",
@@ -57,7 +77,11 @@
     "weapon_id": 9,
     "gen_id": 975,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/AWP-Exoskeleton.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SSG 08 | Parallax",
@@ -67,7 +91,11 @@
     "weapon_id": 40,
     "gen_id": 989,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/SSG08-Parallax.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Nova | Clear Polymer",
@@ -77,7 +105,11 @@
     "weapon_id": 35,
     "gen_id": 987,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/Nova-ClearPolymer.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "UMP-45 | Gold Bismuth",
@@ -87,7 +119,11 @@
     "weapon_id": 24,
     "gen_id": 990,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/UMP-45-GoldBismuth.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Dual Berettas | Dezastre",
@@ -97,7 +133,11 @@
     "weapon_id": 2,
     "gen_id": 978,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/DualBerettas-Dezastre.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Vandal",
@@ -107,7 +147,11 @@
     "weapon_id": 13,
     "gen_id": 981,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/GalilAR-Vandal.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P250 | Contaminant",
@@ -117,7 +161,11 @@
     "weapon_id": 36,
     "gen_id": 982,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/P250-Contaminant.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Vendetta",
@@ -127,7 +175,11 @@
     "weapon_id": 63,
     "gen_id": 976,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/CZ75-Auto-Vendetta.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP5-SD | Condition Zero",
@@ -137,7 +189,11 @@
     "weapon_id": 23,
     "gen_id": 986,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/MP5-SD-ConditionZero.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | Deep Relief",
@@ -147,7 +203,11 @@
     "weapon_id": 14,
     "gen_id": 983,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/M249-DeepRelief.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | Digital Mesh",
@@ -157,7 +217,11 @@
     "weapon_id": 11,
     "gen_id": 980,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/G3SG1-DigitalMesh.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "P90 | Cocoa Rampage",
@@ -167,7 +231,10 @@
     "weapon_id": 19,
     "gen_id": 977,
     "collection": "Operation Broken Fang Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationBrokenFangCollection/P90-CocoaRampage.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

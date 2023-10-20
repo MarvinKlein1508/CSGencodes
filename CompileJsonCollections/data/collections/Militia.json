@@ -7,7 +7,11 @@
     "weapon_id": 38,
     "gen_id": 165,
     "collection": "The Militia Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/SCAR-20-SplashJam.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A4 | Modern Hunter",
@@ -17,7 +21,11 @@
     "weapon_id": 16,
     "gen_id": 164,
     "collection": "The Militia Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/M4A4-ModernHunter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Nova | Blaze Orange",
@@ -27,7 +35,11 @@
     "weapon_id": 35,
     "gen_id": 166,
     "collection": "The Militia Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/Nova-BlazeOrange.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Modern Hunter",
@@ -37,7 +49,11 @@
     "weapon_id": 26,
     "gen_id": 164,
     "collection": "The Militia Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/PP-Bizon-ModernHunter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P250 | Modern Hunter",
@@ -47,7 +63,11 @@
     "weapon_id": 36,
     "gen_id": 164,
     "collection": "The Militia Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/P250-ModernHunter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "XM1014 | Blaze Orange",
@@ -57,7 +77,11 @@
     "weapon_id": 25,
     "gen_id": 166,
     "collection": "The Militia Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/XM1014-BlazeOrange.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Nova | Modern Hunter",
@@ -67,7 +91,11 @@
     "weapon_id": 35,
     "gen_id": 164,
     "collection": "The Militia Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/Nova-ModernHunter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Grassland Leaves",
@@ -77,7 +105,11 @@
     "weapon_id": 32,
     "gen_id": 104,
     "collection": "The Militia Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/P2000-GrasslandLeaves.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "XM1014 | Grassland",
@@ -87,7 +119,11 @@
     "weapon_id": 25,
     "gen_id": 95,
     "collection": "The Militia Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/XM1014-Grassland.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAC-10 | Tornado",
@@ -97,7 +133,11 @@
     "weapon_id": 17,
     "gen_id": 101,
     "collection": "The Militia Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/MAC-10-Tornado.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "PP-Bizon | Forest Leaves",
@@ -107,7 +147,10 @@
     "weapon_id": 26,
     "gen_id": 25,
     "collection": "The Militia Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheMilitiaCollection/PP-Bizon-ForestLeaves.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

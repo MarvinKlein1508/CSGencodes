@@ -7,7 +7,11 @@
     "weapon_id": 2,
     "gen_id": 153,
     "collection": "The Vertigo Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheVertigoCollection/DualBerettas-Demolition.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AK-47 | Black Laminate",
@@ -17,7 +21,11 @@
     "weapon_id": 7,
     "gen_id": 172,
     "collection": "The Vertigo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheVertigoCollection/AK-47-BlackLaminate.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Glacier Mesh",
@@ -27,7 +35,11 @@
     "weapon_id": 19,
     "gen_id": 111,
     "collection": "The Vertigo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheVertigoCollection/P90-GlacierMesh.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Carbon Fiber",
@@ -37,7 +49,11 @@
     "weapon_id": 26,
     "gen_id": 70,
     "collection": "The Vertigo Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheVertigoCollection/PP-Bizon-CarbonFiber.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "XM1014 | Urban Perforated",
@@ -47,7 +63,11 @@
     "weapon_id": 25,
     "gen_id": 135,
     "collection": "The Vertigo Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheVertigoCollection/XM1014-UrbanPerforated.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAC-10 | Urban DDPAT",
@@ -57,6 +77,10 @@
     "weapon_id": 17,
     "gen_id": 17,
     "collection": "The Vertigo Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheVertigoCollection/MAC-10-UrbanDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
 ]

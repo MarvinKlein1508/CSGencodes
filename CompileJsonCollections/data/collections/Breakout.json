@@ -7,7 +7,11 @@
     "weapon_id": 19,
     "gen_id": 359,
     "collection": "Breakout Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/P90-Asiimov.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A1-S | Cyrex",
@@ -17,7 +21,11 @@
     "weapon_id": 60,
     "gen_id": 360,
     "collection": "Breakout Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/M4A1-S-Cyrex.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Glock-18 | Water Elemental",
@@ -27,7 +35,11 @@
     "weapon_id": 4,
     "gen_id": 353,
     "collection": "Breakout Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/Glock-18-WaterElemental.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Desert Eagle | Conspiracy",
@@ -37,7 +49,11 @@
     "weapon_id": 1,
     "gen_id": 351,
     "collection": "Breakout Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/DesertEagle-Conspiracy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Five-SeveN | Fowl Play",
@@ -47,7 +63,11 @@
     "weapon_id": 3,
     "gen_id": 352,
     "collection": "Breakout Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/Five-SeveN-FowlPlay.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Nova | Koi",
@@ -57,7 +77,11 @@
     "weapon_id": 35,
     "gen_id": 356,
     "collection": "Breakout Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/Nova-Koi.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Supernova",
@@ -67,7 +91,11 @@
     "weapon_id": 36,
     "gen_id": 358,
     "collection": "Breakout Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/P250-Supernova.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Tigris",
@@ -77,7 +105,11 @@
     "weapon_id": 63,
     "gen_id": 350,
     "collection": "Breakout Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/CZ75-Auto-Tigris.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "PP-Bizon | Osiris",
@@ -87,7 +119,11 @@
     "weapon_id": 26,
     "gen_id": 349,
     "collection": "Breakout Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/PP-Bizon-Osiris.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SSG 08 | Abyss",
@@ -97,7 +133,11 @@
     "weapon_id": 40,
     "gen_id": 361,
     "collection": "Breakout Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/SSG08-Abyss.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Ivory",
@@ -107,7 +147,11 @@
     "weapon_id": 32,
     "gen_id": 357,
     "collection": "Breakout Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/P2000-Ivory.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "UMP-45 | Labyrinth",
@@ -117,7 +161,11 @@
     "weapon_id": 24,
     "gen_id": 362,
     "collection": "Breakout Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/UMP-45-Labyrinth.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP7 | Urban Hazard",
@@ -127,7 +175,11 @@
     "weapon_id": 33,
     "gen_id": 354,
     "collection": "Breakout Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/MP7-UrbanHazard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Desert-Strike",
@@ -137,7 +189,10 @@
     "weapon_id": 28,
     "gen_id": 355,
     "collection": "Breakout Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BreakoutCollection/Negev-Desert-Strike.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

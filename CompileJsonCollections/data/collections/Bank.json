@@ -7,7 +7,11 @@
     "weapon_id": 36,
     "gen_id": 295,
     "collection": "The Bank Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheBankCollection/P250-Franklin.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AK-47 | Emerald Pinstripe",
@@ -17,7 +21,11 @@
     "weapon_id": 7,
     "gen_id": 300,
     "collection": "The Bank Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheBankCollection/AK-47-EmeraldPinstripe.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Desert Eagle | Meteorite",
@@ -27,7 +35,11 @@
     "weapon_id": 1,
     "gen_id": 296,
     "collection": "The Bank Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheBankCollection/DesertEagle-Meteorite.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Galil AR | Tuxedo",
@@ -37,7 +49,11 @@
     "weapon_id": 13,
     "gen_id": 297,
     "collection": "The Bank Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheBankCollection/GalilAR-Tuxedo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Tuxedo",
@@ -47,7 +63,11 @@
     "weapon_id": 63,
     "gen_id": 297,
     "collection": "The Bank Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheBankCollection/CZ75-Auto-Tuxedo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Silver",
@@ -57,7 +77,11 @@
     "weapon_id": 63,
     "gen_id": 32,
     "collection": "The Bank Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheBankCollection/CZ75-Auto-Silver.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Silver",
@@ -67,7 +91,11 @@
     "weapon_id": 17,
     "gen_id": 32,
     "collection": "The Bank Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheBankCollection/MAC-10-Silver.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "UMP-45 | Carbon Fiber",
@@ -77,7 +105,11 @@
     "weapon_id": 24,
     "gen_id": 70,
     "collection": "The Bank Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheBankCollection/UMP-45-CarbonFiber.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Nova | Caged Steel",
@@ -87,7 +119,11 @@
     "weapon_id": 35,
     "gen_id": 299,
     "collection": "The Bank Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheBankCollection/Nova-CagedSteel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "G3SG1 | Green Apple",
@@ -97,7 +133,11 @@
     "weapon_id": 11,
     "gen_id": 294,
     "collection": "The Bank Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheBankCollection/G3SG1-GreenApple.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 2
   },
   {
     "name": "Glock-18 | Death Rattle",
@@ -107,7 +147,11 @@
     "weapon_id": 4,
     "gen_id": 293,
     "collection": "The Bank Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheBankCollection/Glock-18-DeathRattle.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "R8 Revolver | Bone Mask",
@@ -117,7 +161,11 @@
     "weapon_id": 64,
     "gen_id": 27,
     "collection": "The Bank Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheBankCollection/R8Revolver-BoneMask.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 1
   },
   {
     "name": "Tec-9 | Urban DDPAT",
@@ -127,7 +175,11 @@
     "weapon_id": 30,
     "gen_id": 17,
     "collection": "The Bank Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheBankCollection/Tec-9-UrbanDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Sawed-Off | Forest DDPAT",
@@ -137,7 +189,11 @@
     "weapon_id": 29,
     "gen_id": 5,
     "collection": "The Bank Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheBankCollection/Sawed-Off-ForestDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MP7 | Forest DDPAT",
@@ -147,7 +203,11 @@
     "weapon_id": 33,
     "gen_id": 5,
     "collection": "The Bank Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheBankCollection/MP7-ForestDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SG 553 | Army Sheen",
@@ -157,7 +217,11 @@
     "weapon_id": 39,
     "gen_id": 298,
     "collection": "The Bank Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheBankCollection/SG553-ArmySheen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Negev | Army Sheen",
@@ -167,7 +231,10 @@
     "weapon_id": 28,
     "gen_id": 298,
     "collection": "The Bank Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheBankCollection/Negev-ArmySheen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

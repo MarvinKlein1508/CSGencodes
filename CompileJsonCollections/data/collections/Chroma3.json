@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 548,
     "collection": "Chroma 3 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/M4A1-S-ChanticosFire.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "PP-Bizon | Judgement of Anubis",
@@ -17,7 +21,11 @@
     "weapon_id": 26,
     "gen_id": 542,
     "collection": "Chroma 3 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/PP-Bizon-JudgementofAnubis.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "P250 | Asiimov",
@@ -27,7 +35,11 @@
     "weapon_id": 36,
     "gen_id": 551,
     "collection": "Chroma 3 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/P250-Asiimov.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "UMP-45 | Primal Saber",
@@ -37,7 +49,11 @@
     "weapon_id": 24,
     "gen_id": 556,
     "collection": "Chroma 3 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/UMP-45-PrimalSaber.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AUG | Fleet Flock",
@@ -47,7 +63,11 @@
     "weapon_id": 8,
     "gen_id": 541,
     "collection": "Chroma 3 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/AUG-FleetFlock.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SSG 08 | Ghost Crusader",
@@ -57,7 +77,11 @@
     "weapon_id": 40,
     "gen_id": 554,
     "collection": "Chroma 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/SSG08-GhostCrusader.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "XM1014 | Black Tie",
@@ -67,7 +91,11 @@
     "weapon_id": 25,
     "gen_id": 557,
     "collection": "Chroma 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/XM1014-BlackTie.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Tec-9 | Re-Entry",
@@ -77,7 +105,11 @@
     "weapon_id": 30,
     "gen_id": 555,
     "collection": "Chroma 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/Tec-9-Re-Entry.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Firefight",
@@ -87,7 +119,11 @@
     "weapon_id": 13,
     "gen_id": 546,
     "collection": "Chroma 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/GalilAR-Firefight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Red Astor",
@@ -97,7 +133,11 @@
     "weapon_id": 63,
     "gen_id": 543,
     "collection": "Chroma 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/CZ75-Auto-RedAstor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP9 | Bioleak",
@@ -107,7 +147,11 @@
     "weapon_id": 34,
     "gen_id": 549,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/MP9-Bioleak.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Ventilators",
@@ -117,7 +161,11 @@
     "weapon_id": 2,
     "gen_id": 544,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/DualBerettas-Ventilators.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Oceanic",
@@ -127,7 +175,11 @@
     "weapon_id": 32,
     "gen_id": 550,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/P2000-Oceanic.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | Spectre",
@@ -137,7 +189,11 @@
     "weapon_id": 14,
     "gen_id": 547,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/M249-Spectre.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Atlas",
@@ -147,7 +203,11 @@
     "weapon_id": 39,
     "gen_id": 553,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/SG553-Atlas.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | Orange Crash",
@@ -157,7 +217,11 @@
     "weapon_id": 11,
     "gen_id": 545,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/G3SG1-OrangeCrash.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "Sawed-Off | Fubar",
@@ -167,7 +231,10 @@
     "weapon_id": 29,
     "gen_id": 552,
     "collection": "Chroma 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma3Collection/Sawed-Off-Fubar.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-  
 ]

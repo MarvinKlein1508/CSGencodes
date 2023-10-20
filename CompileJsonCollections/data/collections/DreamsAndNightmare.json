@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 1141,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/AK-47-Nightwish.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "MP9 | Starlight Protector",
@@ -17,7 +21,11 @@
     "weapon_id": 34,
     "gen_id": 1134,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/MP9-StarlightProtector.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "FAMAS | Rapid Eye Movement",
@@ -27,7 +35,11 @@
     "weapon_id": 10,
     "gen_id": 1127,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/FAMAS-RapidEyeMovement.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Dual Berettas | Melondrama",
@@ -37,7 +49,11 @@
     "weapon_id": 2,
     "gen_id": 1126,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/DualBerettas-Melondrama.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MP7 | Abyssal Apparition",
@@ -47,7 +63,11 @@
     "weapon_id": 33,
     "gen_id": 1133,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/MP7-AbyssalApparition.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A1-S | Night Terror",
@@ -57,7 +77,11 @@
     "weapon_id": 60,
     "gen_id": 1130,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/M4A1-S-NightTerror.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Ticket to Hell",
@@ -67,7 +91,11 @@
     "weapon_id": 61,
     "gen_id": 1136,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/USP-S-TickettoHell.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "PP-Bizon | Space Cat",
@@ -77,7 +105,11 @@
     "weapon_id": 26,
     "gen_id": 1125,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/PP-Bizon-SpaceCat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "G3SG1 | Dream Glade",
@@ -87,7 +119,11 @@
     "weapon_id": 11,
     "gen_id": 1129,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/G3SG1-DreamGlade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 4
   },
   {
     "name": "XM1014 | Zombie Offensive",
@@ -97,7 +133,11 @@
     "weapon_id": 25,
     "gen_id": 1135,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/XM1014-ZombieOffensive.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Ensnared",
@@ -107,7 +147,11 @@
     "weapon_id": 17,
     "gen_id": 1131,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/MAC-10-Ensnared.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Five-SeveN | Scrawl",
@@ -117,7 +161,11 @@
     "weapon_id": 3,
     "gen_id": 1128,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/Five-SeveN-Scrawl.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP5-SD | Necro Jr.",
@@ -127,7 +175,11 @@
     "weapon_id": 23,
     "gen_id": 1137,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/MP5-SD-NecroJr.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Lifted Spirits",
@@ -137,7 +189,11 @@
     "weapon_id": 32,
     "gen_id": 1138,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/P2000-LiftedSpirits.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Sawed-Off | Spirit Board",
@@ -147,7 +203,11 @@
     "weapon_id": 29,
     "gen_id": 1140,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/Sawed-Off-SpiritBoard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAG-7 | Foresight",
@@ -157,7 +217,11 @@
     "weapon_id": 27,
     "gen_id": 1132,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/MAG-7-Foresight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SCAR-20 | Poultrygeist",
@@ -167,7 +231,10 @@
     "weapon_id": 38,
     "gen_id": 1139,
     "collection": "Dreams & Nightmares Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/DreamsNightmaresCollection/SCAR-20-Poultrygeist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

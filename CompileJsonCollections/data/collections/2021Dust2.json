@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 921,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/AK-47-GoldArabesque.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "SSG 08 | Death Strike",
@@ -17,7 +21,11 @@
     "weapon_id": 40,
     "gen_id": 1052,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/SSG08-DeathStrike.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "UMP-45 | Fade",
@@ -27,7 +35,11 @@
     "weapon_id": 24,
     "gen_id": 879,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/UMP-45-Fade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAC-10 | Case Hardened",
@@ -37,7 +49,11 @@
     "weapon_id": 17,
     "gen_id": 44,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/MAC-10-CaseHardened.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Orange Anolis",
@@ -47,7 +63,11 @@
     "weapon_id": 61,
     "gen_id": 922,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/USP-S-OrangeAnolis.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M4A4 | Red DDPAT",
@@ -57,7 +77,11 @@
     "weapon_id": 16,
     "gen_id": 928,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/M4A4-RedDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Black & Tan",
@@ -67,7 +91,11 @@
     "weapon_id": 61,
     "gen_id": 818,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/P250-BlackTan.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Galil AR | Amber Fade",
@@ -77,7 +105,11 @@
     "weapon_id": 13,
     "gen_id": 246,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/GalilAR-AmberFade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | New Roots",
@@ -87,7 +119,11 @@
     "weapon_id": 11,
     "gen_id": 930,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/G3SG1-NewRoots.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "Nova | Quick Sand",
@@ -97,7 +133,11 @@
     "weapon_id": 35,
     "gen_id": 929,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/Nova-QuickSand.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Old Roots",
@@ -107,7 +147,11 @@
     "weapon_id": 34,
     "gen_id": 931,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/MP9-OldRoots.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M249 | Midnight Palm",
@@ -117,7 +161,11 @@
     "weapon_id": 14,
     "gen_id": 933,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/M249-MidnightPalm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "AUG | Spalted Wood",
@@ -127,7 +175,11 @@
     "weapon_id": 8,
     "gen_id": 927,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/AUG-SpaltedWood.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Five-SeveN | Withered Vine",
@@ -137,7 +189,11 @@
     "weapon_id": 3,
     "gen_id": 932,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/Five-SeveN-WitheredVine.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Sawed-Off | Parched",
@@ -147,7 +203,11 @@
     "weapon_id": 29,
     "gen_id": 880,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/Sawed-Off-Parched.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "R8 Revolver | Desert Brush",
@@ -157,7 +217,11 @@
     "weapon_id": 63,
     "gen_id": 924,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/R8Revolver-DesertBrush.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "P90 | Desert DDPAT",
@@ -167,7 +231,11 @@
     "weapon_id": 19,
     "gen_id": 925,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/P90-DesertDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MP7 | Prey",
@@ -177,7 +245,11 @@
     "weapon_id": 33,
     "gen_id": 935,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/MP7-Prey.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SG 553 | Bleached",
@@ -187,7 +259,10 @@
     "weapon_id": 39,
     "gen_id": 934,
     "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021Dust2Collection/SG553-Bleached.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

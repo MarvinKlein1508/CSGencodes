@@ -7,7 +7,11 @@
     "weapon_id": 507,
     "gen_id": 0,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/KarambitVanilla.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 1)",
@@ -17,7 +21,11 @@
     "weapon_id": 507,
     "gen_id": 569,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-GammaDopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 2)",
@@ -27,7 +35,11 @@
     "weapon_id": 507,
     "gen_id": 570,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-GammaDopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 3)",
@@ -37,7 +49,11 @@
     "weapon_id": 507,
     "gen_id": 571,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-GammaDopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 4)",
@@ -47,7 +63,11 @@
     "weapon_id": 507,
     "gen_id": 572,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-GammaDopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Emerald)",
@@ -57,7 +77,11 @@
     "weapon_id": 507,
     "gen_id": 568,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-GammaDopplerEmerald.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Lore",
@@ -67,7 +91,11 @@
     "weapon_id": 507,
     "gen_id": 561,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Lore.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Autotronic",
@@ -77,7 +105,11 @@
     "weapon_id": 507,
     "gen_id": 573,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Autotronic.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Black Laminate",
@@ -87,7 +119,11 @@
     "weapon_id": 507,
     "gen_id": 563,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-BlackLaminate.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Freehand",
@@ -97,7 +133,11 @@
     "weapon_id": 507,
     "gen_id": 580,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Freehand.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Bright Water",
@@ -107,7 +147,11 @@
     "weapon_id": 507,
     "gen_id": 578,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-BrightWater.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Marble Fade",
@@ -117,7 +161,11 @@
     "weapon_id": 507,
     "gen_id": 413,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-MarbleFade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Tiger Tooth",
@@ -127,7 +175,11 @@
     "weapon_id": 507,
     "gen_id": 409,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-TigerTooth.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 1)",
@@ -137,7 +189,11 @@
     "weapon_id": 507,
     "gen_id": 418,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 2)",
@@ -147,7 +203,11 @@
     "weapon_id": 507,
     "gen_id": 419,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 3)",
@@ -157,7 +217,11 @@
     "weapon_id": 507,
     "gen_id": 420,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 4)",
@@ -167,7 +231,11 @@
     "weapon_id": 507,
     "gen_id": 421,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Ruby)",
@@ -177,7 +245,11 @@
     "weapon_id": 507,
     "gen_id": 415,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerRuby.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Saphire)",
@@ -187,7 +259,11 @@
     "weapon_id": 507,
     "gen_id": 416,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerSaphire.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Black Pearl)",
@@ -197,7 +273,11 @@
     "weapon_id": 507,
     "gen_id": 417,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DopplerBlackPearl.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Damascus Steel",
@@ -207,7 +287,11 @@
     "weapon_id": 507,
     "gen_id": 410,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-DamascusSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Ultraviolet",
@@ -217,7 +301,11 @@
     "weapon_id": 507,
     "gen_id": 98,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Ultraviolet.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Rust Coat",
@@ -227,7 +315,11 @@
     "weapon_id": 507,
     "gen_id": 414,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-RustCoat.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Fade",
@@ -237,7 +329,11 @@
     "weapon_id": 507,
     "gen_id": 38,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Fade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Slaughter",
@@ -247,7 +343,11 @@
     "weapon_id": 507,
     "gen_id": 59,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Slaughter.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Case Hardened",
@@ -257,7 +357,11 @@
     "weapon_id": 507,
     "gen_id": 44,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-CaseHardened.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Blue Steel",
@@ -267,7 +371,11 @@
     "weapon_id": 507,
     "gen_id": 42,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-BlueSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Stained",
@@ -277,7 +385,11 @@
     "weapon_id": 507,
     "gen_id": 43,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Stained.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Crimson Web",
@@ -287,7 +399,11 @@
     "weapon_id": 507,
     "gen_id": 12,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-CrimsonWeb.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Boreal Forest",
@@ -297,7 +413,11 @@
     "weapon_id": 507,
     "gen_id": 77,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-BorealForest.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Night",
@@ -307,7 +427,11 @@
     "weapon_id": 507,
     "gen_id": 40,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Night.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Safari Mesh",
@@ -317,7 +441,11 @@
     "weapon_id": 507,
     "gen_id": 72,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-SafariMesh.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Urban Masked",
@@ -327,7 +455,11 @@
     "weapon_id": 507,
     "gen_id": 143,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-UrbanMasked.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Forest DDPAT",
@@ -337,7 +469,11 @@
     "weapon_id": 507,
     "gen_id": 5,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-ForestDDPAT.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Scorched",
@@ -347,6 +483,10 @@
     "weapon_id": 507,
     "gen_id": 5,
     "collection": "Karambit",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Karambit/Karambit-Scorched.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   }
 ]

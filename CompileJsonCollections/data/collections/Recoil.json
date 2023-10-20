@@ -7,7 +7,11 @@
     "weapon_id": 61,
     "gen_id": 1142,
     "collection": "Recoil Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/RecoilCollection/USP-S-Printstream.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AWP | Chromatic Aberration",
@@ -17,7 +21,11 @@
     "weapon_id": 9,
     "gen_id": 1144,
     "collection": "Recoil Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/RecoilCollection/AWP-ChromaticAberration.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Ice Coaled",
@@ -27,7 +35,11 @@
     "weapon_id": 7,
     "gen_id": 1143,
     "collection": "Recoil Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/RecoilCollection/AK-47-IceCoaled.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Sawed-Off | Kiss♥Love",
@@ -37,7 +49,11 @@
     "weapon_id": 29,
     "gen_id": 1155,
     "collection": "Recoil Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/RecoilCollection/Sawed-Off-KissLove.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P250 | Visions",
@@ -47,7 +63,11 @@
     "weapon_id": 36,
     "gen_id": 1153,
     "collection": "Recoil Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/RecoilCollection/P250-Visions.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "R8 Revolver | Crazy 8",
@@ -57,7 +77,11 @@
     "weapon_id": 64,
     "gen_id": 1145,
     "collection": "Recoil Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/RecoilCollection/R8Revolver-Crazy8.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 4
   },
   {
     "name": "Dual Berettas | Flora Carnivora",
@@ -67,7 +91,11 @@
     "weapon_id": 2,
     "gen_id": 1156,
     "collection": "Recoil Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/RecoilCollection/DualBerettas-FloraCarnivora.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SG 553 | Dragon Tech",
@@ -77,7 +105,11 @@
     "weapon_id": 39,
     "gen_id": 1151,
     "collection": "Recoil Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/RecoilCollection/SG553-DragonTech.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M249 | Downtown",
@@ -87,7 +119,11 @@
     "weapon_id": 14,
     "gen_id": 1148,
     "collection": "Recoil Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/RecoilCollection/M249-Downtown.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P90 | Vent Rush",
@@ -97,7 +133,11 @@
     "weapon_id": 19,
     "gen_id": 1154,
     "collection": "Recoil Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/RecoilCollection/P90-VentRush.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M4A4 | Poly Mag",
@@ -107,7 +147,11 @@
     "weapon_id": 16,
     "gen_id": 1149,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/M4A4-PolyMag.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Glock-18 | Winterized",
@@ -117,7 +161,11 @@
     "weapon_id": 4,
     "gen_id": 1158,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/Glock-18-Winterized.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "FAMAS | Meow 36",
@@ -127,7 +175,11 @@
     "weapon_id": 10,
     "gen_id": 1146,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/FAMAS-Meow36.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Galil AR | Destroyer",
@@ -137,7 +189,11 @@
     "weapon_id": 13,
     "gen_id": 1147,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/GalilAR-Destroyer.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "UMP-45 | Roadblock",
@@ -147,7 +203,11 @@
     "weapon_id": 24,
     "gen_id": 1157,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/UMP-45-Roadblock.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Drop Me",
@@ -157,7 +217,11 @@
     "weapon_id": 28,
     "gen_id": 1152,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/Negev-DropMe.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Monkeyflage",
@@ -167,7 +231,10 @@
     "weapon_id": 17,
     "gen_id": 1150,
     "collection": "Recoil Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/RecoilCollection/MAC-10-Monkeyflage.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

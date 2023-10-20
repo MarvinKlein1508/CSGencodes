@@ -7,7 +7,11 @@
     "weapon_id": 61,
     "gen_id": 1040,
     "collection": "Snakebite Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/USP-S-TheTraitor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A4 | In Living Color",
@@ -17,7 +21,11 @@
     "weapon_id": 16,
     "gen_id": 1041,
     "collection": "Snakebite Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/M4A4-InLivingColor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "MP9 | Food Chain",
@@ -27,7 +35,11 @@
     "weapon_id": 34,
     "gen_id": 1037,
     "collection": "Snakebite Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/MP9-FoodChain.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Galil AR | Chromatic Aberration",
@@ -37,7 +49,11 @@
     "weapon_id": 13,
     "gen_id": 1038,
     "collection": "Snakebite Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/GalilAR-ChromaticAberration.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "XM1014 | XOXO",
@@ -47,7 +63,11 @@
     "weapon_id": 25,
     "gen_id": 1046,
     "collection": "Snakebite Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/XM1014-XOXO.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AK-47 | Slate",
@@ -57,7 +77,11 @@
     "weapon_id": 7,
     "gen_id": 1035,
     "collection": "Snakebite Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/AK-47-Slate.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Desert Eagle | Trigger Discipline",
@@ -67,7 +91,11 @@
     "weapon_id": 1,
     "gen_id": 1050,
     "collection": "Snakebite Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/DesertEagle-TriggerDiscipline.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Cyber Shell",
@@ -77,7 +105,11 @@
     "weapon_id": 36,
     "gen_id": 1044,
     "collection": "Snakebite Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/P250-CyberShell.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Negev | dev_texture",
@@ -87,7 +119,11 @@
     "weapon_id": 28,
     "gen_id": 1043,
     "collection": "Snakebite Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/Negev-devtexture.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Button Masher",
@@ -97,7 +133,11 @@
     "weapon_id": 17,
     "gen_id": 1045,
     "collection": "Snakebite Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/MAC-10-ButtonMasher.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Clear Polymer",
@@ -107,7 +147,11 @@
     "weapon_id": 4,
     "gen_id": 1039,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/Glock-18-ClearPolymer.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Heavy Metal",
@@ -117,7 +161,11 @@
     "weapon_id": 39,
     "gen_id": 1048,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/SG553-HeavyMetal.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "R8 Revolver | Junk Yard",
@@ -127,7 +175,11 @@
     "weapon_id": 64,
     "gen_id": 1047,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/R8Revolver-JunkYard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Circaetus",
@@ -137,7 +189,11 @@
     "weapon_id": 63,
     "gen_id": 1036,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/CZ75-Auto-Circaetus.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Nova | Windblown",
@@ -147,7 +203,11 @@
     "weapon_id": 35,
     "gen_id": 1051,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/Nova-Windblown.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | O.S.I.P.R.",
@@ -157,7 +217,11 @@
     "weapon_id": 14,
     "gen_id": 1042,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/M249-OSIPR.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "UMP-45 | Oscillator",
@@ -167,7 +231,10 @@
     "weapon_id": 24,
     "gen_id": 1049,
     "collection": "Snakebite Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/SnakebiteCollection/UMP-45-Oscillator.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

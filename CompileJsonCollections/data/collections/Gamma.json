@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 587,
     "collection": "Gamma Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/GammaCollection/M4A1-S-MechaIndustries.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Glock-18 | Wasteland Rebel",
@@ -17,7 +21,11 @@
     "weapon_id": 4,
     "gen_id": 586,
     "collection": "Gamma Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/GammaCollection/Glock-18-WastelandRebel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A4 | Desolate Space",
@@ -27,7 +35,11 @@
     "weapon_id": 16,
     "gen_id": 588,
     "collection": "Gamma Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/GammaCollection/M4A4-DesolateSpace.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P2000 | Imperial Dragon",
@@ -37,7 +49,11 @@
     "weapon_id": 32,
     "gen_id": 591,
     "collection": "Gamma Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/GammaCollection/P2000-ImperialDragon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SCAR-20 | Bloodsport",
@@ -47,7 +63,11 @@
     "weapon_id": 38,
     "gen_id": 597,
     "collection": "Gamma Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/GammaCollection/SCAR-20-Bloodsport.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | Phobos",
@@ -57,7 +77,11 @@
     "weapon_id": 9,
     "gen_id": 584,
     "collection": "Gamma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/GammaCollection/AWP-Phobos.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "R8 Revolver | Reboot",
@@ -67,7 +91,11 @@
     "weapon_id": 64,
     "gen_id": 595,
     "collection": "Gamma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/GammaCollection/R8Revolver-Reboot.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 4
   },
   {
     "name": "AUG | Aristocrat",
@@ -77,7 +105,11 @@
     "weapon_id": 8,
     "gen_id": 583,
     "collection": "Gamma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/GammaCollection/AUG-Aristocrat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Sawed-Off | Limelight",
@@ -87,7 +119,11 @@
     "weapon_id": 29,
     "gen_id": 596,
     "collection": "Gamma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/GammaCollection/Sawed-Off-Limelight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P90 | Chopper",
@@ -97,7 +133,11 @@
     "weapon_id": 19,
     "gen_id": 593,
     "collection": "Gamma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/GammaCollection/P90-Chopper.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Five-SeveN | Violent Daimyo",
@@ -107,7 +147,11 @@
     "weapon_id": 3,
     "gen_id": 585,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/Five-SeveN-ViolentDaimyo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Ice Cap",
@@ -117,7 +161,11 @@
     "weapon_id": 30,
     "gen_id": 599,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/Tec-9-IceCap.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P250 | Iron Clad",
@@ -127,7 +175,11 @@
     "weapon_id": 36,
     "gen_id": 592,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/P250-IronClad.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Nova | Exo",
@@ -137,7 +189,11 @@
     "weapon_id": 35,
     "gen_id": 590,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/Nova-Exo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Carnivore",
@@ -147,7 +203,11 @@
     "weapon_id": 17,
     "gen_id": 589,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/MAC-10-Carnivore.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Aerial",
@@ -157,7 +217,11 @@
     "weapon_id": 39,
     "gen_id": 598,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/SG553-Aerial.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Harvester",
@@ -167,7 +231,10 @@
     "weapon_id": 26,
     "gen_id": 594,
     "collection": "Gamma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/GammaCollection/PP-Bizon-Harvester.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-  
 ]

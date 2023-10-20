@@ -7,7 +7,11 @@
     "weapon_id": 10,
     "gen_id": 194,
     "collection": "The Alpha Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/FAMAS-Spitfire.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SCAR-20 | Emerald",
@@ -17,7 +21,11 @@
     "weapon_id": 38,
     "gen_id": 196,
     "collection": "The Alpha Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/SCAR-20-Emerald.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AUG | Anodized Navy",
@@ -27,7 +35,11 @@
     "weapon_id": 8,
     "gen_id": 197,
     "collection": "The Alpha Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/AUG-AnodizedNavy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAG-7 | Hazard",
@@ -37,7 +49,11 @@
     "weapon_id": 27,
     "gen_id": 198,
     "collection": "The Alpha Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/MAG-7-Hazard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Rust Coat",
@@ -47,7 +63,11 @@
     "weapon_id": 26,
     "gen_id": 203,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/PP-Bizon-RustCoat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Glock-18 | Sand Dune",
@@ -57,7 +77,11 @@
     "weapon_id": 4,
     "gen_id": 208,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/Glock-18-SandDune.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Glock-18 | Sand Dune",
@@ -67,7 +91,11 @@
     "weapon_id": 4,
     "gen_id": 208,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/Glock-18-SandDune.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "SSG 08 | Mayan Dreams",
@@ -77,7 +105,11 @@
     "weapon_id": 40,
     "gen_id": 200,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/SSG08-MayanDreams.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Sawed-Off | Mosaico",
@@ -87,7 +119,11 @@
     "weapon_id": 29,
     "gen_id": 204,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/Sawed-Off-Mosaico.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Negev | Palm",
@@ -97,7 +133,11 @@
     "weapon_id": 28,
     "gen_id": 201,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/Negev-Palm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P250 | Facets",
@@ -107,7 +147,11 @@
     "weapon_id": 36,
     "gen_id": 207,
     "collection": "The Alpha Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/P250-Facets.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP9 | Dry Season",
@@ -117,7 +161,11 @@
     "weapon_id": 34,
     "gen_id": 199,
     "collection": "The Alpha Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/MP9-DrySeason.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Five-SeveN | Anodized Gunmetal",
@@ -127,7 +175,11 @@
     "weapon_id": 3,
     "gen_id": 210,
     "collection": "The Alpha Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/Five-SeveN-AnodizedGunmetal.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MP7 | Groundwater",
@@ -137,7 +189,11 @@
     "weapon_id": 33,
     "gen_id": 209,
     "collection": "The Alpha Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/MP7-Groundwater.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Tec-9 | Tornado",
@@ -147,7 +203,11 @@
     "weapon_id": 30,
     "gen_id": 206,
     "collection": "The Alpha Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/Tec-9-Tornado.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "XM1014 | Jungle",
@@ -157,7 +217,11 @@
     "weapon_id": 25,
     "gen_id": 205,
     "collection": "The Alpha Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/XM1014-Jungle.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "M249 | Jungle DDPAT",
@@ -167,6 +231,10 @@
     "weapon_id": 14,
     "gen_id": 202,
     "collection": "The Alpha Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAlphaCollection/M249-JungleDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
 ]

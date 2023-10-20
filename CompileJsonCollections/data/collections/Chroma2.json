@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 430,
     "collection": "Chroma 2 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/M4A1-S-HyperBeast.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "MAC-10 | Neon Rider",
@@ -17,7 +21,11 @@
     "weapon_id": 17,
     "gen_id": 433,
     "collection": "Chroma 2 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/MAC-10-NeonRider.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Galil AR | Eco",
@@ -27,7 +35,11 @@
     "weapon_id": 13,
     "gen_id": 428,
     "collection": "Chroma 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/GalilAR-Eco.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Five-SeveN | Monkey Business",
@@ -37,7 +49,11 @@
     "weapon_id": 3,
     "gen_id": 427,
     "collection": "Chroma 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/Five-SeveN-MonkeyBusiness.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "FAMAS | Djinn",
@@ -47,7 +63,11 @@
     "weapon_id": 10,
     "gen_id": 429,
     "collection": "Chroma 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/FAMAS-Djinn.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | Worm God",
@@ -57,7 +77,11 @@
     "weapon_id": 9,
     "gen_id": 424,
     "collection": "Chroma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/AWP-WormGod.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAG-7 | Heat",
@@ -67,7 +91,11 @@
     "weapon_id": 27,
     "gen_id": 431,
     "collection": "Chroma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/MAG-7-Heat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Pole Position",
@@ -77,7 +105,11 @@
     "weapon_id": 63,
     "gen_id": 435,
     "collection": "Chroma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/CZ75-Auto-PolePosition.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "UMP-45 | Grand Prix",
@@ -87,7 +119,11 @@
     "weapon_id": 24,
     "gen_id": 436,
     "collection": "Chroma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/UMP-45-GrandPrix.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AK-47 | Elite Build",
@@ -97,7 +133,11 @@
     "weapon_id": 7,
     "gen_id": 422,
     "collection": "Chroma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/AK-47-EliteBuild.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Desert Eagle | Bronze Deco",
@@ -107,7 +147,11 @@
     "weapon_id": 1,
     "gen_id": 425,
     "collection": "Chroma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/DesertEagle-BronzeDeco.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P250 | Valence",
@@ -117,7 +161,11 @@
     "weapon_id": 36,
     "gen_id": 426,
     "collection": "Chroma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/P250-Valence.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Sawed-Off | Origami",
@@ -127,7 +175,11 @@
     "weapon_id": 29,
     "gen_id": 434,
     "collection": "Chroma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/Sawed-Off-Origami.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP7 | Armor Core",
@@ -137,7 +189,11 @@
     "weapon_id": 33,
     "gen_id": 423,
     "collection": "Chroma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/MP7-ArmorCore.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Man-o'-war",
@@ -147,7 +203,10 @@
     "weapon_id": 28,
     "gen_id": 432,
     "collection": "Chroma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Chroma2Collection/Negev-Man-o-war.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

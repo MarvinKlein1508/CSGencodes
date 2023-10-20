@@ -7,7 +7,11 @@
     "weapon_id": 525,
     "gen_id": 0,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/SkeletonVanilla.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 1)",
@@ -17,7 +21,11 @@
     "weapon_id": 525,
     "gen_id": 569,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-GammaDopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 2)",
@@ -27,7 +35,11 @@
     "weapon_id": 525,
     "gen_id": 570,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-GammaDopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 3)",
@@ -37,7 +49,11 @@
     "weapon_id": 525,
     "gen_id": 571,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-GammaDopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 4)",
@@ -47,7 +63,11 @@
     "weapon_id": 525,
     "gen_id": 572,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-GammaDopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Emerald)",
@@ -57,7 +77,11 @@
     "weapon_id": 525,
     "gen_id": 568,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-GammaDopplerEmerald.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Lore",
@@ -67,7 +91,11 @@
     "weapon_id": 525,
     "gen_id": 558,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Lore.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Autotronic",
@@ -77,7 +105,11 @@
     "weapon_id": 525,
     "gen_id": 573,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Autotronic.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Black Laminate",
@@ -87,7 +119,11 @@
     "weapon_id": 525,
     "gen_id": 563,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-BlackLaminate.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Freehand",
@@ -97,7 +133,11 @@
     "weapon_id": 525,
     "gen_id": 580,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Freehand.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Bright Water",
@@ -107,7 +147,11 @@
     "weapon_id": 525,
     "gen_id": 578,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-BrightWater.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Marble Fade",
@@ -117,7 +161,11 @@
     "weapon_id": 525,
     "gen_id": 413,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-MarbleFade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Tiger Tooth",
@@ -127,7 +175,11 @@
     "weapon_id": 525,
     "gen_id": 409,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-TigerTooth.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 1)",
@@ -137,7 +189,11 @@
     "weapon_id": 525,
     "gen_id": 418,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 2)",
@@ -147,7 +203,11 @@
     "weapon_id": 525,
     "gen_id": 419,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 3)",
@@ -157,7 +217,11 @@
     "weapon_id": 525,
     "gen_id": 420,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 4)",
@@ -167,7 +231,11 @@
     "weapon_id": 525,
     "gen_id": 421,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Ruby)",
@@ -177,7 +245,11 @@
     "weapon_id": 525,
     "gen_id": 415,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerRuby.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Saphire)",
@@ -187,7 +259,11 @@
     "weapon_id": 525,
     "gen_id": 416,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerSaphire.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Black Pearl)",
@@ -197,7 +273,11 @@
     "weapon_id": 525,
     "gen_id": 417,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DopplerBlackPearl.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Damascus Steel",
@@ -207,7 +287,11 @@
     "weapon_id": 525,
     "gen_id": 410,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-DamascusSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Ultraviolet",
@@ -217,7 +301,11 @@
     "weapon_id": 525,
     "gen_id": 98,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Ultraviolet.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Rust Coat",
@@ -227,7 +315,11 @@
     "weapon_id": 525,
     "gen_id": 414,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-RustCoat.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Fade",
@@ -237,7 +329,11 @@
     "weapon_id": 525,
     "gen_id": 38,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Fade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Slaughter",
@@ -247,7 +343,11 @@
     "weapon_id": 525,
     "gen_id": 59,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Slaughter.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Case Hardened",
@@ -257,7 +357,11 @@
     "weapon_id": 525,
     "gen_id": 44,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-CaseHardened.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Blue Steel",
@@ -267,7 +371,11 @@
     "weapon_id": 525,
     "gen_id": 42,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-BlueSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Stained",
@@ -277,7 +385,11 @@
     "weapon_id": 525,
     "gen_id": 43,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Stained.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Crimson Web",
@@ -287,7 +399,11 @@
     "weapon_id": 525,
     "gen_id": 12,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-CrimsonWeb.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Boreal Forest",
@@ -297,7 +413,11 @@
     "weapon_id": 525,
     "gen_id": 77,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-BorealForest.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Night Stripe",
@@ -307,7 +427,11 @@
     "weapon_id": 525,
     "gen_id": 735,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-NightStripe.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Safari Mesh",
@@ -317,7 +441,11 @@
     "weapon_id": 525,
     "gen_id": 72,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-SafariMesh.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Urban Masked",
@@ -327,7 +455,11 @@
     "weapon_id": 525,
     "gen_id": 143,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-UrbanMasked.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Forest DDPAT",
@@ -337,7 +469,11 @@
     "weapon_id": 525,
     "gen_id": 5,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-ForestDDPAT.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Scorched",
@@ -347,6 +483,10 @@
     "weapon_id": 525,
     "gen_id": 5,
     "collection": "Skeleton",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Skeleton/Skeleton-Scorched.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   }
 ]

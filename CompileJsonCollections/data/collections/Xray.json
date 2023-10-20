@@ -7,6 +7,10 @@
     "weapon_id": 36,
     "gen_id": 125,
     "collection": "The X-Ray Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheXRayCollection/P250-X-Ray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   }
 ]

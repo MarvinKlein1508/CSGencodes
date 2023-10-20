@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 724,
     "collection": "The St. Marc Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/AK-47-WildLotus.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "MP9 | Wild Lily",
@@ -17,7 +21,11 @@
     "weapon_id": 34,
     "gen_id": 734,
     "collection": "The St. Marc Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/MP9-WildLily.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AUG | Midnight Lily",
@@ -27,7 +35,11 @@
     "weapon_id": 8,
     "gen_id": 727,
     "collection": "The St. Marc Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/AUG-MidnightLily.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SSG 08 | Sea Calico",
@@ -37,7 +49,11 @@
     "weapon_id": 40,
     "gen_id": 868,
     "collection": "The St. Marc Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/SSG08-SeaCalico.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Synth Leaf",
@@ -47,7 +63,11 @@
     "weapon_id": 4,
     "gen_id": 732,
     "collection": "The St. Marc Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/Glock-18-SynthLeaf.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "UMP-45 | Day Lily",
@@ -57,7 +77,11 @@
     "weapon_id": 24,
     "gen_id": 725,
     "collection": "The St. Marc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/UMP-45-DayLily.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Five-SeveN | Crimson Blossom",
@@ -67,7 +91,11 @@
     "weapon_id": 3,
     "gen_id": 729,
     "collection": "The St. Marc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/Five-SeveN-CrimsonBlossom.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "FAMAS | Sundown",
@@ -77,7 +105,11 @@
     "weapon_id": 10,
     "gen_id": 869,
     "collection": "The St. Marc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/FAMAS-Sundown.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP7 | Teal Blossom",
@@ -87,7 +119,11 @@
     "weapon_id": 33,
     "gen_id": 728,
     "collection": "The St. Marc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/MP7-TealBlossom.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Rust Leaf",
@@ -97,7 +133,11 @@
     "weapon_id": 30,
     "gen_id": 733,
     "collection": "The St. Marc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/Tec-9-RustLeaf.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "XM1014 | Banana Leaf",
@@ -107,7 +147,11 @@
     "weapon_id": 25,
     "gen_id": 731,
     "collection": "The St. Marc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/XM1014-BananaLeaf.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P90 | Sunset Lily",
@@ -117,7 +161,11 @@
     "weapon_id": 19,
     "gen_id": 726,
     "collection": "The St. Marc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/P90-SunsetLily.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M4A4 | Dark Blossom",
@@ -127,7 +175,11 @@
     "weapon_id": 16,
     "gen_id": 730,
     "collection": "The St. Marc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/M4A4-DarkBlossom.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M249 | Jungle",
@@ -137,7 +189,11 @@
     "weapon_id": 14,
     "gen_id": 151,
     "collection": "The St. Marc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/M249-Jungle.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Sawed-Off | Jungle Thicket",
@@ -147,7 +203,11 @@
     "weapon_id": 29,
     "gen_id": 870,
     "collection": "The St. Marc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/Sawed-Off-JungleThicket.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "PP-Bizon | Seabird",
@@ -157,7 +217,11 @@
     "weapon_id": 26,
     "gen_id": 873,
     "collection": "The St. Marc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/PP-Bizon-Seabird.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MP5-SD | Bamboo Garden",
@@ -167,7 +231,11 @@
     "weapon_id": 23,
     "gen_id": 872,
     "collection": "The St. Marc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/MP5-SD-BambooGarden.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAC-10 | Surfwood",
@@ -177,7 +245,10 @@
     "weapon_id": 17,
     "gen_id": 871,
     "collection": "The St. Marc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheStMarcCollection/MAC-10-Surfwood.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

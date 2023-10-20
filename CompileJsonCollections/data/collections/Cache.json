@@ -7,7 +7,11 @@
     "weapon_id": 13,
     "gen_id": 379,
     "collection": "The Cache Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/GalilAR-Cerberus.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "FAMAS | Styx",
@@ -17,7 +21,11 @@
     "weapon_id": 10,
     "gen_id": 371,
     "collection": "The Cache Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/FAMAS-Styx.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Reactor",
@@ -27,7 +35,11 @@
     "weapon_id": 4,
     "gen_id": 367,
     "collection": "The Cache Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/Glock-18-Reactor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Toxic",
@@ -37,7 +49,11 @@
     "weapon_id": 30,
     "gen_id": 374,
     "collection": "The Cache Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/Tec-9-Toxic.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Nuclear Garden",
@@ -47,7 +63,11 @@
     "weapon_id": 17,
     "gen_id": 372,
     "collection": "The Cache Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/MAC-10-NuclearGarden.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Setting Sun",
@@ -57,7 +77,11 @@
     "weapon_id": 34,
     "gen_id": 368,
     "collection": "The Cache Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/MP9-SettingSun.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "XM1014 | Bone Machine",
@@ -67,7 +91,11 @@
     "weapon_id": 25,
     "gen_id": 370,
     "collection": "The Cache Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/XM1014-BoneMachine.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Chemical Green",
@@ -77,7 +105,11 @@
     "weapon_id": 26,
     "gen_id": 376,
     "collection": "The Cache Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/PP-Bizon-ChemicalGreen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Five-SeveN | Hot Shot",
@@ -87,7 +119,11 @@
     "weapon_id": 3,
     "gen_id": 377,
     "collection": "The Cache Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/Five-SeveN-HotShot.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "SG 553 | Fallout Warning",
@@ -97,7 +133,11 @@
     "weapon_id": 40,
     "gen_id": 378,
     "collection": "The Cache Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/SG553-FalloutWarning.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "AUG | Radiation Hazard",
@@ -107,7 +147,11 @@
     "weapon_id": 8,
     "gen_id": 375,
     "collection": "The Cache Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/AUG-RadiationHazard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Negev | Nuclear Waste",
@@ -117,7 +161,11 @@
     "weapon_id": 28,
     "gen_id": 369,
     "collection": "The Cache Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/Negev-NuclearWaste.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P250 | Contamination",
@@ -127,6 +175,10 @@
     "weapon_id": 36,
     "gen_id": 373,
     "collection": "The Cache Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCacheCollection/P250-Contamination.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   }
 ]

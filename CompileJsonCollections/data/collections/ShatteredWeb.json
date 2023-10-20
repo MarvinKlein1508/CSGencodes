@@ -7,7 +7,11 @@
     "weapon_id": 9,
     "gen_id": 887,
     "collection": "Shattered Web Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/AWP-ContainmentBreach.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "MAC-10 | Stalker",
@@ -17,7 +21,11 @@
     "weapon_id": 17,
     "gen_id": 898,
     "collection": "Shattered Web Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/MAC-10-Stalker.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "SSG 08 | Bloodshot",
@@ -27,7 +35,11 @@
     "weapon_id": 40,
     "gen_id": 899,
     "collection": "Shattered Web Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/SSG08-Bloodshot.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Tec-9 | Decimator",
@@ -37,7 +49,11 @@
     "weapon_id": 30,
     "gen_id": 889,
     "collection": "Shattered Web Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/Tec-9-Decimator.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SG 553 | Colony IV",
@@ -47,7 +63,11 @@
     "weapon_id": 39,
     "gen_id": 897,
     "collection": "Shattered Web Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/SG553-ColonyIV.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AK-47 | Rat Rod",
@@ -57,7 +77,11 @@
     "weapon_id": 7,
     "gen_id": 885,
     "collection": "Shattered Web Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/AK-47-RatRod.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AUG | Arctic Wolf",
@@ -67,7 +91,11 @@
     "weapon_id": 8,
     "gen_id": 886,
     "collection": "Shattered Web Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/AUG-ArcticWolf.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P2000 | Obsidian",
@@ -77,7 +105,11 @@
     "weapon_id": 32,
     "gen_id": 894,
     "collection": "Shattered Web Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/P2000-Obsidian.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP7 | Neon Ply",
@@ -87,7 +119,11 @@
     "weapon_id": 33,
     "gen_id": 893,
     "collection": "Shattered Web Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/MP7-NeonPly.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "PP-Bizon | Embargo",
@@ -97,7 +133,11 @@
     "weapon_id": 26,
     "gen_id": 884,
     "collection": "Shattered Web Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/PP-Bizon-Embargo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Dual Berettas | Balance",
@@ -107,7 +147,11 @@
     "weapon_id": 2,
     "gen_id": 895,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/DualBerettas-Balance.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "R8 Revolver | Memento",
@@ -117,7 +161,11 @@
     "weapon_id": 64,
     "gen_id": 892,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/R8Revolver-Memento.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "M249 | Warbird",
@@ -127,7 +175,11 @@
     "weapon_id": 14,
     "gen_id": 900,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/M249-Warbird.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | Black Sand",
@@ -137,7 +189,11 @@
     "weapon_id": 11,
     "gen_id": 891,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/G3SG1-BlackSand.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "MP5-SD | Acid Wash",
@@ -147,7 +203,11 @@
     "weapon_id": 23,
     "gen_id": 888,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/MP5-SD-AcidWash.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Nova | Plume",
@@ -157,7 +217,11 @@
     "weapon_id": 35,
     "gen_id": 890,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/Nova-Plume.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SCAR-20 | Torn",
@@ -167,7 +231,10 @@
     "weapon_id": 38,
     "gen_id": 896,
     "collection": "Shattered Web Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ShatteredWebCollection/SCAR-20-Torn.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

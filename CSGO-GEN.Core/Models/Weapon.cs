@@ -9,7 +9,7 @@ namespace CSGO_GEN.Core.Models
 {
     public class Weapon : IGenable
     {
-        public string name { get; set; }
+        public string name { get; set; } = string.Empty;
         public decimal min_wear { get; set; }
         public decimal max_wear { get; set; }
         public bool trade_up { get; set; }
@@ -17,6 +17,7 @@ namespace CSGO_GEN.Core.Models
         public int gen_id { get; set; }
         public string collection { get; set; } = string.Empty;
         public string rarity { get; set; } = string.Empty;
+        public string? Image { get; set; }
 
         public bool IsKnife => weapon_id switch
         {

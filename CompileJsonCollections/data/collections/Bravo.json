@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 180,
     "collection": "Bravo Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/BravoCollection/AK-47-FireSerpent.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Desert Eagle | Golden Koi",
@@ -17,7 +21,11 @@
     "weapon_id": 1,
     "gen_id": 185,
     "collection": "Bravo Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/BravoCollection/DesertEagle-GoldenKoi.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "P90 | Emerald Dragon",
@@ -27,7 +35,11 @@
     "weapon_id": 19,
     "gen_id": 182,
     "collection": "Bravo Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/BravoCollection/P90-EmeraldDragon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P2000 | Ocean Foam",
@@ -37,7 +49,11 @@
     "weapon_id": 32,
     "gen_id": 211,
     "collection": "Bravo Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/BravoCollection/P2000-OceanFoam.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | Graphite",
@@ -47,7 +63,11 @@
     "weapon_id": 9,
     "gen_id": 212,
     "collection": "Bravo Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/BravoCollection/AWP-Graphite.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "USP-S | Overgrowth",
@@ -57,7 +77,11 @@
     "weapon_id": 61,
     "gen_id": 183,
     "collection": "Bravo Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BravoCollection/USP-S-Overgrowth.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M4A4 | Zirka",
@@ -67,7 +91,11 @@
     "weapon_id": 16,
     "gen_id": 187,
     "collection": "Bravo Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BravoCollection/M4A4-Zirka.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Graven",
@@ -77,7 +105,11 @@
     "weapon_id": 17,
     "gen_id": 188,
     "collection": "Bravo Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BravoCollection/MAC-10-Graven.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M4A1-S | Bright Water",
@@ -87,7 +119,11 @@
     "weapon_id": 60,
     "gen_id": 189,
     "collection": "Bravo Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/BravoCollection/M4A1-S-BrightWater.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Shattered",
@@ -97,7 +133,11 @@
     "weapon_id": 13,
     "gen_id": 192,
     "collection": "Bravo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BravoCollection/GalilAR-Shattered.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "UMP-45 | Bone Pile",
@@ -107,7 +147,11 @@
     "weapon_id": 24,
     "gen_id": 193,
     "collection": "Bravo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BravoCollection/UMP-45-BonePile.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Wave Spray",
@@ -117,7 +161,11 @@
     "weapon_id": 39,
     "gen_id": 186,
     "collection": "Bravo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BravoCollection/SG553-WaveSpray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Nova | Tempest",
@@ -127,7 +175,11 @@
     "weapon_id": 35,
     "gen_id": 191,
     "collection": "Bravo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BravoCollection/Nova-Tempest.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Black Limba",
@@ -137,7 +189,11 @@
     "weapon_id": 2,
     "gen_id": 190,
     "collection": "Bravo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BravoCollection/DualBerettas-BlackLimba.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | Demeter",
@@ -147,7 +203,10 @@
     "weapon_id": 11,
     "gen_id": 195,
     "collection": "Bravo Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/BravoCollection/G3SG1-Demeter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   }
-
 ]

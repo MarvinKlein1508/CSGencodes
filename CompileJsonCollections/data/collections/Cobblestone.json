@@ -7,7 +7,11 @@
     "weapon_id": 9,
     "gen_id": 344,
     "collection": "The Cobblestone Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/AWP-DragonLore.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A1-S | Knight",
@@ -17,7 +21,11 @@
     "weapon_id": 60,
     "gen_id": 326,
     "collection": "The Cobblestone Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/M4A1-S-Knight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Desert Eagle | Hand Cannon",
@@ -27,7 +35,11 @@
     "weapon_id": 1,
     "gen_id": 328,
     "collection": "The Cobblestone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/DesertEagle-HandCannon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Chalice",
@@ -37,7 +49,11 @@
     "weapon_id": 63,
     "gen_id": 325,
     "collection": "The Cobblestone Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/CZ75-Auto-Chalice.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P2000 | Chainmail",
@@ -47,7 +63,11 @@
     "weapon_id": 32,
     "gen_id": 327,
     "collection": "The Cobblestone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/P2000-Chainmail.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Dark Age",
@@ -57,7 +77,11 @@
     "weapon_id": 34,
     "gen_id": 329,
     "collection": "The Cobblestone Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/MP9-DarkAge.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "USP-S | Royal Blue",
@@ -67,7 +91,11 @@
     "weapon_id": 61,
     "gen_id": 332,
     "collection": "The Cobblestone Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/USP-S-RoyalBlue.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MAG-7 | Silver",
@@ -77,7 +105,11 @@
     "weapon_id": 27,
     "gen_id": 32,
     "collection": "The Cobblestone Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/MAG-7-Silver.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Sawed-Off | Rust Coat",
@@ -87,7 +119,11 @@
     "weapon_id": 29,
     "gen_id": 323,
     "collection": "The Cobblestone Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/Sawed-Off-RustCoat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Nova | Green Apple",
@@ -97,7 +133,11 @@
     "weapon_id": 35,
     "gen_id": 294,
     "collection": "The Cobblestone Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/Nova-GreenApple.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "UMP-45 | Indigo",
@@ -107,7 +147,11 @@
     "weapon_id": 24,
     "gen_id": 333,
     "collection": "The Cobblestone Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/UMP-45-Indigo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAC-10 | Indigo",
@@ -117,7 +161,11 @@
     "weapon_id": 17,
     "gen_id": 333,
     "collection": "The Cobblestone Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/MAC-10-Indigo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "P90 | Storm",
@@ -127,7 +175,11 @@
     "weapon_id": 19,
     "gen_id": 100,
     "collection": "The Cobblestone Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/P90-Storm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SCAR-20 | Storm",
@@ -137,7 +189,11 @@
     "weapon_id": 38,
     "gen_id": 100,
     "collection": "The Cobblestone Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/SCAR-20-Storm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Dual Berettas | Briar",
@@ -147,7 +203,10 @@
     "weapon_id": 2,
     "gen_id": 330,
     "collection": "The Cobblestone Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/DualBerettas-Briar.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

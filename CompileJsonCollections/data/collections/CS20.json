@@ -7,7 +7,11 @@
     "weapon_id": 9,
     "gen_id": 917,
     "collection": "CS20 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/CS20Collection/AWP-Wildfire.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "FAMAS | Commemoration",
@@ -17,7 +21,11 @@
     "weapon_id": 10,
     "gen_id": 919,
     "collection": "CS20 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/CS20Collection/FAMAS-Commemoration.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "MP9 | Hydra",
@@ -27,7 +35,11 @@
     "weapon_id": 34,
     "gen_id": 910,
     "collection": "CS20 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/CS20Collection/MP9-Hydra.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AUG | Death by Puppy",
@@ -37,7 +49,11 @@
     "weapon_id": 8,
     "gen_id": 913,
     "collection": "CS20 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/CS20Collection/AUG-DeathbyPuppy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P90 | Nostalgia",
@@ -47,7 +63,11 @@
     "weapon_id": 19,
     "gen_id": 911,
     "collection": "CS20 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/CS20Collection/P90-Nostalgia.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MP5-SD | Agent",
@@ -57,7 +77,11 @@
     "weapon_id": 23,
     "gen_id": 915,
     "collection": "CS20 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/CS20Collection/MP5-SD-Agent.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "UMP-45 | Plastique",
@@ -67,7 +91,11 @@
     "weapon_id": 24,
     "gen_id": 916,
     "collection": "CS20 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/CS20Collection/UMP-45-Plastique.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Inferno",
@@ -77,7 +105,11 @@
     "weapon_id": 36,
     "gen_id": 907,
     "collection": "CS20 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/CS20Collection/P250-Inferno.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Five-SeveN | Buddy",
@@ -87,7 +119,11 @@
     "weapon_id": 3,
     "gen_id": 906,
     "collection": "CS20 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/CS20Collection/Five-SeveN-Buddy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M249 | Aztec",
@@ -97,7 +133,11 @@
     "weapon_id": 14,
     "gen_id": 902,
     "collection": "CS20 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/CS20Collection/M249-Aztec.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Sacrifice",
@@ -107,7 +147,11 @@
     "weapon_id": 4,
     "gen_id": 918,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/Glock-18-Sacrifice.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "FAMAS | Decommissioned",
@@ -117,7 +161,11 @@
     "weapon_id": 10,
     "gen_id": 904,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/FAMAS-Decommissioned.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Elite 1.6",
@@ -127,7 +175,11 @@
     "weapon_id": 2,
     "gen_id": 903,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/DualBerettas-Elite16.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Classic Crate",
@@ -137,7 +189,11 @@
     "weapon_id": 17,
     "gen_id": 908,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/MAC-10-ClassicCrate.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Flash Out",
@@ -147,7 +203,11 @@
     "weapon_id": 30,
     "gen_id": 905,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/Tec-9-FlashOut.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAG-7 | Popdog",
@@ -157,7 +217,11 @@
     "weapon_id": 27,
     "gen_id": 909,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/MAG-7-Popdog.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SCAR-20 | Assault",
@@ -167,7 +231,10 @@
     "weapon_id": 38,
     "gen_id": 914,
     "collection": "CS20 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/CS20Collection/SCAR-20-Assault.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-  
 ]

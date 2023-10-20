@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 321,
     "collection": "The Overpass Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/M4A1-S-MasterPiece.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | Pink DDPAT",
@@ -17,7 +21,11 @@
     "weapon_id": 9,
     "gen_id": 84,
     "collection": "The Overpass Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/AWP-PinkDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Road Rash",
@@ -27,7 +35,11 @@
     "weapon_id": 61,
     "gen_id": 318,
     "collection": "The Overpass Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/USP-S-RoadRash.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Nitro",
@@ -37,7 +49,11 @@
     "weapon_id": 63,
     "gen_id": 322,
     "collection": "The Overpass Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/CZ75-Auto-Nitro.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SSG 08 | Detour",
@@ -47,7 +63,11 @@
     "weapon_id": 40,
     "gen_id": 319,
     "collection": "The Overpass Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/SSG08-Detour.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "XM1014 | VariCamo Blue",
@@ -57,7 +77,11 @@
     "weapon_id": 25,
     "gen_id": 238,
     "collection": "The Overpass Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/XM1014-VariCamoBlue.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Glock-18 | Night",
@@ -67,7 +91,11 @@
     "weapon_id": 4,
     "gen_id": 40,
     "collection": "The Overpass Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/Glock-18-Night.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Desert Eagle | Urban DDPAT",
@@ -77,7 +105,11 @@
     "weapon_id": 1,
     "gen_id": 17,
     "collection": "The Overpass Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/DesertEagle-UrbanDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP7 | Gunsmoke",
@@ -87,7 +119,11 @@
     "weapon_id": 33,
     "gen_id": 15,
     "collection": "The Overpass Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/MP7-Gunsmoke.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P2000 | Grassland",
@@ -97,7 +133,11 @@
     "weapon_id": 32,
     "gen_id": 95,
     "collection": "The Overpass Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/P2000-Grassland.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP9 | Storm",
@@ -107,7 +147,11 @@
     "weapon_id": 34,
     "gen_id": 100,
     "collection": "The Overpass Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/MP9-Storm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Sawed-Off | Sage Spray",
@@ -117,7 +161,11 @@
     "weapon_id": 29,
     "gen_id": 119,
     "collection": "The Overpass Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/Sawed-Off-SageSpray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAG-7 | Storm",
@@ -127,7 +175,11 @@
     "weapon_id": 27,
     "gen_id": 100,
     "collection": "The Overpass Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/MAG-7-Storm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "M249 | Contrast Spray",
@@ -137,7 +189,11 @@
     "weapon_id": 14,
     "gen_id": 22,
     "collection": "The Overpass Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/M249-ContrastSpray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "UMP-45 | Scorched",
@@ -147,7 +203,10 @@
     "weapon_id": 24,
     "gen_id": 175,
     "collection": "The Overpass Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheOverpassCollection/UMP-45-Scorched.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 254,
     "collection": "The Safehouse Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/M4A1-S-Nitro.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SSG 08 | Acid Fade",
@@ -17,7 +21,11 @@
     "weapon_id": 40,
     "gen_id": 253,
     "collection": "The Safehouse Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/SSG08-AcidFade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Five-SeveN | Silver Quartz",
@@ -27,7 +35,11 @@
     "weapon_id": 3,
     "gen_id": 252,
     "collection": "The Safehouse Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/Five-SeveN-SilverQuartz.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "FAMAS | Teardown",
@@ -37,7 +49,11 @@
     "weapon_id": 10,
     "gen_id": 244,
     "collection": "The Safehouse Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/FAMAS-Teardown.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AUG | Condemned",
@@ -47,7 +63,11 @@
     "weapon_id": 10,
     "gen_id": 110,
     "collection": "The Safehouse Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/AUG-Condemned.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "G3SG1 | VariCamo",
@@ -57,7 +77,11 @@
     "weapon_id": 11,
     "gen_id": 235,
     "collection": "The Safehouse Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/G3SG1-VariCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 2
   },
   {
     "name": "USP-S | Forest Leaves",
@@ -67,7 +91,11 @@
     "weapon_id": 61,
     "gen_id": 25,
     "collection": "The Safehouse Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/USP-S-ForestLeaves.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Galil AR | VariCamo",
@@ -77,7 +105,11 @@
     "weapon_id": 13,
     "gen_id": 235,
     "collection": "The Safehouse Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/GalilAR-VariCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M249 | Gator Mesh",
@@ -87,7 +119,11 @@
     "weapon_id": 14,
     "gen_id": 243,
     "collection": "The Safehouse Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/M249-GatorMesh.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP9 | Orange Peel",
@@ -97,7 +133,11 @@
     "weapon_id": 34,
     "gen_id": 141,
     "collection": "The Safehouse Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/MP9-OrangePeel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "SSG 08 | Blue Spruce",
@@ -107,7 +147,11 @@
     "weapon_id": 40,
     "gen_id": 96,
     "collection": "The Safehouse Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/SSG08-BlueSpruce.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Tec-9 | Army Mesh",
@@ -117,7 +161,11 @@
     "weapon_id": 30,
     "gen_id": 242,
     "collection": "The Safehouse Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/Tec-9-ArmyMesh.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Dual Berettas | Contractor",
@@ -127,7 +175,11 @@
     "weapon_id": 2,
     "gen_id": 46,
     "collection": "The Safehouse Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/DualBerettas-Contractor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SCAR-20 | Contractor",
@@ -137,7 +189,11 @@
     "weapon_id": 38,
     "gen_id": 46,
     "collection": "The Safehouse Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/SCAR-20-Contractor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MP7 | Army Recon",
@@ -147,7 +203,10 @@
     "weapon_id": 33,
     "gen_id": 245,
     "collection": "The Safehouse Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheSafehouseCollection/MP7-ArmyRecon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

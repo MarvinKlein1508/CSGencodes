@@ -7,7 +7,11 @@
     "weapon_id": 16,
     "gen_id": 309,
     "collection": "Huntsman Collection",
-    "rarity": "Contraband"
+    "rarity": "Contraband",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/M4A4-Howl.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 7
   },
   {
     "name": "M4A4 | Desert-Strike",
@@ -17,7 +21,11 @@
     "weapon_id": 16,
     "gen_id": 336,
     "collection": "Huntsman Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/M4A4-Desert-Strike.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Vulcan",
@@ -27,7 +35,11 @@
     "weapon_id": 7,
     "gen_id": 302,
     "collection": "Huntsman Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/AK-47-Vulcan.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "USP-S | Caiman",
@@ -37,7 +49,11 @@
     "weapon_id": 61,
     "gen_id": 339,
     "collection": "Huntsman Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/USP-S-Caiman.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "USP-S | Orion",
@@ -47,7 +63,11 @@
     "weapon_id": 61,
     "gen_id": 313,
     "collection": "Huntsman Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/USP-S-Orion.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A1-S | Atomic Alloy",
@@ -57,7 +77,11 @@
     "weapon_id": 60,
     "gen_id": 301,
     "collection": "Huntsman Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/M4A1-S-AtomicAlloy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SCAR-20 | Cyrex",
@@ -67,7 +91,11 @@
     "weapon_id": 38,
     "gen_id": 312,
     "collection": "Huntsman Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/SCAR-20-Cyrex.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAC-10 | Tatter",
@@ -77,7 +105,11 @@
     "weapon_id": 17,
     "gen_id": 337,
     "collection": "Huntsman Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/MAC-10-Tatter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Curse",
@@ -87,7 +119,11 @@
     "weapon_id": 17,
     "gen_id": 310,
     "collection": "Huntsman Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/MAC-10-Curse.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AUG | Torque",
@@ -97,7 +133,11 @@
     "weapon_id": 8,
     "gen_id": 305,
     "collection": "Huntsman Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/AUG-Torque.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "XM1014 | Heaven Guard",
@@ -107,7 +147,11 @@
     "weapon_id": 25,
     "gen_id": 314,
     "collection": "Huntsman Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/XM1014-HeavenGuard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "PP-Bizon | Antique",
@@ -117,7 +161,11 @@
     "weapon_id": 26,
     "gen_id": 306,
     "collection": "Huntsman Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/PP-Bizon-Antique.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Poison Dart",
@@ -127,7 +175,11 @@
     "weapon_id": 63,
     "gen_id": 315,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/CZ75-Auto-PoisonDart.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Retribution",
@@ -137,7 +189,11 @@
     "weapon_id": 2,
     "gen_id": 307,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/DualBerettas-Retribution.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Module",
@@ -147,7 +203,11 @@
     "weapon_id": 19,
     "gen_id": 335,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/P90-Module.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Desert Warfare",
@@ -157,7 +217,11 @@
     "weapon_id": 19,
     "gen_id": 311,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/P90-DesertWarfare.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Twist",
@@ -167,7 +231,11 @@
     "weapon_id": 63,
     "gen_id": 334,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/CZ75-Auto-Twist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Pulse",
@@ -177,7 +245,11 @@
     "weapon_id": 32,
     "gen_id": 338,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/P2000-Pulse.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Isaac",
@@ -187,7 +259,11 @@
     "weapon_id": 30,
     "gen_id": 303,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/Tec-9-Isaac.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Galil AR | Kami",
@@ -197,7 +273,11 @@
     "weapon_id": 13,
     "gen_id": 308,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/GalilAR-Kami.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SSG 08 | Slashed",
@@ -207,7 +287,10 @@
     "weapon_id": 40,
     "gen_id": 304,
     "collection": "Huntsman Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HuntsmanCollection/SSG08-Slashed.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

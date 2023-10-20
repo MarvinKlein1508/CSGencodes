@@ -7,7 +7,11 @@
     "weapon_id": 520,
     "gen_id": 0,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/NavajaVanilla.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 1)",
@@ -17,7 +21,11 @@
     "weapon_id": 520,
     "gen_id": 569,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-GammaDopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 2)",
@@ -27,7 +35,11 @@
     "weapon_id": 520,
     "gen_id": 570,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-GammaDopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 3)",
@@ -37,7 +49,11 @@
     "weapon_id": 520,
     "gen_id": 571,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-GammaDopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 4)",
@@ -47,7 +63,11 @@
     "weapon_id": 520,
     "gen_id": 572,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-GammaDopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Emerald)",
@@ -57,7 +77,11 @@
     "weapon_id": 520,
     "gen_id": 568,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-GammaDopplerEmerald.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Lore",
@@ -67,7 +91,11 @@
     "weapon_id": 520,
     "gen_id": 558,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Lore.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Autotronic",
@@ -77,7 +105,11 @@
     "weapon_id": 520,
     "gen_id": 573,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Autotronic.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Black Laminate",
@@ -87,7 +119,11 @@
     "weapon_id": 520,
     "gen_id": 563,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-BlackLaminate.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Freehand",
@@ -97,7 +133,11 @@
     "weapon_id": 520,
     "gen_id": 580,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Freehand.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Bright Water",
@@ -107,7 +147,11 @@
     "weapon_id": 520,
     "gen_id": 578,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-BrightWater.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Marble Fade",
@@ -117,7 +161,11 @@
     "weapon_id": 520,
     "gen_id": 413,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-MarbleFade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Tiger Tooth",
@@ -127,7 +175,11 @@
     "weapon_id": 520,
     "gen_id": 409,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-TigerTooth.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 1)",
@@ -137,7 +189,11 @@
     "weapon_id": 520,
     "gen_id": 418,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 2)",
@@ -147,7 +203,11 @@
     "weapon_id": 520,
     "gen_id": 419,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 3)",
@@ -157,7 +217,11 @@
     "weapon_id": 520,
     "gen_id": 420,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 4)",
@@ -167,7 +231,11 @@
     "weapon_id": 520,
     "gen_id": 421,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Ruby)",
@@ -177,7 +245,11 @@
     "weapon_id": 520,
     "gen_id": 415,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerRuby.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Saphire)",
@@ -187,7 +259,11 @@
     "weapon_id": 520,
     "gen_id": 416,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerSaphire.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Black Pearl)",
@@ -197,7 +273,11 @@
     "weapon_id": 520,
     "gen_id": 417,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DopplerBlackPearl.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Damascus Steel",
@@ -207,7 +287,11 @@
     "weapon_id": 520,
     "gen_id": 410,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-DamascusSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Ultraviolet",
@@ -217,7 +301,11 @@
     "weapon_id": 520,
     "gen_id": 98,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Ultraviolet.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Rust Coat",
@@ -227,7 +315,11 @@
     "weapon_id": 520,
     "gen_id": 414,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-RustCoat.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Fade",
@@ -237,7 +329,11 @@
     "weapon_id": 520,
     "gen_id": 38,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Fade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Slaughter",
@@ -247,7 +343,11 @@
     "weapon_id": 520,
     "gen_id": 59,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Slaughter.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Case Hardened",
@@ -257,7 +357,11 @@
     "weapon_id": 520,
     "gen_id": 44,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-CaseHardened.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Blue Steel",
@@ -267,7 +371,11 @@
     "weapon_id": 520,
     "gen_id": 42,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-BlueSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Stained",
@@ -277,7 +385,11 @@
     "weapon_id": 520,
     "gen_id": 43,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Stained.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Crimson Web",
@@ -287,7 +399,11 @@
     "weapon_id": 520,
     "gen_id": 12,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-CrimsonWeb.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Boreal Forest",
@@ -297,7 +413,11 @@
     "weapon_id": 520,
     "gen_id": 77,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-BorealForest.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Night Stripe",
@@ -307,7 +427,11 @@
     "weapon_id": 520,
     "gen_id": 735,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-NightStripe.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Safari Mesh",
@@ -317,7 +441,11 @@
     "weapon_id": 520,
     "gen_id": 72,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-SafariMesh.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Urban Masked",
@@ -327,7 +455,11 @@
     "weapon_id": 520,
     "gen_id": 143,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-UrbanMasked.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Forest DDPAT",
@@ -337,7 +469,11 @@
     "weapon_id": 520,
     "gen_id": 5,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-ForestDDPAT.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Scorched",
@@ -347,6 +483,10 @@
     "weapon_id": 520,
     "gen_id": 5,
     "collection": "Navaja",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Navaja/Navaja-Scorched.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   }
 ]

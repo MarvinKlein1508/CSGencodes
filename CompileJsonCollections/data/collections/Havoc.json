@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 1004,
     "collection": "The Havoc Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/AK-47-X-Ray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AWP | Silk Tiger",
@@ -17,7 +21,11 @@
     "weapon_id": 9,
     "gen_id": 1029,
     "collection": "The Havoc Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/AWP-SilkTiger.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAC-10 | Hot Snakes",
@@ -27,7 +35,11 @@
     "weapon_id": 17,
     "gen_id": 1009,
     "collection": "The Havoc Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/MAC-10-HotSnakes.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SG 553 | Hypnotic",
@@ -37,7 +49,11 @@
     "weapon_id": 40,
     "gen_id": 61,
     "collection": "The Havoc Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/SG553-Hypnotic.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Phoenix Blacklight",
@@ -47,7 +63,11 @@
     "weapon_id": 13,
     "gen_id": 1013,
     "collection": "The Havoc Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/GalilAR-PhoenixBlacklight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Franklin",
@@ -57,7 +77,11 @@
     "weapon_id": 4,
     "gen_id": 1016,
     "collection": "The Havoc Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/Glock-18-Franklin.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Bengal Tiger",
@@ -67,7 +91,11 @@
     "weapon_id": 36,
     "gen_id": 1030,
     "collection": "The Havoc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/P250-BengalTiger.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Desert Eagle | Night Heist",
@@ -77,7 +105,11 @@
     "weapon_id": 1,
     "gen_id": 1006,
     "collection": "The Havoc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/DesertEagle-NightHeist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Phoenix Stencil",
@@ -87,7 +119,11 @@
     "weapon_id": 28,
     "gen_id": 1012,
     "collection": "The Havoc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/Negev-PhoenixStencil.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Tiger Pit",
@@ -97,7 +133,11 @@
     "weapon_id": 19,
     "gen_id": 1015,
     "collection": "The Havoc Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/P90-TigerPit.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "R8 Revolver | Phoenix Marker",
@@ -107,7 +147,11 @@
     "weapon_id": 64,
     "gen_id": 1011,
     "collection": "The Havoc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/R8Revolver-PhoenixMarker.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 2
   },
   {
     "name": "Nova | Rust Coat",
@@ -117,7 +161,11 @@
     "weapon_id": 35,
     "gen_id": 323,
     "collection": "The Havoc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/Nova-RustCoat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "UMP-45 | Houndstooth",
@@ -127,7 +175,11 @@
     "weapon_id": 24,
     "gen_id": 1008,
     "collection": "The Havoc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/UMP-45-Houndstooth.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "MP7 | Vault Heist",
@@ -137,7 +189,11 @@
     "weapon_id": 33,
     "gen_id": 1007,
     "collection": "The Havoc Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/MP7-VaultHeist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M249 | Predator",
@@ -147,7 +203,11 @@
     "weapon_id": 14,
     "gen_id": 170,
     "collection": "The Havoc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/M249-Predator.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Tec-9 | Phoenix Chalk",
@@ -157,7 +217,11 @@
     "weapon_id": 30,
     "gen_id": 1010,
     "collection": "The Havoc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/Tec-9-PhoenixChalk.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Dual Berettas | Heist",
@@ -167,7 +231,11 @@
     "weapon_id": 2,
     "gen_id": 1005,
     "collection": "The Havoc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/DualBerettas-Heist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Sawed-Off | Clay Ambush",
@@ -177,7 +245,11 @@
     "weapon_id": 29,
     "gen_id": 1014,
     "collection": "The Havoc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/Sawed-Off-ClayAmbush.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "PP-Bizon | Death Rattle",
@@ -187,6 +259,10 @@
     "weapon_id": 26,
     "gen_id": 293,
     "collection": "The Havoc Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheHavocCollection/PP-Bizon-DeathRattle.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
 ]

@@ -7,7 +7,11 @@
     "weapon_id": 16,
     "gen_id": 255,
     "collection": "Winter Offensive Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/M4A4-Asiimov.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Sawed-Off | The Kraken",
@@ -17,7 +21,11 @@
     "weapon_id": 29,
     "gen_id": 256,
     "collection": "Winter Offensive Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/Sawed-Off-TheKraken.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AWP | Redline",
@@ -27,7 +35,11 @@
     "weapon_id": 9,
     "gen_id": 259,
     "collection": "Winter Offensive Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/AWP-Redline.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A1-S | Guardian",
@@ -37,7 +49,11 @@
     "weapon_id": 60,
     "gen_id": 257,
     "collection": "Winter Offensive Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/M4A1-S-Guardian.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P250 | Mehndi",
@@ -47,7 +63,11 @@
     "weapon_id": 36,
     "gen_id": 258,
     "collection": "Winter Offensive Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/P250-Mehndi.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Dual Berettas | Marina",
@@ -57,7 +77,11 @@
     "weapon_id": 2,
     "gen_id": 261,
     "collection": "Winter Offensive Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/DualBerettas-Marina.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP9 | Rose Iron",
@@ -67,7 +91,11 @@
     "weapon_id": 34,
     "gen_id": 262,
     "collection": "Winter Offensive Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/MP9-RoseIron.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "FAMAS | Pulse",
@@ -77,7 +105,11 @@
     "weapon_id": 10,
     "gen_id": 260,
     "collection": "Winter Offensive Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/FAMAS-Pulse.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Nova | Rising Skull",
@@ -87,7 +119,11 @@
     "weapon_id": 35,
     "gen_id": 263,
     "collection": "Winter Offensive Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/Nova-RisingSkull.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Sandstorm",
@@ -97,7 +133,11 @@
     "weapon_id": 13,
     "gen_id": 264,
     "collection": "Winter Offensive Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/GalilAR-Sandstorm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Cobalt Halftone",
@@ -107,7 +147,11 @@
     "weapon_id": 26,
     "gen_id": 267,
     "collection": "Winter Offensive Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/PP-Bizon-CobaltHalftone.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Five-SeveN | Kami",
@@ -117,7 +161,11 @@
     "weapon_id": 3,
     "gen_id": 265,
     "collection": "Winter Offensive Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/Five-SeveN-Kami.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | Magma",
@@ -127,7 +175,10 @@
     "weapon_id": 14,
     "gen_id": 266,
     "collection": "Winter Offensive Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WinterOffensiveCollection/M249-Magma.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

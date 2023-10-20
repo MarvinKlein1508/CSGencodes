@@ -7,7 +7,11 @@
     "weapon_id": 9,
     "gen_id": 819,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/AWP-DesertHydra.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Desert Eagle | Fennec Fox",
@@ -17,7 +21,11 @@
     "weapon_id": 1,
     "gen_id": 764,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/DesertEagle-FennecFox.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MP5-SD | Oxide Oasis",
@@ -27,7 +35,11 @@
     "weapon_id": 23,
     "gen_id": 923,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/MP5-SD-OxideOasis.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Glock-18 | Pink DDPAT",
@@ -37,7 +49,11 @@
     "weapon_id": 4,
     "gen_id": 84,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/Glock-18-PinkDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "XM1014 | Elegant Vines",
@@ -47,7 +63,11 @@
     "weapon_id": 25,
     "gen_id": 821,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/XM1014-ElegantVines.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AUG | Sand Storm",
@@ -57,7 +77,11 @@
     "weapon_id": 8,
     "gen_id": 823,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/AUG-SandStorm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Purple DDPAT",
@@ -67,7 +91,11 @@
     "weapon_id": 61,
     "gen_id": 818,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/USP-S-PurpleDDPAT.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Desert Blossom",
@@ -77,7 +105,11 @@
     "weapon_id": 39,
     "gen_id": 765,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/SG553-DesertBlossom.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | Humidor",
@@ -87,7 +119,11 @@
     "weapon_id": 14,
     "gen_id": 827,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/M249-Humidor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Music Box",
@@ -97,7 +133,11 @@
     "weapon_id": 34,
     "gen_id": 820,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/MP9-MusicBox.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "FAMAS | CaliCamo",
@@ -107,7 +147,11 @@
     "weapon_id": 10,
     "gen_id": 240,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/FAMAS-CaliCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Dual Berettas | Drift Wood",
@@ -117,7 +161,11 @@
     "weapon_id": 2,
     "gen_id": 824,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/DualBerettas-DriftWood.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P90 | Verdant Growth",
@@ -127,7 +175,11 @@
     "weapon_id": 19,
     "gen_id": 828,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/P90-VerdantGrowth.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "CZ75-Auto | Midnight Palm",
@@ -137,7 +189,11 @@
     "weapon_id": 63,
     "gen_id": 933,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/CZ75-Auto-MidnightPalm.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "SSG 08 | Prey",
@@ -147,7 +203,11 @@
     "weapon_id": 40,
     "gen_id": 935,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/SSG08-Prey.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAG-7 | Navy Sheen",
@@ -157,7 +217,11 @@
     "weapon_id": 27,
     "gen_id": 822,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/MAG-7-NavySheen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAC-10 | Sienna Damask",
@@ -167,7 +231,11 @@
     "weapon_id": 27,
     "gen_id": 826,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/MAC-10-SiennaDamask.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "P250 | Drought",
@@ -177,7 +245,11 @@
     "weapon_id": 36,
     "gen_id": 825,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/P250-Drought.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "PP-Bizon | Anolis",
@@ -187,7 +259,10 @@
     "weapon_id": 26,
     "gen_id": 829,
     "collection": "The 2021 Mirage Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/The2021MirageCollection/PP-Bizon-Anolis.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

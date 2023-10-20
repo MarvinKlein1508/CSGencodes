@@ -7,7 +7,11 @@
     "weapon_id": 1,
     "gen_id": 1090,
     "collection": "Operation Riptide Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/DesertEagle-OceanDrive.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Leet Museo",
@@ -17,7 +21,11 @@
     "weapon_id": 7,
     "gen_id": 1087,
     "collection": "Operation Riptide Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/AK-47-LeetMuseo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Glock-18 | Snack Attack",
@@ -27,7 +35,11 @@
     "weapon_id": 4,
     "gen_id": 1100,
     "collection": "Operation Riptide Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/Glock-18-SnackAttack.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SSG 08 | Turbo Peek",
@@ -37,7 +49,11 @@
     "weapon_id": 40,
     "gen_id": 1101,
     "collection": "Operation Riptide Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/SSG08-TurboPeek.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAC-10 | Toybox",
@@ -47,7 +63,11 @@
     "weapon_id": 17,
     "gen_id": 1098,
     "collection": "Operation Riptide Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/MAC-10-Toybox.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A4 | Spider Lily",
@@ -57,7 +77,11 @@
     "weapon_id": 16,
     "gen_id": 1097,
     "collection": "Operation Riptide Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/M4A4-SpiderLily.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "FAMAS | ZX Spectron",
@@ -67,7 +91,11 @@
     "weapon_id": 10,
     "gen_id": 1092,
     "collection": "Operation Riptide Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/FAMAS-ZXSpectron.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP9 | Mount Fuji",
@@ -77,7 +105,11 @@
     "weapon_id": 34,
     "gen_id": 1094,
     "collection": "Operation Riptide Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/MP9-MountFuji.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Five-SeveN | Boost Protocol",
@@ -87,7 +119,11 @@
     "weapon_id": 3,
     "gen_id": 1093,
     "collection": "Operation Riptide Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/Five-SeveN-BoostProtocol.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAG-7 | BI83 Spectrum",
@@ -97,7 +133,11 @@
     "weapon_id": 27,
     "gen_id": 1089,
     "collection": "Operation Riptide Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/MAG-7-BI83Spectrum.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Black Lotus",
@@ -107,7 +147,11 @@
     "weapon_id": 61,
     "gen_id": 1102,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/USP-S-BlackLotus.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "XM1014 | Watchdog",
@@ -117,7 +161,11 @@
     "weapon_id": 25,
     "gen_id": 1103,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/XM1014-Watchdog.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AUG | Plague",
@@ -127,7 +175,11 @@
     "weapon_id": 8,
     "gen_id": 1088,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/AUG-Plague.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Lumen",
@@ -137,7 +189,11 @@
     "weapon_id": 26,
     "gen_id": 1099,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/PP-Bizon-Lumen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Tread",
@@ -147,7 +203,11 @@
     "weapon_id": 2,
     "gen_id": 1091,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/DualBerettas-Tread.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | Keeping Tabs",
@@ -157,7 +217,11 @@
     "weapon_id": 11,
     "gen_id": 1095,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/G3SG1-KeepingTabs.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "MP7 | Guerrilla",
@@ -167,7 +231,10 @@
     "weapon_id": 33,
     "gen_id": 1096,
     "collection": "Operation Riptide Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/OperationRiptideCollection/MP7-Guerrilla.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

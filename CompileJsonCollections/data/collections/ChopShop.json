@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 445,
     "collection": "The Chop Shop Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/M4A1-S-HotRod.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Glock-18 | Twilight Galaxy",
@@ -17,7 +21,11 @@
     "weapon_id": 4,
     "gen_id": 437,
     "collection": "The Chop Shop Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/Glock-18-TwilightGalaxy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Dual Berettas | Duelist",
@@ -27,7 +35,11 @@
     "weapon_id": 2,
     "gen_id": 447,
     "collection": "The Chop Shop Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/DualBerettas-Duelist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SG 553 | Bulldozer",
@@ -37,7 +49,11 @@
     "weapon_id": 39,
     "gen_id": 39,
     "collection": "The Chop Shop Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/SG553-Bulldozer.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P250 | Whiteout",
@@ -47,7 +63,11 @@
     "weapon_id": 36,
     "gen_id": 102,
     "collection": "The Chop Shop Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/P250-Whiteout.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Fade",
@@ -57,7 +77,11 @@
     "weapon_id": 17,
     "gen_id": 38,
     "collection": "The Chop Shop Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/MAC-10-Fade.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Emerald",
@@ -67,7 +91,11 @@
     "weapon_id": 63,
     "gen_id": 453,
     "collection": "The Chop Shop Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/CZ75-Auto-Emerald.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP7 | Full Stop",
@@ -77,7 +105,11 @@
     "weapon_id": 33,
     "gen_id": 250,
     "collection": "The Chop Shop Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/MP7-FullStop.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Five-SeveN | Nitro",
@@ -87,7 +119,11 @@
     "weapon_id": 3,
     "gen_id": 254,
     "collection": "The Chop Shop Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/Five-SeveN-Nitro.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Desert Eagle | Night",
@@ -97,7 +133,11 @@
     "weapon_id": 1,
     "gen_id": 40,
     "collection": "The Chop Shop Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/DesertEagle-Night.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "USP-S | Para Green",
@@ -107,7 +147,11 @@
     "weapon_id": 61,
     "gen_id": 454,
     "collection": "The Chop Shop Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/USP-S-ParaGreen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Galil AR | Urban Rubble",
@@ -117,7 +161,11 @@
     "weapon_id": 13,
     "gen_id": 237,
     "collection": "The Chop Shop Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/GalilAR-UrbanRubble.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M249 | Impact Drill",
@@ -127,7 +175,11 @@
     "weapon_id": 14,
     "gen_id": 472,
     "collection": "The Chop Shop Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/M249-ImpactDrill.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "CZ75-Auto | Army Sheen",
@@ -137,7 +189,11 @@
     "weapon_id": 63,
     "gen_id": 298,
     "collection": "The Chop Shop Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/CZ75-Auto-ArmySheen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAG-7 | Seabird",
@@ -147,7 +203,11 @@
     "weapon_id": 27,
     "gen_id": 473,
     "collection": "The Chop Shop Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/MAG-7-Seabird.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SCAR-20 | Army Sheen",
@@ -157,7 +217,10 @@
     "weapon_id": 38,
     "gen_id": 298,
     "collection": "The Chop Shop Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheChopShopCollection/SCAR-20-ArmySheen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

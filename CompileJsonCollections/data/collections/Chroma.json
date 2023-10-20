@@ -7,7 +7,11 @@
     "weapon_id": 13,
     "gen_id": 398,
     "collection": "Chroma Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ChromaCollection/GalilAR-Chatterbox.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AWP | Man-o'-war",
@@ -17,7 +21,11 @@
     "weapon_id": 9,
     "gen_id": 395,
     "collection": "Chroma Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ChromaCollection/AWP-Man-o-war.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Cartel",
@@ -27,7 +35,11 @@
     "weapon_id": 7,
     "gen_id": 394,
     "collection": "Chroma Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ChromaCollection/AK-47-Cartel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A4 | 龍王 (Dragon King)",
@@ -37,7 +49,11 @@
     "weapon_id": 16,
     "gen_id": 400,
     "collection": "Chroma Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ChromaCollection/M4A4-DragonKing.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "P250 | Muertos",
@@ -47,7 +63,11 @@
     "weapon_id": 36,
     "gen_id": 404,
     "collection": "Chroma Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ChromaCollection/P250-Muertos.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Desert Eagle | Naga",
@@ -57,7 +77,11 @@
     "weapon_id": 1,
     "gen_id": 397,
     "collection": "Chroma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ChromaCollection/DesertEagle-Naga.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Dual Berettas | Urban Shock",
@@ -67,7 +91,11 @@
     "weapon_id": 2,
     "gen_id": 396,
     "collection": "Chroma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ChromaCollection/DualBerettas-UrbanShock.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Malachite",
@@ -77,7 +105,11 @@
     "weapon_id": 17,
     "gen_id": 402,
     "collection": "Chroma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ChromaCollection/MAC-10-Malachite.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Sawed-Off | Serenity",
@@ -87,7 +119,11 @@
     "weapon_id": 29,
     "gen_id": 405,
     "collection": "Chroma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ChromaCollection/Sawed-Off-Serenity.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Catacombs",
@@ -97,7 +133,11 @@
     "weapon_id": 4,
     "gen_id": 399,
     "collection": "Chroma Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ChromaCollection/Glock-18-Catacombs.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP9 | Deadly Poison",
@@ -107,7 +147,11 @@
     "weapon_id": 34,
     "gen_id": 403,
     "collection": "Chroma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ChromaCollection/MP9-DeadlyPoison.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | System Lock",
@@ -117,7 +161,11 @@
     "weapon_id": 14,
     "gen_id": 401,
     "collection": "Chroma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ChromaCollection/M249-SystemLock.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SCAR-20 | Grotto",
@@ -127,7 +175,11 @@
     "weapon_id": 38,
     "gen_id": 406,
     "collection": "Chroma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ChromaCollection/SCAR-20-Grotto.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "XM1014 | Quicksilver",
@@ -137,7 +189,10 @@
     "weapon_id": 25,
     "gen_id": 407,
     "collection": "Chroma Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ChromaCollection/XM1014-Quicksilver.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

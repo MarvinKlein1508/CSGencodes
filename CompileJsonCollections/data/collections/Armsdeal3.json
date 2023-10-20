@@ -7,7 +7,11 @@
     "weapon_id": 63,
     "gen_id": 270,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/CZ75-Auto-Victoria.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "P250 | Undertow",
@@ -17,7 +21,11 @@
     "weapon_id": 36,
     "gen_id": 271,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/P250-Undertow.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "CZ75-Auto | The Fuschia Is Now",
@@ -27,7 +35,11 @@
     "weapon_id": 63,
     "gen_id": 269,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/CZ75-Auto-TheFuschiaIsNow.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Five-SeveN | Copper Galaxy",
@@ -37,7 +49,11 @@
     "weapon_id": 3,
     "gen_id": 274,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/Five-SeveN-CopperGalaxy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Desert Eagle | Heirloom",
@@ -47,7 +63,11 @@
     "weapon_id": 1,
     "gen_id": 273,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/DesertEagle-Heirloom.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Tec-9 | Titanium Bit",
@@ -57,7 +77,11 @@
     "weapon_id": 30,
     "gen_id": 272,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/Tec-9-TitaniumBit.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Tread Plate",
@@ -67,7 +91,11 @@
     "weapon_id": 63,
     "gen_id": 268,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/CZ75-Auto-TreadPlate.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Stainless",
@@ -77,7 +105,11 @@
     "weapon_id": 61,
     "gen_id": 277,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/USP-S-Stainless.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Glock-18 | Blue Fissure",
@@ -87,7 +119,11 @@
     "weapon_id": 4,
     "gen_id": 278,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/Glock-18-BlueFissure.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Crimson Web",
@@ -97,7 +133,11 @@
     "weapon_id": 63,
     "gen_id": 12,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/CZ75-Auto-CrimsonWeb.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Panther",
@@ -107,7 +147,11 @@
     "weapon_id": 2,
     "gen_id": 276,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/DualBerettas-Panther.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Red FragCam",
@@ -117,7 +161,10 @@
     "weapon_id": 32,
     "gen_id": 275,
     "collection": "Arms Deal 3 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/ArmsDeal3Collection/P2000-RedFragCam.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

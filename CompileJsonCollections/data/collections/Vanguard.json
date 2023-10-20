@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 380,
     "collection": "Vanguard Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/VanguardCollection/AK-47-WastelandRebel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "P2000 | Fire Elemental",
@@ -17,7 +21,11 @@
     "weapon_id": 32,
     "gen_id": 389,
     "collection": "Vanguard Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/VanguardCollection/P2000-FireElemental.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "P250 | Cartel",
@@ -27,7 +35,11 @@
     "weapon_id": 36,
     "gen_id": 388,
     "collection": "Vanguard Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/VanguardCollection/P250-Cartel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SCAR-20 | Cardiac",
@@ -37,7 +49,11 @@
     "weapon_id": 38,
     "gen_id": 391,
     "collection": "Vanguard Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/VanguardCollection/SCAR-20-Cardiac.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "XM1014 | Tranquility",
@@ -47,7 +63,11 @@
     "weapon_id": 25,
     "gen_id": 393,
     "collection": "Vanguard Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/VanguardCollection/XM1014-Tranquility.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A1-S | Basilisk",
@@ -57,7 +77,11 @@
     "weapon_id": 60,
     "gen_id": 383,
     "collection": "Vanguard Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/VanguardCollection/M4A1-S-Basilisk.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "M4A4 | Griffin",
@@ -67,7 +91,11 @@
     "weapon_id": 16,
     "gen_id": 384,
     "collection": "Vanguard Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/VanguardCollection/M4A4-Griffin.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Grinder",
@@ -77,7 +105,11 @@
     "weapon_id": 4,
     "gen_id": 381,
     "collection": "Vanguard Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/VanguardCollection/Glock-18-Grinder.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Sawed-Off | Highwayman",
@@ -87,7 +119,11 @@
     "weapon_id": 29,
     "gen_id": 390,
     "collection": "Vanguard Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/VanguardCollection/Sawed-Off-Highwayman.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAG-7 | Firestarter",
@@ -97,7 +133,11 @@
     "weapon_id": 27,
     "gen_id": 385,
     "collection": "Vanguard Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/VanguardCollection/MAG-7-Firestarter.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "UMP-45 | Delusion",
@@ -107,7 +147,11 @@
     "weapon_id": 24,
     "gen_id": 392,
     "collection": "Vanguard Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/VanguardCollection/UMP-45-Delusion.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Five-SeveN | Urban Hazard",
@@ -117,7 +161,11 @@
     "weapon_id": 3,
     "gen_id": 387,
     "collection": "Vanguard Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/VanguardCollection/Five-SeveN-UrbanHazard.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "G3SG1 | Murky",
@@ -127,7 +175,11 @@
     "weapon_id": 11,
     "gen_id": 382,
     "collection": "Vanguard Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/VanguardCollection/G3SG1-Murky.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Dart",
@@ -137,7 +189,10 @@
     "weapon_id": 34,
     "gen_id": 386,
     "collection": "Vanguard Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/VanguardCollection/MP9-Dart.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

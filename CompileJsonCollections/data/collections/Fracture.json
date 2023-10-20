@@ -7,7 +7,11 @@
     "weapon_id": 1,
     "gen_id": 962,
     "collection": "Fracture Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/FractureCollection/DesertEagle-Printstream.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Legion of Anubis",
@@ -17,7 +21,11 @@
     "weapon_id": 7,
     "gen_id": 959,
     "collection": "Fracture Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/FractureCollection/AK-47-LegionofAnubis.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Glock-18 | Vogue",
@@ -27,7 +35,11 @@
     "weapon_id": 4,
     "gen_id": 963,
     "collection": "Fracture Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/FractureCollection/Glock-18-Vogue.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "M4A4 | Tooth Fairy",
@@ -37,7 +49,11 @@
     "weapon_id": 16,
     "gen_id": 971,
     "collection": "Fracture Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/FractureCollection/M4A4-ToothFairy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "XM1014 | Entombed",
@@ -47,7 +63,11 @@
     "weapon_id": 25,
     "gen_id": 970,
     "collection": "Fracture Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/FractureCollection/XM1014-Entombed.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAG-7 | Monster Call",
@@ -57,7 +77,11 @@
     "weapon_id": 27,
     "gen_id": 961,
     "collection": "Fracture Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/FractureCollection/MAG-7-MonsterCall.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAC-10 | Allure",
@@ -67,7 +91,11 @@
     "weapon_id": 17,
     "gen_id": 965,
     "collection": "Fracture Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/FractureCollection/MAC-10-Allure.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Tec-9 | Brother",
@@ -77,7 +105,11 @@
     "weapon_id": 30,
     "gen_id": 964,
     "collection": "Fracture Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/FractureCollection/Tec-9-Brother.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP5-SD | Kitbash",
@@ -87,7 +119,11 @@
     "weapon_id": 23,
     "gen_id": 974,
     "collection": "Fracture Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/FractureCollection/MP5-SD-Kitbash.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Galil AR | Connexion",
@@ -97,7 +133,11 @@
     "weapon_id": 13,
     "gen_id": 972,
     "collection": "Fracture Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/FractureCollection/GalilAR-Connexion.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SSG 08 | Mainframe 001",
@@ -107,7 +147,11 @@
     "weapon_id": 40,
     "gen_id": 967,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/SSG08-Mainframe001.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Runic",
@@ -117,7 +161,11 @@
     "weapon_id": 26,
     "gen_id": 973,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/PP-Bizon-Runic.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Freight",
@@ -127,7 +175,11 @@
     "weapon_id": 19,
     "gen_id": 969,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/P90-Freight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Gnarled",
@@ -137,7 +189,11 @@
     "weapon_id": 32,
     "gen_id": 960,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/P2000-Gnarled.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P250 | Cassette",
@@ -147,7 +203,11 @@
     "weapon_id": 36,
     "gen_id": 968,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/P250-Cassette.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Ultralight",
@@ -157,7 +217,11 @@
     "weapon_id": 28,
     "gen_id": 958,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/Negev-Ultralight.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SG 553 | Ol' Rusty",
@@ -167,7 +231,10 @@
     "weapon_id": 39,
     "gen_id": 966,
     "collection": "Fracture Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/FractureCollection/SG553-OlRusty.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

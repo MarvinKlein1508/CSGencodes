@@ -7,7 +7,11 @@
     "weapon_id": 30,
     "gen_id": 159,
     "collection": "The Inferno Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheInfernoCollection/Tec-9-Brass.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Anodized Navy",
@@ -17,7 +21,11 @@
     "weapon_id": 2,
     "gen_id": 28,
     "collection": "The Inferno Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheInfernoCollection/DualBerettas-AnodizedNavy.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M4A4 | Tornado",
@@ -27,7 +35,11 @@
     "weapon_id": 16,
     "gen_id": 101,
     "collection": "The Inferno Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheInfernoCollection/M4A4-Tornado.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "P250 | Gunsmoke",
@@ -37,7 +49,11 @@
     "weapon_id": 36,
     "gen_id": 15,
     "collection": "The Inferno Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheInfernoCollection/P250-Gunsmoke.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Nova | Walnut",
@@ -47,7 +63,11 @@
     "weapon_id": 35,
     "gen_id": 158,
     "collection": "The Inferno Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheInfernoCollection/Nova-Walnut.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "MAG-7 | Sand Dune",
@@ -57,7 +77,10 @@
     "weapon_id": 27,
     "gen_id": 99,
     "collection": "The Inferno Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheInfernoCollection/MAG-7-SandDune.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
-
 ]

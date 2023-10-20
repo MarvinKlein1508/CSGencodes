@@ -7,7 +7,11 @@
     "weapon_id": 60,
     "gen_id": 946,
     "collection": "Prisma 2 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/M4A1-S-PlayerTwo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Glock-18 | Bullet Queen",
@@ -17,7 +21,11 @@
     "weapon_id": 4,
     "gen_id": 957,
     "collection": "Prisma 2 Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/Glock-18-BulletQueen.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "AK-47 | Phantom Disruptor",
@@ -27,7 +35,11 @@
     "weapon_id": 7,
     "gen_id": 941,
     "collection": "Prisma 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/AK-47-PhantomDisruptor.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAC-10 | Disco Tech",
@@ -37,7 +49,11 @@
     "weapon_id": 17,
     "gen_id": 947,
     "collection": "Prisma 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/MAC-10-DiscoTech.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "MAG-7 | Justice",
@@ -47,7 +63,11 @@
     "weapon_id": 27,
     "gen_id": 948,
     "collection": "Prisma 2 Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/MAG-7-Justice.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "SSG 08 | Fever Dream",
@@ -57,7 +77,11 @@
     "weapon_id": 40,
     "gen_id": 956,
     "collection": "Prisma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/SSG08-FeverDream.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SG 553 | Darkwing",
@@ -67,7 +91,11 @@
     "weapon_id": 39,
     "gen_id": 955,
     "collection": "Prisma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/SG553-Darkwing.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "P2000 | Acid Etched",
@@ -77,7 +105,11 @@
     "weapon_id": 32,
     "gen_id": 951,
     "collection": "Prisma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/P2000-AcidEtched.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "SCAR-20 | Enforcer",
@@ -87,7 +119,11 @@
     "weapon_id": 38,
     "gen_id": 954,
     "collection": "Prisma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/SCAR-20-Enforcer.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Sawed-Off | Apocalypto",
@@ -97,7 +133,11 @@
     "weapon_id": 29,
     "gen_id": 953,
     "collection": "Prisma 2 Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/Sawed-Off-Apocalypto.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "AWP | Capillary",
@@ -107,7 +147,11 @@
     "weapon_id": 9,
     "gen_id": 943,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/AWP-Capillary.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Desert Eagle | Blue Ply",
@@ -117,7 +161,11 @@
     "weapon_id": 1,
     "gen_id": 945,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/DesertEagle-BluePly.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AUG | Tom Cat",
@@ -127,7 +175,11 @@
     "weapon_id": 8,
     "gen_id": 942,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/AUG-TomCat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP5-SD | Desert Strike",
@@ -137,7 +189,11 @@
     "weapon_id": 23,
     "gen_id": 949,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/MP5-SD-DesertStrike.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "CZ75-Auto | Distressed",
@@ -147,7 +203,11 @@
     "weapon_id": 63,
     "gen_id": 944,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/CZ75-Auto-Distressed.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Negev | Prototype",
@@ -157,7 +217,11 @@
     "weapon_id": 28,
     "gen_id": 950,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/Negev-Prototype.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "R8 Revolver | Bone Forged",
@@ -167,7 +231,10 @@
     "weapon_id": 64,
     "gen_id": 952,
     "collection": "Prisma 2 Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/Prisma2Collection/R8Revolver-BoneForged.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   }
-
 ]

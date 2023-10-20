@@ -7,7 +7,11 @@
     "weapon_id": 512,
     "gen_id": 0,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/FalchionVanilla.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 1)",
@@ -17,7 +21,11 @@
     "weapon_id": 512,
     "gen_id": 569,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-GammaDopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 2)",
@@ -27,7 +35,11 @@
     "weapon_id": 512,
     "gen_id": 570,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-GammaDopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 3)",
@@ -37,7 +49,11 @@
     "weapon_id": 512,
     "gen_id": 571,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-GammaDopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 4)",
@@ -47,7 +63,11 @@
     "weapon_id": 512,
     "gen_id": 572,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-GammaDopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Emerald)",
@@ -57,7 +77,11 @@
     "weapon_id": 512,
     "gen_id": 568,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-GammaDopplerEmerald.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Lore",
@@ -67,7 +91,11 @@
     "weapon_id": 512,
     "gen_id": 1106,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Lore.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Autotronic",
@@ -77,7 +105,11 @@
     "weapon_id": 512,
     "gen_id": 573,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Autotronic.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Black Laminate",
@@ -87,7 +119,11 @@
     "weapon_id": 512,
     "gen_id": 563,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-BlackLaminate.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Freehand",
@@ -97,7 +133,11 @@
     "weapon_id": 512,
     "gen_id": 580,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Freehand.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Bright Water",
@@ -107,7 +147,11 @@
     "weapon_id": 512,
     "gen_id": 578,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-BrightWater.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Marble Fade",
@@ -117,7 +161,11 @@
     "weapon_id": 512,
     "gen_id": 413,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-MarbleFade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Tiger Tooth",
@@ -127,7 +175,11 @@
     "weapon_id": 512,
     "gen_id": 409,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-TigerTooth.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 1)",
@@ -137,7 +189,11 @@
     "weapon_id": 512,
     "gen_id": 418,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerPhase1.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 2)",
@@ -147,7 +203,11 @@
     "weapon_id": 512,
     "gen_id": 419,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerPhase2.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 3)",
@@ -157,7 +217,11 @@
     "weapon_id": 512,
     "gen_id": 420,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerPhase3.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 4)",
@@ -167,7 +231,11 @@
     "weapon_id": 512,
     "gen_id": 421,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerPhase4.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Ruby)",
@@ -177,7 +245,11 @@
     "weapon_id": 512,
     "gen_id": 415,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerRuby.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Saphire)",
@@ -187,7 +259,11 @@
     "weapon_id": 512,
     "gen_id": 416,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerSaphire.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Black Pearl)",
@@ -197,7 +273,11 @@
     "weapon_id": 512,
     "gen_id": 417,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DopplerBlackPearl.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Damascus Steel",
@@ -207,7 +287,11 @@
     "weapon_id": 512,
     "gen_id": 410,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-DamascusSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Ultraviolet",
@@ -217,7 +301,11 @@
     "weapon_id": 512,
     "gen_id": 98,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Ultraviolet.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Rust Coat",
@@ -227,7 +315,11 @@
     "weapon_id": 512,
     "gen_id": 414,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-RustCoat.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Fade",
@@ -237,7 +329,11 @@
     "weapon_id": 512,
     "gen_id": 38,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Fade.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Slaughter",
@@ -247,7 +343,11 @@
     "weapon_id": 512,
     "gen_id": 59,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Slaughter.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Case Hardened",
@@ -257,7 +357,11 @@
     "weapon_id": 512,
     "gen_id": 44,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-CaseHardened.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Blue Steel",
@@ -267,7 +371,11 @@
     "weapon_id": 512,
     "gen_id": 42,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-BlueSteel.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Stained",
@@ -277,7 +385,11 @@
     "weapon_id": 512,
     "gen_id": 43,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Stained.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Crimson Web",
@@ -287,7 +399,11 @@
     "weapon_id": 512,
     "gen_id": 12,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-CrimsonWeb.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Boreal Forest",
@@ -297,7 +413,11 @@
     "weapon_id": 512,
     "gen_id": 77,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-BorealForest.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Night",
@@ -307,7 +427,11 @@
     "weapon_id": 512,
     "gen_id": 40,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Night.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Safari Mesh",
@@ -317,7 +441,11 @@
     "weapon_id": 512,
     "gen_id": 72,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-SafariMesh.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Urban Masked",
@@ -327,7 +455,11 @@
     "weapon_id": 512,
     "gen_id": 143,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-UrbanMasked.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Forest DDPAT",
@@ -337,7 +469,11 @@
     "weapon_id": 512,
     "gen_id": 5,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-ForestDDPAT.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Scorched",
@@ -347,6 +483,10 @@
     "weapon_id": 512,
     "gen_id": 5,
     "collection": "Falchion",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/Falchion/Falchion-Scorched.png",
+    "IsKnife": true,
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   }
 ]

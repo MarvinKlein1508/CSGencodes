@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 524,
     "collection": "Wildfire Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/WildfireCollection/AK-47-FuelInjector.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A4 | The Battlestar",
@@ -17,7 +21,11 @@
     "weapon_id": 16,
     "gen_id": 533,
     "collection": "Wildfire Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/WildfireCollection/M4A4-TheBattlestar.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Desert Eagle | Kumicho Dragon",
@@ -27,7 +35,11 @@
     "weapon_id": 1,
     "gen_id": 527,
     "collection": "Wildfire Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/WildfireCollection/DesertEagle-KumichoDragon.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | Elite Build",
@@ -37,7 +49,11 @@
     "weapon_id": 9,
     "gen_id": 525,
     "collection": "Wildfire Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/WildfireCollection/AWP-EliteBuild.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Nova | Hyper Beast",
@@ -47,7 +63,11 @@
     "weapon_id": 35,
     "gen_id": 537,
     "collection": "Wildfire Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/WildfireCollection/Nova-HyperBeast.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Glock-18 | Royal Legion",
@@ -57,7 +77,11 @@
     "weapon_id": 4,
     "gen_id": 532,
     "collection": "Wildfire Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WildfireCollection/Glock-18-RoyalLegion.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "FAMAS | Valence",
@@ -67,7 +91,11 @@
     "weapon_id": 10,
     "gen_id": 529,
     "collection": "Wildfire Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WildfireCollection/FAMAS-Valence.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MAG-7 | Praetorian",
@@ -77,7 +105,11 @@
     "weapon_id": 27,
     "gen_id": 535,
     "collection": "Wildfire Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WildfireCollection/MAG-7-Praetorian.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "MP7 | Impire",
@@ -87,7 +119,11 @@
     "weapon_id": 33,
     "gen_id": 536,
     "collection": "Wildfire Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WildfireCollection/MP7-Impire.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Five-SeveN | Triumvirate",
@@ -97,7 +133,11 @@
     "weapon_id": 3,
     "gen_id": 530,
     "collection": "Wildfire Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/WildfireCollection/Five-SeveN-Triumvirate.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "USP-S | Lead Conduit",
@@ -107,7 +147,11 @@
     "weapon_id": 61,
     "gen_id": 540,
     "collection": "Wildfire Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WildfireCollection/USP-S-LeadConduit.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "SSG 08 | Necropos",
@@ -117,7 +161,11 @@
     "weapon_id": 40,
     "gen_id": 538,
     "collection": "Wildfire Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WildfireCollection/SSG08-Necropos.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "PP-Bizon | Photic Zone",
@@ -127,7 +175,11 @@
     "weapon_id": 26,
     "gen_id": 526,
     "collection": "Wildfire Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WildfireCollection/PP-Bizon-PhoticZone.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Cartel",
@@ -137,7 +189,11 @@
     "weapon_id": 2,
     "gen_id": 528,
     "collection": "Wildfire Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WildfireCollection/DualBerettas-Cartel.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MAC-10 | Lapis Gator",
@@ -147,7 +203,11 @@
     "weapon_id": 17,
     "gen_id": 534,
     "collection": "Wildfire Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WildfireCollection/MAC-10-LapisGator.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Jambiya",
@@ -157,7 +217,10 @@
     "weapon_id": 30,
     "gen_id": 539,
     "collection": "Wildfire Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/WildfireCollection/Tec-9-Jambiya.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   }
-
 ]

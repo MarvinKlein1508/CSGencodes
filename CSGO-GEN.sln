@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSGO-GEN-WebAssembly", "CSG
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompileJsonCollections", "CompileJsonCollections\CompileJsonCollections.csproj", "{1BA6D460-99C5-4A14-A0A0-E8D1E29CF2DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuffIdGrabber", "BuffIdGrabber\BuffIdGrabber.csproj", "{1295647C-99B4-4823-BCFA-5301DE722C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonModelCreator", "JsonModelCreator\JsonModelCreator.csproj", "{1295647C-99B4-4823-BCFA-5301DE722C0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

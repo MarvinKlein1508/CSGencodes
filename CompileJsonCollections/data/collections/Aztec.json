@@ -7,7 +7,11 @@
     "weapon_id": 30,
     "gen_id": 36,
     "collection": "The Aztec Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheAztecCollection/Tec-9-Ossified.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AK-47 | Jungle Spray",
@@ -17,7 +21,11 @@
     "weapon_id": 7,
     "gen_id": 122,
     "collection": "The Aztec Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAztecCollection/AK-47-JungleSpray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "M4A4 | Jungle Tiger",
@@ -27,7 +35,11 @@
     "weapon_id": 16,
     "gen_id": 16,
     "collection": "The Aztec Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheAztecCollection/M4A4-JungleTiger.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Five-SeveN | Jungle",
@@ -37,7 +49,11 @@
     "weapon_id": 3,
     "gen_id": 151,
     "collection": "The Aztec Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAztecCollection/Five-SeveN-Jungle.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "SSG 08 | Lichen Dashed",
@@ -47,7 +63,11 @@
     "weapon_id": 40,
     "gen_id": 26,
     "collection": "The Aztec Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAztecCollection/SSG08-LichenDashed.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   },
   {
     "name": "Nova | Forest Leaves",
@@ -57,6 +77,10 @@
     "weapon_id": 35,
     "gen_id": 25,
     "collection": "The Aztec Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheAztecCollection/Nova-ForestLeaves.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
 ]

@@ -7,7 +7,11 @@
     "weapon_id": 33,
     "gen_id": 102,
     "collection": "The Office Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheOfficeCollection/MP7-Whiteout.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P2000 | Silver",
@@ -17,7 +21,11 @@
     "weapon_id": 32,
     "gen_id": 32,
     "collection": "The Office Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/TheOfficeCollection/P2000-Silver.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "M249 | Blizzard Marbleized",
@@ -27,7 +35,11 @@
     "weapon_id": 14,
     "gen_id": 75,
     "collection": "The Office Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOfficeCollection/M249-BlizzardMarbleized.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "Galil AR | Winter Forest",
@@ -37,7 +49,11 @@
     "weapon_id": 13,
     "gen_id": 76,
     "collection": "The Office Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOfficeCollection/GalilAR-WinterForest.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 2
   },
   {
     "name": "G3SG1 | Arctic Camo",
@@ -47,7 +63,11 @@
     "weapon_id": 11,
     "gen_id": 6,
     "collection": "The Office Collection",
-    "rarity": "Industrial"
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/TheOfficeCollection/G3SG1-ArcticCamo.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 2
   },
   {
     "name": "FAMAS | Contrast Spray",
@@ -57,6 +77,10 @@
     "weapon_id": 10,
     "gen_id": 22,
     "collection": "The Office Collection",
-    "rarity": "Consumer"
+    "rarity": "Consumer",
+    "Image": "/assets/img/items/weapons/TheOfficeCollection/FAMAS-ContrastSpray.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 1
   }
 ]

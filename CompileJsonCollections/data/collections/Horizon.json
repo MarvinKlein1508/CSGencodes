@@ -7,7 +7,11 @@
     "weapon_id": 7,
     "gen_id": 707,
     "collection": "Horizon Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/HorizonCollection/AK-47-NeonRider.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "Desert Eagle | Code Red",
@@ -17,7 +21,11 @@
     "weapon_id": 1,
     "gen_id": 711,
     "collection": "Horizon Collection",
-    "rarity": "Covert"
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/HorizonCollection/DesertEagle-CodeRed.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
   },
   {
     "name": "M4A1-S | Nightmare",
@@ -27,7 +35,11 @@
     "weapon_id": 60,
     "gen_id": 714,
     "collection": "Horizon Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HorizonCollection/M4A1-S-Nightmare.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "Sawed-Off | Devourer",
@@ -37,7 +49,11 @@
     "weapon_id": 29,
     "gen_id": 720,
     "collection": "Horizon Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HorizonCollection/Sawed-Off-Devourer.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "FAMAS | Eye of Athena",
@@ -47,7 +63,11 @@
     "weapon_id": 10,
     "gen_id": 723,
     "collection": "Horizon Collection",
-    "rarity": "Classified"
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/HorizonCollection/FAMAS-EyeofAthena.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 5
   },
   {
     "name": "AWP | PAW",
@@ -57,7 +77,11 @@
     "weapon_id": 9,
     "gen_id": 718,
     "collection": "Horizon Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HorizonCollection/AWP-PAW.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Nova | Toy Soldier",
@@ -67,7 +91,11 @@
     "weapon_id": 35,
     "gen_id": 716,
     "collection": "Horizon Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HorizonCollection/Nova-ToySoldier.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "CZ75-Auto | Eco",
@@ -77,7 +105,11 @@
     "weapon_id": 63,
     "gen_id": 709,
     "collection": "Horizon Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HorizonCollection/CZ75-Auto-Eco.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "G3SG1 | High Seas",
@@ -87,7 +119,11 @@
     "weapon_id": 11,
     "gen_id": 712,
     "collection": "Horizon Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HorizonCollection/G3SG1-HighSeas.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 4
   },
   {
     "name": "MP7 | Powercore",
@@ -97,7 +133,11 @@
     "weapon_id": 33,
     "gen_id": 719,
     "collection": "Horizon Collection",
-    "rarity": "Restricted"
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/HorizonCollection/MP7-Powercore.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
   },
   {
     "name": "Glock-18 | Warhawk",
@@ -107,7 +147,11 @@
     "weapon_id": 4,
     "gen_id": 713,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/Glock-18-Warhawk.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "P90 | Traction",
@@ -117,7 +161,11 @@
     "weapon_id": 19,
     "gen_id": 717,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/P90-Traction.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "MP9 | Capillary",
@@ -127,7 +175,11 @@
     "weapon_id": 34,
     "gen_id": 715,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/MP9-Capillary.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Tec-9 | Snek-9",
@@ -137,7 +189,11 @@
     "weapon_id": 30,
     "gen_id": 722,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/Tec-9-Snek-9.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "Dual Berettas | Shred",
@@ -147,7 +203,11 @@
     "weapon_id": 2,
     "gen_id": 710,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/DualBerettas-Shred.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "AUG | Amber Slipstream",
@@ -157,7 +217,11 @@
     "weapon_id": 8,
     "gen_id": 708,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/AUG-AmberSlipstream.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 3
   },
   {
     "name": "R8 Revolver | Survivalist",
@@ -167,7 +231,10 @@
     "weapon_id": 64,
     "gen_id": 721,
     "collection": "Horizon Collection",
-    "rarity": "Milspec"
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/HorizonCollection/R8Revolver-Survivalist.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 5,
+    "RarityId": 3
   }
-  
 ]
