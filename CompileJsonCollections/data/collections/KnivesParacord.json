@@ -112,20 +112,6 @@
     "RarityId": 6
   },
   {
-    "name": "Paracord Knife | Night",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 517,
-    "gen_id": 40,
-    "collection": "Paracord Knife",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/ParacordKnife/Night.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
     "name": "Paracord Knife | Safari Mesh",
     "min_wear": 0.06,
     "max_wear": 0.8,
