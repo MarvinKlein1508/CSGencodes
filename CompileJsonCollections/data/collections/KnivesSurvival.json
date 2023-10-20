@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/SurvivalVanilla.png",
+    "Image": "/assets/img/items/knives/Survival/SurvivalVanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-GammaDopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-GammaDopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-GammaDopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-GammaDopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-GammaDopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-GammaDopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-GammaDopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-GammaDopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-GammaDopplerEmerald.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-GammaDopplerEmerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 558,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Lore.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Autotronic.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-BlackLaminate.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-BlackLaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Freehand.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-BrightWater.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-BrightWater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-MarbleFade.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-MarbleFade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-TigerTooth.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-TigerTooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerRuby.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerRuby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerSaphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DopplerBlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-DamascusSteel.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-DamascusSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Ultraviolet.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-RustCoat.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Fade.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Slaughter.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-CaseHardened.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-CaseHardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-BlueSteel.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-BlueSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Stained.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-CrimsonWeb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-BorealForest.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-BorealForest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 735,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-NightStripe.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-NightStripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-SafariMesh.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-SafariMesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-UrbanMasked.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-UrbanMasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-ForestDDPAT.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Survival/Survival-Scorched.png",
+    "Image": "/assets/img/items/knives/Survival/Survival-Scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnifeVanilla.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnifeVanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-GammaDopplerPhase1.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-GammaDopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-GammaDopplerPhase2.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-GammaDopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-GammaDopplerPhase3.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-GammaDopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-GammaDopplerPhase4.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-GammaDopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-GammaDopplerEmerald.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-GammaDopplerEmerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 558,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Lore.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Autotronic.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-BlackLaminate.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-BlackLaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Freehand.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-BrightWater.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-BrightWater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-MarbleFade.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-MarbleFade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-TigerTooth.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-TigerTooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerRuby.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerRuby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerSaphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DopplerBlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-DamascusSteel.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-DamascusSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Ultraviolet.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-RustCoat.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Fade.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Slaughter.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-CaseHardened.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-CaseHardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-BlueSteel.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-BlueSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Stained.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-CrimsonWeb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-BorealForest.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-BorealForest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 40,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Night.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-SafariMesh.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-SafariMesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-UrbanMasked.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-UrbanMasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-ForestDDPAT.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 735,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-NightStripe.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-NightStripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -498,7 +498,7 @@
     "gen_id": 5,
     "collection": "Paracord Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ParacordKnife/ParacordKnife-Scorched.png",
+    "Image": "/assets/img/items/knives/ParacordKnife/ParacordKnife-Scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

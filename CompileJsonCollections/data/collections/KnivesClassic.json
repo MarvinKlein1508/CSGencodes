@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/ClassicVanilla.png",
+    "Image": "/assets/img/items/knives/Classic/ClassicVanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-GammaDopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-GammaDopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-GammaDopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-GammaDopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-GammaDopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-GammaDopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-GammaDopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-GammaDopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-GammaDopplerEmerald.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-GammaDopplerEmerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 558,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Lore.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Autotronic.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-BlackLaminate.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-BlackLaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Freehand.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-BrightWater.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-BrightWater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-MarbleFade.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-MarbleFade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-TigerTooth.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-TigerTooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerRuby.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerRuby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerSaphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DopplerBlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-DamascusSteel.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-DamascusSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Ultraviolet.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-RustCoat.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Fade.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Slaughter.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-CaseHardened.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-CaseHardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-BlueSteel.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-BlueSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Stained.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-CrimsonWeb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-BorealForest.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-BorealForest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 735,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-NightStripe.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-NightStripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-SafariMesh.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-SafariMesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-UrbanMasked.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-UrbanMasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-ForestDDPAT.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Classic",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Classic/Classic-Scorched.png",
+    "Image": "/assets/img/items/knives/Classic/Classic-Scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

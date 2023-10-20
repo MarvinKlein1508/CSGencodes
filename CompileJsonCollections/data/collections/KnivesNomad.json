@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/NomadVanilla.png",
+    "Image": "/assets/img/items/knives/Nomad/NomadVanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-GammaDopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-GammaDopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-GammaDopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-GammaDopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-GammaDopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-GammaDopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-GammaDopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-GammaDopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-GammaDopplerEmerald.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-GammaDopplerEmerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 558,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Lore.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Autotronic.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-BlackLaminate.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-BlackLaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Freehand.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-BrightWater.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-BrightWater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-MarbleFade.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-MarbleFade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-TigerTooth.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-TigerTooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerRuby.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerRuby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerSaphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DopplerBlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-DamascusSteel.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-DamascusSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Ultraviolet.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-RustCoat.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Fade.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Slaughter.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-CaseHardened.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-CaseHardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-BlueSteel.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-BlueSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Stained.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-CrimsonWeb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-BorealForest.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-BorealForest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 735,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-NightStripe.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-NightStripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-SafariMesh.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-SafariMesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-UrbanMasked.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-UrbanMasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-ForestDDPAT.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Nomad",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Nomad/Nomad-Scorched.png",
+    "Image": "/assets/img/items/knives/Nomad/Nomad-Scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

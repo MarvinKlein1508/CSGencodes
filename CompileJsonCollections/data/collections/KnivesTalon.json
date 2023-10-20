@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/TalonVanilla.png",
+    "Image": "/assets/img/items/knives/Talon/TalonVanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-GammaDopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-GammaDopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-GammaDopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-GammaDopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-GammaDopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-GammaDopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-GammaDopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-GammaDopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-GammaDopplerEmerald.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-GammaDopplerEmerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 558,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Lore.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Autotronic.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-BlackLaminate.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-BlackLaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Freehand.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-BrightWater.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-BrightWater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-MarbleFade.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-MarbleFade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-TigerTooth.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-TigerTooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerRuby.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerRuby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerSaphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DopplerBlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-DamascusSteel.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-DamascusSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Ultraviolet.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-RustCoat.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Fade.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Slaughter.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-CaseHardened.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-CaseHardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-BlueSteel.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-BlueSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Stained.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-CrimsonWeb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-BorealForest.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-BorealForest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 735,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-NightStripe.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-NightStripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-SafariMesh.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-SafariMesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-UrbanMasked.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-UrbanMasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-ForestDDPAT.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Talon",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Talon/Talon-Scorched.png",
+    "Image": "/assets/img/items/knives/Talon/Talon-Scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

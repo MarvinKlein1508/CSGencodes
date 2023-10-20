@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/HuntsmanVanilla.png",
+    "Image": "/assets/img/items/knives/Huntsman/HuntsmanVanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-GammaDopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-GammaDopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-GammaDopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-GammaDopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-GammaDopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-GammaDopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-GammaDopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-GammaDopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-GammaDopplerEmerald.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-GammaDopplerEmerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 1107,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Lore.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Autotronic.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-BlackLaminate.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-BlackLaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Freehand.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-BrightWater.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-BrightWater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-MarbleFade.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-MarbleFade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-TigerTooth.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-TigerTooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerPhase1.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerPhase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerPhase2.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerPhase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerPhase3.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerPhase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerPhase4.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerPhase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerRuby.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerRuby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerSaphire.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerSaphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DopplerBlackPearl.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DopplerBlackPearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-DamascusSteel.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-DamascusSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Ultraviolet.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-RustCoat.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Fade.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Slaughter.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-CaseHardened.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-CaseHardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-BlueSteel.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-BlueSteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Stained.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-CrimsonWeb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-BorealForest.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-BorealForest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 40,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Night.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-SafariMesh.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-SafariMesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-UrbanMasked.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-UrbanMasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-ForestDDPAT.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Huntsman",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Huntsman/Huntsman-Scorched.png",
+    "Image": "/assets/img/items/knives/Huntsman/Huntsman-Scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
