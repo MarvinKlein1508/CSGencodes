@@ -8,8 +8,10 @@
     "gen_id": 0,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie (Vanilla)",
@@ -20,8 +22,10 @@
     "gen_id": 0,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly (Vanilla)",
@@ -32,8 +36,10 @@
     "gen_id": 0,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic (Vanilla)",
@@ -44,8 +50,10 @@
     "gen_id": 0,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion (Vanilla)",
@@ -56,8 +64,10 @@
     "gen_id": 0,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip (Vanilla)",
@@ -68,8 +78,10 @@
     "gen_id": 0,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife (Vanilla)",
@@ -80,8 +92,10 @@
     "gen_id": 0,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman (Vanilla)",
@@ -92,8 +106,10 @@
     "gen_id": 0,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit (Vanilla)",
@@ -104,8 +120,10 @@
     "gen_id": 0,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet (Vanilla)",
@@ -116,8 +134,10 @@
     "gen_id": 0,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja (Vanilla)",
@@ -128,8 +148,10 @@
     "gen_id": 0,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad (Vanilla)",
@@ -140,8 +162,10 @@
     "gen_id": 0,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife (Vanilla)",
@@ -152,8 +176,10 @@
     "gen_id": 0,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers (Vanilla)",
@@ -164,8 +190,10 @@
     "gen_id": 0,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton (Vanilla)",
@@ -176,8 +204,10 @@
     "gen_id": 0,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto (Vanilla)",
@@ -188,8 +218,10 @@
     "gen_id": 0,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival (Vanilla)",
@@ -200,8 +232,10 @@
     "gen_id": 0,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon (Vanilla)",
@@ -212,8 +246,10 @@
     "gen_id": 0,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus (Vanilla)",
@@ -224,8 +260,10 @@
     "gen_id": 0,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Forest DDPAT",
@@ -236,8 +274,10 @@
     "gen_id": 5,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Scorched",
@@ -248,8 +288,10 @@
     "gen_id": 5,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Forest DDPAT",
@@ -260,8 +302,10 @@
     "gen_id": 5,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Scorched",
@@ -272,8 +316,10 @@
     "gen_id": 5,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Forest DDPAT",
@@ -284,8 +330,10 @@
     "gen_id": 5,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Scorched",
@@ -296,8 +344,10 @@
     "gen_id": 5,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Forest DDPAT",
@@ -308,8 +358,10 @@
     "gen_id": 5,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Scorched",
@@ -320,8 +372,10 @@
     "gen_id": 5,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Forest DDPAT",
@@ -332,8 +386,10 @@
     "gen_id": 5,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Scorched",
@@ -344,8 +400,10 @@
     "gen_id": 5,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Forest DDPAT",
@@ -356,8 +414,10 @@
     "gen_id": 5,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Scorched",
@@ -368,8 +428,10 @@
     "gen_id": 5,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Forest DDPAT",
@@ -380,8 +442,10 @@
     "gen_id": 5,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Scorched",
@@ -392,8 +456,10 @@
     "gen_id": 5,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Forest DDPAT",
@@ -404,8 +470,10 @@
     "gen_id": 5,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Scorched",
@@ -416,8 +484,10 @@
     "gen_id": 5,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Forest DDPAT",
@@ -428,8 +498,10 @@
     "gen_id": 5,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Scorched",
@@ -440,8 +512,10 @@
     "gen_id": 5,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Forest DDPAT",
@@ -452,8 +526,10 @@
     "gen_id": 5,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Scorched",
@@ -464,8 +540,10 @@
     "gen_id": 5,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Forest DDPAT",
@@ -476,8 +554,10 @@
     "gen_id": 5,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Scorched",
@@ -488,8 +568,10 @@
     "gen_id": 5,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Forest DDPAT",
@@ -500,8 +582,10 @@
     "gen_id": 5,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Scorched",
@@ -512,8 +596,10 @@
     "gen_id": 5,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Forest DDPAT",
@@ -524,8 +610,10 @@
     "gen_id": 5,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Scorched",
@@ -536,8 +624,10 @@
     "gen_id": 5,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Forest DDPAT",
@@ -548,8 +638,10 @@
     "gen_id": 5,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Scorched",
@@ -560,8 +652,10 @@
     "gen_id": 5,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Forest DDPAT",
@@ -572,8 +666,10 @@
     "gen_id": 5,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Scorched",
@@ -584,8 +680,10 @@
     "gen_id": 5,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Forest DDPAT",
@@ -596,8 +694,10 @@
     "gen_id": 5,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Scorched",
@@ -608,8 +708,10 @@
     "gen_id": 5,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Forest DDPAT",
@@ -620,8 +722,10 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Scorched",
@@ -632,8 +736,10 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Forest DDPAT",
@@ -644,8 +750,10 @@
     "gen_id": 5,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Scorched",
@@ -656,8 +764,10 @@
     "gen_id": 5,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Forest DDPAT",
@@ -668,8 +778,10 @@
     "gen_id": 5,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Scorched",
@@ -680,8 +792,10 @@
     "gen_id": 5,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Crimson Web",
@@ -692,8 +806,10 @@
     "gen_id": 12,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Crimson Web",
@@ -704,8 +820,10 @@
     "gen_id": 12,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Crimson Web",
@@ -716,8 +834,10 @@
     "gen_id": 12,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Crimson Web",
@@ -728,8 +848,10 @@
     "gen_id": 12,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Crimson Web",
@@ -740,8 +862,10 @@
     "gen_id": 12,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Crimson Web",
@@ -752,8 +876,10 @@
     "gen_id": 12,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Crimson Web",
@@ -764,8 +890,10 @@
     "gen_id": 12,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Crimson Web",
@@ -776,8 +904,10 @@
     "gen_id": 12,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Crimson Web",
@@ -788,8 +918,10 @@
     "gen_id": 12,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Crimson Web",
@@ -800,8 +932,10 @@
     "gen_id": 12,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Crimson Web",
@@ -812,8 +946,10 @@
     "gen_id": 12,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Crimson Web",
@@ -824,8 +960,10 @@
     "gen_id": 12,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Crimson Web",
@@ -836,8 +974,10 @@
     "gen_id": 12,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Crimson Web",
@@ -848,8 +988,10 @@
     "gen_id": 12,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Crimson Web",
@@ -860,8 +1002,10 @@
     "gen_id": 12,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Crimson Web",
@@ -872,8 +1016,10 @@
     "gen_id": 12,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Crimson Web",
@@ -884,8 +1030,10 @@
     "gen_id": 12,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Crimson Web",
@@ -896,8 +1044,10 @@
     "gen_id": 12,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Crimson Web",
@@ -908,8 +1058,10 @@
     "gen_id": 12,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Fade",
@@ -920,8 +1072,10 @@
     "gen_id": 38,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Fade",
@@ -932,8 +1086,10 @@
     "gen_id": 38,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Fade",
@@ -944,8 +1100,10 @@
     "gen_id": 38,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Fade",
@@ -956,8 +1114,10 @@
     "gen_id": 38,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Fade",
@@ -968,8 +1128,10 @@
     "gen_id": 38,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Fade",
@@ -980,8 +1142,10 @@
     "gen_id": 38,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Fade",
@@ -992,8 +1156,10 @@
     "gen_id": 38,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Fade",
@@ -1004,8 +1170,10 @@
     "gen_id": 38,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Fade",
@@ -1016,8 +1184,10 @@
     "gen_id": 38,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Fade",
@@ -1028,8 +1198,10 @@
     "gen_id": 38,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Fade",
@@ -1040,8 +1212,10 @@
     "gen_id": 38,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Fade",
@@ -1052,8 +1226,10 @@
     "gen_id": 38,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Fade",
@@ -1064,8 +1240,10 @@
     "gen_id": 38,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Fade",
@@ -1076,8 +1254,10 @@
     "gen_id": 38,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Fade",
@@ -1088,8 +1268,10 @@
     "gen_id": 38,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Fade",
@@ -1100,8 +1282,10 @@
     "gen_id": 38,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Fade",
@@ -1112,8 +1296,10 @@
     "gen_id": 38,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Fade",
@@ -1124,8 +1310,10 @@
     "gen_id": 38,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Fade",
@@ -1136,8 +1324,10 @@
     "gen_id": 38,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Night",
@@ -1148,8 +1338,10 @@
     "gen_id": 40,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Night",
@@ -1160,8 +1352,10 @@
     "gen_id": 40,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Night",
@@ -1172,8 +1366,10 @@
     "gen_id": 40,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Night",
@@ -1184,8 +1380,10 @@
     "gen_id": 40,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Night",
@@ -1196,8 +1394,10 @@
     "gen_id": 40,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Night",
@@ -1208,8 +1408,10 @@
     "gen_id": 40,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Night",
@@ -1220,8 +1422,10 @@
     "gen_id": 40,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Night",
@@ -1232,8 +1436,10 @@
     "gen_id": 40,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Night",
@@ -1244,8 +1450,10 @@
     "gen_id": 40,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Night",
@@ -1256,8 +1464,10 @@
     "gen_id": 40,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Night",
@@ -1268,20 +1478,10 @@
     "gen_id": 40,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
-  },
-  {
-    "name": "Stiletto | Night",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 522,
-    "gen_id": 40,
-    "collection": "Stiletto",
-    "rarity": "Covert",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Blue Steel",
@@ -1292,8 +1492,10 @@
     "gen_id": 42,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Blue Steel",
@@ -1304,8 +1506,10 @@
     "gen_id": 42,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Blue Steel",
@@ -1316,8 +1520,10 @@
     "gen_id": 42,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Blue Steel",
@@ -1328,8 +1534,10 @@
     "gen_id": 42,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Blue Steel",
@@ -1340,8 +1548,10 @@
     "gen_id": 42,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Blue Steel",
@@ -1352,8 +1562,10 @@
     "gen_id": 42,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Blue Steel",
@@ -1364,8 +1576,10 @@
     "gen_id": 42,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Blue Steel",
@@ -1376,8 +1590,10 @@
     "gen_id": 42,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Blue Steel",
@@ -1388,8 +1604,10 @@
     "gen_id": 42,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Blue Steel",
@@ -1400,8 +1618,10 @@
     "gen_id": 42,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Blue Steel",
@@ -1412,8 +1632,10 @@
     "gen_id": 42,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Blue Steel",
@@ -1424,8 +1646,10 @@
     "gen_id": 42,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Blue Steel",
@@ -1436,8 +1660,10 @@
     "gen_id": 42,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Blue Steel",
@@ -1448,8 +1674,10 @@
     "gen_id": 42,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Blue Steel",
@@ -1460,8 +1688,10 @@
     "gen_id": 42,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Blue Steel",
@@ -1472,8 +1702,10 @@
     "gen_id": 42,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Blue Steel",
@@ -1484,8 +1716,10 @@
     "gen_id": 42,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Blue Steel",
@@ -1496,8 +1730,10 @@
     "gen_id": 42,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Blue Steel",
@@ -1508,8 +1744,10 @@
     "gen_id": 42,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Stained",
@@ -1520,8 +1758,10 @@
     "gen_id": 43,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Stained",
@@ -1532,8 +1772,10 @@
     "gen_id": 43,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Stained",
@@ -1544,8 +1786,10 @@
     "gen_id": 43,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Stained",
@@ -1556,8 +1800,10 @@
     "gen_id": 43,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Stained",
@@ -1568,8 +1814,10 @@
     "gen_id": 43,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Stained",
@@ -1580,8 +1828,10 @@
     "gen_id": 43,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Stained",
@@ -1592,8 +1842,10 @@
     "gen_id": 43,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Stained",
@@ -1604,8 +1856,10 @@
     "gen_id": 43,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Stained",
@@ -1616,8 +1870,10 @@
     "gen_id": 43,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Stained",
@@ -1628,8 +1884,10 @@
     "gen_id": 43,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Stained",
@@ -1640,8 +1898,10 @@
     "gen_id": 43,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Stained",
@@ -1652,8 +1912,10 @@
     "gen_id": 43,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Stained",
@@ -1664,8 +1926,10 @@
     "gen_id": 43,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Stained",
@@ -1676,8 +1940,10 @@
     "gen_id": 43,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Stained",
@@ -1688,8 +1954,10 @@
     "gen_id": 43,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Stained",
@@ -1700,8 +1968,10 @@
     "gen_id": 43,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Stained",
@@ -1712,8 +1982,10 @@
     "gen_id": 43,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Stained",
@@ -1724,8 +1996,10 @@
     "gen_id": 43,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Stained",
@@ -1736,8 +2010,10 @@
     "gen_id": 43,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Case Hardened",
@@ -1748,8 +2024,10 @@
     "gen_id": 44,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Case Hardened",
@@ -1760,8 +2038,10 @@
     "gen_id": 44,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Case Hardened",
@@ -1772,8 +2052,10 @@
     "gen_id": 44,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Case Hardened",
@@ -1784,8 +2066,10 @@
     "gen_id": 44,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Case Hardened",
@@ -1796,8 +2080,10 @@
     "gen_id": 44,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Case Hardened",
@@ -1808,8 +2094,10 @@
     "gen_id": 44,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Case Hardened",
@@ -1820,8 +2108,10 @@
     "gen_id": 44,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Case Hardened",
@@ -1832,8 +2122,10 @@
     "gen_id": 44,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Case Hardened",
@@ -1844,8 +2136,10 @@
     "gen_id": 44,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Case Hardened",
@@ -1856,8 +2150,10 @@
     "gen_id": 44,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Case Hardened",
@@ -1868,8 +2164,10 @@
     "gen_id": 44,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Case Hardened",
@@ -1880,8 +2178,10 @@
     "gen_id": 44,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Case Hardened",
@@ -1892,8 +2192,10 @@
     "gen_id": 44,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Case Hardened",
@@ -1904,8 +2206,10 @@
     "gen_id": 44,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Case Hardened",
@@ -1916,8 +2220,10 @@
     "gen_id": 44,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Case Hardened",
@@ -1928,8 +2234,10 @@
     "gen_id": 44,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Case Hardened",
@@ -1940,8 +2248,10 @@
     "gen_id": 44,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Case Hardened",
@@ -1952,8 +2262,10 @@
     "gen_id": 44,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Case Hardened",
@@ -1964,8 +2276,10 @@
     "gen_id": 44,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Slaughter",
@@ -1976,8 +2290,10 @@
     "gen_id": 59,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Slaughter",
@@ -1988,8 +2304,10 @@
     "gen_id": 59,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Slaughter",
@@ -2000,8 +2318,10 @@
     "gen_id": 59,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Slaughter",
@@ -2012,8 +2332,10 @@
     "gen_id": 59,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Slaughter",
@@ -2024,8 +2346,10 @@
     "gen_id": 59,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Slaughter",
@@ -2036,8 +2360,10 @@
     "gen_id": 59,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Slaughter",
@@ -2048,8 +2374,10 @@
     "gen_id": 59,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Slaughter",
@@ -2060,8 +2388,10 @@
     "gen_id": 59,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Slaughter",
@@ -2072,8 +2402,10 @@
     "gen_id": 59,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Slaughter",
@@ -2084,8 +2416,10 @@
     "gen_id": 59,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Slaughter",
@@ -2096,8 +2430,10 @@
     "gen_id": 59,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Slaughter",
@@ -2108,8 +2444,10 @@
     "gen_id": 59,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Slaughter",
@@ -2120,8 +2458,10 @@
     "gen_id": 59,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Slaughter",
@@ -2132,8 +2472,10 @@
     "gen_id": 59,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Slaughter",
@@ -2144,8 +2486,10 @@
     "gen_id": 59,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Slaughter",
@@ -2156,8 +2500,10 @@
     "gen_id": 59,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Slaughter",
@@ -2168,8 +2514,10 @@
     "gen_id": 59,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Slaughter",
@@ -2180,8 +2528,10 @@
     "gen_id": 59,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Slaughter",
@@ -2192,8 +2542,10 @@
     "gen_id": 59,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Safari Mesh",
@@ -2204,8 +2556,10 @@
     "gen_id": 72,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Safari Mesh",
@@ -2216,8 +2570,10 @@
     "gen_id": 72,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Safari Mesh",
@@ -2228,8 +2584,10 @@
     "gen_id": 72,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Safari Mesh",
@@ -2240,8 +2598,10 @@
     "gen_id": 72,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Safari Mesh",
@@ -2252,8 +2612,10 @@
     "gen_id": 72,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Safari Mesh",
@@ -2264,8 +2626,10 @@
     "gen_id": 72,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Safari Mesh",
@@ -2276,8 +2640,10 @@
     "gen_id": 72,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Safari Mesh",
@@ -2288,8 +2654,10 @@
     "gen_id": 72,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Safari Mesh",
@@ -2300,8 +2668,10 @@
     "gen_id": 72,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Safari Mesh",
@@ -2312,8 +2682,10 @@
     "gen_id": 72,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Safari Mesh",
@@ -2324,8 +2696,10 @@
     "gen_id": 72,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Safari Mesh",
@@ -2336,8 +2710,10 @@
     "gen_id": 72,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Safari Mesh",
@@ -2348,8 +2724,10 @@
     "gen_id": 72,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Safari Mesh",
@@ -2360,8 +2738,10 @@
     "gen_id": 72,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Safari Mesh",
@@ -2372,8 +2752,10 @@
     "gen_id": 72,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Safari Mesh",
@@ -2384,8 +2766,10 @@
     "gen_id": 72,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Safari Mesh",
@@ -2396,8 +2780,10 @@
     "gen_id": 72,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Safari Mesh",
@@ -2408,8 +2794,10 @@
     "gen_id": 72,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Safari Mesh",
@@ -2420,8 +2808,10 @@
     "gen_id": 72,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Boreal Forest",
@@ -2432,8 +2822,10 @@
     "gen_id": 77,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Boreal Forest",
@@ -2444,8 +2836,10 @@
     "gen_id": 77,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Boreal Forest",
@@ -2456,8 +2850,10 @@
     "gen_id": 77,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Boreal Forest",
@@ -2468,8 +2864,10 @@
     "gen_id": 77,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Boreal Forest",
@@ -2480,8 +2878,10 @@
     "gen_id": 77,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Boreal Forest",
@@ -2492,8 +2892,10 @@
     "gen_id": 77,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Boreal Forest",
@@ -2504,8 +2906,10 @@
     "gen_id": 77,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Boreal Forest",
@@ -2516,8 +2920,10 @@
     "gen_id": 77,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Boreal Forest",
@@ -2528,8 +2934,10 @@
     "gen_id": 77,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Boreal Forest",
@@ -2540,8 +2948,10 @@
     "gen_id": 77,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Boreal Forest",
@@ -2552,8 +2962,10 @@
     "gen_id": 77,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Boreal Forest",
@@ -2564,8 +2976,10 @@
     "gen_id": 77,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Boreal Forest",
@@ -2576,8 +2990,10 @@
     "gen_id": 77,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Boreal Forest",
@@ -2588,8 +3004,10 @@
     "gen_id": 77,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Boreal Forest",
@@ -2600,8 +3018,10 @@
     "gen_id": 77,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Boreal Forest",
@@ -2612,8 +3032,10 @@
     "gen_id": 77,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Boreal Forest",
@@ -2624,8 +3046,10 @@
     "gen_id": 77,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Boreal Forest",
@@ -2636,8 +3060,10 @@
     "gen_id": 77,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Boreal Forest",
@@ -2648,8 +3074,10 @@
     "gen_id": 77,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Ultraviolet",
@@ -2660,8 +3088,10 @@
     "gen_id": 98,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Ultraviolet",
@@ -2672,8 +3102,10 @@
     "gen_id": 98,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Ultraviolet",
@@ -2684,8 +3116,10 @@
     "gen_id": 98,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Ultraviolet",
@@ -2696,8 +3130,10 @@
     "gen_id": 98,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Ultraviolet",
@@ -2708,8 +3144,10 @@
     "gen_id": 98,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Ultraviolet",
@@ -2720,8 +3158,10 @@
     "gen_id": 98,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Ultraviolet",
@@ -2732,8 +3172,10 @@
     "gen_id": 98,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Ultraviolet",
@@ -2744,8 +3186,10 @@
     "gen_id": 98,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Ultraviolet",
@@ -2756,8 +3200,10 @@
     "gen_id": 98,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Ultraviolet",
@@ -2768,8 +3214,10 @@
     "gen_id": 98,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Ultraviolet",
@@ -2780,8 +3228,10 @@
     "gen_id": 98,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Ultraviolet",
@@ -2792,8 +3242,10 @@
     "gen_id": 98,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Ultraviolet",
@@ -2804,8 +3256,10 @@
     "gen_id": 98,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Ultraviolet",
@@ -2816,8 +3270,10 @@
     "gen_id": 98,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Ultraviolet",
@@ -2828,8 +3284,10 @@
     "gen_id": 98,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Ultraviolet",
@@ -2840,8 +3298,10 @@
     "gen_id": 98,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Ultraviolet",
@@ -2852,8 +3312,10 @@
     "gen_id": 98,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Ultraviolet",
@@ -2864,8 +3326,10 @@
     "gen_id": 98,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Ultraviolet",
@@ -2876,8 +3340,10 @@
     "gen_id": 98,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Urban Masked",
@@ -2888,8 +3354,10 @@
     "gen_id": 143,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Urban Masked",
@@ -2900,8 +3368,10 @@
     "gen_id": 143,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Urban Masked",
@@ -2912,8 +3382,10 @@
     "gen_id": 143,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Urban Masked",
@@ -2924,8 +3396,10 @@
     "gen_id": 143,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Urban Masked",
@@ -2936,8 +3410,10 @@
     "gen_id": 143,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Urban Masked",
@@ -2948,8 +3424,10 @@
     "gen_id": 143,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Urban Masked",
@@ -2960,8 +3438,10 @@
     "gen_id": 143,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Urban Masked",
@@ -2972,8 +3452,10 @@
     "gen_id": 143,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Urban Masked",
@@ -2984,8 +3466,10 @@
     "gen_id": 143,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Urban Masked",
@@ -2996,8 +3480,10 @@
     "gen_id": 143,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Urban Masked",
@@ -3008,8 +3494,10 @@
     "gen_id": 143,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Urban Masked",
@@ -3020,8 +3508,10 @@
     "gen_id": 143,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Urban Masked",
@@ -3032,8 +3522,10 @@
     "gen_id": 143,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Urban Masked",
@@ -3044,8 +3536,10 @@
     "gen_id": 143,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Urban Masked",
@@ -3056,8 +3550,10 @@
     "gen_id": 143,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Urban Masked",
@@ -3068,8 +3564,10 @@
     "gen_id": 143,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Urban Masked",
@@ -3080,8 +3578,10 @@
     "gen_id": 143,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Urban Masked",
@@ -3092,8 +3592,10 @@
     "gen_id": 143,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Urban Masked",
@@ -3104,8 +3606,10 @@
     "gen_id": 143,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Tiger Tooth",
@@ -3116,8 +3620,10 @@
     "gen_id": 409,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Tiger Tooth",
@@ -3128,8 +3634,10 @@
     "gen_id": 409,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Tiger Tooth",
@@ -3140,8 +3648,10 @@
     "gen_id": 409,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Tiger Tooth",
@@ -3152,8 +3662,10 @@
     "gen_id": 409,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Tiger Tooth",
@@ -3164,8 +3676,10 @@
     "gen_id": 409,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Tiger Tooth",
@@ -3176,8 +3690,10 @@
     "gen_id": 409,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Tiger Tooth",
@@ -3188,8 +3704,10 @@
     "gen_id": 409,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Tiger Tooth",
@@ -3200,8 +3718,10 @@
     "gen_id": 409,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Tiger Tooth",
@@ -3212,8 +3732,10 @@
     "gen_id": 409,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Tiger Tooth",
@@ -3224,8 +3746,10 @@
     "gen_id": 409,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Tiger Tooth",
@@ -3236,8 +3760,10 @@
     "gen_id": 409,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Tiger Tooth",
@@ -3248,8 +3774,10 @@
     "gen_id": 409,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Tiger Tooth",
@@ -3260,8 +3788,10 @@
     "gen_id": 409,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Tiger Tooth",
@@ -3272,8 +3802,10 @@
     "gen_id": 409,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Tiger Tooth",
@@ -3284,8 +3816,10 @@
     "gen_id": 409,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Tiger Tooth",
@@ -3296,8 +3830,10 @@
     "gen_id": 409,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Tiger Tooth",
@@ -3308,8 +3844,10 @@
     "gen_id": 409,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Tiger Tooth",
@@ -3320,8 +3858,10 @@
     "gen_id": 409,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Tiger Tooth",
@@ -3332,8 +3872,10 @@
     "gen_id": 409,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Damascus Steel",
@@ -3344,8 +3886,10 @@
     "gen_id": 410,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Damascus Steel",
@@ -3356,8 +3900,10 @@
     "gen_id": 410,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Damascus Steel",
@@ -3368,8 +3914,10 @@
     "gen_id": 410,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Damascus Steel",
@@ -3380,8 +3928,10 @@
     "gen_id": 410,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Damascus Steel",
@@ -3392,8 +3942,10 @@
     "gen_id": 410,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Damascus Steel",
@@ -3404,8 +3956,10 @@
     "gen_id": 410,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Damascus Steel",
@@ -3416,8 +3970,10 @@
     "gen_id": 410,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Damascus Steel",
@@ -3428,8 +3984,10 @@
     "gen_id": 410,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Damascus Steel",
@@ -3440,8 +3998,10 @@
     "gen_id": 410,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Damascus Steel",
@@ -3452,8 +4012,10 @@
     "gen_id": 410,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Damascus Steel",
@@ -3464,8 +4026,10 @@
     "gen_id": 410,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Damascus Steel",
@@ -3476,8 +4040,10 @@
     "gen_id": 410,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Damascus Steel",
@@ -3488,8 +4054,10 @@
     "gen_id": 410,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Damascus Steel",
@@ -3500,8 +4068,10 @@
     "gen_id": 410,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Damascus Steel",
@@ -3512,8 +4082,10 @@
     "gen_id": 410,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Damascus Steel",
@@ -3524,8 +4096,10 @@
     "gen_id": 410,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Damascus Steel",
@@ -3536,8 +4110,10 @@
     "gen_id": 410,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Damascus Steel",
@@ -3548,8 +4124,10 @@
     "gen_id": 410,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Damascus Steel",
@@ -3560,8 +4138,10 @@
     "gen_id": 410,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Marble Fade",
@@ -3572,8 +4152,10 @@
     "gen_id": 413,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Marble Fade",
@@ -3584,8 +4166,10 @@
     "gen_id": 413,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Marble Fade",
@@ -3596,8 +4180,10 @@
     "gen_id": 413,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Marble Fade",
@@ -3608,8 +4194,10 @@
     "gen_id": 413,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Marble Fade",
@@ -3620,8 +4208,10 @@
     "gen_id": 413,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Marble Fade",
@@ -3632,8 +4222,10 @@
     "gen_id": 413,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Marble Fade",
@@ -3644,8 +4236,10 @@
     "gen_id": 413,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Marble Fade",
@@ -3656,8 +4250,10 @@
     "gen_id": 413,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Marble Fade",
@@ -3668,8 +4264,10 @@
     "gen_id": 413,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Marble Fade",
@@ -3680,8 +4278,10 @@
     "gen_id": 413,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Marble Fade",
@@ -3692,8 +4292,10 @@
     "gen_id": 413,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Marble Fade",
@@ -3704,8 +4306,10 @@
     "gen_id": 413,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Marble Fade",
@@ -3716,8 +4320,10 @@
     "gen_id": 413,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Marble Fade",
@@ -3728,8 +4334,10 @@
     "gen_id": 413,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Marble Fade",
@@ -3740,8 +4348,10 @@
     "gen_id": 413,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Marble Fade",
@@ -3752,8 +4362,10 @@
     "gen_id": 413,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Marble Fade",
@@ -3764,8 +4376,10 @@
     "gen_id": 413,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Marble Fade",
@@ -3776,8 +4390,10 @@
     "gen_id": 413,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Marble Fade",
@@ -3788,8 +4404,10 @@
     "gen_id": 413,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Rust Coat",
@@ -3800,8 +4418,10 @@
     "gen_id": 414,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Rust Coat",
@@ -3812,8 +4432,10 @@
     "gen_id": 414,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Rust Coat",
@@ -3824,8 +4446,10 @@
     "gen_id": 414,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Rust Coat",
@@ -3836,8 +4460,10 @@
     "gen_id": 414,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Rust Coat",
@@ -3848,8 +4474,10 @@
     "gen_id": 414,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Rust Coat",
@@ -3860,8 +4488,10 @@
     "gen_id": 414,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Rust Coat",
@@ -3872,8 +4502,10 @@
     "gen_id": 414,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Rust Coat",
@@ -3884,8 +4516,10 @@
     "gen_id": 414,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Rust Coat",
@@ -3896,8 +4530,10 @@
     "gen_id": 414,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Rust Coat",
@@ -3908,8 +4544,10 @@
     "gen_id": 414,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Rust Coat",
@@ -3920,8 +4558,10 @@
     "gen_id": 414,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Rust Coat",
@@ -3932,8 +4572,10 @@
     "gen_id": 414,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Rust Coat",
@@ -3944,8 +4586,10 @@
     "gen_id": 414,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Rust Coat",
@@ -3956,8 +4600,10 @@
     "gen_id": 414,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Rust Coat",
@@ -3968,8 +4614,10 @@
     "gen_id": 414,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Rust Coat",
@@ -3980,8 +4628,10 @@
     "gen_id": 414,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Rust Coat",
@@ -3992,8 +4642,10 @@
     "gen_id": 414,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Rust Coat",
@@ -4004,8 +4656,10 @@
     "gen_id": 414,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Rust Coat",
@@ -4016,8 +4670,10 @@
     "gen_id": 414,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Ruby)",
@@ -4028,8 +4684,10 @@
     "gen_id": 415,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Ruby)",
@@ -4040,8 +4698,10 @@
     "gen_id": 415,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Ruby)",
@@ -4052,8 +4712,10 @@
     "gen_id": 415,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Ruby)",
@@ -4064,8 +4726,10 @@
     "gen_id": 415,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Ruby)",
@@ -4076,8 +4740,10 @@
     "gen_id": 415,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Ruby)",
@@ -4088,8 +4754,10 @@
     "gen_id": 415,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Ruby)",
@@ -4100,8 +4768,10 @@
     "gen_id": 415,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Ruby)",
@@ -4112,8 +4782,10 @@
     "gen_id": 415,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Ruby)",
@@ -4124,8 +4796,10 @@
     "gen_id": 415,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Ruby)",
@@ -4136,8 +4810,10 @@
     "gen_id": 415,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Ruby)",
@@ -4148,8 +4824,10 @@
     "gen_id": 415,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Ruby)",
@@ -4160,8 +4838,10 @@
     "gen_id": 415,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Ruby)",
@@ -4172,8 +4852,10 @@
     "gen_id": 415,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Ruby)",
@@ -4184,8 +4866,10 @@
     "gen_id": 415,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Ruby)",
@@ -4196,8 +4880,10 @@
     "gen_id": 415,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Ruby)",
@@ -4208,8 +4894,10 @@
     "gen_id": 415,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Ruby)",
@@ -4220,8 +4908,10 @@
     "gen_id": 415,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Ruby)",
@@ -4232,8 +4922,10 @@
     "gen_id": 415,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Ruby)",
@@ -4244,8 +4936,10 @@
     "gen_id": 415,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Saphire)",
@@ -4256,8 +4950,10 @@
     "gen_id": 416,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Saphire)",
@@ -4268,8 +4964,10 @@
     "gen_id": 416,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Saphire)",
@@ -4280,8 +4978,10 @@
     "gen_id": 416,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Saphire)",
@@ -4292,8 +4992,10 @@
     "gen_id": 416,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Saphire)",
@@ -4304,8 +5006,10 @@
     "gen_id": 416,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Saphire)",
@@ -4316,8 +5020,10 @@
     "gen_id": 416,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Saphire)",
@@ -4328,8 +5034,10 @@
     "gen_id": 416,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Saphire)",
@@ -4340,8 +5048,10 @@
     "gen_id": 416,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Saphire)",
@@ -4352,8 +5062,10 @@
     "gen_id": 416,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Saphire)",
@@ -4364,8 +5076,10 @@
     "gen_id": 416,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Saphire)",
@@ -4376,8 +5090,10 @@
     "gen_id": 416,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Saphire)",
@@ -4388,8 +5104,10 @@
     "gen_id": 416,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Saphire)",
@@ -4400,8 +5118,10 @@
     "gen_id": 416,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Saphire)",
@@ -4412,8 +5132,10 @@
     "gen_id": 416,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Saphire)",
@@ -4424,8 +5146,10 @@
     "gen_id": 416,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Saphire)",
@@ -4436,8 +5160,10 @@
     "gen_id": 416,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Saphire)",
@@ -4448,8 +5174,10 @@
     "gen_id": 416,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Saphire)",
@@ -4460,8 +5188,10 @@
     "gen_id": 416,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Saphire)",
@@ -4472,8 +5202,10 @@
     "gen_id": 416,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Black Pearl)",
@@ -4484,8 +5216,10 @@
     "gen_id": 417,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Black Pearl)",
@@ -4496,8 +5230,10 @@
     "gen_id": 417,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Black Pearl)",
@@ -4508,8 +5244,10 @@
     "gen_id": 417,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Black Pearl)",
@@ -4520,8 +5258,10 @@
     "gen_id": 417,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Black Pearl)",
@@ -4532,8 +5272,10 @@
     "gen_id": 417,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Black Pearl)",
@@ -4544,8 +5286,10 @@
     "gen_id": 417,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Black Pearl)",
@@ -4556,8 +5300,10 @@
     "gen_id": 417,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Black Pearl)",
@@ -4568,8 +5314,10 @@
     "gen_id": 417,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Black Pearl)",
@@ -4580,8 +5328,10 @@
     "gen_id": 417,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Black Pearl)",
@@ -4592,8 +5342,10 @@
     "gen_id": 417,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Black Pearl)",
@@ -4604,8 +5356,10 @@
     "gen_id": 417,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Black Pearl)",
@@ -4616,8 +5370,10 @@
     "gen_id": 417,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Black Pearl)",
@@ -4628,8 +5384,10 @@
     "gen_id": 417,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Black Pearl)",
@@ -4640,8 +5398,10 @@
     "gen_id": 417,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Black Pearl)",
@@ -4652,8 +5412,10 @@
     "gen_id": 417,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Black Pearl)",
@@ -4664,8 +5426,10 @@
     "gen_id": 417,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Black Pearl)",
@@ -4676,8 +5440,10 @@
     "gen_id": 417,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Black Pearl)",
@@ -4688,8 +5454,10 @@
     "gen_id": 417,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Black Pearl)",
@@ -4700,8 +5468,10 @@
     "gen_id": 417,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Phase 1)",
@@ -4712,8 +5482,10 @@
     "gen_id": 418,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Phase 1)",
@@ -4724,8 +5496,10 @@
     "gen_id": 418,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Phase 1)",
@@ -4736,8 +5510,10 @@
     "gen_id": 418,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Phase 1)",
@@ -4748,8 +5524,10 @@
     "gen_id": 418,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 1)",
@@ -4760,8 +5538,10 @@
     "gen_id": 418,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Phase 1)",
@@ -4772,8 +5552,10 @@
     "gen_id": 418,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Phase 1)",
@@ -4784,8 +5566,10 @@
     "gen_id": 418,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Phase 1)",
@@ -4796,8 +5580,10 @@
     "gen_id": 418,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 1)",
@@ -4808,8 +5594,10 @@
     "gen_id": 418,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Phase 1)",
@@ -4820,8 +5608,10 @@
     "gen_id": 418,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 1)",
@@ -4832,8 +5622,10 @@
     "gen_id": 418,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Phase 1)",
@@ -4844,8 +5636,10 @@
     "gen_id": 418,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Phase 1)",
@@ -4856,8 +5650,10 @@
     "gen_id": 418,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 1)",
@@ -4868,8 +5664,10 @@
     "gen_id": 418,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 1)",
@@ -4880,8 +5678,10 @@
     "gen_id": 418,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Phase 1)",
@@ -4892,8 +5692,10 @@
     "gen_id": 418,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Phase 1)",
@@ -4904,8 +5706,10 @@
     "gen_id": 418,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Phase 1)",
@@ -4916,8 +5720,10 @@
     "gen_id": 418,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Phase 1)",
@@ -4928,8 +5734,10 @@
     "gen_id": 418,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Phase 2)",
@@ -4940,8 +5748,10 @@
     "gen_id": 419,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Phase 2)",
@@ -4952,8 +5762,10 @@
     "gen_id": 419,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Phase 2)",
@@ -4964,8 +5776,10 @@
     "gen_id": 419,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Phase 2)",
@@ -4976,8 +5790,10 @@
     "gen_id": 419,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 2)",
@@ -4988,8 +5804,10 @@
     "gen_id": 419,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Phase 2)",
@@ -5000,8 +5818,10 @@
     "gen_id": 419,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Phase 2)",
@@ -5012,8 +5832,10 @@
     "gen_id": 419,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Phase 2)",
@@ -5024,8 +5846,10 @@
     "gen_id": 419,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 2)",
@@ -5036,8 +5860,10 @@
     "gen_id": 419,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Phase 2)",
@@ -5048,8 +5874,10 @@
     "gen_id": 419,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 2)",
@@ -5060,8 +5888,10 @@
     "gen_id": 419,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Phase 2)",
@@ -5072,8 +5902,10 @@
     "gen_id": 419,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Phase 2)",
@@ -5084,8 +5916,10 @@
     "gen_id": 419,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 2)",
@@ -5096,8 +5930,10 @@
     "gen_id": 419,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 2)",
@@ -5108,8 +5944,10 @@
     "gen_id": 419,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Phase 2)",
@@ -5120,8 +5958,10 @@
     "gen_id": 419,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Phase 2)",
@@ -5132,8 +5972,10 @@
     "gen_id": 419,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Phase 2)",
@@ -5144,8 +5986,10 @@
     "gen_id": 419,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Phase 2)",
@@ -5156,8 +6000,10 @@
     "gen_id": 419,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Phase 3)",
@@ -5168,8 +6014,10 @@
     "gen_id": 420,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Phase 3)",
@@ -5180,8 +6028,10 @@
     "gen_id": 420,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Phase 3)",
@@ -5192,8 +6042,10 @@
     "gen_id": 420,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Phase 3)",
@@ -5204,8 +6056,10 @@
     "gen_id": 420,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 3)",
@@ -5216,8 +6070,10 @@
     "gen_id": 420,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Phase 3)",
@@ -5228,8 +6084,10 @@
     "gen_id": 420,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Phase 3)",
@@ -5240,8 +6098,10 @@
     "gen_id": 420,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Phase 3)",
@@ -5252,8 +6112,10 @@
     "gen_id": 420,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 3)",
@@ -5264,8 +6126,10 @@
     "gen_id": 420,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Phase 3)",
@@ -5276,8 +6140,10 @@
     "gen_id": 420,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 3)",
@@ -5288,8 +6154,10 @@
     "gen_id": 420,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Phase 3)",
@@ -5300,8 +6168,10 @@
     "gen_id": 420,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Phase 3)",
@@ -5312,8 +6182,10 @@
     "gen_id": 420,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 3)",
@@ -5324,8 +6196,10 @@
     "gen_id": 420,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 3)",
@@ -5336,8 +6210,10 @@
     "gen_id": 420,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Phase 3)",
@@ -5348,8 +6224,10 @@
     "gen_id": 420,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Phase 3)",
@@ -5360,8 +6238,10 @@
     "gen_id": 420,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Phase 3)",
@@ -5372,8 +6252,10 @@
     "gen_id": 420,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Phase 3)",
@@ -5384,8 +6266,10 @@
     "gen_id": 420,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Doppler (Phase 4)",
@@ -5396,8 +6280,10 @@
     "gen_id": 421,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Doppler (Phase 4)",
@@ -5408,8 +6294,10 @@
     "gen_id": 421,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Doppler (Phase 4)",
@@ -5420,8 +6308,10 @@
     "gen_id": 421,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Doppler (Phase 4)",
@@ -5432,8 +6322,10 @@
     "gen_id": 421,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Doppler (Phase 4)",
@@ -5444,8 +6336,10 @@
     "gen_id": 421,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Doppler (Phase 4)",
@@ -5456,8 +6350,10 @@
     "gen_id": 421,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Doppler (Phase 4)",
@@ -5468,8 +6364,10 @@
     "gen_id": 421,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Doppler (Phase 4)",
@@ -5480,8 +6378,10 @@
     "gen_id": 421,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Doppler (Phase 4)",
@@ -5492,8 +6392,10 @@
     "gen_id": 421,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Doppler (Phase 4)",
@@ -5504,8 +6406,10 @@
     "gen_id": 421,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Doppler (Phase 4)",
@@ -5516,8 +6420,10 @@
     "gen_id": 421,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Doppler (Phase 4)",
@@ -5528,8 +6434,10 @@
     "gen_id": 421,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Doppler (Phase 4)",
@@ -5540,8 +6448,10 @@
     "gen_id": 421,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Doppler (Phase 4)",
@@ -5552,8 +6462,10 @@
     "gen_id": 421,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Doppler (Phase 4)",
@@ -5564,8 +6476,10 @@
     "gen_id": 421,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Doppler (Phase 4)",
@@ -5576,8 +6490,10 @@
     "gen_id": 421,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Doppler (Phase 4)",
@@ -5588,8 +6504,10 @@
     "gen_id": 421,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Doppler (Phase 4)",
@@ -5600,8 +6518,10 @@
     "gen_id": 421,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Doppler (Phase 4)",
@@ -5612,8 +6532,10 @@
     "gen_id": 421,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Lore",
@@ -5624,8 +6546,10 @@
     "gen_id": 558,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Lore",
@@ -5636,8 +6560,10 @@
     "gen_id": 558,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Lore",
@@ -5648,8 +6574,10 @@
     "gen_id": 558,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Lore",
@@ -5660,8 +6588,10 @@
     "gen_id": 558,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Lore",
@@ -5672,8 +6602,10 @@
     "gen_id": 558,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Lore",
@@ -5684,8 +6616,10 @@
     "gen_id": 558,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Lore",
@@ -5696,8 +6630,10 @@
     "gen_id": 558,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Lore",
@@ -5708,8 +6644,10 @@
     "gen_id": 558,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Lore",
@@ -5720,8 +6658,10 @@
     "gen_id": 558,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Lore",
@@ -5732,8 +6672,10 @@
     "gen_id": 558,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Lore",
@@ -5744,8 +6686,10 @@
     "gen_id": 558,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Lore",
@@ -5756,8 +6700,10 @@
     "gen_id": 558,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Lore",
@@ -5768,8 +6714,10 @@
     "gen_id": 558,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Lore",
@@ -5780,8 +6728,10 @@
     "gen_id": 558,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Lore",
@@ -5792,8 +6742,10 @@
     "gen_id": 558,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Lore",
@@ -5804,8 +6756,10 @@
     "gen_id": 558,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Lore",
@@ -5816,8 +6770,10 @@
     "gen_id": 558,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Lore",
@@ -5828,8 +6784,10 @@
     "gen_id": 558,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Lore",
@@ -5840,8 +6798,10 @@
     "gen_id": 562,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Black Laminate",
@@ -5852,8 +6812,10 @@
     "gen_id": 563,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Black Laminate",
@@ -5864,8 +6826,10 @@
     "gen_id": 563,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Black Laminate",
@@ -5876,8 +6840,10 @@
     "gen_id": 563,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Black Laminate",
@@ -5888,8 +6854,10 @@
     "gen_id": 563,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Black Laminate",
@@ -5900,8 +6868,10 @@
     "gen_id": 563,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Black Laminate",
@@ -5912,8 +6882,10 @@
     "gen_id": 563,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Black Laminate",
@@ -5924,8 +6896,10 @@
     "gen_id": 563,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Black Laminate",
@@ -5936,8 +6910,10 @@
     "gen_id": 563,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Black Laminate",
@@ -5948,8 +6924,10 @@
     "gen_id": 563,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Black Laminate",
@@ -5960,8 +6938,10 @@
     "gen_id": 563,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Black Laminate",
@@ -5972,8 +6952,10 @@
     "gen_id": 563,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Black Laminate",
@@ -5984,8 +6966,10 @@
     "gen_id": 563,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Black Laminate",
@@ -5996,8 +6980,10 @@
     "gen_id": 563,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Black Laminate",
@@ -6008,8 +6994,10 @@
     "gen_id": 563,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Black Laminate",
@@ -6020,8 +7008,10 @@
     "gen_id": 563,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Black Laminate",
@@ -6032,8 +7022,10 @@
     "gen_id": 563,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Black Laminate",
@@ -6044,8 +7036,10 @@
     "gen_id": 563,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Black Laminate",
@@ -6056,8 +7050,10 @@
     "gen_id": 563,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Black Laminate",
@@ -6068,8 +7064,10 @@
     "gen_id": 563,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Gamma Doppler (Emerald)",
@@ -6080,8 +7078,10 @@
     "gen_id": 568,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Gamma Doppler (Emerald)",
@@ -6092,8 +7092,10 @@
     "gen_id": 568,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Gamma Doppler (Emerald)",
@@ -6104,8 +7106,10 @@
     "gen_id": 568,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Gamma Doppler (Emerald)",
@@ -6116,8 +7120,10 @@
     "gen_id": 568,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Emerald)",
@@ -6128,8 +7134,10 @@
     "gen_id": 568,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Gamma Doppler (Emerald)",
@@ -6140,8 +7148,10 @@
     "gen_id": 568,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Gamma Doppler (Emerald)",
@@ -6152,8 +7162,10 @@
     "gen_id": 568,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Gamma Doppler (Emerald)",
@@ -6164,8 +7176,10 @@
     "gen_id": 568,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Emerald)",
@@ -6176,8 +7190,10 @@
     "gen_id": 568,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Gamma Doppler (Emerald)",
@@ -6188,8 +7204,10 @@
     "gen_id": 568,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Emerald)",
@@ -6200,8 +7218,10 @@
     "gen_id": 568,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Gamma Doppler (Emerald)",
@@ -6212,8 +7232,10 @@
     "gen_id": 568,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Gamma Doppler (Emerald)",
@@ -6224,8 +7246,10 @@
     "gen_id": 568,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Emerald)",
@@ -6236,8 +7260,10 @@
     "gen_id": 568,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Emerald)",
@@ -6248,8 +7274,10 @@
     "gen_id": 568,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Gamma Doppler (Emerald)",
@@ -6260,8 +7288,10 @@
     "gen_id": 568,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Gamma Doppler (Emerald)",
@@ -6272,8 +7302,10 @@
     "gen_id": 568,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Gamma Doppler (Emerald)",
@@ -6284,8 +7316,10 @@
     "gen_id": 568,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Gamma Doppler (Emerald)",
@@ -6296,8 +7330,10 @@
     "gen_id": 568,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Gamma Doppler (Phase 1)",
@@ -6308,8 +7344,10 @@
     "gen_id": 569,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Gamma Doppler (Phase 1)",
@@ -6320,8 +7358,10 @@
     "gen_id": 569,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Gamma Doppler (Phase 1)",
@@ -6332,8 +7372,10 @@
     "gen_id": 569,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Gamma Doppler (Phase 1)",
@@ -6344,8 +7386,10 @@
     "gen_id": 569,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 1)",
@@ -6356,8 +7400,10 @@
     "gen_id": 569,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Gamma Doppler (Phase 1)",
@@ -6368,8 +7414,10 @@
     "gen_id": 569,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Gamma Doppler (Phase 1)",
@@ -6380,8 +7428,10 @@
     "gen_id": 569,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Gamma Doppler (Phase 1)",
@@ -6392,8 +7442,10 @@
     "gen_id": 569,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 1)",
@@ -6404,8 +7456,10 @@
     "gen_id": 569,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Gamma Doppler (Phase 1)",
@@ -6416,8 +7470,10 @@
     "gen_id": 569,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 1)",
@@ -6428,8 +7484,10 @@
     "gen_id": 569,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Gamma Doppler (Phase 1)",
@@ -6440,8 +7498,10 @@
     "gen_id": 569,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Gamma Doppler (Phase 1)",
@@ -6452,8 +7512,10 @@
     "gen_id": 569,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 1)",
@@ -6464,8 +7526,10 @@
     "gen_id": 569,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 1)",
@@ -6476,8 +7540,10 @@
     "gen_id": 569,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Gamma Doppler (Phase 1)",
@@ -6488,8 +7554,10 @@
     "gen_id": 569,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Gamma Doppler (Phase 1)",
@@ -6500,8 +7568,10 @@
     "gen_id": 569,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Gamma Doppler (Phase 1)",
@@ -6512,8 +7582,10 @@
     "gen_id": 569,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Gamma Doppler (Phase 1)",
@@ -6524,8 +7596,10 @@
     "gen_id": 569,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Gamma Doppler (Phase 2)",
@@ -6536,8 +7610,10 @@
     "gen_id": 570,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Gamma Doppler (Phase 2)",
@@ -6548,8 +7624,10 @@
     "gen_id": 570,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Gamma Doppler (Phase 2)",
@@ -6560,8 +7638,10 @@
     "gen_id": 570,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Gamma Doppler (Phase 2)",
@@ -6572,8 +7652,10 @@
     "gen_id": 570,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 2)",
@@ -6584,8 +7666,10 @@
     "gen_id": 570,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Gamma Doppler (Phase 2)",
@@ -6596,8 +7680,10 @@
     "gen_id": 570,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Gamma Doppler (Phase 2)",
@@ -6608,8 +7694,10 @@
     "gen_id": 570,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Gamma Doppler (Phase 2)",
@@ -6620,8 +7708,10 @@
     "gen_id": 570,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 2)",
@@ -6632,8 +7722,10 @@
     "gen_id": 570,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Gamma Doppler (Phase 2)",
@@ -6644,8 +7736,10 @@
     "gen_id": 570,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 2)",
@@ -6656,8 +7750,10 @@
     "gen_id": 570,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Gamma Doppler (Phase 2)",
@@ -6668,8 +7764,10 @@
     "gen_id": 570,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Gamma Doppler (Phase 2)",
@@ -6680,8 +7778,10 @@
     "gen_id": 570,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 2)",
@@ -6692,8 +7792,10 @@
     "gen_id": 570,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 2)",
@@ -6704,8 +7806,10 @@
     "gen_id": 570,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Gamma Doppler (Phase 2)",
@@ -6716,8 +7820,10 @@
     "gen_id": 570,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Gamma Doppler (Phase 2)",
@@ -6728,8 +7834,10 @@
     "gen_id": 570,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Gamma Doppler (Phase 2)",
@@ -6740,8 +7848,10 @@
     "gen_id": 570,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Gamma Doppler (Phase 2)",
@@ -6752,8 +7862,10 @@
     "gen_id": 570,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Gamma Doppler (Phase 3)",
@@ -6764,8 +7876,10 @@
     "gen_id": 571,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Gamma Doppler (Phase 3)",
@@ -6776,8 +7890,10 @@
     "gen_id": 571,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Gamma Doppler (Phase 3)",
@@ -6788,8 +7904,10 @@
     "gen_id": 571,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Gamma Doppler (Phase 3)",
@@ -6800,8 +7918,10 @@
     "gen_id": 571,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 3)",
@@ -6812,8 +7932,10 @@
     "gen_id": 571,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Gamma Doppler (Phase 3)",
@@ -6824,8 +7946,10 @@
     "gen_id": 571,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Gamma Doppler (Phase 3)",
@@ -6836,8 +7960,10 @@
     "gen_id": 571,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Gamma Doppler (Phase 3)",
@@ -6848,8 +7974,10 @@
     "gen_id": 571,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 3)",
@@ -6860,8 +7988,10 @@
     "gen_id": 571,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Gamma Doppler (Phase 3)",
@@ -6872,8 +8002,10 @@
     "gen_id": 571,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 3)",
@@ -6884,8 +8016,10 @@
     "gen_id": 571,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Gamma Doppler (Phase 3)",
@@ -6896,8 +8030,10 @@
     "gen_id": 571,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Gamma Doppler (Phase 3)",
@@ -6908,8 +8044,10 @@
     "gen_id": 571,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 3)",
@@ -6920,8 +8058,10 @@
     "gen_id": 571,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 3)",
@@ -6932,8 +8072,10 @@
     "gen_id": 571,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Gamma Doppler (Phase 3)",
@@ -6944,8 +8086,10 @@
     "gen_id": 571,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Gamma Doppler (Phase 3)",
@@ -6956,8 +8100,10 @@
     "gen_id": 571,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Gamma Doppler (Phase 3)",
@@ -6968,8 +8114,10 @@
     "gen_id": 571,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Gamma Doppler (Phase 3)",
@@ -6980,8 +8128,10 @@
     "gen_id": 571,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Gamma Doppler (Phase 4)",
@@ -6992,8 +8142,10 @@
     "gen_id": 572,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Gamma Doppler (Phase 4)",
@@ -7004,8 +8156,10 @@
     "gen_id": 572,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Gamma Doppler (Phase 4)",
@@ -7016,8 +8170,10 @@
     "gen_id": 572,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Gamma Doppler (Phase 4)",
@@ -7028,8 +8184,10 @@
     "gen_id": 572,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Gamma Doppler (Phase 4)",
@@ -7040,8 +8198,10 @@
     "gen_id": 572,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Gamma Doppler (Phase 4)",
@@ -7052,8 +8212,10 @@
     "gen_id": 572,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Gamma Doppler (Phase 4)",
@@ -7064,8 +8226,10 @@
     "gen_id": 572,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Gamma Doppler (Phase 4)",
@@ -7076,8 +8240,10 @@
     "gen_id": 572,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Gamma Doppler (Phase 4)",
@@ -7088,8 +8254,10 @@
     "gen_id": 572,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Gamma Doppler (Phase 4)",
@@ -7100,8 +8268,10 @@
     "gen_id": 572,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Gamma Doppler (Phase 4)",
@@ -7112,8 +8282,10 @@
     "gen_id": 572,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Gamma Doppler (Phase 4)",
@@ -7124,8 +8296,10 @@
     "gen_id": 572,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Gamma Doppler (Phase 4)",
@@ -7136,8 +8310,10 @@
     "gen_id": 572,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Gamma Doppler (Phase 4)",
@@ -7148,8 +8324,10 @@
     "gen_id": 572,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Gamma Doppler (Phase 4)",
@@ -7160,8 +8338,10 @@
     "gen_id": 572,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Gamma Doppler (Phase 4)",
@@ -7172,8 +8352,10 @@
     "gen_id": 572,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Gamma Doppler (Phase 4)",
@@ -7184,8 +8366,10 @@
     "gen_id": 572,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Gamma Doppler (Phase 4)",
@@ -7196,8 +8380,10 @@
     "gen_id": 572,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Gamma Doppler (Phase 4)",
@@ -7208,8 +8394,10 @@
     "gen_id": 572,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Autotronic",
@@ -7220,8 +8408,10 @@
     "gen_id": 573,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Autotronic",
@@ -7232,8 +8422,10 @@
     "gen_id": 573,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Autotronic",
@@ -7244,8 +8436,10 @@
     "gen_id": 573,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Autotronic",
@@ -7256,8 +8450,10 @@
     "gen_id": 573,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Autotronic",
@@ -7268,8 +8464,10 @@
     "gen_id": 573,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Autotronic",
@@ -7280,8 +8478,10 @@
     "gen_id": 573,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Autotronic",
@@ -7292,8 +8492,10 @@
     "gen_id": 573,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Autotronic",
@@ -7304,8 +8506,10 @@
     "gen_id": 573,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Autotronic",
@@ -7316,8 +8520,10 @@
     "gen_id": 573,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Autotronic",
@@ -7328,8 +8534,10 @@
     "gen_id": 573,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Autotronic",
@@ -7340,8 +8548,10 @@
     "gen_id": 573,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Autotronic",
@@ -7352,8 +8562,10 @@
     "gen_id": 573,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Autotronic",
@@ -7364,8 +8576,10 @@
     "gen_id": 573,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Autotronic",
@@ -7376,8 +8590,10 @@
     "gen_id": 573,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Autotronic",
@@ -7388,8 +8604,10 @@
     "gen_id": 573,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Autotronic",
@@ -7400,8 +8618,10 @@
     "gen_id": 573,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Autotronic",
@@ -7412,8 +8632,10 @@
     "gen_id": 573,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Autotronic",
@@ -7424,8 +8646,10 @@
     "gen_id": 573,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Autotronic",
@@ -7436,8 +8660,10 @@
     "gen_id": 573,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Bright Water",
@@ -7448,8 +8674,10 @@
     "gen_id": 578,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Bright Water",
@@ -7460,8 +8688,10 @@
     "gen_id": 578,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Bright Water",
@@ -7472,8 +8702,10 @@
     "gen_id": 578,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Bright Water",
@@ -7484,8 +8716,10 @@
     "gen_id": 578,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Bright Water",
@@ -7496,8 +8730,10 @@
     "gen_id": 578,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Bright Water",
@@ -7508,8 +8744,10 @@
     "gen_id": 578,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Bright Water",
@@ -7520,8 +8758,10 @@
     "gen_id": 578,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Bright Water",
@@ -7532,8 +8772,10 @@
     "gen_id": 578,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Bright Water",
@@ -7544,8 +8786,10 @@
     "gen_id": 578,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Bright Water",
@@ -7556,8 +8800,10 @@
     "gen_id": 578,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Bright Water",
@@ -7568,8 +8814,10 @@
     "gen_id": 578,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Bright Water",
@@ -7580,8 +8828,10 @@
     "gen_id": 578,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Bright Water",
@@ -7592,8 +8842,10 @@
     "gen_id": 578,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Bright Water",
@@ -7604,8 +8856,10 @@
     "gen_id": 578,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Bright Water",
@@ -7616,8 +8870,10 @@
     "gen_id": 578,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Bright Water",
@@ -7628,8 +8884,10 @@
     "gen_id": 578,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Bright Water",
@@ -7640,8 +8898,10 @@
     "gen_id": 578,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Bright Water",
@@ -7652,8 +8912,10 @@
     "gen_id": 578,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Bright Water",
@@ -7664,8 +8926,10 @@
     "gen_id": 578,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bayonet | Freehand",
@@ -7676,8 +8940,10 @@
     "gen_id": 580,
     "collection": "Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Bowie | Freehand",
@@ -7688,8 +8954,10 @@
     "gen_id": 580,
     "collection": "Bowie",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Butterfly | Freehand",
@@ -7700,8 +8968,10 @@
     "gen_id": 580,
     "collection": "Butterfly",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Freehand",
@@ -7712,8 +8982,10 @@
     "gen_id": 580,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Falchion | Freehand",
@@ -7724,8 +8996,10 @@
     "gen_id": 580,
     "collection": "Falchion",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Flip | Freehand",
@@ -7736,8 +9010,10 @@
     "gen_id": 580,
     "collection": "Flip",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Gut Knife | Freehand",
@@ -7748,8 +9024,10 @@
     "gen_id": 580,
     "collection": "Gut Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Huntsman | Freehand",
@@ -7760,8 +9038,10 @@
     "gen_id": 580,
     "collection": "Huntsman",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Karambit | Freehand",
@@ -7772,8 +9052,10 @@
     "gen_id": 580,
     "collection": "Karambit",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "M9-Bayonet | Freehand",
@@ -7784,8 +9066,10 @@
     "gen_id": 580,
     "collection": "M9-Bayonet",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Freehand",
@@ -7796,8 +9080,10 @@
     "gen_id": 580,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Freehand",
@@ -7808,8 +9094,10 @@
     "gen_id": 580,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Freehand",
@@ -7820,8 +9108,10 @@
     "gen_id": 580,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Shadow Daggers | Freehand",
@@ -7832,8 +9122,10 @@
     "gen_id": 580,
     "collection": "Shadow Daggers",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Freehand",
@@ -7844,8 +9136,10 @@
     "gen_id": 580,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Freehand",
@@ -7856,8 +9150,10 @@
     "gen_id": 580,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Freehand",
@@ -7868,8 +9164,10 @@
     "gen_id": 580,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Freehand",
@@ -7880,8 +9178,10 @@
     "gen_id": 580,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Freehand",
@@ -7892,8 +9192,10 @@
     "gen_id": 580,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Classic | Night Stripe",
@@ -7904,8 +9206,10 @@
     "gen_id": 735,
     "collection": "Classic",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Navaja | Night Stripe",
@@ -7916,8 +9220,10 @@
     "gen_id": 735,
     "collection": "Navaja",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Nomad | Night Stripe",
@@ -7928,8 +9234,10 @@
     "gen_id": 735,
     "collection": "Nomad",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Paracord Knife | Night Stripe",
@@ -7940,8 +9248,10 @@
     "gen_id": 735,
     "collection": "Paracord Knife",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Skeleton | Night Stripe",
@@ -7952,8 +9262,10 @@
     "gen_id": 735,
     "collection": "Skeleton",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Stiletto | Night Stripe",
@@ -7964,8 +9276,10 @@
     "gen_id": 735,
     "collection": "Stiletto",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Survival | Night Stripe",
@@ -7976,8 +9290,10 @@
     "gen_id": 735,
     "collection": "Survival",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Talon | Night Stripe",
@@ -7988,8 +9304,10 @@
     "gen_id": 735,
     "collection": "Talon",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   },
   {
     "name": "Ursus | Night Stripe",
@@ -8000,7 +9318,9 @@
     "gen_id": 735,
     "collection": "Ursus",
     "rarity": "Covert",
+    "Image": null,
     "IsKnife": true,
-    "StickerSlotsAmount": 0
+    "StickerSlotsAmount": 0,
+    "RarityId": 6
   }
 ]

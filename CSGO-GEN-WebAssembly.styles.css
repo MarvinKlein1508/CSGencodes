@@ -45,14 +45,18 @@
 .weapon[b-2ze5yo7wer] {
     background: none;
     padding: .75rem;
-    display: block;
+    display: flex;
     width: 100%;
-    min-height: 95px;
     border: none;
     border-top: 1px solid gray;
+    min-height: 95px;
+    align-items: center;
     margin-top: -1px;
 }
 
+.weapon-name[b-2ze5yo7wer] {
+    flex: 1;
+}
     .weapon:is(:hover)[b-2ze5yo7wer] {
         background: #23232a;
     }
