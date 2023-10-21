@@ -70,20 +70,6 @@
     "RarityId": 4
   },
   {
-    "name": "SSG 08 | Hand Brake",
-    "min_wear": 0,
-    "max_wear": 1,
-    "trade_up": true,
-    "weapon_id": 40,
-    "gen_id": 751,
-    "collection": "The 2018 Nuke Collection",
-    "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/SSG08-HandBrake.png",
-    "IsKnife": false,
-    "StickerSlotsAmount": 4,
-    "RarityId": 3
-  },
-  {
     "name": "AWP | Acheron",
     "min_wear": 0,
     "max_wear": 0.83,

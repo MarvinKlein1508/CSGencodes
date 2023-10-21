@@ -14,48 +14,6 @@
     "RarityId": 6
   },
   {
-    "name": "Classic | Damascus Steel",
-    "min_wear": 0,
-    "max_wear": 0.5,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 410,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Classic/DamascusSteel.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
-    "name": "Classic | Ultraviolet",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 98,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Classic/Ultraviolet.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
-    "name": "Classic | Rust Coat",
-    "min_wear": 0.4,
-    "max_wear": 1,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 414,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Classic/RustCoat.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
     "name": "Classic | Fade",
     "min_wear": 0,
     "max_wear": 0.08,

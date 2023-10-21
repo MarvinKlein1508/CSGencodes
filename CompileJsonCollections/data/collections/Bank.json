@@ -70,20 +70,6 @@
     "RarityId": 3
   },
   {
-    "name": "CZ75-Auto | Silver",
-    "min_wear": 0,
-    "max_wear": 0.08,
-    "trade_up": true,
-    "weapon_id": 63,
-    "gen_id": 32,
-    "collection": "The Bank Collection",
-    "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheBankCollection/CZ75-Auto-Silver.png",
-    "IsKnife": false,
-    "StickerSlotsAmount": 4,
-    "RarityId": 3
-  },
-  {
     "name": "MAC-10 | Silver",
     "min_wear": 0,
     "max_wear": 0.08,

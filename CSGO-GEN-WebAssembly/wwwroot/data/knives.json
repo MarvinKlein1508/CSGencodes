@@ -1484,20 +1484,6 @@
     "RarityId": 6
   },
   {
-    "name": "Stiletto | Night",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 522,
-    "gen_id": 40,
-    "collection": "Stiletto",
-    "rarity": "Covert",
-    "Image": null,
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
     "name": "Bayonet | Blue Steel",
     "min_wear": 0,
     "max_wear": 1,

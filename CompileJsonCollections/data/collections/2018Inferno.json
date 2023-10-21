@@ -14,7 +14,7 @@
     "RarityId": 5
   },
   {
-    "name": "UMP-45 | Fade",
+    "name": "Dual Berettas | Twin Turbo",
     "min_wear": 0,
     "max_wear": 1,
     "trade_up": false,
@@ -22,7 +22,7 @@
     "gen_id": 747,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/UMP-45-Fade.png",
+    "Image": "/assets/img/items/weapons/The2018InfernoCollection/DualBerettas-TwinTurbo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5

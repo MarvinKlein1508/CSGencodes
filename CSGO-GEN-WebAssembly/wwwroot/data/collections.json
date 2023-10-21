@@ -1694,20 +1694,6 @@
     "RarityId": 2
   },
   {
-    "name": "CZ75-Auto | Silver",
-    "min_wear": 0,
-    "max_wear": 0.08,
-    "trade_up": true,
-    "weapon_id": 63,
-    "gen_id": 32,
-    "collection": "The Bank Collection",
-    "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheBankCollection/CZ75-Auto-Silver.png",
-    "IsKnife": false,
-    "StickerSlotsAmount": 4,
-    "RarityId": 3
-  },
-  {
     "name": "MAC-10 | Silver",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -2347,20 +2333,6 @@
     "collection": "M9-Bayonet",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/M9Bayonet/Night.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
-    "name": "Paracord Knife | Night",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 517,
-    "gen_id": 40,
-    "collection": "Paracord Knife",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/ParacordKnife/Night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -4811,20 +4783,6 @@
     "collection": "Butterfly",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/Butterfly/Ultraviolet.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
-    "name": "Classic | Ultraviolet",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 98,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Classic/Ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -10220,20 +10178,6 @@
     "RarityId": 6
   },
   {
-    "name": "Classic | Damascus Steel",
-    "min_wear": 0,
-    "max_wear": 0.5,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 410,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Classic/DamascusSteel.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
     "name": "Falchion | Damascus Steel",
     "min_wear": 0,
     "max_wear": 0.5,
@@ -10621,20 +10565,6 @@
     "collection": "Butterfly",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/Butterfly/RustCoat.png",
-    "IsKnife": true,
-    "StickerSlotsAmount": 0,
-    "RarityId": 6
-  },
-  {
-    "name": "Classic | Rust Coat",
-    "min_wear": 0.4,
-    "max_wear": 1,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 414,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Classic/RustCoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -12860,7 +12790,7 @@
     "gen_id": 469,
     "collection": "The Rising Sun Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-SunsetStorm.png",
+    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-SunsetStorm2.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -12874,7 +12804,7 @@
     "gen_id": 470,
     "collection": "The Rising Sun Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-SunsetStorm.png",
+    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-SunsetStorm1.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -17738,7 +17668,7 @@
     "RarityId": 4
   },
   {
-    "name": "UMP-45 | Fade",
+    "name": "Dual Berettas | Twin Turbo",
     "min_wear": 0,
     "max_wear": 1,
     "trade_up": false,
@@ -17746,7 +17676,7 @@
     "gen_id": 747,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/UMP-45-Fade.png",
+    "Image": "/assets/img/items/weapons/The2018InfernoCollection/DualBerettas-TwinTurbo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -17803,20 +17733,6 @@
     "collection": "The 2018 Inferno Collection",
     "rarity": "Milspec",
     "Image": "/assets/img/items/weapons/The2018InfernoCollection/SSG08-HandBrake.png",
-    "IsKnife": false,
-    "StickerSlotsAmount": 4,
-    "RarityId": 3
-  },
-  {
-    "name": "SSG 08 | Hand Brake",
-    "min_wear": 0,
-    "max_wear": 1,
-    "trade_up": true,
-    "weapon_id": 40,
-    "gen_id": 751,
-    "collection": "The 2018 Nuke Collection",
-    "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/SSG08-HandBrake.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

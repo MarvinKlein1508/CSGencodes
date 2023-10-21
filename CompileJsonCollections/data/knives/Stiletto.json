@@ -300,16 +300,6 @@
     "rarity": "Covert"
   },
   {
-    "name": "Stiletto | Night",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 522,
-    "gen_id": 40,
-    "collection": "Stiletto",
-    "rarity": "Covert"
-  },
-  {
     "name": "Stiletto | Safari Mesh",
     "min_wear": 0.06,
     "max_wear": 0.8,
