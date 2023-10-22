@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Vanilla.png",
+    "Image": "/assets/img/items/knives/flip/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/GammaDoppler-Phase1.png",
+    "Image": "/assets/img/items/knives/flip/gammadoppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/GammaDoppler-Phase2.png",
+    "Image": "/assets/img/items/knives/flip/gammadoppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/GammaDoppler-Phase3.png",
+    "Image": "/assets/img/items/knives/flip/gammadoppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/GammaDoppler-Phase4.png",
+    "Image": "/assets/img/items/knives/flip/gammadoppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/GammaDoppler-Emerald.png",
+    "Image": "/assets/img/items/knives/flip/gammadoppler-emerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 559,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Lore.png",
+    "Image": "/assets/img/items/knives/flip/lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Autotronic.png",
+    "Image": "/assets/img/items/knives/flip/autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/BlackLaminate.png",
+    "Image": "/assets/img/items/knives/flip/blacklaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Freehand.png",
+    "Image": "/assets/img/items/knives/flip/freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/BrightWater.png",
+    "Image": "/assets/img/items/knives/flip/brightwater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/MarbleFade.png",
+    "Image": "/assets/img/items/knives/flip/marblefade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/TigerTooth.png",
+    "Image": "/assets/img/items/knives/flip/tigertooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-Phase1.png",
+    "Image": "/assets/img/items/knives/flip/doppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-Phase2.png",
+    "Image": "/assets/img/items/knives/flip/doppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-Phase3.png",
+    "Image": "/assets/img/items/knives/flip/doppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-Phase4.png",
+    "Image": "/assets/img/items/knives/flip/doppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-Ruby.png",
+    "Image": "/assets/img/items/knives/flip/doppler-ruby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-Sapphire.png",
+    "Image": "/assets/img/items/knives/flip/doppler-sapphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Doppler-BlackPearl.png",
+    "Image": "/assets/img/items/knives/flip/doppler-blackpearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/DamascusSteel.png",
+    "Image": "/assets/img/items/knives/flip/damascussteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Ultraviolet.png",
+    "Image": "/assets/img/items/knives/flip/ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/RustCoat.png",
+    "Image": "/assets/img/items/knives/flip/rustcoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Fade.png",
+    "Image": "/assets/img/items/knives/flip/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Slaughter.png",
+    "Image": "/assets/img/items/knives/flip/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/CaseHardened.png",
+    "Image": "/assets/img/items/knives/flip/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/BlueSteel.png",
+    "Image": "/assets/img/items/knives/flip/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Stained.png",
+    "Image": "/assets/img/items/knives/flip/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/flip/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/BorealForest.png",
+    "Image": "/assets/img/items/knives/flip/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 40,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Night.png",
+    "Image": "/assets/img/items/knives/flip/night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/SafariMesh.png",
+    "Image": "/assets/img/items/knives/flip/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/flip/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/flip/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Flip",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Flip/Scorched.png",
+    "Image": "/assets/img/items/knives/flip/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

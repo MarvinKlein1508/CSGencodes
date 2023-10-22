@@ -8,7 +8,7 @@
     "gen_id": 39,
     "collection": "The Mirage Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/MAG-7-Bulldozer.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/mag-7-bulldozer.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 33,
     "collection": "The Mirage Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/MP9-HotRod.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/mp9-hotrod.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 37,
     "collection": "The Mirage Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/UMP-45-Blaze.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/ump-45-blaze.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -50,7 +50,7 @@
     "gen_id": 246,
     "collection": "The Mirage Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/MAC-10-AmberFade.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/mac-10-amberfade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -64,7 +64,7 @@
     "gen_id": 2,
     "collection": "The Mirage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/Glock-18-Groundwater.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/glock-18-groundwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -78,7 +78,7 @@
     "gen_id": 233,
     "collection": "The Mirage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/SSG08-TropicalStorm.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/ssg08-tropicalstorm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -92,7 +92,7 @@
     "gen_id": 141,
     "collection": "The Mirage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/MP7-OrangePeel.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/mp7-orangepeel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 240,
     "collection": "The Mirage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/Negev-CaliCamo.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/negev-calicamo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 243,
     "collection": "The Mirage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/SG553-GatorMesh.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/sg553-gatormesh.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 46,
     "collection": "The Mirage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/Five-SeveN-Contractor.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/five-seven-contractor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -148,7 +148,7 @@
     "gen_id": 47,
     "collection": "The Mirage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/AUG-Colony.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/aug-colony.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 72,
     "collection": "The Mirage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/G3SG1-SafariMesh.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/g3sg1-safarimesh.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 27,
     "collection": "The Mirage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/P250-BoneMask.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/p250-bonemask.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 175,
     "collection": "The Mirage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/P90-Scorched.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/p90-scorched.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 241,
     "collection": "The Mirage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheMirageCollection/GalilAR-HuntingBlind.png",
+    "Image": "/assets/img/items/weapons/themiragecollection/galilar-huntingblind.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

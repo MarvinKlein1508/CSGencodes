@@ -8,7 +8,7 @@
     "gen_id": 1001,
     "collection": "The Ancient Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/M4A1-S-WelcometotheJungle.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/m4a1-s-welcometothejungle.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 1018,
     "collection": "The Ancient Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/AK-47-Pantheraonca.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/ak-47-pantheraonca.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 1000,
     "collection": "The Ancient Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/P90-RunandHide.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/p90-runandhide.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 1025,
     "collection": "The Ancient Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/MAC-10-GoldBrick.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/mac-10-goldbrick.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 1031,
     "collection": "The Ancient Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/USP-S-AncientVisions.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/usp-s-ancientvisions.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 1021,
     "collection": "The Ancient Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/XM1014-AncientLore.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/xm1014-ancientlore.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 1033,
     "collection": "The Ancient Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/AUG-CarvedJade.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/aug-carvedjade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 1032,
     "collection": "The Ancient Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/GalilAR-DuskRuins.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/galilar-duskruins.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 60,
     "collection": "The Ancient Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/FAMAS-DarkWater.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/famas-darkwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 1024,
     "collection": "The Ancient Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/Tec-9-BlastFromthePast.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/tec-9-blastfromthepast.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 32,
     "collection": "The Ancient Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/CZ75-Auto-Silver.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/cz75-auto-silver.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 1019,
     "collection": "The Ancient Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/P2000-PantherCamo.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/p2000-panthercamo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 1034,
     "collection": "The Ancient Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/G3SG1-AncientRitual.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/g3sg1-ancientritual.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 1023,
     "collection": "The Ancient Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/MP7-TallGrass.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/mp7-tallgrass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -204,7 +204,7 @@
     "gen_id": 40,
     "collection": "The Ancient Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/R8Revolver-Night.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/r8revolver-night.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 147,
     "collection": "The Ancient Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/SSG08-JungleDashed.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/ssg08-jungledashed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 1022,
     "collection": "The Ancient Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/SG553-LushRuins.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/sg553-lushruins.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 298,
     "collection": "The Ancient Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/Nova-ArmySheen.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/nova-armysheen.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -260,7 +260,7 @@
     "gen_id": 1020,
     "collection": "The Ancient Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAncientCollection/P90-AncientEarth.png",
+    "Image": "/assets/img/items/weapons/theancientcollection/p90-ancientearth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

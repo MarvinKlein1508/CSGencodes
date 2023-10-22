@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/Vanilla.png",
+    "Image": "/assets/img/items/knives/skeleton/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 38,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/Fade.png",
+    "Image": "/assets/img/items/knives/skeleton/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 59,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/Slaughter.png",
+    "Image": "/assets/img/items/knives/skeleton/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 44,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/CaseHardened.png",
+    "Image": "/assets/img/items/knives/skeleton/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 42,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/BlueSteel.png",
+    "Image": "/assets/img/items/knives/skeleton/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 43,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/Stained.png",
+    "Image": "/assets/img/items/knives/skeleton/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 12,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/skeleton/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 77,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/BorealForest.png",
+    "Image": "/assets/img/items/knives/skeleton/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 735,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/NightStripe.png",
+    "Image": "/assets/img/items/knives/skeleton/nightstripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 72,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/SafariMesh.png",
+    "Image": "/assets/img/items/knives/skeleton/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 143,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/skeleton/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 5,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/skeleton/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 5,
     "collection": "Skeleton",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Skeleton/Scorched.png",
+    "Image": "/assets/img/items/knives/skeleton/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

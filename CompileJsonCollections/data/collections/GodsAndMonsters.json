@@ -8,7 +8,7 @@
     "gen_id": 446,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/AWP-Medusa.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/awp-medusa.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 449,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/M4A4-Poseidon.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/m4a4-poseidon.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 440,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/M4A1-S-IcarusFell.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/m4a1-s-icarusfell.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 438,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/G3SG1-Chronos.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/g3sg1-chronos.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 448,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/MP9-PandorasBox.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/mp9-pandorasbox.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -78,7 +78,7 @@
     "gen_id": 441,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/UMP-45-MinotaursLabyrinth.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/ump-45-minotaurslabyrinth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 451,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/AWP-SuninLeo.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/awp-suninleo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 452,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/M249-ShippingForecast.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/m249-shippingforecast.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 443,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/P2000-Pathfinder.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/p2000-pathfinder.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 439,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/Tec-9-Hades.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/tec-9-hades.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 442,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/MP7-Asterion.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/mp7-asterion.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 450,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/Nova-MooninLibra.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/nova-mooninlibra.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 444,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/AUG-Daedalus.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/aug-daedalus.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 450,
     "collection": "The Gods And Monsters Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheGodsAndMonstersCollection/DualBerettas-MooninLibra.png",
+    "Image": "/assets/img/items/weapons/thegodsandmonsterscollection/dualberettas-mooninlibra.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/Vanilla.png",
+    "Image": "/assets/img/items/knives/survival/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 38,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/Fade.png",
+    "Image": "/assets/img/items/knives/survival/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 59,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/Slaughter.png",
+    "Image": "/assets/img/items/knives/survival/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 44,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/CaseHardened.png",
+    "Image": "/assets/img/items/knives/survival/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 42,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/BlueSteel.png",
+    "Image": "/assets/img/items/knives/survival/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 43,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/Stained.png",
+    "Image": "/assets/img/items/knives/survival/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 12,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/survival/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 77,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/BorealForest.png",
+    "Image": "/assets/img/items/knives/survival/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 735,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/NightStripe.png",
+    "Image": "/assets/img/items/knives/survival/nightstripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 72,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/SafariMesh.png",
+    "Image": "/assets/img/items/knives/survival/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 143,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/survival/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/survival/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Survival/Scorched.png",
+    "Image": "/assets/img/items/knives/survival/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

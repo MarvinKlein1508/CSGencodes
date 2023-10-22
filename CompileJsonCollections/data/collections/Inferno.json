@@ -8,7 +8,7 @@
     "gen_id": 159,
     "collection": "The Inferno Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheInfernoCollection/Tec-9-Brass.png",
+    "Image": "/assets/img/items/weapons/theinfernocollection/tec-9-brass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -22,7 +22,7 @@
     "gen_id": 28,
     "collection": "The Inferno Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheInfernoCollection/DualBerettas-AnodizedNavy.png",
+    "Image": "/assets/img/items/weapons/theinfernocollection/dualberettas-anodizednavy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 101,
     "collection": "The Inferno Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheInfernoCollection/M4A4-Tornado.png",
+    "Image": "/assets/img/items/weapons/theinfernocollection/m4a4-tornado.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -50,7 +50,7 @@
     "gen_id": 15,
     "collection": "The Inferno Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheInfernoCollection/P250-Gunsmoke.png",
+    "Image": "/assets/img/items/weapons/theinfernocollection/p250-gunsmoke.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -64,7 +64,7 @@
     "gen_id": 158,
     "collection": "The Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheInfernoCollection/Nova-Walnut.png",
+    "Image": "/assets/img/items/weapons/theinfernocollection/nova-walnut.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -78,7 +78,7 @@
     "gen_id": 99,
     "collection": "The Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheInfernoCollection/MAG-7-SandDune.png",
+    "Image": "/assets/img/items/weapons/theinfernocollection/mag-7-sanddune.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

@@ -8,7 +8,7 @@
     "gen_id": 512,
     "collection": "Revolver Case Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/M4A4-RoyalPaladin.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/m4a4-royalpaladin.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 522,
     "collection": "Revolver Case Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/R8Revolver-Fade.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/r8revolver-fade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 506,
     "collection": "Revolver Case Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/AK-47-PointDisarray.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/ak-47-pointdisarray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 511,
     "collection": "Revolver Case Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/G3SG1-TheExecutioner.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/g3sg1-theexecutioner.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 516,
     "collection": "Revolver Case Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/P90-Shapewood.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/p90-shapewood.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 514,
     "collection": "Revolver Case Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/Negev-PowerLoader.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/negev-powerloader.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 520,
     "collection": "Revolver Case Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/Tec-9-Avalanche.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/tec-9-avalanche.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 508,
     "collection": "Revolver Case Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/PP-Bizon-FuelRod.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/pp-bizon-fuelrod.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 510,
     "collection": "Revolver Case Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/Five-SeveN-Retrobution.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/five-seven-retrobution.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 519,
     "collection": "Revolver Case Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/SG553-TigerMoth.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/sg553-tigermoth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 521,
     "collection": "Revolver Case Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/XM1014-TecluBurner.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/xm1014-tecluburner.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -162,7 +162,7 @@
     "gen_id": 12,
     "collection": "Revolver Case Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/R8Revolver-CrimsonWeb.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/r8revolver-crimsonweb.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 509,
     "collection": "Revolver Case Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/DesertEagle-Corinthian.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/deserteagle-corinthian.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 507,
     "collection": "Revolver Case Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/AUG-Ricochet.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/aug-ricochet.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 515,
     "collection": "Revolver Case Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/P2000-Imperial.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/p2000-imperial.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 517,
     "collection": "Revolver Case Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/Sawed-Off-Yorick.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/sawed-off-yorick.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 518,
     "collection": "Revolver Case Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolverCaseCollection/SCAR-20-Outbreak.png",
+    "Image": "/assets/img/items/weapons/revolvercasecollection/scar-20-outbreak.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

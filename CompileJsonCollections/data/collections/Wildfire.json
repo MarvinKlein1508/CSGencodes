@@ -8,7 +8,7 @@
     "gen_id": 524,
     "collection": "Wildfire Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/WildfireCollection/AK-47-FuelInjector.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/ak-47-fuelinjector.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 533,
     "collection": "Wildfire Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/WildfireCollection/M4A4-TheBattlestar.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/m4a4-thebattlestar.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 527,
     "collection": "Wildfire Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/WildfireCollection/DesertEagle-KumichoDragon.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/deserteagle-kumichodragon.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 525,
     "collection": "Wildfire Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/WildfireCollection/AWP-EliteBuild.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/awp-elitebuild.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 537,
     "collection": "Wildfire Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/WildfireCollection/Nova-HyperBeast.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/nova-hyperbeast.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 532,
     "collection": "Wildfire Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/WildfireCollection/Glock-18-RoyalLegion.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/glock-18-royallegion.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 529,
     "collection": "Wildfire Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/WildfireCollection/FAMAS-Valence.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/famas-valence.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 535,
     "collection": "Wildfire Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/WildfireCollection/MAG-7-Praetorian.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/mag-7-praetorian.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 536,
     "collection": "Wildfire Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/WildfireCollection/MP7-Impire.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/mp7-impire.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 530,
     "collection": "Wildfire Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/WildfireCollection/Five-SeveN-Triumvirate.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/five-seven-triumvirate.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 540,
     "collection": "Wildfire Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/WildfireCollection/USP-S-LeadConduit.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/usp-s-leadconduit.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 538,
     "collection": "Wildfire Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/WildfireCollection/SSG08-Necropos.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/ssg08-necropos.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 526,
     "collection": "Wildfire Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/WildfireCollection/PP-Bizon-PhoticZone.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/pp-bizon-photiczone.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 528,
     "collection": "Wildfire Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/WildfireCollection/DualBerettas-Cartel.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/dualberettas-cartel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 534,
     "collection": "Wildfire Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/WildfireCollection/MAC-10-LapisGator.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/mac-10-lapisgator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 539,
     "collection": "Wildfire Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/WildfireCollection/Tec-9-Jambiya.png",
+    "Image": "/assets/img/items/weapons/wildfirecollection/tec-9-jambiya.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

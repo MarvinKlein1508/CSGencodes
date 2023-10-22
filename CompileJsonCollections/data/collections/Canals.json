@@ -8,7 +8,7 @@
     "gen_id": 736,
     "collection": "The Canals Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/AWP-ThePrince.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/awp-theprince.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 737,
     "collection": "The Canals Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/MAG-7-Cinquedea.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/mag-7-cinquedea.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 742,
     "collection": "The Canals Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/MAC-10-RedFiligree.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/mac-10-redfiligree.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 746,
     "collection": "The Canals Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/Nova-BaroqueOrange.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/nova-baroqueorange.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 867,
     "collection": "The Canals Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/MP9-StainedGlass.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/mp9-stainedglass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 739,
     "collection": "The Canals Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/G3SG1-VioletMurano.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/g3sg1-violetmurano.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 743,
     "collection": "The Canals Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/SSG08-OrangeFiligree.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/ssg08-orangefiligree.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 453,
     "collection": "The Canals Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/DualBerettas-Emerald.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/dualberettas-emerald.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 744,
     "collection": "The Canals Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/P90-BaroqueRed.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/p90-baroquered.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 745,
     "collection": "The Canals Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/AK-47-BaroquePurple.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/ak-47-baroquepurple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 741,
     "collection": "The Canals Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/P250-DarkFiligree.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/p250-darkfiligree.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 864,
     "collection": "The Canals Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/SG553-CandyApple.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/sg553-candyapple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 738,
     "collection": "The Canals Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/Tec-9-OrangeMurano.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/tec-9-orangemurano.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 866,
     "collection": "The Canals Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/R8Revolver-CanalSpray.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/r8revolver-canalspray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 920,
     "collection": "The Canals Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/Negev-BoroqueSand.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/negev-boroquesand.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 740,
     "collection": "The Canals Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/AUG-NavyMurano.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/aug-navymurano.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 333,
     "collection": "The Canals Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/CZ75-Auto-Indigo.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/cz75-auto-indigo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 865,
     "collection": "The Canals Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCanalsCollection/SCAR-20-StoneMosaico.png",
+    "Image": "/assets/img/items/weapons/thecanalscollection/scar-20-stonemosaico.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

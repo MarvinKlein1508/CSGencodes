@@ -8,7 +8,7 @@
     "gen_id": 249,
     "collection": "The Lake Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/DualBerettas-CobaltQuartz.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/dualberettas-cobaltquartz.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 244,
     "collection": "The Lake Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/P90-Teardown.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/p90-teardown.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 236,
     "collection": "The Lake Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/USP-S-NightOps.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/usp-s-nightops.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -50,7 +50,7 @@
     "gen_id": 28,
     "collection": "The Lake Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/SG553-AnodizedNavy.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/sg553-anodizednavy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -64,7 +64,7 @@
     "gen_id": 72,
     "collection": "The Lake Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/AWP-SafariMesh.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/awp-safarimesh.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -78,7 +78,7 @@
     "gen_id": 90,
     "collection": "The Lake Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/DesertEagle-Mudder.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/deserteagle-mudder.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -92,7 +92,7 @@
     "gen_id": 92,
     "collection": "The Lake Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/FAMAS-Cyanospatter.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/famas-cyanospatter.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 42,
     "collection": "The Lake Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/XM1014-BlueSteel.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/xm1014-bluesteel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 236,
     "collection": "The Lake Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/PP-Bizon-NightOps.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/pp-bizon-nightops.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 136,
     "collection": "The Lake Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/SG553-WavesPerforated.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/sg553-wavesperforated.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -148,7 +148,7 @@
     "gen_id": 147,
     "collection": "The Lake Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/G3SG1-JungleDashed.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/g3sg1-jungledashed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 119,
     "collection": "The Lake Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/GalilAR-SageSpray.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/galilar-sagespray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 100,
     "collection": "The Lake Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/AUG-Storm.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/aug-storm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 77,
     "collection": "The Lake Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/P250-BorealForest.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/p250-borealforest.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 96,
     "collection": "The Lake Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheLakeCollection/XM1014-BlueSpruce.png",
+    "Image": "/assets/img/items/weapons/thelakecollection/xm1014-bluespruce.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

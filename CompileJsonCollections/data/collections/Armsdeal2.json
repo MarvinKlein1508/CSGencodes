@@ -8,7 +8,7 @@
     "gen_id": 222,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/SSG08-BloodintheWater.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/ssg08-bloodinthewater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 67,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/P90-ColdBlooded.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/p90-coldblooded.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 221,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/USP-S-Serum.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/usp-s-serum.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 44,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/Five-SeveN-CaseHardened.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/five-seven-casehardened.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 61,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/MP9-Hypnotic.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/mp9-hypnotic.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 214,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/Nova-Graphite.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/nova-graphite.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 220,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/DualBerettas-Hemoglobin.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/dualberettas-hemoglobin.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 217,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/M4A1-S-BloodTiger.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/m4a1-s-bloodtiger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 232,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/SCAR-20-CrimsonWeb.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/scar-20-crimsonweb.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 216,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/Tec-9-BlueTitanium.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/tec-9-bluetitanium.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 219,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/P250-Hive.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/p250-hive.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 218,
     "collection": "Arms Deal 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDeal2Collection/FAMAS-Hexane.png",
+    "Image": "/assets/img/items/weapons/armsdeal2collection/famas-hexane.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

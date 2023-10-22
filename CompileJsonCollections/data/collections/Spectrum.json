@@ -8,7 +8,7 @@
     "gen_id": 639,
     "collection": "Spectrum Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/AK-47-Bloodsport.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/ak-47-bloodsport.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 653,
     "collection": "Spectrum Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/USP-S-Neo-Noir.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/usp-s-neo-noir.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 644,
     "collection": "Spectrum Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/M4A1-S-Decimator.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/m4a1-s-decimator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 640,
     "collection": "Spectrum Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/AWP-FeverDream.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/awp-feverdream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 643,
     "collection": "Spectrum Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/CZ75-Auto-Xiangliu.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/cz75-auto-xiangliu.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 652,
     "collection": "Spectrum Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/UMP-45-Scaffold.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/ump-45-scaffold.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 647,
     "collection": "Spectrum Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/GalilAR-CrimsonTsunami.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/galilar-crimsontsunami.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 648,
     "collection": "Spectrum Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/M249-EmeraldPoisonDart.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/m249-emeraldpoisondart.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 651,
     "collection": "Spectrum Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/MAC-10-LastDive.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/mac-10-lastdive.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 654,
     "collection": "Spectrum Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/XM1014-Seasons.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/xm1014-seasons.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 645,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/DesertEagle-OxideBlaze.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/deserteagle-oxideblaze.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 642,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/SCAR-20-Blueprint.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/scar-20-blueprint.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 646,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/Five-SeveN-Capillary.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/five-seven-capillary.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 655,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/Sawed-Off-Zander.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/sawed-off-zander.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 650,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/P250-Ripple.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/p250-ripple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 649,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/MP7-Akoben.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/mp7-akoben.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 641,
     "collection": "Spectrum Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SpectrumCollection/PP-Bizon-JungleSlipstream.png",
+    "Image": "/assets/img/items/weapons/spectrumcollection/pp-bizon-jungleslipstream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

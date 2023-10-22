@@ -8,7 +8,7 @@
     "gen_id": 251,
     "collection": "The Italy Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/AWP-PitViper.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/awp-pitviper.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 250,
     "collection": "The Italy Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/Sawed-Off-FullStop.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/sawed-off-fullstop.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 3,
     "collection": "The Italy Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/Glock-18-CandyApple.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/glock-18-candyapple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -50,7 +50,7 @@
     "gen_id": 28,
     "collection": "The Italy Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/MP7-AnodizedNavy.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/mp7-anodizednavy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -64,7 +64,7 @@
     "gen_id": 240,
     "collection": "The Italy Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/XM1014-CaliCamo.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/xm1014-calicamo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -78,7 +78,7 @@
     "gen_id": 77,
     "collection": "The Italy Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/M4A1-S-BorealForest.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/m4a1-s-borealforest.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -92,7 +92,7 @@
     "gen_id": 3,
     "collection": "The Italy Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/Nova-CandyApple.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/nova-candyapple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 15,
     "collection": "The Italy Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/UMP-45-Gunsmoke.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/ump-45-gunsmoke.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 43,
     "collection": "The Italy Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/DualBerettas-Stained.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/dualberettas-stained.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 21,
     "collection": "The Italy Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/P2000-GraniteMarbleized.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/p2000-granitemarbleized.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 46,
     "collection": "The Italy Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/AUG-Contractor.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/aug-contractor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 2,
     "collection": "The Italy Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/Tec-9-Groundwater.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/tec-9-groundwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 99,
     "collection": "The Italy Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/Nova-SandDune.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/nova-sanddune.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 47,
     "collection": "The Italy Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/FAMAS-Colony.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/famas-colony.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 148,
     "collection": "The Italy Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheItalyCollection/PP-Bizon-SandDashed.png",
+    "Image": "/assets/img/items/weapons/theitalycollection/pp-bizon-sanddashed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

@@ -8,7 +8,7 @@
     "gen_id": 946,
     "collection": "Prisma 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/M4A1-S-PlayerTwo.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/m4a1-s-playertwo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 957,
     "collection": "Prisma 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/Glock-18-BulletQueen.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/glock-18-bulletqueen.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 941,
     "collection": "Prisma 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/AK-47-PhantomDisruptor.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/ak-47-phantomdisruptor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 947,
     "collection": "Prisma 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/MAC-10-DiscoTech.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/mac-10-discotech.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 948,
     "collection": "Prisma 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/MAG-7-Justice.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/mag-7-justice.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 956,
     "collection": "Prisma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/SSG08-FeverDream.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/ssg08-feverdream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 955,
     "collection": "Prisma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/SG553-Darkwing.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/sg553-darkwing.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 951,
     "collection": "Prisma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/P2000-AcidEtched.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/p2000-acidetched.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 954,
     "collection": "Prisma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/SCAR-20-Enforcer.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/scar-20-enforcer.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 953,
     "collection": "Prisma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/Sawed-Off-Apocalypto.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/sawed-off-apocalypto.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 943,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/AWP-Capillary.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/awp-capillary.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 945,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/DesertEagle-BluePly.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/deserteagle-blueply.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 942,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/AUG-TomCat.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/aug-tomcat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 949,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/MP5-SD-DesertStrike.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/mp5-sd-desertstrike.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 944,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/CZ75-Auto-Distressed.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/cz75-auto-distressed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 950,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/Negev-Prototype.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/negev-prototype.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 952,
     "collection": "Prisma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Prisma2Collection/R8Revolver-BoneForged.png",
+    "Image": "/assets/img/items/weapons/prisma2collection/r8revolver-boneforged.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3

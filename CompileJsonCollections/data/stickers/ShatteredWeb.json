@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 774695,
     "BuffStickerId": 10824,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/GoldWeb-Foil.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/goldweb-foil.png"
   },
   {
     "name": "Web Stuck (Holo)",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 774690,
     "BuffStickerId": 10823,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/WebStuck-Holo.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/webstuck-holo.png"
   },
   {
     "name": "Mastermind (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 774722,
     "BuffStickerId": 10825,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/Mastermind-Holo.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/mastermind-holo.png"
   },
   {
     "name": "Counter-Tech",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774684,
     "BuffStickerId": 10821,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/CounterTech.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/countertech.png"
   },
   {
     "name": "Web Stuck",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774734,
     "BuffStickerId": 10827,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/WebStuck.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/webstuck.png"
   },
   {
     "name": "Gold Web",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774723,
     "BuffStickerId": 10826,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/GoldWeb.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/goldweb.png"
   },
   {
     "name": "Shattered Web",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774673,
     "BuffStickerId": 10819,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/ShatteredWeb.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/shatteredweb.png"
   },
   {
     "name": "Mastermind",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774678,
     "BuffStickerId": 10820,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/Mastermind.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/mastermind.png"
   },
   {
     "name": "Terrorist-Tech",
@@ -78,6 +78,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 774689,
     "BuffStickerId": 10822,
-    "Image": "/assets/img/items/stickers/ShatteredWebStickerCollection/TerroristTech.png"
+    "Image": "/assets/img/items/stickers/shatteredwebstickercollection/terroristtech.png"
   }
 ]

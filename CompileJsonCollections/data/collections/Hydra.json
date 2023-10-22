@@ -8,7 +8,7 @@
     "gen_id": 662,
     "collection": "Operation Hydra Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/AWP-OniTaiji.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/awp-onitaiji.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 660,
     "collection": "Operation Hydra Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/Five-SeveN-HyperBeast.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/five-seven-hyperbeast.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 661,
     "collection": "Operation Hydra Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/GalilAR-SugarRush.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/galilar-sugarrush.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 664,
     "collection": "Operation Hydra Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/M4A4-Hellfire.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/m4a4-hellfire.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 658,
     "collection": "Operation Hydra Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/DualBerettas-CobraStrike.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/dualberettas-cobrastrike.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 656,
     "collection": "Operation Hydra Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/AK-47-OrbitMk01.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/ak-47-orbitmk01.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 667,
     "collection": "Operation Hydra Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/P2000-Woodsman.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/p2000-woodsman.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 670,
     "collection": "Operation Hydra Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/SSG08-DeathsHead.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/ssg08-deathshead.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 668,
     "collection": "Operation Hydra Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/P250-RedRock.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/p250-redrock.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 669,
     "collection": "Operation Hydra Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/P90-DeathGrip.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/p90-deathgrip.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 657,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/USP-S-Blueprint.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/usp-s-blueprint.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 663,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/M4A1-S-Briefing.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/m4a1-s-briefing.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 671,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/Tec-9-CutOut.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/tec-9-cutout.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 666,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/MAG-7-HardWater.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/mag-7-hardwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 665,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/MAC-10-Aloha.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/mac-10-aloha.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 672,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/UMP-45-MetalFlowers.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/ump-45-metalflowers.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 659,
     "collection": "Operation Hydra Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/OperationHydraCollection/FAMAS-Macabre.png",
+    "Image": "/assets/img/items/weapons/operationhydracollection/famas-macabre.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

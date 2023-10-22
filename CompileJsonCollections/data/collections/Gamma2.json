@@ -8,7 +8,7 @@
     "gen_id": 600,
     "collection": "Gamma 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/AK-47-NeonRevolution.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/ak-47-neonrevolution.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 604,
     "collection": "Gamma 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/FAMAS-RollCage.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/famas-rollcage.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 614,
     "collection": "Gamma 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/Tec-9-FuelInjector.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/tec-9-fuelinjector.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 609,
     "collection": "Gamma 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/MP9-Airlock.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/mp9-airlock.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 601,
     "collection": "Gamma 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/AUG-SydMead.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/aug-sydmead.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 603,
     "collection": "Gamma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/DesertEagle-Directive.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/deserteagle-directive.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 607,
     "collection": "Gamma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/Glock-18-Weasel.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/glock-18-weasel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 613,
     "collection": "Gamma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/SG553-Triarch.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/sg553-triarch.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 608,
     "collection": "Gamma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/MAG-7-Petroglyph.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/mag-7-petroglyph.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 612,
     "collection": "Gamma 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/SCAR-20-Powercore.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/scar-20-powercore.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 611,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/P90-Grim.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/p90-grim.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 605,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/Five-SeveN-Scumbria.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/five-seven-scumbria.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 610,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/Negev-Dazzle.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/negev-dazzle.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 615,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/UMP-45-Briefing.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/ump-45-briefing.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 606,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/G3SG1-Ventilator.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/g3sg1-ventilator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 602,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/CZ75-Auto-Imprint.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/cz75-auto-imprint.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 616,
     "collection": "Gamma 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Gamma2Collection/XM1014-Slipstream.png",
+    "Image": "/assets/img/items/weapons/gamma2collection/xm1014-slipstream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

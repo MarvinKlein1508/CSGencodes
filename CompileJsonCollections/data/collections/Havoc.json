@@ -8,7 +8,7 @@
     "gen_id": 1004,
     "collection": "The Havoc Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/AK-47-X-Ray.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/ak-47-x-ray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 1029,
     "collection": "The Havoc Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/AWP-SilkTiger.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/awp-silktiger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 1009,
     "collection": "The Havoc Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/MAC-10-HotSnakes.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/mac-10-hotsnakes.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 61,
     "collection": "The Havoc Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/SG553-Hypnotic.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/sg553-hypnotic.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 1013,
     "collection": "The Havoc Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/GalilAR-PhoenixBlacklight.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/galilar-phoenixblacklight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 1016,
     "collection": "The Havoc Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/Glock-18-Franklin.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/glock-18-franklin.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 1030,
     "collection": "The Havoc Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/P250-BengalTiger.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/p250-bengaltiger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 1006,
     "collection": "The Havoc Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/DesertEagle-NightHeist.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/deserteagle-nightheist.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 1012,
     "collection": "The Havoc Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/Negev-PhoenixStencil.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/negev-phoenixstencil.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 1015,
     "collection": "The Havoc Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/P90-TigerPit.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/p90-tigerpit.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 1011,
     "collection": "The Havoc Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/R8Revolver-PhoenixMarker.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/r8revolver-phoenixmarker.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 323,
     "collection": "The Havoc Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/Nova-RustCoat.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/nova-rustcoat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 1008,
     "collection": "The Havoc Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/UMP-45-Houndstooth.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/ump-45-houndstooth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 1007,
     "collection": "The Havoc Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/MP7-VaultHeist.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/mp7-vaultheist.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -204,7 +204,7 @@
     "gen_id": 170,
     "collection": "The Havoc Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/M249-Predator.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/m249-predator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 1010,
     "collection": "The Havoc Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/Tec-9-PhoenixChalk.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/tec-9-phoenixchalk.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 1005,
     "collection": "The Havoc Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/DualBerettas-Heist.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/dualberettas-heist.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 1014,
     "collection": "The Havoc Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/Sawed-Off-ClayAmbush.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/sawed-off-clayambush.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -260,7 +260,7 @@
     "gen_id": 293,
     "collection": "The Havoc Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheHavocCollection/PP-Bizon-DeathRattle.png",
+    "Image": "/assets/img/items/weapons/thehavoccollection/pp-bizon-deathrattle.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

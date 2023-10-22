@@ -8,7 +8,7 @@
     "gen_id": 36,
     "collection": "The Aztec Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheAztecCollection/Tec-9-Ossified.png",
+    "Image": "/assets/img/items/weapons/theazteccollection/tec-9-ossified.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -22,7 +22,7 @@
     "gen_id": 122,
     "collection": "The Aztec Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheAztecCollection/AK-47-JungleSpray.png",
+    "Image": "/assets/img/items/weapons/theazteccollection/ak-47-junglespray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -36,7 +36,7 @@
     "gen_id": 16,
     "collection": "The Aztec Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheAztecCollection/M4A4-JungleTiger.png",
+    "Image": "/assets/img/items/weapons/theazteccollection/m4a4-jungletiger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -50,7 +50,7 @@
     "gen_id": 151,
     "collection": "The Aztec Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAztecCollection/Five-SeveN-Jungle.png",
+    "Image": "/assets/img/items/weapons/theazteccollection/five-seven-jungle.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -64,7 +64,7 @@
     "gen_id": 26,
     "collection": "The Aztec Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAztecCollection/SSG08-LichenDashed.png",
+    "Image": "/assets/img/items/weapons/theazteccollection/ssg08-lichendashed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -78,7 +78,7 @@
     "gen_id": 25,
     "collection": "The Aztec Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheAztecCollection/Nova-ForestLeaves.png",
+    "Image": "/assets/img/items/weapons/theazteccollection/nova-forestleaves.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

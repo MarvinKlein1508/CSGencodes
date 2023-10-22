@@ -8,7 +8,7 @@
     "gen_id": 248,
     "collection": "The Train Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/Tec-9-RedQuartz.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/tec-9-redquartz.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 237,
     "collection": "The Train Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/DesertEagle-UrbanRubble.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/deserteagle-urbanrubble.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 246,
     "collection": "The Train Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/Sawed-Off-AmberFade.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/sawed-off-amberfade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -50,7 +50,7 @@
     "gen_id": 17,
     "collection": "The Train Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/M4A4-UrbanDDPAT.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/m4a4-urbanddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -64,7 +64,7 @@
     "gen_id": 3,
     "collection": "The Train Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/MAC-10-CandyApple.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/mac-10-candyapple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -78,7 +78,7 @@
     "gen_id": 34,
     "collection": "The Train Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/P250-MetallicDDPAT.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/p250-metallicddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -92,7 +92,7 @@
     "gen_id": 70,
     "collection": "The Train Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/SCAR-20-CarbonFiber.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/scar-20-carbonfiber.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 34,
     "collection": "The Train Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/MAG-7-MetallicDDPAT.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/mag-7-metallicddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 234,
     "collection": "The Train Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/P90-AshWood.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/p90-ashwood.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 74,
     "collection": "The Train Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/G3SG1-PolarCamo.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/g3sg1-polarcamo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 1
@@ -148,7 +148,7 @@
     "gen_id": 78,
     "collection": "The Train Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/Five-SeveN-ForestNight.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/five-seven-forestnight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 17,
     "collection": "The Train Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/UMP-45-UrbanDDPAT.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/ump-45-urbanddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 149,
     "collection": "The Train Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/PP-Bizon-UrbanDashed.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/pp-bizon-urbandashed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 47,
     "collection": "The Train Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/DualBerettas-Colony.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/dualberettas-colony.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 107,
     "collection": "The Train Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheTrainCollection/Nova-PolarMesh.png",
+    "Image": "/assets/img/items/weapons/thetraincollection/nova-polarmesh.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

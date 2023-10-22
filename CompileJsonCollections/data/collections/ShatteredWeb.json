@@ -8,7 +8,7 @@
     "gen_id": 887,
     "collection": "Shattered Web Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/AWP-ContainmentBreach.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/awp-containmentbreach.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 898,
     "collection": "Shattered Web Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/MAC-10-Stalker.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/mac-10-stalker.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 899,
     "collection": "Shattered Web Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/SSG08-Bloodshot.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/ssg08-bloodshot.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 889,
     "collection": "Shattered Web Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/Tec-9-Decimator.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/tec-9-decimator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 897,
     "collection": "Shattered Web Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/SG553-ColonyIV.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/sg553-colonyiv.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 885,
     "collection": "Shattered Web Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/AK-47-RatRod.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/ak-47-ratrod.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 886,
     "collection": "Shattered Web Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/AUG-ArcticWolf.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/aug-arcticwolf.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 894,
     "collection": "Shattered Web Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/P2000-Obsidian.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/p2000-obsidian.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 893,
     "collection": "Shattered Web Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/MP7-NeonPly.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/mp7-neonply.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 884,
     "collection": "Shattered Web Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/PP-Bizon-Embargo.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/pp-bizon-embargo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 895,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/DualBerettas-Balance.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/dualberettas-balance.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 892,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/R8Revolver-Memento.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/r8revolver-memento.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 900,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/M249-Warbird.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/m249-warbird.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 891,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/G3SG1-BlackSand.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/g3sg1-blacksand.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 888,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/MP5-SD-AcidWash.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/mp5-sd-acidwash.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 890,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/Nova-Plume.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/nova-plume.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 896,
     "collection": "Shattered Web Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShatteredWebCollection/SCAR-20-Torn.png",
+    "Image": "/assets/img/items/weapons/shatteredwebcollection/scar-20-torn.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

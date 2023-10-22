@@ -8,7 +8,7 @@
     "gen_id": 1040,
     "collection": "Snakebite Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/USP-S-TheTraitor.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/usp-s-thetraitor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 1041,
     "collection": "Snakebite Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/M4A4-InLivingColor.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/m4a4-inlivingcolor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 1037,
     "collection": "Snakebite Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/MP9-FoodChain.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/mp9-foodchain.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 1038,
     "collection": "Snakebite Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/GalilAR-ChromaticAberration.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/galilar-chromaticaberration.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 1046,
     "collection": "Snakebite Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/XM1014-XOXO.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/xm1014-xoxo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 1035,
     "collection": "Snakebite Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/AK-47-Slate.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/ak-47-slate.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 1050,
     "collection": "Snakebite Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/DesertEagle-TriggerDiscipline.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/deserteagle-triggerdiscipline.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 1044,
     "collection": "Snakebite Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/P250-CyberShell.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/p250-cybershell.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 1043,
     "collection": "Snakebite Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/Negev-devtexture.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/negev-devtexture.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 1045,
     "collection": "Snakebite Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/MAC-10-ButtonMasher.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/mac-10-buttonmasher.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 1039,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/Glock-18-ClearPolymer.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/glock-18-clearpolymer.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 1048,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/SG553-HeavyMetal.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/sg553-heavymetal.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 1047,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/R8Revolver-JunkYard.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/r8revolver-junkyard.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 1036,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/CZ75-Auto-Circaetus.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/cz75-auto-circaetus.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 1051,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/Nova-Windblown.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/nova-windblown.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 1042,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/M249-OSIPR.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/m249-osipr.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 1049,
     "collection": "Snakebite Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/SnakebiteCollection/UMP-45-Oscillator.png",
+    "Image": "/assets/img/items/weapons/snakebitecollection/ump-45-oscillator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

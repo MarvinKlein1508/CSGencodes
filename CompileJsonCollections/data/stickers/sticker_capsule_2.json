@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39993,
     "BuffStickerId": 906,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/Crown-Foil.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/crown-foil.png"
   },
   {
     "name": "Stupid Banana (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40855,
     "BuffStickerId": 1755,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/StupidBanana-Foil.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/stupidbanana-foil.png"
   },
   {
     "name": "Bish (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39909,
     "BuffStickerId": 828,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/Bish-Holo.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/bish-holo.png"
   },
   {
     "name": "Bash (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39906,
     "BuffStickerId": 825,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/Bash-Holo.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/bash-holo.png"
   },
   {
     "name": "Bosh (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39932,
     "BuffStickerId": 848,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/Bosh-Holo.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/bosh-holo.png"
   },
   {
     "name": "Let's Roll-oll (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40445,
     "BuffStickerId": 1351,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/LetsRolloll-Holo.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/letsrolloll-holo.png"
   },
   {
     "name": "Good Game",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40244,
     "BuffStickerId": 1155,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/GoodGame.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/goodgame.png"
   },
   {
     "name": "Nice Shot",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40607,
     "BuffStickerId": 1508,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/NiceShot.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/niceshot.png"
   },
   {
     "name": "Welcome to the Clutch",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41057,
     "BuffStickerId": 1954,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/WelcometotheClutch.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/welcometotheclutch.png"
   },
   {
     "name": "Banana",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39905,
     "BuffStickerId": 824,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/Banana.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/banana.png"
   },
   {
     "name": "Good Luck",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40245,
     "BuffStickerId": 1156,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/GoodLuck.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/goodluck.png"
   },
   {
     "name": "Bomb Code",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39917,
     "BuffStickerId": 836,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/BombCode.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/bombcode.png"
   },
   {
     "name": "Have Fun",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40297,
     "BuffStickerId": 1206,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/HaveFun.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/havefun.png"
   },
   {
     "name": "Chicken Lover",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39947,
     "BuffStickerId": 863,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/ChickenLover.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/chickenlover.png"
   },
   {
     "name": "Let's Roll-oll",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40444,
     "BuffStickerId": 1350,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/LetsRolloll.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/letsrolloll.png"
   },
   {
     "name": "Metal",
@@ -141,6 +141,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40512,
     "BuffStickerId": 1416,
-    "Image": "/assets/img/items/stickers/StickerCapsule2/Metal.png"
+    "Image": "/assets/img/items/stickers/stickercapsule2/metal.png"
   }
 ]

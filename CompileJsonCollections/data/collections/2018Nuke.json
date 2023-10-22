@@ -8,7 +8,7 @@
     "gen_id": 792,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/M4A1-S-ControlPanel.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/m4a1-s-controlpanel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -22,7 +22,7 @@
     "gen_id": 791,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/Tec-9-RemoteControl.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/tec-9-remotecontrol.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 789,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/Glock-18-NuclearGarden.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/glock-18-nucleargarden.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 787,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/MAG-7-CoreBreach.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/mag-7-corebreach.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 779,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/AUG-RandomAccess.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/aug-randomaccess.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 788,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/AWP-Acheron.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/awp-acheron.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 781,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/MP5-SD-Co-Processor.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/mp5-sd-co-processor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 776,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/P90-FacilityNegative.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/p90-facilitynegative.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 786,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/P250-Exchanger.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/p250-exchanger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 790,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/GalilAR-ColdFusion.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/galilar-coldfusion.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 780,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/M4A4-Mainframe.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/m4a4-mainframe.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 783,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/Negev-Bulkhead.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/negev-bulkhead.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 782,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/MP7-Motherboard.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/mp7-motherboard.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 775,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/PP-Bizon-FacilitySketch.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/pp-bizon-facilitysketch.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 784,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/Five-SeveN-Coolant.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/five-seven-coolant.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 777,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/P250-FacilityDraft.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/p250-facilitydraft.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 785,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/Nova-Mandrel.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/nova-mandrel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 778,
     "collection": "The 2018 Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018NukeCollection/UMP-45-FacilityDark.png",
+    "Image": "/assets/img/items/weapons/the2018nukecollection/ump-45-facilitydark.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

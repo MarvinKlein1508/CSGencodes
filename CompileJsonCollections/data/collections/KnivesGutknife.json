@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Vanilla.png",
+    "Image": "/assets/img/items/knives/gutknife/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/GammaDoppler-Phase1.png",
+    "Image": "/assets/img/items/knives/gutknife/gammadoppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/GammaDoppler-Phase2.png",
+    "Image": "/assets/img/items/knives/gutknife/gammadoppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/GammaDoppler-Phase3.png",
+    "Image": "/assets/img/items/knives/gutknife/gammadoppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/GammaDoppler-Phase4.png",
+    "Image": "/assets/img/items/knives/gutknife/gammadoppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/GammaDoppler-Emerald.png",
+    "Image": "/assets/img/items/knives/gutknife/gammadoppler-emerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 560,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Lore.png",
+    "Image": "/assets/img/items/knives/gutknife/lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Autotronic.png",
+    "Image": "/assets/img/items/knives/gutknife/autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/BlackLaminate.png",
+    "Image": "/assets/img/items/knives/gutknife/blacklaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Freehand.png",
+    "Image": "/assets/img/items/knives/gutknife/freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/BrightWater.png",
+    "Image": "/assets/img/items/knives/gutknife/brightwater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/MarbleFade.png",
+    "Image": "/assets/img/items/knives/gutknife/marblefade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/TigerTooth.png",
+    "Image": "/assets/img/items/knives/gutknife/tigertooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-Phase1.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-Phase2.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-Phase3.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-Phase4.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-Ruby.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-ruby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-Sapphire.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-sapphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Doppler-BlackPearl.png",
+    "Image": "/assets/img/items/knives/gutknife/doppler-blackpearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/DamascusSteel.png",
+    "Image": "/assets/img/items/knives/gutknife/damascussteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Ultraviolet.png",
+    "Image": "/assets/img/items/knives/gutknife/ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/RustCoat.png",
+    "Image": "/assets/img/items/knives/gutknife/rustcoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Fade.png",
+    "Image": "/assets/img/items/knives/gutknife/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Slaughter.png",
+    "Image": "/assets/img/items/knives/gutknife/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/CaseHardened.png",
+    "Image": "/assets/img/items/knives/gutknife/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/BlueSteel.png",
+    "Image": "/assets/img/items/knives/gutknife/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Stained.png",
+    "Image": "/assets/img/items/knives/gutknife/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/gutknife/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/BorealForest.png",
+    "Image": "/assets/img/items/knives/gutknife/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 40,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Night.png",
+    "Image": "/assets/img/items/knives/gutknife/night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/SafariMesh.png",
+    "Image": "/assets/img/items/knives/gutknife/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/gutknife/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/gutknife/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Gut Knife",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/GutKnife/Scorched.png",
+    "Image": "/assets/img/items/knives/gutknife/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

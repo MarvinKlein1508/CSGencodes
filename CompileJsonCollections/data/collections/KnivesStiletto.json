@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Vanilla.png",
+    "Image": "/assets/img/items/knives/stiletto/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 413,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/MarbleFade.png",
+    "Image": "/assets/img/items/knives/stiletto/marblefade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 409,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/TigerTooth.png",
+    "Image": "/assets/img/items/knives/stiletto/tigertooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 418,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-Phase1.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 419,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-Phase2.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 420,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-Phase3.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 421,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-Phase4.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 415,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-Ruby.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-ruby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 416,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-Sapphire.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-sapphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 417,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Doppler-BlackPearl.png",
+    "Image": "/assets/img/items/knives/stiletto/doppler-blackpearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 410,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/DamascusSteel.png",
+    "Image": "/assets/img/items/knives/stiletto/damascussteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 98,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Ultraviolet.png",
+    "Image": "/assets/img/items/knives/stiletto/ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 414,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/RustCoat.png",
+    "Image": "/assets/img/items/knives/stiletto/rustcoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 38,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Fade.png",
+    "Image": "/assets/img/items/knives/stiletto/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 59,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Slaughter.png",
+    "Image": "/assets/img/items/knives/stiletto/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 44,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/CaseHardened.png",
+    "Image": "/assets/img/items/knives/stiletto/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 42,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/BlueSteel.png",
+    "Image": "/assets/img/items/knives/stiletto/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 43,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Stained.png",
+    "Image": "/assets/img/items/knives/stiletto/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 12,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/stiletto/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 77,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/BorealForest.png",
+    "Image": "/assets/img/items/knives/stiletto/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 40,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Night.png",
+    "Image": "/assets/img/items/knives/stiletto/night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 72,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/SafariMesh.png",
+    "Image": "/assets/img/items/knives/stiletto/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 143,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/stiletto/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 5,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/stiletto/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 735,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/NightStripe.png",
+    "Image": "/assets/img/items/knives/stiletto/nightstripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 5,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Stiletto/Scorched.png",
+    "Image": "/assets/img/items/knives/stiletto/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

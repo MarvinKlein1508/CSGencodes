@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Vanilla.png",
+    "Image": "/assets/img/items/knives/ursus/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 413,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/MarbleFade.png",
+    "Image": "/assets/img/items/knives/ursus/marblefade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 409,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/TigerTooth.png",
+    "Image": "/assets/img/items/knives/ursus/tigertooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 418,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase1.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 419,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase2.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 420,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase3.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 421,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-Phase4.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 415,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-Ruby.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-ruby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 416,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-Sapphire.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-sapphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 417,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Doppler-BlackPearl.png",
+    "Image": "/assets/img/items/knives/ursus/doppler-blackpearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 410,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/DamascusSteel.png",
+    "Image": "/assets/img/items/knives/ursus/damascussteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 98,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Ultraviolet.png",
+    "Image": "/assets/img/items/knives/ursus/ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 414,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/RustCoat.png",
+    "Image": "/assets/img/items/knives/ursus/rustcoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 38,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Fade.png",
+    "Image": "/assets/img/items/knives/ursus/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 59,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Slaughter.png",
+    "Image": "/assets/img/items/knives/ursus/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 44,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/CaseHardened.png",
+    "Image": "/assets/img/items/knives/ursus/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 42,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/BlueSteel.png",
+    "Image": "/assets/img/items/knives/ursus/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 43,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Stained.png",
+    "Image": "/assets/img/items/knives/ursus/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 12,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/ursus/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 77,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/BorealForest.png",
+    "Image": "/assets/img/items/knives/ursus/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 735,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/NightStripe.png",
+    "Image": "/assets/img/items/knives/ursus/nightstripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 72,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/SafariMesh.png",
+    "Image": "/assets/img/items/knives/ursus/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 143,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/ursus/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 5,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/ursus/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 5,
     "collection": "Ursus",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Ursus/Scorched.png",
+    "Image": "/assets/img/items/knives/ursus/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

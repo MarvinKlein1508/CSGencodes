@@ -8,7 +8,7 @@
     "gen_id": 962,
     "collection": "Fracture Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/FractureCollection/DesertEagle-Printstream.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/deserteagle-printstream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 959,
     "collection": "Fracture Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/FractureCollection/AK-47-LegionofAnubis.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/ak-47-legionofanubis.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 963,
     "collection": "Fracture Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/FractureCollection/Glock-18-Vogue.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/glock-18-vogue.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 971,
     "collection": "Fracture Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/FractureCollection/M4A4-ToothFairy.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/m4a4-toothfairy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 970,
     "collection": "Fracture Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/FractureCollection/XM1014-Entombed.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/xm1014-entombed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 961,
     "collection": "Fracture Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FractureCollection/MAG-7-MonsterCall.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/mag-7-monstercall.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 965,
     "collection": "Fracture Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FractureCollection/MAC-10-Allure.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/mac-10-allure.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 964,
     "collection": "Fracture Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FractureCollection/Tec-9-Brother.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/tec-9-brother.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 974,
     "collection": "Fracture Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FractureCollection/MP5-SD-Kitbash.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/mp5-sd-kitbash.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 972,
     "collection": "Fracture Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FractureCollection/GalilAR-Connexion.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/galilar-connexion.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 967,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/SSG08-Mainframe001.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/ssg08-mainframe001.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 973,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/PP-Bizon-Runic.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/pp-bizon-runic.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 969,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/P90-Freight.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/p90-freight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 960,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/P2000-Gnarled.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/p2000-gnarled.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 968,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/P250-Cassette.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/p250-cassette.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 958,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/Negev-Ultralight.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/negev-ultralight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 966,
     "collection": "Fracture Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FractureCollection/SG553-OlRusty.png",
+    "Image": "/assets/img/items/weapons/fracturecollection/sg553-olrusty.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

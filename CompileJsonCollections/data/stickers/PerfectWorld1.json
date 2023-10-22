@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40267,
     "BuffStickerId": 1178,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/GuardianDragon-Foil.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/guardiandragon-foil.png"
   },
   {
     "name": "Fancy Koi (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40129,
     "BuffStickerId": 1040,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/FancyKoi-Foil.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/fancykoi-foil.png"
   },
   {
     "name": "Cheongsam (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39945,
     "BuffStickerId": 861,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Cheongsam-Holo.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/cheongsam-holo.png"
   },
   {
     "name": "Terror Rice",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40958,
     "BuffStickerId": 1856,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/TerrorRice.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/terrorrice.png"
   },
   {
     "name": "Guardian Dragon",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40266,
     "BuffStickerId": 1177,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/GuardianDragon.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/guardiandragon.png"
   },
   {
     "name": "Mahjong Zhong",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 33685,
     "BuffStickerId": 740,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/MahjongZhong.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/mahjongzhong.png"
   },
   {
     "name": "Water Gun",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41056,
     "BuffStickerId": 1953,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/WaterGun.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/watergun.png"
   },
   {
     "name": "Cheongsam",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39944,
     "BuffStickerId": 860,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Cheongsam.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/cheongsam.png"
   },
   {
     "name": "Mahjong Fa",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40491,
     "BuffStickerId": 1397,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/MahjongFa.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/mahjongfa.png"
   },
   {
     "name": "Mahjong Rooster",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40492,
     "BuffStickerId": 1398,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/MahjongRooster.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/mahjongrooster.png"
   },
   {
     "name": "Fancy Koi",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40128,
     "BuffStickerId": 1039,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/FancyKoi.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/fancykoi.png"
   },
   {
     "name": "Toy Tiger",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40989,
     "BuffStickerId": 1886,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/ToyTiger.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/toytiger.png"
   },
   {
     "name": "Rice Bomb",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40702,
     "BuffStickerId": 1603,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/RiceBomb.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/ricebomb.png"
   },
   {
     "name": "Noodles",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 43997,
     "BuffStickerId": 2870,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Noodles.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/noodles.png"
   },
   {
     "name": "Hotpot",
@@ -132,6 +132,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40334,
     "BuffStickerId": 1243,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule1/Hotpot.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule1/hotpot.png"
   }
 ]

@@ -8,7 +8,7 @@
     "gen_id": 37,
     "collection": "The Dust Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheDustCollection/DesertEagle-Blaze.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/deserteagle-blaze.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 159,
     "collection": "The Dust Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheDustCollection/Glock-18-Brass.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/glock-18-brass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -36,7 +36,7 @@
     "gen_id": 71,
     "collection": "The Dust Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheDustCollection/P2000-Scorpion.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/p2000-scorpion.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 41,
     "collection": "The Dust Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheDustCollection/Sawed-Off-Copper.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/sawed-off-copper.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -64,7 +64,7 @@
     "gen_id": 30,
     "collection": "The Dust Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheDustCollection/AWP-SnakeCamo.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/awp-snakecamo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -78,7 +78,7 @@
     "gen_id": 10,
     "collection": "The Dust Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheDustCollection/AUG-Copperhead.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/aug-copperhead.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 157,
     "collection": "The Dust Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheDustCollection/SCAR-20-Palm.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/scar-20-palm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 170,
     "collection": "The Dust Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheDustCollection/AK-47-Predator.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/ak-47-predator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 8,
     "collection": "The Dust Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheDustCollection/M4A4-DesertStorm.png",
+    "Image": "/assets/img/items/weapons/thedustcollection/m4a4-desertstorm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2

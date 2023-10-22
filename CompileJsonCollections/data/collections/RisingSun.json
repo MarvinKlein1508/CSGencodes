@@ -8,7 +8,7 @@
     "gen_id": 455,
     "collection": "The Rising Sun Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/AUG-AkihabaraAccept.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/aug-akihabaraaccept.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 456,
     "collection": "The Rising Sun Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/AK-47-Hydroponic.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/ak-47-hydroponic.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 464,
     "collection": "The Rising Sun Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/Five-SeveN-NeonKimono.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/five-seven-neonkimono.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 470,
     "collection": "The Rising Sun Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-SunsetStorm1.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/deserteagle-sunsetstorm1.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 469,
     "collection": "The Rising Sun Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-SunsetStorm2.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/deserteagle-sunsetstorm2.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 471,
     "collection": "The Rising Sun Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/M4A4-Daybreak.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/m4a4-daybreak.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 460,
     "collection": "The Rising Sun Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/GalilAR-AquaTerrace.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/galilar-aquaterrace.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 462,
     "collection": "The Rising Sun Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/MAG-7-CounterTerrace.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/mag-7-counterterrace.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 463,
     "collection": "The Rising Sun Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/Tec-9-Terrace.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/tec-9-terrace.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 468,
     "collection": "The Rising Sun Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/DesertEagle-MidnightStorm.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/deserteagle-midnightstorm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 466,
     "collection": "The Rising Sun Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/P250-CrimsonKimono.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/p250-crimsonkimono.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 459,
     "collection": "The Rising Sun Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/Tec-9-BambooForest.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/tec-9-bambooforest.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 457,
     "collection": "The Rising Sun Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/PP-Bizon-BambooPrint.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/pp-bizon-bambooprint.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 467,
     "collection": "The Rising Sun Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/P250-MintKimono.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/p250-mintkimono.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 465,
     "collection": "The Rising Sun Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/G3SG1-OrangeKimono.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/g3sg1-orangekimono.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 458,
     "collection": "The Rising Sun Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheRisingSunCollection/Sawed-Off-BambooShadow.png",
+    "Image": "/assets/img/items/weapons/therisingsuncollection/sawed-off-bambooshadow.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

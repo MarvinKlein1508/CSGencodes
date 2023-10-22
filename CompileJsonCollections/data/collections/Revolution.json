@@ -8,7 +8,7 @@
     "gen_id": 1228,
     "collection": "Revolution Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/M4A4-Temukau.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/m4a4-temukau.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 1221,
     "collection": "Revolution Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/AK-47-HeadShot.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/ak-47-headshot.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 1222,
     "collection": "Revolution Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/AWP-Duality.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/awp-duality.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 1236,
     "collection": "Revolution Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/UMP-45-WildChild.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/ump-45-wildchild.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 1224,
     "collection": "Revolution Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/P2000-WickedSick.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/p2000-wickedsick.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 1223,
     "collection": "Revolution Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/M4A1-S-Emphorosaur-S.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/m4a1-s-emphorosaur-s.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 1233,
     "collection": "Revolution Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/P90-Neoqueen.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/p90-neoqueen.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 1229,
     "collection": "Revolution Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/MAC-10-Sakkaku.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/mac-10-sakkaku.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 1227,
     "collection": "Revolution Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/Glock-18-UmbralRabbit.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/glock-18-umbralrabbit.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 1232,
     "collection": "Revolution Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/R8Revolver-BananaCannon.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/r8revolver-bananacannon.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 1231,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/MP5-SD-Liquidation.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/mp5-sd-liquidation.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 1234,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/SG553-Cyberforce.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/sg553-cyberforce.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 1225,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/MP9-Featherweight.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/mp9-featherweight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 1230,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/P250-Rebuilt.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/p250-rebuilt.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 1220,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/MAG-7-Insomnia.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/mag-7-insomnia.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 1226,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/SCAR-20-Fragments.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/scar-20-fragments.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 1235,
     "collection": "Revolution Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/RevolutionCollection/Tec-9-Rebel.png",
+    "Image": "/assets/img/items/weapons/revolutioncollection/tec-9-rebel.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

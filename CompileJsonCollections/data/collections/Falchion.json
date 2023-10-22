@@ -8,7 +8,7 @@
     "gen_id": 474,
     "collection": "Falchion Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/FalchionCollection/AK-47-AquamarineRevenge.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/ak-47-aquamarinerevenge.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 475,
     "collection": "Falchion Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/FalchionCollection/AWP-HyperBeast.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/awp-hyperbeast.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 481,
     "collection": "Falchion Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/FalchionCollection/MP7-Nemesis.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/mp7-nemesis.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 487,
     "collection": "Falchion Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/FalchionCollection/SG553-Cyrex.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/sg553-cyrex.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 476,
     "collection": "Falchion Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/FalchionCollection/CZ75-Auto-YellowJacket.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/cz75-auto-yellowjacket.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 483,
     "collection": "Falchion Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FalchionCollection/Negev-Loudmouth.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/negev-loudmouth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 480,
     "collection": "Falchion Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FalchionCollection/M4A4-EvilDaimyo.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/m4a4-evildaimyo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 485,
     "collection": "Falchion Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FalchionCollection/P2000-Handgun.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/p2000-handgun.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 482,
     "collection": "Falchion Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FalchionCollection/MP9-RubyPoisonDart.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/mp9-rubypoisondart.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 477,
     "collection": "Falchion Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/FalchionCollection/FAMAS-NeuralNet.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/famas-neuralnet.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 478,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FalchionCollection/GalilAR-RocketPop.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/galilar-rocketpop.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 489,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FalchionCollection/USP-S-Torque.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/usp-s-torque.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 479,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FalchionCollection/Glock-18-BunsenBurner.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/glock-18-bunsenburner.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 486,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FalchionCollection/P90-EliteBuild.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/p90-elitebuild.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 484,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FalchionCollection/Nova-Ranger.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/nova-ranger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 488,
     "collection": "Falchion Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/FalchionCollection/UMP-45-Riot.png",
+    "Image": "/assets/img/items/weapons/falchioncollection/ump-45-riot.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

@@ -8,7 +8,7 @@
     "gen_id": 756,
     "collection": "The Norse Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/AWP-Gungnir.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/awp-gungnir.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 763,
     "collection": "The Norse Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/Negev-Mjlnir.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/negev-mjlnir.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 758,
     "collection": "The Norse Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/AUG-FlameJrmungandr.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/aug-flamejrmungandr.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 759,
     "collection": "The Norse Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/P90-AstralJrmungandr.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/p90-astraljrmungandr.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 757,
     "collection": "The Norse Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/DesertEagle-EmeraldJrmungandr.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/deserteagle-emeraldjrmungandr.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 761,
     "collection": "The Norse Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/MAC-10-CopperBorre.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/mac-10-copperborre.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 859,
     "collection": "The Norse Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/CZ75-Auto-EmeraldQuartz.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/cz75-auto-emeraldquartz.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 760,
     "collection": "The Norse Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/XM1014-FrostBorre.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/xm1014-frostborre.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 159,
     "collection": "The Norse Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/SCAR-20-Brass.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/scar-20-brass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 860,
     "collection": "The Norse Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/DualBerettas-Pyre.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/dualberettas-pyre.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 327,
     "collection": "The Norse Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/MAG-7-Chainmail.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/mag-7-chainmail.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 862,
     "collection": "The Norse Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/M4A1-S-MossQuartz.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/m4a1-s-mossquartz.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 443,
     "collection": "The Norse Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/USP-S-Pathfinder.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/usp-s-pathfinder.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 762,
     "collection": "The Norse Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/SSG08-RedStone.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/ssg08-redstone.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 175,
     "collection": "The Norse Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/MP7-Scorched.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/mp7-scorched.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 101,
     "collection": "The Norse Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/GalilAR-Tornado.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/galilar-tornado.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 861,
     "collection": "The Norse Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/SG553-Barricade.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/sg553-barricade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 863,
     "collection": "The Norse Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNorseCollection/FAMAS-NightBorre.png",
+    "Image": "/assets/img/items/weapons/thenorsecollection/famas-nightborre.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

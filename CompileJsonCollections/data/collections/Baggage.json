@@ -8,7 +8,7 @@
     "gen_id": 340,
     "collection": "The Baggage Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/AK-47-JetSet.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/ak-47-jetset.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -22,7 +22,7 @@
     "gen_id": 341,
     "collection": "The Baggage Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/AK-47-FirstClass.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/ak-47-firstclass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -36,7 +36,7 @@
     "gen_id": 347,
     "collection": "The Baggage Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/DesertEagle-Pilot.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/deserteagle-pilot.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 348,
     "collection": "The Baggage Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/XM1014-RedLeather.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/xm1014-redleather.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -64,7 +64,7 @@
     "gen_id": 345,
     "collection": "The Baggage Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/Sawed-Off-FirstClass.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/sawed-off-firstclass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -78,7 +78,7 @@
     "gen_id": 364,
     "collection": "The Baggage Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/USP-S-BusinessClass.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/usp-s-businessclass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 363,
     "collection": "The Baggage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/SG553-Traveler.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/sg553-traveler.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 342,
     "collection": "The Baggage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/P90-Leather.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/p90-leather.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 343,
     "collection": "The Baggage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/MAC-10-Commuter.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/mac-10-commuter.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 346,
     "collection": "The Baggage Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/P2000-CoachClass.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/p2000-coachclass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 99,
     "collection": "The Baggage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/SSG08-SandDune.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/ssg08-sanddune.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 46,
     "collection": "The Baggage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/G3SG1-Contractor.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/g3sg1-contractor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 366,
     "collection": "The Baggage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/MP9-GreenPlaid.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/mp9-greenplaid.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 365,
     "collection": "The Baggage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/MP7-OlivePlaid.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/mp7-oliveplaid.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 366,
     "collection": "The Baggage Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheBaggageCollection/CZ75-Auto-GreenPlaid.png",
+    "Image": "/assets/img/items/weapons/thebaggagecollection/cz75-auto-greenplaid.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

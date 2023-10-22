@@ -8,7 +8,7 @@
     "gen_id": 844,
     "collection": "Prisma Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/PrismaCollection/M4A4-TheEmperor.png",
+    "Image": "/assets/img/items/weapons/prismacollection/m4a4-theemperor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 837,
     "collection": "Prisma Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/PrismaCollection/Five-SeveN-AngryMob.png",
+    "Image": "/assets/img/items/weapons/prismacollection/five-seven-angrymob.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 845,
     "collection": "Prisma Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/PrismaCollection/AUG-Momentum.png",
+    "Image": "/assets/img/items/weapons/prismacollection/aug-momentum.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 850,
     "collection": "Prisma Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/PrismaCollection/XM1014-Incinegator.png",
+    "Image": "/assets/img/items/weapons/prismacollection/xm1014-incinegator.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 843,
     "collection": "Prisma Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/PrismaCollection/R8Revolver-SkullCrusher.png",
+    "Image": "/assets/img/items/weapons/prismacollection/r8revolver-skullcrusher.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 838,
     "collection": "Prisma Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/PrismaCollection/AWP-Atheris.png",
+    "Image": "/assets/img/items/weapons/prismacollection/awp-atheris.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 841,
     "collection": "Prisma Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/PrismaCollection/DesertEagle-LightRail.png",
+    "Image": "/assets/img/items/weapons/prismacollection/deserteagle-lightrail.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 851,
     "collection": "Prisma Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/PrismaCollection/UMP-45-Moonrise.png",
+    "Image": "/assets/img/items/weapons/prismacollection/ump-45-moonrise.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 839,
     "collection": "Prisma Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/PrismaCollection/Tec-9-Bamboozle.png",
+    "Image": "/assets/img/items/weapons/prismacollection/tec-9-bamboozle.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 846,
     "collection": "Prisma Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/PrismaCollection/MP5-SD-Gauss.png",
+    "Image": "/assets/img/items/weapons/prismacollection/mp5-sd-gauss.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 836,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/AK-47-Uncharted.png",
+    "Image": "/assets/img/items/weapons/prismacollection/ak-47-uncharted.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 842,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/GalilAR-Akoben.png",
+    "Image": "/assets/img/items/weapons/prismacollection/galilar-akoben.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 840,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/MAC-10-Whitefish.png",
+    "Image": "/assets/img/items/weapons/prismacollection/mac-10-whitefish.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 849,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/P90-OffWorld.png",
+    "Image": "/assets/img/items/weapons/prismacollection/p90-offworld.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 848,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/P250-Verdigris.png",
+    "Image": "/assets/img/items/weapons/prismacollection/p250-verdigris.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 835,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/FAMAS-Crypsis.png",
+    "Image": "/assets/img/items/weapons/prismacollection/famas-crypsis.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 847,
     "collection": "Prisma Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/PrismaCollection/MP7-Mischief.png",
+    "Image": "/assets/img/items/weapons/prismacollection/mp7-mischief.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

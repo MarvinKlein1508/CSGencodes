@@ -8,7 +8,7 @@
     "gen_id": 695,
     "collection": "Clutch Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ClutchCollection/M4A4-Neo-Noir.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/m4a4-neo-noir.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 696,
     "collection": "Clutch Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ClutchCollection/MP7-Bloodsport.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/mp7-bloodsport.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 705,
     "collection": "Clutch Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ClutchCollection/USP-S-Cortex.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/usp-s-cortex.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 691,
     "collection": "Clutch Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ClutchCollection/AWP-Mortis.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/awp-mortis.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 690,
     "collection": "Clutch Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ClutchCollection/AUG-Stymphalian.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/aug-stymphalian.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 694,
     "collection": "Clutch Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ClutchCollection/Glock-18-Moonrise.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/glock-18-moonrise.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 701,
     "collection": "Clutch Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ClutchCollection/MAG-7-SWAG-7.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/mag-7-swag-7.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 704,
     "collection": "Clutch Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ClutchCollection/UMP-45-ArcticWolf.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/ump-45-arcticwolf.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 699,
     "collection": "Clutch Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ClutchCollection/Nova-WildSix.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/nova-wildsix.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 698,
     "collection": "Clutch Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ClutchCollection/Negev-Lionfish.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/negev-lionfish.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 701,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/R8Revolver-Grip.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/r8revolver-grip.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 697,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/MP9-BlackSand.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/mp9-blacksand.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 693,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/Five-SeveN-FlameTest.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/five-seven-flametest.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 700,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/P2000-UrbanHazard.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/p2000-urbanhazard.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 692,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/PP-Bizon-NightRiot.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/pp-bizon-nightriot.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 706,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/XM1014-OxideBlaze.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/xm1014-oxideblaze.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 702,
     "collection": "Clutch Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ClutchCollection/SG553-Aloha.png",
+    "Image": "/assets/img/items/weapons/clutchcollection/sg553-aloha.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

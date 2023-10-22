@@ -8,7 +8,7 @@
     "gen_id": 750,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/SG553-Integrale.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/sg553-integrale.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -22,7 +22,7 @@
     "gen_id": 747,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/DualBerettas-TwinTurbo.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/dualberettas-twinturbo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 795,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/AK-47-SafetyNet.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/ak-47-safetynet.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 752,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/MP7-Fade.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/mp7-fade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 749,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/P250-VinoPrimo.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/p250-vinoprimo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 751,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/SSG08-HandBrake.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/ssg08-handbrake.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 796,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/USP-S-CheckEngine.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/usp-s-checkengine.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 793,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/M4A4-Converter.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/m4a4-converter.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 797,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/Sawed-Off-BrakeLight.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/sawed-off-brakelight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 799,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/Glock-18-HighBeam.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/glock-18-highbeam.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 798,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/R8Revolver-Nitro.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/r8revolver-nitro.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 748,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/MAC-10-CalfSkin.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/mac-10-calfskin.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 3,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/PP-Bizon-CandyApple.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/pp-bizon-candyapple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 753,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/MP5-SD-DirtDrop.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/mp5-sd-dirtdrop.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 755,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/MP9-Slide.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/mp9-slide.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 90,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/UMP-45-Mudder.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/ump-45-mudder.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 794,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/AUG-Sweeper.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/aug-sweeper.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 754,
     "collection": "The 2018 Inferno Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/The2018InfernoCollection/MAG-7-RustCoat.png",
+    "Image": "/assets/img/items/weapons/the2018infernocollection/mag-7-rustcoat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

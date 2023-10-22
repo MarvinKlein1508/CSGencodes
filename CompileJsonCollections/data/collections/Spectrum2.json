@@ -8,7 +8,7 @@
     "gen_id": 675,
     "collection": "Spectrum 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/AK-47-TheEmpress.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/ak-47-theempress.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 678,
     "collection": "Spectrum 2 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/P250-SeeYaLater.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/p250-seeyalater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 681,
     "collection": "Spectrum 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/M4A1-S-LeadedGlass.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/m4a1-s-leadedglass.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 683,
     "collection": "Spectrum 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/R8Revolver-LlamaCannon.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/r8revolver-llamacannon.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 676,
     "collection": "Spectrum 2 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/PP-Bizon-HighRoller.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/pp-bizon-highroller.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 679,
     "collection": "Spectrum 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/MP9-Goo.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/mp9-goo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 688,
     "collection": "Spectrum 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/UMP-45-Exposure.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/ump-45-exposure.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 686,
     "collection": "Spectrum 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/SG553-Phantom.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/sg553-phantom.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 689,
     "collection": "Spectrum 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/XM1014-Ziggy.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/xm1014-ziggy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 687,
     "collection": "Spectrum 2 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/CZ75-Auto-Tacticat.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/cz75-auto-tacticat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 680,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/Glock-18-OffWorld.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/glock-18-offworld.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 674,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/AUG-Triqua.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/aug-triqua.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 684,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/Tec-9-CrackedOpal.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/tec-9-crackedopal.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 673,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/Sawed-Off-Morris.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/sawed-off-morris.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 682,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/MAC-10-Oceanic.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/mac-10-oceanic.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 677,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/G3SG1-Hunter.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/g3sg1-hunter.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 685,
     "collection": "Spectrum 2 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/Spectrum2Collection/SCAR-20-JungleSlipstream.png",
+    "Image": "/assets/img/items/weapons/spectrum2collection/scar-20-jungleslipstream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

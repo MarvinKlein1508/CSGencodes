@@ -8,7 +8,7 @@
     "gen_id": 504,
     "collection": "Shadow Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ShadowCollection/USP-S-KillConfirmed.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/usp-s-killconfirmed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 497,
     "collection": "Shadow Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ShadowCollection/M4A1-S-GoldenCoil.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/m4a1-s-goldencoil.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 490,
     "collection": "Shadow Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ShadowCollection/AK-47-FrontsideMisty.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/ak-47-frontsidemisty.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 493,
     "collection": "Shadow Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ShadowCollection/G3SG1-Flux.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/g3sg1-flux.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 503,
     "collection": "Shadow Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ShadowCollection/SSG08-BigIron.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/ssg08-bigiron.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 494,
     "collection": "Shadow Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShadowCollection/GalilAR-StoneCold.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/galilar-stonecold.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 501,
     "collection": "Shadow Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShadowCollection/P250-Wingshot.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/p250-wingshot.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 496,
     "collection": "Shadow Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShadowCollection/M249-NebulaCrusader.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/m249-nebulacrusader.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 500,
     "collection": "Shadow Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShadowCollection/MP7-SpecialDelivery.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/mp7-specialdelivery.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 491,
     "collection": "Shadow Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShadowCollection/DualBerettas-DualingDragons.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/dualberettas-dualingdragons.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 495,
     "collection": "Shadow Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ShadowCollection/Glock-18-Wraiths.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/glock-18-wraiths.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -162,7 +162,7 @@
     "gen_id": 492,
     "collection": "Shadow Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShadowCollection/FAMAS-SurvivorZ.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/famas-survivorz.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 505,
     "collection": "Shadow Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShadowCollection/XM1014-Scumbria.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/xm1014-scumbria.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 498,
     "collection": "Shadow Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShadowCollection/MAC-10-Rangeen.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/mac-10-rangeen.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 499,
     "collection": "Shadow Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShadowCollection/MAG-7-CobaltCore.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/mag-7-cobaltcore.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 502,
     "collection": "Shadow Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ShadowCollection/SCAR-20-GreenMarine.png",
+    "Image": "/assets/img/items/weapons/shadowcollection/scar-20-greenmarine.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

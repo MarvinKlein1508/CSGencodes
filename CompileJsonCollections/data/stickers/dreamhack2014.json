@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41039,
     "BuffStickerId": 1936,
-    "Image": "/assets/img/items/stickers/DreamHack2014/VirtusPro.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/virtuspro.png"
   },
   {
     "name": "Virtus.Pro (Holo) | DreamHack 2014",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41029,
     "BuffStickerId": 1926,
-    "Image": "/assets/img/items/stickers/DreamHack2014/VirtusPro-Holo.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/virtuspro-holo.png"
   },
   {
     "name": "Virtus.Pro (Foil) | DreamHack 2014",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41022,
     "BuffStickerId": 1919,
-    "Image": "/assets/img/items/stickers/DreamHack2014/VirtusPro-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/virtuspro-foil.png"
   },
   {
     "name": "Virtus.Pro (Gold) | DreamHack 2014",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40935,
     "BuffStickerId": 1833,
-    "Image": "/assets/img/items/stickers/DreamHack2014/TeamLDLCcom.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/teamldlccom.png"
   },
   {
     "name": "Team LDLC.com (Gold) | DreamHack 2014",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40908,
     "BuffStickerId": 1806,
-    "Image": "/assets/img/items/stickers/DreamHack2014/TeamDignitas.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/teamdignitas.png"
   },
   {
     "name": "Team Dignitas (Holo) | DreamHack 2014",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40903,
     "BuffStickerId": 1799,
-    "Image": "/assets/img/items/stickers/DreamHack2014/TeamDignitas-Holo.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/teamdignitas-holo.png"
   },
   {
     "name": "Team Dignitas (Foil) | DreamHack 2014",
@@ -78,7 +78,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40900,
     "BuffStickerId": 8220,
-    "Image": "/assets/img/items/stickers/DreamHack2014/TeamDignitas-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/teamdignitas-foil.png"
   },
   {
     "name": "Planetkey Dynamics | DreamHack 2014",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40674,
     "BuffStickerId": 1575,
-    "Image": "/assets/img/items/stickers/DreamHack2014/PlanetkeyDynamics.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/planetkeydynamics.png"
   },
   {
     "name": "Planetkey Dynamics (Gold) | DreamHack 2014",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40653,
     "BuffStickerId": 1554,
-    "Image": "/assets/img/items/stickers/DreamHack2014/PENTASports.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/pentasports.png"
   },
   {
     "name": "PENTA Sports (Gold) | DreamHack 2014",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40629,
     "BuffStickerId": 1530,
-    "Image": "/assets/img/items/stickers/DreamHack2014/NinjasinPyjamas.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/ninjasinpyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | DreamHack 2014",
@@ -132,7 +132,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40621,
     "BuffStickerId": 1522,
-    "Image": "/assets/img/items/stickers/DreamHack2014/NinjasinPyjamas-Holo.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/ninjasinpyjamas-holo.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | DreamHack 2014",
@@ -141,7 +141,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40616,
     "BuffStickerId": 1517,
-    "Image": "/assets/img/items/stickers/DreamHack2014/NinjasinPyjamas-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/ninjasinpyjamas-foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | DreamHack 2014",
@@ -159,7 +159,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40585,
     "BuffStickerId": 1486,
-    "Image": "/assets/img/items/stickers/DreamHack2014/NatusVincere.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/natusvincere.png"
   },
   {
     "name": "Natus Vincere (Holo) | DreamHack 2014",
@@ -168,7 +168,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40574,
     "BuffStickerId": 1469,
-    "Image": "/assets/img/items/stickers/DreamHack2014/NatusVincere-Holo.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/natusvincere-holo.png"
   },
   {
     "name": "Natus Vincere (Foil) | DreamHack 2014",
@@ -177,7 +177,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40567,
     "BuffStickerId": 8217,
-    "Image": "/assets/img/items/stickers/DreamHack2014/NatusVincere-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/natusvincere-foil.png"
   },
   {
     "name": "Natus Vincere (Gold) | DreamHack 2014",
@@ -195,7 +195,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41688,
     "BuffStickerId": 2585,
-    "Image": "/assets/img/items/stickers/DreamHack2014/myXMG.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/myxmg.png"
   },
   {
     "name": "myXMG (Gold) | DreamHack 2014",
@@ -213,7 +213,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41503,
     "BuffStickerId": 2400,
-    "Image": "/assets/img/items/stickers/DreamHack2014/iBUYPOWER.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/ibuypower.png"
   },
   {
     "name": "iBUYPOWER (Gold) | DreamHack 2014",
@@ -231,7 +231,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40311,
     "BuffStickerId": 1220,
-    "Image": "/assets/img/items/stickers/DreamHack2014/HellRaisers.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/hellraisers.png"
   },
   {
     "name": "HellRaisers (Gold) | DreamHack 2014",
@@ -249,7 +249,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40185,
     "BuffStickerId": 1096,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Fnatic.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/fnatic.png"
   },
   {
     "name": "Fnatic (Holo) | DreamHack 2014",
@@ -258,7 +258,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40174,
     "BuffStickerId": 1085,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Fnatic-Holo.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/fnatic-holo.png"
   },
   {
     "name": "Fnatic (Foil) | DreamHack 2014",
@@ -267,7 +267,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40166,
     "BuffStickerId": 1077,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Fnatic-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/fnatic-foil.png"
   },
   {
     "name": "Fnatic (Gold) | DreamHack 2014",
@@ -285,7 +285,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40157,
     "BuffStickerId": 1068,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Flipsid3.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/flipsid3.png"
   },
   {
     "name": "Flipsid3 (Gold) | DreamHack 2014",
@@ -303,7 +303,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40045,
     "BuffStickerId": 956,
-    "Image": "/assets/img/items/stickers/DreamHack2014/ESCGaming.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/escgaming.png"
   },
   {
     "name": "ESC Gaming (Gold) | DreamHack 2014",
@@ -321,7 +321,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39973,
     "BuffStickerId": 889,
-    "Image": "/assets/img/items/stickers/DreamHack2014/CopenhagenWolves.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/copenhagenwolves.png"
   },
   {
     "name": "Copenhagen Wolves (Gold) | DreamHack 2014",
@@ -339,7 +339,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39969,
     "BuffStickerId": 885,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Cloud9.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/cloud9.png"
   },
   {
     "name": "Cloud9 (Holo) | DreamHack 2014",
@@ -348,7 +348,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39958,
     "BuffStickerId": 874,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Cloud9-Holo.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/cloud9-holo.png"
   },
   {
     "name": "Cloud9 (Foil) | DreamHack 2014",
@@ -357,7 +357,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39953,
     "BuffStickerId": 869,
-    "Image": "/assets/img/items/stickers/DreamHack2014/Cloud9-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/cloud9-foil.png"
   },
   {
     "name": "Cloud9 (Gold) | DreamHack 2014",
@@ -375,7 +375,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39934,
     "BuffStickerId": 850,
-    "Image": "/assets/img/items/stickers/DreamHack2014/BravadoGaming.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/bravadogaming.png"
   },
   {
     "name": "Bravado Gaming (Gold) | DreamHack 2014",
@@ -393,7 +393,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40035,
     "BuffStickerId": 946,
-    "Image": "/assets/img/items/stickers/DreamHack2014/DreamHackWinter2014.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/dreamhackwinter2014.png"
   },
   {
     "name": "DreamHack Winter 2014 (Foil) | DreamHack 2014",
@@ -402,6 +402,6 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": 947,
-    "Image": "/assets/img/items/stickers/DreamHack2014/DreamHackWinter2014-Foil.png"
+    "Image": "/assets/img/items/stickers/dreamhack2014/dreamhackwinter2014-foil.png"
   }
 ]

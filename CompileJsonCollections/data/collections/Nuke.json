@@ -8,7 +8,7 @@
     "gen_id": 179,
     "collection": "The Nuke Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/Tec-9-NuclearThreat.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/tec-9-nuclearthreat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 179,
     "collection": "The Nuke Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/P250-NuclearThreat.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/p250-nuclearthreat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -36,7 +36,7 @@
     "gen_id": 167,
     "collection": "The Nuke Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/M4A4-RadiationHazard.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/m4a4-radiationhazard.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -50,7 +50,7 @@
     "gen_id": 169,
     "collection": "The Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/XM1014-FalloutWarning.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/xm1014-falloutwarning.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -64,7 +64,7 @@
     "gen_id": 169,
     "collection": "The Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/P90-FalloutWarning.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/p90-falloutwarning.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -78,7 +78,7 @@
     "gen_id": 169,
     "collection": "The Nuke Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/UMP-45-FalloutWarning.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/ump-45-falloutwarning.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -92,7 +92,7 @@
     "gen_id": 171,
     "collection": "The Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/MAG-7-IrradiatedAlert.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/mag-7-irradiatedalert.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -106,7 +106,7 @@
     "gen_id": 171,
     "collection": "The Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/PP-Bizon-IrradiatedAlert.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/pp-bizon-irradiatedalert.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -120,7 +120,7 @@
     "gen_id": 171,
     "collection": "The Nuke Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheNukeCollection/Sawed-Off-IrradiatedAlert.png",
+    "Image": "/assets/img/items/weapons/thenukecollection/sawed-off-irradiatedalert.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

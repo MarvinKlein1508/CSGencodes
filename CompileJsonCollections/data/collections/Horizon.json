@@ -8,7 +8,7 @@
     "gen_id": 707,
     "collection": "Horizon Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/HorizonCollection/AK-47-NeonRider.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/ak-47-neonrider.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 711,
     "collection": "Horizon Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/HorizonCollection/DesertEagle-CodeRed.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/deserteagle-codered.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 714,
     "collection": "Horizon Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/HorizonCollection/M4A1-S-Nightmare.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/m4a1-s-nightmare.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 720,
     "collection": "Horizon Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/HorizonCollection/Sawed-Off-Devourer.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/sawed-off-devourer.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 723,
     "collection": "Horizon Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/HorizonCollection/FAMAS-EyeofAthena.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/famas-eyeofathena.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 718,
     "collection": "Horizon Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/HorizonCollection/AWP-PAW.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/awp-paw.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 716,
     "collection": "Horizon Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/HorizonCollection/Nova-ToySoldier.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/nova-toysoldier.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 709,
     "collection": "Horizon Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/HorizonCollection/CZ75-Auto-Eco.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/cz75-auto-eco.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 712,
     "collection": "Horizon Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/HorizonCollection/G3SG1-HighSeas.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/g3sg1-highseas.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 719,
     "collection": "Horizon Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/HorizonCollection/MP7-Powercore.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/mp7-powercore.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 713,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/Glock-18-Warhawk.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/glock-18-warhawk.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 717,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/P90-Traction.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/p90-traction.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 715,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/MP9-Capillary.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/mp9-capillary.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 722,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/Tec-9-Snek-9.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/tec-9-snek-9.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 710,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/DualBerettas-Shred.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/dualberettas-shred.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 708,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/AUG-AmberSlipstream.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/aug-amberslipstream.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 721,
     "collection": "Horizon Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/HorizonCollection/R8Revolver-Survivalist.png",
+    "Image": "/assets/img/items/weapons/horizoncollection/r8revolver-survivalist.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3

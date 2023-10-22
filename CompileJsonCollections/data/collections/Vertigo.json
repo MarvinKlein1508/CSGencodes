@@ -8,7 +8,7 @@
     "gen_id": 153,
     "collection": "The Vertigo Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheVertigoCollection/DualBerettas-Demolition.png",
+    "Image": "/assets/img/items/weapons/thevertigocollection/dualberettas-demolition.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -22,7 +22,7 @@
     "gen_id": 172,
     "collection": "The Vertigo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheVertigoCollection/AK-47-BlackLaminate.png",
+    "Image": "/assets/img/items/weapons/thevertigocollection/ak-47-blacklaminate.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 111,
     "collection": "The Vertigo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheVertigoCollection/P90-GlacierMesh.png",
+    "Image": "/assets/img/items/weapons/thevertigocollection/p90-glaciermesh.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -50,7 +50,7 @@
     "gen_id": 70,
     "collection": "The Vertigo Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheVertigoCollection/PP-Bizon-CarbonFiber.png",
+    "Image": "/assets/img/items/weapons/thevertigocollection/pp-bizon-carbonfiber.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -64,7 +64,7 @@
     "gen_id": 135,
     "collection": "The Vertigo Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheVertigoCollection/XM1014-UrbanPerforated.png",
+    "Image": "/assets/img/items/weapons/thevertigocollection/xm1014-urbanperforated.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -78,7 +78,7 @@
     "gen_id": 17,
     "collection": "The Vertigo Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheVertigoCollection/MAC-10-UrbanDDPAT.png",
+    "Image": "/assets/img/items/weapons/thevertigocollection/mac-10-urbanddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

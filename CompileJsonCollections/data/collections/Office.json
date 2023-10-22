@@ -8,7 +8,7 @@
     "gen_id": 102,
     "collection": "The Office Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheOfficeCollection/MP7-Whiteout.png",
+    "Image": "/assets/img/items/weapons/theofficecollection/mp7-whiteout.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -22,7 +22,7 @@
     "gen_id": 32,
     "collection": "The Office Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheOfficeCollection/P2000-Silver.png",
+    "Image": "/assets/img/items/weapons/theofficecollection/p2000-silver.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -36,7 +36,7 @@
     "gen_id": 75,
     "collection": "The Office Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheOfficeCollection/M249-BlizzardMarbleized.png",
+    "Image": "/assets/img/items/weapons/theofficecollection/m249-blizzardmarbleized.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -50,7 +50,7 @@
     "gen_id": 76,
     "collection": "The Office Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheOfficeCollection/GalilAR-WinterForest.png",
+    "Image": "/assets/img/items/weapons/theofficecollection/galilar-winterforest.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -64,7 +64,7 @@
     "gen_id": 6,
     "collection": "The Office Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheOfficeCollection/G3SG1-ArcticCamo.png",
+    "Image": "/assets/img/items/weapons/theofficecollection/g3sg1-arcticcamo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 2
@@ -78,7 +78,7 @@
     "gen_id": 22,
     "collection": "The Office Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheOfficeCollection/FAMAS-ContrastSpray.png",
+    "Image": "/assets/img/items/weapons/theofficecollection/famas-contrastspray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

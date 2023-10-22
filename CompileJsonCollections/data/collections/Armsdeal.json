@@ -8,7 +8,7 @@
     "gen_id": 51,
     "collection": "Arms Deal Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/AWP-LightningStrike.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/awp-lightningstrike.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 44,
     "collection": "Arms Deal Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/AK-47-CaseHardened.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/ak-47-casehardened.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 61,
     "collection": "Arms Deal Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/DesertEagle-Hypnotic.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/deserteagle-hypnotic.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 48,
     "collection": "Arms Deal Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/Glock-18-DragonTattoo.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/glock-18-dragontattoo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 60,
     "collection": "Arms Deal Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/M4A1-S-DarkWater.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/m4a1-s-darkwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 60,
     "collection": "Arms Deal Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/USP-S-DarkWater.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/usp-s-darkwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 98,
     "collection": "Arms Deal Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/SG553-Ultraviolet.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/sg553-ultraviolet.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 73,
     "collection": "Arms Deal Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/AUG-Wings.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/aug-wings.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 11,
     "collection": "Arms Deal Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/ArmsDealCollection/MP7-Skulls.png",
+    "Image": "/assets/img/items/weapons/armsdealcollection/mp7-skulls.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

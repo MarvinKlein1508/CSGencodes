@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40777,
     "BuffStickerId": 1677,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/SilentNinja-Foil.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/silentninja-foil.png"
   },
   {
     "name": "Bombsquad (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39921,
     "BuffStickerId": 838,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Bombsquad-Foil.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/bombsquad-foil.png"
   },
   {
     "name": "Unicorn (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41006,
     "BuffStickerId": 1903,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Unicorn-Holo.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/unicorn-holo.png"
   },
   {
     "name": "Unicorn",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41005,
     "BuffStickerId": 1902,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Unicorn.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/unicorn.png"
   },
   {
     "name": "Skulltorgeist",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40792,
     "BuffStickerId": 1692,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Skulltorgeist.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/skulltorgeist.png"
   },
   {
     "name": "Chabo",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39943,
     "BuffStickerId": 859,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Chabo.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/chabo.png"
   },
   {
     "name": "Skull Lil Boney",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40790,
     "BuffStickerId": 1690,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/SkullLilBoney.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/skulllilboney.png"
   },
   {
     "name": "The Guru",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40966,
     "BuffStickerId": 1864,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/TheGuru.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/theguru.png"
   },
   {
     "name": "The Spartan",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40973,
     "BuffStickerId": 1870,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/TheSpartan.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/thespartan.png"
   },
   {
     "name": "Salute!",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40745,
     "BuffStickerId": 1646,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Salute.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/salute.png"
   },
   {
     "name": "The Samurai",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40972,
     "BuffStickerId": 1869,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/TheSamurai.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/thesamurai.png"
   },
   {
     "name": "The Zombie",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40974,
     "BuffStickerId": 1871,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/TheZombie.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/thezombie.png"
   },
   {
     "name": "Silent Ninja",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40776,
     "BuffStickerId": 1676,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/SilentNinja.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/silentninja.png"
   },
   {
     "name": "Skull Troop",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40791,
     "BuffStickerId": 1691,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/SkullTroop.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/skulltroop.png"
   },
   {
     "name": "Bombsquad",
@@ -132,6 +132,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39920,
     "BuffStickerId": 839,
-    "Image": "/assets/img/items/stickers/EnfuStickerCapsule/Bombsquad.png"
+    "Image": "/assets/img/items/stickers/enfustickercapsule/bombsquad.png"
   }
 ]

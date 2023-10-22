@@ -8,7 +8,7 @@
     "gen_id": 180,
     "collection": "Bravo Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/BravoCollection/AK-47-FireSerpent.png",
+    "Image": "/assets/img/items/weapons/bravocollection/ak-47-fireserpent.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 185,
     "collection": "Bravo Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/BravoCollection/DesertEagle-GoldenKoi.png",
+    "Image": "/assets/img/items/weapons/bravocollection/deserteagle-goldenkoi.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 182,
     "collection": "Bravo Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/BravoCollection/P90-EmeraldDragon.png",
+    "Image": "/assets/img/items/weapons/bravocollection/p90-emeralddragon.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 211,
     "collection": "Bravo Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/BravoCollection/P2000-OceanFoam.png",
+    "Image": "/assets/img/items/weapons/bravocollection/p2000-oceanfoam.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 212,
     "collection": "Bravo Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/BravoCollection/AWP-Graphite.png",
+    "Image": "/assets/img/items/weapons/bravocollection/awp-graphite.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 183,
     "collection": "Bravo Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BravoCollection/USP-S-Overgrowth.png",
+    "Image": "/assets/img/items/weapons/bravocollection/usp-s-overgrowth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 187,
     "collection": "Bravo Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BravoCollection/M4A4-Zirka.png",
+    "Image": "/assets/img/items/weapons/bravocollection/m4a4-zirka.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 188,
     "collection": "Bravo Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BravoCollection/MAC-10-Graven.png",
+    "Image": "/assets/img/items/weapons/bravocollection/mac-10-graven.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 189,
     "collection": "Bravo Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BravoCollection/M4A1-S-BrightWater.png",
+    "Image": "/assets/img/items/weapons/bravocollection/m4a1-s-brightwater.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 192,
     "collection": "Bravo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BravoCollection/GalilAR-Shattered.png",
+    "Image": "/assets/img/items/weapons/bravocollection/galilar-shattered.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 193,
     "collection": "Bravo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BravoCollection/UMP-45-BonePile.png",
+    "Image": "/assets/img/items/weapons/bravocollection/ump-45-bonepile.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 186,
     "collection": "Bravo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BravoCollection/SG553-WaveSpray.png",
+    "Image": "/assets/img/items/weapons/bravocollection/sg553-wavespray.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 191,
     "collection": "Bravo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BravoCollection/Nova-Tempest.png",
+    "Image": "/assets/img/items/weapons/bravocollection/nova-tempest.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 190,
     "collection": "Bravo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BravoCollection/DualBerettas-BlackLimba.png",
+    "Image": "/assets/img/items/weapons/bravocollection/dualberettas-blacklimba.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 195,
     "collection": "Bravo Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BravoCollection/G3SG1-Demeter.png",
+    "Image": "/assets/img/items/weapons/bravocollection/g3sg1-demeter.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 3

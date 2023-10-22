@@ -8,7 +8,7 @@
     "gen_id": 1026,
     "collection": "The Control Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheControlCollection/AWP-Fade.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/awp-fade.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 1017,
     "collection": "The Control Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheControlCollection/M4A1-S-BluePhosphor.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/m4a1-s-bluephosphor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 1027,
     "collection": "The Control Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheControlCollection/USP-S-TargetAcquired.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/usp-s-targetacquired.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 1003,
     "collection": "The Control Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheControlCollection/UMP-45-CrimeScene.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/ump-45-crimescene.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 1002,
     "collection": "The Control Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheControlCollection/Five-SeveN-BerriesAndCherries.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/five-seven-berriesandcherries.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 999,
     "collection": "The Control Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheControlCollection/FAMAS-PrimeConspiracy.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/famas-primeconspiracy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 996,
     "collection": "The Control Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheControlCollection/SSG08-ThreatDetected.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/ssg08-threatdetected.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 997,
     "collection": "The Control Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheControlCollection/P2000-Dispatch.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/p2000-dispatch.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 993,
     "collection": "The Control Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheControlCollection/M4A4-GlobalOffensive.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/m4a4-globaloffensive.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -134,7 +134,7 @@
     "gen_id": 1028,
     "collection": "The Control Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheControlCollection/SCAR-20-MagnaCarta.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/scar-20-magnacarta.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 798,
     "collection": "The Control Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheControlCollection/MP5-SD-Nitro.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/mp5-sd-nitro.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -162,7 +162,7 @@
     "gen_id": 70,
     "collection": "The Control Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheControlCollection/MAG-7-CarbonFiber.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/mag-7-carbonfiber.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -176,7 +176,7 @@
     "gen_id": 998,
     "collection": "The Control Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheControlCollection/DualBerettas-SwitchBoard.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/dualberettas-switchboard.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -190,7 +190,7 @@
     "gen_id": 992,
     "collection": "The Control Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheControlCollection/DesertEagle-TheBronze.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/deserteagle-thebronze.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -204,7 +204,7 @@
     "gen_id": 78,
     "collection": "The Control Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheControlCollection/P250-ForestNight.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/p250-forestnight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -218,7 +218,7 @@
     "gen_id": 147,
     "collection": "The Control Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheControlCollection/CZ75-Auto-JungleDashed.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/cz75-auto-jungledashed.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -232,7 +232,7 @@
     "gen_id": 298,
     "collection": "The Control Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheControlCollection/MP9-ArmySheen.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/mp9-armysheen.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -246,7 +246,7 @@
     "gen_id": 995,
     "collection": "The Control Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheControlCollection/AUG-Surveillance.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/aug-surveillance.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -260,7 +260,7 @@
     "gen_id": 994,
     "collection": "The Control Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheControlCollection/XM1014-Charter.png",
+    "Image": "/assets/img/items/weapons/thecontrolcollection/xm1014-charter.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

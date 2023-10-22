@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39831,
     "BuffStickerId": 750,
-    "Image": "/assets/img/items/stickers/Katowice2015/3DMAX.png"
+    "Image": "/assets/img/items/stickers/katowice2015/3dmax.png"
   },
   {
     "name": "3DMAX (Holo) | Katowice 2015",
@@ -15,7 +15,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39829,
     "BuffStickerId": 748,
-    "Image": "/assets/img/items/stickers/Katowice2015/3DMAX-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/3dmax-holo.png"
   },
   {
     "name": "3DMAX (Foil) | Katowice 2015",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 43936,
     "BuffStickerId": 2854,
-    "Image": "/assets/img/items/stickers/Katowice2015/3DMAX-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/3dmax-foil.png"
   },
   {
     "name": "3DMAX (Gold) | Katowice 2015",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39965,
     "BuffStickerId": 881,
-    "Image": "/assets/img/items/stickers/Katowice2015/Cloud9G2A.png"
+    "Image": "/assets/img/items/stickers/katowice2015/cloud9g2a.png"
   },
   {
     "name": "Cloud9 G2A (Holo) | Katowice 2015",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39963,
     "BuffStickerId": 879,
-    "Image": "/assets/img/items/stickers/Katowice2015/Cloud9G2A-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/cloud9g2a-holo.png"
   },
   {
     "name": "Cloud9 G2A (Foil) | Katowice 2015",
@@ -60,7 +60,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39962,
     "BuffStickerId": 878,
-    "Image": "/assets/img/items/stickers/Katowice2015/Cloud9G2A-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/cloud9g2a-foil.png"
   },
   {
     "name": "Cloud9 G2A (Gold) | Katowice 2015",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39989,
     "BuffStickerId": 904,
-    "Image": "/assets/img/items/stickers/Katowice2015/CounterLogicGaming.png"
+    "Image": "/assets/img/items/stickers/katowice2015/counterlogicgaming.png"
   },
   {
     "name": "Counter Logic Gaming (Holo) | Katowice 2015",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 39984,
     "BuffStickerId": 899,
-    "Image": "/assets/img/items/stickers/Katowice2015/CounterLogicGaming-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/counterlogicgaming-holo.png"
   },
   {
     "name": "Counter Logic Gaming (Foil) | Katowice 2015",
@@ -96,7 +96,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 39981,
     "BuffStickerId": 896,
-    "Image": "/assets/img/items/stickers/Katowice2015/CounterLogicGaming-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/counterlogicgaming-foil.png"
   },
   {
     "name": "Counter Logic Gaming (Gold) | Katowice 2015",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40158,
     "BuffStickerId": 1069,
-    "Image": "/assets/img/items/stickers/Katowice2015/Flipsid3Tactics.png"
+    "Image": "/assets/img/items/stickers/katowice2015/flipsid3tactics.png"
   },
   {
     "name": "Flipsid3 Tactics (Holo) | Katowice 2015",
@@ -123,7 +123,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40149,
     "BuffStickerId": 1060,
-    "Image": "/assets/img/items/stickers/Katowice2015/Flipsid3Tactics-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/flipsid3tactics-holo.png"
   },
   {
     "name": "Flipsid3 Tactics (Foil) | Katowice 2015",
@@ -132,7 +132,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40144,
     "BuffStickerId": 1055,
-    "Image": "/assets/img/items/stickers/Katowice2015/Flipsid3Tactics-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/flipsid3tactics-foil.png"
   },
   {
     "name": "Flipsid3 Tactics (Gold) | Katowice 2015",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40187,
     "BuffStickerId": 1098,
-    "Image": "/assets/img/items/stickers/Katowice2015/Fnatic.png"
+    "Image": "/assets/img/items/stickers/katowice2015/fnatic.png"
   },
   {
     "name": "Fnatic (Holo) | Katowice 2015",
@@ -159,7 +159,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40176,
     "BuffStickerId": 1087,
-    "Image": "/assets/img/items/stickers/Katowice2015/Fnatic-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/fnatic-holo.png"
   },
   {
     "name": "Fnatic (Foil) | Katowice 2015",
@@ -168,7 +168,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40167,
     "BuffStickerId": 1078,
-    "Image": "/assets/img/items/stickers/Katowice2015/Fnatic-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/fnatic-foil.png"
   },
   {
     "name": "Fnatic (Gold) | Katowice 2015",
@@ -186,7 +186,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40313,
     "BuffStickerId": 1222,
-    "Image": "/assets/img/items/stickers/Katowice2015/HellRaisers.png"
+    "Image": "/assets/img/items/stickers/katowice2015/hellraisers.png"
   },
   {
     "name": "HellRaisers (Holo) | Katowice 2015",
@@ -195,7 +195,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40308,
     "BuffStickerId": 1217,
-    "Image": "/assets/img/items/stickers/Katowice2015/HellRaisers-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/hellraisers-holo.png"
   },
   {
     "name": "HellRaisers (Foil) | Katowice 2015",
@@ -204,7 +204,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40304,
     "BuffStickerId": 1213,
-    "Image": "/assets/img/items/stickers/Katowice2015/HellRaisers-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/hellraisers-foil.png"
   },
   {
     "name": "HellRaisers (Gold) | Katowice 2015",
@@ -222,7 +222,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40400,
     "BuffStickerId": 1307,
-    "Image": "/assets/img/items/stickers/Katowice2015/KeydStars.png"
+    "Image": "/assets/img/items/stickers/katowice2015/keydstars.png"
   },
   {
     "name": "Keyd Stars (Holo) | Katowice 2015",
@@ -231,7 +231,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40399,
     "BuffStickerId": 1306,
-    "Image": "/assets/img/items/stickers/Katowice2015/KeydStars-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/keydstars-holo.png"
   },
   {
     "name": "Keyd Stars (Foil) | Katowice 2015",
@@ -240,7 +240,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40398,
     "BuffStickerId": 1305,
-    "Image": "/assets/img/items/stickers/Katowice2015/KeydStars-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/keydstars-foil.png"
   },
   {
     "name": "Keyd Stars (Gold) | Katowice 2015",
@@ -258,7 +258,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40432,
     "BuffStickerId": 1338,
-    "Image": "/assets/img/items/stickers/Katowice2015/LGBeSports.png"
+    "Image": "/assets/img/items/stickers/katowice2015/lgbesports.png"
   },
   {
     "name": "LGB eSports (Holo) | Katowice 2015",
@@ -267,7 +267,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40430,
     "BuffStickerId": 1336,
-    "Image": "/assets/img/items/stickers/Katowice2015/LGBeSports-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/lgbesports-holo.png"
   },
   {
     "name": "LGB eSports (Foil) | Katowice 2015",
@@ -276,7 +276,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40428,
     "BuffStickerId": 1334,
-    "Image": "/assets/img/items/stickers/Katowice2015/LGBeSports-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/lgbesports-foil.png"
   },
   {
     "name": "LGB eSports (Gold) | Katowice 2015",
@@ -294,7 +294,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40587,
     "BuffStickerId": 1488,
-    "Image": "/assets/img/items/stickers/Katowice2015/NatusVincere.png"
+    "Image": "/assets/img/items/stickers/katowice2015/natusvincere.png"
   },
   {
     "name": "Natus Vincere (Holo) | Katowice 2015",
@@ -303,7 +303,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40576,
     "BuffStickerId": 1477,
-    "Image": "/assets/img/items/stickers/Katowice2015/NatusVincere-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/natusvincere-holo.png"
   },
   {
     "name": "Natus Vincere (Foil) | Katowice 2015",
@@ -312,7 +312,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40568,
     "BuffStickerId": 1470,
-    "Image": "/assets/img/items/stickers/Katowice2015/NatusVincere-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/natusvincere-foil.png"
   },
   {
     "name": "Natus Vincere (Gold) | Katowice 2015",
@@ -330,7 +330,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40612,
     "BuffStickerId": 1513,
-    "Image": "/assets/img/items/stickers/Katowice2015/NinjasinPyjamas.png"
+    "Image": "/assets/img/items/stickers/katowice2015/ninjasinpyjamas.png"
   },
   {
     "name": "Ninjas in Pyjamas (Holo) | Katowice 2015",
@@ -339,7 +339,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40623,
     "BuffStickerId": 1524,
-    "Image": "/assets/img/items/stickers/Katowice2015/NinjasinPyjamas-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/ninjasinpyjamas-holo.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Katowice 2015",
@@ -348,7 +348,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40617,
     "BuffStickerId": 1518,
-    "Image": "/assets/img/items/stickers/Katowice2015/NinjasinPyjamas-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/ninjasinpyjamas-foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Gold) | Katowice 2015",
@@ -366,7 +366,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40648,
     "BuffStickerId": 1549,
-    "Image": "/assets/img/items/stickers/Katowice2015/PENTASports.png"
+    "Image": "/assets/img/items/stickers/katowice2015/pentasports.png"
   },
   {
     "name": "PENTA Sports (Holo) | Katowice 2015",
@@ -375,7 +375,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40651,
     "BuffStickerId": 1552,
-    "Image": "/assets/img/items/stickers/Katowice2015/PENTASports-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/pentasports-holo.png"
   },
   {
     "name": "PENTA Sports (Foil) | Katowice 2015",
@@ -384,7 +384,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40649,
     "BuffStickerId": 1550,
-    "Image": "/assets/img/items/stickers/Katowice2015/PENTASports-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/pentasports-foil.png"
   },
   {
     "name": "PENTA Sports (Gold) | Katowice 2015",
@@ -402,7 +402,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40926,
     "BuffStickerId": 1824,
-    "Image": "/assets/img/items/stickers/Katowice2015/TeamEnVyUs.png"
+    "Image": "/assets/img/items/stickers/katowice2015/teamenvyus.png"
   },
   {
     "name": "Team EnVyUs (Holo) | Katowice 2015",
@@ -411,7 +411,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40919,
     "BuffStickerId": 1817,
-    "Image": "/assets/img/items/stickers/Katowice2015/TeamEnVyUs-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/teamenvyus-holo.png"
   },
   {
     "name": "Team EnVyUs (Foil) | Katowice 2015",
@@ -420,7 +420,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40914,
     "BuffStickerId": 1812,
-    "Image": "/assets/img/items/stickers/Katowice2015/TeamEnVyUs-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/teamenvyus-foil.png"
   },
   {
     "name": "Team EnVyUs (Gold) | Katowice 2015",
@@ -438,7 +438,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40987,
     "BuffStickerId": 1884,
-    "Image": "/assets/img/items/stickers/Katowice2015/Titan.png"
+    "Image": "/assets/img/items/stickers/katowice2015/titan.png"
   },
   {
     "name": "Titan (Holo) | Katowice 2015",
@@ -447,7 +447,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40982,
     "BuffStickerId": 1879,
-    "Image": "/assets/img/items/stickers/Katowice2015/Titan-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/titan-holo.png"
   },
   {
     "name": "Titan (Foil) | Katowice 2015",
@@ -456,7 +456,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40979,
     "BuffStickerId": 1876,
-    "Image": "/assets/img/items/stickers/Katowice2015/Titan-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/titan-foil.png"
   },
   {
     "name": "Titan (Gold) | Katowice 2015",
@@ -474,7 +474,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40878,
     "BuffStickerId": 1778,
-    "Image": "/assets/img/items/stickers/Katowice2015/TSMKinguin.png"
+    "Image": "/assets/img/items/stickers/katowice2015/tsmkinguin.png"
   },
   {
     "name": "TSM Kinguin (Holo) | Katowice 2015",
@@ -483,7 +483,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40877,
     "BuffStickerId": 1777,
-    "Image": "/assets/img/items/stickers/Katowice2015/TSMKinguin-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/tsmkinguin-holo.png"
   },
   {
     "name": "TSM Kinguin (Foil) | Katowice 2015",
@@ -492,7 +492,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40876,
     "BuffStickerId": 1776,
-    "Image": "/assets/img/items/stickers/Katowice2015/TSMKinguin-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/tsmkinguin-foil.png"
   },
   {
     "name": "TSM Kinguin (Gold) | Katowice 2015",
@@ -510,7 +510,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41045,
     "BuffStickerId": 1942,
-    "Image": "/assets/img/items/stickers/Katowice2015/VirtusPro.png"
+    "Image": "/assets/img/items/stickers/katowice2015/virtuspro.png"
   },
   {
     "name": "Virtus.Pro (Holo) | Katowice 2015",
@@ -519,7 +519,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41044,
     "BuffStickerId": 1941,
-    "Image": "/assets/img/items/stickers/Katowice2015/VirtusPro-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/virtuspro-holo.png"
   },
   {
     "name": "Virtus.Pro (Foil) | Katowice 2015",
@@ -528,7 +528,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41043,
     "BuffStickerId": 1940,
-    "Image": "/assets/img/items/stickers/Katowice2015/VirtusPro-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/virtuspro-foil.png"
   },
   {
     "name": "Virtus.Pro (Gold) | Katowice 2015",
@@ -546,7 +546,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41046,
     "BuffStickerId": 1943,
-    "Image": "/assets/img/items/stickers/Katowice2015/VoxEminor.png"
+    "Image": "/assets/img/items/stickers/katowice2015/voxeminor.png"
   },
   {
     "name": "Vox Eminor (Holo) | Katowice 2015",
@@ -555,7 +555,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 41050,
     "BuffStickerId": 1947,
-    "Image": "/assets/img/items/stickers/Katowice2015/VoxEminor-Holo.png"
+    "Image": "/assets/img/items/stickers/katowice2015/voxeminor-holo.png"
   },
   {
     "name": "Vox Eminor (Foil) | Katowice 2015",
@@ -564,7 +564,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 41047,
     "BuffStickerId": 1944,
-    "Image": "/assets/img/items/stickers/Katowice2015/VoxEminor-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/voxeminor-foil.png"
   },
   {
     "name": "Vox Eminor (Gold) | Katowice 2015",
@@ -582,7 +582,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40052,
     "BuffStickerId": 963,
-    "Image": "/assets/img/items/stickers/Katowice2015/ESLOne.png"
+    "Image": "/assets/img/items/stickers/katowice2015/eslone.png"
   },
   {
     "name": "ESL One (Foil) | Katowice 2015",
@@ -591,7 +591,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40049,
     "BuffStickerId": 960,
-    "Image": "/assets/img/items/stickers/Katowice2015/ESLOne-Foil.png"
+    "Image": "/assets/img/items/stickers/katowice2015/eslone-foil.png"
   },
   {
     "name": "ESL One (Gold) | Katowice 2015",

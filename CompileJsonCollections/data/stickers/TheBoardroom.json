@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 888068,
     "BuffStickerId": 16541,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/RockPaperScissors-Foil.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/rockpaperscissors-foil.png"
   },
   {
     "name": "Face Me (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 888069,
     "BuffStickerId": 16542,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/FaceMe-Foil.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/faceme-foil.png"
   },
   {
     "name": "The Real MVP (Foil)",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 888066,
     "BuffStickerId": 16539,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/TheRealMVP-Foil.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/therealmvp-foil.png"
   },
   {
     "name": "Inferno Diorama (Foil)",
@@ -33,7 +33,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 888067,
     "BuffStickerId": 16540,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/InfernoDiorama-Foil.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/infernodiorama-foil.png"
   },
   {
     "name": "Infinite Diamond (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 888057,
     "BuffStickerId": 16534,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/InfiniteDiamond-Holo.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/infinitediamond-holo.png"
   },
   {
     "name": "Phoenix Balaclava Co. (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 888031,
     "BuffStickerId": 16524,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/PhoenixBalaclavaCo-Holo.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/phoenixbalaclavaco-holo.png"
   },
   {
     "name": "V For Victory (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 888034,
     "BuffStickerId": 16526,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/VForVictory-Holo.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/vforvictory-holo.png"
   },
   {
     "name": "T Rush (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 888027,
     "BuffStickerId": 16521,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/TRush-Holo.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/trush-holo.png"
   },
   {
     "name": "Sneaky Beaky Dept. (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 888063,
     "BuffStickerId": 16538,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/SneakyBeakyDept-Holo.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/sneakybeakydept-holo.png"
   },
   {
     "name": "Flashblack (Holo)",
@@ -87,7 +87,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 888037,
     "BuffStickerId": 16529,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/Flashblack-Holo.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/flashblack-holo.png"
   },
   {
     "name": "Smoke Criminal",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888033,
     "BuffStickerId": 16525,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/SmokeCriminal.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/smokecriminal.png"
   },
   {
     "name": "B Hop",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888030,
     "BuffStickerId": 16523,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/BHop.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/bhop.png"
   },
   {
     "name": "Flick Shotter",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888028,
     "BuffStickerId": 16522,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/FlickShotter.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/flickshotter.png"
   },
   {
     "name": "Squeaky Door",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888061,
     "BuffStickerId": 16537,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/SqueakyDoor.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/squeakydoor.png"
   },
   {
     "name": "Hi, My Game Is",
@@ -132,7 +132,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888056,
     "BuffStickerId": 16533,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/HiMyGameIs.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/himygameis.png"
   },
   {
     "name": "Get Clucked",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888052,
     "BuffStickerId": 16531,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/GetClucked.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/getclucked.png"
   },
   {
     "name": "Little Mischief",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888059,
     "BuffStickerId": 16535,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/LittleMischief.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/littlemischief.png"
   },
   {
     "name": "I'm Lit",
@@ -159,7 +159,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888036,
     "BuffStickerId": 16528,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/ImLit.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/imlit.png"
   },
   {
     "name": "This Is Fine (T)",
@@ -168,7 +168,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888035,
     "BuffStickerId": 16527,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/ThisIsFineT.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/thisisfinet.png"
   },
   {
     "name": "Run CT, Run",
@@ -177,7 +177,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888060,
     "BuffStickerId": 16536,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/RunCTRun.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/runctrun.png"
   },
   {
     "name": "Wallbang",
@@ -186,7 +186,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888055,
     "BuffStickerId": 16532,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/Wallbang.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/wallbang.png"
   },
   {
     "name": "Rat Pack",
@@ -195,6 +195,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 888038,
     "BuffStickerId": 16530,
-    "Image": "/assets/img/items/stickers/TheBoardroomStickerCapsule/RatPack.png"
+    "Image": "/assets/img/items/stickers/theboardroomstickercapsule/ratpack.png"
   }
 ]

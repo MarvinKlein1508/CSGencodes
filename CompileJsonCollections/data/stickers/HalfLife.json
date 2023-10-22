@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 779021,
     "BuffStickerId": 10948,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Health-Gold.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/health-gold.png"
   },
   {
     "name": "Last Vance (Gold)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 779040,
     "BuffStickerId": 10954,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/LastVance-Gold.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/lastvance-gold.png"
   },
   {
     "name": "Lambda (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779027,
     "BuffStickerId": 10944,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Lambda-Holo.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/lambda-holo.png"
   },
   {
     "name": "Vortigaunt (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779029,
     "BuffStickerId": 10945,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Vortigaunt-Holo.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/vortigaunt-holo.png"
   },
   {
     "name": "Combine Helmet (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779024,
     "BuffStickerId": 10949,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/CombineHelmet-Holo.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/combinehelmet-holo.png"
   },
   {
     "name": "Big Hugs (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 779034,
     "BuffStickerId": 10952,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/BigHugs-Holo.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/bighugs-holo.png"
   },
   {
     "name": "Lambda",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779020,
     "BuffStickerId": 10953,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Lambda.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/lambda.png"
   },
   {
     "name": "Gnome Mercy",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779043,
     "BuffStickerId": 10946,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/GnomeMercy.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/gnomemercy.png"
   },
   {
     "name": "Combine Helmet",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779097,
     "BuffStickerId": 10950,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/CombineHelmet.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/combinehelmet.png"
   },
   {
     "name": "Greetings",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779019,
     "BuffStickerId": 10947,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/Greetings.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/greetings.png"
   },
   {
     "name": "Big Hugs",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779030,
     "BuffStickerId": 10943,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/BigHugs.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/bighugs.png"
   },
   {
     "name": "Last Vance",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779093,
     "BuffStickerId": 10951,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/LastVance.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/lastvance.png"
   },
   {
     "name": "Vortigaunt the Painter",
@@ -114,6 +114,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 779031,
     "BuffStickerId": 10955,
-    "Image": "/assets/img/items/stickers/HalfLifeAlyxStickerCapsule/VortigauntthePainter.png"
+    "Image": "/assets/img/items/stickers/halflifealyxstickercapsule/vortigauntthepainter.png"
   }
 ]

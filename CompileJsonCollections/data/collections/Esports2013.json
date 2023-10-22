@@ -8,7 +8,7 @@
     "gen_id": 156,
     "collection": "eSports 2013 Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/P90-DeathbyKitty.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/p90-deathbykitty.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 174,
     "collection": "eSports 2013 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/AWP-BOOM.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/awp-boom.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 14,
     "collection": "eSports 2013 Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/AK-47-RedLaminate.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/ak-47-redlaminate.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 83,
     "collection": "eSports 2013 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/GalilAR-OrangeDDPAT.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/galilar-orangeddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 162,
     "collection": "eSports 2013 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/P250-Splash.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/p250-splash.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -78,7 +78,7 @@
     "gen_id": 83,
     "collection": "eSports 2013 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/Sawed-Off-OrangeDDPAT.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/sawed-off-orangeddpat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 176,
     "collection": "eSports 2013 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/M4A4-FadedZebra.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/m4a4-fadedzebra.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -106,7 +106,7 @@
     "gen_id": 177,
     "collection": "eSports 2013 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/MAG-7-Memento.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/mag-7-memento.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -120,7 +120,7 @@
     "gen_id": 178,
     "collection": "eSports 2013 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/eSports2013Collection/FAMAS-Doomkitty.png",
+    "Image": "/assets/img/items/weapons/esports2013collection/famas-doomkitty.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

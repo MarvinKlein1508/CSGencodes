@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 835615,
     "BuffStickerId": 15509,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/StoneScales-Foil.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/stonescales-foil.png"
   },
   {
     "name": "Ancient Beast (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 835482,
     "BuffStickerId": 15495,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/AncientBeast-Foil.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/ancientbeast-foil.png"
   },
   {
     "name": "Battle Scarred (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 835504,
     "BuffStickerId": 15504,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BattleScarred-Holo.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/battlescarred-holo.png"
   },
   {
     "name": "Coiled Strike (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 835485,
     "BuffStickerId": 15498,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/CoiledStrike-Holo.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/coiledstrike-holo.png"
   },
   {
     "name": "Enemy Spotted (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 835402,
     "BuffStickerId": 15486,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/EnemySpotted-Holo.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/enemyspotted-holo.png"
   },
   {
     "name": "Broken Fang (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 835491,
     "BuffStickerId": 15500,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BrokenFang-Holo.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/brokenfang-holo.png"
   },
   {
     "name": "Battle Scarred",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835480,
     "BuffStickerId": 15494,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BattleScarred.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/battlescarred.png"
   },
   {
     "name": "Broken Fang",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835483,
     "BuffStickerId": 15496,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BrokenFang.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/brokenfang.png"
   },
   {
     "name": "Stalking Prey",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835460,
     "BuffStickerId": 15490,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/StalkingPrey.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/stalkingprey.png"
   },
   {
     "name": "Enemy Spotted",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835493,
     "BuffStickerId": 15501,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/EnemySpotted.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/enemyspotted.png"
   },
   {
     "name": "Coiled Strike",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835502,
     "BuffStickerId": 15503,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/CoiledStrike.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/coiledstrike.png"
   },
   {
     "name": "Stone Scales",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835484,
     "BuffStickerId": 15497,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/StoneScales.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/stonescales.png"
   },
   {
     "name": "Ancient Protector",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835469,
     "BuffStickerId": 15492,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/AncientProtector.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/ancientprotector.png"
   },
   {
     "name": "Badge of Service",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835479,
     "BuffStickerId": 15493,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/BadgeofService.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/badgeofservice.png"
   },
   {
     "name": "Ancient Beast",
@@ -132,6 +132,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 835495,
     "BuffStickerId": 15502,
-    "Image": "/assets/img/items/stickers/BrokenFangStickerCollection/AncientBeast.png"
+    "Image": "/assets/img/items/stickers/brokenfangstickercollection/ancientbeast.png"
   }
 ]

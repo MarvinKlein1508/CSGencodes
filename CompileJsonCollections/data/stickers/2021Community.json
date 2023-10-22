@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 869892,
     "BuffStickerId": 15978,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/Purrurists-Foil.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/purrurists-foil.png"
   },
   {
     "name": "Ace Devil (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 869899,
     "BuffStickerId": 15982,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/AceDevil-Foil.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/acedevil-foil.png"
   },
   {
     "name": "Bullet Hell (Foil)",
@@ -24,7 +24,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 869898,
     "BuffStickerId": 15981,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/BulletHell-Foil.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/bullethell-foil.png"
   },
   {
     "name": "Runtime (Holo)",
@@ -33,7 +33,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869867,
     "BuffStickerId": 15963,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/Runtime-Holo.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/runtime-holo.png"
   },
   {
     "name": "Nice Clutch (Holo)",
@@ -42,7 +42,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869897,
     "BuffStickerId": 15980,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/NiceClutch-Holo.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/niceclutch-holo.png"
   },
   {
     "name": "Cyber Romanov (Holo)",
@@ -51,7 +51,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869873,
     "BuffStickerId": 15969,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/CyberRomanov-Holo.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/cyberromanov-holo.png"
   },
   {
     "name": "Handle With Care (Holo)",
@@ -60,7 +60,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869876,
     "BuffStickerId": 15972,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/HandleWithCare-Holo.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/handlewithcare-holo.png"
   },
   {
     "name": "I See You (Holo)",
@@ -69,7 +69,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869887,
     "BuffStickerId": 15974,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/ISeeYou-Holo.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/iseeyou-holo.png"
   },
   {
     "name": "Eye Contact (Holo)",
@@ -78,7 +78,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869875,
     "BuffStickerId": 15971,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/EyeContact-Holo.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/eyecontact-holo.png"
   },
   {
     "name": "EZ",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869889,
     "BuffStickerId": 15976,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/EZ.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/ez.png"
   },
   {
     "name": "Fast Banana",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869869,
     "BuffStickerId": 15965,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/FastBanana.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/fastbanana.png"
   },
   {
     "name": "Speedy T",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869866,
     "BuffStickerId": 15962,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/SpeedyT.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/speedyt.png"
   },
   {
     "name": "No Time",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869870,
     "BuffStickerId": 15966,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/NoTime.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/notime.png"
   },
   {
     "name": "This Is Fine (CT)",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869893,
     "BuffStickerId": 15979,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/ThisIsFineCT.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/thisisfinect.png"
   },
   {
     "name": "War",
@@ -132,7 +132,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 869886,
     "BuffStickerId": 15973,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/War.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/war.png"
   },
   {
     "name": "Dr. Dazzles",
@@ -141,7 +141,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869872,
     "BuffStickerId": 15968,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/DrDazzles.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/drdazzles.png"
   },
   {
     "name": "Kitted Out",
@@ -150,7 +150,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869888,
     "BuffStickerId": 15975,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/KittedOut.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/kittedout.png"
   },
   {
     "name": "Clutch Or Kick",
@@ -159,7 +159,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869874,
     "BuffStickerId": 15970,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/ClutchOrKick.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/clutchorkick.png"
   },
   {
     "name": "Retro Leet",
@@ -168,7 +168,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869891,
     "BuffStickerId": 15977,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/RetroLeet.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/retroleet.png"
   },
   {
     "name": "Nademan",
@@ -177,7 +177,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869868,
     "BuffStickerId": 15964,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/Nademan.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/nademan.png"
   },
   {
     "name": "Hard Carry",
@@ -186,6 +186,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 869871,
     "BuffStickerId": 15967,
-    "Image": "/assets/img/items/stickers/2021CommunityStickerCapsule/HardCarry.png"
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/hardcarry.png"
   }
 ]

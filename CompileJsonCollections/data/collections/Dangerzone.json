@@ -8,7 +8,7 @@
     "gen_id": 801,
     "collection": "Danger Zone Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/AK-47-Asiimov.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/ak-47-asiimov.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 803,
     "collection": "Danger Zone Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/AWP-Neo-Noir.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/awp-neo-noir.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 805,
     "collection": "Danger Zone Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/DesertEagle-MechaIndustries.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/deserteagle-mechaindustries.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 810,
     "collection": "Danger Zone Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/MP5-SD-Phosphor.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/mp5-sd-phosphor.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 802,
     "collection": "Danger Zone Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/UMP-45-Momentum.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/ump-45-momentum.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 817,
     "collection": "Danger Zone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/USP-S-Flashback.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/usp-s-flashback.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 813,
     "collection": "Danger Zone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/P250-Nevermore.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/p250-nevermore.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 807,
     "collection": "Danger Zone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/GalilAR-Signal.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/galilar-signal.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 812,
     "collection": "Danger Zone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/MAC-10-PipeDown.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/mac-10-pipedown.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 806,
     "collection": "Danger Zone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/G3SG1-Scavenger.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/g3sg1-scavenger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 811,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/M4A4-Magnesium.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/m4a4-magnesium.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 816,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/Tec-9-Fubar.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/tec-9-fubar.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 808,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/Glock-18-OxideBlaze.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/glock-18-oxideblaze.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 804,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/MP9-ModestThreat.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/mp9-modestthreat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 809,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/Nova-WoodFired.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/nova-woodfired.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 815,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/SG553-DangerClose.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/sg553-dangerclose.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 814,
     "collection": "Danger Zone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/DangerZoneCollection/Sawed-Off-BlackSand.png",
+    "Image": "/assets/img/items/weapons/dangerzonecollection/sawed-off-blacksand.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

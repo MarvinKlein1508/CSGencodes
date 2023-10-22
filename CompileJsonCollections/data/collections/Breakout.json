@@ -8,7 +8,7 @@
     "gen_id": 359,
     "collection": "Breakout Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/P90-Asiimov.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/p90-asiimov.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 360,
     "collection": "Breakout Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/M4A1-S-Cyrex.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/m4a1-s-cyrex.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 353,
     "collection": "Breakout Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/Glock-18-WaterElemental.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/glock-18-waterelemental.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 351,
     "collection": "Breakout Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/DesertEagle-Conspiracy.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/deserteagle-conspiracy.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 352,
     "collection": "Breakout Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/Five-SeveN-FowlPlay.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/five-seven-fowlplay.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 356,
     "collection": "Breakout Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/Nova-Koi.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/nova-koi.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 358,
     "collection": "Breakout Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/P250-Supernova.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/p250-supernova.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 350,
     "collection": "Breakout Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/CZ75-Auto-Tigris.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/cz75-auto-tigris.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 349,
     "collection": "Breakout Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/PP-Bizon-Osiris.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/pp-bizon-osiris.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 361,
     "collection": "Breakout Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/SSG08-Abyss.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/ssg08-abyss.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -148,7 +148,7 @@
     "gen_id": 357,
     "collection": "Breakout Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/P2000-Ivory.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/p2000-ivory.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 362,
     "collection": "Breakout Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/UMP-45-Labyrinth.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/ump-45-labyrinth.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 354,
     "collection": "Breakout Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/MP7-UrbanHazard.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/mp7-urbanhazard.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 355,
     "collection": "Breakout Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/BreakoutCollection/Negev-Desert-Strike.png",
+    "Image": "/assets/img/items/weapons/breakoutcollection/negev-desert-strike.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

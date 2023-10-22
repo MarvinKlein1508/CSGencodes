@@ -8,7 +8,7 @@
     "gen_id": 632,
     "collection": "Glove Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/GloveCollection/M4A4-BuzzKill.png",
+    "Image": "/assets/img/items/weapons/glovecollection/m4a4-buzzkill.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 624,
     "collection": "Glove Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/GloveCollection/SSG08-Dragonfire.png",
+    "Image": "/assets/img/items/weapons/glovecollection/ssg08-dragonfire.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 626,
     "collection": "Glove Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/GloveCollection/FAMAS-MechaIndustries.png",
+    "Image": "/assets/img/items/weapons/glovecollection/famas-mechaindustries.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -50,7 +50,7 @@
     "gen_id": 636,
     "collection": "Glove Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/GloveCollection/P90-ShallowGrave.png",
+    "Image": "/assets/img/items/weapons/glovecollection/p90-shallowgrave.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -64,7 +64,7 @@
     "gen_id": 638,
     "collection": "Glove Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/GloveCollection/Sawed-Off-WastelandPrincess.png",
+    "Image": "/assets/img/items/weapons/glovecollection/sawed-off-wastelandprincess.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -78,7 +78,7 @@
     "gen_id": 637,
     "collection": "Glove Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/GloveCollection/USP-S-Cyrex.png",
+    "Image": "/assets/img/items/weapons/glovecollection/usp-s-cyrex.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -92,7 +92,7 @@
     "gen_id": 631,
     "collection": "Glove Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/GloveCollection/M4A1-S-Flashback.png",
+    "Image": "/assets/img/items/weapons/glovecollection/m4a1-s-flashback.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -106,7 +106,7 @@
     "gen_id": 625,
     "collection": "Glove Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/GloveCollection/DualBerettas-RoyalConsorts.png",
+    "Image": "/assets/img/items/weapons/glovecollection/dualberettas-royalconsorts.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -120,7 +120,7 @@
     "gen_id": 634,
     "collection": "Glove Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/GloveCollection/Nova-Gila.png",
+    "Image": "/assets/img/items/weapons/glovecollection/nova-gila.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -134,7 +134,7 @@
     "gen_id": 628,
     "collection": "Glove Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/GloveCollection/G3SG1-Stinger.png",
+    "Image": "/assets/img/items/weapons/glovecollection/g3sg1-stinger.png",
     "IsKnife": false,
     "StickerSlotsAmount": 5,
     "RarityId": 4
@@ -148,7 +148,7 @@
     "gen_id": 623,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/Glock-18-Ironwork.png",
+    "Image": "/assets/img/items/weapons/glovecollection/glock-18-ironwork.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -162,7 +162,7 @@
     "gen_id": 627,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/MP7-Cirrus.png",
+    "Image": "/assets/img/items/weapons/glovecollection/mp7-cirrus.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -176,7 +176,7 @@
     "gen_id": 635,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/P2000-Turf.png",
+    "Image": "/assets/img/items/weapons/glovecollection/p2000-turf.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -190,7 +190,7 @@
     "gen_id": 629,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/GalilAR-BlackSand.png",
+    "Image": "/assets/img/items/weapons/glovecollection/galilar-blacksand.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -204,7 +204,7 @@
     "gen_id": 630,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/MP9-SandScale.png",
+    "Image": "/assets/img/items/weapons/glovecollection/mp9-sandscale.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -218,7 +218,7 @@
     "gen_id": 633,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/MAG-7-Sonar.png",
+    "Image": "/assets/img/items/weapons/glovecollection/mag-7-sonar.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -232,7 +232,7 @@
     "gen_id": 622,
     "collection": "Glove Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/GloveCollection/CZ75-Auto-Polymer.png",
+    "Image": "/assets/img/items/weapons/glovecollection/cz75-auto-polymer.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3

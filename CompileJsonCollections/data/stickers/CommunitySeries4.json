@@ -6,7 +6,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40133,
     "BuffStickerId": 1044,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/Firestarter-Holo.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/firestarter-holo.png"
   },
   {
     "name": "Lucky Cat (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40458,
     "BuffStickerId": 1364,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/LuckyCat-Foil.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/luckycat-foil.png"
   },
   {
     "name": "Wanna Fight",
@@ -24,7 +24,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41053,
     "BuffStickerId": 1950,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/WannaFight.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/wannafight.png"
   },
   {
     "name": "Flickshot",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40138,
     "BuffStickerId": 1049,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/Flickshot.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/flickshot.png"
   },
   {
     "name": "Witchcraft",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41061,
     "BuffStickerId": 1958,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/Witchcraft.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/witchcraft.png"
   },
   {
     "name": "Headless Chicken",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40301,
     "BuffStickerId": 1210,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/HeadlessChicken.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/headlesschicken.png"
   },
   {
     "name": "Just Trolling",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40373,
     "BuffStickerId": 1281,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/JustTrolling.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/justtrolling.png"
   },
   {
     "name": "Eco Rush",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40058,
     "BuffStickerId": 969,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/EcoRush.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/ecorush.png"
   },
   {
     "name": "Headshot Guarantee",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40302,
     "BuffStickerId": 1211,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/HeadshotGuarantee.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/headshotguarantee.png"
   },
   {
     "name": "Hamster Hawk",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40277,
     "BuffStickerId": 1188,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/HamsterHawk.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/hamsterhawk.png"
   },
   {
     "name": "Hostage Rescue",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40333,
     "BuffStickerId": 1242,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/HostageRescue.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/hostagerescue.png"
   },
   {
     "name": "Robo",
@@ -105,6 +105,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40706,
     "BuffStickerId": 1607,
-    "Image": "/assets/img/items/stickers/CommunityStickersSeries4/Robo.png"
+    "Image": "/assets/img/items/stickers/communitystickersseries4/robo.png"
   }
 ]

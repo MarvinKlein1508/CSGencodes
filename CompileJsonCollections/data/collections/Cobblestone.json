@@ -8,7 +8,7 @@
     "gen_id": 344,
     "collection": "The Cobblestone Collection",
     "rarity": "Covert",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/AWP-DragonLore.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/awp-dragonlore.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 326,
     "collection": "The Cobblestone Collection",
     "rarity": "Classified",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/M4A1-S-Knight.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/m4a1-s-knight.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 5
@@ -36,7 +36,7 @@
     "gen_id": 328,
     "collection": "The Cobblestone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/DesertEagle-HandCannon.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/deserteagle-handcannon.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -50,7 +50,7 @@
     "gen_id": 325,
     "collection": "The Cobblestone Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/CZ75-Auto-Chalice.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/cz75-auto-chalice.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 4
@@ -64,7 +64,7 @@
     "gen_id": 327,
     "collection": "The Cobblestone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/P2000-Chainmail.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/p2000-chainmail.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -78,7 +78,7 @@
     "gen_id": 329,
     "collection": "The Cobblestone Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/MP9-DarkAge.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/mp9-darkage.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 3
@@ -92,7 +92,7 @@
     "gen_id": 332,
     "collection": "The Cobblestone Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/USP-S-RoyalBlue.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/usp-s-royalblue.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -106,7 +106,7 @@
     "gen_id": 32,
     "collection": "The Cobblestone Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/MAG-7-Silver.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/mag-7-silver.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -120,7 +120,7 @@
     "gen_id": 323,
     "collection": "The Cobblestone Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/Sawed-Off-RustCoat.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/sawed-off-rustcoat.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -134,7 +134,7 @@
     "gen_id": 294,
     "collection": "The Cobblestone Collection",
     "rarity": "Industrial",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/Nova-GreenApple.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/nova-greenapple.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
@@ -148,7 +148,7 @@
     "gen_id": 333,
     "collection": "The Cobblestone Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/UMP-45-Indigo.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/ump-45-indigo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -162,7 +162,7 @@
     "gen_id": 333,
     "collection": "The Cobblestone Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/MAC-10-Indigo.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/mac-10-indigo.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -176,7 +176,7 @@
     "gen_id": 100,
     "collection": "The Cobblestone Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/P90-Storm.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/p90-storm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -190,7 +190,7 @@
     "gen_id": 100,
     "collection": "The Cobblestone Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/SCAR-20-Storm.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/scar-20-storm.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1
@@ -204,7 +204,7 @@
     "gen_id": 330,
     "collection": "The Cobblestone Collection",
     "rarity": "Consumer",
-    "Image": "/assets/img/items/weapons/TheCobblestoneCollection/DualBerettas-Briar.png",
+    "Image": "/assets/img/items/weapons/thecobblestonecollection/dualberettas-briar.png",
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 1

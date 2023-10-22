@@ -8,7 +8,7 @@
     "gen_id": 0,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Vanilla.png",
+    "Image": "/assets/img/items/knives/bayonet/vanilla.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -22,7 +22,7 @@
     "gen_id": 569,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/GammaDoppler-Phase1.png",
+    "Image": "/assets/img/items/knives/bayonet/gammadoppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -36,7 +36,7 @@
     "gen_id": 570,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/GammaDoppler-Phase2.png",
+    "Image": "/assets/img/items/knives/bayonet/gammadoppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -50,7 +50,7 @@
     "gen_id": 571,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/GammaDoppler-Phase3.png",
+    "Image": "/assets/img/items/knives/bayonet/gammadoppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -64,7 +64,7 @@
     "gen_id": 572,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/GammaDoppler-Phase4.png",
+    "Image": "/assets/img/items/knives/bayonet/gammadoppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -78,7 +78,7 @@
     "gen_id": 568,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/GammaDoppler-Emerald.png",
+    "Image": "/assets/img/items/knives/bayonet/gammadoppler-emerald.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -92,7 +92,7 @@
     "gen_id": 558,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Lore.png",
+    "Image": "/assets/img/items/knives/bayonet/lore.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -106,7 +106,7 @@
     "gen_id": 573,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Autotronic.png",
+    "Image": "/assets/img/items/knives/bayonet/autotronic.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -120,7 +120,7 @@
     "gen_id": 563,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/BlackLaminate.png",
+    "Image": "/assets/img/items/knives/bayonet/blacklaminate.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -134,7 +134,7 @@
     "gen_id": 580,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Freehand.png",
+    "Image": "/assets/img/items/knives/bayonet/freehand.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -148,7 +148,7 @@
     "gen_id": 578,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/BrightWater.png",
+    "Image": "/assets/img/items/knives/bayonet/brightwater.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -162,7 +162,7 @@
     "gen_id": 413,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/MarbleFade.png",
+    "Image": "/assets/img/items/knives/bayonet/marblefade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -176,7 +176,7 @@
     "gen_id": 409,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/TigerTooth.png",
+    "Image": "/assets/img/items/knives/bayonet/tigertooth.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -190,7 +190,7 @@
     "gen_id": 418,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-Phase1.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-phase1.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -204,7 +204,7 @@
     "gen_id": 419,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-Phase2.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-phase2.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -218,7 +218,7 @@
     "gen_id": 420,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-Phase3.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-phase3.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -232,7 +232,7 @@
     "gen_id": 421,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-Phase4.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-phase4.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -246,7 +246,7 @@
     "gen_id": 415,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-Ruby.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-ruby.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -260,7 +260,7 @@
     "gen_id": 416,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-Sapphire.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-sapphire.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -274,7 +274,7 @@
     "gen_id": 417,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Doppler-BlackPearl.png",
+    "Image": "/assets/img/items/knives/bayonet/doppler-blackpearl.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -288,7 +288,7 @@
     "gen_id": 410,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/DamascusSteel.png",
+    "Image": "/assets/img/items/knives/bayonet/damascussteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -302,7 +302,7 @@
     "gen_id": 98,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Ultraviolet.png",
+    "Image": "/assets/img/items/knives/bayonet/ultraviolet.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -316,7 +316,7 @@
     "gen_id": 414,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/RustCoat.png",
+    "Image": "/assets/img/items/knives/bayonet/rustcoat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -330,7 +330,7 @@
     "gen_id": 38,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Fade.png",
+    "Image": "/assets/img/items/knives/bayonet/fade.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -344,7 +344,7 @@
     "gen_id": 59,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Slaughter.png",
+    "Image": "/assets/img/items/knives/bayonet/slaughter.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -358,7 +358,7 @@
     "gen_id": 44,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/CaseHardened.png",
+    "Image": "/assets/img/items/knives/bayonet/casehardened.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -372,7 +372,7 @@
     "gen_id": 42,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/BlueSteel.png",
+    "Image": "/assets/img/items/knives/bayonet/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -386,7 +386,7 @@
     "gen_id": 43,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Stained.png",
+    "Image": "/assets/img/items/knives/bayonet/stained.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -400,7 +400,7 @@
     "gen_id": 12,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/CrimsonWeb.png",
+    "Image": "/assets/img/items/knives/bayonet/crimsonweb.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -414,7 +414,7 @@
     "gen_id": 77,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/BorealForest.png",
+    "Image": "/assets/img/items/knives/bayonet/borealforest.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -428,7 +428,7 @@
     "gen_id": 40,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Night.png",
+    "Image": "/assets/img/items/knives/bayonet/night.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -442,7 +442,7 @@
     "gen_id": 72,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/SafariMesh.png",
+    "Image": "/assets/img/items/knives/bayonet/safarimesh.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -456,7 +456,7 @@
     "gen_id": 143,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/UrbanMasked.png",
+    "Image": "/assets/img/items/knives/bayonet/urbanmasked.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -470,7 +470,7 @@
     "gen_id": 5,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/ForestDDPAT.png",
+    "Image": "/assets/img/items/knives/bayonet/forestddpat.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
@@ -484,7 +484,7 @@
     "gen_id": 5,
     "collection": "Bayonet",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/Bayonet/Scorched.png",
+    "Image": "/assets/img/items/knives/bayonet/scorched.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

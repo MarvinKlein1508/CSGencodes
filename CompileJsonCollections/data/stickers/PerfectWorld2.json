@@ -6,7 +6,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40450,
     "BuffStickerId": 1356,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Longevity-Foil.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/longevity-foil.png"
   },
   {
     "name": "Pixiu (Foil)",
@@ -15,7 +15,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": 40673,
     "BuffStickerId": 1574,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Pixiu-Foil.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/pixiu-foil.png"
   },
   {
     "name": "Twin Koi (Holo)",
@@ -24,7 +24,7 @@
     "rarity": "Remarkable",
     "BuffGoodsId": 40993,
     "BuffStickerId": 1890,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/TwinKoi-Holo.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/twinkoi-holo.png"
   },
   {
     "name": "Rage",
@@ -33,7 +33,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40694,
     "BuffStickerId": 1595,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Rage.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/rage.png"
   },
   {
     "name": "Longevity",
@@ -42,7 +42,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40449,
     "BuffStickerId": 1355,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Longevity.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/longevity.png"
   },
   {
     "name": "God of Fortune",
@@ -51,7 +51,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40240,
     "BuffStickerId": 1151,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/GodofFortune.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/godoffortune.png"
   },
   {
     "name": "Blue Swallow",
@@ -60,7 +60,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 39913,
     "BuffStickerId": 832,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/BlueSwallow.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/blueswallow.png"
   },
   {
     "name": "Twin Koi",
@@ -69,7 +69,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40992,
     "BuffStickerId": 1889,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/TwinKoi.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/twinkoi.png"
   },
   {
     "name": "Green Swallow",
@@ -78,7 +78,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40246,
     "BuffStickerId": 1157,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/GreenSwallow.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/greenswallow.png"
   },
   {
     "name": "Non-Veg",
@@ -87,7 +87,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 33687,
     "BuffStickerId": 741,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/NonVeg.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/nonveg.png"
   },
   {
     "name": "Pixiu",
@@ -96,7 +96,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40672,
     "BuffStickerId": 1573,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Pixiu.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/pixiu.png"
   },
   {
     "name": "Nezha",
@@ -105,7 +105,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40592,
     "BuffStickerId": 1493,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Nezha.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/nezha.png"
   },
   {
     "name": "Zombie Hop",
@@ -114,7 +114,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 41123,
     "BuffStickerId": 2020,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/ZombieHop.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/zombiehop.png"
   },
   {
     "name": "Huaji",
@@ -123,7 +123,7 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40336,
     "BuffStickerId": 1245,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Huaji.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/huaji.png"
   },
   {
     "name": "Shaolin",
@@ -132,6 +132,6 @@
     "rarity": "HighGrade",
     "BuffGoodsId": 40763,
     "BuffStickerId": 1664,
-    "Image": "/assets/img/items/stickers/PerfectWorldStickerCapsule2/Shaolin.png"
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/shaolin.png"
   }
 ]
