@@ -49,22 +49,25 @@ namespace CSGO_GEN.Core.Models
 
             int max_size = stickers.Count > StickerSlotsAmount ? StickerSlotsAmount : stickers.Count;
 
-            var sortedStickers = stickers.OrderBy(x => x.PosId);
+            var sortedStickers = stickers.OrderBy(x => x.PosId).ToList();
 
-            for (int currentPos = 0; currentPos < max_size; currentPos++)
+            int currentPos = 0;
+            foreach (var sticker in sortedStickers)
             {
-                var sticker = stickers[currentPos];
-
-                if (sticker.PosId == currentPos)
+                if (StickerSlotsAmount < (currentPos + 1))
                 {
-                    sb.Append($" {sticker.gen_id} {sticker.Scratched.ToString("0.00", CultureInfo.InvariantCulture)}");
+                    break;
                 }
-                else
+
+                while (sticker.PosId != currentPos)
                 {
                     sb.Append(" 0 0.00");
+                    currentPos++;
                 }
-            }
 
+                sb.Append($" {sticker.gen_id} {sticker.Scratched.ToString("0.00", CultureInfo.InvariantCulture)}");
+                currentPos++;
+            }
 
             string gencode = sb.ToString();
             return gencode;
