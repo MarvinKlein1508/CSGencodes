@@ -24,7 +24,7 @@ namespace CSGO_GEN.Core.Services
             proto.Paintindex = (uint)weapon.gen_id;
             proto.Paintseed = (uint)pattern;
             byte[] paintWearBytes = BitConverter.GetBytes((float)@float);
-            Array.Reverse(paintWearBytes); // Convert to big-endian
+            //Array.Reverse(paintWearBytes); // Convert to big-endian
             proto.Paintwear = BitConverter.ToUInt32(paintWearBytes, 0);
 
             if (stickers.Any())
