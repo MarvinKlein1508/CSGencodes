@@ -91,6 +91,7 @@
     <None Remove="data\stickers\2021Community.json" />
     <None Remove="data\stickers\antwerp2022.json" />
     <None Remove="data\stickers\Atlanta2017.json" />
+    <None Remove="data\stickers\battlefield2042.json" />
     <None Remove="data\stickers\berlin2019.json" />
     <None Remove="data\stickers\Bestiary.json" />
     <None Remove="data\stickers\boston2018.json" />
@@ -389,6 +390,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\berlin2019.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\battlefield2042.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Bestiary.json">
