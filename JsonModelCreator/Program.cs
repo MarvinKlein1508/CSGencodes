@@ -23,8 +23,8 @@ namespace JsonModelCreator
                 .ReadFrom.Configuration(config)
                 .CreateLogger();
 
-            //await GenerateStickers(config);
-            await GenerateWeapons(config);
+            await GenerateStickers(config);
+            //await GenerateWeapons(config);
         }
 
         private static async Task GenerateStickers(IConfigurationRoot config)
@@ -44,69 +44,76 @@ namespace JsonModelCreator
 
                 foreach (var sticker in stickers)
                 {
-                    //string tournament = Regex.Replace(sticker.tournament, "[^A-Za-z0-9]+", "");
-                    //string name = sticker.name
-                    //    .Replace("(Holo)", string.Empty)
-                    //    .Replace("(Foil)", string.Empty)
-                    //    .Replace("(Gold)", string.Empty)
-                    //    .Replace("(Glitter)", string.Empty)
-                    //    .Replace("(Lenticular)", string.Empty)
-                    //    .Replace("(Champion)", string.Empty)
-                    //    .Replace("(Glitter, Champion)", string.Empty)
-                    //    .Replace("(Holo, Champion)", string.Empty)
-                    //    .Replace("(Gold, Champion)", string.Empty)
-                    //    .Replace(sticker.tournament, string.Empty)
-                    //    .Replace("|", string.Empty)
-                    //    ;
+                    if (sticker.Image is not null)
+                    {
+                        sticker.Image = sticker.Image.ToLower();
+                        continue;
+                    }
 
-                    //string rarity = string.Empty;
+                    string tournament = Regex.Replace(sticker.tournament, "[^A-Za-z0-9]+", "");
+                    string name = sticker.name
+                        .Replace("(Holo)", string.Empty)
+                        .Replace("(Foil)", string.Empty)
+                        .Replace("(Gold)", string.Empty)
+                        .Replace("(Glitter)", string.Empty)
+                        .Replace("(Lenticular)", string.Empty)
+                        .Replace("(Champion)", string.Empty)
+                        .Replace("(Glitter, Champion)", string.Empty)
+                        .Replace("(Holo, Champion)", string.Empty)
+                        .Replace("(Gold, Champion)", string.Empty)
+                        .Replace(sticker.tournament, string.Empty)
+                        .Replace("|", string.Empty)
+                        ;
 
-                    //if (sticker.name.Contains("(Holo)"))
-                    //{
-                    //    rarity = "Holo";
-                    //}
-                    //else if (sticker.name.Contains("(Foil)"))
-                    //{
-                    //    rarity = "Foil";
-                    //}
-                    //else if (sticker.name.Contains("(Gold)"))
-                    //{
-                    //    rarity = "Gold";
-                    //}
-                    //else if (sticker.name.Contains("(Glitter)"))
-                    //{
-                    //    rarity = "Glitter";
-                    //}
-                    //else if (sticker.name.Contains("(Lenticular)"))
-                    //{
-                    //    rarity = "Lenticular";
-                    //}
-                    //else if (sticker.name.Contains("(Champion)"))
-                    //{
-                    //    rarity = "Champion";
-                    //}
-                    //else if (sticker.name.Contains("(Glitter, Champion)"))
-                    //{
-                    //    rarity = "Champion-Glitter";
-                    //}
-                    //else if (sticker.name.Contains("(Holo, Champion)"))
-                    //{
-                    //    rarity = "Champion-Holo";
-                    //}
-                    //else if (sticker.name.Contains("(Gold, Champion)"))
-                    //{
-                    //    rarity = "Champion-Gold";
-                    //}
+                    string rarity = string.Empty;
+
+                    if (sticker.name.Contains("(Holo)"))
+                    {
+                        rarity = "Holo";
+                    }
+                    else if (sticker.name.Contains("(Foil)"))
+                    {
+                        rarity = "Foil";
+                    }
+                    else if (sticker.name.Contains("(Gold)"))
+                    {
+                        rarity = "Gold";
+                    }
+                    else if (sticker.name.Contains("(Glitter)"))
+                    {
+                        rarity = "Glitter";
+                    }
+                    else if (sticker.name.Contains("(Lenticular)"))
+                    {
+                        rarity = "Lenticular";
+                    }
+                    else if (sticker.name.Contains("(Champion)"))
+                    {
+                        rarity = "Champion";
+                    }
+                    else if (sticker.name.Contains("(Glitter, Champion)"))
+                    {
+                        rarity = "Champion-Glitter";
+                    }
+                    else if (sticker.name.Contains("(Holo, Champion)"))
+                    {
+                        rarity = "Champion-Holo";
+                    }
+                    else if (sticker.name.Contains("(Gold, Champion)"))
+                    {
+                        rarity = "Champion-Gold";
+                    }
 
 
-                    //name = Regex.Replace(name, "[^A-Za-z0-9]+", "");
+                    name = Regex.Replace(name, "[^A-Za-z0-9]+", "");
 
 
 
-                    //// "/assets/img/items/stickers/Stockholm2021/MovistarRiders.png"
-                    //sticker.Image = $"/assets/img/items/stickers/{tournament}/{name}{(rarity != string.Empty ? $"-{rarity}" : "")}.png";
+                    // "/assets/img/items/stickers/Stockholm2021/MovistarRiders.png"
+                    sticker.Image = $"/assets/img/items/stickers/{tournament}/{name}{(rarity != string.Empty ? $"-{rarity}" : "")}.png";
+                    
 
-                    sticker.Image = sticker.Image?.ToLower() ?? null;
+                    //sticker.Image = sticker.Image?.ToLower() ?? null;
                 }
 
                 // Compile new list into output directory

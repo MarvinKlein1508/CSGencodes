@@ -1086,7 +1086,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/cloud9-foil.png"
   },
   {
     "name": "Fnatic (Foil) | Cologne 2014",
@@ -1095,7 +1095,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/fnatic-foil.png"
   },
   {
     "name": "HellRaisers (Foil) | Cologne 2014",
@@ -1104,7 +1104,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/hellraisers-foil.png"
   },
   {
     "name": "Ninjas in Pyjamas (Foil) | Cologne 2014",
@@ -1113,7 +1113,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/ninjasinpyjamas-foil.png"
   },
   {
     "name": "Team Dignitas (Foil) | Cologne 2014",
@@ -1122,7 +1122,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/teamdignitas-foil.png"
   },
   {
     "name": "Team LDLC.com (Foil) | Cologne 2014",
@@ -1131,7 +1131,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/teamldlccom-foil.png"
   },
   {
     "name": "Virtus.Pro (Foil) | Cologne 2014",
@@ -1140,7 +1140,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/virtuspro-foil.png"
   },
   {
     "name": "Copenhagen Wolves (Foil) | Cologne 2014",
@@ -1149,7 +1149,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/copenhagenwolves-foil.png"
   },
   {
     "name": "dAT team (Foil) | Cologne 2014",
@@ -1158,7 +1158,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/datteam-foil.png"
   },
   {
     "name": "Epsilon eSports (Foil) | Cologne 2014",
@@ -1167,7 +1167,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/epsilonesports-foil.png"
   },
   {
     "name": "iBUYPOWER (Foil) | Cologne 2014",
@@ -1176,7 +1176,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/ibuypower-foil.png"
   },
   {
     "name": "London Conspiracy (Foil) | Cologne 2014",
@@ -1185,7 +1185,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/londonconspiracy-foil.png"
   },
   {
     "name": "Natus Vincere (Foil) | Cologne 2014",
@@ -1194,7 +1194,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/natusvincere-foil.png"
   },
   {
     "name": "Titan (Foil) | Cologne 2014",
@@ -1203,7 +1203,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/titan-foil.png"
   },
   {
     "name": "Vox Eminor (Foil) | Cologne 2014",
@@ -1212,7 +1212,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/voxeminor-foil.png"
   },
   {
     "name": "MTS GameGod Wolf (Foil) | Cologne 2014",
@@ -1221,7 +1221,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2014/mtsgamegodwolf-foil.png"
   },
   {
     "name": "Bossy Burger",
@@ -2130,7 +2130,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/3dmax-gold.png"
   },
   {
     "name": "Cloud9 G2A | Katowice 2015",
@@ -2166,7 +2166,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/cloud9g2a-gold.png"
   },
   {
     "name": "Counter Logic Gaming | Katowice 2015",
@@ -2202,7 +2202,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/counterlogicgaming-gold.png"
   },
   {
     "name": "ESL One (Foil) | Katowice 2015",
@@ -2220,7 +2220,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 12258,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/eslone-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Katowice 2015",
@@ -2256,7 +2256,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/flipsid3tactics-gold.png"
   },
   {
     "name": "Fnatic | Katowice 2015",
@@ -2292,7 +2292,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/fnatic-gold.png"
   },
   {
     "name": "HellRaisers | Katowice 2015",
@@ -2328,7 +2328,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/hellraisers-gold.png"
   },
   {
     "name": "Keyd Stars | Katowice 2015",
@@ -2364,7 +2364,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/keydstars-gold.png"
   },
   {
     "name": "LGB eSports | Katowice 2015",
@@ -2400,7 +2400,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/lgbesports-gold.png"
   },
   {
     "name": "Natus Vincere | Katowice 2015",
@@ -2436,7 +2436,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/natusvincere-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Katowice 2015",
@@ -2472,7 +2472,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/ninjasinpyjamas-gold.png"
   },
   {
     "name": "PENTA Sports | Katowice 2015",
@@ -2508,7 +2508,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/pentasports-gold.png"
   },
   {
     "name": "Team EnVyUs | Katowice 2015",
@@ -2544,7 +2544,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/teamenvyus-gold.png"
   },
   {
     "name": "TSM Kinguin | Katowice 2015",
@@ -2580,7 +2580,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/tsmkinguin-gold.png"
   },
   {
     "name": "Titan | Katowice 2015",
@@ -2616,7 +2616,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/titan-gold.png"
   },
   {
     "name": "Virtus.Pro | Katowice 2015",
@@ -2652,7 +2652,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/virtuspro-gold.png"
   },
   {
     "name": "Vox Eminor | Katowice 2015",
@@ -2688,7 +2688,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2015/voxeminor-gold.png"
   },
   {
     "name": "ESL One | Katowice 2015",
@@ -2949,7 +2949,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/pronax-gold.png"
   },
   {
     "name": "flusha | Cologne 2015",
@@ -2976,7 +2976,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/flusha-gold.png"
   },
   {
     "name": "JW | Cologne 2015",
@@ -3003,7 +3003,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/jw-gold.png"
   },
   {
     "name": "KRIMZ | Cologne 2015",
@@ -3030,7 +3030,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/krimz-gold.png"
   },
   {
     "name": "olofmeister | Cologne 2015",
@@ -3057,7 +3057,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/olofmeister-gold.png"
   },
   {
     "name": "FalleN | Cologne 2015",
@@ -3084,7 +3084,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/fallen-gold.png"
   },
   {
     "name": "steel | Cologne 2015",
@@ -3111,7 +3111,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/steel-gold.png"
   },
   {
     "name": "fer | Cologne 2015",
@@ -3138,7 +3138,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/fer-gold.png"
   },
   {
     "name": "boltz | Cologne 2015",
@@ -3165,7 +3165,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/boltz-gold.png"
   },
   {
     "name": "coldzera | Cologne 2015",
@@ -3192,7 +3192,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/coldzera-gold.png"
   },
   {
     "name": "Non-Veg",
@@ -3228,7 +3228,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/guardian-gold.png"
   },
   {
     "name": "Zeus | Cologne 2015",
@@ -3255,7 +3255,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/zeus-gold.png"
   },
   {
     "name": "seized | Cologne 2015",
@@ -3282,7 +3282,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/seized-gold.png"
   },
   {
     "name": "Edward | Cologne 2015",
@@ -3309,7 +3309,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/edward-gold.png"
   },
   {
     "name": "flamie | Cologne 2015",
@@ -3336,7 +3336,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/flamie-gold.png"
   },
   {
     "name": "Xizt | Cologne 2015",
@@ -3363,7 +3363,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/xizt-gold.png"
   },
   {
     "name": "f0rest | Cologne 2015",
@@ -3390,7 +3390,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/f0rest-gold.png"
   },
   {
     "name": "GeT_RiGhT | Cologne 2015",
@@ -3417,7 +3417,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/getright-gold.png"
   },
   {
     "name": "friberg | Cologne 2015",
@@ -3444,7 +3444,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/friberg-gold.png"
   },
   {
     "name": "allu | Cologne 2015",
@@ -3471,7 +3471,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/allu-gold.png"
   },
   {
     "name": "kennyS | Cologne 2015",
@@ -3498,7 +3498,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/kennys-gold.png"
   },
   {
     "name": "kioShiMa | Cologne 2015",
@@ -3525,7 +3525,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/kioshima-gold.png"
   },
   {
     "name": "Happy | Cologne 2015",
@@ -3552,7 +3552,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/happy-gold.png"
   },
   {
     "name": "apEX | Cologne 2015",
@@ -3579,7 +3579,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/apex-gold.png"
   },
   {
     "name": "NBK- | Cologne 2015",
@@ -3606,7 +3606,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/nbk-gold.png"
   },
   {
     "name": "karrigan | Cologne 2015",
@@ -3633,7 +3633,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/karrigan-gold.png"
   },
   {
     "name": "device | Cologne 2015",
@@ -3660,7 +3660,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/device-gold.png"
   },
   {
     "name": "dupreeh | Cologne 2015",
@@ -3687,7 +3687,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/dupreeh-gold.png"
   },
   {
     "name": "Xyp9x | Cologne 2015",
@@ -3714,7 +3714,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/xyp9x-gold.png"
   },
   {
     "name": "cajunb | Cologne 2015",
@@ -3741,7 +3741,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/cajunb-gold.png"
   },
   {
     "name": "NEO | Cologne 2015",
@@ -3768,7 +3768,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/neo-gold.png"
   },
   {
     "name": "pashaBiceps | Cologne 2015",
@@ -3795,7 +3795,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/pashabiceps-gold.png"
   },
   {
     "name": "TaZ | Cologne 2015",
@@ -3822,7 +3822,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/taz-gold.png"
   },
   {
     "name": "Snax | Cologne 2015",
@@ -3849,7 +3849,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/snax-gold.png"
   },
   {
     "name": "byali | Cologne 2015",
@@ -3876,7 +3876,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/byali-gold.png"
   },
   {
     "name": "chrisJ | Cologne 2015",
@@ -3903,7 +3903,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/chrisj-gold.png"
   },
   {
     "name": "gob b | Cologne 2015",
@@ -3930,7 +3930,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/gobb-gold.png"
   },
   {
     "name": "denis | Cologne 2015",
@@ -3957,7 +3957,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/denis-gold.png"
   },
   {
     "name": "nex | Cologne 2015",
@@ -3984,7 +3984,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/nex-gold.png"
   },
   {
     "name": "Spiidi | Cologne 2015",
@@ -4011,7 +4011,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/spiidi-gold.png"
   },
   {
     "name": "AZR | Cologne 2015",
@@ -4038,7 +4038,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/azr-gold.png"
   },
   {
     "name": "Havoc | Cologne 2015",
@@ -4065,7 +4065,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/havoc-gold.png"
   },
   {
     "name": "jks | Cologne 2015",
@@ -4092,7 +4092,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/jks-gold.png"
   },
   {
     "name": "SPUNJ | Cologne 2015",
@@ -4119,7 +4119,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/spunj-gold.png"
   },
   {
     "name": "yam | Cologne 2015",
@@ -4146,7 +4146,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/yam-gold.png"
   },
   {
     "name": "USTILO | Cologne 2015",
@@ -4173,7 +4173,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/ustilo-gold.png"
   },
   {
     "name": "Rickeh | Cologne 2015",
@@ -4200,7 +4200,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/rickeh-gold.png"
   },
   {
     "name": "emagine | Cologne 2015",
@@ -4227,7 +4227,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/emagine-gold.png"
   },
   {
     "name": "SnypeR | Cologne 2015",
@@ -4254,7 +4254,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/snyper-gold.png"
   },
   {
     "name": "James | Cologne 2015",
@@ -4281,7 +4281,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/james-gold.png"
   },
   {
     "name": "markeloff | Cologne 2015",
@@ -4308,7 +4308,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/markeloff-gold.png"
   },
   {
     "name": "B1ad3 | Cologne 2015",
@@ -4335,7 +4335,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/b1ad3-gold.png"
   },
   {
     "name": "bondik | Cologne 2015",
@@ -4362,7 +4362,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/bondik-gold.png"
   },
   {
     "name": "WorldEdit | Cologne 2015",
@@ -4389,7 +4389,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/worldedit-gold.png"
   },
   {
     "name": "DavCost | Cologne 2015",
@@ -4416,7 +4416,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/davcost-gold.png"
   },
   {
     "name": "dennis | Cologne 2015",
@@ -4443,7 +4443,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/dennis-gold.png"
   },
   {
     "name": "ScreaM | Cologne 2015",
@@ -4470,7 +4470,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/scream-gold.png"
   },
   {
     "name": "rain | Cologne 2015",
@@ -4497,7 +4497,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/rain-gold.png"
   },
   {
     "name": "Maikelele | Cologne 2015",
@@ -4524,7 +4524,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/maikelele-gold.png"
   },
   {
     "name": "fox | Cologne 2015",
@@ -4551,7 +4551,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/fox-gold.png"
   },
   {
     "name": "rallen | Cologne 2015",
@@ -4578,7 +4578,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/rallen-gold.png"
   },
   {
     "name": "Hyper | Cologne 2015",
@@ -4605,7 +4605,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/hyper-gold.png"
   },
   {
     "name": "peet | Cologne 2015",
@@ -4632,7 +4632,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/peet-gold.png"
   },
   {
     "name": "Furlan | Cologne 2015",
@@ -4659,7 +4659,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/furlan-gold.png"
   },
   {
     "name": "GruBy | Cologne 2015",
@@ -4686,7 +4686,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/gruby-gold.png"
   },
   {
     "name": "Maniac | Cologne 2015",
@@ -4713,7 +4713,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/maniac-gold.png"
   },
   {
     "name": "Ex6TenZ | Cologne 2015",
@@ -4740,7 +4740,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/ex6tenz-gold.png"
   },
   {
     "name": "shox | Cologne 2015",
@@ -4767,7 +4767,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/shox-gold.png"
   },
   {
     "name": "SmithZz | Cologne 2015",
@@ -4794,7 +4794,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/smithzz-gold.png"
   },
   {
     "name": "RpK | Cologne 2015",
@@ -4821,7 +4821,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/rpk-gold.png"
   },
   {
     "name": "hazed | Cologne 2015",
@@ -4848,7 +4848,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/hazed-gold.png"
   },
   {
     "name": "FNS | Cologne 2015",
@@ -4875,7 +4875,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/fns-gold.png"
   },
   {
     "name": "jdm64 | Cologne 2015",
@@ -4902,7 +4902,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/jdm64-gold.png"
   },
   {
     "name": "reltuC | Cologne 2015",
@@ -4929,7 +4929,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/reltuc-gold.png"
   },
   {
     "name": "tarik | Cologne 2015",
@@ -4956,7 +4956,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/tarik-gold.png"
   },
   {
     "name": "n0thing | Cologne 2015",
@@ -4983,7 +4983,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/n0thing-gold.png"
   },
   {
     "name": "seang@res | Cologne 2015",
@@ -5010,7 +5010,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/seangres-gold.png"
   },
   {
     "name": "shroud | Cologne 2015",
@@ -5037,7 +5037,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/shroud-gold.png"
   },
   {
     "name": "freakazoid | Cologne 2015",
@@ -5064,7 +5064,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/freakazoid-gold.png"
   },
   {
     "name": "Skadoodle | Cologne 2015",
@@ -5091,7 +5091,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/skadoodle-gold.png"
   },
   {
     "name": "Fnatic | Cologne 2015",
@@ -5118,7 +5118,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/fnatic-gold.png"
   },
   {
     "name": "Virtus.Pro | Cologne 2015",
@@ -5145,7 +5145,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/virtuspro-gold.png"
   },
   {
     "name": "mousesports | Cologne 2015",
@@ -5172,7 +5172,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/mousesports-gold.png"
   },
   {
     "name": "Natus Vincere | Cologne 2015",
@@ -5199,7 +5199,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/natusvincere-gold.png"
   },
   {
     "name": "Renegades | Cologne 2015",
@@ -5226,7 +5226,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/renegades-gold.png"
   },
   {
     "name": "Team Kinguin | Cologne 2015",
@@ -5253,7 +5253,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/teamkinguin-gold.png"
   },
   {
     "name": "Team eBettle | Cologne 2015",
@@ -5280,7 +5280,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/teamebettle-gold.png"
   },
   {
     "name": "Cloud9 G2A | Cologne 2015",
@@ -5307,7 +5307,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/cloud9g2a-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Cologne 2015",
@@ -5334,7 +5334,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/ninjasinpyjamas-gold.png"
   },
   {
     "name": "Team EnVyUs | Cologne 2015",
@@ -5361,7 +5361,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/teamenvyus-gold.png"
   },
   {
     "name": "Luminosity Gaming | Cologne 2015",
@@ -5388,7 +5388,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/luminositygaming-gold.png"
   },
   {
     "name": "Team SoloMid | Cologne 2015",
@@ -5415,7 +5415,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/teamsolomid-gold.png"
   },
   {
     "name": "Team Immunity | Cologne 2015",
@@ -5442,7 +5442,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/teamimmunity-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Cologne 2015",
@@ -5469,7 +5469,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/flipsid3tactics-gold.png"
   },
   {
     "name": "Titan | Cologne 2015",
@@ -5496,7 +5496,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/titan-gold.png"
   },
   {
     "name": "Counter Logic Gaming | Cologne 2015",
@@ -5523,7 +5523,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/counterlogicgaming-gold.png"
   },
   {
     "name": "ESL | Cologne 2015",
@@ -5550,7 +5550,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 12259,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2015/esl-gold.png"
   },
   {
     "name": "reltuC | Cluj-Napoca 2015",
@@ -5577,7 +5577,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/reltuc-gold.png"
   },
   {
     "name": "FNS | Cluj-Napoca 2015",
@@ -5604,7 +5604,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/fns-gold.png"
   },
   {
     "name": "hazed | Cluj-Napoca 2015",
@@ -5631,7 +5631,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/hazed-gold.png"
   },
   {
     "name": "jdm64 | Cluj-Napoca 2015",
@@ -5658,7 +5658,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/jdm64-gold.png"
   },
   {
     "name": "tarik | Cluj-Napoca 2015",
@@ -5685,7 +5685,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/tarik-gold.png"
   },
   {
     "name": "freakazoid | Cluj-Napoca 2015",
@@ -5712,7 +5712,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/freakazoid-gold.png"
   },
   {
     "name": "seang@res- | Cluj-Napoca 2015",
@@ -5739,7 +5739,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/seangres-gold.png"
   },
   {
     "name": "shroud | Cluj-Napoca 2015",
@@ -5766,7 +5766,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/shroud-gold.png"
   },
   {
     "name": "Skadoodle | Cluj-Napoca 2015",
@@ -5793,7 +5793,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/skadoodle-gold.png"
   },
   {
     "name": "n0thing | Cluj-Napoca 2015",
@@ -5820,7 +5820,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/n0thing-gold.png"
   },
   {
     "name": "apEX | Cluj-Napoca 2015",
@@ -5847,7 +5847,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/apex-gold.png"
   },
   {
     "name": "Happy | Cluj-Napoca 2015",
@@ -5874,7 +5874,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/happy-gold.png"
   },
   {
     "name": "kioShiMa | Cluj-Napoca 2015",
@@ -5901,7 +5901,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/kioshima-gold.png"
   },
   {
     "name": "kennyS | Cluj-Napoca 2015",
@@ -5928,7 +5928,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/kennys-gold.png"
   },
   {
     "name": "NBK- | Cluj-Napoca 2015",
@@ -5955,7 +5955,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/nbk-gold.png"
   },
   {
     "name": "B1ad3 | Cluj-Napoca 2015",
@@ -5982,7 +5982,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/b1ad3-gold.png"
   },
   {
     "name": "bondik | Cluj-Napoca 2015",
@@ -6009,7 +6009,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/bondik-gold.png"
   },
   {
     "name": "DavCost | Cluj-Napoca 2015",
@@ -6036,7 +6036,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/davcost-gold.png"
   },
   {
     "name": "markeloff | Cluj-Napoca 2015",
@@ -6063,7 +6063,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/markeloff-gold.png"
   },
   {
     "name": "WorldEdit | Cluj-Napoca 2015",
@@ -6090,7 +6090,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/worldedit-gold.png"
   },
   {
     "name": "flusha | Cluj-Napoca 2015",
@@ -6117,7 +6117,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/flusha-gold.png"
   },
   {
     "name": "JW | Cluj-Napoca 2015",
@@ -6144,7 +6144,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/jw-gold.png"
   },
   {
     "name": "KRIMZ | Cluj-Napoca 2015",
@@ -6171,7 +6171,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/krimz-gold.png"
   },
   {
     "name": "olofmeister | Cluj-Napoca 2015",
@@ -6198,7 +6198,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/olofmeister-gold.png"
   },
   {
     "name": "pronax | Cluj-Napoca 2015",
@@ -6225,7 +6225,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/pronax-gold.png"
   },
   {
     "name": "fox | Cluj-Napoca 2015",
@@ -6252,7 +6252,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/fox-gold.png"
   },
   {
     "name": "Maikelele | Cluj-Napoca 2015",
@@ -6279,7 +6279,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/maikelele-gold.png"
   },
   {
     "name": "rain | Cluj-Napoca 2015",
@@ -6306,7 +6306,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/rain-gold.png"
   },
   {
     "name": "jkaem | Cluj-Napoca 2015",
@@ -6333,7 +6333,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/jkaem-gold.png"
   },
   {
     "name": "boltz | Cluj-Napoca 2015",
@@ -6360,7 +6360,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/boltz-gold.png"
   },
   {
     "name": "coldzera | Cluj-Napoca 2015",
@@ -6387,7 +6387,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/coldzera-gold.png"
   },
   {
     "name": "FalleN | Cluj-Napoca 2015",
@@ -6414,7 +6414,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/fallen-gold.png"
   },
   {
     "name": "fer | Cluj-Napoca 2015",
@@ -6441,7 +6441,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/fer-gold.png"
   },
   {
     "name": "steel | Cluj-Napoca 2015",
@@ -6468,7 +6468,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/steel-gold.png"
   },
   {
     "name": "chrisJ | Cluj-Napoca 2015",
@@ -6495,7 +6495,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/chrisj-gold.png"
   },
   {
     "name": "denis | Cluj-Napoca 2015",
@@ -6522,7 +6522,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/denis-gold.png"
   },
   {
     "name": "gob b | Cluj-Napoca 2015",
@@ -6549,7 +6549,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/gobb-gold.png"
   },
   {
     "name": "nex | Cluj-Napoca 2015",
@@ -6576,7 +6576,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/nex-gold.png"
   },
   {
     "name": "NiKo | Cluj-Napoca 2015",
@@ -6603,7 +6603,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/niko-gold.png"
   },
   {
     "name": "Edward | Cluj-Napoca 2015",
@@ -6630,7 +6630,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/edward-gold.png"
   },
   {
     "name": "flamie | Cluj-Napoca 2015",
@@ -6657,7 +6657,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/flamie-gold.png"
   },
   {
     "name": "GuardiaN | Cluj-Napoca 2015",
@@ -6684,7 +6684,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/guardian-gold.png"
   },
   {
     "name": "seized | Cluj-Napoca 2015",
@@ -6711,7 +6711,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/seized-gold.png"
   },
   {
     "name": "Zeus | Cluj-Napoca 2015",
@@ -6738,7 +6738,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/zeus-gold.png"
   },
   {
     "name": "allu | Cluj-Napoca 2015",
@@ -6765,7 +6765,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/allu-gold.png"
   },
   {
     "name": "f0rest | Cluj-Napoca 2015",
@@ -6792,7 +6792,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/f0rest-gold.png"
   },
   {
     "name": "friberg | Cluj-Napoca 2015",
@@ -6819,7 +6819,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/friberg-gold.png"
   },
   {
     "name": "GeT_RiGhT | Cluj-Napoca 2015",
@@ -6846,7 +6846,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/getright-gold.png"
   },
   {
     "name": "Xizt | Cluj-Napoca 2015",
@@ -6873,7 +6873,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/xizt-gold.png"
   },
   {
     "name": "aizy | Cluj-Napoca 2015",
@@ -6900,7 +6900,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/aizy-gold.png"
   },
   {
     "name": "Kjaerbye | Cluj-Napoca 2015",
@@ -6927,7 +6927,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/kjaerbye-gold.png"
   },
   {
     "name": "MSL | Cluj-Napoca 2015",
@@ -6954,7 +6954,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/msl-gold.png"
   },
   {
     "name": "Pimp | Cluj-Napoca 2015",
@@ -6981,7 +6981,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/pimp-gold.png"
   },
   {
     "name": "tenzki | Cluj-Napoca 2015",
@@ -7008,7 +7008,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/tenzki-gold.png"
   },
   {
     "name": "adreN | Cluj-Napoca 2015",
@@ -7035,7 +7035,7 @@
     "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/adren-gold.png"
   },
   {
     "name": "EliGE | Cluj-Napoca 2015",
@@ -7062,7 +7062,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/elige-gold.png"
   },
   {
     "name": "FugLy | Cluj-Napoca 2015",
@@ -7089,7 +7089,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/fugly-gold.png"
   },
   {
     "name": "Hiko | Cluj-Napoca 2015",
@@ -7116,7 +7116,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/hiko-gold.png"
   },
   {
     "name": "nitr0 | Cluj-Napoca 2015",
@@ -7143,7 +7143,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/nitr0-gold.png"
   },
   {
     "name": "Ex6TenZ | Cluj-Napoca 2015",
@@ -7170,7 +7170,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/ex6tenz-gold.png"
   },
   {
     "name": "RpK | Cluj-Napoca 2015",
@@ -7197,7 +7197,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/rpk-gold.png"
   },
   {
     "name": "ScreaM | Cluj-Napoca 2015",
@@ -7224,7 +7224,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/scream-gold.png"
   },
   {
     "name": "shox | Cluj-Napoca 2015",
@@ -7251,7 +7251,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/shox-gold.png"
   },
   {
     "name": "SmithZz | Cluj-Napoca 2015",
@@ -7278,7 +7278,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/smithzz-gold.png"
   },
   {
     "name": "cajunb | Cluj-Napoca 2015",
@@ -7305,7 +7305,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/cajunb-gold.png"
   },
   {
     "name": "device | Cluj-Napoca 2015",
@@ -7332,7 +7332,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/device-gold.png"
   },
   {
     "name": "dupreeh | Cluj-Napoca 2015",
@@ -7359,7 +7359,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/dupreeh-gold.png"
   },
   {
     "name": "karrigan | Cluj-Napoca 2015",
@@ -7386,7 +7386,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/karrigan-gold.png"
   },
   {
     "name": "Xyp9x | Cluj-Napoca 2015",
@@ -7413,7 +7413,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/xyp9x-gold.png"
   },
   {
     "name": "Furlan | Cluj-Napoca 2015",
@@ -7440,7 +7440,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/furlan-gold.png"
   },
   {
     "name": "GruBy | Cluj-Napoca 2015",
@@ -7467,7 +7467,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/gruby-gold.png"
   },
   {
     "name": "Hyper | Cluj-Napoca 2015",
@@ -7494,7 +7494,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/hyper-gold.png"
   },
   {
     "name": "peet | Cluj-Napoca 2015",
@@ -7521,7 +7521,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/peet-gold.png"
   },
   {
     "name": "rallen | Cluj-Napoca 2015",
@@ -7548,7 +7548,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/rallen-gold.png"
   },
   {
     "name": "byali | Cluj-Napoca 2015",
@@ -7575,7 +7575,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/byali-gold.png"
   },
   {
     "name": "NEO | Cluj-Napoca 2015",
@@ -7602,7 +7602,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/neo-gold.png"
   },
   {
     "name": "pashaBiceps | Cluj-Napoca 2015",
@@ -7629,7 +7629,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/pashabiceps-gold.png"
   },
   {
     "name": "Snax | Cluj-Napoca 2015",
@@ -7656,7 +7656,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/snax-gold.png"
   },
   {
     "name": "TaZ | Cluj-Napoca 2015",
@@ -7683,7 +7683,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/taz-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Cluj-Napoca 2015",
@@ -7710,7 +7710,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/ninjasinpyjamas-gold.png"
   },
   {
     "name": "Team Dignitas | Cluj-Napoca 2015",
@@ -7737,7 +7737,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/teamdignitas-gold.png"
   },
   {
     "name": "Counter Logic Gaming | Cluj-Napoca 2015",
@@ -7764,7 +7764,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/counterlogicgaming-gold.png"
   },
   {
     "name": "Vexed Gaming | Cluj-Napoca 2015",
@@ -7791,7 +7791,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/vexedgaming-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Cluj-Napoca 2015",
@@ -7818,7 +7818,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/flipsid3tactics-gold.png"
   },
   {
     "name": "Team Liquid | Cluj-Napoca 2015",
@@ -7845,7 +7845,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/teamliquid-gold.png"
   },
   {
     "name": "mousesports | Cluj-Napoca 2015",
@@ -7872,7 +7872,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/mousesports-gold.png"
   },
   {
     "name": "Natus Vincere | Cluj-Napoca 2015",
@@ -7899,7 +7899,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/natusvincere-gold.png"
   },
   {
     "name": "Virtus.Pro | Cluj-Napoca 2015",
@@ -7926,7 +7926,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/virtuspro-gold.png"
   },
   {
     "name": "Cloud9 | Cluj-Napoca 2015",
@@ -7953,7 +7953,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/cloud9-gold.png"
   },
   {
     "name": "G2 Esports | Cluj-Napoca 2015",
@@ -7980,7 +7980,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/g2esports-gold.png"
   },
   {
     "name": "Titan | Cluj-Napoca 2015",
@@ -8007,7 +8007,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/titan-gold.png"
   },
   {
     "name": "Team SoloMid- | Cluj-Napoca 2015",
@@ -8034,7 +8034,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/teamsolomid-gold.png"
   },
   {
     "name": "Team EnVyUs | Cluj-Napoca 2015",
@@ -8061,7 +8061,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/teamenvyus-gold.png"
   },
   {
     "name": "Fnatic | Cluj-Napoca 2015",
@@ -8088,7 +8088,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/fnatic-gold.png"
   },
   {
     "name": "Luminosity Gaming | Cluj-Napoca 2015",
@@ -8115,7 +8115,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/luminositygaming-gold.png"
   },
   {
     "name": "DreamHack | Cluj-Napoca 2015",
@@ -8142,7 +8142,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 12255,
-    "Image": null
+    "Image": "/assets/img/items/stickers/clujnapoca2015/dreamhack-gold.png"
   },
   {
     "name": "Ivette",
@@ -8520,7 +8520,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/ninjasinpyjamas-gold.png"
   },
   {
     "name": "Splyce | MLG Columbus 2016",
@@ -8556,7 +8556,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/splyce-gold.png"
   },
   {
     "name": "Counter Logic Gaming | MLG Columbus 2016",
@@ -8592,7 +8592,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/counterlogicgaming-gold.png"
   },
   {
     "name": "Gambit Gaming | MLG Columbus 2016",
@@ -8628,7 +8628,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/gambitgaming-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | MLG Columbus 2016",
@@ -8664,7 +8664,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/flipsid3tactics-gold.png"
   },
   {
     "name": "Team Liquid | MLG Columbus 2016",
@@ -8700,7 +8700,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/teamliquid-gold.png"
   },
   {
     "name": "mousesports | MLG Columbus 2016",
@@ -8736,7 +8736,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/mousesports-gold.png"
   },
   {
     "name": "Natus Vincere | MLG Columbus 2016",
@@ -8772,7 +8772,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/natusvincere-gold.png"
   },
   {
     "name": "Virtus.Pro | MLG Columbus 2016",
@@ -8808,7 +8808,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/virtuspro-gold.png"
   },
   {
     "name": "Cloud9 | MLG Columbus 2016",
@@ -8844,7 +8844,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/cloud9-gold.png"
   },
   {
     "name": "G2 Esports | MLG Columbus 2016",
@@ -8880,7 +8880,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/g2esports-gold.png"
   },
   {
     "name": "FaZe Clan | MLG Columbus 2016",
@@ -8916,7 +8916,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fazeclan-gold.png"
   },
   {
     "name": "Astralis | MLG Columbus 2016",
@@ -8952,7 +8952,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/astralis-gold.png"
   },
   {
     "name": "Team EnVyUs | MLG Columbus 2016",
@@ -8988,7 +8988,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/teamenvyus-gold.png"
   },
   {
     "name": "Fnatic | MLG Columbus 2016",
@@ -9024,7 +9024,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fnatic-gold.png"
   },
   {
     "name": "Luminosity Gaming | MLG Columbus 2016",
@@ -9060,7 +9060,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/luminositygaming-gold.png"
   },
   {
     "name": "reltuC | MLG Columbus 2016",
@@ -9087,7 +9087,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/reltuc-gold.png"
   },
   {
     "name": "FugLy | MLG Columbus 2016",
@@ -9114,7 +9114,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fugly-gold.png"
   },
   {
     "name": "hazed | MLG Columbus 2016",
@@ -9141,7 +9141,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/hazed-gold.png"
   },
   {
     "name": "jdm64 | MLG Columbus 2016",
@@ -9168,7 +9168,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/jdm64-gold.png"
   },
   {
     "name": "tarik | MLG Columbus 2016",
@@ -9195,7 +9195,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/tarik-gold.png"
   },
   {
     "name": "freakazoid | MLG Columbus 2016",
@@ -9222,7 +9222,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/freakazoid-gold.png"
   },
   {
     "name": "Stewie2K | MLG Columbus 2016",
@@ -9249,7 +9249,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/stewie2k-gold.png"
   },
   {
     "name": "shroud | MLG Columbus 2016",
@@ -9276,7 +9276,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/shroud-gold.png"
   },
   {
     "name": "Skadoodle | MLG Columbus 2016",
@@ -9303,7 +9303,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/skadoodle-gold.png"
   },
   {
     "name": "n0thing | MLG Columbus 2016",
@@ -9330,7 +9330,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/n0thing-gold.png"
   },
   {
     "name": "apEX | MLG Columbus 2016",
@@ -9357,7 +9357,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/apex-gold.png"
   },
   {
     "name": "Happy | MLG Columbus 2016",
@@ -9384,7 +9384,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/happy-gold.png"
   },
   {
     "name": "DEVIL | MLG Columbus 2016",
@@ -9411,7 +9411,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/devil-gold.png"
   },
   {
     "name": "kennyS | MLG Columbus 2016",
@@ -9438,7 +9438,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/kennys-gold.png"
   },
   {
     "name": "NBK- | MLG Columbus 2016",
@@ -9465,7 +9465,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/nbk-gold.png"
   },
   {
     "name": "B1ad3 | MLG Columbus 2016",
@@ -9492,7 +9492,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/b1ad3-gold.png"
   },
   {
     "name": "bondik | MLG Columbus 2016",
@@ -9519,7 +9519,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/bondik-gold.png"
   },
   {
     "name": "Shara | MLG Columbus 2016",
@@ -9546,7 +9546,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/shara-gold.png"
   },
   {
     "name": "markeloff | MLG Columbus 2016",
@@ -9573,7 +9573,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/markeloff-gold.png"
   },
   {
     "name": "WorldEdit | MLG Columbus 2016",
@@ -9600,7 +9600,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/worldedit-gold.png"
   },
   {
     "name": "flusha | MLG Columbus 2016",
@@ -9627,7 +9627,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/flusha-gold.png"
   },
   {
     "name": "JW | MLG Columbus 2016",
@@ -9654,7 +9654,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/jw-gold.png"
   },
   {
     "name": "KRIMZ | MLG Columbus 2016",
@@ -9681,7 +9681,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/krimz-gold.png"
   },
   {
     "name": "olofmeister | MLG Columbus 2016",
@@ -9708,7 +9708,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/olofmeister-gold.png"
   },
   {
     "name": "dennis | MLG Columbus 2016",
@@ -9735,7 +9735,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/dennis-gold.png"
   },
   {
     "name": "aizy | MLG Columbus 2016",
@@ -9762,7 +9762,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/aizy-gold.png"
   },
   {
     "name": "fox | MLG Columbus 2016",
@@ -9789,7 +9789,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fox-gold.png"
   },
   {
     "name": "Maikelele | MLG Columbus 2016",
@@ -9816,7 +9816,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/maikelele-gold.png"
   },
   {
     "name": "rain | MLG Columbus 2016",
@@ -9843,7 +9843,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/rain-gold.png"
   },
   {
     "name": "jkaem | MLG Columbus 2016",
@@ -9870,7 +9870,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/jkaem-gold.png"
   },
   {
     "name": "fnx | MLG Columbus 2016",
@@ -9897,7 +9897,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fnx-gold.png"
   },
   {
     "name": "coldzera | MLG Columbus 2016",
@@ -9924,7 +9924,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/coldzera-gold.png"
   },
   {
     "name": "FalleN | MLG Columbus 2016",
@@ -9951,7 +9951,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fallen-gold.png"
   },
   {
     "name": "fer | MLG Columbus 2016",
@@ -9978,7 +9978,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/fer-gold.png"
   },
   {
     "name": "TACO | MLG Columbus 2016",
@@ -10005,7 +10005,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/taco-gold.png"
   },
   {
     "name": "chrisJ | MLG Columbus 2016",
@@ -10032,7 +10032,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/chrisj-gold.png"
   },
   {
     "name": "denis | MLG Columbus 2016",
@@ -10059,7 +10059,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/denis-gold.png"
   },
   {
     "name": "Spiidi | MLG Columbus 2016",
@@ -10086,7 +10086,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/spiidi-gold.png"
   },
   {
     "name": "nex | MLG Columbus 2016",
@@ -10113,7 +10113,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/nex-gold.png"
   },
   {
     "name": "NiKo | MLG Columbus 2016",
@@ -10140,7 +10140,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/niko-gold.png"
   },
   {
     "name": "Edward | MLG Columbus 2016",
@@ -10167,7 +10167,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/edward-gold.png"
   },
   {
     "name": "flamie | MLG Columbus 2016",
@@ -10194,7 +10194,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/flamie-gold.png"
   },
   {
     "name": "GuardiaN | MLG Columbus 2016",
@@ -10221,7 +10221,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/guardian-gold.png"
   },
   {
     "name": "seized | MLG Columbus 2016",
@@ -10248,7 +10248,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/seized-gold.png"
   },
   {
     "name": "Zeus | MLG Columbus 2016",
@@ -10275,7 +10275,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/zeus-gold.png"
   },
   {
     "name": "pyth | MLG Columbus 2016",
@@ -10302,7 +10302,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/pyth-gold.png"
   },
   {
     "name": "f0rest | MLG Columbus 2016",
@@ -10329,7 +10329,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/f0rest-gold.png"
   },
   {
     "name": "friberg | MLG Columbus 2016",
@@ -10356,7 +10356,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/friberg-gold.png"
   },
   {
     "name": "GeT_RiGhT | MLG Columbus 2016",
@@ -10383,7 +10383,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/getright-gold.png"
   },
   {
     "name": "Xizt | MLG Columbus 2016",
@@ -10410,7 +10410,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/xizt-gold.png"
   },
   {
     "name": "jasonR | MLG Columbus 2016",
@@ -10437,7 +10437,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/jasonr-gold.png"
   },
   {
     "name": "arya | MLG Columbus 2016",
@@ -10464,7 +10464,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/arya-gold.png"
   },
   {
     "name": "Professor_Chaos | MLG Columbus 2016",
@@ -10491,7 +10491,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/professorchaos-gold.png"
   },
   {
     "name": "DAVEY | MLG Columbus 2016",
@@ -10518,7 +10518,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/davey-gold.png"
   },
   {
     "name": "abE | MLG Columbus 2016",
@@ -10545,7 +10545,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/abe-gold.png"
   },
   {
     "name": "adreN | MLG Columbus 2016",
@@ -10572,7 +10572,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/adren-gold.png"
   },
   {
     "name": "EliGE | MLG Columbus 2016",
@@ -10599,7 +10599,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/elige-gold.png"
   },
   {
     "name": "s1mple | MLG Columbus 2016",
@@ -10626,7 +10626,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/s1mple-gold.png"
   },
   {
     "name": "Hiko | MLG Columbus 2016",
@@ -10653,7 +10653,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/hiko-gold.png"
   },
   {
     "name": "nitr0 | MLG Columbus 2016",
@@ -10680,7 +10680,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/nitr0-gold.png"
   },
   {
     "name": "Ex6TenZ | MLG Columbus 2016",
@@ -10707,7 +10707,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/ex6tenz-gold.png"
   },
   {
     "name": "RpK | MLG Columbus 2016",
@@ -10734,7 +10734,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/rpk-gold.png"
   },
   {
     "name": "ScreaM | MLG Columbus 2016",
@@ -10761,7 +10761,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/scream-gold.png"
   },
   {
     "name": "shox | MLG Columbus 2016",
@@ -10788,7 +10788,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/shox-gold.png"
   },
   {
     "name": "SmithZz | MLG Columbus 2016",
@@ -10815,7 +10815,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/smithzz-gold.png"
   },
   {
     "name": "cajunb | MLG Columbus 2016",
@@ -10842,7 +10842,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/cajunb-gold.png"
   },
   {
     "name": "device | MLG Columbus 2016",
@@ -10869,7 +10869,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/device-gold.png"
   },
   {
     "name": "dupreeh | MLG Columbus 2016",
@@ -10896,7 +10896,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/dupreeh-gold.png"
   },
   {
     "name": "karrigan | MLG Columbus 2016",
@@ -10923,7 +10923,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/karrigan-gold.png"
   },
   {
     "name": "Xyp9x | MLG Columbus 2016",
@@ -10950,7 +10950,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/xyp9x-gold.png"
   },
   {
     "name": "wayLander | MLG Columbus 2016",
@@ -10977,7 +10977,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/waylander-gold.png"
   },
   {
     "name": "Dosia | MLG Columbus 2016",
@@ -11004,7 +11004,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/dosia-gold.png"
   },
   {
     "name": "hooch | MLG Columbus 2016",
@@ -11031,7 +11031,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/hooch-gold.png"
   },
   {
     "name": "mou | MLG Columbus 2016",
@@ -11058,7 +11058,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/mou-gold.png"
   },
   {
     "name": "AdreN | MLG Columbus 2016",
@@ -11085,7 +11085,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/adren-gold.png"
   },
   {
     "name": "byali | MLG Columbus 2016",
@@ -11112,7 +11112,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/byali-gold.png"
   },
   {
     "name": "NEO | MLG Columbus 2016",
@@ -11139,7 +11139,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/neo-gold.png"
   },
   {
     "name": "pashaBiceps | MLG Columbus 2016",
@@ -11166,7 +11166,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/pashabiceps-gold.png"
   },
   {
     "name": "Snax | MLG Columbus 2016",
@@ -11193,7 +11193,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/snax-gold.png"
   },
   {
     "name": "TaZ | MLG Columbus 2016",
@@ -11220,7 +11220,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/mlgcolumbus2016/taz-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Cologne 2016",
@@ -11256,7 +11256,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/ninjasinpyjamas-gold.png"
   },
   {
     "name": "OpTic Gaming | Cologne 2016",
@@ -11292,7 +11292,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/opticgaming-gold.png"
   },
   {
     "name": "Counter Logic Gaming | Cologne 2016",
@@ -11328,7 +11328,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/counterlogicgaming-gold.png"
   },
   {
     "name": "Gambit Gaming | Cologne 2016",
@@ -11364,7 +11364,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/gambitgaming-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Cologne 2016",
@@ -11400,7 +11400,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/flipsid3tactics-gold.png"
   },
   {
     "name": "Team Liquid | Cologne 2016",
@@ -11436,7 +11436,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/teamliquid-gold.png"
   },
   {
     "name": "mousesports | Cologne 2016",
@@ -11472,7 +11472,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/mousesports-gold.png"
   },
   {
     "name": "Natus Vincere | Cologne 2016",
@@ -11508,7 +11508,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/natusvincere-gold.png"
   },
   {
     "name": "Virtus.Pro | Cologne 2016",
@@ -11544,7 +11544,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/virtuspro-gold.png"
   },
   {
     "name": "SK Gaming | Cologne 2016",
@@ -11580,7 +11580,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/skgaming-gold.png"
   },
   {
     "name": "G2 Esports | Cologne 2016",
@@ -11616,7 +11616,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/g2esports-gold.png"
   },
   {
     "name": "FaZe Clan | Cologne 2016",
@@ -11652,7 +11652,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/fazeclan-gold.png"
   },
   {
     "name": "Astralis | Cologne 2016",
@@ -11688,7 +11688,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/astralis-gold.png"
   },
   {
     "name": "Team EnVyUs | Cologne 2016",
@@ -11724,7 +11724,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/teamenvyus-gold.png"
   },
   {
     "name": "Fnatic | Cologne 2016",
@@ -11760,7 +11760,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/fnatic-gold.png"
   },
   {
     "name": "Team Dignitas | Cologne 2016",
@@ -11796,7 +11796,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/teamdignitas-gold.png"
   },
   {
     "name": "ESL | Cologne 2016",
@@ -11832,7 +11832,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 12256,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/esl-gold.png"
   },
   {
     "name": "reltuC | Cologne 2016",
@@ -11859,7 +11859,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/reltuc-gold.png"
   },
   {
     "name": "koosta | Cologne 2016",
@@ -11886,7 +11886,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/koosta-gold.png"
   },
   {
     "name": "hazed | Cologne 2016",
@@ -11913,7 +11913,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/hazed-gold.png"
   },
   {
     "name": "pita | Cologne 2016",
@@ -11940,7 +11940,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/pita-gold.png"
   },
   {
     "name": "tarik | Cologne 2016",
@@ -11967,7 +11967,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/tarik-gold.png"
   },
   {
     "name": "daps | Cologne 2016",
@@ -11994,7 +11994,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/daps-gold.png"
   },
   {
     "name": "mixwell | Cologne 2016",
@@ -12021,7 +12021,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/mixwell-gold.png"
   },
   {
     "name": "NAF | Cologne 2016",
@@ -12048,7 +12048,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/naf-gold.png"
   },
   {
     "name": "RUSH | Cologne 2016",
@@ -12075,7 +12075,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/rush-gold.png"
   },
   {
     "name": "stanislaw | Cologne 2016",
@@ -12102,7 +12102,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/stanislaw-gold.png"
   },
   {
     "name": "apEX | Cologne 2016",
@@ -12129,7 +12129,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/apex-gold.png"
   },
   {
     "name": "Happy | Cologne 2016",
@@ -12156,7 +12156,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/happy-gold.png"
   },
   {
     "name": "DEVIL | Cologne 2016",
@@ -12183,7 +12183,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/devil-gold.png"
   },
   {
     "name": "kennyS | Cologne 2016",
@@ -12210,7 +12210,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/kennys-gold.png"
   },
   {
     "name": "NBK- | Cologne 2016",
@@ -12237,7 +12237,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/nbk-gold.png"
   },
   {
     "name": "B1ad3 | Cologne 2016",
@@ -12264,7 +12264,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/b1ad3-gold.png"
   },
   {
     "name": "wayLander | Cologne 2016",
@@ -12291,7 +12291,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/waylander-gold.png"
   },
   {
     "name": "Shara | Cologne 2016",
@@ -12318,7 +12318,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/shara-gold.png"
   },
   {
     "name": "markeloff | Cologne 2016",
@@ -12345,7 +12345,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/markeloff-gold.png"
   },
   {
     "name": "WorldEdit | Cologne 2016",
@@ -12372,7 +12372,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/worldedit-gold.png"
   },
   {
     "name": "flusha | Cologne 2016",
@@ -12399,7 +12399,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/flusha-gold.png"
   },
   {
     "name": "JW | Cologne 2016",
@@ -12426,7 +12426,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/jw-gold.png"
   },
   {
     "name": "KRIMZ | Cologne 2016",
@@ -12453,7 +12453,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/krimz-gold.png"
   },
   {
     "name": "olofmeister | Cologne 2016",
@@ -12480,7 +12480,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/olofmeister-gold.png"
   },
   {
     "name": "dennis | Cologne 2016",
@@ -12507,7 +12507,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/dennis-gold.png"
   },
   {
     "name": "aizy | Cologne 2016",
@@ -12534,7 +12534,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/aizy-gold.png"
   },
   {
     "name": "fox | Cologne 2016",
@@ -12561,7 +12561,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/fox-gold.png"
   },
   {
     "name": "kioShiMa | Cologne 2016",
@@ -12588,7 +12588,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/kioshima-gold.png"
   },
   {
     "name": "rain | Cologne 2016",
@@ -12615,7 +12615,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/rain-gold.png"
   },
   {
     "name": "jkaem | Cologne 2016",
@@ -12642,7 +12642,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/jkaem-gold.png"
   },
   {
     "name": "coldzera | Cologne 2016",
@@ -12669,7 +12669,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/coldzera-gold.png"
   },
   {
     "name": "FalleN | Cologne 2016",
@@ -12696,7 +12696,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/fallen-gold.png"
   },
   {
     "name": "fer | Cologne 2016",
@@ -12723,7 +12723,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/fer-gold.png"
   },
   {
     "name": "fnx | Cologne 2016",
@@ -12750,7 +12750,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/fnx-gold.png"
   },
   {
     "name": "TACO | Cologne 2016",
@@ -12777,7 +12777,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/taco-gold.png"
   },
   {
     "name": "chrisJ | Cologne 2016",
@@ -12804,7 +12804,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/chrisj-gold.png"
   },
   {
     "name": "denis | Cologne 2016",
@@ -12831,7 +12831,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/denis-gold.png"
   },
   {
     "name": "Spiidi | Cologne 2016",
@@ -12858,7 +12858,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/spiidi-gold.png"
   },
   {
     "name": "nex | Cologne 2016",
@@ -12885,7 +12885,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/nex-gold.png"
   },
   {
     "name": "NiKo | Cologne 2016",
@@ -12912,7 +12912,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/niko-gold.png"
   },
   {
     "name": "Edward | Cologne 2016",
@@ -12939,7 +12939,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/edward-gold.png"
   },
   {
     "name": "flamie | Cologne 2016",
@@ -12966,7 +12966,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/flamie-gold.png"
   },
   {
     "name": "GuardiaN | Cologne 2016",
@@ -12993,7 +12993,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/guardian-gold.png"
   },
   {
     "name": "seized | Cologne 2016",
@@ -13020,7 +13020,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/seized-gold.png"
   },
   {
     "name": "Zeus | Cologne 2016",
@@ -13047,7 +13047,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/zeus-gold.png"
   },
   {
     "name": "pyth | Cologne 2016",
@@ -13083,7 +13083,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/pyth-gold.png"
   },
   {
     "name": "f0rest (Foil) | Cologne 2016",
@@ -13101,7 +13101,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/f0rest-gold.png"
   },
   {
     "name": "friberg | Cologne 2016",
@@ -13128,7 +13128,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/friberg-gold.png"
   },
   {
     "name": "GeT_RiGhT | Cologne 2016",
@@ -13155,7 +13155,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/getright-gold.png"
   },
   {
     "name": "Xizt | Cologne 2016",
@@ -13182,7 +13182,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/xizt-gold.png"
   },
   {
     "name": "cajunb | Cologne 2016",
@@ -13209,7 +13209,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/cajunb-gold.png"
   },
   {
     "name": "MSL | Cologne 2016",
@@ -13236,7 +13236,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/msl-gold.png"
   },
   {
     "name": "TENZKI | Cologne 2016",
@@ -13263,7 +13263,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/tenzki-gold.png"
   },
   {
     "name": "RUBINO | Cologne 2016",
@@ -13290,7 +13290,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/rubino-gold.png"
   },
   {
     "name": "k0nfig | Cologne 2016",
@@ -13317,7 +13317,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/k0nfig-gold.png"
   },
   {
     "name": "jdm64 | Cologne 2016",
@@ -13344,7 +13344,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/jdm64-gold.png"
   },
   {
     "name": "EliGE | Cologne 2016",
@@ -13371,7 +13371,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/elige-gold.png"
   },
   {
     "name": "s1mple | Cologne 2016",
@@ -13398,7 +13398,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/s1mple-gold.png"
   },
   {
     "name": "Hiko | Cologne 2016",
@@ -13425,7 +13425,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/hiko-gold.png"
   },
   {
     "name": "nitr0- | Cologne 2016",
@@ -13452,7 +13452,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/nitr0-gold.png"
   },
   {
     "name": "bodyy | Cologne 2016",
@@ -13479,7 +13479,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/bodyy-gold.png"
   },
   {
     "name": "RpK | Cologne 2016",
@@ -13506,7 +13506,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/rpk-gold.png"
   },
   {
     "name": "ScreaM | Cologne 2016",
@@ -13533,7 +13533,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/scream-gold.png"
   },
   {
     "name": "shox | Cologne 2016",
@@ -13560,7 +13560,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/shox-gold.png"
   },
   {
     "name": "SmithZz | Cologne 2016",
@@ -13587,7 +13587,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/smithzz-gold.png"
   },
   {
     "name": "gla1ve | Cologne 2016",
@@ -13614,7 +13614,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/gla1ve-gold.png"
   },
   {
     "name": "device | Cologne 2016",
@@ -13641,7 +13641,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/device-gold.png"
   },
   {
     "name": "dupreeh | Cologne 2016",
@@ -13668,7 +13668,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/dupreeh-gold.png"
   },
   {
     "name": "karrigan | Cologne 2016",
@@ -13695,7 +13695,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/karrigan-gold.png"
   },
   {
     "name": "Xyp9x | Cologne 2016",
@@ -13722,7 +13722,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/xyp9x-gold.png"
   },
   {
     "name": "spaze | Cologne 2016",
@@ -13749,7 +13749,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/spaze-gold.png"
   },
   {
     "name": "Dosia | Cologne 2016",
@@ -13776,7 +13776,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/dosia-gold.png"
   },
   {
     "name": "hooch | Cologne 2016",
@@ -13803,7 +13803,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/hooch-gold.png"
   },
   {
     "name": "mou | Cologne 2016",
@@ -13830,7 +13830,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/mou-gold.png"
   },
   {
     "name": "AdreN | Cologne 2016",
@@ -13857,7 +13857,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/adren-gold.png"
   },
   {
     "name": "byali | Cologne 2016",
@@ -13884,7 +13884,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/byali-gold.png"
   },
   {
     "name": "NEO | Cologne 2016",
@@ -13911,7 +13911,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/neo-gold.png"
   },
   {
     "name": "pashaBiceps | Cologne 2016",
@@ -13938,7 +13938,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/pashabiceps-gold.png"
   },
   {
     "name": "Snax | Cologne 2016",
@@ -13965,7 +13965,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/snax-gold.png"
   },
   {
     "name": "TaZ | Cologne 2016",
@@ -13992,7 +13992,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/cologne2016/taz-gold.png"
   },
   {
     "name": "Boris",
@@ -14280,7 +14280,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/astralis-gold.png"
   },
   {
     "name": "FaZe Clan | Atlanta 2017",
@@ -14316,7 +14316,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/fazeclan-gold.png"
   },
   {
     "name": "Flipsid3 | Atlanta 2017",
@@ -14352,7 +14352,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/flipsid3-gold.png"
   },
   {
     "name": "G2 Esports | Atlanta 2017",
@@ -14388,7 +14388,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/g2esports-gold.png"
   },
   {
     "name": "Gambit Gaming | Atlanta 2017",
@@ -14424,7 +14424,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/gambitgaming-gold.png"
   },
   {
     "name": "GODSENT | Atlanta 2017",
@@ -14460,7 +14460,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/godsent-gold.png"
   },
   {
     "name": "HellRaisers | Atlanta 2017",
@@ -14496,7 +14496,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/hellraisers-gold.png"
   },
   {
     "name": "mousesports | Atlanta 2017",
@@ -14532,7 +14532,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/mousesports-gold.png"
   },
   {
     "name": "Natus Vincere | Atlanta 2017",
@@ -14568,7 +14568,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/natusvincere-gold.png"
   },
   {
     "name": "North | Atlanta 2017",
@@ -14604,7 +14604,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/north-gold.png"
   },
   {
     "name": "OpTic Gaming | Atlanta 2017",
@@ -14640,7 +14640,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/opticgaming-gold.png"
   },
   {
     "name": "SK Gaming | Atlanta 2017",
@@ -14676,7 +14676,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/skgaming-gold.png"
   },
   {
     "name": "Team Liquid | Atlanta 2017",
@@ -14712,7 +14712,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/teamliquid-gold.png"
   },
   {
     "name": "Virtus.Pro | Atlanta 2017",
@@ -14748,7 +14748,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/virtuspro-gold.png"
   },
   {
     "name": "STYKO | Atlanta 2017",
@@ -14775,7 +14775,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/styko-gold.png"
   },
   {
     "name": "Zero | Atlanta 2017",
@@ -14802,7 +14802,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/zero-gold.png"
   },
   {
     "name": "bondik | Atlanta 2017",
@@ -14829,7 +14829,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/bondik-gold.png"
   },
   {
     "name": "ANGE1 | Atlanta 2017",
@@ -14856,7 +14856,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/ange1-gold.png"
   },
   {
     "name": "tarik | Atlanta 2017",
@@ -14883,7 +14883,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/tarik-gold.png"
   },
   {
     "name": "mixwell | Atlanta 2017",
@@ -14910,7 +14910,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/mixwell-gold.png"
   },
   {
     "name": "NAF | Atlanta 2017",
@@ -14937,7 +14937,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/naf-gold.png"
   },
   {
     "name": "RUSH | Atlanta 2017",
@@ -14964,7 +14964,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/rush-gold.png"
   },
   {
     "name": "stanislaw | Atlanta 2017",
@@ -14991,7 +14991,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/stanislaw-gold.png"
   },
   {
     "name": "apEX | Atlanta 2017",
@@ -15018,7 +15018,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/apex-gold.png"
   },
   {
     "name": "Happy | Atlanta 2017",
@@ -15045,7 +15045,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/happy-gold.png"
   },
   {
     "name": "SIXER | Atlanta 2017",
@@ -15072,7 +15072,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/sixer-gold.png"
   },
   {
     "name": "kennyS | Atlanta 2017",
@@ -15099,7 +15099,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/kennys-gold.png"
   },
   {
     "name": "NBK- | Atlanta 2017",
@@ -15126,7 +15126,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/nbk-gold.png"
   },
   {
     "name": "B1ad3 | Atlanta 2017",
@@ -15153,7 +15153,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/b1ad3-gold.png"
   },
   {
     "name": "wayLander | Atlanta 2017",
@@ -15180,7 +15180,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/waylander-gold.png"
   },
   {
     "name": "markeloff | Atlanta 2017",
@@ -15207,7 +15207,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/markeloff-gold.png"
   },
   {
     "name": "WorldEdit | Atlanta 2017",
@@ -15234,7 +15234,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/worldedit-gold.png"
   },
   {
     "name": "KRIMZ | Atlanta 2017",
@@ -15261,7 +15261,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/krimz-gold.png"
   },
   {
     "name": "olofmeister | Atlanta 2017",
@@ -15288,7 +15288,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/olofmeister-gold.png"
   },
   {
     "name": "aizy | Atlanta 2017",
@@ -15315,7 +15315,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/aizy-gold.png"
   },
   {
     "name": "allu | Atlanta 2017",
@@ -15342,7 +15342,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/allu-gold.png"
   },
   {
     "name": "kioShiMa | Atlanta 2017",
@@ -15369,7 +15369,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/kioshima-gold.png"
   },
   {
     "name": "rain | Atlanta 2017",
@@ -15396,7 +15396,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/rain-gold.png"
   },
   {
     "name": "karrigan | Atlanta 2017",
@@ -15423,7 +15423,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/karrigan-gold.png"
   },
   {
     "name": "coldzera | Atlanta 2017",
@@ -15450,7 +15450,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/coldzera-gold.png"
   },
   {
     "name": "TACO | Atlanta 2017",
@@ -15477,7 +15477,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/taco-gold.png"
   },
   {
     "name": "chrisJ | Atlanta 2017",
@@ -15504,7 +15504,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/chrisj-gold.png"
   },
   {
     "name": "denis | Atlanta 2017",
@@ -15531,7 +15531,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/denis-gold.png"
   },
   {
     "name": "Spiidi | Atlanta 2017",
@@ -15558,7 +15558,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/spiidi-gold.png"
   },
   {
     "name": "loWel | Atlanta 2017",
@@ -15585,7 +15585,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/lowel-gold.png"
   },
   {
     "name": "NiKo | Atlanta 2017",
@@ -15612,7 +15612,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/niko-gold.png"
   },
   {
     "name": "Edward | Atlanta 2017",
@@ -15639,7 +15639,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/edward-gold.png"
   },
   {
     "name": "GuardiaN | Atlanta 2017",
@@ -15666,7 +15666,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/guardian-gold.png"
   },
   {
     "name": "seized | Atlanta 2017",
@@ -15693,7 +15693,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/seized-gold.png"
   },
   {
     "name": "s1mple | Atlanta 2017",
@@ -15720,7 +15720,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/s1mple-gold.png"
   },
   {
     "name": "znajder | Atlanta 2017",
@@ -15747,7 +15747,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/znajder-gold.png"
   },
   {
     "name": "Lekr0 | Atlanta 2017",
@@ -15774,7 +15774,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/lekr0-gold.png"
   },
   {
     "name": "pronax | Atlanta 2017",
@@ -15801,7 +15801,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/pronax-gold.png"
   },
   {
     "name": "JW | Atlanta 2017",
@@ -15828,7 +15828,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/jw-gold.png"
   },
   {
     "name": "flusha | Atlanta 2017",
@@ -15855,7 +15855,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/flusha-gold.png"
   },
   {
     "name": "cajunb | Atlanta 2017",
@@ -15882,7 +15882,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/cajunb-gold.png"
   },
   {
     "name": "MSL | Atlanta 2017",
@@ -15909,7 +15909,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/msl-gold.png"
   },
   {
     "name": "Magisk | Atlanta 2017",
@@ -15936,7 +15936,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/magisk-gold.png"
   },
   {
     "name": "RUBINO | Atlanta 2017",
@@ -15963,7 +15963,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/rubino-gold.png"
   },
   {
     "name": "k0nfig | Atlanta 2017",
@@ -15990,7 +15990,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/k0nfig-gold.png"
   },
   {
     "name": "jdm64 | Atlanta 2017",
@@ -16017,7 +16017,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/jdm64-gold.png"
   },
   {
     "name": "Pimp | Atlanta 2017",
@@ -16044,7 +16044,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/pimp-gold.png"
   },
   {
     "name": "Hiko | Atlanta 2017",
@@ -16071,7 +16071,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/hiko-gold.png"
   },
   {
     "name": "nitr0 | Atlanta 2017",
@@ -16098,7 +16098,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/nitr0-gold.png"
   },
   {
     "name": "bodyy | Atlanta 2017",
@@ -16125,7 +16125,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/bodyy-gold.png"
   },
   {
     "name": "RpK | Atlanta 2017",
@@ -16152,7 +16152,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/rpk-gold.png"
   },
   {
     "name": "ScreaM | Atlanta 2017",
@@ -16179,7 +16179,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/scream-gold.png"
   },
   {
     "name": "shox | Atlanta 2017",
@@ -16206,7 +16206,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/shox-gold.png"
   },
   {
     "name": "SmithZz | Atlanta 2017",
@@ -16233,7 +16233,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/smithzz-gold.png"
   },
   {
     "name": "gla1ve | Atlanta 2017",
@@ -16260,7 +16260,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/gla1ve-gold.png"
   },
   {
     "name": "Kjaerbye | Atlanta 2017",
@@ -16287,7 +16287,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/kjaerbye-gold.png"
   },
   {
     "name": "Xyp9x | Atlanta 2017",
@@ -16314,7 +16314,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/xyp9x-gold.png"
   },
   {
     "name": "Zeus | Atlanta 2017",
@@ -16341,7 +16341,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/zeus-gold.png"
   },
   {
     "name": "Hobbit | Atlanta 2017",
@@ -16368,7 +16368,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/hobbit-gold.png"
   },
   {
     "name": "AdreN | Atlanta 2017",
@@ -16395,7 +16395,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/adren-gold.png"
   },
   {
     "name": "byali | Atlanta 2017",
@@ -16422,7 +16422,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/byali-gold.png"
   },
   {
     "name": "NEO | Atlanta 2017",
@@ -16449,7 +16449,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/neo-gold.png"
   },
   {
     "name": "pashaBiceps | Atlanta 2017",
@@ -16476,7 +16476,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/pashabiceps-gold.png"
   },
   {
     "name": "Snax | Atlanta 2017",
@@ -16503,7 +16503,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/snax-gold.png"
   },
   {
     "name": "TaZ | Atlanta 2017",
@@ -16530,7 +16530,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/atlanta2017/taz-gold.png"
   },
   {
     "name": "Astralis | Krakow 2017",
@@ -16566,7 +16566,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/astralis-gold.png"
   },
   {
     "name": "Virtus.Pro | Krakow 2017",
@@ -16602,7 +16602,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/virtuspro-gold.png"
   },
   {
     "name": "Fnatic | Krakow 2017",
@@ -16638,7 +16638,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/fnatic-gold.png"
   },
   {
     "name": "SK Gaming | Krakow 2017",
@@ -16674,7 +16674,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/skgaming-gold.png"
   },
   {
     "name": "Natus Vincere | Krakow 2017",
@@ -16710,7 +16710,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/natusvincere-gold.png"
   },
   {
     "name": "Gambit | Krakow 2017",
@@ -16746,7 +16746,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/gambit-gold.png"
   },
   {
     "name": "North | Krakow 2017",
@@ -16782,7 +16782,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/north-gold.png"
   },
   {
     "name": "FaZe Clan | Krakow 2017",
@@ -16818,7 +16818,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/fazeclan-gold.png"
   },
   {
     "name": "mousesports | Krakow 2017",
@@ -16854,7 +16854,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/mousesports-gold.png"
   },
   {
     "name": "G2 Esports | Krakow 2017",
@@ -16890,7 +16890,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/g2esports-gold.png"
   },
   {
     "name": "BIG | Krakow 2017",
@@ -16926,7 +16926,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/big-gold.png"
   },
   {
     "name": "Cloud9 | Krakow 2017",
@@ -16962,7 +16962,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/cloud9-gold.png"
   },
   {
     "name": "PENTA Sports | Krakow 2017",
@@ -16998,7 +16998,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/pentasports-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Krakow 2017",
@@ -17034,7 +17034,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/flipsid3tactics-gold.png"
   },
   {
     "name": "Immortals | Krakow 2017",
@@ -17070,7 +17070,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/immortals-gold.png"
   },
   {
     "name": "Vega Squadron | Krakow 2017",
@@ -17106,7 +17106,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/krakow2017/vegasquadron-gold.png"
   },
   {
     "name": "device | Krakow 2017",
@@ -19563,7 +19563,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/gambitesports-gold.png"
   },
   {
     "name": "100 Thieves | Boston 2018",
@@ -19599,7 +19599,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/100thieves-gold.png"
   },
   {
     "name": "Astralis | Boston 2018",
@@ -19635,7 +19635,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/astralis-gold.png"
   },
   {
     "name": "Virtus.Pro | Boston 2018",
@@ -19671,7 +19671,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/virtuspro-gold.png"
   },
   {
     "name": "Fnatic | Boston 2018",
@@ -19707,7 +19707,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/fnatic-gold.png"
   },
   {
     "name": "SK Gaming | Boston 2018",
@@ -19743,7 +19743,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/skgaming-gold.png"
   },
   {
     "name": "BIG | Boston 2018",
@@ -19779,7 +19779,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/big-gold.png"
   },
   {
     "name": "North | Boston 2018",
@@ -19815,7 +19815,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/north-gold.png"
   },
   {
     "name": "G2 Esports | Boston 2018",
@@ -19851,7 +19851,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/g2esports-gold.png"
   },
   {
     "name": "Cloud9 | Boston 2018",
@@ -19887,7 +19887,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/cloud9-gold.png"
   },
   {
     "name": "Flipsid3 Tactics | Boston 2018",
@@ -19923,7 +19923,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/flipsid3tactics-gold.png"
   },
   {
     "name": "Natus Vincere | Boston 2018",
@@ -19959,7 +19959,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/natusvincere-gold.png"
   },
   {
     "name": "mousesports | Boston 2018",
@@ -19995,7 +19995,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/mousesports-gold.png"
   },
   {
     "name": "Sprout Esports | Boston 2018",
@@ -20031,7 +20031,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/sproutesports-gold.png"
   },
   {
     "name": "FaZe Clan | Boston 2018",
@@ -20067,7 +20067,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/fazeclan-gold.png"
   },
   {
     "name": "Vega Squadron | Boston 2018",
@@ -20103,7 +20103,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/vegasquadron-gold.png"
   },
   {
     "name": "Space Soldiers | Boston 2018",
@@ -20139,7 +20139,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/spacesoldiers-gold.png"
   },
   {
     "name": "Team Liquid | Boston 2018",
@@ -20175,7 +20175,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/teamliquid-gold.png"
   },
   {
     "name": "Avangar | Boston 2018",
@@ -20211,7 +20211,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/avangar-gold.png"
   },
   {
     "name": "Renegades | Boston 2018",
@@ -20247,7 +20247,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/renegades-gold.png"
   },
   {
     "name": "Team EnVyUs | Boston 2018",
@@ -20283,7 +20283,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/teamenvyus-gold.png"
   },
   {
     "name": "Misfits Gaming | Boston 2018",
@@ -20319,7 +20319,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/misfitsgaming-gold.png"
   },
   {
     "name": "Quantum Bellator Fire | Boston 2018",
@@ -20355,7 +20355,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/quantumbellatorfire-gold.png"
   },
   {
     "name": "Tyloo | Boston 2018",
@@ -20391,7 +20391,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/tyloo-gold.png"
   },
   {
     "name": "ELEAGUE | Boston 2018",
@@ -20427,7 +20427,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 3340,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/eleague-gold.png"
   },
   {
     "name": "AdreN | Boston 2018",
@@ -23829,7 +23829,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/boston2018/flashgaming-gold.png"
   },
   {
     "name": "Attacker | Boston 2018",
@@ -24000,7 +24000,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/cloud9-gold.png"
   },
   {
     "name": "FaZe Clan | London 2018",
@@ -24036,7 +24036,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/fazeclan-gold.png"
   },
   {
     "name": "Natus Vincere | London 2018",
@@ -24072,7 +24072,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/natusvincere-gold.png"
   },
   {
     "name": "MIBR | London 2018",
@@ -24108,7 +24108,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/mibr-gold.png"
   },
   {
     "name": "mousesports | London 2018",
@@ -24144,7 +24144,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/mousesports-gold.png"
   },
   {
     "name": "Winstrike Team | London 2018",
@@ -24180,7 +24180,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/winstriketeam-gold.png"
   },
   {
     "name": "G2 Esports | London 2018",
@@ -24216,7 +24216,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/g2esports-gold.png"
   },
   {
     "name": "Fnatic | London 2018",
@@ -24252,7 +24252,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/fnatic-gold.png"
   },
   {
     "name": "Gambit Esports | London 2018",
@@ -24288,7 +24288,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/gambitesports-gold.png"
   },
   {
     "name": "Vega Squadron | London 2018",
@@ -24324,7 +24324,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/vegasquadron-gold.png"
   },
   {
     "name": "Space Soldiers | London 2018",
@@ -24360,7 +24360,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/spacesoldiers-gold.png"
   },
   {
     "name": "BIG | London 2018",
@@ -24396,7 +24396,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/big-gold.png"
   },
   {
     "name": "Astralis | London 2018",
@@ -24432,7 +24432,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/astralis-gold.png"
   },
   {
     "name": "Team Liquid | London 2018",
@@ -24468,7 +24468,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/teamliquid-gold.png"
   },
   {
     "name": "North | London 2018",
@@ -24504,7 +24504,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/north-gold.png"
   },
   {
     "name": "Virtus.Pro | London 2018",
@@ -24540,7 +24540,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/virtuspro-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | London 2018",
@@ -24576,7 +24576,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/ninjasinpyjamas-gold.png"
   },
   {
     "name": "compLexity Gaming | London 2018",
@@ -24612,7 +24612,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/complexitygaming-gold.png"
   },
   {
     "name": "HellRaisers | London 2018",
@@ -24648,7 +24648,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/hellraisers-gold.png"
   },
   {
     "name": "Renegades | London 2018",
@@ -24684,7 +24684,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/renegades-gold.png"
   },
   {
     "name": "OpTic Gaming | London 2018",
@@ -24720,7 +24720,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/opticgaming-gold.png"
   },
   {
     "name": "Rogue | London 2018",
@@ -24756,7 +24756,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/rogue-gold.png"
   },
   {
     "name": "Team Spirit | London 2018",
@@ -24792,7 +24792,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/teamspirit-gold.png"
   },
   {
     "name": "Tyloo | London 2018",
@@ -24828,7 +24828,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/tyloo-gold.png"
   },
   {
     "name": "FACEIT | London 2018",
@@ -24864,7 +24864,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/london2018/faceit-gold.png"
   },
   {
     "name": "Golden | London 2018",
@@ -28302,7 +28302,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/astralis-gold.png"
   },
   {
     "name": "Avangar | Katowice 2019",
@@ -28338,7 +28338,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/avangar-gold.png"
   },
   {
     "name": "BIG | Katowice 2019",
@@ -28374,7 +28374,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/big-gold.png"
   },
   {
     "name": "Cloud9 | Katowice 2019",
@@ -28410,7 +28410,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/cloud9-gold.png"
   },
   {
     "name": "compLexity Gaming | Katowice 2019",
@@ -28446,7 +28446,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/complexitygaming-gold.png"
   },
   {
     "name": "ENCE | Katowice 2019",
@@ -28482,7 +28482,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/ence-gold.png"
   },
   {
     "name": "FaZe Clan | Katowice 2019",
@@ -28518,7 +28518,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/fazeclan-gold.png"
   },
   {
     "name": "Fnatic | Katowice 2019",
@@ -28554,7 +28554,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/fnatic-gold.png"
   },
   {
     "name": "FURIA | Katowice 2019",
@@ -28590,7 +28590,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/furia-gold.png"
   },
   {
     "name": "G2 Esports | Katowice 2019",
@@ -28626,7 +28626,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/g2esports-gold.png"
   },
   {
     "name": "Grayhound Gaming | Katowice 2019",
@@ -28662,7 +28662,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/grayhoundgaming-gold.png"
   },
   {
     "name": "HellRaisers | Katowice 2019",
@@ -28698,7 +28698,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/hellraisers-gold.png"
   },
   {
     "name": "MIBR | Katowice 2019",
@@ -28734,7 +28734,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/mibr-gold.png"
   },
   {
     "name": "Natus Vincere | Katowice 2019",
@@ -28770,7 +28770,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/natusvincere-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Katowice 2019",
@@ -28806,7 +28806,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/ninjasinpyjamas-gold.png"
   },
   {
     "name": "NRG | Katowice 2019",
@@ -28842,7 +28842,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/nrg-gold.png"
   },
   {
     "name": "Renegades | Katowice 2019",
@@ -28878,7 +28878,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/renegades-gold.png"
   },
   {
     "name": "Team Liquid | Katowice 2019",
@@ -28914,7 +28914,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/teamliquid-gold.png"
   },
   {
     "name": "Team Spirit | Katowice 2019",
@@ -28950,7 +28950,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/teamspirit-gold.png"
   },
   {
     "name": "Tyloo | Katowice 2019",
@@ -28986,7 +28986,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/tyloo-gold.png"
   },
   {
     "name": "Vega Squadron | Katowice 2019",
@@ -29022,7 +29022,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/vegasquadron-gold.png"
   },
   {
     "name": "ViCi Gaming | Katowice 2019",
@@ -29058,7 +29058,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/vicigaming-gold.png"
   },
   {
     "name": "Vitality | Katowice 2019",
@@ -29094,7 +29094,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/vitality-gold.png"
   },
   {
     "name": "Winstrike Team | Katowice 2019",
@@ -29130,7 +29130,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/winstriketeam-gold.png"
   },
   {
     "name": "IEM | Katowice 2019",
@@ -29166,7 +29166,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/katowice2019/iem-gold.png"
   },
   {
     "name": "Magisk | Katowice 2019",
@@ -32757,7 +32757,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/astralis-gold.png"
   },
   {
     "name": "ENCE | Berlin 2019",
@@ -32793,7 +32793,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/ence-gold.png"
   },
   {
     "name": "MIBR | Berlin 2019",
@@ -32829,7 +32829,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/mibr-gold.png"
   },
   {
     "name": "Natus Vincere | Berlin 2019",
@@ -32865,7 +32865,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/natusvincere-gold.png"
   },
   {
     "name": "Ninjas in Pyjamas | Berlin 2019",
@@ -32901,7 +32901,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/ninjasinpyjamas-gold.png"
   },
   {
     "name": "FaZe Clan | Berlin 2019",
@@ -32937,7 +32937,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/fazeclan-gold.png"
   },
   {
     "name": "Team Liquid | Berlin 2019",
@@ -32973,7 +32973,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/teamliquid-gold.png"
   },
   {
     "name": "Renegades | Berlin 2019",
@@ -33009,7 +33009,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/renegades-gold.png"
   },
   {
     "name": "compLexity Gaming | Berlin 2019",
@@ -33045,7 +33045,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/complexitygaming-gold.png"
   },
   {
     "name": "HellRaisers | Berlin 2019",
@@ -33081,7 +33081,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/hellraisers-gold.png"
   },
   {
     "name": "Avangar | Berlin 2019",
@@ -33117,7 +33117,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/avangar-gold.png"
   },
   {
     "name": "G2 Esports | Berlin 2019",
@@ -33153,7 +33153,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/g2esports-gold.png"
   },
   {
     "name": "Vitality | Berlin 2019",
@@ -33189,7 +33189,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/vitality-gold.png"
   },
   {
     "name": "Grayhound Gaming | Berlin 2019",
@@ -33225,7 +33225,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/grayhoundgaming-gold.png"
   },
   {
     "name": "mousesports | Berlin 2019",
@@ -33261,7 +33261,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/mousesports-gold.png"
   },
   {
     "name": "forZe eSports | Berlin 2019",
@@ -33297,7 +33297,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/forzeesports-gold.png"
   },
   {
     "name": "NRG | Berlin 2019",
@@ -33333,7 +33333,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/nrg-gold.png"
   },
   {
     "name": "Tyloo | Berlin 2019",
@@ -33369,7 +33369,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/tyloo-gold.png"
   },
   {
     "name": "FURIA | Berlin 2019",
@@ -33405,7 +33405,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/furia-gold.png"
   },
   {
     "name": "CR4ZY | Berlin 2019",
@@ -33441,7 +33441,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/cr4zy-gold.png"
   },
   {
     "name": "Syman Gaming | Berlin 2019",
@@ -33477,7 +33477,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/symangaming-gold.png"
   },
   {
     "name": "North | Berlin 2019",
@@ -33513,7 +33513,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/north-gold.png"
   },
   {
     "name": "DreamEaters | Berlin 2019",
@@ -33549,7 +33549,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/dreameaters-gold.png"
   },
   {
     "name": "INTZ E-SPORTS CLUB | Berlin 2019",
@@ -33585,7 +33585,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/intzesportsclub-gold.png"
   },
   {
     "name": "StarLadder | Berlin 2019",
@@ -33621,7 +33621,7 @@
     "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": 10701,
-    "Image": null
+    "Image": "/assets/img/items/stickers/berlin2019/starladder-gold.png"
   },
   {
     "name": "Magisk | Berlin 2019",
