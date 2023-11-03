@@ -304,5 +304,167 @@
     "BuffGoodsId": 40054,
     "BuffStickerId": 965,
     "Image": "/assets/img/items/stickers/katowice2014/eslwolf-foil.png"
+  },
+  {
+    "name": "3DMAX (Foil) | Katowice 2014",
+    "gen_id": 83,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/3dmax-foil.png"
+  },
+  {
+    "name": "compLexity Gaming (Foil) | Katowice 2014",
+    "gen_id": 84,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/complexitygaming-foil.png"
+  },
+  {
+    "name": "Team Dignitas (Foil) | Katowice 2014",
+    "gen_id": 85,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/teamdignitas-foil.png"
+  },
+  {
+    "name": "Fnatic (Foil) | Katowice 2014",
+    "gen_id": 86,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/fnatic-foil.png"
+  },
+  {
+    "name": "HellRaisers (Foil) | Katowice 2014",
+    "gen_id": 87,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/hellraisers-foil.png"
+  },
+  {
+    "name": "iBUYPOWER (Foil) | Katowice 2014",
+    "gen_id": 88,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/ibuypower-foil.png"
+  },
+  {
+    "name": "Team LDLC.com (Foil) | Katowice 2014",
+    "gen_id": 89,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/teamldlccom-foil.png"
+  },
+  {
+    "name": "LGB eSports (Foil) | Katowice 2014",
+    "gen_id": 90,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/lgbesports-foil.png"
+  },
+  {
+    "name": "mousesports (Foil) | Katowice 2014",
+    "gen_id": 91,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/mousesports-foil.png"
+  },
+  {
+    "name": "Clan-Mystik (Foil) | Katowice 2014",
+    "gen_id": 92,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/clanmystik-foil.png"
+  },
+  {
+    "name": "Natus Vincere (Foil) | Katowice 2014",
+    "gen_id": 93,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/natusvincere-foil.png"
+  },
+  {
+    "name": "Natus Vincere (Foil) | Katowice 2014",
+    "gen_id": 94,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/ninjasinpyjamas-foil.png"
+  },
+  {
+    "name": "Reason Gaming (Foil) | Katowice 2014",
+    "gen_id": 95,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/reasongaming-foil.png"
+  },
+  {
+    "name": "Titan (Foil) | Katowice 2014",
+    "gen_id": 96,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/titan-foil.png"
+  },
+  {
+    "name": "Virtus.Pro (Foil) | Katowice 2014",
+    "gen_id": 97,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/virtuspro-foil.png"
+  },
+  {
+    "name": "Vox Eminor (Foil) | Katowice 2014",
+    "gen_id": 98,
+    "tournament": "Katowice 2014",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/voxeminor-foil.png"
+  },
+  {
+    "name": "ESL Wolf (Gold) | Katowice 2014",
+    "gen_id": 99,
+    "tournament": "Katowice 2014",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/eslwolf-gold.png"
+  },
+  {
+    "name": "ESL Skull (Gold) | Katowice 2014",
+    "gen_id": 100,
+    "tournament": "Katowice 2014",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/katowice2014/eslskull-gold.png"
   }
 ]
