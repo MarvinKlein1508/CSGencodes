@@ -19782,6 +19782,20 @@
     "RarityId": 1
   },
   {
+    "name": "M4A4 | Red DDPAT",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 926,
+    "collection": "The 2021 Dust 2 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the2021dust2collection/m4a4-redddpat.png",
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 4
+  },
+  {
     "name": "AUG | Spalted Wood",
     "min_wear": 0,
     "max_wear": 0.48,
@@ -19794,20 +19808,6 @@
     "IsKnife": false,
     "StickerSlotsAmount": 4,
     "RarityId": 2
-  },
-  {
-    "name": "M4A4 | Red DDPAT",
-    "min_wear": 0,
-    "max_wear": 0.5,
-    "trade_up": true,
-    "weapon_id": 16,
-    "gen_id": 928,
-    "collection": "The 2021 Dust 2 Collection",
-    "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/the2021dust2collection/m4a4-redddpat.png",
-    "IsKnife": false,
-    "StickerSlotsAmount": 4,
-    "RarityId": 4
   },
   {
     "name": "Nova | Quick Sand",
