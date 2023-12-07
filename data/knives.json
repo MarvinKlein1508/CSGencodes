@@ -126,6 +126,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri (Vanilla)",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 0,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet (Vanilla)",
     "min_wear": 0,
     "max_wear": 1,
@@ -515,6 +529,34 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Forest DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 5,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 5,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -924,6 +966,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Crimson Web",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 12,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Crimson Web",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -1190,6 +1246,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 38,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Fade",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -1442,6 +1512,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Night",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 40,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Night",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -1607,6 +1691,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 42,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -1876,6 +1974,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 43,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Stained",
     "min_wear": 0,
     "max_wear": 1,
@@ -2139,6 +2251,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Case Hardened",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 44,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -2408,6 +2534,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Slaughter",
+    "min_wear": 0.01,
+    "max_wear": 0.26,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 59,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Slaughter",
     "min_wear": 0.01,
     "max_wear": 0.26,
@@ -2671,6 +2811,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 72,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -2940,6 +3094,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 77,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Boreal Forest",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -3203,6 +3371,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 98,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -3472,6 +3654,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Urban Masked",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 143,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Urban Masked",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -3735,6 +3931,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 409,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -4004,6 +4214,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 410,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Damascus Steel",
     "min_wear": 0,
     "max_wear": 0.5,
@@ -4267,6 +4491,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 413,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -4536,6 +4774,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 414,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Rust Coat",
     "min_wear": 0.4,
     "max_wear": 1,
@@ -4799,6 +5051,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 415,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -5068,6 +5334,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 416,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Doppler (Saphire)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -5331,6 +5611,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 417,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -5600,6 +5894,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 418,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Doppler (Phase 1)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -5863,6 +6171,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 419,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -6132,6 +6454,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 420,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Doppler (Phase 3)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -6395,6 +6731,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 421,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -6664,6 +7014,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Lore",
+    "min_wear": 0,
+    "max_wear": 0.65,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 558,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "Navaja | Lore",
     "min_wear": 0,
     "max_wear": 1,
@@ -6927,6 +7291,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Black Laminate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 563,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -7196,6 +7574,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 568,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Gamma Doppler (Emerald)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -7459,6 +7851,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 569,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -7728,6 +8134,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 570,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Gamma Doppler (Phase 2)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -7991,6 +8411,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 571,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -8260,6 +8694,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 572,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Gamma Doppler (Phase 4)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -8523,6 +8971,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Autotronic",
+    "min_wear": 0,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 573,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
@@ -8792,6 +9254,20 @@
     "RarityId": 6
   },
   {
+    "name": "Kukri | Bright Water",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 578,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
+    "RarityId": 6
+  },
+  {
     "name": "M9-Bayonet | Bright Water",
     "min_wear": 0,
     "max_wear": 0.5,
@@ -9055,6 +9531,20 @@
     "Image": null,
     "IsKnife": true,
     "StickerSlotsAmount": 0,
+    "RarityId": 6
+  },
+  {
+    "name": "Kukri | Freehand",
+    "min_wear": 0,
+    "max_wear": 0.48,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 580,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": null,
+    "IsKnife": false,
+    "StickerSlotsAmount": 4,
     "RarityId": 6
   },
   {
