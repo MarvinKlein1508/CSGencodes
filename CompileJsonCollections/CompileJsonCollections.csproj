@@ -547,6 +547,9 @@
   
 
   <ItemGroup>
+    <None Update="data\collections\KnivesKukri.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="data\collections\KnivesBayonet.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -602,6 +605,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="data\collections\KnivesUrsus.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="data\knives\Kukri.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="data\knives\Classic.json">

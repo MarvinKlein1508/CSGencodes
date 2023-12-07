@@ -29,6 +29,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="wwwroot\assets\img\items\knives\kukri\" />
 	  <Folder Include="wwwroot\assets\img\items\stickers\Antwerp2022\" />
 	  <Folder Include="wwwroot\assets\img\items\stickers\BrokenFangStickerCollection\" />
 	  <Folder Include="wwwroot\assets\img\items\stickers\ChickenCapsule\" />
