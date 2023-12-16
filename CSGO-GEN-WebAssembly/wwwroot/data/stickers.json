@@ -44325,6 +44325,24 @@
     "Image": "/assets/img/items/stickers/antwerp2022/karrigan-glitter.png"
   },
   {
+    "name": "karrigan (Holo) | Antwerp 2022",
+    "gen_id": 5502,
+    "tournament": "Antwerp 2022",
+    "rarity": "Exotic",
+    "BuffGoodsId": 895407,
+    "BuffStickerId": 16989,
+    "Image": "/assets/img/items/stickers/antwerp2022/karrigan-holo.png"
+  },
+  {
+    "name": "karrigan (Gold) | Antwerp 2022",
+    "gen_id": 5503,
+    "tournament": "Antwerp 2022",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": 895593,
+    "BuffStickerId": 17141,
+    "Image": "/assets/img/items/stickers/antwerp2022/karrigan-gold.png"
+  },
+  {
     "name": "Twistzz | Antwerp 2022",
     "gen_id": 5504,
     "tournament": "Antwerp 2022",
@@ -47025,15 +47043,6 @@
     "Image": "/assets/img/items/stickers/antwerp2022/kabal-holo.png"
   },
   {
-    "name": "karrigan (Holo) | Antwerp 2022",
-    "gen_id": 5802,
-    "tournament": "Antwerp 2022",
-    "rarity": "Exotic",
-    "BuffGoodsId": 895407,
-    "BuffStickerId": 16989,
-    "Image": "/assets/img/items/stickers/antwerp2022/karrigan-holo.png"
-  },
-  {
     "name": "kabal (Gold) | Antwerp 2022",
     "gen_id": 5803,
     "tournament": "Antwerp 2022",
@@ -47041,15 +47050,6 @@
     "BuffGoodsId": 895603,
     "BuffStickerId": 17145,
     "Image": "/assets/img/items/stickers/antwerp2022/kabal-gold.png"
-  },
-  {
-    "name": "karrigan (Gold) | Antwerp 2022",
-    "gen_id": 5803,
-    "tournament": "Antwerp 2022",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 895593,
-    "BuffStickerId": 17141,
-    "Image": "/assets/img/items/stickers/antwerp2022/karrigan-gold.png"
   },
   {
     "name": "nin9 | Antwerp 2022",
