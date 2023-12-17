@@ -1,7 +1,7 @@
 {
   "entryAssembly": "CSGO-GEN-WebAssembly",
   "resources": {
-    "hash": "sha256-wDDiUdHzD5DfnpVmBBOkQjdeu5M2R2cEN0K/YX5i0qw=",
+    "hash": "sha256-JZgD4mPvK5q/qqnjmIRDrnuBP3qXrYewhEJDZwNogak=",
     "runtime": {
       "dotnet.7.0.14.mikshhdjmu.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -11,8 +11,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CSGO-GEN-WebAssembly.dll": "sha256-9tLo+9fCZgN5UjnE1u1XrxCZinMPqoy0kHBomX1J9+A=",
-      "CSGO-GEN.Core.dll": "sha256-5YeugcDR4nCMZSQt2NctXMEBh+RXJ4NRxTcCZlmoqkg=",
+      "CSGO-GEN-WebAssembly.dll": "sha256-LsqYu6Z6uPGTRbqFRNa/uce0/vtD6VpFc4OZ+xvbuZE=",
+      "CSGO-GEN.Core.dll": "sha256-nb5/1pfRz9pgOO6V0iSUcpHwk4vIBIiRzrKnv0VP+I4=",
       "Google.Protobuf.dll": "sha256-vXzppkFXQAosihKcal3zrERivmx00zCTNK48VnrhURc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-RiYFa2D4HFpvSuI1rGAQ6/CPfh5awqOTZsKIN+vHAE4=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-V9/lhZTksEf7JzWCF27wDEvimpme0Do/BsExqNedpks=",
