@@ -119,8 +119,13 @@
 <div class="selected-sticker-wrapper py-14 py-md-17">
     @foreach (var sticker in SelectedStickers)
     {
+        if (SelectedWeapon is not null && SelectedWeapon.StickerSlotsAmount != 5 && sticker.PosId == 4)
+        {
+            continue;
+        }
+
         <div class="selected-sticker">
-            <h5>@sticker.name (Pos: @sticker.PosId)</h5>
+            <h5>@sticker.name (Pos: @(sticker.PosId + 1))</h5>
             @if (!string.IsNullOrWhiteSpace(sticker.Image))
             {
                 <div class="d-flex justify-content-center align-items-center">
@@ -142,11 +147,14 @@
                                          ValueChanged="(value) => OnStickerPosChanged(value, sticker)"
                                          ValueExpression="() => sticker.PosId"
                                          class="form-select" id="@($"selected-sticker-position{sticker.GetHashCode()}")" aria-placeholder="Position">
-                                <option value="0">0</option>
-                                <option value="1">1</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
+                                <option value="0">1</option>
+                                <option value="1">2</option>
+                                <option value="2">3</option>
+                                <option value="3">4</option>
+                                @if (SelectedWeapon is not null && SelectedWeapon.StickerSlotsAmount is 5)
+                                {
+                                    <option value="4">5</option>
+                                }
                             </InputSelect>
                             <label for="@($"selected-sticker-position{sticker.GetHashCode()}")">Position</label>
                         </div>
