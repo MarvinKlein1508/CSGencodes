@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace CSGO_GEN.Core.Utilities
+namespace CSGencodes.Core.Utilities
 {
     /// <summary>
     /// Crc32 class for calculating the CRC32 checksum 

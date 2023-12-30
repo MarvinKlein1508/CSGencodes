@@ -1,12 +1,11 @@
-using CSGO_GEN.Core.Models;
-using CSGO_GEN.Core.Services;
-using CSGO_GEN_WebAssembly;
+using CSGencodes.Core.Models;
+using CSGencodes.Core.Services;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Plk.Blazor.DragDrop;
 using System.Net.Http.Json;
 
-namespace CSGO_GEN_WebAssembly
+namespace CSGencodes
 {
     public class Program
     {

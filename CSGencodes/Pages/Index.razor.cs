@@ -1,11 +1,9 @@
-using CSGO_GEN.Core.Filters;
-using CSGO_GEN.Core.Models;
-using Microsoft.AspNetCore.Components;
-using Microsoft.Extensions.Primitives;
+using CSGencodes.Core.Filters;
+using CSGencodes.Core.Models;
 using System.Text;
 using System.Web;
 
-namespace CSGO_GEN_WebAssembly.Pages
+namespace CSGencodes.Pages
 {
     public partial class Index
     {

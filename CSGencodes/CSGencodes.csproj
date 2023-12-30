@@ -1,22 +1,22 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
 	<PropertyGroup>
-		<TargetFramework>net7.0</TargetFramework>
+		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<GHPagesBase>/</GHPagesBase>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="blazor-dragdrop" Version="2.4.0" />
-		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.5" />
-		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.5" PrivateAssets="all" />
-		<PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
-		<PackageReference Include="PublishSPAforGitHubPages.Build" Version="2.0.2" />
+		<PackageReference Include="blazor-dragdrop" Version="2.6.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.0" PrivateAssets="all" />
+		<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+		<PackageReference Include="PublishSPAforGitHubPages.Build" Version="2.1.1" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\CSGO-GEN.Core\CSGO-GEN.Core.csproj" />
+		<ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSGO_GEN.Core.Models
+namespace CSGencodes.Core.Models
 {
     public class Sticker : IGenable, IBuffDetails
     {

@@ -19,13 +19,13 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 7.0.x
+        dotnet-version: 8.0.x
     - name: Restore dependencies
       run: dotnet restore
     - name: Install .NET WASM Build Tools
       run: dotnet workload install wasm-tools
     - name: Publish .NET Core Project
-      run: dotnet publish CSGO-GEN-WebAssembly/CSGO-GEN-WebAssembly.csproj -c:Release -p:GHPages=true -o dist/Web --nologo
+      run: dotnet publish CSGencodes/CSGencodes.csproj -c:Release -p:GHPages=true -o dist/Web --nologo
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
