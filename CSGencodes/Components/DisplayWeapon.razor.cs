@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Components;
-using CSGO_GEN.Core.Models;
+using CSGencodes.Core.Models;
 using System.Diagnostics.CodeAnalysis;
 
-namespace CSGO_GEN_WebAssembly.Components
+namespace CSGencodes.Components
 {
     public partial class DisplayWeapon
     {

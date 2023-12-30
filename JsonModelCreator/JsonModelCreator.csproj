@@ -23,7 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CompileJsonCollections\CompileJsonCollections.csproj" />
-    <ProjectReference Include="..\CSGO-GEN.Core\CSGO-GEN.Core.csproj" />
+    <ProjectReference Include="..\CSGO-GEN.Core\CSGencodes.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>

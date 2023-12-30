@@ -16,7 +16,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\CSGO-GEN.Core\CSGO-GEN.Core.csproj" />
+		<ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

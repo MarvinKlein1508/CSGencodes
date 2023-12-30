@@ -1,4 +1,4 @@
-﻿namespace CSGO_GEN.Core.Models
+﻿namespace CSGencodes.Core.Models
 {
     public interface IGenable
     {

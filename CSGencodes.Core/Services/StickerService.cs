@@ -1,8 +1,7 @@
-﻿using CSGO_GEN.Core.Filters;
-using CSGO_GEN.Core.Models;
-using System.Text.Json;
+﻿using CSGencodes.Core.Filters;
+using CSGencodes.Core.Models;
 
-namespace CSGO_GEN.Core.Services
+namespace CSGencodes.Core.Services
 {
     public class StickerService
     {
