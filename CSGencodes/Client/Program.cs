@@ -2,7 +2,6 @@ using CSGencodes.Core.Models;
 using CSGencodes.Core.Services;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using Plk.Blazor.DragDrop;
 using System.Net.Http.Json;
 
 namespace CSGencodes
@@ -37,7 +36,6 @@ namespace CSGencodes
             builder.Services.AddScoped<WeaponService>();
             builder.Services.AddScoped<StickerService>();
             builder.Services.AddScoped<InspectLinkService>();
-            builder.Services.AddBlazorDragDrop();
 
             await builder.Build().RunAsync();
         }
