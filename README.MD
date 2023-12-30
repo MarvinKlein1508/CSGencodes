@@ -1,4 +1,29 @@
-# Weapon IDS
+# CSGencodes
+A super easy tool to create gencodes and inspect links to inspect any craft in Counter Strike 2.
+
+
+## Why should I use CSGencodes instead any site?
+
+Compared to other sites we offer a large variety of features which you can only get on CSGencodes. 
+
+- MP5 skins
+- 5x sticker crafts
+- Sticker scratching
+- Position selection
+- Skin & sticker previews on search
+- Knives
+- Fully integrated search for Steam market, csfloat, Buff163 & Skinport for all stickers in the game
+- Custom floats & patterns
+- Inspect skin without server
+- Search in any order. For example you can search both for "stockholm 2021" or "2021 stockholm"
+- Keep selected stickers when switching skin
+- Automatically keeps track of min & max floats for a skin
+- We collect no data from you and don't serve any ads. All data will be processed locally.
+
+
+
+
+## Weapon IDS
 |Weapon-ID|Weapon|
 |---------|------|
 |1|Desert Eagle|
@@ -36,7 +61,7 @@
 |63|CZ75-Auto|
 |64|R8 Revolver|
 
-# Knife IDS
+## Knife IDS
 |Weapon-ID|Knife|
 |---------|------|
 |41|Golden Knife (T)|
@@ -61,3 +86,4 @@
 |522|Stiletto|
 |523|Talon|
 |525|Skeleton|
+|526|Kukri|

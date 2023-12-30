@@ -541,7 +541,7 @@
   
 
   <ItemGroup>
-    <ProjectReference Include="..\CSGO-GEN.Core\CSGencodes.Core.csproj" />
+    <ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
   </ItemGroup>
 
   

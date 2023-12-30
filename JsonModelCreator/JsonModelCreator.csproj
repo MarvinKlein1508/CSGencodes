@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(TargetDir)\&quot;" />
+    <Exec Command="dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net8.0/publish/CompileJsonCollections.exe&quot; &quot;$(TargetDir)\&quot;" />
   </Target>
 
   <ItemGroup>
@@ -23,7 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CompileJsonCollections\CompileJsonCollections.csproj" />
-    <ProjectReference Include="..\CSGO-GEN.Core\CSGencodes.Core.csproj" />
+    <ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
