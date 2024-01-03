@@ -1,0 +1,92 @@
+[
+  {
+    "name": "All-Stars Orange (Holo)",
+    "gen_id": 1315,
+    "tournament": "Tournament",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 3457,
+    "Image": "/assets/img/items/stickers/tournament_assets/allstarsorange-holo.png"
+  },
+  {
+    "name": "All-Stars Blue (Holo)",
+    "gen_id": 1316,
+    "tournament": "Tournament",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 3458,
+    "Image": "/assets/img/items/stickers/tournament_assets/allstarsblue-holo.png"
+  },
+  {
+    "name": "Ancient (Gold)",
+    "gen_id": 1689,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16323,
+    "Image": "/assets/img/items/stickers/tournament_assets/ancient-gold.png"
+  },
+  {
+    "name": "Dust 2 (Gold)",
+    "gen_id": 1690,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16324,
+    "Image": "/assets/img/items/stickers/tournament_assets/dust2-gold.png"
+  },
+  {
+    "name": "Inferno (Gold)",
+    "gen_id": 1691,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16317,
+    "Image": "/assets/img/items/stickers/tournament_assets/inferno-gold.png"
+  },
+  {
+    "name": "Mirage (Gold)",
+    "gen_id": 1692,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16321,
+    "Image": "/assets/img/items/stickers/tournament_assets/mirage-gold.png"
+  },
+  {
+    "name": "Nuke (Gold)",
+    "gen_id": 1693,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16316,
+    "Image": "/assets/img/items/stickers/tournament_assets/nuke-gold.png"
+  },
+  {
+    "name": "Overpass (Gold)",
+    "gen_id": 1694,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16318,
+    "Image": "/assets/img/items/stickers/tournament_assets/overpass-gold.png"
+  },
+  {
+    "name": "Vertigo (Gold)",
+    "gen_id": 1695,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 16320,
+    "Image": "/assets/img/items/stickers/tournament_assets/vertigo-gold.png"
+  },
+  {
+    "name": "Anubis (Gold)",
+    "gen_id": 6607,
+    "tournament": "Tournament",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 18885,
+    "Image": "/assets/img/items/stickers/tournament_assets/anubis-gold.png"
+  }
+]

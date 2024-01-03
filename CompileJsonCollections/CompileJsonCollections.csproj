@@ -140,6 +140,7 @@
     <None Remove="data\stickers\Sugarface.json" />
     <None Remove="data\stickers\Teamroles.json" />
     <None Remove="data\stickers\TheBoardroom.json" />
+    <None Remove="data\stickers\tournament_assets.json" />
     <None Remove="data\stickers\Warhammer.json" />
   </ItemGroup>
 
@@ -403,6 +404,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Brokenfang.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\tournament_assets.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Chicken.json">
