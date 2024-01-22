@@ -1,0 +1,163 @@
+/* _content/Blazor.Bootstrap/Components/Form/AutoComplete/AutoComplete.razor.rz.scp.css */
+.autocomplete[b-zkhsnlgtvk] {
+}
+
+    .autocomplete > .input-group > input[b-zkhsnlgtvk] {
+        border-top-right-radius: 0.25rem !important;
+        border-bottom-right-radius: 0.25rem !important;
+        padding-right: 2.75rem !important;
+    }
+
+.autocomplete-list[b-zkhsnlgtvk] {
+    max-height: 200px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.autocomplete-item:focus[b-zkhsnlgtvk], .autocomplete-item:hover[b-zkhsnlgtvk] {
+    color: #1e2125;
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+
+
+.dropdown-item:focus[b-zkhsnlgtvk], .dropdown-item:hover[b-zkhsnlgtvk] {
+    cursor: pointer;
+}
+
+.dropdown-item-highlight[b-zkhsnlgtvk] {
+    color: #1e2125;
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+/* _content/Blazor.Bootstrap/Components/Sidebar/Sidebar.razor.rz.scp.css */
+.bb-sidebar[b-h9l5f7lx3r] {
+    background-color: var(--bb-sidebar-background-color);
+}
+
+    .bb-sidebar.collapsed[b-h9l5f7lx3r] {
+        width: var(--bb-sidebar-collapsed-width);
+    }
+
+        .bb-sidebar.collapsed .expanded-only[b-h9l5f7lx3r] {
+            display: none;
+        }
+
+@media (min-width: 641px) {
+    .bb-sidebar[b-h9l5f7lx3r] {
+        width: var(--bb-sidebar-width);
+        position: sticky;
+        top: 0;
+    }
+}
+
+.navbar-toggler[b-h9l5f7lx3r] {
+    background-color: var(--bb-sidebar-navbar-toggler-background-color);
+    color: rgb(var(--bb-sidebar-nav-item-text-active-color-rgb));
+    padding: inherit !important;
+    padding-right: 0.25rem !important;
+    padding-left: 0.25rem !important;
+    line-height: inherit !important;
+    font-size: inherit !important;
+}
+
+.navbar-toggler-icon[b-h9l5f7lx3r] {
+    background-image: inherit !important;
+    color: var(--bb-sidebar-navbar-toggler-icon-color) !important;
+}
+
+.navbar-toggler:focus[b-h9l5f7lx3r] {
+    box-shadow: none !important;
+}
+
+.bb-sidebar-top-row[b-h9l5f7lx3r] {
+    height: 3.5rem;
+    background-color: var(--bb-sidebar-top-row-background-color);
+    border-bottom: 1px solid var(--bb-sidebar-top-row-border-color);
+    border-right: 1px solid var(--bb-sidebar-top-row-border-color);
+}
+
+.bb-sidebar-content[b-h9l5f7lx3r] {
+    border-right: 1px solid var(--bb-sidebar-content-border-color);
+}
+
+.navbar-brand[b-h9l5f7lx3r] {
+    font-size: 1.1rem;
+}
+
+.navbar-brand-icon[b-h9l5f7lx3r] {
+    color: var(--bb-sidebar-brand-icon-color);
+}
+
+.navbar-brand-image[b-h9l5f7lx3r] {
+    height: var(--bb-sidebar-brand-image-height);
+}
+
+    .navbar-brand-image img[b-h9l5f7lx3r] {
+        width: var(--bb-sidebar-brand-image-width);
+        height: var(--bb-sidebar-brand-image-height);
+        vertical-align: initial !important;
+    }
+
+.navbar-brand-text[b-h9l5f7lx3r] {
+    color: var(--bb-sidebar-title-text-color);
+    font-weight: 600 !important;
+}
+
+.navbar-brand-badge[b-h9l5f7lx3r] {
+    color: var(--bb-sidebar-title-badge-text-color);
+    background-color: var(--bb-sidebar-title-badge-background-color);
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-h9l5f7lx3r] {
+        display: none;
+    }
+
+    .collapse[b-h9l5f7lx3r] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+
+    .nav-scrollable[b-h9l5f7lx3r] {
+        /* Allow sidebar to scroll for tall menus */
+        height: calc(100vh - 3.5rem);
+        overflow-y: auto;
+    }
+}
+/* _content/Blazor.Bootstrap/Components/Sidebar/SidebarItem.razor.rz.scp.css */
+.bb-sidebar.collapsed .expanded-only[b-jbgvk8pcne] {
+    display: none;
+}
+
+.bb-sidebar.collapsed .bi.expanded-only[b-jbgvk8pcne] {
+    display: none !important;
+}
+
+.bb-sidebar .nav-link-icon[b-jbgvk8pcne] {
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.bb-sidebar nav .nav-item[b-jbgvk8pcne]  a {
+    color: var(--bb-sidebar-nav-item-text-color);
+    align-items: center;
+    padding: 0.5rem 1rem;
+}
+
+    .bb-sidebar nav .nav-item[b-jbgvk8pcne]  a:hover {
+        background-color: var(--bb-sidebar-nav-item-background-hover-color);
+        color: var(--bb-sidebar-nav-item-text-hover-color);
+    }
+
+    .bb-sidebar nav .nav-item[b-jbgvk8pcne]  a.active {
+        background-color: var(--bb-sidebar-nav-item-background-hover-color);
+        color: var(--bb-sidebar-nav-item-text-active-color);
+        font-weight: 600;
+    }
+
+/* MDN REFERENCE: https://developer.mozilla.org/en-US/docs/Web/CSS/:has#browser_compatibility */
+.bb-sidebar nav .nav-item.nav-item-group:has(.nav-link.active)[b-jbgvk8pcne] {
+    background-color: var(--bb-sidebar-nav-item-group-background-color);
+}
+/* _content/Blazor.Bootstrap/Components/Sidebar/SidebarItemGroup.razor.rz.scp.css */
