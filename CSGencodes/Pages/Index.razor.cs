@@ -74,7 +74,7 @@ namespace CSGencodes.Pages
                 {
                     var searchSticker = SelectedStickers.FirstOrDefault(x => x.PosId == posId);
 
-                    if(searchSticker is null)
+                    if (searchSticker is null)
                     {
                         SelectedStickers.Add(new AppliedSticker(sticker, posId));
                         SortSelectedStickers();
@@ -172,6 +172,16 @@ namespace CSGencodes.Pages
 
         }
 
+        private void RemoveLastSticker()
+        {
+            if (SelectedStickers.Count == 5 && SelectedWeapon?.StickerSlotsAmount == 4)
+            {
+                SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
+            }
+
+            SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
+
+        }
 
         private void OnStickerPosChanged(int newPos, AppliedSticker sticker)
         {
