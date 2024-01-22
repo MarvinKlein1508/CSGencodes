@@ -172,15 +172,6 @@ namespace CSGencodes.Pages
 
         }
 
-        private void OnStickerDrop(AppliedSticker sticker)
-        {
-            int counter = 0;
-            foreach (var item in SelectedStickers)
-            {
-                item.PosId = counter;
-                counter++;
-            }
-        }
 
         private void OnStickerPosChanged(int newPos, AppliedSticker sticker)
         {
