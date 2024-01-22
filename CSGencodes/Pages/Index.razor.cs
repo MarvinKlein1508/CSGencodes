@@ -14,7 +14,7 @@ namespace CSGencodes.Pages
         public StickerFilter StickerFilter { get; set; } = new();
         public Weapon? SelectedWeapon { get; set; }
 
-        public List<AppliedSticker> SelectedStickers { get; set; } = new();
+        public List<AppliedSticker> SelectedStickers { get; set; } = [];
 
 
         public decimal Float
@@ -63,7 +63,6 @@ namespace CSGencodes.Pages
         private void OnWeaponClicked(Weapon weapon)
         {
             SelectedWeapon = weapon;
-            Float = Float;
         }
 
         private void OnStickerClicked(Sticker sticker)
@@ -90,7 +89,7 @@ namespace CSGencodes.Pages
         /// <returns></returns>
         private string GetSteamMarketUrl()
         {
-            if (!SelectedStickers.Any())
+            if (SelectedStickers.Count == 0)
             {
                 return string.Empty;
             }
@@ -110,7 +109,7 @@ namespace CSGencodes.Pages
 
         private string GetSkinportUrl()
         {
-            if (!SelectedStickers.Any())
+            if (SelectedStickers.Count == 0)
             {
                 return string.Empty;
             }
@@ -144,7 +143,7 @@ namespace CSGencodes.Pages
                 parameters.Add($"paintIndex={SelectedWeapon.gen_id}");
             }
 
-            if (SelectedStickers.Any())
+            if (SelectedStickers.Count != 0)
             {
                 // Example: [{"i":"5015"},{"i":"5015"},{"i":"5015"},{"i":"5015"}]
                 var stickers = SelectedStickers.Take(4);
@@ -159,7 +158,7 @@ namespace CSGencodes.Pages
             }
 
 
-            if (!parameters.Any())
+            if (parameters.Count == 0)
             {
                 return string.Empty;
             }
@@ -205,8 +204,8 @@ namespace CSGencodes.Pages
         private string? GetBuff163Url()
         {
             // Example: https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids=16226,16226,16226,16226  
-            List<int> searchIds = new();
-            if (SelectedStickers.Any())
+            List<int> searchIds = [];
+            if (SelectedStickers.Count != 0)
             {
                 foreach (var sticker in SelectedStickers)
                 {
@@ -217,7 +216,7 @@ namespace CSGencodes.Pages
                 }
             }
 
-            if (!searchIds.Any())
+            if (searchIds.Count == 0)
             {
                 return null;
             }
