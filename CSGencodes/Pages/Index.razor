@@ -31,13 +31,13 @@
 
                 <div class="weapon-wrapper">
                     <div class="form-floating mb-3">
-                        <input type="text" @bind="WeaponFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search weapon" id="search-weapon" />
+                        <input type="text" @bind="Settings.WeaponFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search weapon" id="search-weapon" />
                         <label for="search-weapon">Search weapon</label>
                     </div>
-                    @if (weaponService.SearchWeapon(WeaponFilter).Any())
+                    @if (weaponService.SearchWeapon(Settings.WeaponFilter).Any())
                     {
                         <div class="item-wrapper">
-                            @foreach (var weapon in weaponService.SearchWeapon(WeaponFilter))
+                            @foreach (var weapon in weaponService.SearchWeapon(Settings.WeaponFilter))
                             {
                                 <DisplayWeapon Weapon="weapon" OnClick="OnWeaponClicked" />
                             }
@@ -48,13 +48,13 @@
 
                 <div class="sticker-wrapper">
                     <div class="form-floating mb-3">
-                        <input type="text" @bind="StickerFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search stickers" id="search-stickers" />
+                        <input type="text" @bind="Settings.StickerFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search stickers" id="search-stickers" />
                         <label for="search-stickers">Search stickers</label>
                     </div>
-                    @if (stickerService.SearchSticker(StickerFilter).Any())
+                    @if (stickerService.SearchSticker(Settings.StickerFilter).Any())
                     {
                         <div class="item-wrapper">
-                            @foreach (var sticker in stickerService.SearchSticker(StickerFilter))
+                            @foreach (var sticker in stickerService.SearchSticker(Settings.StickerFilter))
                             {
                                 <DisplaySticker Sticker="sticker" OnClick="OnStickerClicked" />
                             }
@@ -70,13 +70,6 @@
                     <div class="form-floating mb-3">
                         <input type="number" @bind="Pattern" class="form-control" step="1" max="1000" min="0" placeholder="Pattern" id="pattern" />
                         <label for="pattern">Pattern</label>
-                    </div>
-
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" @bind="WeaponFilter.IncludeKnives" id="filter-include-knives">
-                        <label class="form-check-label" for="filter-include-knives">
-                            Include knives in search results
-                        </label>
                     </div>
 
 

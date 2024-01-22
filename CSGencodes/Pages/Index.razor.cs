@@ -1,5 +1,7 @@
 using CSGencodes.Core.Filters;
 using CSGencodes.Core.Models;
+using Google.Protobuf.WellKnownTypes;
+using Microsoft.AspNetCore.Components;
 using System.Text;
 using System.Web;
 
@@ -10,8 +12,8 @@ namespace CSGencodes.Pages
         private decimal _float = 0.01m;
         private int _pattern = 661;
 
-        public WeaponFilter WeaponFilter { get; set; } = new();
-        public StickerFilter StickerFilter { get; set; } = new();
+        [CascadingParameter]
+        public CSGencodesSettings Settings { get; set; } = default!;
         public Weapon? SelectedWeapon { get; set; }
 
         public List<AppliedSticker> SelectedStickers { get; set; } = [];
@@ -22,21 +24,21 @@ namespace CSGencodes.Pages
             get => _float;
             set
             {
+                _float = value;
 
-                decimal min_float = SelectedWeapon?.min_wear ?? 0m;
-                decimal max_float = SelectedWeapon?.max_wear ?? 1m;
+                if (Settings.MinMaxFloats)
+                {
+                    decimal min_float = SelectedWeapon?.min_wear ?? 0m;
+                    decimal max_float = SelectedWeapon?.max_wear ?? 1m;
 
-                if (value <= min_float)
-                {
-                    _float = min_float;
-                }
-                else if (value > max_float)
-                {
-                    _float = max_float;
-                }
-                else
-                {
-                    _float = value;
+                    if (value <= min_float)
+                    {
+                        _float = min_float;
+                    }
+                    else if (value > max_float)
+                    {
+                        _float = max_float;
+                    }
                 }
             }
         }
@@ -63,6 +65,18 @@ namespace CSGencodes.Pages
         private void OnWeaponClicked(Weapon weapon)
         {
             SelectedWeapon = weapon;
+
+            if(Settings.MinMaxFloats)
+            {
+                if (Float <= weapon.min_wear)
+                {
+                    _float = weapon.min_wear;
+                }
+                else if (Float > weapon.max_wear)
+                {
+                    _float = weapon.max_wear;
+                }
+            }
         }
 
         private void OnStickerClicked(Sticker sticker)

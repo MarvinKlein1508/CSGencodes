@@ -36,6 +36,7 @@ namespace CSGencodes
             builder.Services.AddScoped<WeaponService>();
             builder.Services.AddScoped<StickerService>();
             builder.Services.AddScoped<InspectLinkService>();
+            builder.Services.AddBlazorBootstrap();
 
             await builder.Build().RunAsync();
         }

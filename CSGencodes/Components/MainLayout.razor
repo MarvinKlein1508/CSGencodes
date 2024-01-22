@@ -6,11 +6,19 @@
             <a class="navbar-brand" href="#">
                 <img src="/assets/img/logo/logo.png" alt="CS2 Gencodes">
             </a>
+
+            <div class="navbar-menu">
+                <button type="button" class="btn btn-default" @onclick="async () => await _settingsModal.ShowAsync()">
+                    <i class="fa-solid fa-gear"></i>
+                </button>
+            </div>
         </div>
     </nav>
 
     <main class="container-fluid pt-3">
-        @Body
+        <CascadingValue Value="_settings">
+            @Body
+        </CascadingValue>
     </main>
 
     <footer class="bg-body-tertiary p-4">
@@ -49,3 +57,16 @@
     </footer>
 
 </div>
+
+<Modal @ref="_settingsModal" Title="Settings" ModalType="ModalType.Dark" CloseIconColor="IconColor.Light">
+    <BodyTemplate>
+        <Switch @bind-Value="_settings.MinMaxFloats" Label="Apply Min & Max floats when weapon switches" />
+        <Switch @bind-Value="_settings.WeaponFilter.IncludeKnives" Label="Include knives in search results" />
+    </BodyTemplate>
+</Modal>
+
+@code {
+    private Modal _settingsModal = default!;
+
+    private CSGencodesSettings _settings = new();
+}
