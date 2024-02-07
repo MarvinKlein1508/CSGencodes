@@ -90,6 +90,7 @@
     <None Remove="data\knifes\Bayonet.json" />
     <None Remove="data\stickers\10YearBirthday.json" />
     <None Remove="data\stickers\2021Community.json" />
+    <None Remove="data\stickers\Ambush.json" />
     <None Remove="data\stickers\antwerp2022.json" />
     <None Remove="data\stickers\Atlanta2017.json" />
     <None Remove="data\stickers\battlefield2042.json" />
@@ -408,6 +409,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Brokenfang.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\Ambush.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\tournament_assets.json">
