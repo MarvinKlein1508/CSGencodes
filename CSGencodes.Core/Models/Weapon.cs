@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace CSGencodes.Core.Models
@@ -29,7 +30,7 @@ namespace CSGencodes.Core.Models
             41 or 42 or 59 or 500 or 503 or 505 or 506 or 507 or 508 or 509 or 512 or 514 or 515 or 516 or 517 or 518 or 519 or 520 or 521 or 522 or 523 or 525 => 0,
             _ => 5
         };
-
+        [JsonIgnore]
         public int RarityId => rarity switch
         {
             "Consumer" => 1,
