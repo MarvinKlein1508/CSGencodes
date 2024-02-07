@@ -18,6 +18,7 @@ namespace CSGencodes.Core.Services
             proto.Defindex = (uint)weapon.weapon_id;
             proto.Paintindex = (uint)weapon.gen_id;
             proto.Paintseed = (uint)pattern;
+            
             byte[] paintWearBytes = BitConverter.GetBytes((float)@float);
             //Array.Reverse(paintWearBytes); // Convert to big-endian
             proto.Paintwear = BitConverter.ToUInt32(paintWearBytes, 0);
@@ -32,6 +33,7 @@ namespace CSGencodes.Core.Services
                         Slot = (uint)sticker.PosId,
                         StickerId = (uint)sticker.gen_id,
                         Wear = (float)sticker.Scratched,
+                        Rotation = (float)sticker.Rotation,
                     };
                     proto.Stickers.Add(proto_sticker);
                 }
