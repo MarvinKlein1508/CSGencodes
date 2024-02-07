@@ -180,20 +180,11 @@ namespace CSGencodes.Pages
             sb.Append(string.Join("&", parameters));
 
             return sb.ToString();
-
-
-
         }
 
         private void RemoveLastSticker()
         {
-            if (SelectedStickers.Count == 5 && SelectedWeapon?.StickerSlotsAmount == 4)
-            {
-                SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
-            }
-
             SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
-
         }
 
         private void OnStickerPosChanged(int newPos, AppliedSticker sticker)
