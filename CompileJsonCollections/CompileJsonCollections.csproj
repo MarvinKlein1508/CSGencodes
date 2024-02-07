@@ -56,6 +56,7 @@
     <None Remove="data\collections\Hydra.json" />
     <None Remove="data\collections\Inferno.json" />
     <None Remove="data\collections\Italy.json" />
+    <None Remove="data\collections\Kilowatt.json" />
     <None Remove="data\collections\Lake.json" />
     <None Remove="data\collections\Militia.json" />
     <None Remove="data\collections\Mirage.json" />
@@ -206,6 +207,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\collections\Brokenfang.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\collections\Kilowatt.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\collections\Xray.json">

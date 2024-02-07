@@ -48,6 +48,7 @@ Compared to other sites we offer a large variety of features which you can only 
 |28|Negev|
 |29|Sawed-Off|
 |30|Tec-9|
+|31|Zeus|
 |32|P2000|
 |33|MP7|
 |34|MP9|
@@ -87,3 +88,17 @@ Compared to other sites we offer a large variety of features which you can only 
 |523|Talon|
 |525|Skeleton|
 |526|Kukri|
+
+## Rarities
+
+| ID | Name             | Color      |
+|----|------------------|------------|
+| 0  | Stock            | Gray       |
+| 1  | Consumer Grade   | Gray       |
+| 2  | Industrial Grade | Light Blue |
+| 3  | Mil-Spec Grade   | Blue       |
+| 4  | Restricted       | Purple     |
+| 5  | Classified       | Pink       |
+| 6  | Covert           | Red        |
+| 7  | Contraband       | Gold       |
+| 99 |                  | Gold       |
