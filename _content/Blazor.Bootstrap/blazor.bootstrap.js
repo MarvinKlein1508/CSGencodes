@@ -236,15 +236,15 @@ window.blazorBootstrap = {
 
             currencyEl?.addEventListener('keydown', function (event) {
 
-                switch (event.keyCode) {
-                    case 8:   // backspace
-                    case 9:   // tab
-                    case 13:  // enter
-                    case 37:  // arrows left
-                    case 38:  // arrows up
-                    case 39:  // arrows right
-                    case 40:  // arrows down
-                    case 46:  // delete key
+                switch (event.code) {
+                    case "Backspace":
+                    case "Tab":
+                    case "Enter":
+                    case "ArrowLeft":
+                    case "ArrowUp":
+                    case "ArrowRight":
+                    case "ArrowDown":
+                    case "Delete":
                         return;
                 }
 
@@ -425,36 +425,6 @@ window.blazorBootstrap = {
             }
         },
     },
-    scriptLoader: {
-        load: (elementId, async, scriptId, source, type) => {
-            let scriptLoaderEl = document.getElementById(elementId);
-
-            if (source.length == 0) {
-                console.error(`Invalid src url.`);
-                return;
-            }
-
-            let scriptEl = document.createElement('script');
-
-            scriptEl.async = async;
-
-            if (scriptId != null)
-                scriptEl.id = scriptId;
-
-            if (source != null)
-                scriptEl.src = source;
-
-            if (type != null)
-                scriptEl.type = type;
-
-            scriptEl.onerror = function () {
-                console.error(`An error occurred while loading the script: ${source}`);
-            }
-
-            if (scriptLoaderEl != null)
-                scriptLoaderEl.appendChild(scriptEl);
-        }
-    },
     modal: {
         initialize: (elementId, useStaticBackdrop, closeOnEscape, dotNetHelper) => {
             let modalEl = document.getElementById(elementId);
@@ -580,6 +550,51 @@ window.blazorBootstrap = {
                 bootstrap?.Offcanvas?.getOrCreateInstance(offcanvasEl)?.dispose();
         }
     },
+    rangeInput: {
+        initialize: (elementId, dotNetHelper) => {
+            let rangeEl = document.getElementById(elementId);
+            if (rangeEl == null)
+                return;
+
+            rangeEl.addEventListener("input", (event) => {
+                dotNetHelper.invokeMethodAsync('bsOnInput', event.target.value);
+            });
+        }
+    },
+    scriptLoader: {
+        initialize: (elementId, async, scriptId, source, type, dotNetHelper) => {
+            let scriptLoaderEl = document.getElementById(elementId);
+
+            if (source.length === 0) {
+                console.error(`Invalid src url.`);
+                return;
+            }
+
+            let scriptEl = document.createElement('script');
+
+            scriptEl.async = async;
+
+            if (scriptId != null)
+                scriptEl.id = scriptId;
+
+            if (source != null)
+                scriptEl.src = source;
+
+            if (type != null)
+                scriptEl.type = type;
+
+            scriptEl.addEventListener("error", (event) => {
+                dotNetHelper.invokeMethodAsync('OnErrorJS', `An error occurred while loading the script: ${source}`);
+            });
+
+            scriptEl.addEventListener("load", (event) => {
+                dotNetHelper.invokeMethodAsync('OnLoadJS');
+            });
+
+            if (scriptLoaderEl != null)
+                scriptLoaderEl.appendChild(scriptEl);
+        }
+    },
     sidebar: {
         initialize: (elementId, dotNetHelper) => {
             window.addEventListener("resize", () => {
@@ -617,6 +632,32 @@ window.blazorBootstrap = {
                     // event.relatedTarget --> new active tab
                     dotNetHelper.invokeMethodAsync('bsHiddenTab', event.relatedTarget?.id, event.target?.id);
                 });
+            });
+        },
+        initializeNewTab: (tabId, dotNetHelper) => {
+            let tabEl = document.getElementById(tabId);
+            if (tabEl == null)
+                return;
+
+            tabEl?.addEventListener('show.bs.tab', (event) => {
+                // event.target --> active tab
+                // event.relatedTarget --> previous active tab (if available)
+                dotNetHelper.invokeMethodAsync('bsShowTab', event.target?.id, event.relatedTarget?.id);
+            });
+            tabEl?.addEventListener('shown.bs.tab', (event) => {
+                // event.target --> active tab
+                // event.relatedTarget --> previous active tab
+                dotNetHelper.invokeMethodAsync('bsShownTab', event.target?.id, event.relatedTarget?.id);
+            });
+            tabEl?.addEventListener('hide.bs.tab', (event) => {
+                // event.target --> current active tab
+                // event.relatedTarget --> new soon-to-be-active tab
+                dotNetHelper.invokeMethodAsync('bsHideTab', event.relatedTarget?.id, event.target?.id);
+            });
+            tabEl?.addEventListener('hidden.bs.tab', (event) => {
+                // event.target --> previous active tab
+                // event.relatedTarget --> new active tab
+                dotNetHelper.invokeMethodAsync('bsHiddenTab', event.relatedTarget?.id, event.target?.id);
             });
         },
         show: (elementId) => {

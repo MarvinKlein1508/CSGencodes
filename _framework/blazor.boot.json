@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CSGencodes",
   "resources": {
-    "hash": "sha256-VywLKBjmFLLdTXLc6omRMhaVYd0eigcBQLEfqOCju6I=",
+    "hash": "sha256-X5vCSa9dIyUnTEI+BohC73Djks8cwLYWh1wDQ9zRe9A=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.hlydtsbkyr.js": "sha256-U3DDnyef6FaENP7eEENBJnl7qVe/jrGECjCx+aVDn8Q="
     },
@@ -17,9 +17,9 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BlazorBootstrap.wasm": "sha256-HnLkRsrtZhFNvHLamnaRhc2rA1NqYBM0KrC8rjuBQyw=",
-      "CSGencodes.Core.wasm": "sha256-eAtFAcOId+DfKDJ7zZVoouw0wOG1mjVdzEN5zxK9hn4=",
-      "CSGencodes.wasm": "sha256-ClnVi/glSptj/aJ5whHlCCnhhuvK4a1fb1bp00ktORk=",
+      "BlazorBootstrap.wasm": "sha256-Fk7MP6gWaesp6rh0S05MhUP7zyV/yQwoaDJ7NiZj4jQ=",
+      "CSGencodes.Core.wasm": "sha256-elf3TAu39oTF+9sSeLHdWHRgctZlp7lVxHBsl54NcwI=",
+      "CSGencodes.wasm": "sha256-8pDSVarC1zjPxw6NvhJLBy4R+7NL/96OWfDaG7ktpFQ=",
       "Google.Protobuf.wasm": "sha256-g0eGnxpyJ5leU95mTM2gBJj8atMRYITPvYZmKY7ONE0=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-6M9I+AsqxMizqglFXGOFXnNn0BYSOttk+Luwinx8CDs=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-4lhNQO0GEnzMNO/owt3FJebR3uwFq4tJM6e+MDJ/4D0=",
@@ -58,7 +58,7 @@
       "System.Private.Uri.wasm": "sha256-hD0z53SGrVfhGlvBkrI1HO3OCoZ2IriWFaEjQUYxP/Q=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-Y8WCZOpkJbltbcM0soeb5kS01g+vCYvVCieQsCypgQE=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-OtSaXIzdIhZRNhPMb9/ALDSWM+FhsU6cNA4mMKwkRXU=",
-      "System.Runtime.wasm": "sha256-RYQFnWslsWu271q4UTuXFBeWPdXaTCgNzQwV5X+rfGA=",
+      "System.Runtime.wasm": "sha256-EajUB6+3PU6LakyXE5tkkxnOjmCEGvC8l8HzANG3WMY=",
       "System.Security.Cryptography.wasm": "sha256-y/wln1XOV/tU5btDqDS0gry08M+4kWeTObNF5AuyHuU=",
       "System.Text.Encodings.Web.wasm": "sha256-3ECwl3KCCs2yYp9crvnKqO8vGfiFUPgPD2gQF8CDAbg=",
       "System.Text.Json.wasm": "sha256-g7Iqm8LBiquJONJLRppHBpQGzWu4CFuGx7xlz8iDDfg=",
