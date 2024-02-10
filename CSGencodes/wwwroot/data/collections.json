@@ -1914,7 +1914,7 @@
     "Image": "/assets/img/items/knives/shadowdaggers/night.png"
   },
   {
-    "name": "Stiletto | Night",
+    "name": "Stiletto | Night Stripe",
     "min_wear": 0.06,
     "max_wear": 0.8,
     "trade_up": false,
@@ -1922,7 +1922,7 @@
     "gen_id": 40,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/stiletto/night.png"
+    "Image": "/assets/img/items/knives/stiletto/nightstripe.png"
   },
   {
     "name": "Glock-18 | Night",
@@ -2054,7 +2054,7 @@
     "gen_id": 42,
     "collection": "Kukri",
     "rarity": "Covert",
-    "Image": null
+    "Image": "/assets/img/items/knives/kukri/bluesteel.png"
   },
   {
     "name": "M9-Bayonet | Blue Steel",

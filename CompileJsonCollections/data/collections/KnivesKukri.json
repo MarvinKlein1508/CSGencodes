@@ -232,7 +232,7 @@
     "gen_id": 42,
     "collection": "Kukri",
     "rarity": "Covert",
-    "Image": null,
+    "Image": "/assets/img/items/knives/kukri/bluesteel.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6

@@ -280,7 +280,7 @@
     "RarityId": 6
   },
   {
-    "name": "Stiletto | Night",
+    "name": "Stiletto | Night Stripe",
     "min_wear": 0.06,
     "max_wear": 0.8,
     "trade_up": false,
@@ -288,7 +288,7 @@
     "gen_id": 40,
     "collection": "Stiletto",
     "rarity": "Covert",
-    "Image": "/assets/img/items/knives/stiletto/night.png",
+    "Image": "/assets/img/items/knives/stiletto/nightstripe.png",
     "IsKnife": true,
     "StickerSlotsAmount": 0,
     "RarityId": 6
