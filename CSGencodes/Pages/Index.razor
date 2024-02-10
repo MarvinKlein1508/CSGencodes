@@ -139,7 +139,7 @@
             @if (!string.IsNullOrWhiteSpace(sticker.Image))
             {
                 <div class="d-flex justify-content-center align-items-center">
-                    <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" style="transform: rotate(@(sticker.Rotation.ToString(CultureInfo.InvariantCulture))deg);" />
+                    <img class="img-responsive sticker-preview" src="@sticker.Image" alt="@sticker.name" style="transform: rotate(@(sticker.Rotation.ToString(CultureInfo.InvariantCulture))deg);" />
                 </div>
             }
             <EditForm Model="sticker">
