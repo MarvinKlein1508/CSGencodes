@@ -4,6 +4,7 @@ using Google.Protobuf.WellKnownTypes;
 using Microsoft.AspNetCore.Components;
 using System.Text;
 using System.Web;
+using System.Globalization;
 
 namespace CSGencodes.Pages
 {
@@ -17,7 +18,6 @@ namespace CSGencodes.Pages
         public Weapon? SelectedWeapon { get; set; }
 
         public List<AppliedSticker> SelectedStickers { get; set; } = [];
-
 
         public decimal Float
         {
@@ -66,7 +66,7 @@ namespace CSGencodes.Pages
         {
             SelectedWeapon = weapon;
 
-            if(Settings.MinMaxFloats)
+            if (Settings.MinMaxFloats)
             {
                 if (Float <= weapon.min_wear)
                 {
@@ -227,6 +227,17 @@ namespace CSGencodes.Pages
             }
 
             return $"https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids={String.Join(",", searchIds)}";
+        }
+
+        private async Task OnStickerWearingChange(ChangeEventArgs e, AppliedSticker sticker)
+        {
+            decimal.TryParse(e.Value.ToString(), CultureInfo.InvariantCulture, out decimal newValue);
+            
+            sticker.Scratched = newValue;
+        }
+
+        private async Task OnStickerRotationChange(ChangeEventArgs e, AppliedSticker sticker)
+        {
         }
     }
 }

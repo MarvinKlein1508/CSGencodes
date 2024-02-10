@@ -112,6 +112,7 @@
 <div class="selected-sticker-wrapper py-14 py-md-17">
     @foreach (var sticker in SelectedStickers)
     {
+        var hashCode = sticker.GetHashCode();
         if (SelectedWeapon is not null && SelectedWeapon.StickerSlotsAmount != 5 && sticker.PosId == 4)
         {
             continue;
@@ -122,22 +123,28 @@
             @if (!string.IsNullOrWhiteSpace(sticker.Image))
             {
                 <div class="d-flex justify-content-center align-items-center">
-                    <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" />
+                    <img class="img-responsive" src="@sticker.Image" alt="@sticker.name" style="transform: rotate(@(sticker.Rotation.ToString(CultureInfo.InvariantCulture))deg);" />
                 </div>
             }
             <EditForm Model="sticker">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="form-floating mb-3">
-                            <input type="number" @bind="sticker.Scratched" @bind:event="oninput" class="form-control" step="0.1" max="1" min="0" placeholder="Scratched" id="@($"selected-sticker-{sticker.GetHashCode()}")" />
-                            <label for="@($"selected-sticker-{sticker.GetHashCode()}")">Scratched</label>
-                        </div>
+                        <label for="sticker-wear-@hashCode" class="form-label">Wear</label>
+                        <input type="range"
+                               @bind-value="sticker.Scratched"
+                               @bind-value:event="oninput"
+                               @bind-value:culture="CultureInfo.InvariantCulture"
+                               class="form-range" id="sticker-wear-@hashCode" min="0" max="1" step="0.01" />
+                        @sticker.Scratched
                     </div>
                     <div class="col-md-4">
-                        <div class="form-floating mb-3">
-                            <input type="number" @bind="sticker.Rotation" @bind:event="oninput" class="form-control" step="1" max="100" min="0" placeholder="Rotation" id="@($"selected-sticker-rotation-{sticker.GetHashCode()}")" />
-                            <label for="@($"selected-sticker-rotation-{sticker.GetHashCode()}")">Rotation</label>
-                        </div>
+                        <label for="sticker-rotation-@hashCode" class="form-label">Rotation</label>
+                        <input type="range"
+                               @bind-value="sticker.Rotation"
+                               @bind-value:event="oninput"
+                               @bind-value:culture="CultureInfo.InvariantCulture"
+                               class="form-range" id="sticker-rotation-@hashCode" min="0" max="360" step="0.01" />
+                        @sticker.Rotation
                     </div>
                     <div class="col-md-4">
                         <div class="form-floating mb-3">
@@ -145,14 +152,14 @@
                                          Value="@sticker.PosId"
                                          ValueChanged="(value) => OnStickerPosChanged(value, sticker)"
                                          ValueExpression="() => sticker.PosId"
-                                         class="form-select" id="@($"selected-sticker-position{sticker.GetHashCode()}")" aria-placeholder="Position">
+                                         class="form-select" id="@($"sticker-pos-{hashCode}")" aria-placeholder="Position">
                                 <option value="0">1</option>
                                 <option value="1">2</option>
                                 <option value="2">3</option>
                                 <option value="3">4</option>
                                 <option value="4">5</option>
                             </InputSelect>
-                            <label for="@($"selected-sticker-position{sticker.GetHashCode()}")">Position</label>
+                            <label for="@($"sticker-pos{hashCode}")">Position</label>
                         </div>
                     </div>
                 </div>
