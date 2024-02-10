@@ -10,7 +10,7 @@ namespace CSGencodes.Core.Services
         private Crc32 _crc = new();
 
 
-        public string GenerateInspectLink(Weapon weapon, decimal @float, int pattern, List<AppliedSticker> stickers)
+        public (string url, bool commandMode) GenerateInspectLink(Weapon weapon, decimal @float, int pattern, List<AppliedSticker> stickers)
         {
             CEconItemPreviewDataBlock proto = new CEconItemPreviewDataBlock();
 
@@ -18,29 +18,57 @@ namespace CSGencodes.Core.Services
             proto.Defindex = (uint)weapon.weapon_id;
             proto.Paintindex = (uint)weapon.gen_id;
             proto.Paintseed = (uint)pattern;
-            
+
             byte[] paintWearBytes = BitConverter.GetBytes((float)@float);
             //Array.Reverse(paintWearBytes); // Convert to big-endian
             proto.Paintwear = BitConverter.ToUInt32(paintWearBytes, 0);
 
-            if (stickers.Any())
+            if (stickers.Count != 0)
             {
-                
+
                 foreach (AppliedSticker sticker in stickers.OrderBy(x => x.PosId))
                 {
                     CEconItemPreviewDataBlock.Types.Sticker proto_sticker = new()
                     {
                         Slot = (uint)sticker.PosId,
-                        StickerId = (uint)sticker.gen_id,
-                        Wear = (float)sticker.Scratched,
-                        Rotation = (float)sticker.Rotation,
+                        StickerId = (uint)sticker.gen_id
                     };
+
+                    if (sticker.OffsetX != 0)
+                    {
+                        proto_sticker.OffsetX = sticker.OffsetX;
+                    }
+
+                    if (sticker.OffsetY != 0)
+                    {
+                        proto_sticker.OffsetY = sticker.OffsetY;
+                    }
+
+                    if (sticker.Scratched != 0)
+                    {
+                        proto_sticker.Wear = (float)sticker.Scratched;
+                    }
+
+                    if (sticker.Rotation != 0)
+                    {
+                        proto_sticker.Rotation = (float)sticker.Rotation;
+                    }
+
                     proto.Stickers.Add(proto_sticker);
                 }
 
             }
 
-            return $"steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20{GenerateInspect(proto)}";
+            string baseUrl = "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20";
+            string inspect = GenerateInspect(proto);
+
+            // 300 is the max size which steam will open, otherwise console is needed for preview
+            if (inspect.Length + baseUrl.Length > 300)
+            {
+                return ($"csgo_econ_action_preview {inspect}", true);
+            }
+
+            return ($"{baseUrl}{inspect}", false);
         }
 
         private string GenerateInspect(CEconItemPreviewDataBlock proto)

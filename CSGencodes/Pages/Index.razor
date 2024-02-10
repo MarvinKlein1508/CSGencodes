@@ -14,17 +14,33 @@
 
             @if (SelectedWeapon is not null)
             {
+                var inspectLink = inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers);
 
                 <div class="input-group mb-3">
                     <div class="form-floating">
                         <input type="text" value="@SelectedWeapon.GetGencode(Float, Pattern, SelectedStickers)" class="form-control" placeholder="Gencode" id="gencode" />
                         <label for="gencode">Gencode</label>
                     </div>
-                    <a class="inspect-btn btn btn-info" href="@inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers)">Inspect</a>
+                    @if (!inspectLink.commandMode)
+                    {
+                        <a class="inspect-btn btn btn-info" href="@inspectLink.url">Inspect</a>
+                    }
+                    else
+                    {
+                        <button type="button" class="btn btn-info" onclick="copyInspectCommand()">Copy Inspect</button>
+                    }
 
                     <button type="button" class="btn btn-primary" onclick="copyGencode()"><i class="fa-solid fa-copy"></i></button>
                 </div>
 
+                if (inspectLink.commandMode)
+                {
+                    <Alert Color="AlertColor.Warning">
+                        <strong>Attention!</strong> The generated inspect link is too long. In order to inspect the skin ingame you must paste the following command into the console.
+                    </Alert>
+
+                    <textarea value="@inspectLink.url" class="d-none" id="inspect-console-command" />
+                }
             }
 
             <div class="generator-wrapper">
@@ -128,7 +144,7 @@
             }
             <EditForm Model="sticker">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <label for="sticker-wear-@hashCode" class="form-label">Wear</label>
                         <input type="range"
                                @bind-value="sticker.Scratched"
@@ -137,7 +153,7 @@
                                class="form-range" id="sticker-wear-@hashCode" min="0" max="1" step="0.01" />
                         @sticker.Scratched
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <label for="sticker-rotation-@hashCode" class="form-label">Rotation</label>
                         <input type="range"
                                @bind-value="sticker.Rotation"
@@ -146,6 +162,25 @@
                                class="form-range" id="sticker-rotation-@hashCode" min="0" max="360" step="0.01" />
                         @sticker.Rotation
                     </div>
+
+                    @if (Settings.EnableOffsets)
+                    {
+                        <div class="col-md-4">
+                            <div class="form-floating mb-3">
+                                <div class="form-floating mb-3">
+                                    <input type="number" @bind="sticker.OffsetX" class="form-control" step="0.01" placeholder="OffsetX" id="offsetX" />
+                                    <label for="offsetX">OffsetX</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating mb-3">
+                                    <input type="number" @bind="sticker.OffsetY" class="form-control" step="0.01" placeholder="OffsetY" id="offsetY" />
+                                    <label for="offsetY">OffsetY</label>
+                                </div>
+                        </div>
+                    }
+
                     <div class="col-md-4">
                         <div class="form-floating mb-3">
                             <InputSelect TValue="int"

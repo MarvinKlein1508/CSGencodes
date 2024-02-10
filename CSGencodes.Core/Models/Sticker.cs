@@ -21,6 +21,9 @@ namespace CSGencodes.Core.Models
     {
         public decimal Scratched { get; set; }
         public decimal Rotation { get; set; }
+
+        public float OffsetX { get; set; }
+        public float OffsetY { get; set; }
         public int PosId { get; set; }
 
         public AppliedSticker(Sticker sticker, int posId)

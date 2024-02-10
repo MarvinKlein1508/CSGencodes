@@ -54,6 +54,15 @@
     <BodyTemplate>
         <Switch @bind-Value="_settings.MinMaxFloats" Label="Apply Min & Max floats when weapon switches" />
         <Switch @bind-Value="_settings.WeaponFilter.IncludeKnives" Label="Include knives in search results" />
+        
+        <Switch @bind-Value="_settings.EnableOffsets" Label="Enable offsets (Experimental)" />
+
+        @if(_settings.EnableOffsets)
+        {
+            <Alert Color="AlertColor.Warning">
+                <strong>Attention!</strong> When offsets are enabled, direct inspect might not work anymore. You'll need to paste the command into the console then.
+            </Alert>
+        }
     </BodyTemplate>
 </Modal>
 
