@@ -110,6 +110,7 @@
     <None Remove="data\stickers\CommunitySeries3.json" />
     <None Remove="data\stickers\CommunitySeries4.json" />
     <None Remove="data\stickers\CommunitySeries5.json" />
+    <None Remove="data\stickers\copenhagen2024.json" />
     <None Remove="data\stickers\CS20.json" />
     <None Remove="data\stickers\dreamhack2013.json" />
     <None Remove="data\stickers\dreamhack2014.json" />
@@ -412,6 +413,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\Ambush.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\stickers\copenhagen2024.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\stickers\tournament_assets.json">
