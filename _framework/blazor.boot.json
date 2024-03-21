@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CSGencodes",
   "resources": {
-    "hash": "sha256-Ru32u33nJZ9AueetGkzGRYWHaZwOTiS99s4/9MYPDMA=",
+    "hash": "sha256-7VfT2M0nvi17EcxfNZEsF8wQmOZSsyCnMNkTzTafdHE=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.hlydtsbkyr.js": "sha256-0MFKts/CuiiMzMBrowUd9UOwsS7ysqVk5qGfHK/bG5U="
     },
@@ -18,8 +18,8 @@
     },
     "assembly": {
       "BlazorBootstrap.wasm": "sha256-Fk7MP6gWaesp6rh0S05MhUP7zyV/yQwoaDJ7NiZj4jQ=",
-      "CSGencodes.Core.wasm": "sha256-NemvdocbbG4kb4ahiBGe6vHkeRkAPrr1keGyfOv5CgQ=",
-      "CSGencodes.wasm": "sha256-3kiJC20nqRDQh1tWzpx4yMkckQLp2zNbBcnjKtWb4nI=",
+      "CSGencodes.Core.wasm": "sha256-fI2/S66K4pyA80JSvb75EQxbqGn2JXOeszrIpvo8YqM=",
+      "CSGencodes.wasm": "sha256-qluykJoAugr2Mmk0ljG0wnHWePIvz33oN+udbTj2K2w=",
       "Google.Protobuf.wasm": "sha256-g0eGnxpyJ5leU95mTM2gBJj8atMRYITPvYZmKY7ONE0=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-6M9I+AsqxMizqglFXGOFXnNn0BYSOttk+Luwinx8CDs=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-fCVpq81Ayj5xv1tj/gqbMIMZEmUXuWeD0T7nN/ckGgs=",
