@@ -1978,5 +1978,185 @@
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/copenhagen2024/zywoo-gold.png"
+  },
+  {
+    "name": "Brollan | Copenhagen 2024",
+    "gen_id": 7498,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/brollan.png"
+  },
+  {
+    "name": "Brollan (Glitter) | Copenhagen 2024",
+    "gen_id": 7499,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/brollan-glitter.png"
+  },
+  {
+    "name": "Brollan (Holo) | Copenhagen 2024",
+    "gen_id": 7500,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/brollan-holo.png"
+  },
+  {
+    "name": "Brollan (Gold) | Copenhagen 2024",
+    "gen_id": 7501,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/brollan-gold.png"
+  },
+  {
+    "name": "Jimpphat | Copenhagen 2024",
+    "gen_id": 7502,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/jimpphat.png"
+  },
+  {
+    "name": "Jimpphat (Glitter) | Copenhagen 2024",
+    "gen_id": 7503,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/jimpphat-glitter.png"
+  },
+  {
+    "name": "Jimpphat (Holo) | Copenhagen 2024",
+    "gen_id": 7504,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/jimpphat-holo.png"
+  },
+  {
+    "name": "Jimpphat (Gold) | Copenhagen 2024",
+    "gen_id": 7505,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/jimpphat-gold.png"
+  },
+  {
+    "name": "siuhy | Copenhagen 2024",
+    "gen_id": 7506,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/siuhy.png"
+  },
+  {
+    "name": "siuhy (Glitter) | Copenhagen 2024",
+    "gen_id": 7507,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/siuhy-glitter.png"
+  },
+  {
+    "name": "siuhy (Holo) | Copenhagen 2024",
+    "gen_id": 7508,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/siuhy-holo.png"
+  },
+  {
+    "name": "siuhy (Gold) | Copenhagen 2024",
+    "gen_id": 7509,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/siuhy-gold.png"
+  },
+  {
+    "name": "torzsi | Copenhagen 2024",
+    "gen_id": 7510,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/torzsi.png"
+  },
+  {
+    "name": "torzsi (Glitter) | Copenhagen 2024",
+    "gen_id": 7511,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/torzsi-glitter.png"
+  },
+  {
+    "name": "torzsi (Holo) | Copenhagen 2024",
+    "gen_id": 7512,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/torzsi-holo.png"
+  },
+  {
+    "name": "torzsi (Gold) | Copenhagen 2024",
+    "gen_id": 7513,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/torzsi-gold.png"
+  },
+  {
+    "name": "xertioN | Copenhagen 2024",
+    "gen_id": 7514,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/xertion.png"
+  },
+  {
+    "name": "xertioN (Glitter) | Copenhagen 2024",
+    "gen_id": 7515,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/xertion-glitter.png"
+  },
+  {
+    "name": "xertioN (Holo) | Copenhagen 2024",
+    "gen_id": 7516,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/xertion-holo.png"
+  },
+  {
+    "name": "xertioN (Gold) | Copenhagen 2024",
+    "gen_id": 7517,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/copenhagen2024/xertion-gold.png"
   }
 ]
