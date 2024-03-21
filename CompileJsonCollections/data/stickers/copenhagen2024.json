@@ -1,9 +1,1134 @@
 [
   {
+    "name": "Natus Vincere | Copenhagen 2024",
+    "gen_id": 7254,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/navi_png.png"
+  },
+  {
+    "name": "Natus Vincere (Glitter) | Copenhagen 2024",
+    "gen_id": 7255,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/navi_glitter_png.png"
+  },
+  {
+    "name": "Natus Vincere (Holo) | Copenhagen 2024",
+    "gen_id": 7256,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/navi_holo_png.png"
+  },
+  {
+    "name": "Natus Vincere (Gold) | Copenhagen 2024",
+    "gen_id": 7257,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/navi_gold_png.png"
+  },
+  {
+    "name": "Virtus.pro | Copenhagen 2024",
+    "gen_id": 7258,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vp_png.png"
+  },
+  {
+    "name": "Virtus.pro (Glitter) | Copenhagen 2024",
+    "gen_id": 7259,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vp_glitter_png.png"
+  },
+  {
+    "name": "Virtus.pro (Holo) | Copenhagen 2024",
+    "gen_id": 7260,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vp_holo_png.png"
+  },
+  {
+    "name": "Virtus.pro (Gold) | Copenhagen 2024",
+    "gen_id": 7261,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vp_gold_png.png"
+  },
+  {
+    "name": "G2 Esports | Copenhagen 2024",
+    "gen_id": 7262,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/g2_png.png"
+  },
+  {
+    "name": "G2 Esports (Glitter) | Copenhagen 2024",
+    "gen_id": 7263,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/g2_glitter_png.png"
+  },
+  {
+    "name": "G2 Esports (Holo) | Copenhagen 2024",
+    "gen_id": 7264,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/g2_holo_png.png"
+  },
+  {
+    "name": "G2 Esports (Gold) | Copenhagen 2024",
+    "gen_id": 7265,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/g2_gold_png.png"
+  },
+  {
+    "name": "FaZe Clan | Copenhagen 2024",
+    "gen_id": 7266,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/faze_png.png"
+  },
+  {
+    "name": "FaZe Clan (Glitter) | Copenhagen 2024",
+    "gen_id": 7267,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/faze_glitter_png.png"
+  },
+  {
+    "name": "FaZe Clan (Holo) | Copenhagen 2024",
+    "gen_id": 7268,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/faze_holo_png.png"
+  },
+  {
+    "name": "FaZe Clan (Gold) | Copenhagen 2024",
+    "gen_id": 7269,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/faze_gold_png.png"
+  },
+  {
+    "name": "Team Spirit | Copenhagen 2024",
+    "gen_id": 7270,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/spir_png.png"
+  },
+  {
+    "name": "Team Spirit (Glitter) | Copenhagen 2024",
+    "gen_id": 7271,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/spir_glitter_png.png"
+  },
+  {
+    "name": "Team Spirit (Holo) | Copenhagen 2024",
+    "gen_id": 7272,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/spir_holo_png.png"
+  },
+  {
+    "name": "Team Spirit (Gold) | Copenhagen 2024",
+    "gen_id": 7273,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/spir_gold_png.png"
+  },
+  {
+    "name": "Vitality | Copenhagen 2024",
+    "gen_id": 7274,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vita_png.png"
+  },
+  {
+    "name": "Vitality (Glitter) | Copenhagen 2024",
+    "gen_id": 7275,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vita_glitter_png.png"
+  },
+  {
+    "name": "Vitality (Holo) | Copenhagen 2024",
+    "gen_id": 7276,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vita_holo_png.png"
+  },
+  {
+    "name": "Vitality (Gold) | Copenhagen 2024",
+    "gen_id": 7277,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vita_gold_png.png"
+  },
+  {
+    "name": "MOUZ | Copenhagen 2024",
+    "gen_id": 7278,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_png.png"
+  },
+  {
+    "name": "MOUZ (Glitter) | Copenhagen 2024",
+    "gen_id": 7279,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_glitter_png.png"
+  },
+  {
+    "name": "MOUZ (Holo) | Copenhagen 2024",
+    "gen_id": 7280,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_holo_png.png"
+  },
+  {
+    "name": "MOUZ (Gold) | Copenhagen 2024",
+    "gen_id": 7281,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_gold_png.png"
+  },
+  {
+    "name": "Complexity Gaming | Copenhagen 2024",
+    "gen_id": 7282,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_png.png"
+  },
+  {
+    "name": "Complexity Gaming (Glitter) | Copenhagen 2024",
+    "gen_id": 7283,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_glitter_png.png"
+  },
+  {
+    "name": "Complexity Gaming (Holo) | Copenhagen 2024",
+    "gen_id": 7284,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_holo_png.png"
+  },
+  {
+    "name": "Complexity Gaming (Gold) | Copenhagen 2024",
+    "gen_id": 7285,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_gold_png.png"
+  },
+  {
+    "name": "Cloud9 | Copenhagen 2024",
+    "gen_id": 7286,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/c9_png.png"
+  },
+  {
+    "name": "Cloud9 (Glitter) | Copenhagen 2024",
+    "gen_id": 7287,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/c9_glitter_png.png"
+  },
+  {
+    "name": "Cloud9 (Holo) | Copenhagen 2024",
+    "gen_id": 7288,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/c9_holo_png.png"
+  },
+  {
+    "name": "Cloud9 (Gold) | Copenhagen 2024",
+    "gen_id": 7289,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/c9_gold_png.png"
+  },
+  {
+    "name": "ENCE | Copenhagen 2024",
+    "gen_id": 7290,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ence_png.png"
+  },
+  {
+    "name": "ENCE (Glitter) | Copenhagen 2024",
+    "gen_id": 7291,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ence_glitter_png.png"
+  },
+  {
+    "name": "ENCE (Holo) | Copenhagen 2024",
+    "gen_id": 7292,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ence_holo_png.png"
+  },
+  {
+    "name": "ENCE (Gold) | Copenhagen 2024",
+    "gen_id": 7293,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ence_gold_png.png"
+  },
+  {
+    "name": "FURIA | Copenhagen 2024",
+    "gen_id": 7294,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/furi_png.png"
+  },
+  {
+    "name": "FURIA (Glitter) | Copenhagen 2024",
+    "gen_id": 7295,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/furi_glitter_png.png"
+  },
+  {
+    "name": "FURIA (Holo) | Copenhagen 2024",
+    "gen_id": 7296,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/furi_holo_png.png"
+  },
+  {
+    "name": "FURIA (Gold) | Copenhagen 2024",
+    "gen_id": 7297,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/furi_gold_png.png"
+  },
+  {
+    "name": "Heroic | Copenhagen 2024",
+    "gen_id": 7298,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/hero_png.png"
+  },
+  {
+    "name": "Heroic (Glitter) | Copenhagen 2024",
+    "gen_id": 7299,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/hero_glitter_png.png"
+  },
+  {
+    "name": "Heroic (Holo) | Copenhagen 2024",
+    "gen_id": 7300,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/hero_holo_png.png"
+  },
+  {
+    "name": "Heroic (Gold) | Copenhagen 2024",
+    "gen_id": 7301,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/hero_gold_png.png"
+  },
+  {
+    "name": "Eternal Fire | Copenhagen 2024",
+    "gen_id": 7302,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/eter_png.png"
+  },
+  {
+    "name": "Eternal Fire (Glitter) | Copenhagen 2024",
+    "gen_id": 7303,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/eter_glitter_png.png"
+  },
+  {
+    "name": "Eternal Fire (Holo) | Copenhagen 2024",
+    "gen_id": 7304,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/eter_holo_png.png"
+  },
+  {
+    "name": "Eternal Fire (Gold) | Copenhagen 2024",
+    "gen_id": 7305,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/eter_gold_png.png"
+  },
+  {
+    "name": "Apeks | Copenhagen 2024",
+    "gen_id": 7306,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/apex_png.png"
+  },
+  {
+    "name": "Apeks (Glitter) | Copenhagen 2024",
+    "gen_id": 7307,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/apex_glitter_png.png"
+  },
+  {
+    "name": "Apeks (Holo) | Copenhagen 2024",
+    "gen_id": 7308,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/apex_holo_png.png"
+  },
+  {
+    "name": "Apeks (Gold) | Copenhagen 2024",
+    "gen_id": 7309,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/apex_gold_png.png"
+  },
+  {
+    "name": "GamerLegion | Copenhagen 2024",
+    "gen_id": 7310,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/gl_png.png"
+  },
+  {
+    "name": "GamerLegion (Glitter) | Copenhagen 2024",
+    "gen_id": 7311,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/gl_glitter_png.png"
+  },
+  {
+    "name": "GamerLegion (Holo) | Copenhagen 2024",
+    "gen_id": 7312,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/gl_holo_png.png"
+  },
+  {
+    "name": "GamerLegion (Gold) | Copenhagen 2024",
+    "gen_id": 7313,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/gl_gold_png.png"
+  },
+  {
+    "name": "SAW | Copenhagen 2024",
+    "gen_id": 7314,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/saw_png.png"
+  },
+  {
+    "name": "SAW (Glitter) | Copenhagen 2024",
+    "gen_id": 7315,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/saw_glitter_png.png"
+  },
+  {
+    "name": "SAW (Holo) | Copenhagen 2024",
+    "gen_id": 7316,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/saw_holo_png.png"
+  },
+  {
+    "name": "SAW (Gold) | Copenhagen 2024",
+    "gen_id": 7317,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/saw_gold_png.png"
+  },
+  {
+    "name": "paiN Gaming | Copenhagen 2024",
+    "gen_id": 7318,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pain_png.png"
+  },
+  {
+    "name": "paiN Gaming (Glitter) | Copenhagen 2024",
+    "gen_id": 7319,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pain_glitter_png.png"
+  },
+  {
+    "name": "paiN Gaming (Holo) | Copenhagen 2024",
+    "gen_id": 7320,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pain_holo_png.png"
+  },
+  {
+    "name": "paiN Gaming (Gold) | Copenhagen 2024",
+    "gen_id": 7321,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pain_gold_png.png"
+  },
+  {
+    "name": "Imperial Esports | Copenhagen 2024",
+    "gen_id": 7322,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/imp_png.png"
+  },
+  {
+    "name": "Imperial Esports (Glitter) | Copenhagen 2024",
+    "gen_id": 7323,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/imp_glitter_png.png"
+  },
+  {
+    "name": "Imperial Esports (Holo) | Copenhagen 2024",
+    "gen_id": 7324,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/imp_holo_png.png"
+  },
+  {
+    "name": "Imperial Esports (Gold) | Copenhagen 2024",
+    "gen_id": 7325,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/imp_gold_png.png"
+  },
+  {
+    "name": "The MongolZ | Copenhagen 2024",
+    "gen_id": 7326,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_png.png"
+  },
+  {
+    "name": "The MongolZ (Glitter) | Copenhagen 2024",
+    "gen_id": 7327,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_glitter_png.png"
+  },
+  {
+    "name": "The MongolZ (Holo) | Copenhagen 2024",
+    "gen_id": 7328,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_holo_png.png"
+  },
+  {
+    "name": "The MongolZ (Gold) | Copenhagen 2024",
+    "gen_id": 7329,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_gold_png.png"
+  },
+  {
+    "name": "AMKAL ESPORTS | Copenhagen 2024",
+    "gen_id": 7330,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/amka_png.png"
+  },
+  {
+    "name": "AMKAL ESPORTS (Glitter) | Copenhagen 2024",
+    "gen_id": 7331,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/amka_glitter_png.png"
+  },
+  {
+    "name": "AMKAL ESPORTS (Holo) | Copenhagen 2024",
+    "gen_id": 7332,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/amka_holo_png.png"
+  },
+  {
+    "name": "AMKAL ESPORTS (Gold) | Copenhagen 2024",
+    "gen_id": 7333,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/amka_gold_png.png"
+  },
+  {
+    "name": "ECSTATIC | Copenhagen 2024",
+    "gen_id": 7334,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_png.png"
+  },
+  {
+    "name": "ECSTATIC (Glitter) | Copenhagen 2024",
+    "gen_id": 7335,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_glitter_png.png"
+  },
+  {
+    "name": "ECSTATIC (Holo) | Copenhagen 2024",
+    "gen_id": 7336,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_holo_png.png"
+  },
+  {
+    "name": "ECSTATIC (Gold) | Copenhagen 2024",
+    "gen_id": 7337,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_gold_png.png"
+  },
+  {
+    "name": "KOI | Copenhagen 2024",
+    "gen_id": 7338,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/koi_png.png"
+  },
+  {
+    "name": "KOI (Glitter) | Copenhagen 2024",
+    "gen_id": 7339,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/koi_glitter_png.png"
+  },
+  {
+    "name": "KOI (Holo) | Copenhagen 2024",
+    "gen_id": 7340,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/koi_holo_png.png"
+  },
+  {
+    "name": "KOI (Gold) | Copenhagen 2024",
+    "gen_id": 7341,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/koi_gold_png.png"
+  },
+  {
+    "name": "Legacy | Copenhagen 2024",
+    "gen_id": 7342,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_png.png"
+  },
+  {
+    "name": "Legacy (Glitter) | Copenhagen 2024",
+    "gen_id": 7343,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_glitter_png.png"
+  },
+  {
+    "name": "Legacy (Holo) | Copenhagen 2024",
+    "gen_id": 7344,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_holo_png.png"
+  },
+  {
+    "name": "Legacy (Gold) | Copenhagen 2024",
+    "gen_id": 7345,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_gold_png.png"
+  },
+  {
+    "name": "Lynn Vision | Copenhagen 2024",
+    "gen_id": 7346,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_png.png"
+  },
+  {
+    "name": "Lynn Vision (Glitter) | Copenhagen 2024",
+    "gen_id": 7347,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_glitter_png.png"
+  },
+  {
+    "name": "Lynn Vision (Holo) | Copenhagen 2024",
+    "gen_id": 7348,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_holo_png.png"
+  },
+  {
+    "name": "Lynn Vision (Gold) | Copenhagen 2024",
+    "gen_id": 7349,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_gold_png.png"
+  },
+  {
+    "name": "PGL | Copenhagen 2024",
+    "gen_id": 7350,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_png.png"
+  },
+  {
+    "name": "PGL (Glitter) | Copenhagen 2024",
+    "gen_id": 7351,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_glitter_png.png"
+  },
+  {
+    "name": "PGL (Holo) | Copenhagen 2024",
+    "gen_id": 7352,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_holo_png.png"
+  },
+  {
+    "name": "PGL (Gold) | Copenhagen 2024",
+    "gen_id": 7353,
+    "tournament": "Copenhagen 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_gold_png.png"
+  },
+  {
+    "name": "Natus Vincere | Copenhagen 2024",
+    "gen_id": 7354,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/navi_graffiti_png.png"
+  },
+  {
+    "name": "Virtus.pro | Copenhagen 2024",
+    "gen_id": 7355,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vp_graffiti_png.png"
+  },
+  {
+    "name": "G2 Esports | Copenhagen 2024",
+    "gen_id": 7356,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/g2_graffiti_png.png"
+  },
+  {
+    "name": "FaZe Clan | Copenhagen 2024",
+    "gen_id": 7357,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/faze_graffiti_png.png"
+  },
+  {
+    "name": "Team Spirit | Copenhagen 2024",
+    "gen_id": 7358,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/spir_graffiti_png.png"
+  },
+  {
+    "name": "Vitality | Copenhagen 2024",
+    "gen_id": 7359,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/vita_graffiti_png.png"
+  },
+  {
+    "name": "MOUZ | Copenhagen 2024",
+    "gen_id": 7360,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_graffiti_png.png"
+  },
+  {
+    "name": "Complexity Gaming | Copenhagen 2024",
+    "gen_id": 7361,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_graffiti_png.png"
+  },
+  {
+    "name": "Cloud9 | Copenhagen 2024",
+    "gen_id": 7362,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/c9_graffiti_png.png"
+  },
+  {
+    "name": "ENCE | Copenhagen 2024",
+    "gen_id": 7363,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ence_graffiti_png.png"
+  },
+  {
+    "name": "FURIA | Copenhagen 2024",
+    "gen_id": 7364,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/furi_graffiti_png.png"
+  },
+  {
+    "name": "Heroic | Copenhagen 2024",
+    "gen_id": 7365,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/hero_graffiti_png.png"
+  },
+  {
+    "name": "Eternal Fire | Copenhagen 2024",
+    "gen_id": 7366,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/eter_graffiti_png.png"
+  },
+  {
+    "name": "Apeks | Copenhagen 2024",
+    "gen_id": 7367,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/apex_graffiti_png.png"
+  },
+  {
+    "name": "GamerLegion | Copenhagen 2024",
+    "gen_id": 7368,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/gl_graffiti_png.png"
+  },
+  {
+    "name": "SAW | Copenhagen 2024",
+    "gen_id": 7369,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/saw_graffiti_png.png"
+  },
+  {
+    "name": "paiN Gaming | Copenhagen 2024",
+    "gen_id": 7370,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pain_graffiti_png.png"
+  },
+  {
+    "name": "Imperial Esports | Copenhagen 2024",
+    "gen_id": 7371,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/imp_graffiti_png.png"
+  },
+  {
+    "name": "The MongolZ | Copenhagen 2024",
+    "gen_id": 7372,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_graffiti_png.png"
+  },
+  {
+    "name": "AMKAL ESPORTS | Copenhagen 2024",
+    "gen_id": 7373,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/amka_graffiti_png.png"
+  },
+  {
+    "name": "ECSTATIC | Copenhagen 2024",
+    "gen_id": 7374,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_graffiti_png.png"
+  },
+  {
+    "name": "KOI | Copenhagen 2024",
+    "gen_id": 7375,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/koi_graffiti_png.png"
+  },
+  {
+    "name": "Legacy | Copenhagen 2024",
+    "gen_id": 7376,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_graffiti_png.png"
+  },
+  {
+    "name": "Lynn Vision | Copenhagen 2024",
+    "gen_id": 7377,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_graffiti_png.png"
+  },
+  {
+    "name": "PGL | Copenhagen 2024",
+    "gen_id": 7378,
+    "tournament": "Copenhagen 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_graffiti_png.png"
+  },
+  {
     "name": "jL | Copenhagen 2024",
     "gen_id": 7379,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jl_png.png"
@@ -12,7 +1137,7 @@
     "name": "jL (Glitter) | Copenhagen 2024",
     "gen_id": 7380,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jl_glitter_png.png"
@@ -21,7 +1146,7 @@
     "name": "jL (Holo) | Copenhagen 2024",
     "gen_id": 7381,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jl_holo_png.png"
@@ -30,7 +1155,7 @@
     "name": "jL (Gold) | Copenhagen 2024",
     "gen_id": 7382,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jl_gold_png.png"
@@ -39,7 +1164,7 @@
     "name": "Aleksib | Copenhagen 2024",
     "gen_id": 7383,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_png.png"
@@ -48,7 +1173,7 @@
     "name": "Aleksib (Glitter) | Copenhagen 2024",
     "gen_id": 7384,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_glitter_png.png"
@@ -57,7 +1182,7 @@
     "name": "Aleksib (Holo) | Copenhagen 2024",
     "gen_id": 7385,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_holo_png.png"
@@ -66,7 +1191,7 @@
     "name": "Aleksib (Gold) | Copenhagen 2024",
     "gen_id": 7386,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_gold_png.png"
@@ -75,7 +1200,7 @@
     "name": "b1t | Copenhagen 2024",
     "gen_id": 7387,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b1t_png.png"
@@ -84,7 +1209,7 @@
     "name": "b1t (Glitter) | Copenhagen 2024",
     "gen_id": 7388,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b1t_glitter_png.png"
@@ -93,7 +1218,7 @@
     "name": "b1t (Holo) | Copenhagen 2024",
     "gen_id": 7389,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b1t_holo_png.png"
@@ -102,7 +1227,7 @@
     "name": "b1t (Gold) | Copenhagen 2024",
     "gen_id": 7390,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b1t_gold_png.png"
@@ -111,7 +1236,7 @@
     "name": "iM | Copenhagen 2024",
     "gen_id": 7391,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_im_png.png"
@@ -120,7 +1245,7 @@
     "name": "iM (Glitter) | Copenhagen 2024",
     "gen_id": 7392,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_im_glitter_png.png"
@@ -129,7 +1254,7 @@
     "name": "iM (Holo) | Copenhagen 2024",
     "gen_id": 7393,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_im_holo_png.png"
@@ -138,7 +1263,7 @@
     "name": "iM (Gold) | Copenhagen 2024",
     "gen_id": 7394,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_im_gold_png.png"
@@ -147,7 +1272,7 @@
     "name": "w0nderful | Copenhagen 2024",
     "gen_id": 7395,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_png.png"
@@ -156,7 +1281,7 @@
     "name": "w0nderful (Glitter) | Copenhagen 2024",
     "gen_id": 7396,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_glitter_png.png"
@@ -165,7 +1290,7 @@
     "name": "w0nderful (Holo) | Copenhagen 2024",
     "gen_id": 7397,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_holo_png.png"
@@ -174,7 +1299,7 @@
     "name": "w0nderful (Gold) | Copenhagen 2024",
     "gen_id": 7398,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_gold_png.png"
@@ -183,7 +1308,7 @@
     "name": "fame | Copenhagen 2024",
     "gen_id": 7399,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fame_png.png"
@@ -192,7 +1317,7 @@
     "name": "fame (Glitter) | Copenhagen 2024",
     "gen_id": 7400,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fame_glitter_png.png"
@@ -201,7 +1326,7 @@
     "name": "fame (Holo) | Copenhagen 2024",
     "gen_id": 7401,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fame_holo_png.png"
@@ -210,7 +1335,7 @@
     "name": "fame (Gold) | Copenhagen 2024",
     "gen_id": 7402,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fame_gold_png.png"
@@ -219,7 +1344,7 @@
     "name": "FL1T | Copenhagen 2024",
     "gen_id": 7403,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_png.png"
@@ -228,7 +1353,7 @@
     "name": "FL1T (Glitter) | Copenhagen 2024",
     "gen_id": 7404,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_glitter_png.png"
@@ -237,7 +1362,7 @@
     "name": "FL1T (Holo) | Copenhagen 2024",
     "gen_id": 7405,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_holo_png.png"
@@ -246,7 +1371,7 @@
     "name": "FL1T (Gold) | Copenhagen 2024",
     "gen_id": 7406,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_gold_png.png"
@@ -255,7 +1380,7 @@
     "name": "Jame | Copenhagen 2024",
     "gen_id": 7407,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jame_png.png"
@@ -264,7 +1389,7 @@
     "name": "Jame (Glitter) | Copenhagen 2024",
     "gen_id": 7408,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jame_glitter_png.png"
@@ -273,7 +1398,7 @@
     "name": "Jame (Holo) | Copenhagen 2024",
     "gen_id": 7409,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jame_holo_png.png"
@@ -282,7 +1407,7 @@
     "name": "Jame (Gold) | Copenhagen 2024",
     "gen_id": 7410,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jame_gold_png.png"
@@ -291,7 +1416,7 @@
     "name": "mir | Copenhagen 2024",
     "gen_id": 7411,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mir_png.png"
@@ -300,7 +1425,7 @@
     "name": "mir (Glitter) | Copenhagen 2024",
     "gen_id": 7412,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mir_glitter_png.png"
@@ -309,7 +1434,7 @@
     "name": "mir (Holo) | Copenhagen 2024",
     "gen_id": 7413,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mir_holo_png.png"
@@ -318,7 +1443,7 @@
     "name": "mir (Gold) | Copenhagen 2024",
     "gen_id": 7414,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mir_gold_png.png"
@@ -327,7 +1452,7 @@
     "name": "n0rb3r7 | Copenhagen 2024",
     "gen_id": 7415,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_png.png"
@@ -336,7 +1461,7 @@
     "name": "n0rb3r7 (Glitter) | Copenhagen 2024",
     "gen_id": 7416,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_glitter_png.png"
@@ -345,7 +1470,7 @@
     "name": "n0rb3r7 (Holo) | Copenhagen 2024",
     "gen_id": 7417,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_holo_png.png"
@@ -354,7 +1479,7 @@
     "name": "n0rb3r7 (Gold) | Copenhagen 2024",
     "gen_id": 7418,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_gold_png.png"
@@ -363,7 +1488,7 @@
     "name": "HooXi | Copenhagen 2024",
     "gen_id": 7419,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_png.png"
@@ -372,7 +1497,7 @@
     "name": "HooXi (Glitter) | Copenhagen 2024",
     "gen_id": 7420,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_glitter_png.png"
@@ -381,7 +1506,7 @@
     "name": "HooXi (Holo) | Copenhagen 2024",
     "gen_id": 7421,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_holo_png.png"
@@ -390,7 +1515,7 @@
     "name": "HooXi (Gold) | Copenhagen 2024",
     "gen_id": 7422,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_gold_png.png"
@@ -399,7 +1524,7 @@
     "name": "huNter- | Copenhagen 2024",
     "gen_id": 7423,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hunter_png.png"
@@ -408,7 +1533,7 @@
     "name": "huNter- (Glitter) | Copenhagen 2024",
     "gen_id": 7424,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hunter_glitter_png.png"
@@ -417,7 +1542,7 @@
     "name": "huNter- (Holo) | Copenhagen 2024",
     "gen_id": 7425,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hunter_holo_png.png"
@@ -426,7 +1551,7 @@
     "name": "huNter- (Gold) | Copenhagen 2024",
     "gen_id": 7426,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hunter_gold_png.png"
@@ -435,7 +1560,7 @@
     "name": "m0NESY | Copenhagen 2024",
     "gen_id": 7427,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_png.png"
@@ -444,7 +1569,7 @@
     "name": "m0NESY (Glitter) | Copenhagen 2024",
     "gen_id": 7428,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_glitter_png.png"
@@ -453,7 +1578,7 @@
     "name": "m0NESY (Holo) | Copenhagen 2024",
     "gen_id": 7429,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_holo_png.png"
@@ -462,7 +1587,7 @@
     "name": "m0NESY (Gold) | Copenhagen 2024",
     "gen_id": 7430,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_gold_png.png"
@@ -471,7 +1596,7 @@
     "name": "nexa | Copenhagen 2024",
     "gen_id": 7431,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nexa_png.png"
@@ -480,7 +1605,7 @@
     "name": "nexa (Glitter) | Copenhagen 2024",
     "gen_id": 7432,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nexa_glitter_png.png"
@@ -489,7 +1614,7 @@
     "name": "nexa (Holo) | Copenhagen 2024",
     "gen_id": 7433,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nexa_holo_png.png"
@@ -498,7 +1623,7 @@
     "name": "nexa (Gold) | Copenhagen 2024",
     "gen_id": 7434,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nexa_gold_png.png"
@@ -507,7 +1632,7 @@
     "name": "NiKo | Copenhagen 2024",
     "gen_id": 7435,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_niko_png.png"
@@ -516,7 +1641,7 @@
     "name": "NiKo (Glitter) | Copenhagen 2024",
     "gen_id": 7436,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_niko_glitter_png.png"
@@ -525,7 +1650,7 @@
     "name": "NiKo (Holo) | Copenhagen 2024",
     "gen_id": 7437,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_niko_holo_png.png"
@@ -534,7 +1659,7 @@
     "name": "NiKo (Gold) | Copenhagen 2024",
     "gen_id": 7438,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_niko_gold_png.png"
@@ -543,7 +1668,7 @@
     "name": "broky | Copenhagen 2024",
     "gen_id": 7439,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_broky_png.png"
@@ -552,7 +1677,7 @@
     "name": "broky (Glitter) | Copenhagen 2024",
     "gen_id": 7440,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_broky_glitter_png.png"
@@ -561,7 +1686,7 @@
     "name": "broky (Holo) | Copenhagen 2024",
     "gen_id": 7441,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_broky_holo_png.png"
@@ -570,7 +1695,7 @@
     "name": "broky (Gold) | Copenhagen 2024",
     "gen_id": 7442,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_broky_gold_png.png"
@@ -579,7 +1704,7 @@
     "name": "frozen | Copenhagen 2024",
     "gen_id": 7443,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_frozen_png.png"
@@ -588,7 +1713,7 @@
     "name": "frozen (Glitter) | Copenhagen 2024",
     "gen_id": 7444,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_frozen_glitter_png.png"
@@ -597,7 +1722,7 @@
     "name": "frozen (Holo) | Copenhagen 2024",
     "gen_id": 7445,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_frozen_holo_png.png"
@@ -606,7 +1731,7 @@
     "name": "frozen (Gold) | Copenhagen 2024",
     "gen_id": 7446,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_frozen_gold_png.png"
@@ -615,7 +1740,7 @@
     "name": "karrigan | Copenhagen 2024",
     "gen_id": 7447,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_png.png"
@@ -624,7 +1749,7 @@
     "name": "karrigan (Glitter) | Copenhagen 2024",
     "gen_id": 7448,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_glitter_png.png"
@@ -633,7 +1758,7 @@
     "name": "karrigan (Holo) | Copenhagen 2024",
     "gen_id": 7449,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_holo_png.png"
@@ -642,7 +1767,7 @@
     "name": "karrigan (Gold) | Copenhagen 2024",
     "gen_id": 7450,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_gold_png.png"
@@ -651,7 +1776,7 @@
     "name": "rain | Copenhagen 2024",
     "gen_id": 7451,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_rain_png.png"
@@ -660,7 +1785,7 @@
     "name": "rain (Glitter) | Copenhagen 2024",
     "gen_id": 7452,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_rain_glitter_png.png"
@@ -669,7 +1794,7 @@
     "name": "rain (Holo) | Copenhagen 2024",
     "gen_id": 7453,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_rain_holo_png.png"
@@ -678,7 +1803,7 @@
     "name": "rain (Gold) | Copenhagen 2024",
     "gen_id": 7454,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_rain_gold_png.png"
@@ -687,7 +1812,7 @@
     "name": "ropz | Copenhagen 2024",
     "gen_id": 7455,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ropz_png.png"
@@ -696,7 +1821,7 @@
     "name": "ropz (Glitter) | Copenhagen 2024",
     "gen_id": 7456,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ropz_glitter_png.png"
@@ -705,7 +1830,7 @@
     "name": "ropz (Holo) | Copenhagen 2024",
     "gen_id": 7457,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ropz_holo_png.png"
@@ -714,7 +1839,7 @@
     "name": "ropz (Gold) | Copenhagen 2024",
     "gen_id": 7458,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ropz_gold_png.png"
@@ -723,7 +1848,7 @@
     "name": "chopper | Copenhagen 2024",
     "gen_id": 7459,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chopper_png.png"
@@ -732,7 +1857,7 @@
     "name": "chopper (Glitter) | Copenhagen 2024",
     "gen_id": 7460,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chopper_glitter_png.png"
@@ -741,7 +1866,7 @@
     "name": "chopper (Holo) | Copenhagen 2024",
     "gen_id": 7461,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chopper_holo_png.png"
@@ -750,7 +1875,7 @@
     "name": "chopper (Gold) | Copenhagen 2024",
     "gen_id": 7462,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chopper_gold_png.png"
@@ -759,7 +1884,7 @@
     "name": "donk | Copenhagen 2024",
     "gen_id": 7463,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_donk_png.png"
@@ -768,7 +1893,7 @@
     "name": "donk (Glitter) | Copenhagen 2024",
     "gen_id": 7464,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_donk_glitter_png.png"
@@ -777,7 +1902,7 @@
     "name": "donk (Holo) | Copenhagen 2024",
     "gen_id": 7465,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_donk_holo_png.png"
@@ -786,7 +1911,7 @@
     "name": "donk (Gold) | Copenhagen 2024",
     "gen_id": 7466,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_donk_gold_png.png"
@@ -795,7 +1920,7 @@
     "name": "magixx | Copenhagen 2024",
     "gen_id": 7467,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_magixx_png.png"
@@ -804,7 +1929,7 @@
     "name": "magixx (Glitter) | Copenhagen 2024",
     "gen_id": 7468,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_magixx_glitter_png.png"
@@ -813,7 +1938,7 @@
     "name": "magixx (Holo) | Copenhagen 2024",
     "gen_id": 7469,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_magixx_holo_png.png"
@@ -822,7 +1947,7 @@
     "name": "magixx (Gold) | Copenhagen 2024",
     "gen_id": 7470,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_magixx_gold_png.png"
@@ -831,7 +1956,7 @@
     "name": "sh1ro | Copenhagen 2024",
     "gen_id": 7471,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_png.png"
@@ -840,7 +1965,7 @@
     "name": "sh1ro (Glitter) | Copenhagen 2024",
     "gen_id": 7472,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_glitter_png.png"
@@ -849,7 +1974,7 @@
     "name": "sh1ro (Holo) | Copenhagen 2024",
     "gen_id": 7473,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_holo_png.png"
@@ -858,7 +1983,7 @@
     "name": "sh1ro (Gold) | Copenhagen 2024",
     "gen_id": 7474,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_gold_png.png"
@@ -867,7 +1992,7 @@
     "name": "zont1x | Copenhagen 2024",
     "gen_id": 7475,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_png.png"
@@ -876,7 +2001,7 @@
     "name": "zont1x (Glitter) | Copenhagen 2024",
     "gen_id": 7476,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_glitter_png.png"
@@ -885,7 +2010,7 @@
     "name": "zont1x (Holo) | Copenhagen 2024",
     "gen_id": 7477,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_holo_png.png"
@@ -894,7 +2019,7 @@
     "name": "zont1x (Gold) | Copenhagen 2024",
     "gen_id": 7478,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_gold_png.png"
@@ -903,7 +2028,7 @@
     "name": "apEX | Copenhagen 2024",
     "gen_id": 7479,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_apex_png.png"
@@ -912,7 +2037,7 @@
     "name": "apEX (Glitter) | Copenhagen 2024",
     "gen_id": 7480,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_apex_glitter_png.png"
@@ -921,7 +2046,7 @@
     "name": "apEX (Holo) | Copenhagen 2024",
     "gen_id": 7481,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_apex_holo_png.png"
@@ -930,7 +2055,7 @@
     "name": "apEX (Gold) | Copenhagen 2024",
     "gen_id": 7482,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_apex_gold_png.png"
@@ -939,7 +2064,7 @@
     "name": "FlameZ | Copenhagen 2024",
     "gen_id": 7483,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_flamez_png.png"
@@ -948,7 +2073,7 @@
     "name": "FlameZ (Glitter) | Copenhagen 2024",
     "gen_id": 7484,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_flamez_glitter_png.png"
@@ -957,7 +2082,7 @@
     "name": "FlameZ (Holo) | Copenhagen 2024",
     "gen_id": 7485,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_flamez_holo_png.png"
@@ -966,7 +2091,7 @@
     "name": "FlameZ (Gold) | Copenhagen 2024",
     "gen_id": 7486,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_flamez_gold_png.png"
@@ -975,7 +2100,7 @@
     "name": "mezii | Copenhagen 2024",
     "gen_id": 7487,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mezii_png.png"
@@ -984,7 +2109,7 @@
     "name": "mezii (Glitter) | Copenhagen 2024",
     "gen_id": 7488,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mezii_glitter_png.png"
@@ -993,7 +2118,7 @@
     "name": "mezii (Holo) | Copenhagen 2024",
     "gen_id": 7489,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mezii_holo_png.png"
@@ -1002,7 +2127,7 @@
     "name": "mezii (Gold) | Copenhagen 2024",
     "gen_id": 7490,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mezii_gold_png.png"
@@ -1011,7 +2136,7 @@
     "name": "Spinx | Copenhagen 2024",
     "gen_id": 7491,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_spinx_png.png"
@@ -1020,7 +2145,7 @@
     "name": "Spinx (Glitter) | Copenhagen 2024",
     "gen_id": 7492,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_spinx_glitter_png.png"
@@ -1029,7 +2154,7 @@
     "name": "Spinx (Holo) | Copenhagen 2024",
     "gen_id": 7493,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_spinx_holo_png.png"
@@ -1038,7 +2163,7 @@
     "name": "Spinx (Gold) | Copenhagen 2024",
     "gen_id": 7494,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_spinx_gold_png.png"
@@ -1047,7 +2172,7 @@
     "name": "ZywOo | Copenhagen 2024",
     "gen_id": 7495,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_png.png"
@@ -1056,7 +2181,7 @@
     "name": "ZywOo (Glitter) | Copenhagen 2024",
     "gen_id": 7496,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_glitter_png.png"
@@ -1065,7 +2190,7 @@
     "name": "ZywOo (Holo) | Copenhagen 2024",
     "gen_id": 7497,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_holo_png.png"
@@ -1074,7 +2199,7 @@
     "name": "ZywOo (Gold) | Copenhagen 2024",
     "gen_id": 7498,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_gold_png.png"
@@ -1083,7 +2208,7 @@
     "name": "Brollan | Copenhagen 2024",
     "gen_id": 7499,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_brollan_png.png"
@@ -1092,7 +2217,7 @@
     "name": "Brollan (Glitter) | Copenhagen 2024",
     "gen_id": 7500,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_brollan_glitter_png.png"
@@ -1101,7 +2226,7 @@
     "name": "Brollan (Holo) | Copenhagen 2024",
     "gen_id": 7501,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_brollan_holo_png.png"
@@ -1110,7 +2235,7 @@
     "name": "Brollan (Gold) | Copenhagen 2024",
     "gen_id": 7502,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_brollan_gold_png.png"
@@ -1119,7 +2244,7 @@
     "name": "Jimpphat | Copenhagen 2024",
     "gen_id": 7503,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_png.png"
@@ -1128,7 +2253,7 @@
     "name": "Jimpphat (Glitter) | Copenhagen 2024",
     "gen_id": 7504,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_glitter_png.png"
@@ -1137,7 +2262,7 @@
     "name": "Jimpphat (Holo) | Copenhagen 2024",
     "gen_id": 7505,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_holo_png.png"
@@ -1146,7 +2271,7 @@
     "name": "Jimpphat (Gold) | Copenhagen 2024",
     "gen_id": 7506,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_gold_png.png"
@@ -1155,7 +2280,7 @@
     "name": "siuhy | Copenhagen 2024",
     "gen_id": 7507,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_png.png"
@@ -1164,7 +2289,7 @@
     "name": "siuhy (Glitter) | Copenhagen 2024",
     "gen_id": 7508,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_glitter_png.png"
@@ -1173,7 +2298,7 @@
     "name": "siuhy (Holo) | Copenhagen 2024",
     "gen_id": 7509,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_holo_png.png"
@@ -1182,7 +2307,7 @@
     "name": "siuhy (Gold) | Copenhagen 2024",
     "gen_id": 7510,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_gold_png.png"
@@ -1191,7 +2316,7 @@
     "name": "torzsi | Copenhagen 2024",
     "gen_id": 7511,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_png.png"
@@ -1200,7 +2325,7 @@
     "name": "torzsi (Glitter) | Copenhagen 2024",
     "gen_id": 7512,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_glitter_png.png"
@@ -1209,7 +2334,7 @@
     "name": "torzsi (Holo) | Copenhagen 2024",
     "gen_id": 7513,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_holo_png.png"
@@ -1218,7 +2343,7 @@
     "name": "torzsi (Gold) | Copenhagen 2024",
     "gen_id": 7514,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_gold_png.png"
@@ -1227,7 +2352,7 @@
     "name": "xertioN | Copenhagen 2024",
     "gen_id": 7515,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xertion_png.png"
@@ -1236,7 +2361,7 @@
     "name": "xertioN (Glitter) | Copenhagen 2024",
     "gen_id": 7516,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xertion_glitter_png.png"
@@ -1245,7 +2370,7 @@
     "name": "xertioN (Holo) | Copenhagen 2024",
     "gen_id": 7517,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xertion_holo_png.png"
@@ -1254,7 +2379,7 @@
     "name": "xertioN (Gold) | Copenhagen 2024",
     "gen_id": 7518,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xertion_gold_png.png"
@@ -1263,7 +2388,7 @@
     "name": "hallzerk | Copenhagen 2024",
     "gen_id": 7519,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_png.png"
@@ -1272,7 +2397,7 @@
     "name": "hallzerk (Glitter) | Copenhagen 2024",
     "gen_id": 7520,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_glitter_png.png"
@@ -1281,7 +2406,7 @@
     "name": "hallzerk (Holo) | Copenhagen 2024",
     "gen_id": 7521,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_holo_png.png"
@@ -1290,7 +2415,7 @@
     "name": "hallzerk (Gold) | Copenhagen 2024",
     "gen_id": 7522,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_gold_png.png"
@@ -1299,7 +2424,7 @@
     "name": "EliGE | Copenhagen 2024",
     "gen_id": 7523,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_elige_png.png"
@@ -1308,7 +2433,7 @@
     "name": "EliGE (Glitter) | Copenhagen 2024",
     "gen_id": 7524,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_elige_glitter_png.png"
@@ -1317,7 +2442,7 @@
     "name": "EliGE (Holo) | Copenhagen 2024",
     "gen_id": 7525,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_elige_holo_png.png"
@@ -1326,7 +2451,7 @@
     "name": "EliGE (Gold) | Copenhagen 2024",
     "gen_id": 7526,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_elige_gold_png.png"
@@ -1335,7 +2460,7 @@
     "name": "floppy | Copenhagen 2024",
     "gen_id": 7527,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_floppy_png.png"
@@ -1344,7 +2469,7 @@
     "name": "floppy (Glitter) | Copenhagen 2024",
     "gen_id": 7528,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_floppy_glitter_png.png"
@@ -1353,7 +2478,7 @@
     "name": "floppy (Holo) | Copenhagen 2024",
     "gen_id": 7529,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_floppy_holo_png.png"
@@ -1362,7 +2487,7 @@
     "name": "floppy (Gold) | Copenhagen 2024",
     "gen_id": 7530,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_floppy_gold_png.png"
@@ -1371,7 +2496,7 @@
     "name": "Grim | Copenhagen 2024",
     "gen_id": 7531,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_grim_png.png"
@@ -1380,7 +2505,7 @@
     "name": "Grim (Glitter) | Copenhagen 2024",
     "gen_id": 7532,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_grim_glitter_png.png"
@@ -1389,7 +2514,7 @@
     "name": "Grim (Holo) | Copenhagen 2024",
     "gen_id": 7533,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_grim_holo_png.png"
@@ -1398,7 +2523,7 @@
     "name": "Grim (Gold) | Copenhagen 2024",
     "gen_id": 7534,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_grim_gold_png.png"
@@ -1407,7 +2532,7 @@
     "name": "JT | Copenhagen 2024",
     "gen_id": 7535,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jt_png.png"
@@ -1416,7 +2541,7 @@
     "name": "JT (Glitter) | Copenhagen 2024",
     "gen_id": 7536,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jt_glitter_png.png"
@@ -1425,7 +2550,7 @@
     "name": "JT (Holo) | Copenhagen 2024",
     "gen_id": 7537,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jt_holo_png.png"
@@ -1434,7 +2559,7 @@
     "name": "JT (Gold) | Copenhagen 2024",
     "gen_id": 7538,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jt_gold_png.png"
@@ -1443,7 +2568,7 @@
     "name": "Ax1Le | Copenhagen 2024",
     "gen_id": 7539,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_png.png"
@@ -1452,7 +2577,7 @@
     "name": "Ax1Le (Glitter) | Copenhagen 2024",
     "gen_id": 7540,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_glitter_png.png"
@@ -1461,7 +2586,7 @@
     "name": "Ax1Le (Holo) | Copenhagen 2024",
     "gen_id": 7541,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_holo_png.png"
@@ -1470,7 +2595,7 @@
     "name": "Ax1Le (Gold) | Copenhagen 2024",
     "gen_id": 7542,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_gold_png.png"
@@ -1479,7 +2604,7 @@
     "name": "Boombl4 | Copenhagen 2024",
     "gen_id": 7543,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_png.png"
@@ -1488,7 +2613,7 @@
     "name": "Boombl4 (Glitter) | Copenhagen 2024",
     "gen_id": 7544,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_glitter_png.png"
@@ -1497,7 +2622,7 @@
     "name": "Boombl4 (Holo) | Copenhagen 2024",
     "gen_id": 7545,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_holo_png.png"
@@ -1506,7 +2631,7 @@
     "name": "Boombl4 (Gold) | Copenhagen 2024",
     "gen_id": 7546,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_gold_png.png"
@@ -1515,7 +2640,7 @@
     "name": "electronic | Copenhagen 2024",
     "gen_id": 7547,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_electronic_png.png"
@@ -1524,7 +2649,7 @@
     "name": "electronic (Glitter) | Copenhagen 2024",
     "gen_id": 7548,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_electronic_glitter_png.png"
@@ -1533,7 +2658,7 @@
     "name": "electronic (Holo) | Copenhagen 2024",
     "gen_id": 7549,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_electronic_holo_png.png"
@@ -1542,7 +2667,7 @@
     "name": "electronic (Gold) | Copenhagen 2024",
     "gen_id": 7550,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_electronic_gold_png.png"
@@ -1551,7 +2676,7 @@
     "name": "Hobbit | Copenhagen 2024",
     "gen_id": 7551,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_png.png"
@@ -1560,7 +2685,7 @@
     "name": "Hobbit (Glitter) | Copenhagen 2024",
     "gen_id": 7552,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_glitter_png.png"
@@ -1569,7 +2694,7 @@
     "name": "Hobbit (Holo) | Copenhagen 2024",
     "gen_id": 7553,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_holo_png.png"
@@ -1578,7 +2703,7 @@
     "name": "Hobbit (Gold) | Copenhagen 2024",
     "gen_id": 7554,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_gold_png.png"
@@ -1587,7 +2712,7 @@
     "name": "Perfecto | Copenhagen 2024",
     "gen_id": 7555,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_png.png"
@@ -1596,7 +2721,7 @@
     "name": "Perfecto (Glitter) | Copenhagen 2024",
     "gen_id": 7556,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_glitter_png.png"
@@ -1605,7 +2730,7 @@
     "name": "Perfecto (Holo) | Copenhagen 2024",
     "gen_id": 7557,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_holo_png.png"
@@ -1614,7 +2739,7 @@
     "name": "Perfecto (Gold) | Copenhagen 2024",
     "gen_id": 7558,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_gold_png.png"
@@ -1623,7 +2748,7 @@
     "name": "Goofy | Copenhagen 2024",
     "gen_id": 7559,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_goofy_png.png"
@@ -1632,7 +2757,7 @@
     "name": "Goofy (Glitter) | Copenhagen 2024",
     "gen_id": 7560,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_goofy_glitter_png.png"
@@ -1641,7 +2766,7 @@
     "name": "Goofy (Holo) | Copenhagen 2024",
     "gen_id": 7561,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_goofy_holo_png.png"
@@ -1650,7 +2775,7 @@
     "name": "Goofy (Gold) | Copenhagen 2024",
     "gen_id": 7562,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_goofy_gold_png.png"
@@ -1659,7 +2784,7 @@
     "name": "Kylar | Copenhagen 2024",
     "gen_id": 7563,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kylar_png.png"
@@ -1668,7 +2793,7 @@
     "name": "Kylar (Glitter) | Copenhagen 2024",
     "gen_id": 7564,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kylar_glitter_png.png"
@@ -1677,7 +2802,7 @@
     "name": "Kylar (Holo) | Copenhagen 2024",
     "gen_id": 7565,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kylar_holo_png.png"
@@ -1686,7 +2811,7 @@
     "name": "Kylar (Gold) | Copenhagen 2024",
     "gen_id": 7566,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kylar_gold_png.png"
@@ -1695,7 +2820,7 @@
     "name": "Dycha | Copenhagen 2024",
     "gen_id": 7567,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dycha_png.png"
@@ -1704,7 +2829,7 @@
     "name": "Dycha (Glitter) | Copenhagen 2024",
     "gen_id": 7568,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dycha_glitter_png.png"
@@ -1713,7 +2838,7 @@
     "name": "Dycha (Holo) | Copenhagen 2024",
     "gen_id": 7569,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dycha_holo_png.png"
@@ -1722,7 +2847,7 @@
     "name": "Dycha (Gold) | Copenhagen 2024",
     "gen_id": 7570,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dycha_gold_png.png"
@@ -1731,7 +2856,7 @@
     "name": "gla1ve | Copenhagen 2024",
     "gen_id": 7571,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_png.png"
@@ -1740,7 +2865,7 @@
     "name": "gla1ve (Glitter) | Copenhagen 2024",
     "gen_id": 7572,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_glitter_png.png"
@@ -1749,7 +2874,7 @@
     "name": "gla1ve (Holo) | Copenhagen 2024",
     "gen_id": 7573,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_holo_png.png"
@@ -1758,7 +2883,7 @@
     "name": "gla1ve (Gold) | Copenhagen 2024",
     "gen_id": 7574,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_gold_png.png"
@@ -1767,7 +2892,7 @@
     "name": "hades | Copenhagen 2024",
     "gen_id": 7575,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hades_png.png"
@@ -1776,7 +2901,7 @@
     "name": "hades (Glitter) | Copenhagen 2024",
     "gen_id": 7576,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hades_glitter_png.png"
@@ -1785,7 +2910,7 @@
     "name": "hades (Holo) | Copenhagen 2024",
     "gen_id": 7577,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hades_holo_png.png"
@@ -1794,7 +2919,7 @@
     "name": "hades (Gold) | Copenhagen 2024",
     "gen_id": 7578,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hades_gold_png.png"
@@ -1803,7 +2928,7 @@
     "name": "arT | Copenhagen 2024",
     "gen_id": 7579,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_art_png.png"
@@ -1812,7 +2937,7 @@
     "name": "arT (Glitter) | Copenhagen 2024",
     "gen_id": 7580,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_art_glitter_png.png"
@@ -1821,7 +2946,7 @@
     "name": "arT (Holo) | Copenhagen 2024",
     "gen_id": 7581,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_art_holo_png.png"
@@ -1830,7 +2955,7 @@
     "name": "arT (Gold) | Copenhagen 2024",
     "gen_id": 7582,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_art_gold_png.png"
@@ -1839,7 +2964,7 @@
     "name": "chelo | Copenhagen 2024",
     "gen_id": 7583,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chelo_png.png"
@@ -1848,7 +2973,7 @@
     "name": "chelo (Glitter) | Copenhagen 2024",
     "gen_id": 7584,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chelo_glitter_png.png"
@@ -1857,7 +2982,7 @@
     "name": "chelo (Holo) | Copenhagen 2024",
     "gen_id": 7585,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chelo_holo_png.png"
@@ -1866,7 +2991,7 @@
     "name": "chelo (Gold) | Copenhagen 2024",
     "gen_id": 7586,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_chelo_gold_png.png"
@@ -1875,7 +3000,7 @@
     "name": "FalleN | Copenhagen 2024",
     "gen_id": 7587,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fallen_png.png"
@@ -1884,7 +3009,7 @@
     "name": "FalleN (Glitter) | Copenhagen 2024",
     "gen_id": 7588,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fallen_glitter_png.png"
@@ -1893,7 +3018,7 @@
     "name": "FalleN (Holo) | Copenhagen 2024",
     "gen_id": 7589,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fallen_holo_png.png"
@@ -1902,7 +3027,7 @@
     "name": "FalleN (Gold) | Copenhagen 2024",
     "gen_id": 7590,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_fallen_gold_png.png"
@@ -1911,7 +3036,7 @@
     "name": "KSCERATO | Copenhagen 2024",
     "gen_id": 7591,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_png.png"
@@ -1920,7 +3045,7 @@
     "name": "KSCERATO (Glitter) | Copenhagen 2024",
     "gen_id": 7592,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_glitter_png.png"
@@ -1929,7 +3054,7 @@
     "name": "KSCERATO (Holo) | Copenhagen 2024",
     "gen_id": 7593,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_holo_png.png"
@@ -1938,7 +3063,7 @@
     "name": "KSCERATO (Gold) | Copenhagen 2024",
     "gen_id": 7594,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_gold_png.png"
@@ -1947,7 +3072,7 @@
     "name": "yuurih | Copenhagen 2024",
     "gen_id": 7595,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_png.png"
@@ -1956,7 +3081,7 @@
     "name": "yuurih (Glitter) | Copenhagen 2024",
     "gen_id": 7596,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_glitter_png.png"
@@ -1965,7 +3090,7 @@
     "name": "yuurih (Holo) | Copenhagen 2024",
     "gen_id": 7597,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_holo_png.png"
@@ -1974,7 +3099,7 @@
     "name": "yuurih (Gold) | Copenhagen 2024",
     "gen_id": 7598,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_gold_png.png"
@@ -1983,7 +3108,7 @@
     "name": "kyxsan | Copenhagen 2024",
     "gen_id": 7599,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_png.png"
@@ -1992,7 +3117,7 @@
     "name": "kyxsan (Glitter) | Copenhagen 2024",
     "gen_id": 7600,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_glitter_png.png"
@@ -2001,7 +3126,7 @@
     "name": "kyxsan (Holo) | Copenhagen 2024",
     "gen_id": 7601,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_holo_png.png"
@@ -2010,7 +3135,7 @@
     "name": "kyxsan (Gold) | Copenhagen 2024",
     "gen_id": 7602,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_gold_png.png"
@@ -2019,7 +3144,7 @@
     "name": "NertZ | Copenhagen 2024",
     "gen_id": 7603,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nertz_png.png"
@@ -2028,7 +3153,7 @@
     "name": "NertZ (Glitter) | Copenhagen 2024",
     "gen_id": 7604,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nertz_glitter_png.png"
@@ -2037,7 +3162,7 @@
     "name": "NertZ (Holo) | Copenhagen 2024",
     "gen_id": 7605,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nertz_holo_png.png"
@@ -2046,7 +3171,7 @@
     "name": "NertZ (Gold) | Copenhagen 2024",
     "gen_id": 7606,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nertz_gold_png.png"
@@ -2055,7 +3180,7 @@
     "name": "nicoodoz | Copenhagen 2024",
     "gen_id": 7607,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_png.png"
@@ -2064,7 +3189,7 @@
     "name": "nicoodoz (Glitter) | Copenhagen 2024",
     "gen_id": 7608,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_glitter_png.png"
@@ -2073,7 +3198,7 @@
     "name": "nicoodoz (Holo) | Copenhagen 2024",
     "gen_id": 7609,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_holo_png.png"
@@ -2082,7 +3207,7 @@
     "name": "nicoodoz (Gold) | Copenhagen 2024",
     "gen_id": 7610,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_gold_png.png"
@@ -2091,7 +3216,7 @@
     "name": "sjuush | Copenhagen 2024",
     "gen_id": 7611,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_png.png"
@@ -2100,7 +3225,7 @@
     "name": "sjuush (Glitter) | Copenhagen 2024",
     "gen_id": 7612,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_glitter_png.png"
@@ -2109,7 +3234,7 @@
     "name": "sjuush (Holo) | Copenhagen 2024",
     "gen_id": 7613,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_holo_png.png"
@@ -2118,7 +3243,7 @@
     "name": "sjuush (Gold) | Copenhagen 2024",
     "gen_id": 7614,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_gold_png.png"
@@ -2127,7 +3252,7 @@
     "name": "TeSeS | Copenhagen 2024",
     "gen_id": 7615,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_teses_png.png"
@@ -2136,7 +3261,7 @@
     "name": "TeSeS (Glitter) | Copenhagen 2024",
     "gen_id": 7616,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_teses_glitter_png.png"
@@ -2145,7 +3270,7 @@
     "name": "TeSeS (Holo) | Copenhagen 2024",
     "gen_id": 7617,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_teses_holo_png.png"
@@ -2154,7 +3279,7 @@
     "name": "TeSeS (Gold) | Copenhagen 2024",
     "gen_id": 7618,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_teses_gold_png.png"
@@ -2163,7 +3288,7 @@
     "name": "Calyx | Copenhagen 2024",
     "gen_id": 7619,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_calyx_png.png"
@@ -2172,7 +3297,7 @@
     "name": "Calyx (Glitter) | Copenhagen 2024",
     "gen_id": 7620,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_calyx_glitter_png.png"
@@ -2181,7 +3306,7 @@
     "name": "Calyx (Holo) | Copenhagen 2024",
     "gen_id": 7621,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_calyx_holo_png.png"
@@ -2190,7 +3315,7 @@
     "name": "Calyx (Gold) | Copenhagen 2024",
     "gen_id": 7622,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_calyx_gold_png.png"
@@ -2199,7 +3324,7 @@
     "name": "MAJ3R | Copenhagen 2024",
     "gen_id": 7623,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_png.png"
@@ -2208,7 +3333,7 @@
     "name": "MAJ3R (Glitter) | Copenhagen 2024",
     "gen_id": 7624,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_glitter_png.png"
@@ -2217,7 +3342,7 @@
     "name": "MAJ3R (Holo) | Copenhagen 2024",
     "gen_id": 7625,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_holo_png.png"
@@ -2226,7 +3351,7 @@
     "name": "MAJ3R (Gold) | Copenhagen 2024",
     "gen_id": 7626,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_gold_png.png"
@@ -2235,7 +3360,7 @@
     "name": "Wicadia | Copenhagen 2024",
     "gen_id": 7627,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_png.png"
@@ -2244,7 +3369,7 @@
     "name": "Wicadia (Glitter) | Copenhagen 2024",
     "gen_id": 7628,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_glitter_png.png"
@@ -2253,7 +3378,7 @@
     "name": "Wicadia (Holo) | Copenhagen 2024",
     "gen_id": 7629,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_holo_png.png"
@@ -2262,7 +3387,7 @@
     "name": "Wicadia (Gold) | Copenhagen 2024",
     "gen_id": 7630,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_gold_png.png"
@@ -2271,7 +3396,7 @@
     "name": "woxic | Copenhagen 2024",
     "gen_id": 7631,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_woxic_png.png"
@@ -2280,7 +3405,7 @@
     "name": "woxic (Glitter) | Copenhagen 2024",
     "gen_id": 7632,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_woxic_glitter_png.png"
@@ -2289,7 +3414,7 @@
     "name": "woxic (Holo) | Copenhagen 2024",
     "gen_id": 7633,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_woxic_holo_png.png"
@@ -2298,7 +3423,7 @@
     "name": "woxic (Gold) | Copenhagen 2024",
     "gen_id": 7634,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_woxic_gold_png.png"
@@ -2307,7 +3432,7 @@
     "name": "XANTARES | Copenhagen 2024",
     "gen_id": 7635,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xantares_png.png"
@@ -2316,7 +3441,7 @@
     "name": "XANTARES (Glitter) | Copenhagen 2024",
     "gen_id": 7636,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xantares_glitter_png.png"
@@ -2325,7 +3450,7 @@
     "name": "XANTARES (Holo) | Copenhagen 2024",
     "gen_id": 7637,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xantares_holo_png.png"
@@ -2334,7 +3459,7 @@
     "name": "XANTARES (Gold) | Copenhagen 2024",
     "gen_id": 7638,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_xantares_gold_png.png"
@@ -2343,7 +3468,7 @@
     "name": "nawwk | Copenhagen 2024",
     "gen_id": 7639,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_png.png"
@@ -2352,7 +3477,7 @@
     "name": "nawwk (Glitter) | Copenhagen 2024",
     "gen_id": 7640,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_glitter_png.png"
@@ -2361,7 +3486,7 @@
     "name": "nawwk (Holo) | Copenhagen 2024",
     "gen_id": 7641,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_holo_png.png"
@@ -2370,7 +3495,7 @@
     "name": "nawwk (Gold) | Copenhagen 2024",
     "gen_id": 7642,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_gold_png.png"
@@ -2379,7 +3504,7 @@
     "name": "CacaNito | Copenhagen 2024",
     "gen_id": 7643,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_png.png"
@@ -2388,7 +3513,7 @@
     "name": "CacaNito (Glitter) | Copenhagen 2024",
     "gen_id": 7644,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_glitter_png.png"
@@ -2397,7 +3522,7 @@
     "name": "CacaNito (Holo) | Copenhagen 2024",
     "gen_id": 7645,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_holo_png.png"
@@ -2406,7 +3531,7 @@
     "name": "CacaNito (Gold) | Copenhagen 2024",
     "gen_id": 7646,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_gold_png.png"
@@ -2415,7 +3540,7 @@
     "name": "jkaem | Copenhagen 2024",
     "gen_id": 7647,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_png.png"
@@ -2424,7 +3549,7 @@
     "name": "jkaem (Glitter) | Copenhagen 2024",
     "gen_id": 7648,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_glitter_png.png"
@@ -2433,7 +3558,7 @@
     "name": "jkaem (Holo) | Copenhagen 2024",
     "gen_id": 7649,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_holo_png.png"
@@ -2442,7 +3567,7 @@
     "name": "jkaem (Gold) | Copenhagen 2024",
     "gen_id": 7650,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_gold_png.png"
@@ -2451,7 +3576,7 @@
     "name": "sense | Copenhagen 2024",
     "gen_id": 7651,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sense_png.png"
@@ -2460,7 +3585,7 @@
     "name": "sense (Glitter) | Copenhagen 2024",
     "gen_id": 7652,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sense_glitter_png.png"
@@ -2469,7 +3594,7 @@
     "name": "sense (Holo) | Copenhagen 2024",
     "gen_id": 7653,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sense_holo_png.png"
@@ -2478,7 +3603,7 @@
     "name": "sense (Gold) | Copenhagen 2024",
     "gen_id": 7654,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_sense_gold_png.png"
@@ -2487,7 +3612,7 @@
     "name": "STYKO | Copenhagen 2024",
     "gen_id": 7655,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_styko_png.png"
@@ -2496,7 +3621,7 @@
     "name": "STYKO (Glitter) | Copenhagen 2024",
     "gen_id": 7656,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_styko_glitter_png.png"
@@ -2505,7 +3630,7 @@
     "name": "STYKO (Holo) | Copenhagen 2024",
     "gen_id": 7657,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_styko_holo_png.png"
@@ -2514,7 +3639,7 @@
     "name": "STYKO (Gold) | Copenhagen 2024",
     "gen_id": 7658,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_styko_gold_png.png"
@@ -2523,7 +3648,7 @@
     "name": "acoR | Copenhagen 2024",
     "gen_id": 7659,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_acor_png.png"
@@ -2532,7 +3657,7 @@
     "name": "acoR (Glitter) | Copenhagen 2024",
     "gen_id": 7660,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_acor_glitter_png.png"
@@ -2541,7 +3666,7 @@
     "name": "acoR (Holo) | Copenhagen 2024",
     "gen_id": 7661,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_acor_holo_png.png"
@@ -2550,7 +3675,7 @@
     "name": "acoR (Gold) | Copenhagen 2024",
     "gen_id": 7662,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_acor_gold_png.png"
@@ -2559,7 +3684,7 @@
     "name": "isak | Copenhagen 2024",
     "gen_id": 7663,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_isak_png.png"
@@ -2568,7 +3693,7 @@
     "name": "isak (Glitter) | Copenhagen 2024",
     "gen_id": 7664,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_isak_glitter_png.png"
@@ -2577,7 +3702,7 @@
     "name": "isak (Holo) | Copenhagen 2024",
     "gen_id": 7665,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_isak_holo_png.png"
@@ -2586,7 +3711,7 @@
     "name": "isak (Gold) | Copenhagen 2024",
     "gen_id": 7666,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_isak_gold_png.png"
@@ -2595,7 +3720,7 @@
     "name": "Keoz | Copenhagen 2024",
     "gen_id": 7667,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_keoz_png.png"
@@ -2604,7 +3729,7 @@
     "name": "Keoz (Glitter) | Copenhagen 2024",
     "gen_id": 7668,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_keoz_glitter_png.png"
@@ -2613,7 +3738,7 @@
     "name": "Keoz (Holo) | Copenhagen 2024",
     "gen_id": 7669,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_keoz_holo_png.png"
@@ -2622,7 +3747,7 @@
     "name": "Keoz (Gold) | Copenhagen 2024",
     "gen_id": 7670,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_keoz_gold_png.png"
@@ -2631,7 +3756,7 @@
     "name": "Snax | Copenhagen 2024",
     "gen_id": 7671,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_snax_png.png"
@@ -2640,7 +3765,7 @@
     "name": "Snax (Glitter) | Copenhagen 2024",
     "gen_id": 7672,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_snax_glitter_png.png"
@@ -2649,7 +3774,7 @@
     "name": "Snax (Holo) | Copenhagen 2024",
     "gen_id": 7673,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_snax_holo_png.png"
@@ -2658,7 +3783,7 @@
     "name": "Snax (Gold) | Copenhagen 2024",
     "gen_id": 7674,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_snax_gold_png.png"
@@ -2667,7 +3792,7 @@
     "name": "volt | Copenhagen 2024",
     "gen_id": 7675,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_volt_png.png"
@@ -2676,7 +3801,7 @@
     "name": "volt (Glitter) | Copenhagen 2024",
     "gen_id": 7676,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_volt_glitter_png.png"
@@ -2685,7 +3810,7 @@
     "name": "volt (Holo) | Copenhagen 2024",
     "gen_id": 7677,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_volt_holo_png.png"
@@ -2694,7 +3819,7 @@
     "name": "volt (Gold) | Copenhagen 2024",
     "gen_id": 7678,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_volt_gold_png.png"
@@ -2703,7 +3828,7 @@
     "name": "arrozdoce | Copenhagen 2024",
     "gen_id": 7679,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_png.png"
@@ -2712,7 +3837,7 @@
     "name": "arrozdoce (Glitter) | Copenhagen 2024",
     "gen_id": 7680,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_glitter_png.png"
@@ -2721,7 +3846,7 @@
     "name": "arrozdoce (Holo) | Copenhagen 2024",
     "gen_id": 7681,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_holo_png.png"
@@ -2730,7 +3855,7 @@
     "name": "arrozdoce (Gold) | Copenhagen 2024",
     "gen_id": 7682,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_gold_png.png"
@@ -2739,7 +3864,7 @@
     "name": "ewjerkz | Copenhagen 2024",
     "gen_id": 7683,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_png.png"
@@ -2748,7 +3873,7 @@
     "name": "ewjerkz (Glitter) | Copenhagen 2024",
     "gen_id": 7684,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_glitter_png.png"
@@ -2757,7 +3882,7 @@
     "name": "ewjerkz (Holo) | Copenhagen 2024",
     "gen_id": 7685,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_holo_png.png"
@@ -2766,7 +3891,7 @@
     "name": "ewjerkz (Gold) | Copenhagen 2024",
     "gen_id": 7686,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_gold_png.png"
@@ -2775,7 +3900,7 @@
     "name": "MUTiRiS | Copenhagen 2024",
     "gen_id": 7687,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_png.png"
@@ -2784,7 +3909,7 @@
     "name": "MUTiRiS (Glitter) | Copenhagen 2024",
     "gen_id": 7688,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_glitter_png.png"
@@ -2793,7 +3918,7 @@
     "name": "MUTiRiS (Holo) | Copenhagen 2024",
     "gen_id": 7689,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_holo_png.png"
@@ -2802,7 +3927,7 @@
     "name": "MUTiRiS (Gold) | Copenhagen 2024",
     "gen_id": 7690,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_gold_png.png"
@@ -2811,7 +3936,7 @@
     "name": "roman | Copenhagen 2024",
     "gen_id": 7691,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_roman_png.png"
@@ -2820,7 +3945,7 @@
     "name": "roman (Glitter) | Copenhagen 2024",
     "gen_id": 7692,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_roman_glitter_png.png"
@@ -2829,7 +3954,7 @@
     "name": "roman (Holo) | Copenhagen 2024",
     "gen_id": 7693,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_roman_holo_png.png"
@@ -2838,7 +3963,7 @@
     "name": "roman (Gold) | Copenhagen 2024",
     "gen_id": 7694,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_roman_gold_png.png"
@@ -2847,7 +3972,7 @@
     "name": "story | Copenhagen 2024",
     "gen_id": 7695,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_story_png.png"
@@ -2856,7 +3981,7 @@
     "name": "story (Glitter) | Copenhagen 2024",
     "gen_id": 7696,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_story_glitter_png.png"
@@ -2865,7 +3990,7 @@
     "name": "story (Holo) | Copenhagen 2024",
     "gen_id": 7697,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_story_holo_png.png"
@@ -2874,7 +3999,7 @@
     "name": "story (Gold) | Copenhagen 2024",
     "gen_id": 7698,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_story_gold_png.png"
@@ -2883,7 +4008,7 @@
     "name": "biguzera | Copenhagen 2024",
     "gen_id": 7699,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_png.png"
@@ -2892,7 +4017,7 @@
     "name": "biguzera (Glitter) | Copenhagen 2024",
     "gen_id": 7700,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_glitter_png.png"
@@ -2901,7 +4026,7 @@
     "name": "biguzera (Holo) | Copenhagen 2024",
     "gen_id": 7701,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_holo_png.png"
@@ -2910,7 +4035,7 @@
     "name": "biguzera (Gold) | Copenhagen 2024",
     "gen_id": 7702,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_gold_png.png"
@@ -2919,7 +4044,7 @@
     "name": "kauez | Copenhagen 2024",
     "gen_id": 7703,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kauez_png.png"
@@ -2928,7 +4053,7 @@
     "name": "kauez (Glitter) | Copenhagen 2024",
     "gen_id": 7704,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kauez_glitter_png.png"
@@ -2937,7 +4062,7 @@
     "name": "kauez (Holo) | Copenhagen 2024",
     "gen_id": 7705,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kauez_holo_png.png"
@@ -2946,7 +4071,7 @@
     "name": "kauez (Gold) | Copenhagen 2024",
     "gen_id": 7706,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kauez_gold_png.png"
@@ -2955,7 +4080,7 @@
     "name": "lux | Copenhagen 2024",
     "gen_id": 7707,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_lux_png.png"
@@ -2964,7 +4089,7 @@
     "name": "lux (Glitter) | Copenhagen 2024",
     "gen_id": 7708,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_lux_glitter_png.png"
@@ -2973,7 +4098,7 @@
     "name": "lux (Holo) | Copenhagen 2024",
     "gen_id": 7709,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_lux_holo_png.png"
@@ -2982,7 +4107,7 @@
     "name": "lux (Gold) | Copenhagen 2024",
     "gen_id": 7710,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_lux_gold_png.png"
@@ -2991,7 +4116,7 @@
     "name": "n1ssim | Copenhagen 2024",
     "gen_id": 7711,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_png.png"
@@ -3000,7 +4125,7 @@
     "name": "n1ssim (Glitter) | Copenhagen 2024",
     "gen_id": 7712,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_glitter_png.png"
@@ -3009,7 +4134,7 @@
     "name": "n1ssim (Holo) | Copenhagen 2024",
     "gen_id": 7713,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_holo_png.png"
@@ -3018,7 +4143,7 @@
     "name": "n1ssim (Gold) | Copenhagen 2024",
     "gen_id": 7714,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_gold_png.png"
@@ -3027,7 +4152,7 @@
     "name": "NQZ | Copenhagen 2024",
     "gen_id": 7715,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nqz_png.png"
@@ -3036,7 +4161,7 @@
     "name": "NQZ (Glitter) | Copenhagen 2024",
     "gen_id": 7716,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nqz_glitter_png.png"
@@ -3045,7 +4170,7 @@
     "name": "NQZ (Holo) | Copenhagen 2024",
     "gen_id": 7717,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nqz_holo_png.png"
@@ -3054,7 +4179,7 @@
     "name": "NQZ (Gold) | Copenhagen 2024",
     "gen_id": 7718,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nqz_gold_png.png"
@@ -3063,7 +4188,7 @@
     "name": "decenty | Copenhagen 2024",
     "gen_id": 7719,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_decenty_png.png"
@@ -3072,7 +4197,7 @@
     "name": "decenty (Glitter) | Copenhagen 2024",
     "gen_id": 7720,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_decenty_glitter_png.png"
@@ -3081,7 +4206,7 @@
     "name": "decenty (Holo) | Copenhagen 2024",
     "gen_id": 7721,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_decenty_holo_png.png"
@@ -3090,7 +4215,7 @@
     "name": "decenty (Gold) | Copenhagen 2024",
     "gen_id": 7722,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_decenty_gold_png.png"
@@ -3099,7 +4224,7 @@
     "name": "felps | Copenhagen 2024",
     "gen_id": 7723,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_felps_png.png"
@@ -3108,7 +4233,7 @@
     "name": "felps (Glitter) | Copenhagen 2024",
     "gen_id": 7724,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_felps_glitter_png.png"
@@ -3117,7 +4242,7 @@
     "name": "felps (Holo) | Copenhagen 2024",
     "gen_id": 7725,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_felps_holo_png.png"
@@ -3126,7 +4251,7 @@
     "name": "felps (Gold) | Copenhagen 2024",
     "gen_id": 7726,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_felps_gold_png.png"
@@ -3135,7 +4260,7 @@
     "name": "HEN1 | Copenhagen 2024",
     "gen_id": 7727,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hen1_png.png"
@@ -3144,7 +4269,7 @@
     "name": "HEN1 (Glitter) | Copenhagen 2024",
     "gen_id": 7728,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hen1_glitter_png.png"
@@ -3153,7 +4278,7 @@
     "name": "HEN1 (Holo) | Copenhagen 2024",
     "gen_id": 7729,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hen1_holo_png.png"
@@ -3162,7 +4287,7 @@
     "name": "HEN1 (Gold) | Copenhagen 2024",
     "gen_id": 7730,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_hen1_gold_png.png"
@@ -3171,7 +4296,7 @@
     "name": "noway | Copenhagen 2024",
     "gen_id": 7731,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_noway_png.png"
@@ -3180,7 +4305,7 @@
     "name": "noway (Glitter) | Copenhagen 2024",
     "gen_id": 7732,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_noway_glitter_png.png"
@@ -3189,7 +4314,7 @@
     "name": "noway (Holo) | Copenhagen 2024",
     "gen_id": 7733,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_noway_holo_png.png"
@@ -3198,7 +4323,7 @@
     "name": "noway (Gold) | Copenhagen 2024",
     "gen_id": 7734,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_noway_gold_png.png"
@@ -3207,7 +4332,7 @@
     "name": "VINI | Copenhagen 2024",
     "gen_id": 7735,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_vini_png.png"
@@ -3216,7 +4341,7 @@
     "name": "VINI (Glitter) | Copenhagen 2024",
     "gen_id": 7736,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_vini_glitter_png.png"
@@ -3225,7 +4350,7 @@
     "name": "VINI (Holo) | Copenhagen 2024",
     "gen_id": 7737,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_vini_holo_png.png"
@@ -3234,7 +4359,7 @@
     "name": "VINI (Gold) | Copenhagen 2024",
     "gen_id": 7738,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_vini_gold_png.png"
@@ -3243,7 +4368,7 @@
     "name": "910 | Copenhagen 2024",
     "gen_id": 7739,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_910_png.png"
@@ -3252,7 +4377,7 @@
     "name": "910 (Glitter) | Copenhagen 2024",
     "gen_id": 7740,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_910_glitter_png.png"
@@ -3261,7 +4386,7 @@
     "name": "910 (Holo) | Copenhagen 2024",
     "gen_id": 7741,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_910_holo_png.png"
@@ -3270,7 +4395,7 @@
     "name": "910 (Gold) | Copenhagen 2024",
     "gen_id": 7742,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_910_gold_png.png"
@@ -3279,7 +4404,7 @@
     "name": "bLitz | Copenhagen 2024",
     "gen_id": 7743,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_blitz_png.png"
@@ -3288,7 +4413,7 @@
     "name": "bLitz (Glitter) | Copenhagen 2024",
     "gen_id": 7744,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_blitz_glitter_png.png"
@@ -3297,7 +4422,7 @@
     "name": "bLitz (Holo) | Copenhagen 2024",
     "gen_id": 7745,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_blitz_holo_png.png"
@@ -3306,7 +4431,7 @@
     "name": "bLitz (Gold) | Copenhagen 2024",
     "gen_id": 7746,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_blitz_gold_png.png"
@@ -3315,7 +4440,7 @@
     "name": "mzinho | Copenhagen 2024",
     "gen_id": 7747,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_png.png"
@@ -3324,7 +4449,7 @@
     "name": "mzinho (Glitter) | Copenhagen 2024",
     "gen_id": 7748,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_glitter_png.png"
@@ -3333,7 +4458,7 @@
     "name": "mzinho (Holo) | Copenhagen 2024",
     "gen_id": 7749,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_holo_png.png"
@@ -3342,7 +4467,7 @@
     "name": "mzinho (Gold) | Copenhagen 2024",
     "gen_id": 7750,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_gold_png.png"
@@ -3351,7 +4476,7 @@
     "name": "Senzu | Copenhagen 2024",
     "gen_id": 7751,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_senzu_png.png"
@@ -3360,7 +4485,7 @@
     "name": "Senzu (Glitter) | Copenhagen 2024",
     "gen_id": 7752,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_senzu_glitter_png.png"
@@ -3369,7 +4494,7 @@
     "name": "Senzu (Holo) | Copenhagen 2024",
     "gen_id": 7753,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_senzu_holo_png.png"
@@ -3378,7 +4503,7 @@
     "name": "Senzu (Gold) | Copenhagen 2024",
     "gen_id": 7754,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_senzu_gold_png.png"
@@ -3387,7 +4512,7 @@
     "name": "Techno4K | Copenhagen 2024",
     "gen_id": 7755,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_png.png"
@@ -3396,7 +4521,7 @@
     "name": "Techno4K (Glitter) | Copenhagen 2024",
     "gen_id": 7756,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_glitter_png.png"
@@ -3405,7 +4530,7 @@
     "name": "Techno4K (Holo) | Copenhagen 2024",
     "gen_id": 7757,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_holo_png.png"
@@ -3414,7 +4539,7 @@
     "name": "Techno4K (Gold) | Copenhagen 2024",
     "gen_id": 7758,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_gold_png.png"
@@ -3423,7 +4548,7 @@
     "name": "Forester | Copenhagen 2024",
     "gen_id": 7759,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_forester_png.png"
@@ -3432,7 +4557,7 @@
     "name": "Forester (Glitter) | Copenhagen 2024",
     "gen_id": 7760,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_forester_glitter_png.png"
@@ -3441,7 +4566,7 @@
     "name": "Forester (Holo) | Copenhagen 2024",
     "gen_id": 7761,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_forester_holo_png.png"
@@ -3450,7 +4575,7 @@
     "name": "Forester (Gold) | Copenhagen 2024",
     "gen_id": 7762,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_forester_gold_png.png"
@@ -3459,7 +4584,7 @@
     "name": "ICY | Copenhagen 2024",
     "gen_id": 7763,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_icy_png.png"
@@ -3468,7 +4593,7 @@
     "name": "ICY (Glitter) | Copenhagen 2024",
     "gen_id": 7764,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_icy_glitter_png.png"
@@ -3477,7 +4602,7 @@
     "name": "ICY (Holo) | Copenhagen 2024",
     "gen_id": 7765,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_icy_holo_png.png"
@@ -3486,7 +4611,7 @@
     "name": "ICY (Gold) | Copenhagen 2024",
     "gen_id": 7766,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_icy_gold_png.png"
@@ -3495,7 +4620,7 @@
     "name": "Krad | Copenhagen 2024",
     "gen_id": 7767,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_krad_png.png"
@@ -3504,7 +4629,7 @@
     "name": "Krad (Glitter) | Copenhagen 2024",
     "gen_id": 7768,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_krad_glitter_png.png"
@@ -3513,7 +4638,7 @@
     "name": "Krad (Holo) | Copenhagen 2024",
     "gen_id": 7769,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_krad_holo_png.png"
@@ -3522,7 +4647,7 @@
     "name": "Krad (Gold) | Copenhagen 2024",
     "gen_id": 7770,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_krad_gold_png.png"
@@ -3531,7 +4656,7 @@
     "name": "NickelBack | Copenhagen 2024",
     "gen_id": 7771,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_png.png"
@@ -3540,7 +4665,7 @@
     "name": "NickelBack (Glitter) | Copenhagen 2024",
     "gen_id": 7772,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_glitter_png.png"
@@ -3549,7 +4674,7 @@
     "name": "NickelBack (Holo) | Copenhagen 2024",
     "gen_id": 7773,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_holo_png.png"
@@ -3558,7 +4683,7 @@
     "name": "NickelBack (Gold) | Copenhagen 2024",
     "gen_id": 7774,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_gold_png.png"
@@ -3567,7 +4692,7 @@
     "name": "TRAVIS | Copenhagen 2024",
     "gen_id": 7775,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_travis_png.png"
@@ -3576,7 +4701,7 @@
     "name": "TRAVIS (Glitter) | Copenhagen 2024",
     "gen_id": 7776,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_travis_glitter_png.png"
@@ -3585,7 +4710,7 @@
     "name": "TRAVIS (Holo) | Copenhagen 2024",
     "gen_id": 7777,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_travis_holo_png.png"
@@ -3594,7 +4719,7 @@
     "name": "TRAVIS (Gold) | Copenhagen 2024",
     "gen_id": 7778,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_travis_gold_png.png"
@@ -3603,7 +4728,7 @@
     "name": "kraghen | Copenhagen 2024",
     "gen_id": 7779,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_png.png"
@@ -3612,7 +4737,7 @@
     "name": "kraghen (Glitter) | Copenhagen 2024",
     "gen_id": 7780,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_glitter_png.png"
@@ -3621,7 +4746,7 @@
     "name": "kraghen (Holo) | Copenhagen 2024",
     "gen_id": 7781,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_holo_png.png"
@@ -3630,7 +4755,7 @@
     "name": "kraghen (Gold) | Copenhagen 2024",
     "gen_id": 7782,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_gold_png.png"
@@ -3639,7 +4764,7 @@
     "name": "Nodios | Copenhagen 2024",
     "gen_id": 7783,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nodios_png.png"
@@ -3648,7 +4773,7 @@
     "name": "Nodios (Glitter) | Copenhagen 2024",
     "gen_id": 7784,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nodios_glitter_png.png"
@@ -3657,7 +4782,7 @@
     "name": "Nodios (Holo) | Copenhagen 2024",
     "gen_id": 7785,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nodios_holo_png.png"
@@ -3666,7 +4791,7 @@
     "name": "Nodios (Gold) | Copenhagen 2024",
     "gen_id": 7786,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nodios_gold_png.png"
@@ -3675,7 +4800,7 @@
     "name": "Patti | Copenhagen 2024",
     "gen_id": 7787,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_patti_png.png"
@@ -3684,7 +4809,7 @@
     "name": "Patti (Glitter) | Copenhagen 2024",
     "gen_id": 7788,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_patti_glitter_png.png"
@@ -3693,7 +4818,7 @@
     "name": "Patti (Holo) | Copenhagen 2024",
     "gen_id": 7789,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_patti_holo_png.png"
@@ -3702,7 +4827,7 @@
     "name": "Patti (Gold) | Copenhagen 2024",
     "gen_id": 7790,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_patti_gold_png.png"
@@ -3711,7 +4836,7 @@
     "name": "Queenix | Copenhagen 2024",
     "gen_id": 7791,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_queenix_png.png"
@@ -3720,7 +4845,7 @@
     "name": "Queenix (Glitter) | Copenhagen 2024",
     "gen_id": 7792,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_queenix_glitter_png.png"
@@ -3729,7 +4854,7 @@
     "name": "Queenix (Holo) | Copenhagen 2024",
     "gen_id": 7793,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_queenix_holo_png.png"
@@ -3738,7 +4863,7 @@
     "name": "Queenix (Gold) | Copenhagen 2024",
     "gen_id": 7794,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_queenix_gold_png.png"
@@ -3747,7 +4872,7 @@
     "name": "salazar | Copenhagen 2024",
     "gen_id": 7795,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_salazar_png.png"
@@ -3756,7 +4881,7 @@
     "name": "salazar (Glitter) | Copenhagen 2024",
     "gen_id": 7796,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_salazar_glitter_png.png"
@@ -3765,7 +4890,7 @@
     "name": "salazar (Holo) | Copenhagen 2024",
     "gen_id": 7797,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_salazar_holo_png.png"
@@ -3774,7 +4899,7 @@
     "name": "salazar (Gold) | Copenhagen 2024",
     "gen_id": 7798,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_salazar_gold_png.png"
@@ -3783,7 +4908,7 @@
     "name": "adamS | Copenhagen 2024",
     "gen_id": 7799,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_adams_png.png"
@@ -3792,7 +4917,7 @@
     "name": "adamS (Glitter) | Copenhagen 2024",
     "gen_id": 7800,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_adams_glitter_png.png"
@@ -3801,7 +4926,7 @@
     "name": "adamS (Holo) | Copenhagen 2024",
     "gen_id": 7801,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_adams_holo_png.png"
@@ -3810,7 +4935,7 @@
     "name": "adamS (Gold) | Copenhagen 2024",
     "gen_id": 7802,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_adams_gold_png.png"
@@ -3819,7 +4944,7 @@
     "name": "dav1g | Copenhagen 2024",
     "gen_id": 7803,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_png.png"
@@ -3828,7 +4953,7 @@
     "name": "dav1g (Glitter) | Copenhagen 2024",
     "gen_id": 7804,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_glitter_png.png"
@@ -3837,7 +4962,7 @@
     "name": "dav1g (Holo) | Copenhagen 2024",
     "gen_id": 7805,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_holo_png.png"
@@ -3846,7 +4971,7 @@
     "name": "dav1g (Gold) | Copenhagen 2024",
     "gen_id": 7806,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_gold_png.png"
@@ -3855,7 +4980,7 @@
     "name": "JUST | Copenhagen 2024",
     "gen_id": 7807,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_just_png.png"
@@ -3864,7 +4989,7 @@
     "name": "JUST (Glitter) | Copenhagen 2024",
     "gen_id": 7808,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_just_glitter_png.png"
@@ -3873,7 +4998,7 @@
     "name": "JUST (Holo) | Copenhagen 2024",
     "gen_id": 7809,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_just_holo_png.png"
@@ -3882,7 +5007,7 @@
     "name": "JUST (Gold) | Copenhagen 2024",
     "gen_id": 7810,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_just_gold_png.png"
@@ -3891,7 +5016,7 @@
     "name": "mopoz | Copenhagen 2024",
     "gen_id": 7811,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_png.png"
@@ -3900,7 +5025,7 @@
     "name": "mopoz (Glitter) | Copenhagen 2024",
     "gen_id": 7812,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_glitter_png.png"
@@ -3909,7 +5034,7 @@
     "name": "mopoz (Holo) | Copenhagen 2024",
     "gen_id": 7813,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_holo_png.png"
@@ -3918,7 +5043,7 @@
     "name": "mopoz (Gold) | Copenhagen 2024",
     "gen_id": 7814,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_gold_png.png"
@@ -3927,7 +5052,7 @@
     "name": "stadodo | Copenhagen 2024",
     "gen_id": 7815,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_png.png"
@@ -3936,7 +5061,7 @@
     "name": "stadodo (Glitter) | Copenhagen 2024",
     "gen_id": 7816,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_glitter_png.png"
@@ -3945,7 +5070,7 @@
     "name": "stadodo (Holo) | Copenhagen 2024",
     "gen_id": 7817,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_holo_png.png"
@@ -3954,7 +5079,7 @@
     "name": "stadodo (Gold) | Copenhagen 2024",
     "gen_id": 7818,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_gold_png.png"
@@ -3963,7 +5088,7 @@
     "name": "b4rtiN | Copenhagen 2024",
     "gen_id": 7819,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_png.png"
@@ -3972,7 +5097,7 @@
     "name": "b4rtiN (Glitter) | Copenhagen 2024",
     "gen_id": 7820,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_glitter_png.png"
@@ -3981,7 +5106,7 @@
     "name": "b4rtiN (Holo) | Copenhagen 2024",
     "gen_id": 7821,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_holo_png.png"
@@ -3990,7 +5115,7 @@
     "name": "b4rtiN (Gold) | Copenhagen 2024",
     "gen_id": 7822,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_gold_png.png"
@@ -3999,7 +5124,7 @@
     "name": "coldzera | Copenhagen 2024",
     "gen_id": 7823,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_png.png"
@@ -4008,7 +5133,7 @@
     "name": "coldzera (Glitter) | Copenhagen 2024",
     "gen_id": 7824,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_glitter_png.png"
@@ -4017,7 +5142,7 @@
     "name": "coldzera (Holo) | Copenhagen 2024",
     "gen_id": 7825,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_holo_png.png"
@@ -4026,7 +5151,7 @@
     "name": "coldzera (Gold) | Copenhagen 2024",
     "gen_id": 7826,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_gold_png.png"
@@ -4035,7 +5160,7 @@
     "name": "dumau | Copenhagen 2024",
     "gen_id": 7827,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dumau_png.png"
@@ -4044,7 +5169,7 @@
     "name": "dumau (Glitter) | Copenhagen 2024",
     "gen_id": 7828,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dumau_glitter_png.png"
@@ -4053,7 +5178,7 @@
     "name": "dumau (Holo) | Copenhagen 2024",
     "gen_id": 7829,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dumau_holo_png.png"
@@ -4062,7 +5187,7 @@
     "name": "dumau (Gold) | Copenhagen 2024",
     "gen_id": 7830,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_dumau_gold_png.png"
@@ -4071,7 +5196,7 @@
     "name": "latto | Copenhagen 2024",
     "gen_id": 7831,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_latto_png.png"
@@ -4080,7 +5205,7 @@
     "name": "latto (Glitter) | Copenhagen 2024",
     "gen_id": 7832,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_latto_glitter_png.png"
@@ -4089,7 +5214,7 @@
     "name": "latto (Holo) | Copenhagen 2024",
     "gen_id": 7833,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_latto_holo_png.png"
@@ -4098,7 +5223,7 @@
     "name": "latto (Gold) | Copenhagen 2024",
     "gen_id": 7834,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_latto_gold_png.png"
@@ -4107,7 +5232,7 @@
     "name": "NEKiZ | Copenhagen 2024",
     "gen_id": 7835,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_png.png"
@@ -4116,7 +5241,7 @@
     "name": "NEKiZ (Glitter) | Copenhagen 2024",
     "gen_id": 7836,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_glitter_png.png"
@@ -4125,7 +5250,7 @@
     "name": "NEKiZ (Holo) | Copenhagen 2024",
     "gen_id": 7837,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_holo_png.png"
@@ -4134,7 +5259,7 @@
     "name": "NEKiZ (Gold) | Copenhagen 2024",
     "gen_id": 7838,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_gold_png.png"
@@ -4143,7 +5268,7 @@
     "name": "EmiliaQAQ | Copenhagen 2024",
     "gen_id": 7839,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_png.png"
@@ -4152,7 +5277,7 @@
     "name": "EmiliaQAQ (Glitter) | Copenhagen 2024",
     "gen_id": 7840,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_glitter_png.png"
@@ -4161,7 +5286,7 @@
     "name": "EmiliaQAQ (Holo) | Copenhagen 2024",
     "gen_id": 7841,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_holo_png.png"
@@ -4170,7 +5295,7 @@
     "name": "EmiliaQAQ (Gold) | Copenhagen 2024",
     "gen_id": 7842,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_gold_png.png"
@@ -4179,7 +5304,7 @@
     "name": "Jee | Copenhagen 2024",
     "gen_id": 7843,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jee_png.png"
@@ -4188,7 +5313,7 @@
     "name": "Jee (Glitter) | Copenhagen 2024",
     "gen_id": 7844,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jee_glitter_png.png"
@@ -4197,7 +5322,7 @@
     "name": "Jee (Holo) | Copenhagen 2024",
     "gen_id": 7845,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jee_holo_png.png"
@@ -4206,7 +5331,7 @@
     "name": "Jee (Gold) | Copenhagen 2024",
     "gen_id": 7846,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_jee_gold_png.png"
@@ -4215,7 +5340,7 @@
     "name": "Starry | Copenhagen 2024",
     "gen_id": 7847,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_starry_png.png"
@@ -4224,7 +5349,7 @@
     "name": "Starry (Glitter) | Copenhagen 2024",
     "gen_id": 7848,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_starry_glitter_png.png"
@@ -4233,7 +5358,7 @@
     "name": "Starry (Holo) | Copenhagen 2024",
     "gen_id": 7849,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_starry_holo_png.png"
@@ -4242,7 +5367,7 @@
     "name": "Starry (Gold) | Copenhagen 2024",
     "gen_id": 7850,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_starry_gold_png.png"
@@ -4251,7 +5376,7 @@
     "name": "westmelon | Copenhagen 2024",
     "gen_id": 7851,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_png.png"
@@ -4260,7 +5385,7 @@
     "name": "westmelon (Glitter) | Copenhagen 2024",
     "gen_id": 7852,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_glitter_png.png"
@@ -4269,7 +5394,7 @@
     "name": "westmelon (Holo) | Copenhagen 2024",
     "gen_id": 7853,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_holo_png.png"
@@ -4278,7 +5403,7 @@
     "name": "westmelon (Gold) | Copenhagen 2024",
     "gen_id": 7854,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_gold_png.png"
@@ -4287,7 +5412,7 @@
     "name": "z4KR | Copenhagen 2024",
     "gen_id": 7855,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "HighGrade",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_png.png"
@@ -4296,7 +5421,7 @@
     "name": "z4KR (Glitter) | Copenhagen 2024",
     "gen_id": 7856,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Remarkable",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_glitter_png.png"
@@ -4305,7 +5430,7 @@
     "name": "z4KR (Holo) | Copenhagen 2024",
     "gen_id": 7857,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Exotic",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_holo_png.png"
@@ -4314,7 +5439,7 @@
     "name": "z4KR (Gold) | Copenhagen 2024",
     "gen_id": 7858,
     "tournament": "Copenhagen 2024",
-    "rarity": "",
+    "rarity": "Extraordinary",
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_gold_png.png"

@@ -6565,23 +6565,23 @@ internal class Program
                 .ToLower()
                 .Trim();
 
-            string rarity = string.Empty;
+            string rarity = "HighGrade";
 
             if (name.Contains("(Glitter)"))
             {
-                rarity = "_glitter";
+                rarity = "Remarkable";
             }
             else if (name.Contains("(Holo)"))
             {
-                rarity = "_holo";
+                rarity = "Exotic";
             }
             else if (name.Contains("(Foil)"))
             {
-                rarity = "_foil";
+                rarity = "Exotic";
             }
             else if (name.Contains("(Gold)"))
             {
-                rarity = "_gold";
+                rarity = "Extraordinary";
             }
 
             stickers.Add(new Sticker
@@ -6589,6 +6589,7 @@ internal class Program
                 gen_id = item.Key,
                 name = name,
                 tournament = tournamentName,
+                rarity = rarity,
                 BuffGoodsId = null,
                 BuffStickerId = null,
                 Image = $"/assets/img/items/stickers/{entry.sticker_material}_png.png"
@@ -6641,7 +6642,7 @@ internal class Program
         {
             string[] lines = item.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
 
-            if (lines.Length < 10)
+            if (lines.Length < 9)
             {
                 continue;
             }
