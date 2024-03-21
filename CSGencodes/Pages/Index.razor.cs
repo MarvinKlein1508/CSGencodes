@@ -187,19 +187,6 @@ namespace CSGencodes.Pages
             SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
         }
 
-        private void OnStickerPosChanged(int newPos, AppliedSticker sticker)
-        {
-            int oldPos = sticker.PosId;
-            var searchOtherPosId = SelectedStickers.FirstOrDefault(x => x.PosId == newPos);
-            sticker.PosId = newPos;
-
-            if (searchOtherPosId is not null)
-            {
-                searchOtherPosId.PosId = oldPos;
-            }
-
-            SortSelectedStickers();
-        }
 
         private void SortSelectedStickers()
         {

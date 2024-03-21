@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompileJsonCollections", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonModelCreator", "JsonModelCreator\JsonModelCreator.csproj", "{1295647C-99B4-4823-BCFA-5301DE722C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemsGameParser", "ItemsGameParser\ItemsGameParser.csproj", "{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1295647C-99B4-4823-BCFA-5301DE722C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1295647C-99B4-4823-BCFA-5301DE722C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1295647C-99B4-4823-BCFA-5301DE722C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

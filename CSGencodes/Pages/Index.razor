@@ -183,10 +183,7 @@
 
                     <div class="col-md-4">
                         <div class="form-floating mb-3">
-                            <InputSelect TValue="int"
-                                         Value="@sticker.PosId"
-                                         ValueChanged="(value) => OnStickerPosChanged(value, sticker)"
-                                         ValueExpression="() => sticker.PosId"
+                            <InputSelect @bind-Value="sticker.PosId"
                                          class="form-select" id="@($"sticker-pos-{hashCode}")" aria-placeholder="Position">
                                 <option value="0">1</option>
                                 <option value="1">2</option>
