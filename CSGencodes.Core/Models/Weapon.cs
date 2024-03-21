@@ -53,6 +53,9 @@ namespace CSGencodes.Core.Models
 
             var sortedStickers = stickers.OrderBy(x => x.PosId).ToList();
 
+            // We have two stickers, both same position
+
+            int addedStickers = 0;
             int currentPos = 0;
             foreach (var sticker in sortedStickers)
             {
@@ -61,7 +64,7 @@ namespace CSGencodes.Core.Models
                     break;
                 }
 
-                while (sticker.PosId != currentPos)
+                while (sticker.PosId != (currentPos - addedStickers))
                 {
                     sb.Append(" 0 0.00");
                     currentPos++;
@@ -69,6 +72,7 @@ namespace CSGencodes.Core.Models
 
                 sb.Append($" {sticker.gen_id} {sticker.Scratched.ToString("0.00", CultureInfo.InvariantCulture)}");
                 currentPos++;
+                addedStickers++;    
             }
 
             string gencode = sb.ToString();

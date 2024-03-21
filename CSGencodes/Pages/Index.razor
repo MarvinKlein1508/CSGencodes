@@ -15,12 +15,14 @@
             @if (SelectedWeapon is not null)
             {
                 var inspectLink = inspectService.GenerateInspectLink(SelectedWeapon, Float, Pattern, SelectedStickers);
-
+                 
                 <div class="input-group mb-3">
+                    
                     <div class="form-floating">
                         <input type="text" value="@SelectedWeapon.GetGencode(Float, Pattern, SelectedStickers)" class="form-control" placeholder="Gencode" id="gencode" />
                         <label for="gencode">Gencode</label>
                     </div>
+                  
                     @if (!inspectLink.commandMode)
                     {
                         <a class="inspect-btn btn btn-info" href="@inspectLink.url">Inspect</a>
@@ -32,7 +34,7 @@
 
                     <button type="button" class="btn btn-primary" onclick="copyGencode()"><i class="fa-solid fa-copy"></i></button>
                 </div>
-
+                
                 if (inspectLink.commandMode)
                 {
                     <Alert Color="AlertColor.Warning">
@@ -40,7 +42,7 @@
                     </Alert>
 
                     <textarea value="@inspectLink.url" class="d-none" id="inspect-console-command" />
-                }
+                } 
             }
 
             <div class="generator-wrapper">
