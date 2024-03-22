@@ -49,7 +49,7 @@ namespace CSGencodes.Core.Models
             StringBuilder sb = new();
             sb.Append($"!gen {weapon_id} {gen_id} {pattern} {@float.ToString("0.00000000000000", CultureInfo.InvariantCulture)}");
 
-            int max_size = stickers.Count > StickerSlotsAmount ? StickerSlotsAmount : stickers.Count;
+     
 
             var sortedStickers = stickers.OrderBy(x => x.PosId).ToList();
 
@@ -59,10 +59,6 @@ namespace CSGencodes.Core.Models
             int currentPos = 0;
             foreach (var sticker in sortedStickers)
             {
-                if (StickerSlotsAmount < (currentPos + 1))
-                {
-                    break;
-                }
 
                 while (sticker.PosId != (currentPos - addedStickers))
                 {
