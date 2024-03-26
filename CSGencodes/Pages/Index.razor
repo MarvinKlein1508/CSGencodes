@@ -3,6 +3,7 @@
 @inject WeaponService weaponService
 @inject StickerService stickerService
 @inject InspectLinkService inspectService
+@inject MarketplaceService marketplaceService
 
 <PageTitle>CS2 Gencode Generator</PageTitle>
 
@@ -104,18 +105,24 @@
                             <button type="button" class="btn btn-danger w-50" @onclick="RemoveLastSticker">Remove last sticker</button>
                             <button type="button" class="btn btn-danger w-50" @onclick="() => SelectedStickers.Clear()">Remove all stickers</button>
                         </div>
+                        <a href="@marketplaceService.GetCsfloatDatabaseUrl(SelectedWeapon, SelectedStickers)" target="_blank" class="btn btn-primary d-block mb-1">csfloat database</a>
 
                         <h3 class="text-white">Search marketplace</h3>
-                        <a href="@GetSteamMarketUrl()" target="_blank" class="btn btn-primary d-block mb-1">Steam market</a>
-                        <a href="@GetCsgofloatUrl()" target="_blank" class="btn btn-primary d-block mb-1">csfloat</a>
-                        @if (!string.IsNullOrEmpty(GetBuff163Url()))
+                        <a href="@marketplaceService.GetSteamMarketUrl(SelectedStickers)" target="_blank" class="btn btn-primary d-block mb-1">Steam market</a>
+                        <a href="@marketplaceService.GetCsfloatUrl(SelectedStickers)" target="_blank" class="btn btn-primary d-block mb-1">csfloat</a>
+                        @if (!string.IsNullOrEmpty(marketplaceService.GetBuff163Url(SelectedStickers)))
                         {
-                            <a href="@GetBuff163Url()" target="_blank" class="btn btn-primary d-block mb-1">Buff163</a>
+                            <a href="@marketplaceService.GetBuff163Url(SelectedStickers)" target="_blank" class="btn btn-primary d-block mb-1">Buff163</a>
                         }
 
-                        @if (!string.IsNullOrEmpty(GetSkinportUrl()))
+                        @if (!string.IsNullOrEmpty(marketplaceService.GetSkinportUrl(SelectedStickers)))
                         {
-                            <a href="@GetSkinportUrl()" target="_blank" class="btn btn-primary d-block mb-1">Skinport</a>
+                            <a href="@marketplaceService.GetSkinportUrl(SelectedStickers)" target="_blank" class="btn btn-primary d-block mb-1">Skinport</a>
+                        }
+
+                        @if (!string.IsNullOrEmpty(marketplaceService.GetSkinbidUrl(SelectedStickers)))
+                        {
+                            <a href="@marketplaceService.GetSkinbidUrl(SelectedStickers)" target="_blank" class="btn btn-primary d-block mb-1">Skinbid</a>
                         }
                     }
                 </div>
