@@ -231,7 +231,7 @@ window.blazorBootstrap = {
         }
     },
     currencyInput: {
-        initialize: (elementId, isFloat, allowNegativeNumbers) => {
+        initialize: (elementId, isFloat, allowNegativeNumbers, decimalSeperator) => {
             let currencyEl = document.getElementById(elementId);
 
             currencyEl?.addEventListener('keydown', function (event) {
@@ -251,7 +251,7 @@ window.blazorBootstrap = {
                 let validChars = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
                 if (isFloat) {
-                    validChars.push('.'); // TODO: check ',' for specific culture
+                    validChars.push(decimalSeperator);
                 }
 
                 if (allowNegativeNumbers) {
@@ -268,7 +268,7 @@ window.blazorBootstrap = {
                     let validChars = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
                     if (isFloat) {
-                        validChars.push('.'); // TODO: check ',' for specific culture
+                        validChars.push(decimalSeperator);
                     }
 
                     if (allowNegativeNumbers) {
@@ -467,13 +467,15 @@ window.blazorBootstrap = {
         }
     },
     numberInput: {
-        initialize: (elementId, isFloat, allowNegativeNumbers) => {
+        initialize: (elementId, isFloat, allowNegativeNumbers, numberDecimalSeparator) => {
             let numberEl = document.getElementById(elementId);
 
             numberEl?.addEventListener('keydown', function (event) {
                 let invalidChars = ["e", "E", "+"];
-                if (!isFloat)
+                if (!isFloat) {
                     invalidChars.push("."); // restrict '.' for integer types
+                    invalidChars.push(numberDecimalSeparator); // restrict ',' for specific culture
+                }
 
                 if (!allowNegativeNumbers) {
                     invalidChars.push("-"); // restrict '-'
@@ -720,6 +722,10 @@ window.blazorBootstrap = {
             if (elementRef != null)
                 bootstrap?.Tooltip?.getOrCreateInstance(elementRef);
         },
+        show: (elementRef) => {
+            if (elementRef != null)
+                bootstrap?.Tooltip?.getOrCreateInstance(elementRef)?.show();
+        },
         update: (elementRef) => {
             if (elementRef != null)
                 bootstrap?.Tooltip?.getOrCreateInstance(elementRef)?.update();
@@ -728,6 +734,14 @@ window.blazorBootstrap = {
             if (elementRef != null)
                 bootstrap?.Tooltip?.getOrCreateInstance(elementRef)?.dispose();
         }
+    },
+    treeview: {
+        initialize: (elementId, dotNetHelper) => {
+            window.addEventListener("resize", () => {
+                dotNetHelper.invokeMethodAsync('bsWindowResize', window.innerWidth);
+            });
+        },
+        windowSize: () => window.innerWidth
     },
     // global function
     invokeMethodAsync: (callbackEventName, dotNetHelper) => {
