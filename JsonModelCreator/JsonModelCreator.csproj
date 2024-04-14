@@ -8,10 +8,6 @@
     <UserSecretsId>5554d5e3-8a68-4d44-a7ae-ad6aab189b32</UserSecretsId>
   </PropertyGroup>
 
-  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net8.0/publish/CompileJsonCollections.exe&quot; &quot;$(TargetDir)\&quot;" />
-  </Target>
-
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="8.0.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />

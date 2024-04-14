@@ -1,9 +1,8 @@
-﻿using CSGO_GEN.Core.Models;
+﻿using CSGencodes.Core.Models.Buff163;
 using Microsoft.Extensions.Configuration;
 using Serilog;
 using System.Text.Json;
 using System.Text.RegularExpressions;
-using static CEconItemPreviewDataBlock.Types;
 
 namespace JsonModelCreator
 {
@@ -35,21 +34,33 @@ namespace JsonModelCreator
 
             foreach (var file in files)
             {
+                List<BuffStickerSearch> buff_sticker_search_data = [];
                 string debug_filename = Path.GetFileName(file);
+                string buffPath = Path.Combine("data/buff", Path.GetFileNameWithoutExtension(file));
+                if (Directory.Exists(buffPath))
+                {
+                    var buff_search_files = Directory.GetFiles(buffPath);
 
+                    foreach (var search_file in buff_search_files)
+                    {
+                        string sticker_search_json = await File.ReadAllTextAsync(search_file);
+                        var tmp = JsonSerializer.Deserialize<BuffStickerRootObject>(sticker_search_json);
+
+                        if (tmp is not null)
+                        {
+                            buff_sticker_search_data.AddRange(tmp.data.items);
+                        }
+                    }
+                }
 
 
                 string json = await File.ReadAllTextAsync(file);
-                List<CSGO_GEN.Core.Models.Sticker> stickers = JsonSerializer.Deserialize<List<CSGO_GEN.Core.Models.Sticker>>(json)!;
+                Console.WriteLine(file);
+                List<CSGencodes.Core.Models.Sticker> stickers = JsonSerializer.Deserialize<List<CSGencodes.Core.Models.Sticker>>(json)!;
 
                 foreach (var sticker in stickers)
                 {
-                    if (sticker.Image is not null)
-                    {
-                        sticker.Image = sticker.Image.ToLower();
-                        continue;
-                    }
-
+ 
                     string tournament = Regex.Replace(sticker.tournament, "[^A-Za-z0-9]+", "");
                     string name = sticker.name
                         .Replace("(Holo)", string.Empty)
@@ -107,11 +118,15 @@ namespace JsonModelCreator
 
                     name = Regex.Replace(name, "[^A-Za-z0-9]+", "");
 
+                    if(sticker.BuffStickerId is null && buff_sticker_search_data.Count > 0)
+                    {
 
+                        sticker.BuffStickerId = buff_sticker_search_data.FirstOrDefault(x => x.value.Equals(sticker.name, StringComparison.OrdinalIgnoreCase))?.id ?? null;
+                    }
 
                     // "/assets/img/items/stickers/Stockholm2021/MovistarRiders.png"
-                    sticker.Image = $"/assets/img/items/stickers/{tournament}/{name}{(rarity != string.Empty ? $"-{rarity}" : "")}.png";
-                    
+                    //sticker.Image = $"/assets/img/items/stickers/{tournament}/{name}{(rarity != string.Empty ? $"-{rarity}" : "")}.png";
+
 
                     //sticker.Image = sticker.Image?.ToLower() ?? null;
                 }
@@ -147,7 +162,7 @@ namespace JsonModelCreator
 
 
                 string json = await File.ReadAllTextAsync(file);
-                var weapons = JsonSerializer.Deserialize<List<Weapon>>(json)!;
+                var weapons = JsonSerializer.Deserialize<List<CSGencodes.Core.Models.Weapon>>(json)!;
 
                 foreach (var weapon in weapons)
                 {
