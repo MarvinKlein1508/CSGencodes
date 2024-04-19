@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompileJsonCollections", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonModelCreator", "JsonModelCreator\JsonModelCreator.csproj", "{1295647C-99B4-4823-BCFA-5301DE722C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemsGameParser", "ItemsGameParser\ItemsGameParser.csproj", "{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemsGameParser", "ItemsGameParser\ItemsGameParser.csproj", "{198EE0E3-D308-4E34-8C5E-DB9ECBAC9D84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

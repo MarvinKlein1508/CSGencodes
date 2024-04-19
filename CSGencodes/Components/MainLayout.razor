@@ -54,6 +54,8 @@
         <Switch @bind-Value="_settings.MinMaxFloats" Label="Apply Min & Max floats when weapon switches" />
         <Switch @bind-Value="_settings.WeaponFilter.IncludeKnives" Label="Include knives in search results" />
         
+        <Switch @bind-Value="_settings.StickerFilter.BetaSearch" Label="Delayed sticker search (Experimental)" />
+
         <Switch @bind-Value="_settings.EnableOffsets" Label="Enable offsets (Experimental)" />
 
         @if(_settings.EnableOffsets)

@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Components;
 using System.Text;
 using System.Web;
 using System.Globalization;
+using System.Threading;
 
 namespace CSGencodes.Pages
 {
@@ -12,7 +13,38 @@ namespace CSGencodes.Pages
     {
         private decimal _float = 0.01m;
         private int _pattern = 661;
+        private bool isProcessingInput = false;
+        private CancellationTokenSource? cancellationTokenSource;
+        private async Task StartInputProcessing(ChangeEventArgs e)
+        {
+            // Cancel any previous input processing
+            if (cancellationTokenSource != null)
+            {
+                cancellationTokenSource.Cancel();
+                cancellationTokenSource.Dispose();
+            }
 
+            // Create a new cancellation token source
+            cancellationTokenSource = new CancellationTokenSource();
+            var cancellationToken = cancellationTokenSource.Token;
+
+            try
+            {
+                // Wait for a brief delay (e.g., 20ms)
+                await Task.Delay(250, cancellationToken);
+
+                // Trigger the binding after the delay
+                if (!cancellationToken.IsCancellationRequested)
+                {
+                    Settings.StickerFilter.Searchterm = e.Value?.ToString() ?? string.Empty;
+                    StateHasChanged();
+                }
+            }
+            catch (TaskCanceledException)
+            {
+                // Task was canceled, ignore
+            }
+        }
         [CascadingParameter]
         public CSGencodesSettings Settings { get; set; } = default!;
         public Weapon? SelectedWeapon { get; set; }

@@ -67,7 +67,14 @@
 
                 <div class="sticker-wrapper">
                     <div class="form-floating mb-3">
-                        <input type="text" @bind="Settings.StickerFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search stickers" id="search-stickers" />
+                        @if (Settings.StickerFilter.BetaSearch)
+                        {
+                            <input type="text" @oninput="StartInputProcessing" class="form-control" placeholder="Search stickers" id="search-stickers" />
+                        }
+                        else
+                        {
+                            <input type="text" @bind="Settings.StickerFilter.Searchterm" @bind:event="oninput" class="form-control" placeholder="Search stickers" id="search-stickers" />
+                        }
                         <label for="search-stickers">Search stickers</label>
                     </div>
                     @if (stickerService.SearchSticker(Settings.StickerFilter).Any())
