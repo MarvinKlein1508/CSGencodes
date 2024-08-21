@@ -60,7 +60,7 @@ namespace CSGencodes.Core.Models
             foreach (var sticker in sortedStickers)
             {
 
-                while (sticker.PosId != (currentPos - addedStickers))
+                while (sticker.PosId != currentPos)
                 {
                     sb.Append(" 0 0.00");
                     currentPos++;
