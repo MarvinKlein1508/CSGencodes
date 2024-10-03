@@ -1,0 +1,189 @@
+[
+  {
+    "name": "M4A1-S | Vaporwave",
+    "min_wear": 0.000000,
+    "max_wear": 0.597321,
+    "trade_up": false,
+    "weapon_id": 60,
+    "gen_id": 106,
+    "collection": "Gallery Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_m4a1_silencer_m4a1s_vaporwave_light_png.png"
+  },
+  {
+    "name": "Glock-18 | Gold Toof",
+    "min_wear": 0.000000,
+    "max_wear": 0.730496,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 129,
+    "collection": "Gallery Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_glock_glock_chomper_light_png.png"
+  },
+  {
+    "name": "UMP-45 | Neo-Noir",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 131,
+    "collection": "Gallery Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_ump45_ump45_neo_noir_light_png.png"
+  },
+  {
+    "name": "P250 | Epicenter",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 130,
+    "collection": "Gallery Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_p250_p250_impact_light_png.png"
+  },
+  {
+    "name": "AK-47 | The Outsiders",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 113,
+    "collection": "Gallery Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_ak47_ak47_t_bus_light_png.png"
+  },
+  {
+    "name": "SSG 08 | Rapid Transit",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 128,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_ssg08_ssg08_transit_white_light_png.png"
+  },
+  {
+    "name": "P90 | Randy Rush",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 127,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_p90_p90_randy_rush_light_png.png"
+  },
+  {
+    "name": "MAC-10 | Saib\u0101 Oni",
+    "min_wear": 0.000000,
+    "max_wear": 0.660000,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 126,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_mac10_mac10_ozaki_light_png.png"
+  },
+  {
+    "name": "Dual Berettas | Hydro Strike",
+    "min_wear": 0.000000,
+    "max_wear": 0.801418,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 112,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_elite_gs_dual_elite_hydro_strike_light_png.png"
+  },
+  {
+    "name": "M4A4 | Turbine",
+    "min_wear": 0.000000,
+    "max_wear": 0.850000,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 118,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_m4a1_m4a4_fusion_light_png.png"
+  },
+  {
+    "name": "SCAR-20 | Trail Blazer",
+    "min_wear": 0.000000,
+    "max_wear": 0.702614,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 117,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_scar20_scar20_fury_topo_light_png.png"
+  },
+  {
+    "name": "R8 Revolver | Tango",
+    "min_wear": 0.000000,
+    "max_wear": 0.851064,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 123,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_revolver_r8_roses_and_guns_light_png.png"
+  },
+  {
+    "name": "M249 | Hypnosis",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 120,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_m249_m249_hypnosis_light_png.png"
+  },
+  {
+    "name": "AUG | Luxe Trim",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 121,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_aug_aug_puffer_light_png.png"
+  },
+  {
+    "name": "MP5-SD | Statics",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 1180,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_mp5sd_mp5_statics_blue_light_png.png"
+  },
+  {
+    "name": "Desert Eagle | Calligraffiti",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 114,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_deagle_deagle_calligraff_light_png.png"
+  },
+  {
+    "name": "USP-S | 027",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 115,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_usp_silencer_usp_field_snake_light_png.png"
+  }
+]
