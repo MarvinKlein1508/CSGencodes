@@ -43,6 +43,11 @@
 	  <Folder Include="wwwroot\assets\img\items\stickers\tournament_assets\" />
 	  <Folder Include="wwwroot\assets\img\items\weapons\eSports2013WinterCollection\" />
 	  <Folder Include="wwwroot\assets\img\items\weapons\kilowattcollection\" />
+	  <Folder Include="wwwroot\assets\img\items\weapons\graphic_design_collection\" />
+	  <Folder Include="wwwroot\assets\img\items\weapons\gallery_collection\" />
+	  <Folder Include="wwwroot\assets\img\items\weapons\limited_edition_item\" />
+	  <Folder Include="wwwroot\assets\img\items\weapons\overpass_2024_collection\" />
+	  <Folder Include="wwwroot\assets\img\items\weapons\sport_and_field_collection\" />
 	  <Folder Include="wwwroot\assets\img\items\weapons\WildfireCollection\" />
 	</ItemGroup>
 

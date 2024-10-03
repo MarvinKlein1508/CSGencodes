@@ -52,7 +52,7 @@
     "gen_id": 146,
     "collection": "Overpass 2024 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon__cu_overpass_monsters_xm_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_xm1014_cu_overpass_monsters_xm_light_png.png"
   },
   {
     "name": "Dual Berettas | Sweet Little Angels",
@@ -63,7 +63,7 @@
     "gen_id": 139,
     "collection": "Overpass 2024 Collection",
     "rarity": "Restricted",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_elite_gs_cu_overpass_baby_dualies_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_elite_cu_overpass_baby_dualies_light_png.png"
   },
   {
     "name": "Glock-18 | Teal Graf",
@@ -74,7 +74,7 @@
     "gen_id": 152,
     "collection": "Overpass 2024 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon__hy_overpass_tagged_teal_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_glock_hy_overpass_tagged_teal_light_png.png"
   },
   {
     "name": "Nova | Wurst H\u00F6lle",
@@ -107,7 +107,7 @@
     "gen_id": 239,
     "collection": "Overpass 2024 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon__sp_overpass_paint_pen_metal_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_galilar_sp_overpass_paint_pen_metal_light_png.png"
   },
   {
     "name": "Negev | Wall Bang",
@@ -151,7 +151,7 @@
     "gen_id": 161,
     "collection": "Overpass 2024 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon__sp_overpass_paint_pen_neon_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_mp5sd_sp_overpass_paint_pen_neon_light_png.png"
   },
   {
     "name": "P90 | Wash me",
@@ -162,7 +162,7 @@
     "gen_id": 133,
     "collection": "Overpass 2024 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon__sp_overpass_doodle_plum_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_p90_sp_overpass_doodle_plum_light_png.png"
   },
   {
     "name": "Five-SeveN | Midnight Paintover",
@@ -173,6 +173,6 @@
     "gen_id": 1062,
     "collection": "Overpass 2024 Collection",
     "rarity": "Milspec",
-    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon__hy_overpass_paintover_teal_light_png.png"
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_fiveseven_hy_overpass_paintover_teal_light_png.png"
   }
 ]
