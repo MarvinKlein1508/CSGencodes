@@ -1,0 +1,178 @@
+[
+  {
+    "name": "M4A1-S | Fade",
+    "min_wear": 0.000000,
+    "max_wear": 0.080000,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 1177,
+    "collection": "Sport and Field Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png"
+  },
+  {
+    "name": "Glock-18 | AXIA",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 832,
+    "collection": "Sport and Field Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_glock_gsch_axia_glock_light_png.png"
+  },
+  {
+    "name": "Galil AR | Rainbow Spoon",
+    "min_wear": 0.000000,
+    "max_wear": 0.554422,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 1178,
+    "collection": "Sport and Field Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon__aq_titanium_rainbow_galilar_light_png.png"
+  },
+  {
+    "name": "UMP-45 | Crimson Foil",
+    "min_wear": 0.000000,
+    "max_wear": 0.680000,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 412,
+    "collection": "Sport and Field Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_ump45_gsch_sport_ump45_light_png.png"
+  },
+  {
+    "name": "MP9 | Arctic Tri-Tone",
+    "min_wear": 0.000000,
+    "max_wear": 0.600000,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 331,
+    "collection": "Sport and Field Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_mp9_gs_arctic_mp9_light_png.png"
+  },
+  {
+    "name": "Five-SeveN | Heat Treated",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 831,
+    "collection": "Sport and Field Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_fiveseven_aq_case_hardened_fiveseven_light_png.png"
+  },
+  {
+    "name": "USP-S | Alpine Camo",
+    "min_wear": 0.000000,
+    "max_wear": 0.680000,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 830,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_usp_silencer_gsch_bright_camo_usp_light_png.png"
+  },
+  {
+    "name": "Nova | Yorkshire",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 324,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_nova_gs_ripple_nova_light_png.png"
+  },
+  {
+    "name": "P250 | Small Game",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 774,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_p250_soch_hunter_blaze_p250_light_png.png"
+  },
+  {
+    "name": "SSG 08 | Zeno",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 513,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_ssg08_gsch_zeno_ssg08_light_png.png"
+  },
+  {
+    "name": "MAG-7 | Wildwood",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 773,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_mag7_soch_wildwood_mag7_light_png.png"
+  },
+  {
+    "name": "PP-Bizon | Cold Cell",
+    "min_wear": 0.000000,
+    "max_wear": 0.400000,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 770,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_bizon_sp_wax_rub_bizon_light_png.png"
+  },
+  {
+    "name": "AK-47 | Olive Polycam",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 1179,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_ak47_ht_poly_camo_ak47_light_png.png"
+  },
+  {
+    "name": "FAMAS | Half Sleeve",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 461,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_famas_gs_gamebred_famas_light_png.png"
+  },
+  {
+    "name": "Tec-9 | Tiger Stencil",
+    "min_wear": 0.000000,
+    "max_wear": 0.600000,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 766,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_tec9_soch_tiger_stencil_tec9_light_png.png"
+  },
+  {
+    "name": "MP5-SD | Savannah Halftone",
+    "min_wear": 0.250000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 768,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon__ht_blur_camo_mp5sd_light_png.png"
+  }
+]
