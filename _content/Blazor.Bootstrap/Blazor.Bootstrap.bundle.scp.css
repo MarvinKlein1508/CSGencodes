@@ -81,6 +81,21 @@
     background-color: #e9ecef;
     cursor: pointer;
 }
+/* _content/Blazor.Bootstrap/Components/Image/Image.razor.rz.scp.css */
+/* _content/Blazor.Bootstrap/Components/Ribbon/RibbonGroup.razor.rz.scp.css */
+/* _content/Blazor.Bootstrap/Components/Ribbon/RibbonItem.razor.rz.scp.css */
+.bb-ribbon-item[b-euvmgchcvy] {
+    cursor: pointer;
+    /*width: 64px;*/
+}
+
+    .bb-ribbon-item:hover[b-euvmgchcvy] {
+        background-color: rgba(var(--bs-secondary-rgb), 0.10) !important;
+    }
+
+    .bb-ribbon-item.active[b-euvmgchcvy] {
+    }
+/* _content/Blazor.Bootstrap/Components/Ribbon/RibbonItemGroup.razor.rz.scp.css */
 /* _content/Blazor.Bootstrap/Components/Sidebar2/Sidebar2.razor.rz.scp.css */
 .bb-sidebar2[b-hjh7gjrlxu] {
     background-color: var(--bb-sidebar2-background-color);
@@ -348,6 +363,10 @@
     background-color: var(--bb-sidebar-nav-item-group-background-color);
 }
 /* _content/Blazor.Bootstrap/Components/Sidebar/SidebarItemGroup.razor.rz.scp.css */
+/* _content/Blazor.Bootstrap/Components/SortableList/SortableList.razor.rz.scp.css */
+[b-jo00jd6nmv] .bb-sortable-list-handle {
+    cursor: grab !important;
+}
 /* _content/Blazor.Bootstrap/Components/Spinner/Spinner.razor.rz.scp.css */
 /* scss-docs-start spinner-dots-keyframes */
 @keyframes spinner-dots-b-pp5swe6s25 {

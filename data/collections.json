@@ -4213,6 +4213,17 @@
     "Image": "/assets/img/items/weapons/themilitiacollection/p2000-grasslandleaves.png"
   },
   {
+    "name": "M4A1-S | Vaporwave",
+    "min_wear": 0.000000,
+    "max_wear": 0.597321,
+    "trade_up": false,
+    "weapon_id": 60,
+    "gen_id": 106,
+    "collection": "Gallery Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_m4a1_silencer_m4a1s_vaporwave_light_png.png"
+  },
+  {
     "name": "Nova | Polar Mesh",
     "min_wear": 0.6,
     "max_wear": 0.8,
@@ -4246,6 +4257,50 @@
     "Image": "/assets/img/items/weapons/thevertigocollection/p90-glaciermesh.png"
   },
   {
+    "name": "Dual Berettas | Hydro Strike",
+    "min_wear": 0.000000,
+    "max_wear": 0.801418,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 112,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_elite_dual_elite_hydro_strike_light_png.png"
+  },
+  {
+    "name": "AK-47 | The Outsiders",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 113,
+    "collection": "Gallery Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_ak47_ak47_t_bus_light_png.png"
+  },
+  {
+    "name": "Desert Eagle | Calligraffiti",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 114,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_deagle_deagle_calligraff_light_png.png"
+  },
+  {
+    "name": "USP-S | 027",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 115,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_usp_silencer_usp_field_snake_light_png.png"
+  },
+  {
     "name": "SCAR-20 | Sand Mesh",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -4255,6 +4310,28 @@
     "collection": "The Dust 2 Collection",
     "rarity": "Consumer",
     "Image": "/assets/img/items/weapons/thedust2collection/scar-20-sandmesh.png"
+  },
+  {
+    "name": "SCAR-20 | Trail Blazer",
+    "min_wear": 0.000000,
+    "max_wear": 0.702614,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 117,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_scar20_scar20_fury_topo_light_png.png"
+  },
+  {
+    "name": "M4A4 | Turbine",
+    "min_wear": 0.000000,
+    "max_wear": 0.850000,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 118,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_m4a1_m4a4_fusion_light_png.png"
   },
   {
     "name": "Galil AR | Sage Spray",
@@ -4279,6 +4356,28 @@
     "Image": "/assets/img/items/weapons/theoverpasscollection/sawed-off-sagespray.png"
   },
   {
+    "name": "M249 | Hypnosis",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 120,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_m249_m249_hypnosis_light_png.png"
+  },
+  {
+    "name": "AUG | Luxe Trim",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 121,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_aug_aug_puffer_light_png.png"
+  },
+  {
     "name": "AK-47 | Jungle Spray",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -4288,6 +4387,17 @@
     "collection": "The Aztec Collection",
     "rarity": "Industrial",
     "Image": "/assets/img/items/weapons/theazteccollection/ak-47-junglespray.png"
+  },
+  {
+    "name": "R8 Revolver | Tango",
+    "min_wear": 0.000000,
+    "max_wear": 0.851064,
+    "trade_up": true,
+    "weapon_id": 64,
+    "gen_id": 123,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_revolver_r8_roses_and_guns_light_png.png"
   },
   {
     "name": "P90 | Sand Spray",
@@ -4312,6 +4422,94 @@
     "Image": "/assets/img/items/weapons/thexraycollection/p250-x-ray.png"
   },
   {
+    "name": "MAC-10 | Saib\u0101 Oni",
+    "min_wear": 0.000000,
+    "max_wear": 0.660000,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 126,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_mac10_mac10_ozaki_light_png.png"
+  },
+  {
+    "name": "P90 | Randy Rush",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 127,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_p90_p90_randy_rush_light_png.png"
+  },
+  {
+    "name": "SSG 08 | Rapid Transit",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 128,
+    "collection": "Gallery Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_ssg08_ssg08_transit_white_light_png.png"
+  },
+  {
+    "name": "Glock-18 | Gold Toof",
+    "min_wear": 0.000000,
+    "max_wear": 0.730496,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 129,
+    "collection": "Gallery Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_glock_glock_chomper_light_png.png"
+  },
+  {
+    "name": "P250 | Epicenter",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 130,
+    "collection": "Gallery Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_p250_p250_impact_light_png.png"
+  },
+  {
+    "name": "UMP-45 | Neo-Noir",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 131,
+    "collection": "Gallery Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_ump45_ump45_neo_noir_light_png.png"
+  },
+  {
+    "name": "P90 | Wash me",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 133,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_p90_sp_overpass_doodle_plum_light_png.png"
+  },
+  {
+    "name": "AUG | Eye of Zapems",
+    "min_wear": 0.000000,
+    "max_wear": 0.850000,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 134,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_aug_cu_overpass_graf_aug_light_png.png"
+  },
+  {
     "name": "XM1014 | Urban Perforated",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -4332,6 +4530,50 @@
     "collection": "The Lake Collection",
     "rarity": "Consumer",
     "Image": "/assets/img/items/weapons/thelakecollection/sg553-wavesperforated.png"
+  },
+  {
+    "name": "AWP | Crakow!",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 137,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_awp_cu_overpass_crakow_awp_light_png.png"
+  },
+  {
+    "name": "Desert Eagle | Tilted",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 138,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_deagle_cu_overpass_aqua_deagle_light_png.png"
+  },
+  {
+    "name": "Dual Berettas | Sweet Little Angels",
+    "min_wear": 0.000000,
+    "max_wear": 0.820000,
+    "trade_up": true,
+    "weapon_id": 2,
+    "gen_id": 139,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_elite_cu_overpass_baby_dualies_light_png.png"
+  },
+  {
+    "name": "MAC-10 | Pipsqueak",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 140,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_mac10_cu_overpass_squeak_mac10_light_png.png"
   },
   {
     "name": "Five-SeveN | Orange Peel",
@@ -4365,6 +4607,17 @@
     "collection": "The Safehouse Collection",
     "rarity": "Industrial",
     "Image": "/assets/img/items/weapons/thesafehousecollection/mp9-orangepeel.png"
+  },
+  {
+    "name": "AK-47 | B the Monster",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 142,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_ak47_cu_overpass_monster_ak47_light_png.png"
   },
   {
     "name": "Bayonet | Urban Masked",
@@ -4587,6 +4840,39 @@
     "Image": "/assets/img/items/knives/ursus/urbanmasked.png"
   },
   {
+    "name": "Negev | Wall Bang",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 28,
+    "gen_id": 144,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_negev_cu_overpass_graf_negev_light_png.png"
+  },
+  {
+    "name": "Nova | Wurst H\u00F6lle",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 145,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_nova_cu_overpass_wurst_nova_light_png.png"
+  },
+  {
+    "name": "XM1014 | Monster Melt",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 146,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_xm1014_cu_overpass_monsters_xm_light_png.png"
+  },
+  {
     "name": "SSG 08 | Jungle Dashed",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -4673,6 +4959,17 @@
     "collection": "The St. Marc Collection",
     "rarity": "Consumer",
     "Image": "/assets/img/items/weapons/thestmarccollection/m249-jungle.png"
+  },
+  {
+    "name": "Glock-18 | Teal Graf",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 152,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_glock_hy_overpass_tagged_teal_light_png.png"
   },
   {
     "name": "Dual Berettas | Demolition",
@@ -4796,6 +5093,28 @@
     "Image": "/assets/img/items/weapons/thenorsecollection/scar-20-brass.png"
   },
   {
+    "name": "M4A1-S | Wash me plz",
+    "min_wear": 0.000000,
+    "max_wear": 0.580000,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 160,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_m4a1_silencer_hy_overpass_doodle_m4a1s_light_png.png"
+  },
+  {
+    "name": "MP5-SD | Neon Squeezer",
+    "min_wear": 0.200000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 161,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_mp5sd_sp_overpass_paint_pen_neon_light_png.png"
+  },
+  {
     "name": "P250 | Splash",
     "min_wear": 0.06,
     "max_wear": 0.18,
@@ -4805,6 +5124,17 @@
     "collection": "eSports 2013 Collection",
     "rarity": "Restricted",
     "Image": "/assets/img/items/weapons/esports2013collection/p250-splash.png"
+  },
+  {
+    "name": "AWP | CMYK",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": false,
+    "weapon_id": 9,
+    "gen_id": 163,
+    "collection": "Graphic Design Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_awp_gs_independe_awp_light_png.png"
   },
   {
     "name": "M4A4 | Modern Hunter",
@@ -5003,6 +5333,17 @@
     "collection": "The Vertigo Collection",
     "rarity": "Milspec",
     "Image": "/assets/img/items/weapons/thevertigocollection/ak-47-blacklaminate.png"
+  },
+  {
+    "name": "AUG | Lil\u0027 Pig",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 173,
+    "collection": "Graphic Design Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_aug_gs_lilpig_aug_light_png.png"
   },
   {
     "name": "AWP | BOOM",
@@ -5874,6 +6215,17 @@
     "Image": "/assets/img/items/weapons/theoverpasscollection/xm1014-varicamoblue.png"
   },
   {
+    "name": "Galil AR | Metallic Squeezer",
+    "min_wear": 0.000000,
+    "max_wear": 0.600000,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 239,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_galilar_sp_overpass_paint_pen_metal_light_png.png"
+  },
+  {
     "name": "FAMAS | CaliCamo",
     "min_wear": 0,
     "max_wear": 0.6,
@@ -6578,6 +6930,17 @@
     "Image": "/assets/img/items/weapons/phoenixcollection/mag-7-heavenguard.png"
   },
   {
+    "name": "Zeus | Dragon Snore",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": true,
+    "weapon_id": 31,
+    "gen_id": 292,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_taser_cu_overpass_dragon_zeus_light_png.png"
+  },
+  {
     "name": "Glock-18 | Death Rattle",
     "min_wear": 0.08,
     "max_wear": 0.5,
@@ -7018,6 +7381,17 @@
     "Image": "/assets/img/items/weapons/thehavoccollection/nova-rustcoat.png"
   },
   {
+    "name": "Nova | Yorkshire",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 324,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_nova_gs_ripple_nova_light_png.png"
+  },
+  {
     "name": "CZ75-Auto | Chalice",
     "min_wear": 0,
     "max_wear": 0.1,
@@ -7093,6 +7467,17 @@
     "collection": "The Cobblestone Collection",
     "rarity": "Consumer",
     "Image": "/assets/img/items/weapons/thecobblestonecollection/dualberettas-briar.png"
+  },
+  {
+    "name": "MP9 | Arctic Tri-Tone",
+    "min_wear": 0.000000,
+    "max_wear": 0.600000,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 331,
+    "collection": "Sport and Field Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_mp9_gs_arctic_mp9_light_png.png"
   },
   {
     "name": "USP-S | Royal Blue",
@@ -8292,6 +8677,17 @@
     "collection": "Ursus",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/ursus/damascussteel.png"
+  },
+  {
+    "name": "UMP-45 | Crimson Foil",
+    "min_wear": 0.000000,
+    "max_wear": 0.680000,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 412,
+    "collection": "Sport and Field Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_ump45_gsch_sport_ump45_light_png.png"
   },
   {
     "name": "Bayonet | Marble Fade",
@@ -10241,6 +10637,17 @@
     "Image": "/assets/img/items/weapons/therisingsuncollection/galilar-aquaterrace.png"
   },
   {
+    "name": "FAMAS | Half Sleeve",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 461,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_famas_gs_gamebred_famas_light_png.png"
+  },
+  {
     "name": "MAG-7 | Counter Terrace",
     "min_wear": 0,
     "max_wear": 0.65,
@@ -10800,6 +11207,17 @@
     "collection": "Revolver Case Collection",
     "rarity": "Covert",
     "Image": "/assets/img/items/weapons/revolvercasecollection/m4a4-royalpaladin.png"
+  },
+  {
+    "name": "SSG 08 | Zeno",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 513,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_ssg08_gsch_zeno_ssg08_light_png.png"
   },
   {
     "name": "Negev | Power Loader",
@@ -14256,6 +14674,61 @@
     "Image": "/assets/img/items/weapons/the2021miragecollection/sg553-desertblossom.png"
   },
   {
+    "name": "Tec-9 | Tiger Stencil",
+    "min_wear": 0.000000,
+    "max_wear": 0.600000,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 766,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_tec9_soch_tiger_stencil_tec9_light_png.png"
+  },
+  {
+    "name": "MP5-SD | Savannah Halftone",
+    "min_wear": 0.250000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 768,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_mp5sd_ht_blur_camo_mp5sd_light_png.png"
+  },
+  {
+    "name": "PP-Bizon | Cold Cell",
+    "min_wear": 0.000000,
+    "max_wear": 0.400000,
+    "trade_up": true,
+    "weapon_id": 26,
+    "gen_id": 770,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_bizon_sp_wax_rub_bizon_light_png.png"
+  },
+  {
+    "name": "MAG-7 | Wildwood",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 773,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_mag7_soch_wildwood_mag7_light_png.png"
+  },
+  {
+    "name": "P250 | Small Game",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 774,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_p250_soch_hunter_blaze_p250_light_png.png"
+  },
+  {
     "name": "PP-Bizon | Facility Sketch",
     "min_wear": 0,
     "max_wear": 0.5,
@@ -14894,6 +15367,50 @@
     "Image": "/assets/img/items/weapons/the2021miragecollection/pp-bizon-anolis.png"
   },
   {
+    "name": "USP-S | Alpine Camo",
+    "min_wear": 0.000000,
+    "max_wear": 0.680000,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 830,
+    "collection": "Sport and Field Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_usp_silencer_gsch_bright_camo_usp_light_png.png"
+  },
+  {
+    "name": "Five-SeveN | Heat Treated",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 831,
+    "collection": "Sport and Field Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_fiveseven_aq_case_hardened_fiveseven_light_png.png"
+  },
+  {
+    "name": "Glock-18 | AXIA",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 832,
+    "collection": "Sport and Field Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_glock_gsch_axia_glock_light_png.png"
+  },
+  {
+    "name": "XM1014 | Halftone Shift",
+    "min_wear": 0.000000,
+    "max_wear": 0.600000,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 834,
+    "collection": "Graphic Design Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_xm1014_ht_shapes_xm1014_light_png.png"
+  },
+  {
     "name": "FAMAS | Crypsis",
     "min_wear": 0,
     "max_wear": 0.55,
@@ -15246,6 +15763,50 @@
     "Image": "/assets/img/items/weapons/thestmarccollection/pp-bizon-seabird.png"
   },
   {
+    "name": "M4A4 | Polysoup",
+    "min_wear": 0.000000,
+    "max_wear": 0.640000,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 874,
+    "collection": "Graphic Design Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_m4a1_soo_polysoup_m4a4_light_png.png"
+  },
+  {
+    "name": "M249 | Spectrogram",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 14,
+    "gen_id": 875,
+    "collection": "Graphic Design Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_m249_ht_peaks_rainbow_light_png.png"
+  },
+  {
+    "name": "SSG 08 | Halftone Whorl",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 877,
+    "collection": "Graphic Design Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_ssg08_ht_swirl_ssg08_light_png.png"
+  },
+  {
+    "name": "P2000 | Coral Halftone",
+    "min_wear": 0.000000,
+    "max_wear": 0.520000,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 878,
+    "collection": "Graphic Design Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_hkp2000_ht_facet_p2000_light_png.png"
+  },
+  {
     "name": "UMP-45 | Fade",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -15266,6 +15827,28 @@
     "collection": "The 2021 Dust 2 Collection",
     "rarity": "Consumer",
     "Image": "/assets/img/items/weapons/the2021dust2collection/sawed-off-parched.png"
+  },
+  {
+    "name": "FAMAS | Halftone Wash",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 882,
+    "collection": "Graphic Design Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_famas_ht_splash_famas_light_png.png"
+  },
+  {
+    "name": "SCAR-20 | Wild Berry",
+    "min_wear": 0.000000,
+    "max_wear": 0.650000,
+    "trade_up": true,
+    "weapon_id": 38,
+    "gen_id": 883,
+    "collection": "Graphic Design Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_scar20_cu_chevron_scar20_light_png.png"
   },
   {
     "name": "PP-Bizon | Embargo",
@@ -15455,6 +16038,17 @@
     "Image": "/assets/img/items/weapons/shatteredwebcollection/m249-warbird.png"
   },
   {
+    "name": "SG 553 | Berry Gel Coat",
+    "min_wear": 0.000000,
+    "max_wear": 0.800000,
+    "trade_up": true,
+    "weapon_id": 39,
+    "gen_id": 901,
+    "collection": "Graphic Design Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_sg556_gs_happy_red_sg556_light_png.png"
+  },
+  {
     "name": "M249 | Aztec",
     "min_wear": 0,
     "max_wear": 0.75,
@@ -15563,6 +16157,17 @@
     "collection": "CS20 Collection",
     "rarity": "Classified",
     "Image": "/assets/img/items/weapons/cs20collection/p90-nostalgia.png"
+  },
+  {
+    "name": "AK-47 | Crossfade",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 912,
+    "collection": "Graphic Design Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_ak47_cu_graphic_overlay_ak47_light_png.png"
   },
   {
     "name": "AUG | Death by Puppy",
@@ -15827,6 +16432,61 @@
     "collection": "The 2021 Mirage Collection",
     "rarity": "Consumer",
     "Image": "/assets/img/items/weapons/the2021miragecollection/ssg08-prey.png"
+  },
+  {
+    "name": "P90 | Attack Vector",
+    "min_wear": 0.000000,
+    "max_wear": 0.550000,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 936,
+    "collection": "Graphic Design Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_p90_cu_poly_violet_p90_light_png.png"
+  },
+  {
+    "name": "CZ75-Auto | Slalom",
+    "min_wear": 0.000000,
+    "max_wear": 0.570000,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 937,
+    "collection": "Graphic Design Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_cz75a_cu_abstract_white_cz_light_png.png"
+  },
+  {
+    "name": "Desert Eagle | Starcade",
+    "min_wear": 0.000000,
+    "max_wear": 0.750000,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 938,
+    "collection": "Graphic Design Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_deagle_cu_glitter_deagle_light_png.png"
+  },
+  {
+    "name": "Galil AR | NV",
+    "min_wear": 0.000000,
+    "max_wear": 0.470000,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 939,
+    "collection": "Graphic Design Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_galilar_cu_poly_green_galil_light_png.png"
+  },
+  {
+    "name": "MP7 | Astrolabe",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 33,
+    "gen_id": 940,
+    "collection": "Graphic Design Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/graphic_design_collection/weapon_mp7_gs_constellation_dark_mp7_light_png.png"
   },
   {
     "name": "AK-47 | Phantom Disruptor",
@@ -17072,6 +17732,17 @@
     "Image": "/assets/img/items/weapons/the2021traincollection/famas-meltdown.png"
   },
   {
+    "name": "Desert Eagle | Heat Treated",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 1054,
+    "collection": "",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/limited_edition_item/weapon_deagle_aq_deagle_case_hardened_2_light_png.png"
+  },
+  {
     "name": "P2000 | Space Race",
     "min_wear": 0,
     "max_wear": 0.6,
@@ -17136,6 +17807,17 @@
     "collection": "The 2021 Train Collection",
     "rarity": "Restricted",
     "Image": "/assets/img/items/weapons/the2021traincollection/mp5-sd-autumntwilly.png"
+  },
+  {
+    "name": "Five-SeveN | Midnight Paintover",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 3,
+    "gen_id": 1062,
+    "collection": "Overpass 2024 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/overpass_2024_collection/weapon_fiveseven_hy_overpass_paintover_teal_light_png.png"
   },
   {
     "name": "M4A4 | The Coalition",
@@ -18346,6 +19028,50 @@
     "collection": "Kilowatt Collection",
     "rarity": "Milspec",
     "Image": "/assets/img/items/weapons/kilowattcollection/ump-45-motorized.png"
+  },
+  {
+    "name": "M4A1-S | Fade",
+    "min_wear": 0.000000,
+    "max_wear": 0.080000,
+    "trade_up": true,
+    "weapon_id": 60,
+    "gen_id": 1177,
+    "collection": "Sport and Field Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png"
+  },
+  {
+    "name": "Galil AR | Rainbow Spoon",
+    "min_wear": 0.000000,
+    "max_wear": 0.554422,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 1178,
+    "collection": "Sport and Field Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_galilar_aq_titanium_rainbow_galilar_light_png.png"
+  },
+  {
+    "name": "AK-47 | Olive Polycam",
+    "min_wear": 0.000000,
+    "max_wear": 0.500000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 1179,
+    "collection": "Sport and Field Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/sport_and_field_collection/weapon_ak47_ht_poly_camo_ak47_light_png.png"
+  },
+  {
+    "name": "MP5-SD | Statics",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 23,
+    "gen_id": 1180,
+    "collection": "Gallery Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/gallery_collection/weapon_mp5sd_mp5_statics_blue_light_png.png"
   },
   {
     "name": "MAG-7 | Insomnia",
