@@ -902,225 +902,365 @@ internal class Program
     {
         string input =
                     """
-            "7859"
+            "7879"
             {
-            	"name"		"cph2024_signature_jl_32"
-            	"item_name"		"#StickerKit_cph2024_signature_jl_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_jl_champion"
-            	"sticker_material"		"cph2024/sig_jl_champion"
+            	"name"		"paper_t_left_hand"
+            	"item_name"		"#StickerKit_sticker_craft_paper_t_left_hand"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_t_left_hand"
+            	"sticker_material"		"community/sticker_craft/paper_t_left_hand"
             	"item_rarity"		"rare"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"216612575"
             }
-            "7860"
+            "7880"
             {
-            	"name"		"cph2024_signature_jl_32_glitter"
-            	"item_name"		"#StickerKit_cph2024_signature_jl_glitter_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_jl_glitter_champion"
-            	"sticker_material"		"cph2024/sig_jl_glitter_champion"
-            	"item_rarity"		"mythical"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"216612575"
-            }
-            "7861"
-            {
-            	"name"		"cph2024_signature_jl_32_holo"
-            	"item_name"		"#StickerKit_cph2024_signature_jl_holo_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_jl_holo_champion"
-            	"sticker_material"		"cph2024/sig_jl_holo_champion"
+            	"name"		"foil_sunglasses"
+            	"item_name"		"#StickerKit_sticker_craft_foil_sunglasses"
+            	"description_string"		"#StickerKit_desc_sticker_craft_foil_sunglasses"
+            	"sticker_material"		"community/sticker_craft/foil_sunglasses"
             	"item_rarity"		"legendary"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"216612575"
             }
-            "7862"
+            "7881"
             {
-            	"name"		"cph2024_signature_jl_32_gold"
-            	"item_name"		"#StickerKit_cph2024_signature_jl_gold_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_jl_gold_champion"
-            	"sticker_material"		"cph2024/sig_jl_gold_champion"
-            	"item_rarity"		"ancient"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"216612575"
+            	"name"		"foil_mustache"
+            	"item_name"		"#StickerKit_sticker_craft_foil_mustache"
+            	"description_string"		"#StickerKit_desc_sticker_craft_foil_mustache"
+            	"sticker_material"		"community/sticker_craft/foil_mustache"
+            	"item_rarity"		"legendary"
             }
-            "7863"
+            "7882"
             {
-            	"name"		"cph2024_signature_aleksib_32"
-            	"item_name"		"#StickerKit_cph2024_signature_aleksib_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_aleksib_champion"
-            	"sticker_material"		"cph2024/sig_aleksib_champion"
+            	"name"		"paper_lightning_two"
+            	"item_name"		"#StickerKit_elemental_craft_paper_lightning_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_lightning_two"
+            	"sticker_material"		"community/elemental_craft/paper_lightning_two"
             	"item_rarity"		"rare"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"52977598"
             }
-            "7864"
+            "7883"
             {
-            	"name"		"cph2024_signature_aleksib_32_glitter"
-            	"item_name"		"#StickerKit_cph2024_signature_aleksib_glitter_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_aleksib_glitter_champion"
-            	"sticker_material"		"cph2024/sig_aleksib_glitter_champion"
-            	"item_rarity"		"mythical"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"52977598"
-            }
-            "7865"
-            {
-            	"name"		"cph2024_signature_aleksib_32_holo"
-            	"item_name"		"#StickerKit_cph2024_signature_aleksib_holo_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_aleksib_holo_champion"
-            	"sticker_material"		"cph2024/sig_aleksib_holo_champion"
-            	"item_rarity"		"legendary"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"52977598"
-            }
-            "7866"
-            {
-            	"name"		"cph2024_signature_aleksib_32_gold"
-            	"item_name"		"#StickerKit_cph2024_signature_aleksib_gold_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_aleksib_gold_champion"
-            	"sticker_material"		"cph2024/sig_aleksib_gold_champion"
-            	"item_rarity"		"ancient"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"52977598"
-            }
-            "7867"
-            {
-            	"name"		"cph2024_signature_b1t_32"
-            	"item_name"		"#StickerKit_cph2024_signature_b1t_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_b1t_champion"
-            	"sticker_material"		"cph2024/sig_b1t_champion"
+            	"name"		"paper_lightning_three"
+            	"item_name"		"#StickerKit_elemental_craft_paper_lightning_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_lightning_three"
+            	"sticker_material"		"community/elemental_craft/paper_lightning_three"
             	"item_rarity"		"rare"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"286341748"
             }
-            "7868"
+            "7884"
             {
-            	"name"		"cph2024_signature_b1t_32_glitter"
-            	"item_name"		"#StickerKit_cph2024_signature_b1t_glitter_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_b1t_glitter_champion"
-            	"sticker_material"		"cph2024/sig_b1t_glitter_champion"
-            	"item_rarity"		"mythical"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"286341748"
-            }
-            "7869"
-            {
-            	"name"		"cph2024_signature_b1t_32_holo"
-            	"item_name"		"#StickerKit_cph2024_signature_b1t_holo_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_b1t_holo_champion"
-            	"sticker_material"		"cph2024/sig_b1t_holo_champion"
-            	"item_rarity"		"legendary"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"286341748"
-            }
-            "7870"
-            {
-            	"name"		"cph2024_signature_b1t_32_gold"
-            	"item_name"		"#StickerKit_cph2024_signature_b1t_gold_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_b1t_gold_champion"
-            	"sticker_material"		"cph2024/sig_b1t_gold_champion"
-            	"item_rarity"		"ancient"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"286341748"
-            }
-            "7871"
-            {
-            	"name"		"cph2024_signature_im_32"
-            	"item_name"		"#StickerKit_cph2024_signature_im_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_im_champion"
-            	"sticker_material"		"cph2024/sig_im_champion"
+            	"name"		"paper_lightning_one"
+            	"item_name"		"#StickerKit_elemental_craft_paper_lightning_one"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_lightning_one"
+            	"sticker_material"		"community/elemental_craft/paper_lightning_one"
             	"item_rarity"		"rare"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"89984505"
             }
-            "7872"
+            "7885"
             {
-            	"name"		"cph2024_signature_im_32_glitter"
-            	"item_name"		"#StickerKit_cph2024_signature_im_glitter_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_im_glitter_champion"
-            	"sticker_material"		"cph2024/sig_im_glitter_champion"
-            	"item_rarity"		"mythical"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"89984505"
-            }
-            "7873"
-            {
-            	"name"		"cph2024_signature_im_32_holo"
-            	"item_name"		"#StickerKit_cph2024_signature_im_holo_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_im_holo_champion"
-            	"sticker_material"		"cph2024/sig_im_holo_champion"
-            	"item_rarity"		"legendary"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"89984505"
-            }
-            "7874"
-            {
-            	"name"		"cph2024_signature_im_32_gold"
-            	"item_name"		"#StickerKit_cph2024_signature_im_gold_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_im_gold_champion"
-            	"sticker_material"		"cph2024/sig_im_gold_champion"
-            	"item_rarity"		"ancient"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"89984505"
-            }
-            "7875"
-            {
-            	"name"		"cph2024_signature_w0nderful_32"
-            	"item_name"		"#StickerKit_cph2024_signature_w0nderful_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_w0nderful_champion"
-            	"sticker_material"		"cph2024/sig_w0nderful_champion"
+            	"name"		"paper_flames_two"
+            	"item_name"		"#StickerKit_elemental_craft_paper_flames_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_flames_two"
+            	"sticker_material"		"community/elemental_craft/paper_flames_two"
             	"item_rarity"		"rare"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"1102803112"
             }
-            "7876"
+            "7886"
             {
-            	"name"		"cph2024_signature_w0nderful_32_glitter"
-            	"item_name"		"#StickerKit_cph2024_signature_w0nderful_glitter_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_w0nderful_glitter_champion"
-            	"sticker_material"		"cph2024/sig_w0nderful_glitter_champion"
+            	"name"		"paper_flames"
+            	"item_name"		"#StickerKit_elemental_craft_paper_flames"
+            	"description_string"		"#StickerKit_desc_elemental_craftpaper_flames"
+            	"sticker_material"		"community/elemental_craft/paper_flames"
+            	"item_rarity"		"rare"
+            }
+            "7887"
+            {
+            	"name"		"paper_fire_two"
+            	"item_name"		"#StickerKit_elemental_craft_paper_fire_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_fire_two"
+            	"sticker_material"		"community/elemental_craft/paper_fire_two"
+            	"item_rarity"		"rare"
+            }
+            "7888"
+            {
+            	"name"		"paper_fire_three"
+            	"item_name"		"#StickerKit_elemental_craft_paper_fire_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_fire_three"
+            	"sticker_material"		"community/elemental_craft/paper_fire_three"
+            	"item_rarity"		"rare"
+            }
+            "7891"
+            {
+            	"name"		"paper_fire_one"
+            	"item_name"		"#StickerKit_elemental_craft_paper_fire_one"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_fire_one"
+            	"sticker_material"		"community/elemental_craft/paper_fire_one"
+            	"item_rarity"		"rare"
+            }
+            "7892"
+            {
+            	"name"		"paper_explosion_two"
+            	"item_name"		"#StickerKit_elemental_craft_paper_explosion_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_explosion_two"
+            	"sticker_material"		"community/elemental_craft/paper_explosion_two"
+            	"item_rarity"		"rare"
+            }
+            "7893"
+            {
+            	"name"		"paper_explosion_three"
+            	"item_name"		"#StickerKit_elemental_craft_paper_explosion_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_explosion_three"
+            	"sticker_material"		"community/elemental_craft/paper_explosion_three"
+            	"item_rarity"		"rare"
+            }
+            "7894"
+            {
+            	"name"		"paper_explosion_one"
+            	"item_name"		"#StickerKit_elemental_craft_paper_explosion_one"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_explosion_one"
+            	"sticker_material"		"community/elemental_craft/paper_explosion_one"
+            	"item_rarity"		"rare"
+            }
+            "7895"
+            {
+            	"name"		"paper_explosion_four"
+            	"item_name"		"#StickerKit_elemental_craft_paper_explosion_four"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_explosion_four"
+            	"sticker_material"		"community/elemental_craft/paper_explosion_four"
+            	"item_rarity"		"rare"
+            }
+            "7896"
+            {
+            	"name"		"holo_rainbow_trail"
+            	"item_name"		"#StickerKit_elemental_craft_holo_rainbow_trail"
+            	"description_string"		"#StickerKit_desc_elemental_craft_holo_rainbow_trail"
+            	"sticker_material"		"community/elemental_craft/holo_rainbow_trail"
             	"item_rarity"		"mythical"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"1102803112"
             }
-            "7877"
+            "7897"
             {
-            	"name"		"cph2024_signature_w0nderful_32_holo"
-            	"item_name"		"#StickerKit_cph2024_signature_w0nderful_holo_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_w0nderful_holo_champion"
-            	"sticker_material"		"cph2024/sig_w0nderful_holo_champion"
+            	"name"		"glitter_explosion_two"
+            	"item_name"		"#StickerKit_elemental_craft_glitter_explosion_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_glitter_explosion_two"
+            	"sticker_material"		"community/elemental_craft/glitter_explosion_two"
+            	"item_rarity"		"mythical"
+            }
+            "7898"
+            {
+            	"name"		"glitter_explosion_three"
+            	"item_name"		"#StickerKit_elemental_craft_glitter_explosion_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_glitter_explosion_three"
+            	"sticker_material"		"community/elemental_craft/glitter_explosion_three"
+            	"item_rarity"		"mythical"
+            }
+            "7899"
+            {
+            	"name"		"glitter_explosion_one"
+            	"item_name"		"#StickerKit_elemental_craft_glitter_explosion_one"
+            	"description_string"		"#StickerKit_desc_elemental_craft_glitter_explosion_one"
+            	"sticker_material"		"community/elemental_craft/glitter_explosion_one"
+            	"item_rarity"		"mythical"
+            }
+            "7900"
+            {
+            	"name"		"glitter_explosion_four"
+            	"item_name"		"#StickerKit_elemental_craft_glitter_explosion_four"
+            	"description_string"		"#StickerKit_desc_elemental_craft_glitter_explosion_four"
+            	"sticker_material"		"community/elemental_craft/glitter_explosion_four"
+            	"item_rarity"		"mythical"
+            }
+            "7901"
+            {
+            	"name"		"foil_lightning_two"
+            	"item_name"		"#StickerKit_elemental_craft_foil_lightning_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_foil_lightning_two"
+            	"sticker_material"		"community/elemental_craft/foil_lightning_two"
             	"item_rarity"		"legendary"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"1102803112"
             }
-            "7878"
+            "7902"
             {
-            	"name"		"cph2024_signature_w0nderful_32_gold"
-            	"item_name"		"#StickerKit_cph2024_signature_w0nderful_gold_champion"
-            	"description_string"		"#StickerKit_desc_cph2024_signature_w0nderful_gold_champion"
-            	"sticker_material"		"cph2024/sig_w0nderful_gold_champion"
+            	"name"		"foil_lightning_three"
+            	"item_name"		"#StickerKit_elemental_craft_foil_lightning_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_foil_lightning_three"
+            	"sticker_material"		"community/elemental_craft/foil_lightning_three"
+            	"item_rarity"		"legendary"
+            }
+            "7903"
+            {
+            	"name"		"foil_lightning_one"
+            	"item_name"		"#StickerKit_elemental_craft_foil_lightning_one"
+            	"description_string"		"#StickerKit_desc_elemental_craft_foil_lightning_one"
+            	"sticker_material"		"community/elemental_craft/foil_lightning_one"
+            	"item_rarity"		"legendary"
+            }
+            "7904"
+            {
+            	"name"		"foil_fire_three"
+            	"item_name"		"#StickerKit_elemental_craft_foil_fire_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_foil_fire_three"
+            	"sticker_material"		"community/elemental_craft/foil_fire_three"
+            	"item_rarity"		"legendary"
+            }
+            "7905"
+            {
+            	"name"		"paper_arm_flex"
+            	"item_name"		"#StickerKit_sticker_craft_paper_arm_flex"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_arm_flex"
+            	"sticker_material"		"community/sticker_craft/paper_arm_flex"
+            	"item_rarity"		"rare"
+            }
+            "7906"
+            {
+            	"name"		"paper_clown_nose"
+            	"item_name"		"#StickerKit_sticker_craft_paper_clown_nose"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_clown_nose"
+            	"sticker_material"		"community/sticker_craft/paper_clown_nose"
+            	"item_rarity"		"rare"
+            }
+            "7907"
+            {
+            	"name"		"paper_clown_wig"
+            	"item_name"		"#StickerKit_sticker_craft_paper_clown_wig"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_clown_wig"
+            	"sticker_material"		"community/sticker_craft/paper_clown_wig"
+            	"item_rarity"		"rare"
+            }
+            "7909"
+            {
+            	"name"		"paper_googly_eye_small"
+            	"item_name"		"#StickerKit_sticker_craft_paper_googly_eye_small"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_googly_eye_small"
+            	"sticker_material"		"community/sticker_craft/paper_googly_eye_small"
+            	"item_rarity"		"rare"
+            }
+            "7910"
+            {
+            	"name"		"paper_mouth"
+            	"item_name"		"#StickerKit_sticker_craft_paper_mouth"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_mouth"
+            	"sticker_material"		"community/sticker_craft/paper_mouth"
+            	"item_rarity"		"rare"
+            }
+            "7911"
+            {
+            	"name"		"paper_ribbon"
+            	"item_name"		"#StickerKit_sticker_craft_paper_ribbon"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_ribbon"
+            	"sticker_material"		"community/sticker_craft/paper_ribbon"
+            	"item_rarity"		"rare"
+            }
+            "7912"
+            {
+            	"name"		"paper_tongue"
+            	"item_name"		"#StickerKit_sticker_craft_paper_tongue"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_tongue"
+            	"sticker_material"		"community/sticker_craft/paper_tongue"
+            	"item_rarity"		"rare"
+            }
+            "7913"
+            {
+            	"name"		"glitter_kawaii_eyes"
+            	"item_name"		"#StickerKit_sticker_craft_glitter_kawaii_eyes"
+            	"description_string"		"#StickerKit_desc_sticker_craft_glitter_kawaii_eyes"
+            	"sticker_material"		"community/sticker_craft/glitter_kawaii_eyes"
+            	"item_rarity"		"mythical"
+            }
+            "7914"
+            {
+            	"name"		"glitter_tentacle"
+            	"item_name"		"#StickerKit_sticker_craft_glitter_tentacle"
+            	"description_string"		"#StickerKit_desc_sticker_craft_glitter_tentacle"
+            	"sticker_material"		"community/sticker_craft/glitter_tentacle"
+            	"item_rarity"		"mythical"
+            }
+            "7915"
+            {
+            	"name"		"holo_mouth"
+            	"item_name"		"#StickerKit_sticker_craft_holo_mouth"
+            	"description_string"		"#StickerKit_desc_sticker_craft_holo_mouth"
+            	"sticker_material"		"community/sticker_craft/holo_mouth"
+            	"item_rarity"		"mythical"
+            }
+            "7916"
+            {
+            	"name"		"holo_tongue"
+            	"item_name"		"#StickerKit_sticker_craft_holo_tongue"
+            	"description_string"		"#StickerKit_desc_sticker_craft_holo_tongue"
+            	"sticker_material"		"community/sticker_craft/holo_tongue"
+            	"item_rarity"		"mythical"
+            }
+            "7917"
+            {
+            	"name"		"foil_mouth"
+            	"item_name"		"#StickerKit_sticker_craft_foil_mouth"
+            	"description_string"		"#StickerKit_desc_sticker_craft_foil_mouth"
+            	"sticker_material"		"community/sticker_craft/foil_mouth"
+            	"item_rarity"		"legendary"
+            }
+            "7918"
+            {
+            	"name"		"lenticular_cheeky_eyes"
+            	"item_name"		"#StickerKit_sticker_craft_lenticular_cheeky_eyes"
+            	"description_string"		"#StickerKit_desc_sticker_craft_lenticular_cheeky_eyes"
+            	"sticker_material"		"community/sticker_craft/lenticular_cheeky_eyes"
             	"item_rarity"		"ancient"
-            	"tournament_event_id"		"22"
-            	"tournament_team_id"		"12"
-            	"tournament_player_id"		"1102803112"
+            }
+            "7919"
+            {
+            	"name"		"lenticular_googly_eye"
+            	"item_name"		"#StickerKit_sticker_craft_lenticular_googly_eye"
+            	"description_string"		"#StickerKit_desc_sticker_craft_lenticular_googly_eye"
+            	"sticker_material"		"community/sticker_craft/lenticular_googly_eye"
+            	"item_rarity"		"ancient"
+            }
+            "7921"
+            {
+            	"name"		"lenticular_angry_eyes"
+            	"item_name"		"#StickerKit_sticker_craft_lenticular_angry_eyes"
+            	"description_string"		"#StickerKit_desc_sticker_craft_lenticular_angry_eyes"
+            	"sticker_material"		"community/sticker_craft/lenticular_angry_eyes"
+            	"item_rarity"		"mythical"
+            }
+            "7922"
+            {
+            	"name"		"paper_water_two"
+            	"item_name"		"#StickerKit_elemental_craft_paper_water_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_water_two"
+            	"sticker_material"		"community/elemental_craft/paper_water_two"
+            	"item_rarity"		"rare"
+            }
+            "7923"
+            {
+            	"name"		"paper_water_three"
+            	"item_name"		"#StickerKit_elemental_craft_paper_water_three"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_water_three"
+            	"sticker_material"		"community/elemental_craft/paper_water_three"
+            	"item_rarity"		"rare"
+            }
+            "7924"
+            {
+            	"name"		"paper_water_one"
+            	"item_name"		"#StickerKit_elemental_craft_paper_water_one"
+            	"description_string"		"#StickerKit_desc_elemental_craft_paper_water_one"
+            	"sticker_material"		"community/elemental_craft/paper_water_one"
+            	"item_rarity"		"rare"
+            }
+            "7925"
+            {
+            	"name"		"lenticular_blood_one"
+            	"item_name"		"#StickerKit_elemental_craft_lenticular_blood_one"
+            	"description_string"		"#StickerKit_descelemental_craft__lenticular_blood_one"
+            	"sticker_material"		"community/elemental_craft/lenticular_blood_one"
+            	"item_rarity"		"ancient"
+            }
+            "7926"
+            {
+            	"name"		"lenticular_blood_two"
+            	"item_name"		"#StickerKit_elemental_craft_lenticular_blood_two"
+            	"description_string"		"#StickerKit_desc_elemental_craft_lenticular_blood_two"
+            	"sticker_material"		"community/elemental_craft/lenticular_blood_two"
+            	"item_rarity"		"ancient"
+            }
+            "7927"
+            {
+            	"name"		"paper_male_anime_face"
+            	"item_name"		"#StickerKit_sticker_craft_paper_male_anime_face"
+            	"description_string"		"#StickerKit_desc_sticker_craft_paper_male_anime_face"
+            	"sticker_material"		"community/sticker_craft/paper_male_anime_face"
+            	"item_rarity"		"rare"
             }
             """;
 
@@ -1140,6 +1280,19 @@ internal class Program
                 .ToLower()
                 .Trim();
 
+            
+            string path = string.Empty;
+            if (item.Value.sticker_material.Contains("sticker_craft"))
+            {
+                tournamentName = "Character Craft";
+                path = "sticker_craft";
+            }
+            else if(item.Value.sticker_material.Contains("elemental_craft"))
+            {
+                tournamentName = "Elemental Craft";
+                path = "elemental_craft";
+            }
+
             string rarity = "HighGrade";
 
             if (name.Contains("(Glitter)"))
@@ -1154,7 +1307,7 @@ internal class Program
             {
                 rarity = "Exotic";
             }
-            else if (name.Contains("(Gold)"))
+            else if (name.Contains("(Gold)") || name.Contains("(Lenticular)"))
             {
                 rarity = "Extraordinary";
             }
@@ -1171,17 +1324,19 @@ internal class Program
             });
         }
 
-
         JsonSerializerOptions options = new JsonSerializerOptions()
         {
             WriteIndented = true,
         };
 
-        string json = JsonSerializer.Serialize(stickers, options);
+        foreach (var item in stickers.GroupBy(x => x.tournament))
+        {
+            List<Sticker> stickerList = item.ToList();
+            string json = JsonSerializer.Serialize(stickerList, options);
+            string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, $"{item.Key}.json");
 
-        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "copenhagen2024.json");
-
-        await File.WriteAllTextAsync(filename, json);
+            await File.WriteAllTextAsync(filename, json);
+        }
     }
 
     static string GetTournamentName(string name)
@@ -1233,7 +1388,7 @@ internal class Program
         {
             string[] lines = item.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
 
-            if (lines.Length < 9)
+            if (lines.Length < 7)
             {
                 continue;
             }

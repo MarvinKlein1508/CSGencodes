@@ -16,10 +16,16 @@
 	<ItemGroup>
 	  <None Remove="data\buff\cph2024\champion.json" />
 	  <None Remove="data\buff\cph2024\missing.json" />
+	  <None Remove="data\buff\character_craft\page1.json" />
+	  <None Remove="data\buff\character_craft\page2.json" />
+	  <None Remove="data\buff\elemental_craft\page1.json" />
+	  <None Remove="data\buff\elemental_craft\page2.json" />
 	  <None Remove="data\collections\gallery_collection.json" />
 	  <None Remove="data\collections\graphic_design_collection.json" />
 	  <None Remove="data\collections\overpass_2024_collection.json" />
 	  <None Remove="data\collections\sport_and_field_collection.json" />
+	  <None Remove="data\stickers\character_craft.json" />
+	  <None Remove="data\stickers\elemental_craft.json" />
 	</ItemGroup>
 
   

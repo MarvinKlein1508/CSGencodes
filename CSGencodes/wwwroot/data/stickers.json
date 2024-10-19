@@ -65230,5 +65230,410 @@
     "BuffGoodsId": null,
     "BuffStickerId": 19622,
     "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_gold_champion_png.png"
+  },
+  {
+    "name": "Lefty (T)",
+    "gen_id": 7879,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19702,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_t_left_hand_png.png"
+  },
+  {
+    "name": "Red Shades (Foil)",
+    "gen_id": 7880,
+    "tournament": "Character Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19709,
+    "Image": "/assets/img/items/stickers/sticker_craft/foil_sunglasses_png.png"
+  },
+  {
+    "name": "Mustachio (Foil)",
+    "gen_id": 7881,
+    "tournament": "Character Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19711,
+    "Image": "/assets/img/items/stickers/sticker_craft/foil_mustache_png.png"
+  },
+  {
+    "name": "Bolt Strike",
+    "gen_id": 7882,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19668,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_lightning_two_png.png"
+  },
+  {
+    "name": "Bolt Charge",
+    "gen_id": 7883,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19682,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_lightning_three_png.png"
+  },
+  {
+    "name": "Bolt Energy",
+    "gen_id": 7884,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19672,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_lightning_one_png.png"
+  },
+  {
+    "name": "High Heat",
+    "gen_id": 7885,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19686,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_flames_two_png.png"
+  },
+  {
+    "name": "Hot Rod Heat",
+    "gen_id": 7886,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19671,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_flames_png.png"
+  },
+  {
+    "name": "Scorch Loop (Reverse)",
+    "gen_id": 7887,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19667,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_fire_two_png.png"
+  },
+  {
+    "name": "Winding Scorch",
+    "gen_id": 7888,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19670,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_fire_three_png.png"
+  },
+  {
+    "name": "Scorch Loop",
+    "gen_id": 7891,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19681,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_fire_one_png.png"
+  },
+  {
+    "name": "Boom Detonation",
+    "gen_id": 7892,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19663,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_explosion_two_png.png"
+  },
+  {
+    "name": "Boom Epicenter",
+    "gen_id": 7893,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19674,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_explosion_three_png.png"
+  },
+  {
+    "name": "Boom Blast",
+    "gen_id": 7894,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19680,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_explosion_one_png.png"
+  },
+  {
+    "name": "Boom Trail",
+    "gen_id": 7895,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19693,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_explosion_four_png.png"
+  },
+  {
+    "name": "Rainbow Route (Holo)",
+    "gen_id": 7896,
+    "tournament": "Elemental Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19677,
+    "Image": "/assets/img/items/stickers/elemental_craft/holo_rainbow_trail_png.png"
+  },
+  {
+    "name": "Boom Detonation (Glitter)",
+    "gen_id": 7897,
+    "tournament": "Elemental Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19678,
+    "Image": "/assets/img/items/stickers/elemental_craft/glitter_explosion_two_png.png"
+  },
+  {
+    "name": "Boom Epicenter (Glitter)",
+    "gen_id": 7898,
+    "tournament": "Elemental Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19696,
+    "Image": "/assets/img/items/stickers/elemental_craft/glitter_explosion_three_png.png"
+  },
+  {
+    "name": "Boom Blast (Glitter)",
+    "gen_id": 7899,
+    "tournament": "Elemental Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19683,
+    "Image": "/assets/img/items/stickers/elemental_craft/glitter_explosion_one_png.png"
+  },
+  {
+    "name": "Boom Trail (Glitter)",
+    "gen_id": 7900,
+    "tournament": "Elemental Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19675,
+    "Image": "/assets/img/items/stickers/elemental_craft/glitter_explosion_four_png.png"
+  },
+  {
+    "name": "Bolt Strike (Foil)",
+    "gen_id": 7901,
+    "tournament": "Elemental Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19710,
+    "Image": "/assets/img/items/stickers/elemental_craft/foil_lightning_two_png.png"
+  },
+  {
+    "name": "Bolt Charge (Foil)",
+    "gen_id": 7902,
+    "tournament": "Elemental Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19676,
+    "Image": "/assets/img/items/stickers/elemental_craft/foil_lightning_three_png.png"
+  },
+  {
+    "name": "Bolt Energy (Foil)",
+    "gen_id": 7903,
+    "tournament": "Elemental Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19703,
+    "Image": "/assets/img/items/stickers/elemental_craft/foil_lightning_one_png.png"
+  },
+  {
+    "name": "Winding Scorch (Foil)",
+    "gen_id": 7904,
+    "tournament": "Elemental Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19690,
+    "Image": "/assets/img/items/stickers/elemental_craft/foil_fire_three_png.png"
+  },
+  {
+    "name": "Flex",
+    "gen_id": 7905,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19685,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_arm_flex_png.png"
+  },
+  {
+    "name": "Clown Nose",
+    "gen_id": 7906,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19704,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_clown_nose_png.png"
+  },
+  {
+    "name": "Clown Wig",
+    "gen_id": 7907,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19701,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_clown_wig_png.png"
+  },
+  {
+    "name": "Quick Peek",
+    "gen_id": 7909,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19699,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_googly_eye_small_png.png"
+  },
+  {
+    "name": "XD",
+    "gen_id": 7910,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19664,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_mouth_png.png"
+  },
+  {
+    "name": "Ribbon Tie",
+    "gen_id": 7911,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19666,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_ribbon_png.png"
+  },
+  {
+    "name": "Taste Bud",
+    "gen_id": 7912,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19695,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_tongue_png.png"
+  },
+  {
+    "name": "Kawaii Eyes (Glitter)",
+    "gen_id": 7913,
+    "tournament": "Character Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19669,
+    "Image": "/assets/img/items/stickers/sticker_craft/glitter_kawaii_eyes_png.png"
+  },
+  {
+    "name": "From The Deep (Glitter)",
+    "gen_id": 7914,
+    "tournament": "Character Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19705,
+    "Image": "/assets/img/items/stickers/sticker_craft/glitter_tentacle_png.png"
+  },
+  {
+    "name": "Say Cheese (Holo)",
+    "gen_id": 7915,
+    "tournament": "Character Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19697,
+    "Image": "/assets/img/items/stickers/sticker_craft/holo_mouth_png.png"
+  },
+  {
+    "name": "Taste Buddy (Holo)",
+    "gen_id": 7916,
+    "tournament": "Character Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19692,
+    "Image": "/assets/img/items/stickers/sticker_craft/holo_tongue_png.png"
+  },
+  {
+    "name": "Gold Teef (Foil)",
+    "gen_id": 7917,
+    "tournament": "Character Craft",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19708,
+    "Image": "/assets/img/items/stickers/sticker_craft/foil_mouth_png.png"
+  },
+  {
+    "name": "Side Eyes (Lenticular)",
+    "gen_id": 7918,
+    "tournament": "Character Craft",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19712,
+    "Image": "/assets/img/items/stickers/sticker_craft/lenticular_cheeky_eyes_png.png"
+  },
+  {
+    "name": "Googly Eye (Lenticular)",
+    "gen_id": 7919,
+    "tournament": "Character Craft",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19707,
+    "Image": "/assets/img/items/stickers/sticker_craft/lenticular_googly_eye_png.png"
+  },
+  {
+    "name": "Hypnoteyes (Holo)",
+    "gen_id": 7921,
+    "tournament": "Character Craft",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19688,
+    "Image": "/assets/img/items/stickers/sticker_craft/lenticular_angry_eyes_png.png"
+  },
+  {
+    "name": "Hydro Geyser",
+    "gen_id": 7922,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19673,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_water_two_png.png"
+  },
+  {
+    "name": "Hydro Stream",
+    "gen_id": 7923,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19665,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_water_three_png.png"
+  },
+  {
+    "name": "Hydro Wave",
+    "gen_id": 7924,
+    "tournament": "Elemental Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19700,
+    "Image": "/assets/img/items/stickers/elemental_craft/paper_water_one_png.png"
+  },
+  {
+    "name": "Ruby Stream (Lenticular)",
+    "gen_id": 7925,
+    "tournament": "Elemental Craft",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19713,
+    "Image": "/assets/img/items/stickers/elemental_craft/lenticular_blood_one_png.png"
+  },
+  {
+    "name": "Ruby Wave (Lenticular)",
+    "gen_id": 7926,
+    "tournament": "Elemental Craft",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19679,
+    "Image": "/assets/img/items/stickers/elemental_craft/lenticular_blood_two_png.png"
+  },
+  {
+    "name": "Strike A Pose",
+    "gen_id": 7927,
+    "tournament": "Character Craft",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": 19684,
+    "Image": "/assets/img/items/stickers/sticker_craft/paper_male_anime_face_png.png"
   }
 ]
