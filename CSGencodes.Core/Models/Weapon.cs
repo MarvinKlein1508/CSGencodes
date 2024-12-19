@@ -44,12 +44,12 @@ namespace CSGencodes.Core.Models
             "Contraband" => 7,
             _ => 1,
         };
-        public string GetGencode(decimal @float, int pattern, List<AppliedSticker> stickers)
+        public string GetGencode(decimal @float, int pattern, string customName, List<AppliedSticker> stickers)
         {
             StringBuilder sb = new();
             sb.Append($"!gen {weapon_id} {gen_id} {pattern} {@float.ToString("0.00000000000000", CultureInfo.InvariantCulture)}");
 
-     
+
 
             var sortedStickers = stickers.OrderBy(x => x.PosId).ToList();
 
@@ -68,7 +68,24 @@ namespace CSGencodes.Core.Models
 
                 sb.Append($" {sticker.gen_id} {sticker.Scratched.ToString("0.00", CultureInfo.InvariantCulture)}");
                 currentPos++;
-                addedStickers++;    
+                addedStickers++;
+            }
+
+            if (!string.IsNullOrWhiteSpace(customName))
+            {
+                if (addedStickers != 5)
+                {
+                    for (int i = addedStickers; i < 5; i++)
+                    {
+                        sb.Append(" 0 0.00");
+                        currentPos++;
+                        addedStickers++;
+                    }
+
+                    sb.Append(" 0");
+                    sb.Append(" 0");
+                    sb.Append($" {customName}");
+                }
             }
 
             string gencode = sb.ToString();

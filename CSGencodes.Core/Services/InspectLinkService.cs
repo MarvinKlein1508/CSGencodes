@@ -10,7 +10,7 @@ namespace CSGencodes.Core.Services
         private Crc32 _crc = new();
 
 
-        public (string url, bool commandMode) GenerateInspectLink(Weapon weapon, decimal @float, int pattern, List<AppliedSticker> stickers)
+        public (string url, bool commandMode) GenerateInspectLink(Weapon weapon, decimal @float, int pattern, string customName, List<AppliedSticker> stickers)
         {
             CEconItemPreviewDataBlock proto = new CEconItemPreviewDataBlock();
 
@@ -18,6 +18,12 @@ namespace CSGencodes.Core.Services
             proto.Defindex = (uint)weapon.weapon_id;
             proto.Paintindex = (uint)weapon.gen_id;
             proto.Paintseed = (uint)pattern;
+
+            if (!string.IsNullOrWhiteSpace(customName))
+            {
+                proto.Customname = customName;
+            }
+        
 
             byte[] paintWearBytes = BitConverter.GetBytes((float)@float);
             //Array.Reverse(paintWearBytes); // Convert to big-endian

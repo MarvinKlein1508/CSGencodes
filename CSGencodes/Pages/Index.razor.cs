@@ -51,6 +51,7 @@ namespace CSGencodes.Pages
 
         public List<AppliedSticker> SelectedStickers { get; set; } = [];
 
+        public string CustomName { get; set; } = string.Empty;
         public decimal Float
         {
             get => _float;
