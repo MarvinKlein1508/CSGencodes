@@ -35,7 +35,7 @@ Compared to other sites we offer a large variety of features which you can only 
 |9|AWP|
 |10|FAMAS|
 |11|G3SG1|
-|13|Galil|
+|13|Galil AR|
 |14|M249|
 |16|M4A4|
 |17|MAC-10|
