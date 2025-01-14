@@ -38,5 +38,15 @@
 
   
 
+  
+
+  <ItemGroup>
+    <Content Update="data\collections\default_skins.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  
+
 
 </Project>
