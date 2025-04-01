@@ -44,6 +44,7 @@
 		"GameUI_CrosshairCode"		"Crosshair Code:"
 		"GameUI_CrosshairLength"	"Length"
 		"GameUI_CrosshairDot"		"Center Dot"
+		"GameUI_IronsightColor"		"Use crosshair color for scope dot"
 		"GameUI_CrosshairRecoil"	"Follow Recoil"
 		"GameUI_CrosshairRecoil_Desc"	"Crosshair will leave the center of the screen to follow the weapon recoil pattern."
 		"GameUI_CrosshairThickness"	"Thickness"
@@ -246,9 +247,9 @@
 		"GameUI_Disconnect_SnapshotOverflow"				"Error reliable snapshot overflow"
 		"GameUI_Disconnect_SnapshotError"					"Error sending snapshot"
 		"GameUI_Disconnect_SteamDropped"					"Steam authorization failed.  You must be connected to Steam to make the initial connection to the game server."
-		"GameUI_Disconnect_SteamIDBanned"					"STEAM UserID is banned"
-		"GameUI_Disconnect_SteamIDInUse"					"STEAM UserID is already in use on this server"
-		"GameUI_Disconnect_SteamTicket"						"STEAM UserID ticket is invalid"
+		"GameUI_Disconnect_SteamIDBanned"					"Steam user is banned"
+		"GameUI_Disconnect_SteamIDInUse"					"Steam user is already in use on this server"
+		"GameUI_Disconnect_SteamTicket"						"Steam user ticket is invalid"
 		"GameUI_Disconnect_SteamLogon"						"No Steam logon"
 		"GameUI_Disconnect_SteamInUse"						"This Steam account is being used in another location"
 		"GameUI_Disconnect_SteamOwnership"					"Unable to verify game ownership on this Steam account."
@@ -1208,6 +1209,7 @@
 		"Cstrike_TitlesTXT_OBS_NONE"										"Camera Options"
 		"Cstrike_TitlesTXT_OBS_ROAMING"										"Free Look"
 		"Cstrike_TitlesTXT_Only_1_Team_Change"								"Only one team change is allowed"
+		"Cstrike_TitlesTXT_Team_Change_Too_Soon_Cooldown"					"Please wait before changing teams again."
 		"Cstrike_TitlesTXT_Cannot_Move_Hostages_Warmup"						"Hostages cannot be rescued during warmup"
 		"Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages"						"Only Counter-Terrorists can move the hostages"
 		"Cstrike_TitlesTXT_CanOnlyCarryOneHostage"							"You can only carry one hostage at a time"
@@ -2635,6 +2637,7 @@
 		"Attrib_UseAfterDate"						"Can Be Used After %s1"
 		"Attrib_NeverTradableButHasAfterDate1"		"This item is not tradable and is not marketable."
 		"Attrib_NeverTradableButHasAfterDate2"		"After use, items received will have a trade restriction until %s1"
+		"Attrib_TradeProtectedEscrowDate"			"⇆ This item is trade-protected and cannot be consumed, modified, or transferred until %s1"
 		"Attrib_TradableAfterDate"					"Tradable After %s1"
 		"Attrib_TradableMarketableAfterDate"		"Tradable/Marketable After %s1"
 		"Attrib_MarketableWithRestrictions"			"Sellable Immediately on the Steam Community Market"
@@ -2826,6 +2829,8 @@
 		"CSGO_Operation_Leaderboard_Loading_Type"		"Loading %s1 Leaderboard..."
 		"CSGO_Operation_Leaderboard_NoData"				"No Data Found For\n%s1 Leaderboard"
 		"CSGO_Operation_Leaderboard_NoPicksLoaded"		"No data found for this leaderboard"
+		"CSGO_Operation_Leaderboard_NewSeason"			"The {s:season_name} regional leaderboards will populate once the ratings have been calibrated."
+		"CSGO_Operation_Leaderboard_NewSeason_Friends"	"The {s:season_name} friends leaderboard will populate as soon as you or your friends reestablish a CS Rating."
 		
 		//Vanguard
 		"CSGO_official_leaderboard_season_4_hours_cm"	"Hours Played"
@@ -2887,6 +2892,7 @@
 
 		// premier
 		"official_leaderboard_premier_season1_name"			"Season One"
+		"official_leaderboard_premier_season2_name"			"Season Two"
 
 		//
 
@@ -2952,9 +2958,18 @@
 		"leaderboard_region_abbr_China"			"<font color=\"#ff5959\">CN</font>"
 
 
-
-		"mapwinrecord_graph_title:p"				"Most Recent Win#|#Most Recent Wins"
+		"mapwinrecord_graph_title:p"			"Most Recent Win#|#Most Recent Wins"
+		"season_progress_title"					"SEASON PROGRESS"
+		"season_progress_high_rank"				"Highest CS Rating achieved this season"
+		"season_progress_bar_title"				"Matches Won"
+		"season_wins"							"<b>{d:wins}</b> / {d:threshold}"
+		"season_progress_tooltip-title"			"Season Progress"
+		"season_progress_tooltip-body"			"When the Season ends, players who meet the requirements will be awarded a Premier Season Medal.<br><br>The color will correspond to your highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25, up to five bars.<br><br>To earn the current Premier Season Medal, you'll need an account in good standing, 25 Premier match wins, and an active CS Rating at the end of the season."
+		"season_progress_tooltip-expiration_time"	"<br><br>Your CS Rating will remain active for {s:time}."
+		"season_progress_rating_expired"		"Your CS Rating has expired due to inactivity. Win 1 match to display it again.<br><br>To earn the current Premier Season Medal, you'll need an account in good standing when the season ends."
 		
+		"season_expiration_hint_expires_soon"	"Your CS Rating will remain active for {s:time}."
+
 		"CSGO_Operation_Maps_Season_4_Active"		"Maps in the Active Duty Group are Dust II, Nuke, Mirage, Inferno, Cobblestone, Overpass, Cache."
 		"CSGO_Operation_Maps_Season_4_Operation"	"Maps in the Operation Group are Workout, Back Alley, Marquis, Facade, Season, and Bazaar."
 		
@@ -3758,7 +3773,7 @@
 		"csgo_item_usage_desc_tec9"											"• Highly mobile, effective at range and up close<br>• Consider in eco rounds<br><i>• Difficulty: <font color=\"#BF9240\">★★★</font></i>"
 		"csgo_item_usage_desc_revolver"										"• Deals massive damage after a short delay<br>• Consider in eco rounds<br><i>• Difficulty: <font color=\"#BF4040\">★★★★</font></i>"
 		"csgo_item_usage_desc_deagle"										"• A lethal headshot at any range<br>• Consider in eco rounds<br><i>• Difficulty: <font color=\"#BF4040\">★★★★</font></i>"
-		"csgo_item_usage_desc_taser"										"• A single-use one shot kill at short range<br>• Attempt at your own risk<br><i>• Difficulty: <font color=\"#BF4040\">★★★★</font></i>"
+		"csgo_item_usage_desc_taser"										"• A rechargeable one shot kill at short range<br>• Attempt at your own risk<br><i>• Difficulty: <font color=\"#BF4040\">★★★★</font></i>"
 		"csgo_item_usage_desc_bizon"										"• A hail of bullets to mow down unarmored enemies<br>• Consider in the first three rounds of the half<br><i>• Difficulty: <font color=\"#BFBF40\">★★</font></i>"
 		"csgo_item_usage_desc_mac10"										"• A run and gun tool for breaching bombsites<br>• Consider in the first three rounds of the half<br><i>• Difficulty: <font color=\"#40BF40\">★</font></i>"
 		"csgo_item_usage_desc_mp9"											"• A burst of damage to deny an enemy rush<br>• Consider in the first three rounds of the half<br><i>• Difficulty: <font color=\"#40BF40\">★</font></i>"
@@ -4383,6 +4398,12 @@
 		
 		"CSGO_crate_sticker_pack_stkr_craft_02_capsule"				"Character Craft Sticker Pack"
 		"CSGO_crate_sticker_pack_stkr_craft_02_short"	    		"Character Craft Stickers"
+		
+		"CSGO_crate_community_35"				"Fever Case"
+		"CSGO_crate_community_35_desc"			""
+		
+		"CSGO_crate_key_community_35"			"Fever Case Key"
+		"CSGO_crate_key_community_35_desc"		"This key only opens Fever cases"
 		
 "SprayKit_vcap1_ace_01"		"Ace"
 "SprayKit_desc_vcap1_ace_01"	""
@@ -5443,6 +5464,22 @@
 
 		"CSGO_set_community_34"			"The Gallery Collection"
 		"CSGO_set_community_34_desc"	""
+		
+		"CSGO_set_community_35"					"The Fever Collection"
+		"CSGO_set_community_35_desc"			"" 
+		
+		"CSGO_set_train_2025"					"The Train 2025 Collection"
+		"CSGO_set_train_2025_short"				"Train 2025 Collection"
+		"CSGO_set_train_2025_desc"				""
+		
+		"CSGO_set_timed_drops_warm"				"The Radiant Collection"
+		"CSGO_set_timed_drops_warm_desc"		""
+		
+		"CSGO_set_timed_drops_neutral"			"The Boreal Collection"
+		"CSGO_set_timed_drops_neutral_desc"		""
+		
+		"CSGO_set_timed_drops_cool"				"The Ascent Collection"
+		"CSGO_set_timed_drops_cool_desc"		""
 		
 		/////////////////
 		// lootlist override strings
@@ -23958,6 +23995,51 @@
 	"CSGO_crate_signature_pack_sha2024_group_champions_tinyname" "Champions Autographs"
 	"CSGO_crate_signature_pack_sha2024_group_champions_desc" "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Shanghai 2024.\n\n50% of the proceeds from the sale of this capsule support the included players and organizations.\n\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
 
+	"StickerKit_sha2024_signature_chopper_champion" "chopper (Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_chopper_champion" "This sticker was autographed by professional player Leonid Vishnyakov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_chopper_champion_glitter" "chopper (Glitter, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_chopper_champion_glitter" "This glitter sticker was autographed by professional player Leonid Vishnyakov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_chopper_champion_holo" "chopper (Holo, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_chopper_champion_holo" "This holographic sticker was autographed by professional player Leonid Vishnyakov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_chopper_champion_gold" "chopper (Gold, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_chopper_champion_gold" "This gold sticker was autographed by professional player Leonid Vishnyakov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+
+	"StickerKit_sha2024_signature_magixx_champion" "magixx (Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_magixx_champion" "This sticker was autographed by professional player Borislav Vorobev playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_magixx_champion_glitter" "magixx (Glitter, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_magixx_champion_glitter" "This glitter sticker was autographed by professional player Borislav Vorobev playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_magixx_champion_holo" "magixx (Holo, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_magixx_champion_holo" "This holographic sticker was autographed by professional player Borislav Vorobev playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_magixx_champion_gold" "magixx (Gold, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_magixx_champion_gold" "This gold sticker was autographed by professional player Borislav Vorobev playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+
+	"StickerKit_sha2024_signature_donk_champion" "donk (Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_donk_champion" "This sticker was autographed by professional player Danil Kryshkovets playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_donk_champion_glitter" "donk (Glitter, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_donk_champion_glitter" "This glitter sticker was autographed by professional player Danil Kryshkovets playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_donk_champion_holo" "donk (Holo, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_donk_champion_holo" "This holographic sticker was autographed by professional player Danil Kryshkovets playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_donk_champion_gold" "donk (Gold, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_donk_champion_gold" "This gold sticker was autographed by professional player Danil Kryshkovets playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+
+	"StickerKit_sha2024_signature_sh1ro_champion" "sh1ro (Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_sh1ro_champion" "This sticker was autographed by professional player Dmitrii Sokolov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_sh1ro_champion_glitter" "sh1ro (Glitter, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_sh1ro_champion_glitter" "This glitter sticker was autographed by professional player Dmitrii Sokolov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_sh1ro_champion_holo" "sh1ro (Holo, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_sh1ro_champion_holo" "This holographic sticker was autographed by professional player Dmitrii Sokolov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_sh1ro_champion_gold" "sh1ro (Gold, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_sh1ro_champion_gold" "This gold sticker was autographed by professional player Dmitrii Sokolov playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+
+	"StickerKit_sha2024_signature_zont1x_champion" "zont1x (Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_zont1x_champion" "This sticker was autographed by professional player Myroslav Plakhotia playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_zont1x_champion_glitter" "zont1x (Glitter, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_zont1x_champion_glitter" "This glitter sticker was autographed by professional player Myroslav Plakhotia playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_zont1x_champion_holo" "zont1x (Holo, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_zont1x_champion_holo" "This holographic sticker was autographed by professional player Myroslav Plakhotia playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+	"StickerKit_sha2024_signature_zont1x_champion_gold" "zont1x (Gold, Champion) | Shanghai 2024"
+	"StickerKit_desc_sha2024_signature_zont1x_champion_gold" "This gold sticker was autographed by professional player Myroslav Plakhotia playing for Team Spirit, Champion at the Perfect World Shanghai 2024 CS2 Major Championship."
+
 
 	"StickerKit_sha2024_signature_snax" "Snax | Shanghai 2024"
 	"StickerKit_desc_sha2024_signature_snax" "This sticker was autographed by professional player Janusz Pogorzelski playing for G2 Esports at the Perfect World Shanghai 2024 CS2 Major Championship."
@@ -24697,13 +24779,13 @@
 	"StickerKit_sha2024_signature_sl3nd_gold" "sl3nd (Gold) | Shanghai 2024"
 	"StickerKit_desc_sha2024_signature_sl3nd_gold" "This gold sticker was autographed by professional player Henrich Hevesi playing for GamerLegion at the Perfect World Shanghai 2024 CS2 Major Championship."
 
-	"StickerKit_sha2024_signature_volt" "Volt | Shanghai 2024"
+	"StickerKit_sha2024_signature_volt" "volt | Shanghai 2024"
 	"StickerKit_desc_sha2024_signature_volt" "This sticker was autographed by professional player Sebastian Constantin Malos playing for GamerLegion at the Perfect World Shanghai 2024 CS2 Major Championship."
-	"StickerKit_sha2024_signature_volt_glitter" "Volt (Glitter) | Shanghai 2024"
+	"StickerKit_sha2024_signature_volt_glitter" "volt (Glitter) | Shanghai 2024"
 	"StickerKit_desc_sha2024_signature_volt_glitter" "This glitter sticker was autographed by professional player Sebastian Constantin Malos playing for GamerLegion at the Perfect World Shanghai 2024 CS2 Major Championship."
-	"StickerKit_sha2024_signature_volt_holo" "Volt (Holo) | Shanghai 2024"
+	"StickerKit_sha2024_signature_volt_holo" "volt (Holo) | Shanghai 2024"
 	"StickerKit_desc_sha2024_signature_volt_holo" "This holographic sticker was autographed by professional player Sebastian Constantin Malos playing for GamerLegion at the Perfect World Shanghai 2024 CS2 Major Championship."
-	"StickerKit_sha2024_signature_volt_gold" "Volt (Gold) | Shanghai 2024"
+	"StickerKit_sha2024_signature_volt_gold" "volt (Gold) | Shanghai 2024"
 	"StickerKit_desc_sha2024_signature_volt_gold" "This gold sticker was autographed by professional player Sebastian Constantin Malos playing for GamerLegion at the Perfect World Shanghai 2024 CS2 Major Championship."
 
 	"StickerKit_sha2024_signature_fl4mus" "FL4MUS | Shanghai 2024"
@@ -31168,6 +31250,60 @@
 		
 // END COMMUNITY_34
 
+// COMMUNITY_35
+
+		"PaintKit_awp_printstream"							"It has been custom painted with a stark black and white design and finished with pearlescent highlights.\n\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; BOLTACTION_1;</i>"
+		
+		"PaintKit_famas_badtrip"							"It has been custom painted with brightly colored monsters.\n\n<i>When you've had too much</i>"
+		"PaintKit_famas_badtrip_Tag"						"Bad Trip"
+		
+		"PaintKit_ump45_old_cartoon"						"This custom paint job is inspired by old animation cartoons.\n\n<i>Swing and a miss!</i>"
+		"PaintKit_ump45_old_cartoon_Tag"					"K.O. Factory"
+		
+		"PaintKit_glock_shinobu"							"It has been custom painted with a woman on the slide wearing SR Tech \"Premium\" contact lenses.\n\n<i>\"SR Tech—helping you stay focused one engagement at a time\"</i>"
+		"PaintKit_glock_shinobu_Tag"						"Shinobu" 
+		
+		"PaintKit_ak47_explosive"							"This custom, art brut paint job depicts the scattered thoughts of a once sane member of the Elite Crew.\n\n<i>RU$HKILLxDESTROY//NOxFEAR-ATTACKBURN!TERROR</i>"
+		"PaintKit_ak47_explosive_Tag"						"Searing Rage"
+		
+		"PaintKit_galil_control_strike"						"It has been custom painted using grey, yellow, and red and takes inspiration from racing liveries.\n\n<i>Now available with all-wheel drive</i>"
+		"PaintKit_galil_control_strike_Tag"					"Control"
+		
+		"PaintKit_zeus_tosai"								"It has been custom painted with a young koi fish, also called a tosai.\n\n<i>Wishing you good fortune</i>"
+		"PaintKit_zeus_tosai_Tag"							"Tosai"
+		
+		"PaintKit_nova_rising_sun"							"It has been custom painted to resemble a stained glass Japanese motif.\n\n<i>Wait 'til you see it in the sun - Imogen, Arms Dealer In Training</i>"
+		"PaintKit_nova_rising_sun_Tag"						"Rising Sun"
+		
+		"PaintKit_p90_boost_blue"							"It has been custom painted using an angular blue and green design.\n\n<i>You look how you feel</i>"
+		"PaintKit_p90_boost_blue_Tag"						"Wave Breaker"
+		
+		"PaintKit_p2k_fractal"								"It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\n\n<i>>>WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE<<</i>"
+		"PaintKit_p2k_fractal_Tag"							"Sure Grip"
+		
+		"PaintKit_mag7_ammo_box"							"It has been custom painted to resemble an ammunition box.\n\n<i>Keep the receipt</i>"
+		"PaintKit_mag7_ammo_box_Tag"						"Resupply"
+		
+		"PaintKit_usps_bruteforce_green"					"It has been custom painted with a minty green and silver-colored design.\n\n<i>The Glass of Fate is half-full</i>"
+		"PaintKit_usps_bruteforce_green_Tag"				"PC-GRN"
+		
+		"PaintKit_deagle_snake_pattern"						"It has been custom painted with an orange and red snakeskin pattern.\n\n<i>Serpentine!</i>"
+		"PaintKit_deagle_snake_pattern_Tag"					"Serpent Strike"
+		
+		"PaintKit_ssg08_brutalist"							"This custom paint job depicts bronze engravings and is inspired by the concrete efficiency of brutalist architecture.\n\n<i>May your sacrifice not be in vain</i>"
+		"PaintKit_ssg08_brutalist_Tag"						"Memorial"
+		
+		"PaintKit_xm1014_mockingbird"						"A silver and gold design depicting birds in flight has been custom painted on the receiver.\n\n<i>Time spent with birds is never wasted</i>"
+		"PaintKit_xm1014_mockingbird_Tag"					"Mockingbird"
+		
+		"PaintKit_mp9_nexus"								"It has been custom painted in silver, black, and blue with contemporary designs inlaid in the silver paint.\n\n<i>A personal, yet understated touch</i>"
+		"PaintKit_mp9_nexus_Tag"							"Nexus"
+		
+		"PaintKit_m4a4_green_camo"							"It has been custom painted using a green camo pattern.\n\n<i>Increase your digital footprint</i>"
+		"PaintKit_m4a4_green_camo_Tag"						"Choppa"
+
+// END COMMUNITY_35
+
 // OVERPASS_2024
 				
 		"PaintKit_hy_overpass_paintover_teal"				"A blue and black hydrographic graffiti pattern has been applied.\n\n<i>Signed, Doctor Romanov</i>"
@@ -31321,6 +31457,311 @@
 
 // END GRAPHIC_DESIGN
 
+// TRAIN_2025
+
+		"PaintKit_aug_cold_sentinel"						"It has been custom painted in gunmetal grey.\n\n<i>Solid steel and cold as death</i>"
+		"PaintKit_aug_cold_sentinel_Tag"					"Steel Sentinel"
+		
+		"PaintKit_glock_train_green"						"A green train car found outside Train's A site has been custom painted on the slide.\n\n<i>\"Next stop, Train Yard—doors on your right\"</i>"
+		"PaintKit_glock_train_green_Tag"					"Green Line"
+		
+		"PaintKit_mac10_train_crash"						"It has been custom painted with an exploding train car.\n\n<i>\"Your attention please...\"</i>"
+		"PaintKit_mac10_train_crash_Tag"					"Derailment"
+		
+		"PaintKit_brutalist_architecture"					"It has been painted with a maroon and grey pattern.\n\n<i>Form AND function</i>"
+		"PaintKit_brutalist_architecture_Tag"				"Constructivist"
+		
+		"PaintKit_train_shapes_01"							"It has been painted with a pattern using different shades of blue.\n\n<i>The steady drizzle adds to the ambiance</i>"
+		"PaintKit_train_shapes_01_Tag"						"Rain Station"
+		
+		"PaintKit_p90_steelcraft"							"It has been custom painted to look like it's been crudely welded together.\n\n<i>\"That'll hold\"</i>"
+		"PaintKit_p90_steelcraft_Tag"						"Straight Dimes"
+		
+		"PaintKit_am_carbon_fiber_cz75"						"It has been painted using a copper-colored carbon fiber hydrographic.\n\n<i>\"Try saying THAT three times fast...\"</i>"
+		"PaintKit_am_carbon_fiber_cz75_Tag"					"Copper Fiber"
+		
+		"PaintKit_ump_transit"								"It has been custom painted with fictitious transit diagrams designed around the maps of Counter-Strike.\n\n<i>\"Now arriving at green line stop number four, Dust II\"</i>"
+		"PaintKit_ump_transit_Tag"							"Late Night Transit"
+		
+		"PaintKit_xm1014_freight"							"It has been painted to resemble well-traveled train cars.\n\n<i>Last stop!</i>"
+		"PaintKit_xm1014_freight_Tag"						"Run Run Run"
+		
+		"PaintKit_zeus_standard_issue"						"It has been custom painted with a yellow base and finished with black and red accents.\n\n<i>WARNING: BRIGHT LIGHT, AVOID EXPOSURE</i>"
+		"PaintKit_zeus_standard_issue_Tag"					"Charged Up"
+		
+		"PaintKit_gs_train_car_famas"						"It has been custom painted with a tread plate pattern and \"2A2F\" on the handguard.\n\n<i>\"2A2F—reliable shipping in an unreliable world\"</i>"
+		"PaintKit_gs_train_car_famas_Tag"					"2A2F"
+		
+		"PaintKit_cu_m4a4_train_hell"						"It has been custom painted with orange and yellow flames over a black glitter base.\n\n<i>Like hell...</i>"
+		"PaintKit_cu_m4a4_train_hell_Tag"					"Hellish"
+		
+		"PaintKit_cu_mp9_latte"								"It has been custom painted to resemble the \"Latte\" drum found on Train's B site.\n\n<i>Start your morning right</i>"
+		"PaintKit_cu_mp9_latte_Tag"							"Latte Rush"
+		
+		"PaintKit_awp_longdog"								"It has been custom painted with the LongDog graffiti from Train.\n\n<i>\"The greatest dog to have ever lived is the one waiting for you at home\"</i>"
+		"PaintKit_awp_longdog_Tag"							"LongDog"
+		
+// END TRAIN_2025
+
+// TIMED DROPS 2025
+
+		// RADIANT COLLECTION
+		"PaintKit_so_mustard" 								"It has been painted using different shades of yellow.\n\n<i>Here's some new material...</i>"
+		"PaintKit_so_mustard_Tag" 							"Short Ochre"
+
+		"PaintKit_so_mustard_scar20"						"It has been painted using different shades of yellow.\n\n<i>Here's some new material...</i>"
+		"PaintKit_so_mustard_scar20_Tag"					"Long Ochre"
+
+		"PaintKit_soch_acrylic_grips"						"These Dual Berettas have been painted gunmetal grey. The grips have been painted a plum-colored purple.\n\n<i>Table for two?</i>"
+		"PaintKit_soch_acrylic_grips_Tag"					"BorDeux"
+
+		"PaintKit_soo_branches"								"A brown pattern of branches has been applied.\n\n<i>Watch where you step</i>"
+		"PaintKit_soo_branches_Tag"							"Autumn Thicket"
+
+		"PaintKit_so_bronze_powder"							"It has been painted using solid bronze and brown colors.\n\n<i>Not to be confused with \"foundation\"</i>"
+		"PaintKit_so_bronze_powder_Tag"						"Bronzer"
+
+		"PaintKit_hy_cloud_camo"							"A pattern of orange, tan, and brown spots has been applied.\n\n<i>Spotty coverage</i>"
+		"PaintKit_hy_cloud_camo_Tag"						"Canvas Cloud"
+
+		"PaintKit_hy_wood_grain_camo_red"					"A grey and maroon woodgrain pattern has been applied.\n\n<i>Re-staining is recommended every 3 to 4 years</i>"
+		"PaintKit_hy_wood_grain_camo_red_Tag"				"Wood Block Camo"
+
+		"PaintKit_soo_grass_photo_camo"						"A grass marsh pattern has been applied.\n\n<i>That's one way to \"touch grass\"</i>"
+		"PaintKit_soo_grass_photo_camo_Tag"					"Marsh Grass"
+
+		"PaintKit_soo_g3sg1_tomato"							"A gunmetal grey camo has been applied over a wine-colored base.\n\n<i>You say \"tomato\", I say \"potato\"</i>"
+		"PaintKit_soo_g3sg1_tomato_Tag"						"Red Jasper"
+
+		"PaintKit_ht_simple_camo"							"A desert-colored halftone pattern has been applied.\n\n<i>All of the attitude with half the tone</i>"
+		"PaintKit_ht_simple_camo_Tag"						"Desert Halftone"
+
+		"PaintKit_soe_pink_pearl"							"It has been painted using black and pearlescent pink.\n\n<i>Refined elegance</i>"
+		"PaintKit_soe_pink_pearl_Tag"						"Pink Pearl"
+
+		"PaintKit_hy_mtp"									"A green and brown multi-terrain camo pattern has been applied.\n\n<i>It's an early piece, but it still holds up - Imogen, Arms Dealer In Training</i>"
+		"PaintKit_hy_mtp_Tag"								"Multi-Terrain"
+
+		"PaintKit_soe_plum"									"It has been painted with a deep, satin finish purple color.\n\n<i>\"It's fuchsia, spelled f-u-c-h-s-i-a\"</i>"
+		"PaintKit_soe_plum_Tag"								"Mulberry"
+
+		"PaintKit_ht_orange_basket"							"An orange halftone pattern has been applied.\n\n<i>Cross your hatch and hope to die</i>"
+		"PaintKit_ht_orange_basket_Tag"						"Basket Halftone"
+
+		"PaintKit_ht_red_edges"								"It has been spray-painted with a worn red pattern.\n\n<i>That's gonna leave a mark!</i>"
+		"PaintKit_ht_red_edges_Tag"							"Bleeding Edge"
+
+		"PaintKit_hy_hexagon"								"A hydrographic hex pattern has been applied.\n\n<i>Hex marks the spot</i>"
+		"PaintKit_hy_hexagon_Tag"							"Rose Hex"
+
+		"PaintKit_hy_varicamo_simple_yellow"				"A grey and yellow hydrographic VariCamo pattern has been applied.\n\n<i>Rebuilding only comes in the wake of destruction</i>"
+		"PaintKit_hy_varicamo_simple_yellow_Tag"			"Arsenic Spill"
+
+		"PaintKit_soe_yellow_swirl"							"A gold topographic pattern has been applied.\n\n<i>\"Yeah, I saw that too...\"</i>"
+		"PaintKit_soe_yellow_swirl_Tag"						"Sedimentary"
+
+		"PaintKit_soo_famas_grey_ghost"						"A silver hydrographic pattern has been applied and finished with red accents.\n\n<i>Sterling qualities</i>"
+		"PaintKit_soo_famas_grey_ghost_Tag"					"Grey Ghost"
+
+		"PaintKit_soo_paint_splats_yellow"					"A dark paint splat pattern is applied over a yellow and green base.\n\n<i>Warm regards</i>"
+		"PaintKit_soo_paint_splats_yellow_Tag"				"Citric Acid"
+
+		"PaintKit_soe_roses"								"A vintage pattern of roses over a coral pink base has been applied.\n\n<i>LOL (lots of love), Grandma</i>"
+		"PaintKit_soe_roses_Tag"							"Coral Bloom"
+
+		"PaintKit_soo_acrylic_flow_pink"					"A blush, gold, and blue-colored acrylic pour pattern has been applied.\n\n<i>It all comes together...</i>"
+		"PaintKit_soo_acrylic_flow_pink_Tag"				"Blush Pour"
+
+		"PaintKit_hye_pink_coral"							"A wine and beige-colored coral pattern has been applied.\n\n<i>Nature laughed, for it created something we couldn't dream possible</i>"
+		"PaintKit_hye_pink_coral_Tag"						"Red Tide"
+
+		"PaintKit_ht_metal_edges"							"Its worn steel base is finished with red ribbons and a matching red grip and magazine.\n\n<i>It's on site!</i>"
+		"PaintKit_ht_metal_edges_Tag"						"Steel Work"
+
+		"PaintKit_soe_orange_flick"							"Its metallic brown base is finished with high vis orange accents.\n\n<i>Rule number one: always know what is behind your target</i>"
+		"PaintKit_soe_orange_flick_Tag"						"O-Ranger"
+
+		"PaintKit_ht_abstract_wind"							"A multicolored abstract paint pattern has been applied.\n\n<i>Please return to display after use</i>"
+		"PaintKit_ht_abstract_wind_Tag"						"Glitched Paint"
+
+		"PaintKit_hye_pink_tiger"							"A multicolored tiger camo pattern has been applied.\n\n<i>Endangered no more</i>"
+		"PaintKit_hye_pink_tiger_Tag"						"Shredded"
+
+		"PaintKit_hye_ak47_nouveau"							"It has been custom painted with a wine and white-colored base and finished with gold accents.\n\n<i>\"Don't look at it that way—it's an art piece, not a tool for violence\"</i>"
+		"PaintKit_hye_ak47_nouveau_Tag"						"Nouveau Rouge"
+
+
+		// TAIGA COLLECTION
+		"PaintKit_sp_khaki_camo"							"It has been spray-painted with a green and black hex pattern.\n\n<i>Hex marks the spot</i>"
+		"PaintKit_sp_khaki_camo_Tag"						"Green Cell"
+
+		"PaintKit_hyo_jungle_desat"							"A green and grey hydrographic pattern has been applied.\n\n<i>\"We weren't sure if we were the ambushers... or the ambushees\"</i>"
+		"PaintKit_hyo_jungle_desat_Tag"						"Sage Camo"
+
+		"PaintKit_hy_digicam_forest"						"A green and sand-colored hydrographic digital camo pattern has been applied.\n\n<i>Look twice, then look again</i>"
+		"PaintKit_hy_digicam_forest_Tag"					"Swamp DDPAT"
+
+		"PaintKit_hy_flecktarn"								"A green hydrographic flecktarn camo pattern has been applied.\n\n<i>Translated, Flecktarn means \"spot camouflage\", or exactly what you WON'T be doing</i>"
+		"PaintKit_hy_flecktarn_Tag"							"Commando Company"
+
+		"PaintKit_so_ceramic_green_ssg08"					"It has been painted using different shades of green.\n\n<i>You are what you eat</i>"
+		"PaintKit_so_ceramic_green_ssg08_Tag"				"Green Ceramic"
+
+		"PaintKit_soe_alpine_green"							"It has been painted solid green.\n\n<i>Get in on the ground floor</i>"
+		"PaintKit_soe_alpine_green_Tag"						"Pine"
+
+		"PaintKit_so_ceramic"								"It has been painted a solid tan color.\n\n<i>Restore by force</i>"
+		"PaintKit_so_ceramic_Tag"							"Raw Ceramic"
+
+		"PaintKit_so_greyblue"								"It has been painted with blue and rose gold solid colors.\n\n<i>I'm trying something different here, tell me what you think - Yukako, Gunsmith</i>"
+		"PaintKit_so_greyblue_Tag"							"Copper Oxide"
+
+		"PaintKit_soch_hueshift_desat"						"A green and tan pattern has been applied.\n\n<i>Some of our goals aren't... aligned</i>"
+		"PaintKit_soch_hueshift_desat_Tag"					"Green Swirl"
+
+		"PaintKit_soch_marble_grips"						"These Dual Berettas have been painted with striking green and silver colors. The grips are finished with a ceramic top coat.\n\n<i>They command respect, although I can't say the same for you... - Booth, Arms Dealer</i>"
+		"PaintKit_soch_marble_grips_Tag"					"Polished Malachite"
+
+		"PaintKit_aq_titanium_acid"							"Its green base coat has been lightly color case-hardened through the application of wood charcoal at high temperatures.\n\n<i>An evergreen offering</i>"
+		"PaintKit_aq_titanium_acid_Tag"						"Leafhopper"
+
+		"PaintKit_hye_green_camo"							"It has been painted with a green hydrographic hex pattern.\n\n<i>Hex marks the spot</i>"
+		"PaintKit_hye_green_camo_Tag"						"Acid Hex"
+		
+		"PaintKit_hye_gold_camo"							"A green and gold hydrographic camo pattern has been applied.\n\n<i>\"Can you take that outside?\"</i>"
+		"PaintKit_hye_gold_camo_Tag"						"Gold Leaf"
+
+		"PaintKit_hye_tiger2"								"A forest-colored tiger camo pattern has been applied.\n\n<i>Endangered no more</i>"
+		"PaintKit_hye_tiger2_Tag"							"Tiger Tear"
+
+		"PaintKit_hye_yellow_usaf"							"A green and yellow hydrographic pattern has been applied\n\n<i>Let it rip</i>"
+		"PaintKit_hye_yellow_usaf_Tag"						"Acid Dart"
+
+		"PaintKit_hye_zoom"									"A blue-green base coat has been finished with a yellow hydrographic \"ground smoke\" pattern.\n\n<i>Denying information is as important as obtaining it</i>"
+		"PaintKit_hye_zoom_Tag"								"Mustard Gas"
+
+		"PaintKit_soe_teal_glitter"							"It has been painted using different shades of green metallic flake paint.\n\n<i>A pleasant surprise</i>"
+		"PaintKit_soe_teal_glitter_Tag"						"Marsh"
+
+		"PaintKit_soe_varicamo"								"A grey VariCamo pattern has been applied.\n\n<i>Rebuilding only comes in the wake of destruction</i>"
+		"PaintKit_soe_varicamo_Tag"							"VariCamo Grey"
+
+		"PaintKit_soe_metallic_green"						"The buttstock and handguard have been painted dark brown. The receiver, grip, and barrel have been painted solid green.\n\n<i>\"Envy is a trait of the weak\"</i>"
+		"PaintKit_soe_metallic_green_Tag"					"Wintergreen"
+
+		"PaintKit_soe_tropical"								"A tropical green floral pattern has been applied. It has been finished with gold accents.\n\n<i>Keep this between us</i>"
+		"PaintKit_soe_tropical_Tag"							"Tropical Breeze"
+
+		"PaintKit_hye_green_forest"							"A green forest pattern has been applied.\n\n<i>In the thick of it</i>"
+		"PaintKit_hye_green_forest_Tag"						"Poplar Thicket"
+
+		"PaintKit_soe_snakeskin"							"A green snakeskin pattern has been applied.\n\n<i>Crush and kill</i>"
+		"PaintKit_soe_snakeskin_Tag"						"Garter-9"
+
+		"PaintKit_ht_copper_edges"							"A green and brown DDPAT pattern has been applied to the stock, grip, and handguard. \n\n<i>All day long you'll have good luck</i>"
+		"PaintKit_ht_copper_edges_Tag"						"Copperflage"
+
+		"PaintKit_spe_lightning"							"A sheet lightning pattern has been spray-painted over a charcoal and gold-colored base.\n\n<i>Blink and you'll miss it</i>"
+		"PaintKit_spe_lightning_Tag"						"Sheet Lightning"
+
+		"PaintKit_spe_missile"								"It has been custom painted with a silver mockingbird over a green and yellow base.\n\n<i>Let nothing stop your song</i>"
+		"PaintKit_spe_missile_Tag"							"Glockingbird"
+
+		"PaintKit_cue_jump_line"							"A yellow streak runs the length of this custom painted, green metallic flake AWP.\n\n<i>Energy amplified</i>"
+		"PaintKit_cue_jump_line_Tag"						"Green Energy"
+
+
+		// ASCENT COLLECTION
+		"PaintKit_gsch_ripple"								"Parts of this Sawed-Off have been lightly color case-hardened through the application of wood charcoal at high temperatures.\n\n<i>A \"brown shotgun\" with a twist</i>"
+		"PaintKit_gsch_ripple_Tag"							"Runoff"
+		
+		"PaintKit_ht_blue_edges"							"It has been spray-painted with a worn, blue pattern.\n\n<i>That's gonna leave a mark!</i>"
+		"PaintKit_ht_blue_edges_Tag"						"Buff Blue"
+		
+		"PaintKit_hy_usaf_round"							"A blue and grey hydrographic pattern has been applied.\n\n<i>Let it rip</i>"
+		"PaintKit_hy_usaf_round_Tag"						"Blue Tac"
+		
+		"PaintKit_so_teal"									"It has been painted using different shades of blue.\n\n<i>Move fast, shoot fast, win fast</i>"
+		"PaintKit_so_teal_Tag"								"Blue Blast"
+		
+		"PaintKit_soch_blorb_bw"							"A grayscale graphic pattern has been applied.\n\n<i>\"Do you know how much color cartridges cost?!\"</i>"
+		"PaintKit_soch_blorb_bw_Tag"						"Grey Smoke"
+		
+		"PaintKit_soch_indigo_grips"						"A blue pattern has been painted on the grip of this R8.\n\n<i>Get a grip!</i>"
+		"PaintKit_soch_indigo_grips_Tag"					"Cobalt Grip"
+		
+		"PaintKit_soo_blues"								"It has been painted using a blue camo pattern.\n\n<i>A classic look for a new generation</i>"
+		"PaintKit_soo_blues_Tag"							"Night Camo"
+		
+		"PaintKit_soo_mac10_blueberry"						"It has been painted using a solid blue camo pattern.\n\n<i>We all have to do things we don't like</i>"
+		"PaintKit_soo_mac10_blueberry_Tag"					"Storm Camo"
+		
+		"PaintKit_sp_lace"									"It has been spray-painted with a purple and black lace pattern.\n\n<i>Don't call it a doily</i>"
+		"PaintKit_sp_lace_Tag"								"Plum Netting"
+		
+		"PaintKit_sp_lime_hex"								"It has been spray-painted with a blue and green hex pattern.\n\n<i>Hex marks the spot</i>"
+		"PaintKit_sp_lime_hex_Tag"							"Lime Hex"
+		
+		"PaintKit_hye_blue_m4a4"							"A blue tiger camo pattern has been applied.\n\n<i>Endangered no more</i>"
+		"PaintKit_hye_blue_m4a4_Tag"						"Naval Shred Camo"
+		
+		"PaintKit_hye_drippy_camo"							"It has been painted using a purple and pink drippy camo pattern.\n\n<i>Don't overthink it</i>"
+		"PaintKit_hye_drippy_camo_Tag"						"Gum Wall Camo"
+		
+		"PaintKit_hye_topo"									"A blue topographic pattern has been applied.\n\n<i>\"Yeah, I saw that too...\"</i>"
+		"PaintKit_hye_topo_Tag"								"Ocean Topo"
+		
+		"PaintKit_soe_berry"								"It has been painted using different shades of purple.\n\n<i>Purple people deleter</i>"
+		"PaintKit_soe_berry_Tag"							"Sour Grapes"
+		
+		"PaintKit_soe_blue_and_chrome"						"It has been painted a solid, steel-colored blue and finished with silver accents.\n\n<i>Steeling hearts</i>"
+		"PaintKit_soe_blue_and_chrome_Tag"					"Sky Blue"
+		
+		"PaintKit_soe_electric_blue"						"It has been painted solid blue.\n\n<i>Lacking subtlety</i>"
+		"PaintKit_soe_electric_blue_Tag"					"Electric Blue"
+		
+		"PaintKit_soe_robinsegg"							"It has been painted using robins egg blue and finished with silver accents.\n\n<i>A harbinger of new beginnings</i>"
+		"PaintKit_soe_robinsegg_Tag"						"Robin's Egg"
+		
+		"PaintKit_soo_acrylic_flow_turquoise"				"A blue and gold acrylic pour pattern has been applied.\n\n<i>It all comes together...</i>"
+		"PaintKit_soo_acrylic_flow_turquoise_Tag"			"Turquoise Pour"
+		
+		"PaintKit_soo_rose_gold"							"The metal of these Dual Berettas has been painted rose gold and the grips are a nacred, deep jade color.\n\n<i>You can't make an omelette without cracking a few jeweled eggs</i>"
+		"PaintKit_soo_rose_gold_Tag"						"Rose Nacre"
+		
+		"PaintKit_ht_earth_fans"							"A teal and brown halftone fan pattern has been applied.\n\n<i>Let's clear the air</i>"
+		"PaintKit_ht_earth_fans_Tag"						"Mint Fan"
+		
+		"PaintKit_hye_blue_paisley"							"A blue paisley pattern has been applied.\n\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>"
+		"PaintKit_hye_blue_paisley_Tag"						"Cobalt Paisley"
+		
+		"PaintKit_hye_coral"								"A green and blue coral pattern has been applied.\n\n<i>Nature laughed, for it created something we couldn't dream possible</i>"
+		"PaintKit_hye_coral_Tag"							"Reef Grief"
+		
+		"PaintKit_soe_blue_famas"							"A blue and grey camo pattern has been applied.\n\n<i>Arctic camo, eh?</i>"
+		"PaintKit_soe_blue_famas_Tag"						"Yeti Camo"
+		
+		"PaintKit_spe_scarf_print"							"A blue and gold filigree pattern has been applied.\n\n<i>\"I'm not kitting around...\"</i>"
+		"PaintKit_spe_scarf_print_Tag"						"Royal Baroque"
+		
+		"PaintKit_soe_blue_and_gold"						"It has been custom painted with a solid blue slide and finished with gold accents.\n\n<i>It is rare that beauty is so obvious</i>"
+		"PaintKit_soe_blue_and_gold_Tag"					"Royal Guard"
+		
+		"PaintKit_soe_iridescent_purple"					"The buttstock, handguard, and grip have been painted blue. The rest of the AK-47 has been painted iridescent purple.\n\n<i>That's one way to get their attention…</i>"
+		"PaintKit_soe_iridescent_purple_Tag"				"Midnight Laminate"
+		
+		"PaintKit_cue_stratosphere"							"It has been custom painted with spacefaring ships circling a planet in outer space.\n\n<i>\"One day in the not too distant future...\"</i>"
+		"PaintKit_cue_stratosphere_Tag"						"Stratosphere"
+
+// END TIMED DROPS 2025
+
+// LIMITED TIME ITEM
+
+		"PaintKit_soch_mountains_xm1014"					"A mountain terrain pattern has been applied.\n\n<i>Being alone is a privilege, not a burden</i>"
+		"PaintKit_soch_mountains_xm1014_Tag"				"Solitude"
+
+// END LIMITED TIME ITEM
+
 		//Recipes
 		"CSGO_Recipe_TradeUp"						"Trade Up Contract"
 		"CSGO_Recipe_TradeUp_Desc"					"In exchange for 10 items of identical quality, you will receive a single item of a quality one higher, from a collection of one of the items you provided."
@@ -31362,6 +31803,9 @@
 
 		"crate_community_33_unusual_lootlist"		"or an Exceedingly Rare Kukri Knife!"
 		"crate_community_33_unusual_itemname"		"★ Kukri Knife ★"
+		
+		"crate_community_35_unusual_lootlist"		"or an Exceedingly Rare Special Item!"
+		"crate_community_35_unusual_itemname"		"★ Rare Special Item ★"
 		
 		//----------------------------------------------
 		// Store
@@ -31512,6 +31956,7 @@
 		"CSGOEcon_Equip"				"Equip"
 		"CSGOEcon_Default"				"(default) "
 		"BackpackTitle"					"Inventory"
+		"TradeProtectedEscrowTitle"		"Trade-protected Items"
 		"CustomizeTitle"				"Customize"
 		"L4D360UI_Back_Caps"			"BACK"
 		"OpenGeneralLoadout"			"OPEN LOADOUT..."
@@ -32514,6 +32959,7 @@
 		"PlayMenu_unavailable_newuser_2"	"Complete matches in other game modes to unlock this one."
 		"PlayMenu_unavailable_newuser_2_nonprime"	"Purchase Prime Account Status, and complete matches in other game modes to unlock this one."
 		"PlayMenu_unavailable_newuser_2_nogcconnection"	"No connection to the Counter-Strike network."
+		"PlayMenu_unavailable_newuser_2_offseason"	"Premier season has ended. Please wait until the next Premier season begins."
 
 
 		"SFUI_Overwatch_Res_Postpone_Label"		"Cancel"
@@ -34299,6 +34745,12 @@
 		"CSGO_Collectible_GlobalGeneral2025"		"2025 Service Medal"
 		"CSGO_Collectible_Desc_GlobalGeneral2025"	"Awarded for outstanding service and achievement in 2025."
 
+		"CSGO_Collectible_PremierSeason1Coin"		"Premier Season One Medal"
+		"CSGO_Collectible_PremierSeason1Coin_Desc"	"This is a commemorative Premier Medal awarded for your active participation in Premier Season One."
+
+		"CSGO_Collectible_PremierSeason2Coin"		"Premier Season Two Medal"
+		"CSGO_Collectible_PremierSeason2Coin_Desc"	"This is a commemorative Premier Medal awarded for your active participation in Premier Season Two."
+
 		//for main menu display
 		"SFUI_XP_Bonus_1"							"Weekly XP bonus boost available!"
 		"SFUI_XP_Bonus_2"							"Get an item drop next time you rank up!"
@@ -34456,10 +34908,15 @@
 		"xpshop_upsell_desc"						"<span class=\"text-color-white\"><b>Get and activate your {s:pass}</b></span><br>Earn {d:max-stars} Armory Credits per pass and redeem them for items"
 		"xpshop_upsell_mainmenu_1"					"The Armory Pass"
 		"xpshop_upsell_mainmenu_2"					"Get access to 3 new Weapon Collections, Charms, The Gallery Case, and more."
+		"xpshop_upsell_mainmenu_2_v2"				"Get access to the new Train Collection, The Fever Case, Charms, and more."
 		"xpshop_upsell_mainmenu_3"					""
 		"xpshop_upsell_btn"							"Get A Pass"
 		"xpshop_upsell_tooltip"						"Learn more about the {s:pass}"
+		"xpshop_new_items"							"New Items!"
+		"xpshop_lootlist_info"						"The <span class=\"text-color-white\"><b>{s:casename}</b></span> contains one of the following"
 
+		"xpshop_limited_item_variations"			"Finish Variations"
+		"xpshop_limited_item_variations_tooltip"	"Examples of possible variations that you may get when you redeem this Limited Edition Item."
 		"xpshop_pass_activate"						"Activate Pass"
 		"xpshop_pass_activate_open_armory"			"Open Armory to Activate"
 		"xpshop_pass_activate_desc"					"Activate Pass to start earning Armory Credits"
@@ -35438,6 +35895,7 @@
 		"SFUI_ARFlashAlert_NextWeapon"				"Next Weapon Acquired"
 		"SFUI_Notice_YouDroppedWeapon"				"You dropped your %s1"
 		"SFUI_Notice_CannotDropWeapon"				"You cannot drop your %s1"
+		"SFUI_Notice_CannotDropWeaponDuringWarmup"	"You cannot drop weapons during warmup"
 		"SFUI_Healthshot_AlreadyAtMax"				"You are already at max health"
 		//e3af22
 		"SFUI_Notice_DM_BuyMenu_RandomON"				"<font color='#e8ad21'>INVULNERABLE</font><br>[%s1] Open the Buy Menu  (%s2)<br>[%s3] Random Weapons <font color='#69cf31'>ON</font>"
@@ -35880,6 +36338,13 @@
 		"SFUI_Horizontal_Screen_Resize"		"Horizontal Adjustment"
 		"SFUI_Vertical_Screen_Resize"		"Vertical Adjustment"
 		"SFUI_Settings_TextureStreaming"	"Texture Streaming"
+		"SFUI_Settings_Thread_Pool_Options"	"CPU Cores Usage Preference"
+		"SFUI_Settings_Thread_Pool_Options_Info"	"Some CPUs have cores that are designed for high performance and others for power efficiency. This setting configures whether work is preferentially assigned to one or the other type of core. Best setting will vary depending on your hardware and software configuration. Requires the game to be restarted for the change to take effect."
+		"SFUI_Settings_Thread_Pool_Options_Performance"	"Performance Cores Only"
+		"SFUI_Settings_Thread_Pool_Options_Efficiency"	"Efficiency Cores Only"
+		"SFUI_Settings_Thread_Pool_Options_Performance_And_Efficiency"	"Prefer Performance Cores"
+		"SFUI_Settings_Thread_Pool_Options_Undifferentiated"	"No Preference"
+		"SFUI_Settings_Thread_Pool_Options_Quit" "Quit and Restart Game"
 
 		"SFUI_Magnified"					"Magnified"
 		"SFUI_Magnification"				"Magnification"
@@ -36175,7 +36640,7 @@
 		"SFUI_Settings_HudTelemetry_NetworkQualityDetailed" "Use the detailed network quality display"
 		"SFUI_Settings_HudTelemetry_NetworkQualityDetailed_Info" "Display network information on two lines.  In addition to the ping and missed tick rate, the also shows the raw packet loss and jitter measurements."
 
-		"SFUI_Settings_HudTelemetry_NetworkQualityGraph" "Show network jitter / misdeliery graph"
+		"SFUI_Settings_HudTelemetry_NetworkQualityGraph" "Show network jitter / misdelivery graph"
 		"SFUI_Settings_HudTelemetry_NetworkQualityGraph_Info" "Show a realtime graph of network jitter.  Misdelivery events (loss, reordering, or excessive jitter) are highlighted."
 
 		"SFUI_Settings_HudTelemetry_Show_Never" "Never"
@@ -36249,6 +36714,8 @@
 		"SFUI_Settings_Radar_Scale_Alternate"	"Radar Map Alternate Zoom"
 		"SFUI_Settings_Radar_Scale_Info"		"Map Zoom impacts the amount of the map that is visible on the radar."
 		"SFUI_Settings_Radar_Scale_Alternate_Info"	"An alternate level of Map Zoom that you can toggle between using a key"
+		"SFUI_Settings_Radar_Scale_Dynamic"		"Radar Is Zooming Dynamically"
+		"SFUI_Settings_Radar_Scale_Dynamic_Info" "Toggles between a radar that scales dynamically to encompass all detected elements and one with fixed scale."
 		"SFUI_Go_To_Radar_Toggle_Key_Binding"	"GO TO RADAR ZOOM TOGGLE KEY BINDING"
 
 		"SFUI_Settings_Radar_Centered"			"Radar Centers The Player"
@@ -36816,7 +37283,7 @@
 		"SFUI_OfficialDatacenterID_28"		"EU, Poland"
 		"SFUI_OfficialDatacenterID_29"		"EU, Netherlands"
 		// "SFUI_OfficialDatacenterID_30"		"TBD"
-		// "SFUI_OfficialDatacenterID_31"		"TBD"
+		"SFUI_OfficialDatacenterID_31"		"US, Dallas"
 		// "SFUI_OfficialDatacenterID_32"		"TBD"
 		"SFUI_OfficialDatacenterID_33"		"EU, Finland"
 		"SFUI_OfficialDatacenterID_34"		"São Paulo"
@@ -36832,6 +37299,7 @@
 		"SFUI_OfficialDatacenterID_44"		"EU, Finland"
 		"SFUI_OfficialDatacenterID_45"		"United Kingdom"
 		"SFUI_OfficialDatacenterID_49"		"China, Guangdong"
+		"SFUI_OfficialDatacenterID_51"		"China, Beijing"
 
 		"SFUI_UserAlert_HighPings"			"Your best ping to official servers is %s1 ms."
 		"SFUI_UserAlert_Unreachable"		"Failed to reach any official servers."
@@ -36866,6 +37334,7 @@
 		"SFUI_QMM_ERROR_OperationQuestIdInactive"	"Cannot begin matchmaking because the requested mission must first be activated using Operation Journal."
 		"SFUI_QMM_ERROR_SkillGroupMissing"		"Competitive Skill Groups of players in your party are too high to participate in competitive matchmaking with a player who does not have a Skill Group."
 		"SFUI_QMM_ERROR_SkillGroupLargeDelta"	"Competitive Skill Groups of players in your party are too far apart to participate in competitive matchmaking unless you play with a full team of five players."
+		"SFUI_QMM_ERROR_PremierSeasonOver"		"Premier season has ended. Please wait until the next Premier season begins."
 		"SFUI_QMM_ERROR_PremierRatingMissing"		"CS Ratings of players in your party are too high to participate in matchmaking with a player who does not have an established CS Rating."
 		"SFUI_QMM_ERROR_PremierRatingLargeDelta"	"CS Ratings of players in your party are too far apart to participate in matchmaking together."
 		"SFUI_QMM_ERROR_FullTeamRequired" "Cannot begin matchmaking because you need to have a full team in your matchmaking party."
@@ -41237,6 +41706,7 @@
 		"inv_context_open_package"			"Unlock Container"
 		"inv_context_open_watch_panel_pickem"	"Play the Pick'Em Challenge"
 		"inv_context_view_tournament_journal" "View Coin Challenges"
+		"inv_context_open_season_stats_panel" "View Season Statistics"
 		"inv_context_delete"				"Delete Item"
 		"inv_context_can_stattrack_swap"	"Open StatTrak™ Swap Tool"
 		"inv_context_usegift"				"Give Gift"
@@ -42169,6 +42639,7 @@
 		"tooltip_inspect_play_mvp_anthem"	"Play MVP anthem"
 
 		"tooltip_lookat_weapon_model"	"First person inspect animation"
+		"tooltip_inspect_open_season_stats" "View Season Statistics"
 		
 		"tooltip_inspect_scenery"	"Change the scenery for inspecting items"
 		
@@ -42328,8 +42799,10 @@
 		"practicesettings_infammo_button"			"Infinite Ammo"
 		"practicesettings_infwarmup_tooltip"		"When <b>enabled</b> the match will remain in permanent warmup and no bots will join."
 		"practicesettings_infwarmup_button"			"Infinite Warmup"
-		"practicesettings_annotations_tooltip"		"When <b>enabled</b> the map guide will load."
-		"practicesettings_annotations_button"		"Load Map Guide"
+		"practicesettings_annotations_tooltip"		"When <b>enabled</b> the selected map guide from the dropdown will load, and the following settings will be forced on: infinite warmup, infinite ammo, and grenade camera."
+		"practicesettings_annotations_button"		"Use Map Guide"
+		"practicesettings_annotations_workshop_tooltip" "Visit Workshop"
+		"practicesettings_annotations_dropdown_tooltip"	"Specifies which Map Guide will be loaded"
 
 		"PlayMenuReplayNewUserTrainingButton"		"Replay Training Day"
 
@@ -42339,7 +42812,15 @@
 		/////////////////////
 		"annotations_grenade_info"					"Success Streak: %s1/%s2"
 		"annotations_grenade_info_guides_off"		"Success Streak: %s1/%s2 Guides OFF"
-
+		"annotations_local"							"Local Storage"
+		"annotations_workshop"						"Workshop"
+		"annotations_official"						"Official"
+		"annotations_none"							"None"
+		"Workshop_annotation_title"					"Map Guide Submission Tool"
+		"Workshop_annotation_error_title"			"Enter a title for your map guide."
+		"Workshop_annotation_error_file"			"Select a valid .txt annotation file."
+		"Workshop_annotation_ready"					"Submission ready to upload."		
+		"UI_File_Filter_SupportedAnnotationFormat"	"Text files (*.txt)"
 
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Game Mode Desc
@@ -43667,12 +44148,46 @@
 		"ris_wins"								"{s:ris_team} Win!"
 
 		"ris_win"								"win"
-		"ris_loss"								"loss"
+		"ris_loss"							"loss"
 
 		"ris_hits"								"in {s:num_hits}"
 		
 		"prdr_health_removed"					"{d:health_removed} in {d:num_hits}"
 		"prdr_return_health_removed"				"{d:return_health_removed} in {d:return_num_hits}"
+
+		"season_stat_title_wins"		"WINS"
+        "season_stat_title_ties"		"TIES"
+        "season_stat_title_losses"		"LOSS"
+        "season_stat_title_rounds"		"ROUNDS"
+        "season_stat_title_kills"		"KILLS"
+        "season_stat_title_headshots"	"HEADSHOTS"
+		"season_stat_title_hs_percent"	"HS%"
+        "season_stat_title_assists"		"ASSISTS"
+        "season_stat_title_deaths"		"DEATHS"
+        "season_stat_title_mvps"		"MVPS"
+        "season_stat_title_rounds_3k"	"3K"
+        "season_stat_title_rounds_4k"	"4K"
+        "season_stat_title_rounds_5k"	"5K"
+		"season_stat_title_kpr"			"KPR"
+		"season_stat_title_kd"			"K/D"
+		"season_stat_title_best_map"	"BEST MAP"
+		"season_stat_title_win_percent"	"WIN RATE"
+		"season_stat_title_matches_played"	"MATCHES"
+		"season_stat_title_achieved_week"	"HIGHEST RANK ACHIEVED WEEK OF"
+		"season_stat_value_kd"				"{s:kdratio}"
+		"season_stat_value_win_percent"		"{s:win-percent}%"
+		"season_stat_value_hs_percent"		"{s:hs-percent}%"
+		"season_section_rank"				"HIGH MARK"
+		"season_section_season_stats"		"SEASON STATS"
+		"season_section_rank_history"		"RANK HISTORY"
+		"season_section_rank_activity"		"MATCHES PLAYED"
+		"season_section_rank_map_stats"		"MAP STATS"
+		"season_section_rank_map_wins_graph"	"TOTAL MAP WINS"
+		"season_section_graph_x_axis_label_min"		"WEEK {d:week_min}"
+		"season_section_graph_x_axis_label_max"		"WEEK {d:week_max}"
+		"tooltip-no-map-stats"			"Your statisitcs are not available for this map"
+		"tooltip-season-rank-week-idx"		"WEEK {s:week-id}"
+		"tooltip-season-rank-week-name"		"{s:week-name}"
 
 		//////////////////////////////////////////////////////////////////
 		//
@@ -43811,6 +44326,12 @@
 		"pickem_teams_remove_all_tooltip" 	"Clear all picks"
 		"pickem_teams_fill_tooltip" 	"Randomly fill empty picks"
 		"pickem_versus"				"VS"
+		"pickem_submit_warning"		"{s:pass-name} not activated"
+		"pickem_submit_warning_tooltip"		"An active {s:pass-name} is required to earn progress on Pick'Em challenges. The pass must be activated before the stage locks."
+		"pickem_submit_warning_popup_title"	"Save Picks Without An Active Pass"
+		"pickem_submit_warning_popup_desc"	"An active {s:pass-name} is required to earn progress on Pick'Em challenges. The pass must be activated before the stage locks."
+		"pickem_submit_warning_popup_action""Save Picks Without An Active Pass"
+		"pickem_submit_warning_popup_action2"	"Activate Pass And Save Picks"
 		"contextmenu_pickem_souvenir_title" 	"Select the match from which you want a Souvenir Package"
 		"contextmenu_pickem_souvenir_no_result" 	"Come back when this matchup has concluded to claim a Souvenir Package"
 		"mainmenu_major_hub"	"MAJOR CHAMPIONSHIP HUB & ITEMS"

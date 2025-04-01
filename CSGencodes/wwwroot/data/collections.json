@@ -4389,6 +4389,17 @@
     "Image": "/assets/img/items/knives/stiletto/ultraviolet.png"
   },
   {
+    "name": "Survival | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 98,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Ultraviolet",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -8877,6 +8888,17 @@
     "Image": "/assets/img/items/knives/stiletto/tigertooth.png"
   },
   {
+    "name": "Survival | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 409,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Tiger Tooth",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -9040,6 +9062,17 @@
     "collection": "Stiletto",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/stiletto/damascussteel.png"
+  },
+  {
+    "name": "Survival | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 410,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
   },
   {
     "name": "Talon | Damascus Steel",
@@ -9218,6 +9251,17 @@
     "Image": "/assets/img/items/knives/stiletto/marblefade.png"
   },
   {
+    "name": "Survival | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 413,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Marble Fade",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -9381,6 +9425,17 @@
     "collection": "Stiletto",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/stiletto/rustcoat.png"
+  },
+  {
+    "name": "Survival | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 414,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
   },
   {
     "name": "Talon | Rust Coat",
@@ -9548,6 +9603,17 @@
     "Image": "/assets/img/items/knives/stiletto/doppler-ruby.png"
   },
   {
+    "name": "Survival | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 415,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Doppler (Ruby)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -9711,6 +9777,17 @@
     "collection": "Stiletto",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/stiletto/doppler-sapphire.png"
+  },
+  {
+    "name": "Survival | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 416,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
   },
   {
     "name": "Talon | Doppler (Sapphire)",
@@ -9878,6 +9955,17 @@
     "Image": "/assets/img/items/knives/stiletto/doppler-blackpearl.png"
   },
   {
+    "name": "Survival | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 417,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Doppler (Black Pearl)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -10041,6 +10129,17 @@
     "collection": "Stiletto",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/stiletto/doppler-phase1.png"
+  },
+  {
+    "name": "Survival | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 418,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
   },
   {
     "name": "Talon | Doppler (Phase 1)",
@@ -10208,6 +10307,17 @@
     "Image": "/assets/img/items/knives/stiletto/doppler-phase2.png"
   },
   {
+    "name": "Survival | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 419,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Doppler (Phase 2)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -10373,6 +10483,17 @@
     "Image": "/assets/img/items/knives/stiletto/doppler-phase3.png"
   },
   {
+    "name": "Survival | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 420,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
+  },
+  {
     "name": "Talon | Doppler (Phase 3)",
     "min_wear": 0,
     "max_wear": 0.08,
@@ -10536,6 +10657,17 @@
     "collection": "Stiletto",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/stiletto/doppler-phase4.png"
+  },
+  {
+    "name": "Survival | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 421,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": null
   },
   {
     "name": "Talon | Doppler (Phase 4)",

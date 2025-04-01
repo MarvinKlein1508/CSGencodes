@@ -348,5 +348,125 @@
     "gen_id": 5,
     "collection": "Survival",
     "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 413,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 409,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 418,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 419,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 420,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 421,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 415,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 416,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 417,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 410,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 98,
+    "collection": "Survival",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Survival | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 414,
+    "collection": "Survival",
+    "rarity": "Covert"
   }
 ]
