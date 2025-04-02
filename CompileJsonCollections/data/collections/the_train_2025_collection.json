@@ -1,0 +1,167 @@
+[
+  {
+    "name": "CZ75-Auto | Copper Fiber",
+    "min_wear": 0.000000,
+    "max_wear": 0.563291,
+    "trade_up": true,
+    "weapon_id": 63,
+    "gen_id": 1195,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_cz75a_am_carbon_fiber_cz75_light_png.png"
+  },
+  {
+    "name": "AUG | Steel Sentinel",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 8,
+    "gen_id": 1198,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_aug_aug_cold_sentinel_light_png.png"
+  },
+  {
+    "name": "P90 | Straight Dimes",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 1199,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_p90_p90_steelcraft_light_png.png"
+  },
+  {
+    "name": "Glock-18 | Green Line",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 1200,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_glock_glock_train_green_light_png.png"
+  },
+  {
+    "name": "XM1014 | Run Run Run",
+    "min_wear": 0.000000,
+    "max_wear": 0.746575,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 1201,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_xm1014_xm1014_freight_light_png.png"
+  },
+  {
+    "name": "FAMAS | 2A2F",
+    "min_wear": 0.000000,
+    "max_wear": 0.860000,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 1202,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_famas_gs_train_car_famas_light_png.png"
+  },
+  {
+    "name": "UMP-45 | Late Night Transit",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 1203,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_ump45_ump_transit_light_png.png"
+  },
+  {
+    "name": "MAC-10 | Derailment",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 17,
+    "gen_id": 1204,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_mac10_mac10_train_crash_light_png.png"
+  },
+  {
+    "name": "Zeus | Charged Up",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 31,
+    "gen_id": 1205,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_taser_zeus_standard_issue_light_png.png"
+  },
+  {
+    "name": "M4A4 | Hellish",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 1209,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_m4a1_cu_m4a4_train_hell_light_png.png"
+  },
+  {
+    "name": "MP9 | Latte Rush",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 1211,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_mp9_cu_mp9_latte_light_png.png"
+  },
+  {
+    "name": "P250 | Constructivist",
+    "min_wear": 0.000000,
+    "max_wear": 0.350000,
+    "trade_up": true,
+    "weapon_id": 36,
+    "gen_id": 1212,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_p250_brutalist_architecture_light_png.png"
+  },
+  {
+    "name": "AWP | LongDog",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 1213,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_awp_awp_longdog_light_png.png"
+  },
+  {
+    "name": "Tec-9 | Whiteout",
+    "min_wear": 0.060000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 30,
+    "gen_id": 1214,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_tec9_so_whiteout_tec9_light_png.png"
+  },
+  {
+    "name": "Nova | Rain Station",
+    "min_wear": 0.000000,
+    "max_wear": 0.350000,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 1337,
+    "collection": "The Train 2025 Collection",
+    "rarity": "Industrial",
+    "Image": "/assets/img/items/weapons/the_train_2025_collection/weapon_nova_train_shapes_01_light_png.png"
+  }
+]

@@ -25,12 +25,16 @@ internal class Program
             _itemSets.Add(itemSet);
         }
 
+        ClientLootList.ParseClientLootLists(_items_game);
+
     }
     static async Task Main(string[] args)
     {
         await CreateCollections();
         //await CreateStickers();
     }
+
+
 
     private static async Task CreateCollections()
     {
@@ -1232,45 +1236,31 @@ internal class Program
 
             ItemSet? itemSet = GetCollection(entry);
 
-            string collection_name = string.Empty;
-            string imageDirectory = string.Empty;
+            if (itemSet is not null)
+            {
+                string collection_name = GetTranslation(itemSet.Name);
+                string imageDirectory = collection_name.ToLower().Replace(' ', '_');
+                string? rarity = ClientLootList.GetRarity(entry.name);
 
-            if (entry.composite_material_path.Contains("community_35"))
-            {
-                collection_name = "Fever Collection";
-                imageDirectory = "fever_collection";
-            }
-            else if (entry.composite_material_path.Contains("set_train_2025"))
-            {
-                collection_name = "Train 2025 Collection";
-                imageDirectory = "train_2025_collection";
-            }
-            else if (entry.composite_material_path.Contains("limited_time"))
-            {
-                collection_name = "Limited Edition Item";
-                imageDirectory = "limited_edition_item";
+
+                weapons.Add(new Weapon
+                {
+                    gen_id = item.Key,
+                    name = $"{weapon_name} | {name}",
+                    min_wear = decimal.Parse(entry.wear_remap_min, CultureInfo.InvariantCulture),
+                    max_wear = decimal.Parse(entry.wear_remap_max, CultureInfo.InvariantCulture),
+                    trade_up = true,
+                    weapon_id = weapon_id,
+                    rarity = rarity,
+                    collection = collection_name,
+                    Image = $"/assets/img/items/weapons/{imageDirectory}/weapon_{econ_name}_{entry.name}_light_png.png"
+
+                });
             }
             else
             {
-
+                Console.WriteLine($"ItemSet for \"{entry.name}\" could not be found.");
             }
-
-
-
-
-            weapons.Add(new Weapon
-            {
-                gen_id = item.Key,
-                name = $"{weapon_name} | {name}",
-                min_wear = decimal.Parse(entry.wear_remap_min, CultureInfo.InvariantCulture),
-                max_wear = decimal.Parse(entry.wear_remap_max, CultureInfo.InvariantCulture),
-                trade_up = true,
-                weapon_id = weapon_id,
-                rarity = "Milspec",
-                collection = collection_name,
-                Image = $"/assets/img/items/weapons/{imageDirectory}/weapon_{econ_name}_{entry.name}_light_png.png"
-
-            });
 
         }
 
@@ -1283,7 +1273,7 @@ internal class Program
         {
             List<Weapon> weaponList = item.ToList();
             string json = JsonSerializer.Serialize(weaponList, options);
-            string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, $"{item.Key}.json");
+            string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, $"{item.Key.ToLower().Replace(' ', '_')}.json");
 
             await File.WriteAllTextAsync(filename, json);
         }
@@ -8031,6 +8021,20 @@ internal class Program
         return string.Empty;
     }
 
+    static string GetTranslation(string name)
+    {
+        string nameSanitized = name.Replace("#", string.Empty);
+        string pattern = $"(?<={nameSanitized}...).*\"";
+        Regex nameRegex = new Regex(pattern);
+        var match = nameRegex.Match(_translations);
+        if (match.Success && match.Groups.Count > 0)
+        {
+            return match.Groups[0].Value.Replace("\"", string.Empty).Trim();
+        }
+
+        return string.Empty;
+    }
+
     static string GetCollectionName(string content)
     {
 
@@ -8176,3 +8180,10 @@ internal class Program
         return results;
     }
 }
+
+public class LootListEntry
+{
+    public string Id { get; set; }
+    public Dictionary<string, string> Items { get; set; } = [];
+}
+

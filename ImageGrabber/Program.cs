@@ -3,10 +3,9 @@ using System.Text.Json;
 
 internal class Program
 {
-    public const string ImagePath = @"D:\Desktop\tmp\panorama\images\econ\default_generated";
+    public const string ImagePath = @"C:\Users\Marvin\Desktop\panorama\images\econ\default_generated";
     private static async Task Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
 
         var files = Directory.GetFiles("data/collections");
 
@@ -14,10 +13,12 @@ internal class Program
         {
             string filename = Path.GetFileName(file);
             string filename_without_extension = Path.GetFileNameWithoutExtension(file);
-            if (filename != "gallery_collection.json"
-                && filename != "sport_and_field_collection.json"
-                && filename != "overpass_2024_collection.json"
-                && filename != "graphic_design_collection.json"
+            if (filename != "limited_edition_item.json"
+                && filename != "the_ascent_collection.json"
+                && filename != "the_boreal_collection.json"
+                && filename != "the_fever_collection.json"
+                && filename != "the_radiant_collection.json"
+                && filename != "the_train_2025_collection.json"
             )
             {
                 continue;
