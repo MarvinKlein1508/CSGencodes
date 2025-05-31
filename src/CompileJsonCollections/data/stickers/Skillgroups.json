@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Global Elite (Foil)",
+    "gen_id": 3457,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 762851,
+    "BuffStickerId": 3959,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/globalelite-foil.png"
+  },
+  {
+    "name": "Silver (Foil)",
+    "gen_id": 3441,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 762862,
+    "BuffStickerId": 3944,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/silver-foil.png"
+  },
+  {
+    "name": "Gold Nova (Holo)",
+    "gen_id": 3443,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762853,
+    "BuffStickerId": 3960,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/goldnova-holo.png"
+  },
+  {
+    "name": "Supreme Master First Class (Holo)",
+    "gen_id": 3455,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762850,
+    "BuffStickerId": 3957,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/suprememasterfirstclass-holo.png"
+  },
+  {
+    "name": "Distinguished Master Guardian (Holo)",
+    "gen_id": 3449,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762858,
+    "BuffStickerId": 3962,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/distinguishedmasterguardian-holo.png"
+  },
+  {
+    "name": "Legendary Eagle Master (Holo)",
+    "gen_id": 3453,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762852,
+    "BuffStickerId": 3954,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/legendaryeaglemaster-holo.png"
+  },
+  {
+    "name": "Legendary Eagle (Holo)",
+    "gen_id": 3451,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762849,
+    "BuffStickerId": 3963,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/legendaryeagle-holo.png"
+  },
+  {
+    "name": "Master Guardian Elite (Holo)",
+    "gen_id": 3447,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762855,
+    "BuffStickerId": 3964,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/masterguardianelite-holo.png"
+  },
+  {
+    "name": "Master Guardian (Holo)",
+    "gen_id": 3445,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 762861,
+    "BuffStickerId": 3956,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/masterguardian-holo.png"
+  },
+  {
+    "name": "Gold Nova",
+    "gen_id": 3442,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762859,
+    "BuffStickerId": 9114,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/goldnova.png"
+  },
+  {
+    "name": "Global Elite",
+    "gen_id": 3456,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762844,
+    "BuffStickerId": 3948,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/globalelite.png"
+  },
+  {
+    "name": "Silver",
+    "gen_id": 3440,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762860,
+    "BuffStickerId": 3958,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/silver.png"
+  },
+  {
+    "name": "Legendary Eagle",
+    "gen_id": 3450,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762848,
+    "BuffStickerId": 3949,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/legendaryeagle.png"
+  },
+  {
+    "name": "Master Guardian Elite",
+    "gen_id": 3446,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762847,
+    "BuffStickerId": 3955,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/masterguardianelite.png"
+  },
+  {
+    "name": "Distinguished Master Guardian",
+    "gen_id": 3448,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762843,
+    "BuffStickerId": 3961,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/distinguishedmasterguardian.png"
+  },
+  {
+    "name": "Legendary Eagle Master",
+    "gen_id": 3452,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762854,
+    "BuffStickerId": 3951,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/legendaryeaglemaster.png"
+  },
+  {
+    "name": "Supreme Master First Class",
+    "gen_id": 3454,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762845,
+    "BuffStickerId": 3946,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/suprememasterfirstclass.png"
+  },
+  {
+    "name": "Master Guardian",
+    "gen_id": 3444,
+    "tournament": "Skill Groups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 762857,
+    "BuffStickerId": 3952,
+    "Image": "/assets/img/items/stickers/skillgroupscapsule/masterguardian.png"
+  }
+]

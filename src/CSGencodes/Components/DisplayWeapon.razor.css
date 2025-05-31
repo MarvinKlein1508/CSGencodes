@@ -1,0 +1,48 @@
+﻿.weapon {
+    background: none;
+    padding: .75rem;
+    display: flex;
+    width: 100%;
+    border: none;
+    border-top: 1px solid gray;
+    min-height: 95px;
+    align-items: center;
+    margin-top: -1px;
+}
+
+.weapon-name {
+    flex: 1;
+}
+    .weapon:is(:hover) {
+        background: #23232a;
+    }
+    
+
+
+.rarity-consumer {
+    color: #b0c3d9;
+}
+
+.rarity-industrial {
+    color: #5e98d9;
+}
+
+.rarity-milspec {
+    color: #4b69ff;
+}
+
+.rarity-restricted {
+    color: #8847ff;
+}
+
+.rarity-classified {
+    color: #d32ee6;
+}
+
+.rarity-covert {
+    color: #eb4b4b;
+}
+
+.rarity-contraband {
+    color: #ffae39;
+}

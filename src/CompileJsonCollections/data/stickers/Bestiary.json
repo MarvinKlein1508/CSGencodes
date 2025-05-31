@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Phoenix Reborn (Foil)",
+    "gen_id": 1652,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40665,
+    "BuffStickerId": 1566,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/phoenixreborn-foil.png"
+  },
+  {
+    "name": "Dragon (Foil)",
+    "gen_id": 1651,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40033,
+    "BuffStickerId": 944,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/dragon-foil.png"
+  },
+  {
+    "name": "Basilisk (Foil)",
+    "gen_id": 1650,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39908,
+    "BuffStickerId": 827,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/basilisk-foil.png"
+  },
+  {
+    "name": "Pegasus (Holo)",
+    "gen_id": 1637,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40660,
+    "BuffStickerId": 1561,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/pegasus-holo.png"
+  },
+  {
+    "name": "Sphinx (Holo)",
+    "gen_id": 1633,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40826,
+    "BuffStickerId": 1726,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/sphinx-holo.png"
+  },
+  {
+    "name": "Manticore (Holo)",
+    "gen_id": 1647,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40502,
+    "BuffStickerId": 1408,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/manticore-holo.png"
+  },
+  {
+    "name": "Hippocamp (Holo)",
+    "gen_id": 1646,
+    "tournament": "Bestiary Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40323,
+    "BuffStickerId": 1232,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/hippocamp-holo.png"
+  },
+  {
+    "name": "Phoenix Reborn",
+    "gen_id": 1644,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40664,
+    "BuffStickerId": 1565,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/phoenixreborn.png"
+  },
+  {
+    "name": "Dragon",
+    "gen_id": 1640,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40032,
+    "BuffStickerId": 943,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/dragon.png"
+  },
+  {
+    "name": "Pegasus",
+    "gen_id": 1629,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40659,
+    "BuffStickerId": 1560,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/pegasus.png"
+  },
+  {
+    "name": "Sphinx",
+    "gen_id": 1627,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40825,
+    "BuffStickerId": 1725,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/sphinx.png"
+  },
+  {
+    "name": "Basilisk",
+    "gen_id": 1639,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39907,
+    "BuffStickerId": 826,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/basilisk.png"
+  },
+  {
+    "name": "Manticore",
+    "gen_id": 1642,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40501,
+    "BuffStickerId": 1407,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/manticore.png"
+  },
+  {
+    "name": "Hippocamp",
+    "gen_id": 1641,
+    "tournament": "Bestiary Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40322,
+    "BuffStickerId": 1231,
+    "Image": "/assets/img/items/stickers/bestiarycapsule/hippocamp.png"
+  }
+]

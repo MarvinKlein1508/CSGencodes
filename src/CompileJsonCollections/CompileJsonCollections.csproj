@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<Content Include="data\**">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="data\buff\cph2024\champion.json" />
+	  <None Remove="data\buff\cph2024\missing.json" />
+	  <None Remove="data\buff\character_craft\page1.json" />
+	  <None Remove="data\buff\character_craft\page2.json" />
+	  <None Remove="data\buff\elemental_craft\page1.json" />
+	  <None Remove="data\buff\elemental_craft\page2.json" />
+	  <None Remove="data\collections\gallery_collection.json" />
+	  <None Remove="data\collections\graphic_design_collection.json" />
+	  <None Remove="data\collections\overpass_2024_collection.json" />
+	  <None Remove="data\collections\sport_and_field_collection.json" />
+	  <None Remove="data\stickers\character_craft.json" />
+	  <None Remove="data\stickers\elemental_craft.json" />
+	</ItemGroup>
+
+  
+
+  
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
+  </ItemGroup>
+
+  
+
+  
+
+  <ItemGroup>
+    <Content Update="data\collections\default_skins.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  
+
+
+</Project>

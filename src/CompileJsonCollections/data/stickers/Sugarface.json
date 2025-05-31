@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Perry (Holo)",
+    "gen_id": 1636,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40662,
+    "BuffStickerId": 1563,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/perry-holo.png"
+  },
+  {
+    "name": "Jack (Holo)",
+    "gen_id": 1635,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40365,
+    "BuffStickerId": 1273,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/jack-holo.png"
+  },
+  {
+    "name": "Stan (Holo)",
+    "gen_id": 1634,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40845,
+    "BuffStickerId": 1745,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/stan-holo.png"
+  },
+  {
+    "name": "Viggo (Holo)",
+    "gen_id": 1637,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41015,
+    "BuffStickerId": 1912,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/viggo-holo.png"
+  },
+  {
+    "name": "Max (Holo)",
+    "gen_id": 1633,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40508,
+    "BuffStickerId": 1413,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/max-holo.png"
+  },
+  {
+    "name": "Boris (Holo)",
+    "gen_id": 1632,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39931,
+    "BuffStickerId": 847,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/boris-holo.png"
+  },
+  {
+    "name": "Joan (Holo)",
+    "gen_id": 1638,
+    "tournament": "Sugarface Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40372,
+    "BuffStickerId": 1280,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/joan-holo.png"
+  },
+  {
+    "name": "Jack",
+    "gen_id": 1628,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40364,
+    "BuffStickerId": 1272,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/jack.png"
+  },
+  {
+    "name": "Viggo",
+    "gen_id": 1630,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41014,
+    "BuffStickerId": 1911,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/viggo.png"
+  },
+  {
+    "name": "Perry",
+    "gen_id": 1629,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40661,
+    "BuffStickerId": 1562,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/perry.png"
+  },
+  {
+    "name": "Stan",
+    "gen_id": 1627,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40844,
+    "BuffStickerId": 1744,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/stan.png"
+  },
+  {
+    "name": "Max",
+    "gen_id": 1626,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40507,
+    "BuffStickerId": 1412,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/max.png"
+  },
+  {
+    "name": "Joan",
+    "gen_id": 1631,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40371,
+    "BuffStickerId": 1279,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/joan.png"
+  },
+  {
+    "name": "Boris",
+    "gen_id": 1625,
+    "tournament": "Sugarface Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39930,
+    "BuffStickerId": 846,
+    "Image": "/assets/img/items/stickers/sugarfacecapsule/boris.png"
+  }
+]

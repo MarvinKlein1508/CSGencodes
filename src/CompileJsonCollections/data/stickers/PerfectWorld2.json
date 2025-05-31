@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Longevity (Foil)",
+    "gen_id": 2408,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40450,
+    "BuffStickerId": 1356,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/longevity-foil.png"
+  },
+  {
+    "name": "Pixiu (Foil)",
+    "gen_id": 2411,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40673,
+    "BuffStickerId": 1574,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/pixiu-foil.png"
+  },
+  {
+    "name": "Twin Koi (Holo)",
+    "gen_id": 2413,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40993,
+    "BuffStickerId": 1890,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/twinkoi-holo.png"
+  },
+  {
+    "name": "Rage",
+    "gen_id": 2406,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40694,
+    "BuffStickerId": 1595,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/rage.png"
+  },
+  {
+    "name": "Longevity",
+    "gen_id": 2407,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40449,
+    "BuffStickerId": 1355,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/longevity.png"
+  },
+  {
+    "name": "God of Fortune",
+    "gen_id": 2403,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40240,
+    "BuffStickerId": 1151,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/godoffortune.png"
+  },
+  {
+    "name": "Blue Swallow",
+    "gen_id": 2416,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39913,
+    "BuffStickerId": 832,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/blueswallow.png"
+  },
+  {
+    "name": "Twin Koi",
+    "gen_id": 2412,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40992,
+    "BuffStickerId": 1889,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/twinkoi.png"
+  },
+  {
+    "name": "Green Swallow",
+    "gen_id": 2415,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40246,
+    "BuffStickerId": 1157,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/greenswallow.png"
+  },
+  {
+    "name": "Non-Veg",
+    "gen_id": 409,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 33687,
+    "BuffStickerId": 741,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/nonveg.png"
+  },
+  {
+    "name": "Pixiu",
+    "gen_id": 2410,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40672,
+    "BuffStickerId": 1573,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/pixiu.png"
+  },
+  {
+    "name": "Nezha",
+    "gen_id": 2405,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40592,
+    "BuffStickerId": 1493,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/nezha.png"
+  },
+  {
+    "name": "Zombie Hop",
+    "gen_id": 2417,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41123,
+    "BuffStickerId": 2020,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/zombiehop.png"
+  },
+  {
+    "name": "Huaji",
+    "gen_id": 2404,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40336,
+    "BuffStickerId": 1245,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/huaji.png"
+  },
+  {
+    "name": "Shaolin",
+    "gen_id": 2414,
+    "tournament": "Perfect World Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40763,
+    "BuffStickerId": 1664,
+    "Image": "/assets/img/items/stickers/perfectworldstickercapsule2/shaolin.png"
+  }
+]

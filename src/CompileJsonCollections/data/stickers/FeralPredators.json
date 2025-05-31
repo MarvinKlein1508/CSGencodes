@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Toxic (Foil)",
+    "gen_id": 3965,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 769813,
+    "BuffStickerId": 8429,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/toxic-foil.png"
+  },
+  {
+    "name": "Lurker (Foil)",
+    "gen_id": 3958,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 769809,
+    "BuffStickerId": 8773,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/lurker-foil.png"
+  },
+  {
+    "name": "Bite Me (Foil)",
+    "gen_id": 3949,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 769807,
+    "BuffStickerId": 8781,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/biteme-foil.png"
+  },
+  {
+    "name": "Baited (Holo)",
+    "gen_id": 3946,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 769808,
+    "BuffStickerId": 8772,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/baited-holo.png"
+  },
+  {
+    "name": "First Blood (Holo)",
+    "gen_id": 3953,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 769783,
+    "BuffStickerId": 8412,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/firstblood-holo.png"
+  },
+  {
+    "name": "Cluck (Holo)",
+    "gen_id": 3951,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 769806,
+    "BuffStickerId": 8779,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/cluck-holo.png"
+  },
+  {
+    "name": "One Sting (Holo)",
+    "gen_id": 3960,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 769787,
+    "BuffStickerId": 8769,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/onesting-holo.png"
+  },
+  {
+    "name": "Free Hugs (Holo)",
+    "gen_id": 3955,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 769782,
+    "BuffStickerId": 8768,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/freehugs-holo.png"
+  },
+  {
+    "name": "Scavenger (Holo)",
+    "gen_id": 3962,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 769810,
+    "BuffStickerId": 8782,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/scavenger-holo.png"
+  },
+  {
+    "name": "First Blood",
+    "gen_id": 3952,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769790,
+    "BuffStickerId": 8777,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/firstblood.png"
+  },
+  {
+    "name": "Cluck",
+    "gen_id": 3950,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769785,
+    "BuffStickerId": 8397,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/cluck.png"
+  },
+  {
+    "name": "Lurker",
+    "gen_id": 3956,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769781,
+    "BuffStickerId": 8775,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/lurker.png"
+  },
+  {
+    "name": "Toxic",
+    "gen_id": 3963,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769798,
+    "BuffStickerId": 8394,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/toxic.png"
+  },
+  {
+    "name": "Baited",
+    "gen_id": 3945,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769800,
+    "BuffStickerId": 8409,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/baited.png"
+  },
+  {
+    "name": "Bite Me",
+    "gen_id": 3947,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769776,
+    "BuffStickerId": 8784,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/biteme.png"
+  },
+  {
+    "name": "One Sting",
+    "gen_id": 3959,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769794,
+    "BuffStickerId": 8400,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/onesting.png"
+  },
+  {
+    "name": "Scavenger",
+    "gen_id": 3961,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769775,
+    "BuffStickerId": 8396,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/scavenger.png"
+  },
+  {
+    "name": "Free Hugs",
+    "gen_id": 3954,
+    "tournament": "Feral Predators Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 769792,
+    "BuffStickerId": 8770,
+    "Image": "/assets/img/items/stickers/feralpredatorscapsule/freehugs.png"
+  }
+]

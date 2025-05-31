@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Skeleton (Vanilla)",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 0,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Gamma Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 569,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Gamma Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 570,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Gamma Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 571,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Gamma Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 572,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Gamma Doppler (Emerald)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 568,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Lore",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 558,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Autotronic",
+    "min_wear": 0,
+    "max_wear": 0.85,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 573,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Black Laminate",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 563,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Freehand",
+    "min_wear": 0,
+    "max_wear": 0.48,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 580,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Bright Water",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 578,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Marble Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 413,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Tiger Tooth",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 409,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Phase 1)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 418,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Phase 2)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 419,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Phase 3)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 420,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Phase 4)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 421,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Ruby)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 415,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Saphire)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 416,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Doppler (Black Pearl)",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 417,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Damascus Steel",
+    "min_wear": 0,
+    "max_wear": 0.5,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 410,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Ultraviolet",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 98,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Rust Coat",
+    "min_wear": 0.4,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 414,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Fade",
+    "min_wear": 0,
+    "max_wear": 0.08,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 38,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Slaughter",
+    "min_wear": 0.01,
+    "max_wear": 0.26,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 59,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Case Hardened",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 44,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Blue Steel",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 42,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Stained",
+    "min_wear": 0,
+    "max_wear": 1,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 43,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Crimson Web",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 12,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Boreal Forest",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 77,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Night Stripe",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 735,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Safari Mesh",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 72,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Urban Masked",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 143,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Forest DDPAT",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 5,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  },
+  {
+    "name": "Skeleton | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 5,
+    "collection": "Skeleton",
+    "rarity": "Covert"
+  }
+]

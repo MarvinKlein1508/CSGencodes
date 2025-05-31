@@ -1,0 +1,189 @@
+[
+  {
+    "name": "P2000 | Sure Grip",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 32,
+    "gen_id": 1181,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_hkp2000_p2k_fractal_light_png.png"
+  },
+  {
+    "name": "XM1014 | Mockingbird",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 25,
+    "gen_id": 1182,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_xm1014_xm1014_mockingbird_light_png.png"
+  },
+  {
+    "name": "Zeus | Tosai",
+    "min_wear": 0.000000,
+    "max_wear": 0.700000,
+    "trade_up": true,
+    "weapon_id": 31,
+    "gen_id": 1183,
+    "collection": "The Fever Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_taser_zeus_tosai_light_png.png"
+  },
+  {
+    "name": "FAMAS | Bad Trip",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 10,
+    "gen_id": 1184,
+    "collection": "The Fever Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_famas_famas_badtrip_light_png.png"
+  },
+  {
+    "name": "Galil AR | Control",
+    "min_wear": 0.000000,
+    "max_wear": 0.798995,
+    "trade_up": true,
+    "weapon_id": 13,
+    "gen_id": 1185,
+    "collection": "The Fever Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_galilar_galil_control_strike_light_png.png"
+  },
+  {
+    "name": "USP-S | PC-GRN",
+    "min_wear": 0.000000,
+    "max_wear": 0.900000,
+    "trade_up": true,
+    "weapon_id": 61,
+    "gen_id": 1186,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_usp_silencer_usps_bruteforce_green_light_png.png"
+  },
+  {
+    "name": "SSG 08 | Memorial",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 40,
+    "gen_id": 1187,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_ssg08_ssg08_brutalist_light_png.png"
+  },
+  {
+    "name": "MAG-7 | Resupply",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 27,
+    "gen_id": 1188,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_mag7_mag7_ammo_box_light_png.png"
+  },
+  {
+    "name": "Desert Eagle | Serpent Strike",
+    "min_wear": 0.000000,
+    "max_wear": 0.570000,
+    "trade_up": true,
+    "weapon_id": 1,
+    "gen_id": 1189,
+    "collection": "The Fever Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_deagle_deagle_snake_pattern_light_png.png"
+  },
+  {
+    "name": "P90 | Wave Breaker",
+    "min_wear": 0.000000,
+    "max_wear": 0.950549,
+    "trade_up": true,
+    "weapon_id": 19,
+    "gen_id": 1190,
+    "collection": "The Fever Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_p90_p90_boost_blue_light_png.png"
+  },
+  {
+    "name": "Nova | Rising Sun",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 35,
+    "gen_id": 1192,
+    "collection": "The Fever Collection",
+    "rarity": "Restricted",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_nova_nova_rising_sun_light_png.png"
+  },
+  {
+    "name": "MP9 | Nexus",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 34,
+    "gen_id": 1193,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_mp9_mp9_nexus_light_png.png"
+  },
+  {
+    "name": "UMP-45 | K.O. Factory",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 24,
+    "gen_id": 1194,
+    "collection": "The Fever Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_ump45_ump45_old_cartoon_light_png.png"
+  },
+  {
+    "name": "AWP | Printstream",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 9,
+    "gen_id": 1206,
+    "collection": "The Fever Collection",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_awp_awp_printstream_light_png.png"
+  },
+  {
+    "name": "AK-47 | Searing Rage",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 7,
+    "gen_id": 1207,
+    "collection": "The Fever Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_ak47_ak47_explosive_light_png.png"
+  },
+  {
+    "name": "Glock-18 | Shinobu",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 4,
+    "gen_id": 1208,
+    "collection": "The Fever Collection",
+    "rarity": "Classified",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_glock_glock_shinobu_light_png.png"
+  },
+  {
+    "name": "M4A4 | Choppa",
+    "min_wear": 0.000000,
+    "max_wear": 1.000000,
+    "trade_up": true,
+    "weapon_id": 16,
+    "gen_id": 1210,
+    "collection": "The Fever Collection",
+    "rarity": "Milspec",
+    "Image": "/assets/img/items/weapons/the_fever_collection/weapon_m4a1_m4a4_green_camo_light_png.png"
+  }
+]

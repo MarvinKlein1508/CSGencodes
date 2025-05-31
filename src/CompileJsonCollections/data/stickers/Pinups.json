@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Tamara (Holo)",
+    "gen_id": 973,
+    "tournament": "Pinups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40896,
+    "BuffStickerId": 15739,
+    "Image": "/assets/img/items/stickers/pinupscapsule/tamara-holo.png"
+  },
+  {
+    "name": "Sherry (Holo)",
+    "gen_id": 972,
+    "tournament": "Pinups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40770,
+    "BuffStickerId": 15737,
+    "Image": "/assets/img/items/stickers/pinupscapsule/sherry-holo.png"
+  },
+  {
+    "name": "Ivette (Holo)",
+    "gen_id": 968,
+    "tournament": "Pinups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40346,
+    "BuffStickerId": 8210,
+    "Image": "/assets/img/items/stickers/pinupscapsule/ivette-holo.png"
+  },
+  {
+    "name": "Kimberly (Holo)",
+    "gen_id": 969,
+    "tournament": "Pinups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40402,
+    "BuffStickerId": 15897,
+    "Image": "/assets/img/items/stickers/pinupscapsule/kimberly-holo.png"
+  },
+  {
+    "name": "Merietta (Holo)",
+    "gen_id": 971,
+    "tournament": "Pinups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40510,
+    "BuffStickerId": 8214,
+    "Image": "/assets/img/items/stickers/pinupscapsule/merietta-holo.png"
+  },
+  {
+    "name": "Martha (Holo)",
+    "gen_id": 970,
+    "tournament": "Pinups Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40504,
+    "BuffStickerId": 15735,
+    "Image": "/assets/img/items/stickers/pinupscapsule/martha-holo.png"
+  },
+  {
+    "name": "Tamara",
+    "gen_id": 967,
+    "tournament": "Pinups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40895,
+    "BuffStickerId": 1795,
+    "Image": "/assets/img/items/stickers/pinupscapsule/tamara.png"
+  },
+  {
+    "name": "Sherry",
+    "gen_id": 966,
+    "tournament": "Pinups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40769,
+    "BuffStickerId": 1670,
+    "Image": "/assets/img/items/stickers/pinupscapsule/sherry.png"
+  },
+  {
+    "name": "Kimberly",
+    "gen_id": 963,
+    "tournament": "Pinups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40401,
+    "BuffStickerId": 1308,
+    "Image": "/assets/img/items/stickers/pinupscapsule/kimberly.png"
+  },
+  {
+    "name": "Ivette",
+    "gen_id": 962,
+    "tournament": "Pinups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40345,
+    "BuffStickerId": 1254,
+    "Image": "/assets/img/items/stickers/pinupscapsule/ivette.png"
+  },
+  {
+    "name": "Merietta",
+    "gen_id": 965,
+    "tournament": "Pinups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40509,
+    "BuffStickerId": 1414,
+    "Image": "/assets/img/items/stickers/pinupscapsule/merietta.png"
+  },
+  {
+    "name": "Martha",
+    "gen_id": 964,
+    "tournament": "Pinups Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40503,
+    "BuffStickerId": 1409,
+    "Image": "/assets/img/items/stickers/pinupscapsule/martha.png"
+  }
+]

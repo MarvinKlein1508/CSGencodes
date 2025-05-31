@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Purrurists (Foil)",
+    "gen_id": 4902,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 869892,
+    "BuffStickerId": 15978,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/purrurists-foil.png"
+  },
+  {
+    "name": "Ace Devil (Foil)",
+    "gen_id": 4900,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 869899,
+    "BuffStickerId": 15982,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/acedevil-foil.png"
+  },
+  {
+    "name": "Bullet Hell (Foil)",
+    "gen_id": 4901,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 869898,
+    "BuffStickerId": 15981,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/bullethell-foil.png"
+  },
+  {
+    "name": "Runtime (Holo)",
+    "gen_id": 4899,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869867,
+    "BuffStickerId": 15963,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/runtime-holo.png"
+  },
+  {
+    "name": "Nice Clutch (Holo)",
+    "gen_id": 4898,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869897,
+    "BuffStickerId": 15980,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/niceclutch-holo.png"
+  },
+  {
+    "name": "Cyber Romanov (Holo)",
+    "gen_id": 4894,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869873,
+    "BuffStickerId": 15969,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/cyberromanov-holo.png"
+  },
+  {
+    "name": "Handle With Care (Holo)",
+    "gen_id": 4896,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869876,
+    "BuffStickerId": 15972,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/handlewithcare-holo.png"
+  },
+  {
+    "name": "I See You (Holo)",
+    "gen_id": 4897,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869887,
+    "BuffStickerId": 15974,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/iseeyou-holo.png"
+  },
+  {
+    "name": "Eye Contact (Holo)",
+    "gen_id": 4895,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869875,
+    "BuffStickerId": 15971,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/eyecontact-holo.png"
+  },
+  {
+    "name": "EZ",
+    "gen_id": 4884,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869889,
+    "BuffStickerId": 15976,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/ez.png"
+  },
+  {
+    "name": "Fast Banana",
+    "gen_id": 4885,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869869,
+    "BuffStickerId": 15965,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/fastbanana.png"
+  },
+  {
+    "name": "Speedy T",
+    "gen_id": 4891,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869866,
+    "BuffStickerId": 15962,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/speedyt.png"
+  },
+  {
+    "name": "No Time",
+    "gen_id": 4889,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869870,
+    "BuffStickerId": 15966,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/notime.png"
+  },
+  {
+    "name": "This Is Fine (CT)",
+    "gen_id": 4892,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869893,
+    "BuffStickerId": 15979,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/thisisfinect.png"
+  },
+  {
+    "name": "War",
+    "gen_id": 4893,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 869886,
+    "BuffStickerId": 15973,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/war.png"
+  },
+  {
+    "name": "Dr. Dazzles",
+    "gen_id": 4883,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869872,
+    "BuffStickerId": 15968,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/drdazzles.png"
+  },
+  {
+    "name": "Kitted Out",
+    "gen_id": 4887,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869888,
+    "BuffStickerId": 15975,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/kittedout.png"
+  },
+  {
+    "name": "Clutch Or Kick",
+    "gen_id": 4882,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869874,
+    "BuffStickerId": 15970,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/clutchorkick.png"
+  },
+  {
+    "name": "Retro Leet",
+    "gen_id": 4890,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869891,
+    "BuffStickerId": 15977,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/retroleet.png"
+  },
+  {
+    "name": "Nademan",
+    "gen_id": 4888,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869868,
+    "BuffStickerId": 15964,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/nademan.png"
+  },
+  {
+    "name": "Hard Carry",
+    "gen_id": 4886,
+    "tournament": "2021 Community Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 869871,
+    "BuffStickerId": 15967,
+    "Image": "/assets/img/items/stickers/2021communitystickercapsule/hardcarry.png"
+  }
+]

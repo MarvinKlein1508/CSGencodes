@@ -1,0 +1,52 @@
+{
+  "code": "OK",
+  "data": {
+    "items": [
+      {
+        "formated_price": "No price",
+        "i18n_value": "siuhy (Gold) | Copenhagen 2024",
+        "icon_url": "https://market.fp.ps.netease.com/file/66036d0da5f318167c329bfabyyfTHq305",
+        "id": 19635,
+        "name": "sticker_v2",
+        "value": "siuhy (Gold) | Copenhagen 2024"
+      },
+      {
+        "formated_price": "� 83",
+        "i18n_value": "kyxsan (Gold) | Copenhagen 2024",
+        "icon_url": "https://market.fp.ps.netease.com/file/66014721e04ece49c7a1b721Blx3j8iJ05",
+        "id": 19574,
+        "name": "sticker_v2",
+        "value": "kyxsan (Gold) | Copenhagen 2024"
+      },
+      {
+        "formated_price": "� 48.55",
+        "i18n_value": "TeSeS (Gold) | Copenhagen 2024",
+        "icon_url": "https://market.fp.ps.netease.com/file/66014722fef81b5c1ac1933aDtRa1oDS05",
+        "id": 19575,
+        "name": "sticker_v2",
+        "value": "TeSeS (Gold) | Copenhagen 2024"
+      },
+      {
+        "formated_price": "� 16.9",
+        "i18n_value": "volt (Holo) | Copenhagen 2024",
+        "icon_url": "https://market.fp.ps.netease.com/file/66014721b6fb46caaa54f573teviNHfB05",
+        "id": 19573,
+        "name": "sticker_v2",
+        "value": "volt (Holo) | Copenhagen 2024"
+      },
+      {
+        "formated_price": "No price",
+        "i18n_value": "MOUZ (Gold) | Copenhagen 2024",
+        "icon_url": "https://market.fp.ps.netease.com/file/65fc3b5fe74a755394aec847HwiOhJKR05",
+        "id": 19611,
+        "name": "sticker_v2",
+        "value": "MOUZ (Gold) | Copenhagen 2024"
+      }
+    ],
+    "page_num": 25,
+    "page_size": 20,
+    "total_count": 595,
+    "total_page": 30
+  },
+  "msg": null
+}

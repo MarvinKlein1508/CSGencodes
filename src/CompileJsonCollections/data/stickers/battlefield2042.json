@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Tornado Chaos (Foil)",
+    "gen_id": 4919,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 880187,
+    "BuffStickerId": 16487,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/tornadochaos-foil.png"
+  },
+  {
+    "name": "PAC AI (Foil)",
+    "gen_id": 4918,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 880186,
+    "BuffStickerId": 16486,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/pacai-foil.png"
+  },
+  {
+    "name": "Mr. Chompy (Foil)",
+    "gen_id": 4917,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 880199,
+    "BuffStickerId": 16493,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/mrchompy-foil.png"
+  },
+  {
+    "name": "No Pats (Holo)",
+    "gen_id": 4913,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 880193,
+    "BuffStickerId": 16491,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/nopats-holo.png"
+  },
+  {
+    "name": "Wingsuit (Holo)",
+    "gen_id": 4916,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 880194,
+    "BuffStickerId": 16492,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/wingsuit-holo.png"
+  },
+  {
+    "name": "Ready For Battle (Holo)",
+    "gen_id": 4915,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 880178,
+    "BuffStickerId": 16480,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/readyforbattle-holo.png"
+  },
+  {
+    "name": "PTFO (Holo)",
+    "gen_id": 4914,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 880188,
+    "BuffStickerId": 16488,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/ptfo-holo.png"
+  },
+  {
+    "name": "No Pats",
+    "gen_id": 4909,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880156,
+    "BuffStickerId": 16478,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/nopats.png"
+  },
+  {
+    "name": "PAC AI",
+    "gen_id": 4910,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880183,
+    "BuffStickerId": 16485,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/pacai.png"
+  },
+  {
+    "name": "Forty Two",
+    "gen_id": 4906,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880155,
+    "BuffStickerId": 16477,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/fortytwo.png"
+  },
+  {
+    "name": "BF 2042",
+    "gen_id": 4904,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880158,
+    "BuffStickerId": 16479,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/bf2042.png"
+  },
+  {
+    "name": "Mr. Chompy",
+    "gen_id": 4908,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880190,
+    "BuffStickerId": 16490,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/mrchompy.png"
+  },
+  {
+    "name": "Knives Out",
+    "gen_id": 4907,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880189,
+    "BuffStickerId": 16489,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/knivesout.png"
+  },
+  {
+    "name": "PTFO",
+    "gen_id": 4911,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880180,
+    "BuffStickerId": 16482,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/ptfo.png"
+  },
+  {
+    "name": "Battlefield Portal",
+    "gen_id": 4903,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880181,
+    "BuffStickerId": 16483,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/battlefieldportal.png"
+  },
+  {
+    "name": "Ready For Battle",
+    "gen_id": 4912,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880182,
+    "BuffStickerId": 16484,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/readyforbattle.png"
+  },
+  {
+    "name": "Come Here Boy",
+    "gen_id": 4905,
+    "tournament": "Battlefield 2042 Sticker Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 880179,
+    "BuffStickerId": 16481,
+    "Image": "/assets/img/items/stickers/battlefield2042stickercapsule/comehereboy.png"
+  }
+]

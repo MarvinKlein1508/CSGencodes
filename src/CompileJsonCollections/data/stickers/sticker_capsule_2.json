@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Crown (Foil)",
+    "gen_id": 37,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39993,
+    "BuffStickerId": 906,
+    "Image": "/assets/img/items/stickers/stickercapsule2/crown-foil.png"
+  },
+  {
+    "name": "Stupid Banana (Foil)",
+    "gen_id": 46,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40855,
+    "BuffStickerId": 1755,
+    "Image": "/assets/img/items/stickers/stickercapsule2/stupidbanana-foil.png"
+  },
+  {
+    "name": "Bish (Holo)",
+    "gen_id": 31,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39909,
+    "BuffStickerId": 828,
+    "Image": "/assets/img/items/stickers/stickercapsule2/bish-holo.png"
+  },
+  {
+    "name": "Bash (Holo)",
+    "gen_id": 32,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39906,
+    "BuffStickerId": 825,
+    "Image": "/assets/img/items/stickers/stickercapsule2/bash-holo.png"
+  },
+  {
+    "name": "Bosh (Holo)",
+    "gen_id": 33,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39932,
+    "BuffStickerId": 848,
+    "Image": "/assets/img/items/stickers/stickercapsule2/bosh-holo.png"
+  },
+  {
+    "name": "Let's Roll-oll (Holo)",
+    "gen_id": 42,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40445,
+    "BuffStickerId": 1351,
+    "Image": "/assets/img/items/stickers/stickercapsule2/letsrolloll-holo.png"
+  },
+  {
+    "name": "Good Game",
+    "gen_id": 38,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40244,
+    "BuffStickerId": 1155,
+    "Image": "/assets/img/items/stickers/stickercapsule2/goodgame.png"
+  },
+  {
+    "name": "Nice Shot",
+    "gen_id": 44,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40607,
+    "BuffStickerId": 1508,
+    "Image": "/assets/img/items/stickers/stickercapsule2/niceshot.png"
+  },
+  {
+    "name": "Welcome to the Clutch",
+    "gen_id": 47,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41057,
+    "BuffStickerId": 1954,
+    "Image": "/assets/img/items/stickers/stickercapsule2/welcometotheclutch.png"
+  },
+  {
+    "name": "Banana",
+    "gen_id": 34,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39905,
+    "BuffStickerId": 824,
+    "Image": "/assets/img/items/stickers/stickercapsule2/banana.png"
+  },
+  {
+    "name": "Good Luck",
+    "gen_id": 39,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40245,
+    "BuffStickerId": 1156,
+    "Image": "/assets/img/items/stickers/stickercapsule2/goodluck.png"
+  },
+  {
+    "name": "Bomb Code",
+    "gen_id": 35,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39917,
+    "BuffStickerId": 836,
+    "Image": "/assets/img/items/stickers/stickercapsule2/bombcode.png"
+  },
+  {
+    "name": "Have Fun",
+    "gen_id": 40,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40297,
+    "BuffStickerId": 1206,
+    "Image": "/assets/img/items/stickers/stickercapsule2/havefun.png"
+  },
+  {
+    "name": "Chicken Lover",
+    "gen_id": 36,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39947,
+    "BuffStickerId": 863,
+    "Image": "/assets/img/items/stickers/stickercapsule2/chickenlover.png"
+  },
+  {
+    "name": "Let's Roll-oll",
+    "gen_id": 41,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40444,
+    "BuffStickerId": 1350,
+    "Image": "/assets/img/items/stickers/stickercapsule2/letsrolloll.png"
+  },
+  {
+    "name": "Metal",
+    "gen_id": 43,
+    "tournament": "Sticker Capsule 2",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40512,
+    "BuffStickerId": 1416,
+    "Image": "/assets/img/items/stickers/stickercapsule2/metal.png"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Countdown (Foil)",
+    "gen_id": 979,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39975,
+    "BuffStickerId": 8203,
+    "Image": "/assets/img/items/stickers/slid3capsule/countdown-foil.png"
+  },
+  {
+    "name": "Move It (Foil)",
+    "gen_id": 988,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40517,
+    "BuffStickerId": 8215,
+    "Image": "/assets/img/items/stickers/slid3capsule/moveit-foil.png"
+  },
+  {
+    "name": "Boom (Foil)",
+    "gen_id": 976,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39923,
+    "BuffStickerId": 15722,
+    "Image": "/assets/img/items/stickers/slid3capsule/boom-foil.png"
+  },
+  {
+    "name": "Don't Worry (Foil)",
+    "gen_id": 982,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40013,
+    "BuffStickerId": 15726,
+    "Image": "/assets/img/items/stickers/slid3capsule/dontworry-foil.png"
+  },
+  {
+    "name": "Hard Cluck Life (Foil)",
+    "gen_id": 985,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40294,
+    "BuffStickerId": 15731,
+    "Image": "/assets/img/items/stickers/slid3capsule/hardclucklife-foil.png"
+  },
+  {
+    "name": "Boom (Holo)",
+    "gen_id": 975,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39924,
+    "BuffStickerId": 15723,
+    "Image": "/assets/img/items/stickers/slid3capsule/boom-holo.png"
+  },
+  {
+    "name": "Move It (Holo)",
+    "gen_id": 987,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40518,
+    "BuffStickerId": 8216,
+    "Image": "/assets/img/items/stickers/slid3capsule/moveit-holo.png"
+  },
+  {
+    "name": "Countdown (Holo)",
+    "gen_id": 978,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39976,
+    "BuffStickerId": 8204,
+    "Image": "/assets/img/items/stickers/slid3capsule/countdown-holo.png"
+  },
+  {
+    "name": "Don't Worry (Holo)",
+    "gen_id": 981,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40014,
+    "BuffStickerId": 15727,
+    "Image": "/assets/img/items/stickers/slid3capsule/dontworry-holo.png"
+  },
+  {
+    "name": "Hard Cluck Life (Holo)",
+    "gen_id": 984,
+    "tournament": "Slid3 Capsule",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40293,
+    "BuffStickerId": 15731,
+    "Image": "/assets/img/items/stickers/slid3capsule/hardclucklife-holo.png"
+  },
+  {
+    "name": "Boom",
+    "gen_id": 974,
+    "tournament": "Slid3 Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39922,
+    "BuffStickerId": 840,
+    "Image": "/assets/img/items/stickers/slid3capsule/boom.png"
+  },
+  {
+    "name": "Countdown",
+    "gen_id": 977,
+    "tournament": "Slid3 Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39974,
+    "BuffStickerId": 890,
+    "Image": "/assets/img/items/stickers/slid3capsule/countdown.png"
+  },
+  {
+    "name": "Move It",
+    "gen_id": 986,
+    "tournament": "Slid3 Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40516,
+    "BuffStickerId": 1420,
+    "Image": "/assets/img/items/stickers/slid3capsule/moveit.png"
+  },
+  {
+    "name": "Hard Cluck Life",
+    "gen_id": 983,
+    "tournament": "Slid3 Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40291,
+    "BuffStickerId": 1202,
+    "Image": "/assets/img/items/stickers/slid3capsule/hardclucklife.png"
+  },
+  {
+    "name": "Don't Worry",
+    "gen_id": 980,
+    "tournament": "Slid3 Capsule",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40012,
+    "BuffStickerId": 925,
+    "Image": "/assets/img/items/stickers/slid3capsule/dontworry.png"
+  }
+]
