@@ -8,12 +8,8 @@ internal class Program
     static async Task Main(string[] args)
     {
         string directory_to_copy = args.Length > 0 ? args[0] : string.Empty;
-        //// Load all stickers
         await CompileJsonAsync<Sticker>("data/stickers", $"{directory_to_copy}stickers.json");
         await CompileJsonAsync<Weapon>("data/collections", $"{directory_to_copy}collections.json");
-
-        // Load all collections
-
         Environment.Exit(0);
     }
 
