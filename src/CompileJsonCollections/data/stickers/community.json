@@ -1,0 +1,506 @@
+[
+  {
+    "Name": "Blinky",
+    "StickerId": 4577,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_winky_eyes_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Chompers",
+    "StickerId": 4580,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_shark_mouth_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Fly High",
+    "StickerId": 4590,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_wings_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "From The Deep",
+    "StickerId": 4647,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_tentacle_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Glare",
+    "StickerId": 4648,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_eye_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Lefty (CT)",
+    "StickerId": 4698,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_ct_left_hand_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Ouchie (Foil)",
+    "StickerId": 7233,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/community_2024/foil_ouchie_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Lost In Smoke (Foil)",
+    "StickerId": 7234,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/community_2024/foil_lost_in_smoke_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Retro Zeus",
+    "StickerId": 7235,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_retro_zeus_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "This Is Fine (Chicken)",
+    "StickerId": 7236,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_this_is_fine_chicken_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Please Return To",
+    "StickerId": 7237,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_please_return_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Peek-A-Boo",
+    "StickerId": 7238,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_peek_a_boo_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "AKickflip-47",
+    "StickerId": 7239,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_kickflip_47_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Easy For Ricksaw",
+    "StickerId": 7240,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_easy_for_ricksaw_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bum A Smoke",
+    "StickerId": 7241,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_bum_a_smoke_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Angry T",
+    "StickerId": 7242,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/community_2024/paper_angry_t_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Old School (Lenticular)",
+    "StickerId": 7243,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2024/lenticular_old_school_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Econometer (Lenticular)",
+    "StickerId": 7244,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2024/lenticular_econometer_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Dystopian Gaze (Lenticular)",
+    "StickerId": 7245,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2024/lenticular_dystopian_gaze_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Loving Eyes (Holo)",
+    "StickerId": 7246,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/community_2024/holo_loving_eyes_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Try Hard (Holo)",
+    "StickerId": 7247,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/community_2024/holo_try_hard_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Lit (Holo)",
+    "StickerId": 7248,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/community_2024/holo_lit_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Cedar Creek (Holo)",
+    "StickerId": 7249,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/community_2024/holo_cedar_creek_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Pushing Smokes (Glitter)",
+    "StickerId": 7250,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/community_2024/glitter_pushing_smokes_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Lotus (Glitter)",
+    "StickerId": 7251,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/community_2024/glitter_lotus_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Factory Sealed (Foil)",
+    "StickerId": 7252,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/community_2024/foil_sealed_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "On An Eco (Foil)",
+    "StickerId": 7253,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/community_2024/foil_on_eco_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Lefty (T)",
+    "StickerId": 7879,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_t_left_hand_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Red Shades (Foil)",
+    "StickerId": 7880,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/foil_sunglasses_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Mustachio (Foil)",
+    "StickerId": 7881,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/foil_mustache_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bolt Strike",
+    "StickerId": 7882,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_lightning_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bolt Charge",
+    "StickerId": 7883,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_lightning_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bolt Energy",
+    "StickerId": 7884,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_lightning_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "High Heat",
+    "StickerId": 7885,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_flames_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Hot Rod Heat",
+    "StickerId": 7886,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_flames_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Scorch Loop (Reverse)",
+    "StickerId": 7887,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_fire_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Winding Scorch",
+    "StickerId": 7888,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_fire_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Scorch Loop",
+    "StickerId": 7891,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_fire_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Detonation",
+    "StickerId": 7892,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_explosion_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Epicenter",
+    "StickerId": 7893,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_explosion_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Blast",
+    "StickerId": 7894,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_explosion_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Trail",
+    "StickerId": 7895,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_explosion_four_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Rainbow Route (Holo)",
+    "StickerId": 7896,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/holo_rainbow_trail_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Detonation (Glitter)",
+    "StickerId": 7897,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/glitter_explosion_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Epicenter (Glitter)",
+    "StickerId": 7898,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/glitter_explosion_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Blast (Glitter)",
+    "StickerId": 7899,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/glitter_explosion_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Boom Trail (Glitter)",
+    "StickerId": 7900,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/glitter_explosion_four_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bolt Strike (Foil)",
+    "StickerId": 7901,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/foil_lightning_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bolt Charge (Foil)",
+    "StickerId": 7902,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/foil_lightning_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Bolt Energy (Foil)",
+    "StickerId": 7903,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/foil_lightning_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Winding Scorch (Foil)",
+    "StickerId": 7904,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/foil_fire_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Flex",
+    "StickerId": 7905,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_arm_flex_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Clown Nose",
+    "StickerId": 7906,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_clown_nose_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Clown Wig",
+    "StickerId": 7907,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_clown_wig_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Quick Peek",
+    "StickerId": 7909,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_googly_eye_small_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "XD",
+    "StickerId": 7910,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_mouth_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Ribbon Tie",
+    "StickerId": 7911,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_ribbon_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Taste Bud",
+    "StickerId": 7912,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_tongue_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Kawaii Eyes (Glitter)",
+    "StickerId": 7913,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/glitter_kawaii_eyes_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "From The Deep (Glitter)",
+    "StickerId": 7914,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/glitter_tentacle_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Say Cheese (Holo)",
+    "StickerId": 7915,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/holo_mouth_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Taste Buddy (Holo)",
+    "StickerId": 7916,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/holo_tongue_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Gold Teef (Foil)",
+    "StickerId": 7917,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/foil_mouth_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Side Eyes (Lenticular)",
+    "StickerId": 7918,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/lenticular_cheeky_eyes_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Googly Eye (Lenticular)",
+    "StickerId": 7919,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/lenticular_googly_eye_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Hypnoteyes (Holo)",
+    "StickerId": 7921,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/lenticular_angry_eyes_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Hydro Geyser",
+    "StickerId": 7922,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_water_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Hydro Stream",
+    "StickerId": 7923,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_water_three_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Hydro Wave",
+    "StickerId": 7924,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/paper_water_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Ruby Stream (Lenticular)",
+    "StickerId": 7925,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/lenticular_blood_one_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Ruby Wave (Lenticular)",
+    "StickerId": 7926,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/elemental_craft/lenticular_blood_two_png.png",
+    "Collection": "community"
+  },
+  {
+    "Name": "Strike A Pose",
+    "StickerId": 7927,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/community/sticker_craft/paper_male_anime_face_png.png",
+    "Collection": "community"
+  }
+]

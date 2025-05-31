@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Emperor (Foil)",
+    "gen_id": 4630,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Exotic",
+    "BuffGoodsId": 780275,
+    "BuffStickerId": 11636,
+    "Image": "/assets/img/items/stickers/warhammer40000/emperor-foil.png"
+  },
+  {
+    "name": "Chaos Marine (Foil)",
+    "gen_id": 4629,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Exotic",
+    "BuffGoodsId": 780254,
+    "BuffStickerId": 11630,
+    "Image": "/assets/img/items/stickers/warhammer40000/chaosmarine-foil.png"
+  },
+  {
+    "name": "Bloodthirster (Foil)",
+    "gen_id": 4628,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Exotic",
+    "BuffGoodsId": 780274,
+    "BuffStickerId": 11635,
+    "Image": "/assets/img/items/stickers/warhammer40000/bloodthirster-foil.png"
+  },
+  {
+    "name": "Heresy (Holo)",
+    "gen_id": 4624,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 780252,
+    "BuffStickerId": 11622,
+    "Image": "/assets/img/items/stickers/warhammer40000/heresy-holo.png"
+  },
+  {
+    "name": "Tyranids Hive Tyrant (Holo)",
+    "gen_id": 4627,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 780276,
+    "BuffStickerId": 11632,
+    "Image": "/assets/img/items/stickers/warhammer40000/tyranidshivetyrant-holo.png"
+  },
+  {
+    "name": "Lord of Skulls (Holo)",
+    "gen_id": 4625,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 780272,
+    "BuffStickerId": 11608,
+    "Image": "/assets/img/items/stickers/warhammer40000/lordofskulls-holo.png"
+  },
+  {
+    "name": "Space Marine (Holo)",
+    "gen_id": 4626,
+    "tournament": "Warhammer 40,000",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 780258,
+    "BuffStickerId": 11614,
+    "Image": "/assets/img/items/stickers/warhammer40000/spacemarine-holo.png"
+  },
+  {
+    "name": "Heresy",
+    "gen_id": 4617,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780261,
+    "BuffStickerId": 11606,
+    "Image": "/assets/img/items/stickers/warhammer40000/heresy.png"
+  },
+  {
+    "name": "Adepta Sororitas",
+    "gen_id": 4614,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780253,
+    "BuffStickerId": 11621,
+    "Image": "/assets/img/items/stickers/warhammer40000/adeptasororitas.png"
+  },
+  {
+    "name": "Necron",
+    "gen_id": 4618,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780255,
+    "BuffStickerId": 11610,
+    "Image": "/assets/img/items/stickers/warhammer40000/necron.png"
+  },
+  {
+    "name": "Ork Waaagh!",
+    "gen_id": 4619,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780268,
+    "BuffStickerId": 11619,
+    "Image": "/assets/img/items/stickers/warhammer40000/orkwaaagh.png"
+  },
+  {
+    "name": "Tyranids Ravener",
+    "gen_id": 4623,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780263,
+    "BuffStickerId": 11603,
+    "Image": "/assets/img/items/stickers/warhammer40000/tyranidsravener.png"
+  },
+  {
+    "name": "Space Marine",
+    "gen_id": 4622,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780250,
+    "BuffStickerId": 11628,
+    "Image": "/assets/img/items/stickers/warhammer40000/spacemarine.png"
+  },
+  {
+    "name": "Repulsor",
+    "gen_id": 4621,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780256,
+    "BuffStickerId": 11612,
+    "Image": "/assets/img/items/stickers/warhammer40000/repulsor.png"
+  },
+  {
+    "name": "Primaris Keychain",
+    "gen_id": 4620,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780257,
+    "BuffStickerId": 11624,
+    "Image": "/assets/img/items/stickers/warhammer40000/primariskeychain.png"
+  },
+  {
+    "name": "Full Buy",
+    "gen_id": 4616,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780270,
+    "BuffStickerId": 11618,
+    "Image": "/assets/img/items/stickers/warhammer40000/fullbuy.png"
+  },
+  {
+    "name": "Aeldari Avatar",
+    "gen_id": 4615,
+    "tournament": "Warhammer 40,000",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 780265,
+    "BuffStickerId": 11626,
+    "Image": "/assets/img/items/stickers/warhammer40000/aeldariavatar.png"
+  }
+]

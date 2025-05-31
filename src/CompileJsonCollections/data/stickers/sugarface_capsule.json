@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "Boris",
+    "StickerId": 1625,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/boris_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Max",
+    "StickerId": 1626,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/max_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Stan",
+    "StickerId": 1627,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/stan_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Jack",
+    "StickerId": 1628,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/jack_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Perry",
+    "StickerId": 1629,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/perry_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Viggo",
+    "StickerId": 1630,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/viggo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Joan",
+    "StickerId": 1631,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/joan_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Boris (Holo)",
+    "StickerId": 1632,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/boris_holo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Max (Holo)",
+    "StickerId": 1633,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/max_holo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Stan (Holo)",
+    "StickerId": 1634,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/stan_holo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Jack (Holo)",
+    "StickerId": 1635,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/jack_holo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Perry (Holo)",
+    "StickerId": 1636,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/perry_holo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Viggo (Holo)",
+    "StickerId": 1637,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/viggo_holo_png.png",
+    "Collection": "sugarface_capsule"
+  },
+  {
+    "Name": "Joan (Holo)",
+    "StickerId": 1638,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/sugarface_capsule/joan_holo_png.png",
+    "Collection": "sugarface_capsule"
+  }
+]

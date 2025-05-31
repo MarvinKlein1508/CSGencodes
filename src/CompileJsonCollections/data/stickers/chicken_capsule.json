@@ -1,0 +1,121 @@
+[
+  {
+    "Name": "Big Clucks",
+    "StickerId": 3966,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/BigClucks_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Bonehead",
+    "StickerId": 3967,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/BoneHead_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "BukAWP",
+    "StickerId": 3968,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/BukAWP_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Double Dip",
+    "StickerId": 3969,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/DoubleDip_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Fowl Play",
+    "StickerId": 3970,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/FowlPlay_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Heads Up",
+    "StickerId": 3971,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/HeadsUp_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Hot Wings",
+    "StickerId": 3972,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/HotWings_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Nest Egg",
+    "StickerId": 3973,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/NestEgg_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Roosty Boosty",
+    "StickerId": 3974,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/RoostyBoosty_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "What What",
+    "StickerId": 3975,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/chicken_capsule/WhatWhat_pack01_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Bonehead (Holo)",
+    "StickerId": 3976,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/chicken_capsule/bonehead_holo_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Double Dip (Holo)",
+    "StickerId": 3977,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/chicken_capsule/doubledip_holo_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Fowl Play (Holo)",
+    "StickerId": 3978,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/chicken_capsule/fowlplay_holo_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Hot Wings (Holo)",
+    "StickerId": 3979,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/chicken_capsule/hotwings_holo_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Nest Egg (Holo)",
+    "StickerId": 3980,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/chicken_capsule/nestegg_holo_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Big Clucks (Foil)",
+    "StickerId": 3981,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/chicken_capsule/bigclucks_foil_png.png",
+    "Collection": "chicken_capsule"
+  },
+  {
+    "Name": "Roosty Boosty (Foil)",
+    "StickerId": 3982,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/chicken_capsule/roostyboosty_foil_png.png",
+    "Collection": "chicken_capsule"
+  }
+]

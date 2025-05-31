@@ -1,2738 +1,2158 @@
 [
   {
-    "name": "Virtus.Pro | Krakow 2017",
-    "gen_id": 2067,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41041,
-    "BuffStickerId": 1938,
-    "Image": "/assets/img/items/stickers/krakow2017/virtuspro.png"
-  },
-  {
-    "name": "Virtus.Pro (Holo) | Krakow 2017",
-    "gen_id": 2068,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41031,
-    "BuffStickerId": 1928,
-    "Image": "/assets/img/items/stickers/krakow2017/virtuspro-holo.png"
-  },
-  {
-    "name": "Virtus.Pro (Foil) | Krakow 2017",
-    "gen_id": 2069,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 41023,
-    "BuffStickerId": 1920,
-    "Image": "/assets/img/items/stickers/krakow2017/virtuspro-foil.png"
-  },
-  {
-    "name": "Virtus.Pro (Gold) | Krakow 2017",
-    "gen_id": 2070,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/virtuspro-gold.png"
-  },
-  {
-    "name": "Vega Squadron | Krakow 2017",
-    "gen_id": 2123,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41012,
-    "BuffStickerId": 1909,
-    "Image": "/assets/img/items/stickers/krakow2017/vegasquadron.png"
-  },
-  {
-    "name": "Vega Squadron (Holo) | Krakow 2017",
-    "gen_id": 2124,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41010,
-    "BuffStickerId": 1907,
-    "Image": "/assets/img/items/stickers/krakow2017/vegasquadron-holo.png"
-  },
-  {
-    "name": "Vega Squadron (Foil) | Krakow 2017",
-    "gen_id": 2125,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 41008,
-    "BuffStickerId": 1905,
-    "Image": "/assets/img/items/stickers/krakow2017/vegasquadron-foil.png"
-  },
-  {
-    "name": "Vega Squadron (Gold) | Krakow 2017",
-    "gen_id": 2126,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/vegasquadron-gold.png"
-  },
-  {
-    "name": "SK Gaming | Krakow 2017",
-    "gen_id": 2075,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40737,
-    "BuffStickerId": 1638,
-    "Image": "/assets/img/items/stickers/krakow2017/skgaming.png"
-  },
-  {
-    "name": "SK Gaming (Holo) | Krakow 2017",
-    "gen_id": 2076,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40733,
-    "BuffStickerId": 1634,
-    "Image": "/assets/img/items/stickers/krakow2017/skgaming-holo.png"
-  },
-  {
-    "name": "SK Gaming (Foil) | Krakow 2017",
-    "gen_id": 2077,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40729,
-    "BuffStickerId": 1630,
-    "Image": "/assets/img/items/stickers/krakow2017/skgaming-foil.png"
-  },
-  {
-    "name": "SK Gaming (Gold) | Krakow 2017",
-    "gen_id": 2078,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/skgaming-gold.png"
-  },
-  {
-    "name": "PENTA Sports | Krakow 2017",
-    "gen_id": 2111,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40654,
-    "BuffStickerId": 1555,
-    "Image": "/assets/img/items/stickers/krakow2017/pentasports.png"
-  },
-  {
-    "name": "PENTA Sports (Holo) | Krakow 2017",
-    "gen_id": 2112,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40652,
-    "BuffStickerId": 1553,
-    "Image": "/assets/img/items/stickers/krakow2017/pentasports-holo.png"
-  },
-  {
-    "name": "PENTA Sports (Foil) | Krakow 2017",
-    "gen_id": 2113,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40650,
-    "BuffStickerId": 1551,
-    "Image": "/assets/img/items/stickers/krakow2017/pentasports-foil.png"
-  },
-  {
-    "name": "PENTA Sports (Gold) | Krakow 2017",
-    "gen_id": 2114,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/pentasports-gold.png"
-  },
-  {
-    "name": "North | Krakow 2017",
-    "gen_id": 2087,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40640,
-    "BuffStickerId": 1541,
-    "Image": "/assets/img/items/stickers/krakow2017/north.png"
-  },
-  {
-    "name": "North (Holo) | Krakow 2017",
-    "gen_id": 2088,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40637,
-    "BuffStickerId": 1538,
-    "Image": "/assets/img/items/stickers/krakow2017/north-holo.png"
-  },
-  {
-    "name": "North (Foil) | Krakow 2017",
-    "gen_id": 2089,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40634,
-    "BuffStickerId": 1535,
-    "Image": "/assets/img/items/stickers/krakow2017/north-foil.png"
-  },
-  {
-    "name": "North (Gold) | Krakow 2017",
-    "gen_id": 2090,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/north-gold.png"
-  },
-  {
-    "name": "Natus Vincere | Krakow 2017",
-    "gen_id": 2079,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40588,
-    "BuffStickerId": 1489,
-    "Image": "/assets/img/items/stickers/krakow2017/natusvincere.png"
-  },
-  {
-    "name": "Natus Vincere (Holo) | Krakow 2017",
-    "gen_id": 2080,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40577,
-    "BuffStickerId": 1478,
-    "Image": "/assets/img/items/stickers/krakow2017/natusvincere-holo.png"
-  },
-  {
-    "name": "Natus Vincere (Foil) | Krakow 2017",
-    "gen_id": 2081,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40569,
-    "BuffStickerId": 1471,
-    "Image": "/assets/img/items/stickers/krakow2017/natusvincere-foil.png"
-  },
-  {
-    "name": "Natus Vincere (Gold) | Krakow 2017",
-    "gen_id": 2082,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/natusvincere-gold.png"
-  },
-  {
-    "name": "mousesports | Krakow 2017",
-    "gen_id": 2095,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41686,
-    "BuffStickerId": 2583,
-    "Image": "/assets/img/items/stickers/krakow2017/mousesports.png"
-  },
-  {
-    "name": "mousesports (Holo) | Krakow 2017",
-    "gen_id": 2096,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41678,
-    "BuffStickerId": 2575,
-    "Image": "/assets/img/items/stickers/krakow2017/mousesports-holo.png"
-  },
-  {
-    "name": "mousesports (Foil) | Krakow 2017",
-    "gen_id": 2097,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 41672,
-    "BuffStickerId": 2569,
-    "Image": "/assets/img/items/stickers/krakow2017/mousesports-foil.png"
-  },
-  {
-    "name": "mousesports (Gold) | Krakow 2017",
-    "gen_id": 2098,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/mousesports-gold.png"
-  },
-  {
-    "name": "Immortals | Krakow 2017",
-    "gen_id": 2119,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40344,
-    "BuffStickerId": 1253,
-    "Image": "/assets/img/items/stickers/krakow2017/immortals.png"
-  },
-  {
-    "name": "Immortals (Holo) | Krakow 2017",
-    "gen_id": 2120,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40343,
-    "BuffStickerId": 1252,
-    "Image": "/assets/img/items/stickers/krakow2017/immortals-holo.png"
-  },
-  {
-    "name": "Immortals (Foil) | Krakow 2017",
-    "gen_id": 2121,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40342,
-    "BuffStickerId": 1251,
-    "Image": "/assets/img/items/stickers/krakow2017/immortals-foil.png"
-  },
-  {
-    "name": "Immortals (Gold) | Krakow 2017",
-    "gen_id": 2122,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/immortals-gold.png"
-  },
-  {
-    "name": "Gambit | Krakow 2017",
-    "gen_id": 2083,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40231,
-    "BuffStickerId": 1142,
-    "Image": "/assets/img/items/stickers/krakow2017/gambit.png"
-  },
-  {
-    "name": "Gambit (Holo) | Krakow 2017",
-    "gen_id": 2084,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40219,
-    "BuffStickerId": 1130,
-    "Image": "/assets/img/items/stickers/krakow2017/gambit-holo.png"
-  },
-  {
-    "name": "Gambit (Foil) | Krakow 2017",
-    "gen_id": 2085,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40218,
-    "BuffStickerId": 1129,
-    "Image": "/assets/img/items/stickers/krakow2017/gambit-foil.png"
-  },
-  {
-    "name": "Gambit (Gold) | Krakow 2017",
-    "gen_id": 2086,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/gambit-gold.png"
-  },
-  {
-    "name": "G2 Esports | Krakow 2017",
-    "gen_id": 2099,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40213,
-    "BuffStickerId": 1124,
-    "Image": "/assets/img/items/stickers/krakow2017/g2esports.png"
-  },
-  {
-    "name": "G2 Esports (Holo) | Krakow 2017",
-    "gen_id": 2100,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40207,
-    "BuffStickerId": 1118,
-    "Image": "/assets/img/items/stickers/krakow2017/g2esports-holo.png"
-  },
-  {
-    "name": "G2 Esports (Foil) | Krakow 2017",
-    "gen_id": 2101,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40202,
-    "BuffStickerId": 1113,
-    "Image": "/assets/img/items/stickers/krakow2017/g2esports-foil.png"
-  },
-  {
-    "name": "G2 Esports (Gold) | Krakow 2017",
-    "gen_id": 2102,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/g2esports-gold.png"
-  },
-  {
-    "name": "Fnatic | Krakow 2017",
-    "gen_id": 2071,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40188,
-    "BuffStickerId": 1099,
-    "Image": "/assets/img/items/stickers/krakow2017/fnatic.png"
-  },
-  {
-    "name": "Fnatic (Holo) | Krakow 2017",
-    "gen_id": 2072,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40177,
-    "BuffStickerId": 1088,
-    "Image": "/assets/img/items/stickers/krakow2017/fnatic-holo.png"
-  },
-  {
-    "name": "Fnatic (Foil) | Krakow 2017",
-    "gen_id": 2073,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40168,
-    "BuffStickerId": 1079,
-    "Image": "/assets/img/items/stickers/krakow2017/fnatic-foil.png"
-  },
-  {
-    "name": "Fnatic (Gold) | Krakow 2017",
-    "gen_id": 2074,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/fnatic-gold.png"
-  },
-  {
-    "name": "Flipsid3 Tactics | Krakow 2017",
-    "gen_id": 2115,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40159,
-    "BuffStickerId": 1070,
-    "Image": "/assets/img/items/stickers/krakow2017/flipsid3tactics.png"
-  },
-  {
-    "name": "Flipsid3 Tactics (Holo) | Krakow 2017",
-    "gen_id": 2116,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40150,
-    "BuffStickerId": 1061,
-    "Image": "/assets/img/items/stickers/krakow2017/flipsid3tactics-holo.png"
-  },
-  {
-    "name": "Flipsid3 Tactics (Foil) | Krakow 2017",
-    "gen_id": 2117,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 43940,
-    "BuffStickerId": 2858,
-    "Image": "/assets/img/items/stickers/krakow2017/flipsid3tactics-foil.png"
-  },
-  {
-    "name": "Flipsid3 Tactics (Gold) | Krakow 2017",
-    "gen_id": 2118,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/flipsid3tactics-gold.png"
-  },
-  {
-    "name": "FaZe Clan | Krakow 2017",
-    "gen_id": 2091,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40110,
-    "BuffStickerId": 1021,
-    "Image": "/assets/img/items/stickers/krakow2017/fazeclan.png"
-  },
-  {
-    "name": "FaZe Clan (Holo) | Krakow 2017",
-    "gen_id": 2092,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40105,
-    "BuffStickerId": 1016,
-    "Image": "/assets/img/items/stickers/krakow2017/fazeclan-holo.png"
-  },
-  {
-    "name": "FaZe Clan (Foil) | Krakow 2017",
-    "gen_id": 2093,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 40100,
-    "BuffStickerId": 1011,
-    "Image": "/assets/img/items/stickers/krakow2017/fazeclan-foil.png"
-  },
-  {
-    "name": "FaZe Clan (Gold) | Krakow 2017",
-    "gen_id": 2094,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/fazeclan-gold.png"
-  },
-  {
-    "name": "Cloud9 | Krakow 2017",
-    "gen_id": 2107,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 39970,
-    "BuffStickerId": 886,
-    "Image": "/assets/img/items/stickers/krakow2017/cloud9.png"
-  },
-  {
-    "name": "Cloud9 (Holo) | Krakow 2017",
-    "gen_id": 2108,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 39959,
-    "BuffStickerId": 875,
-    "Image": "/assets/img/items/stickers/krakow2017/cloud9-holo.png"
-  },
-  {
-    "name": "Cloud9 (Foil) | Krakow 2017",
-    "gen_id": 2109,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 39954,
-    "BuffStickerId": 870,
-    "Image": "/assets/img/items/stickers/krakow2017/cloud9-foil.png"
-  },
-  {
-    "name": "Cloud9 (Gold) | Krakow 2017",
-    "gen_id": 2110,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/cloud9-gold.png"
-  },
-  {
-    "name": "BIG | Krakow 2017",
-    "gen_id": 2103,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 39899,
-    "BuffStickerId": 818,
-    "Image": "/assets/img/items/stickers/krakow2017/big.png"
-  },
-  {
-    "name": "BIG (Holo) | Krakow 2017",
-    "gen_id": 2104,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 39897,
-    "BuffStickerId": 816,
-    "Image": "/assets/img/items/stickers/krakow2017/big-holo.png"
-  },
-  {
-    "name": "BIG (Foil) | Krakow 2017",
-    "gen_id": 2105,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 39895,
-    "BuffStickerId": 814,
-    "Image": "/assets/img/items/stickers/krakow2017/big-foil.png"
-  },
-  {
-    "name": "BIG (Gold) | Krakow 2017",
-    "gen_id": 2106,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/big-gold.png"
-  },
-  {
-    "name": "Astralis | Krakow 2017",
-    "gen_id": 2063,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 39869,
-    "BuffStickerId": 788,
-    "Image": "/assets/img/items/stickers/krakow2017/astralis.png"
-  },
-  {
-    "name": "Astralis (Holo) | Krakow 2017",
-    "gen_id": 2064,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 39864,
-    "BuffStickerId": 783,
-    "Image": "/assets/img/items/stickers/krakow2017/astralis-holo.png"
-  },
-  {
-    "name": "Astralis (Foil) | Krakow 2017",
-    "gen_id": 2065,
-    "tournament": "Krakow 2017",
-    "rarity": "Exotic",
-    "BuffGoodsId": 39859,
-    "BuffStickerId": 778,
-    "Image": "/assets/img/items/stickers/krakow2017/astralis-foil.png"
-  },
-  {
-    "name": "Astralis (Gold) | Krakow 2017",
-    "gen_id": 2066,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": null,
-    "BuffStickerId": null,
-    "Image": "/assets/img/items/stickers/krakow2017/astralis-gold.png"
-  },
-  {
-    "name": "Zeus | Krakow 2017",
-    "gen_id": 2235,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41121,
-    "BuffStickerId": 2018,
-    "Image": "/assets/img/items/stickers/krakow2017/zeus.png"
-  },
-  {
-    "name": "Zeus (Foil) | Krakow 2017",
-    "gen_id": 2236,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41112,
-    "BuffStickerId": 2009,
-    "Image": "/assets/img/items/stickers/krakow2017/zeus-foil.png"
-  },
-  {
-    "name": "Zeus (Gold) | Krakow 2017",
-    "gen_id": 2237,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41115,
-    "BuffStickerId": 2012,
-    "Image": "/assets/img/items/stickers/krakow2017/zeus-gold.png"
-  },
-  {
-    "name": "zehN | Krakow 2017",
-    "gen_id": 2340,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41954,
-    "BuffStickerId": 2851,
-    "Image": "/assets/img/items/stickers/krakow2017/zehn.png"
-  },
-  {
-    "name": "zehN (Foil) | Krakow 2017",
-    "gen_id": 2341,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41950,
-    "BuffStickerId": 2847,
-    "Image": "/assets/img/items/stickers/krakow2017/zehn-foil.png"
-  },
-  {
-    "name": "zehN (Gold) | Krakow 2017",
-    "gen_id": 2342,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41952,
-    "BuffStickerId": 2849,
-    "Image": "/assets/img/items/stickers/krakow2017/zehn-gold.png"
-  },
-  {
-    "name": "Xyp9x | Krakow 2017",
-    "gen_id": 2160,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41103,
-    "BuffStickerId": 2000,
-    "Image": "/assets/img/items/stickers/krakow2017/xyp9x.png"
-  },
-  {
-    "name": "Xyp9x (Foil) | Krakow 2017",
-    "gen_id": 2161,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41094,
-    "BuffStickerId": 1991,
-    "Image": "/assets/img/items/stickers/krakow2017/xyp9x-foil.png"
-  },
-  {
-    "name": "Xyp9x (Gold) | Krakow 2017",
-    "gen_id": 2162,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41097,
-    "BuffStickerId": 1994,
-    "Image": "/assets/img/items/stickers/krakow2017/xyp9x-gold.png"
-  },
-  {
-    "name": "WorldEdit | Krakow 2017",
-    "gen_id": 2355,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41076,
-    "BuffStickerId": 1973,
-    "Image": "/assets/img/items/stickers/krakow2017/worldedit.png"
-  },
-  {
-    "name": "WorldEdit (Foil) | Krakow 2017",
-    "gen_id": 2356,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41068,
-    "BuffStickerId": 1965,
-    "Image": "/assets/img/items/stickers/krakow2017/worldedit-foil.png"
-  },
-  {
-    "name": "WorldEdit (Gold) | Krakow 2017",
-    "gen_id": 2357,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41071,
-    "BuffStickerId": 1968,
-    "Image": "/assets/img/items/stickers/krakow2017/worldedit-gold.png"
-  },
-  {
-    "name": "wayLander | Krakow 2017",
-    "gen_id": 2352,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41942,
-    "BuffStickerId": 2839,
-    "Image": "/assets/img/items/stickers/krakow2017/waylander.png"
-  },
-  {
-    "name": "wayLander (Foil) | Krakow 2017",
-    "gen_id": 2353,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41935,
-    "BuffStickerId": 2832,
-    "Image": "/assets/img/items/stickers/krakow2017/waylander-foil.png"
-  },
-  {
-    "name": "wayLander (Gold) | Krakow 2017",
-    "gen_id": 2354,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41938,
-    "BuffStickerId": 2835,
-    "Image": "/assets/img/items/stickers/krakow2017/waylander-gold.png"
-  },
-  {
-    "name": "TaZ | Krakow 2017",
-    "gen_id": 2175,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40893,
-    "BuffStickerId": 1793,
-    "Image": "/assets/img/items/stickers/krakow2017/taz.png"
-  },
-  {
-    "name": "TaZ (Foil) | Krakow 2017",
-    "gen_id": 2176,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40884,
-    "BuffStickerId": 1784,
-    "Image": "/assets/img/items/stickers/krakow2017/taz-foil.png"
-  },
-  {
-    "name": "TaZ (Gold) | Krakow 2017",
-    "gen_id": 2177,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40887,
-    "BuffStickerId": 1787,
-    "Image": "/assets/img/items/stickers/krakow2017/taz-gold.png"
-  },
-  {
-    "name": "TACO | Krakow 2017",
-    "gen_id": 2205,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40872,
-    "BuffStickerId": 1772,
-    "Image": "/assets/img/items/stickers/krakow2017/taco.png"
-  },
-  {
-    "name": "TACO (Foil) | Krakow 2017",
-    "gen_id": 2206,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40865,
-    "BuffStickerId": 1765,
-    "Image": "/assets/img/items/stickers/krakow2017/taco-foil.png"
-  },
-  {
-    "name": "TACO (Gold) | Krakow 2017",
-    "gen_id": 2207,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40868,
-    "BuffStickerId": 1768,
-    "Image": "/assets/img/items/stickers/krakow2017/taco-gold.png"
-  },
-  {
-    "name": "tabseN | Krakow 2017",
-    "gen_id": 2310,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41908,
-    "BuffStickerId": 2805,
-    "Image": "/assets/img/items/stickers/krakow2017/tabsen.png"
-  },
-  {
-    "name": "tabseN (Foil) | Krakow 2017",
-    "gen_id": 2311,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41904,
-    "BuffStickerId": 2801,
-    "Image": "/assets/img/items/stickers/krakow2017/tabsen-foil.png"
-  },
-  {
-    "name": "tabseN (Gold) | Krakow 2017",
-    "gen_id": 2312,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41906,
-    "BuffStickerId": 2803,
-    "Image": "/assets/img/items/stickers/krakow2017/tabsen-gold.png"
-  },
-  {
-    "name": "suNny | Krakow 2017",
-    "gen_id": 2337,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41902,
-    "BuffStickerId": 2799,
-    "Image": "/assets/img/items/stickers/krakow2017/sunny.png"
-  },
-  {
-    "name": "suNny (Foil) | Krakow 2017",
-    "gen_id": 2338,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41899,
-    "BuffStickerId": 2796,
-    "Image": "/assets/img/items/stickers/krakow2017/sunny-foil.png"
-  },
-  {
-    "name": "suNny (Gold) | Krakow 2017",
-    "gen_id": 2339,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41900,
-    "BuffStickerId": 2797,
-    "Image": "/assets/img/items/stickers/krakow2017/sunny-gold.png"
-  },
-  {
-    "name": "Stewie2K | Krakow 2017",
-    "gen_id": 2325,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40853,
-    "BuffStickerId": 1753,
-    "Image": "/assets/img/items/stickers/krakow2017/stewie2k.png"
-  },
-  {
-    "name": "Stewie2K (Foil) | Krakow 2017",
-    "gen_id": 2326,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40848,
-    "BuffStickerId": 1748,
-    "Image": "/assets/img/items/stickers/krakow2017/stewie2k-foil.png"
-  },
-  {
-    "name": "Stewie2K (Gold) | Krakow 2017",
-    "gen_id": 2327,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40851,
-    "BuffStickerId": 1751,
-    "Image": "/assets/img/items/stickers/krakow2017/stewie2k-gold.png"
-  },
-  {
-    "name": "steel | Krakow 2017",
-    "gen_id": 2370,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41897,
-    "BuffStickerId": 2794,
-    "Image": "/assets/img/items/stickers/krakow2017/steel.png"
-  },
-  {
-    "name": "steel (Foil) | Krakow 2017",
-    "gen_id": 2371,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41893,
-    "BuffStickerId": 2790,
-    "Image": "/assets/img/items/stickers/krakow2017/steel-foil.png"
-  },
-  {
-    "name": "steel (Gold) | Krakow 2017",
-    "gen_id": 2372,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41894,
-    "BuffStickerId": 2791,
-    "Image": "/assets/img/items/stickers/krakow2017/steel-gold.png"
-  },
-  {
-    "name": "Snax | Krakow 2017",
-    "gen_id": 2172,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40817,
-    "BuffStickerId": 1717,
-    "Image": "/assets/img/items/stickers/krakow2017/snax.png"
-  },
-  {
-    "name": "Snax (Foil) | Krakow 2017",
-    "gen_id": 2173,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40808,
-    "BuffStickerId": 1708,
-    "Image": "/assets/img/items/stickers/krakow2017/snax-foil.png"
-  },
-  {
-    "name": "Snax (Gold) | Krakow 2017",
-    "gen_id": 2174,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40811,
-    "BuffStickerId": 1711,
-    "Image": "/assets/img/items/stickers/krakow2017/snax-gold.png"
-  },
-  {
-    "name": "Skadoodle | Krakow 2017",
-    "gen_id": 2322,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40788,
-    "BuffStickerId": 1688,
-    "Image": "/assets/img/items/stickers/krakow2017/skadoodle.png"
-  },
-  {
-    "name": "Skadoodle (Foil) | Krakow 2017",
-    "gen_id": 2323,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40781,
-    "BuffStickerId": 1681,
-    "Image": "/assets/img/items/stickers/krakow2017/skadoodle-foil.png"
-  },
-  {
-    "name": "Skadoodle (Gold) | Krakow 2017",
-    "gen_id": 2324,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40784,
-    "BuffStickerId": 1684,
-    "Image": "/assets/img/items/stickers/krakow2017/skadoodle-gold.png"
-  },
-  {
-    "name": "shroud | Krakow 2017",
-    "gen_id": 2319,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41877,
-    "BuffStickerId": 2774,
-    "Image": "/assets/img/items/stickers/krakow2017/shroud.png"
-  },
-  {
-    "name": "shroud (Foil) | Krakow 2017",
-    "gen_id": 2320,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41872,
-    "BuffStickerId": 2769,
-    "Image": "/assets/img/items/stickers/krakow2017/shroud-foil.png"
-  },
-  {
-    "name": "shroud (Gold) | Krakow 2017",
-    "gen_id": 2321,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41874,
-    "BuffStickerId": 2771,
-    "Image": "/assets/img/items/stickers/krakow2017/shroud-gold.png"
-  },
-  {
-    "name": "shox | Krakow 2017",
-    "gen_id": 2295,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41868,
-    "BuffStickerId": 2765,
-    "Image": "/assets/img/items/stickers/krakow2017/shox.png"
-  },
-  {
-    "name": "shox (Foil) | Krakow 2017",
-    "gen_id": 2296,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41859,
-    "BuffStickerId": 2756,
-    "Image": "/assets/img/items/stickers/krakow2017/shox-foil.png"
-  },
-  {
-    "name": "shox (Gold) | Krakow 2017",
-    "gen_id": 2297,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41862,
-    "BuffStickerId": 2759,
-    "Image": "/assets/img/items/stickers/krakow2017/shox-gold.png"
-  },
-  {
-    "name": "seized | Krakow 2017",
-    "gen_id": 2220,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41852,
-    "BuffStickerId": 2749,
-    "Image": "/assets/img/items/stickers/krakow2017/seized.png"
-  },
-  {
-    "name": "seized (Foil) | Krakow 2017",
-    "gen_id": 2221,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41843,
-    "BuffStickerId": 2740,
-    "Image": "/assets/img/items/stickers/krakow2017/seized-foil.png"
-  },
-  {
-    "name": "seized (Gold) | Krakow 2017",
-    "gen_id": 2222,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41846,
-    "BuffStickerId": 2743,
-    "Image": "/assets/img/items/stickers/krakow2017/seized-gold.png"
-  },
-  {
-    "name": "s1mple | Krakow 2017",
-    "gen_id": 2217,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41829,
-    "BuffStickerId": 2726,
-    "Image": "/assets/img/items/stickers/krakow2017/s1mple.png"
-  },
-  {
-    "name": "s1mple (Foil) | Krakow 2017",
-    "gen_id": 2218,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41822,
-    "BuffStickerId": 2719,
-    "Image": "/assets/img/items/stickers/krakow2017/s1mple-foil.png"
-  },
-  {
-    "name": "s1mple (Gold) | Krakow 2017",
-    "gen_id": 2219,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41825,
-    "BuffStickerId": 2722,
-    "Image": "/assets/img/items/stickers/krakow2017/s1mple-gold.png"
-  },
-  {
-    "name": "ropz | Krakow 2017",
-    "gen_id": 2280,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41818,
-    "BuffStickerId": 2715,
-    "Image": "/assets/img/items/stickers/krakow2017/ropz.png"
-  },
-  {
-    "name": "ropz (Foil) | Krakow 2017",
-    "gen_id": 2281,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41814,
-    "BuffStickerId": 2711,
-    "Image": "/assets/img/items/stickers/krakow2017/ropz-foil.png"
-  },
-  {
-    "name": "ropz (Gold) | Krakow 2017",
-    "gen_id": 2282,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41816,
-    "BuffStickerId": 2713,
-    "Image": "/assets/img/items/stickers/krakow2017/ropz-gold.png"
-  },
-  {
-    "name": "rain | Krakow 2017",
-    "gen_id": 2265,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41799,
-    "BuffStickerId": 2696,
-    "Image": "/assets/img/items/stickers/krakow2017/rain.png"
-  },
-  {
-    "name": "rain (Foil) | Krakow 2017",
-    "gen_id": 2266,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41790,
-    "BuffStickerId": 2687,
-    "Image": "/assets/img/items/stickers/krakow2017/rain-foil.png"
-  },
-  {
-    "name": "rain (Gold) | Krakow 2017",
-    "gen_id": 2267,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41793,
-    "BuffStickerId": 2690,
-    "Image": "/assets/img/items/stickers/krakow2017/rain-gold.png"
-  },
-  {
-    "name": "pashaBiceps | Krakow 2017",
-    "gen_id": 2169,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41761,
-    "BuffStickerId": 2658,
-    "Image": "/assets/img/items/stickers/krakow2017/pashabiceps.png"
-  },
-  {
-    "name": "pashaBiceps (Foil) | Krakow 2017",
-    "gen_id": 2170,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41752,
-    "BuffStickerId": 2649,
-    "Image": "/assets/img/items/stickers/krakow2017/pashabiceps-foil.png"
-  },
-  {
-    "name": "pashaBiceps (Gold) | Krakow 2017",
-    "gen_id": 2171,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41755,
-    "BuffStickerId": 2652,
-    "Image": "/assets/img/items/stickers/krakow2017/pashabiceps-gold.png"
-  },
-  {
-    "name": "oskar | Krakow 2017",
-    "gen_id": 2277,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41746,
-    "BuffStickerId": 2643,
-    "Image": "/assets/img/items/stickers/krakow2017/oskar.png"
-  },
-  {
-    "name": "oskar (Foil) | Krakow 2017",
-    "gen_id": 2278,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41742,
-    "BuffStickerId": 2639,
-    "Image": "/assets/img/items/stickers/krakow2017/oskar-foil.png"
-  },
-  {
-    "name": "oskar (Gold) | Krakow 2017",
-    "gen_id": 2279,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41744,
-    "BuffStickerId": 2641,
-    "Image": "/assets/img/items/stickers/krakow2017/oskar-gold.png"
-  },
-  {
-    "name": "olofmeister | Krakow 2017",
-    "gen_id": 2190,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41739,
-    "BuffStickerId": 2636,
-    "Image": "/assets/img/items/stickers/krakow2017/olofmeister.png"
-  },
-  {
-    "name": "olofmeister (Foil) | Krakow 2017",
-    "gen_id": 2191,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41730,
-    "BuffStickerId": 2627,
-    "Image": "/assets/img/items/stickers/krakow2017/olofmeister-foil.png"
-  },
-  {
-    "name": "olofmeister (Gold) | Krakow 2017",
-    "gen_id": 2192,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41733,
-    "BuffStickerId": 2630,
-    "Image": "/assets/img/items/stickers/krakow2017/olofmeister-gold.png"
-  },
-  {
-    "name": "NiKo | Krakow 2017",
-    "gen_id": 2262,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40605,
-    "BuffStickerId": 1506,
-    "Image": "/assets/img/items/stickers/krakow2017/niko.png"
-  },
-  {
-    "name": "NiKo (Foil) | Krakow 2017",
-    "gen_id": 2263,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40597,
-    "BuffStickerId": 1498,
-    "Image": "/assets/img/items/stickers/krakow2017/niko-foil.png"
-  },
-  {
-    "name": "NiKo (Gold) | Krakow 2017",
-    "gen_id": 2264,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40600,
-    "BuffStickerId": 1501,
-    "Image": "/assets/img/items/stickers/krakow2017/niko-gold.png"
-  },
-  {
-    "name": "nex | Krakow 2017",
-    "gen_id": 2307,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41710,
-    "BuffStickerId": 2607,
-    "Image": "/assets/img/items/stickers/krakow2017/nex.png"
-  },
-  {
-    "name": "nex (Foil) | Krakow 2017",
-    "gen_id": 2308,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41702,
-    "BuffStickerId": 2599,
-    "Image": "/assets/img/items/stickers/krakow2017/nex-foil.png"
-  },
-  {
-    "name": "nex (Gold) | Krakow 2017",
-    "gen_id": 2309,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41705,
-    "BuffStickerId": 2602,
-    "Image": "/assets/img/items/stickers/krakow2017/nex-gold.png"
-  },
-  {
-    "name": "NEO | Krakow 2017",
-    "gen_id": 2166,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40560,
-    "BuffStickerId": 1462,
-    "Image": "/assets/img/items/stickers/krakow2017/neo.png"
-  },
-  {
-    "name": "NEO (Foil) | Krakow 2017",
-    "gen_id": 2167,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40551,
-    "BuffStickerId": 1453,
-    "Image": "/assets/img/items/stickers/krakow2017/neo-foil.png"
-  },
-  {
-    "name": "NEO (Gold) | Krakow 2017",
-    "gen_id": 2168,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40554,
-    "BuffStickerId": 1456,
-    "Image": "/assets/img/items/stickers/krakow2017/neo-gold.png"
-  },
-  {
-    "name": "NBK- | Krakow 2017",
-    "gen_id": 2292,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40544,
-    "BuffStickerId": 1446,
-    "Image": "/assets/img/items/stickers/krakow2017/nbk.png"
-  },
-  {
-    "name": "NBK- (Foil) | Krakow 2017",
-    "gen_id": 2293,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40535,
-    "BuffStickerId": 1437,
-    "Image": "/assets/img/items/stickers/krakow2017/nbk-foil.png"
-  },
-  {
-    "name": "NBK- (Gold) | Krakow 2017",
-    "gen_id": 2294,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40538,
-    "BuffStickerId": 1440,
-    "Image": "/assets/img/items/stickers/krakow2017/nbk-gold.png"
-  },
-  {
-    "name": "n0thing | Krakow 2017",
-    "gen_id": 2316,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41696,
-    "BuffStickerId": 2593,
-    "Image": "/assets/img/items/stickers/krakow2017/n0thing.png"
-  },
-  {
-    "name": "n0thing (Foil) | Krakow 2017",
-    "gen_id": 2317,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41691,
-    "BuffStickerId": 2588,
-    "Image": "/assets/img/items/stickers/krakow2017/n0thing-foil.png"
-  },
-  {
-    "name": "n0thing (Gold) | Krakow 2017",
-    "gen_id": 2318,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41693,
-    "BuffStickerId": 2590,
-    "Image": "/assets/img/items/stickers/krakow2017/n0thing-gold.png"
-  },
-  {
-    "name": "MSL | Krakow 2017",
-    "gen_id": 2250,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40483,
-    "BuffStickerId": 1389,
-    "Image": "/assets/img/items/stickers/krakow2017/msl.png"
-  },
-  {
-    "name": "MSL (Foil) | Krakow 2017",
-    "gen_id": 2251,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40476,
-    "BuffStickerId": 1382,
-    "Image": "/assets/img/items/stickers/krakow2017/msl-foil.png"
-  },
-  {
-    "name": "MSL (Gold) | Krakow 2017",
-    "gen_id": 2252,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40478,
-    "BuffStickerId": 1384,
-    "Image": "/assets/img/items/stickers/krakow2017/msl-gold.png"
-  },
-  {
-    "name": "mou | Krakow 2017",
-    "gen_id": 2232,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41665,
-    "BuffStickerId": 2562,
-    "Image": "/assets/img/items/stickers/krakow2017/mou.png"
-  },
-  {
-    "name": "mou (Foil) | Krakow 2017",
-    "gen_id": 2233,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41658,
-    "BuffStickerId": 2555,
-    "Image": "/assets/img/items/stickers/krakow2017/mou-foil.png"
-  },
-  {
-    "name": "mou (Gold) | Krakow 2017",
-    "gen_id": 2234,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41661,
-    "BuffStickerId": 2558,
-    "Image": "/assets/img/items/stickers/krakow2017/mou-gold.png"
-  },
-  {
-    "name": "mir | Krakow 2017",
-    "gen_id": 2385,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41650,
-    "BuffStickerId": 2547,
-    "Image": "/assets/img/items/stickers/krakow2017/mir.png"
-  },
-  {
-    "name": "mir (Foil) | Krakow 2017",
-    "gen_id": 2386,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41646,
-    "BuffStickerId": 2543,
-    "Image": "/assets/img/items/stickers/krakow2017/mir-foil.png"
-  },
-  {
-    "name": "mir (Gold) | Krakow 2017",
-    "gen_id": 2387,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41648,
-    "BuffStickerId": 2545,
-    "Image": "/assets/img/items/stickers/krakow2017/mir-gold.png"
-  },
-  {
-    "name": "markeloff | Krakow 2017",
-    "gen_id": 2349,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41643,
-    "BuffStickerId": 2540,
-    "Image": "/assets/img/items/stickers/krakow2017/markeloff.png"
-  },
-  {
-    "name": "markeloff (Foil) | Krakow 2017",
-    "gen_id": 2350,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41634,
-    "BuffStickerId": 2531,
-    "Image": "/assets/img/items/stickers/krakow2017/markeloff-foil.png"
-  },
-  {
-    "name": "markeloff (Gold) | Krakow 2017",
-    "gen_id": 2351,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41637,
-    "BuffStickerId": 2534,
-    "Image": "/assets/img/items/stickers/krakow2017/markeloff-gold.png"
-  },
-  {
-    "name": "Magisk | Krakow 2017",
-    "gen_id": 2247,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40490,
-    "BuffStickerId": 1396,
-    "Image": "/assets/img/items/stickers/krakow2017/magisk.png"
-  },
-  {
-    "name": "Magisk (Foil) | Krakow 2017",
-    "gen_id": 2248,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40487,
-    "BuffStickerId": 1393,
-    "Image": "/assets/img/items/stickers/krakow2017/magisk-foil.png"
-  },
-  {
-    "name": "Magisk (Gold) | Krakow 2017",
-    "gen_id": 2249,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40488,
-    "BuffStickerId": 1394,
-    "Image": "/assets/img/items/stickers/krakow2017/magisk-gold.png"
-  },
-  {
-    "name": "LUCAS1 | Krakow 2017",
-    "gen_id": 2367,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40438,
-    "BuffStickerId": 1344,
-    "Image": "/assets/img/items/stickers/krakow2017/lucas1.png"
-  },
-  {
-    "name": "LUCAS1 (Foil) | Krakow 2017",
-    "gen_id": 2368,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40434,
-    "BuffStickerId": 1340,
-    "Image": "/assets/img/items/stickers/krakow2017/lucas1-foil.png"
-  },
-  {
-    "name": "LUCAS1 (Gold) | Krakow 2017",
-    "gen_id": 2369,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40436,
-    "BuffStickerId": 1342,
-    "Image": "/assets/img/items/stickers/krakow2017/lucas1-gold.png"
-  },
-  {
-    "name": "loWel | Krakow 2017",
-    "gen_id": 2274,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41628,
-    "BuffStickerId": 2525,
-    "Image": "/assets/img/items/stickers/krakow2017/lowel.png"
-  },
-  {
-    "name": "loWel (Foil) | Krakow 2017",
-    "gen_id": 2275,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41625,
-    "BuffStickerId": 2522,
-    "Image": "/assets/img/items/stickers/krakow2017/lowel-foil.png"
-  },
-  {
-    "name": "loWel (Gold) | Krakow 2017",
-    "gen_id": 2276,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41626,
-    "BuffStickerId": 2523,
-    "Image": "/assets/img/items/stickers/krakow2017/lowel-gold.png"
-  },
-  {
-    "name": "LEGIJA | Krakow 2017",
-    "gen_id": 2304,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40427,
-    "BuffStickerId": 1333,
-    "Image": "/assets/img/items/stickers/krakow2017/legija.png"
-  },
-  {
-    "name": "LEGIJA (Foil) | Krakow 2017",
-    "gen_id": 2305,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40423,
-    "BuffStickerId": 1329,
-    "Image": "/assets/img/items/stickers/krakow2017/legija-foil.png"
-  },
-  {
-    "name": "LEGIJA (Gold) | Krakow 2017",
-    "gen_id": 2306,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40425,
-    "BuffStickerId": 1331,
-    "Image": "/assets/img/items/stickers/krakow2017/legija-gold.png"
-  },
-  {
-    "name": "kRYSTAL | Krakow 2017",
-    "gen_id": 2334,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41566,
-    "BuffStickerId": 2463,
-    "Image": "/assets/img/items/stickers/krakow2017/krystal.png"
-  },
-  {
-    "name": "kRYSTAL (Foil) | Krakow 2017",
-    "gen_id": 2335,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41562,
-    "BuffStickerId": 2459,
-    "Image": "/assets/img/items/stickers/krakow2017/krystal-foil.png"
-  },
-  {
-    "name": "kRYSTAL (Gold) | Krakow 2017",
-    "gen_id": 2336,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41564,
-    "BuffStickerId": 2461,
-    "Image": "/assets/img/items/stickers/krakow2017/krystal-gold.png"
-  },
-  {
-    "name": "KRIMZ | Krakow 2017",
-    "gen_id": 2187,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40388,
-    "BuffStickerId": 1296,
-    "Image": "/assets/img/items/stickers/krakow2017/krimz.png"
-  },
-  {
-    "name": "KRIMZ (Foil) | Krakow 2017",
-    "gen_id": 2188,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40379,
-    "BuffStickerId": 1287,
-    "Image": "/assets/img/items/stickers/krakow2017/krimz-foil.png"
-  },
-  {
-    "name": "KRIMZ (Gold) | Krakow 2017",
-    "gen_id": 2189,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40382,
-    "BuffStickerId": 1290,
-    "Image": "/assets/img/items/stickers/krakow2017/krimz-gold.png"
-  },
-  {
-    "name": "kNgV- | Krakow 2017",
-    "gen_id": 2364,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41560,
-    "BuffStickerId": 2457,
-    "Image": "/assets/img/items/stickers/krakow2017/kngv.png"
-  },
-  {
-    "name": "kNgV- (Foil) | Krakow 2017",
-    "gen_id": 2365,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41556,
-    "BuffStickerId": 2453,
-    "Image": "/assets/img/items/stickers/krakow2017/kngv-foil.png"
-  },
-  {
-    "name": "kNgV- (Gold) | Krakow 2017",
-    "gen_id": 2366,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41558,
-    "BuffStickerId": 2455,
-    "Image": "/assets/img/items/stickers/krakow2017/kngv-gold.png"
-  },
-  {
-    "name": "Kjaerbye | Krakow 2017",
-    "gen_id": 2157,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40414,
-    "BuffStickerId": 1320,
-    "Image": "/assets/img/items/stickers/krakow2017/kjaerbye.png"
-  },
-  {
-    "name": "Kjaerbye (Foil) | Krakow 2017",
-    "gen_id": 2158,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40408,
-    "BuffStickerId": 1314,
-    "Image": "/assets/img/items/stickers/krakow2017/kjaerbye-foil.png"
-  },
-  {
-    "name": "Kjaerbye (Gold) | Krakow 2017",
-    "gen_id": 2159,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40410,
-    "BuffStickerId": 1316,
-    "Image": "/assets/img/items/stickers/krakow2017/kjaerbye-gold.png"
-  },
-  {
-    "name": "kioShiMa | Krakow 2017",
-    "gen_id": 2259,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41621,
-    "BuffStickerId": 2518,
-    "Image": "/assets/img/items/stickers/krakow2017/kioshima.png"
-  },
-  {
-    "name": "kioShiMa (Foil) | Krakow 2017",
-    "gen_id": 2260,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41615,
-    "BuffStickerId": 2512,
-    "Image": "/assets/img/items/stickers/krakow2017/kioshima-foil.png"
-  },
-  {
-    "name": "kioShiMa (Gold) | Krakow 2017",
-    "gen_id": 2261,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41616,
-    "BuffStickerId": 2513,
-    "Image": "/assets/img/items/stickers/krakow2017/kioshima-gold.png"
-  },
-  {
-    "name": "keshandr | Krakow 2017",
-    "gen_id": 2382,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41610,
-    "BuffStickerId": 2507,
-    "Image": "/assets/img/items/stickers/krakow2017/keshandr.png"
-  },
-  {
-    "name": "keshandr (Foil) | Krakow 2017",
-    "gen_id": 2383,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41606,
-    "BuffStickerId": 2503,
-    "Image": "/assets/img/items/stickers/krakow2017/keshandr-foil.png"
-  },
-  {
-    "name": "keshandr (Gold) | Krakow 2017",
-    "gen_id": 2384,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41608,
-    "BuffStickerId": 2505,
-    "Image": "/assets/img/items/stickers/krakow2017/keshandr-gold.png"
-  },
-  {
-    "name": "kennyS | Krakow 2017",
-    "gen_id": 2289,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41603,
-    "BuffStickerId": 2500,
-    "Image": "/assets/img/items/stickers/krakow2017/kennys.png"
-  },
-  {
-    "name": "kennyS (Foil) | Krakow 2017",
-    "gen_id": 2290,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41594,
-    "BuffStickerId": 2491,
-    "Image": "/assets/img/items/stickers/krakow2017/kennys-foil.png"
-  },
-  {
-    "name": "kennyS (Gold) | Krakow 2017",
-    "gen_id": 2291,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41597,
-    "BuffStickerId": 2494,
-    "Image": "/assets/img/items/stickers/krakow2017/kennys-gold.png"
-  },
-  {
-    "name": "keev | Krakow 2017",
-    "gen_id": 2301,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41588,
-    "BuffStickerId": 2485,
-    "Image": "/assets/img/items/stickers/krakow2017/keev.png"
-  },
-  {
-    "name": "keev (Foil) | Krakow 2017",
-    "gen_id": 2302,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41584,
-    "BuffStickerId": 2481,
-    "Image": "/assets/img/items/stickers/krakow2017/keev-foil.png"
-  },
-  {
-    "name": "keev (Gold) | Krakow 2017",
-    "gen_id": 2303,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41586,
-    "BuffStickerId": 2483,
-    "Image": "/assets/img/items/stickers/krakow2017/keev-gold.png"
-  },
-  {
-    "name": "karrigan | Krakow 2017",
-    "gen_id": 2256,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41581,
-    "BuffStickerId": 2478,
-    "Image": "/assets/img/items/stickers/krakow2017/karrigan.png"
-  },
-  {
-    "name": "karrigan (Foil) | Krakow 2017",
-    "gen_id": 2257,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41572,
-    "BuffStickerId": 2469,
-    "Image": "/assets/img/items/stickers/krakow2017/karrigan-foil.png"
-  },
-  {
-    "name": "karrigan (Gold) | Krakow 2017",
-    "gen_id": 2258,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41575,
-    "BuffStickerId": 2472,
-    "Image": "/assets/img/items/stickers/krakow2017/karrigan-gold.png"
-  },
-  {
-    "name": "k0nfig | Krakow 2017",
-    "gen_id": 2244,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41554,
-    "BuffStickerId": 2451,
-    "Image": "/assets/img/items/stickers/krakow2017/k0nfig.png"
-  },
-  {
-    "name": "k0nfig (Foil) | Krakow 2017",
-    "gen_id": 2245,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41548,
-    "BuffStickerId": 2445,
-    "Image": "/assets/img/items/stickers/krakow2017/k0nfig-foil.png"
-  },
-  {
-    "name": "k0nfig (Gold) | Krakow 2017",
-    "gen_id": 2246,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41550,
-    "BuffStickerId": 2447,
-    "Image": "/assets/img/items/stickers/krakow2017/k0nfig-gold.png"
-  },
-  {
-    "name": "JW | Krakow 2017",
-    "gen_id": 2184,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40362,
-    "BuffStickerId": 1270,
-    "Image": "/assets/img/items/stickers/krakow2017/jw.png"
-  },
-  {
-    "name": "JW (Foil) | Krakow 2017",
-    "gen_id": 2185,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40353,
-    "BuffStickerId": 1261,
-    "Image": "/assets/img/items/stickers/krakow2017/jw-foil.png"
-  },
-  {
-    "name": "JW (Gold) | Krakow 2017",
-    "gen_id": 2186,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40356,
-    "BuffStickerId": 1264,
-    "Image": "/assets/img/items/stickers/krakow2017/jw-gold.png"
-  },
-  {
-    "name": "jR | Krakow 2017",
-    "gen_id": 2379,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41515,
-    "BuffStickerId": 2412,
-    "Image": "/assets/img/items/stickers/krakow2017/jr.png"
-  },
-  {
-    "name": "jR (Foil) | Krakow 2017",
-    "gen_id": 2380,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41512,
-    "BuffStickerId": 2409,
-    "Image": "/assets/img/items/stickers/krakow2017/jr-foil.png"
-  },
-  {
-    "name": "jR (Gold) | Krakow 2017",
-    "gen_id": 2381,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41514,
-    "BuffStickerId": 2411,
-    "Image": "/assets/img/items/stickers/krakow2017/jr-gold.png"
-  },
-  {
-    "name": "innocent | Krakow 2017",
-    "gen_id": 2331,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41510,
-    "BuffStickerId": 2407,
-    "Image": "/assets/img/items/stickers/krakow2017/innocent.png"
-  },
-  {
-    "name": "innocent (Foil) | Krakow 2017",
-    "gen_id": 2332,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41506,
-    "BuffStickerId": 2403,
-    "Image": "/assets/img/items/stickers/krakow2017/innocent-foil.png"
-  },
-  {
-    "name": "innocent (Gold) | Krakow 2017",
-    "gen_id": 2333,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41508,
-    "BuffStickerId": 2405,
-    "Image": "/assets/img/items/stickers/krakow2017/innocent-gold.png"
-  },
-  {
-    "name": "hutji | Krakow 2017",
-    "gen_id": 2376,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41500,
-    "BuffStickerId": 2397,
-    "Image": "/assets/img/items/stickers/krakow2017/hutji.png"
-  },
-  {
-    "name": "hutji (Foil) | Krakow 2017",
-    "gen_id": 2377,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41496,
-    "BuffStickerId": 2393,
-    "Image": "/assets/img/items/stickers/krakow2017/hutji-foil.png"
-  },
-  {
-    "name": "hutji (Gold) | Krakow 2017",
-    "gen_id": 2378,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41498,
-    "BuffStickerId": 2395,
-    "Image": "/assets/img/items/stickers/krakow2017/hutji-gold.png"
-  },
-  {
-    "name": "HS | Krakow 2017",
-    "gen_id": 2328,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40276,
-    "BuffStickerId": 1187,
-    "Image": "/assets/img/items/stickers/krakow2017/hs.png"
-  },
-  {
-    "name": "HS (Foil) | Krakow 2017",
-    "gen_id": 2329,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40274,
-    "BuffStickerId": 1185,
-    "Image": "/assets/img/items/stickers/krakow2017/hs-foil.png"
-  },
-  {
-    "name": "HS (Gold) | Krakow 2017",
-    "gen_id": 2330,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40275,
-    "BuffStickerId": 1186,
-    "Image": "/assets/img/items/stickers/krakow2017/hs-gold.png"
-  },
-  {
-    "name": "Hobbit | Krakow 2017",
-    "gen_id": 2229,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40332,
-    "BuffStickerId": 1241,
-    "Image": "/assets/img/items/stickers/krakow2017/hobbit.png"
-  },
-  {
-    "name": "Hobbit (Foil) | Krakow 2017",
-    "gen_id": 2230,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40327,
-    "BuffStickerId": 1236,
-    "Image": "/assets/img/items/stickers/krakow2017/hobbit-foil.png"
-  },
-  {
-    "name": "Hobbit (Gold) | Krakow 2017",
-    "gen_id": 2231,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40329,
-    "BuffStickerId": 1238,
-    "Image": "/assets/img/items/stickers/krakow2017/hobbit-gold.png"
-  },
-  {
-    "name": "HEN1 | Krakow 2017",
-    "gen_id": 2361,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40273,
-    "BuffStickerId": 1184,
-    "Image": "/assets/img/items/stickers/krakow2017/hen1.png"
-  },
-  {
-    "name": "HEN1 (Foil) | Krakow 2017",
-    "gen_id": 2362,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40269,
-    "BuffStickerId": 1180,
-    "Image": "/assets/img/items/stickers/krakow2017/hen1-foil.png"
-  },
-  {
-    "name": "HEN1 (Gold) | Krakow 2017",
-    "gen_id": 2363,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40271,
-    "BuffStickerId": 1182,
-    "Image": "/assets/img/items/stickers/krakow2017/hen1-gold.png"
-  },
-  {
-    "name": "GuardiaN | Krakow 2017",
-    "gen_id": 2214,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40264,
-    "BuffStickerId": 1175,
-    "Image": "/assets/img/items/stickers/krakow2017/guardian.png"
-  },
-  {
-    "name": "GuardiaN (Foil) | Krakow 2017",
-    "gen_id": 2215,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40255,
-    "BuffStickerId": 1166,
-    "Image": "/assets/img/items/stickers/krakow2017/guardian-foil.png"
-  },
-  {
-    "name": "GuardiaN (Gold) | Krakow 2017",
-    "gen_id": 2216,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40258,
-    "BuffStickerId": 1169,
-    "Image": "/assets/img/items/stickers/krakow2017/guardian-gold.png"
-  },
-  {
-    "name": "gob b | Krakow 2017",
-    "gen_id": 2298,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41482,
-    "BuffStickerId": 2379,
-    "Image": "/assets/img/items/stickers/krakow2017/gobb.png"
-  },
-  {
-    "name": "gob b (Foil) | Krakow 2017",
-    "gen_id": 2299,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41476,
-    "BuffStickerId": 2373,
-    "Image": "/assets/img/items/stickers/krakow2017/gobb-foil.png"
-  },
-  {
-    "name": "gob b (Gold) | Krakow 2017",
-    "gen_id": 2300,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41478,
-    "BuffStickerId": 2375,
-    "Image": "/assets/img/items/stickers/krakow2017/gobb-gold.png"
-  },
-  {
-    "name": "gla1ve | Krakow 2017",
-    "gen_id": 2154,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41472,
-    "BuffStickerId": 2369,
-    "Image": "/assets/img/items/stickers/krakow2017/gla1ve.png"
-  },
-  {
-    "name": "gla1ve (Foil) | Krakow 2017",
-    "gen_id": 2155,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41466,
-    "BuffStickerId": 2363,
-    "Image": "/assets/img/items/stickers/krakow2017/gla1ve-foil.png"
-  },
-  {
-    "name": "gla1ve (Gold) | Krakow 2017",
-    "gen_id": 2156,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41468,
-    "BuffStickerId": 2365,
-    "Image": "/assets/img/items/stickers/krakow2017/gla1ve-gold.png"
-  },
-  {
-    "name": "flusha | Krakow 2017",
-    "gen_id": 2181,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41430,
-    "BuffStickerId": 2327,
-    "Image": "/assets/img/items/stickers/krakow2017/flusha.png"
-  },
-  {
-    "name": "flusha (Foil) | Krakow 2017",
-    "gen_id": 2182,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41421,
-    "BuffStickerId": 2318,
-    "Image": "/assets/img/items/stickers/krakow2017/flusha-foil.png"
-  },
-  {
-    "name": "flusha (Gold) | Krakow 2017",
-    "gen_id": 2183,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41424,
-    "BuffStickerId": 2321,
-    "Image": "/assets/img/items/stickers/krakow2017/flusha-gold.png"
-  },
-  {
-    "name": "flamie | Krakow 2017",
-    "gen_id": 2211,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41414,
-    "BuffStickerId": 2311,
-    "Image": "/assets/img/items/stickers/krakow2017/flamie.png"
-  },
-  {
-    "name": "flamie (Foil) | Krakow 2017",
-    "gen_id": 2212,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41405,
-    "BuffStickerId": 2302,
-    "Image": "/assets/img/items/stickers/krakow2017/flamie-foil.png"
-  },
-  {
-    "name": "flamie (Gold) | Krakow 2017",
-    "gen_id": 2213,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41408,
-    "BuffStickerId": 2305,
-    "Image": "/assets/img/items/stickers/krakow2017/flamie-gold.png"
-  },
-  {
-    "name": "fer | Krakow 2017",
-    "gen_id": 2202,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41395,
-    "BuffStickerId": 2292,
-    "Image": "/assets/img/items/stickers/krakow2017/fer.png"
-  },
-  {
-    "name": "fer (Foil) | Krakow 2017",
-    "gen_id": 2203,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41386,
-    "BuffStickerId": 2283,
-    "Image": "/assets/img/items/stickers/krakow2017/fer-foil.png"
-  },
-  {
-    "name": "fer (Gold) | Krakow 2017",
-    "gen_id": 2204,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41389,
-    "BuffStickerId": 2286,
-    "Image": "/assets/img/items/stickers/krakow2017/fer-gold.png"
-  },
-  {
-    "name": "felps | Krakow 2017",
-    "gen_id": 2199,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41380,
-    "BuffStickerId": 2277,
-    "Image": "/assets/img/items/stickers/krakow2017/felps.png"
-  },
-  {
-    "name": "felps (Foil) | Krakow 2017",
-    "gen_id": 2200,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41377,
-    "BuffStickerId": 2274,
-    "Image": "/assets/img/items/stickers/krakow2017/felps-foil.png"
-  },
-  {
-    "name": "felps (Gold) | Krakow 2017",
-    "gen_id": 2201,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41378,
-    "BuffStickerId": 2275,
-    "Image": "/assets/img/items/stickers/krakow2017/felps-gold.png"
-  },
-  {
-    "name": "FalleN | Krakow 2017",
-    "gen_id": 2196,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40126,
-    "BuffStickerId": 1037,
-    "Image": "/assets/img/items/stickers/krakow2017/fallen.png"
-  },
-  {
-    "name": "FalleN (Foil) | Krakow 2017",
-    "gen_id": 2197,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40117,
-    "BuffStickerId": 1028,
-    "Image": "/assets/img/items/stickers/krakow2017/fallen-foil.png"
-  },
-  {
-    "name": "FalleN (Gold) | Krakow 2017",
-    "gen_id": 2198,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40120,
-    "BuffStickerId": 1031,
-    "Image": "/assets/img/items/stickers/krakow2017/fallen-gold.png"
-  },
-  {
-    "name": "electronic | Krakow 2017",
-    "gen_id": 2346,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41365,
-    "BuffStickerId": 2262,
-    "Image": "/assets/img/items/stickers/krakow2017/electronic.png"
-  },
-  {
-    "name": "electronic (Foil) | Krakow 2017",
-    "gen_id": 2347,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41360,
-    "BuffStickerId": 2257,
-    "Image": "/assets/img/items/stickers/krakow2017/electronic-foil.png"
-  },
-  {
-    "name": "electronic (Gold) | Krakow 2017",
-    "gen_id": 2348,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41362,
-    "BuffStickerId": 2259,
-    "Image": "/assets/img/items/stickers/krakow2017/electronic-gold.png"
-  },
-  {
-    "name": "Edward | Krakow 2017",
-    "gen_id": 2208,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40073,
-    "BuffStickerId": 984,
-    "Image": "/assets/img/items/stickers/krakow2017/edward.png"
-  },
-  {
-    "name": "Edward (Foil) | Krakow 2017",
-    "gen_id": 2209,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40064,
-    "BuffStickerId": 975,
-    "Image": "/assets/img/items/stickers/krakow2017/edward-foil.png"
-  },
-  {
-    "name": "Edward (Gold) | Krakow 2017",
-    "gen_id": 2210,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40067,
-    "BuffStickerId": 978,
-    "Image": "/assets/img/items/stickers/krakow2017/edward-gold.png"
-  },
-  {
-    "name": "dupreeh | Krakow 2017",
-    "gen_id": 2151,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41356,
-    "BuffStickerId": 2253,
-    "Image": "/assets/img/items/stickers/krakow2017/dupreeh.png"
-  },
-  {
-    "name": "dupreeh (Foil) | Krakow 2017",
-    "gen_id": 2152,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41347,
-    "BuffStickerId": 2244,
-    "Image": "/assets/img/items/stickers/krakow2017/dupreeh-foil.png"
-  },
-  {
-    "name": "dupreeh (Gold) | Krakow 2017",
-    "gen_id": 2153,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41350,
-    "BuffStickerId": 2247,
-    "Image": "/assets/img/items/stickers/krakow2017/dupreeh-gold.png"
-  },
-  {
-    "name": "Dosia | Krakow 2017",
-    "gen_id": 2226,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 40030,
-    "BuffStickerId": 941,
-    "Image": "/assets/img/items/stickers/krakow2017/dosia.png"
-  },
-  {
-    "name": "Dosia (Foil) | Krakow 2017",
-    "gen_id": 2227,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 40023,
-    "BuffStickerId": 934,
-    "Image": "/assets/img/items/stickers/krakow2017/dosia-foil.png"
-  },
-  {
-    "name": "Dosia (Gold) | Krakow 2017",
-    "gen_id": 2228,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 40026,
-    "BuffStickerId": 937,
-    "Image": "/assets/img/items/stickers/krakow2017/dosia-gold.png"
-  },
-  {
-    "name": "device | Krakow 2017",
-    "gen_id": 2148,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41332,
-    "BuffStickerId": 2229,
-    "Image": "/assets/img/items/stickers/krakow2017/device.png"
-  },
-  {
-    "name": "device (Foil) | Krakow 2017",
-    "gen_id": 2149,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41323,
-    "BuffStickerId": 2220,
-    "Image": "/assets/img/items/stickers/krakow2017/device-foil.png"
-  },
-  {
-    "name": "device (Gold) | Krakow 2017",
-    "gen_id": 2150,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41326,
-    "BuffStickerId": 2223,
-    "Image": "/assets/img/items/stickers/krakow2017/device-gold.png"
-  },
-  {
-    "name": "dennis | Krakow 2017",
-    "gen_id": 2178,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41316,
-    "BuffStickerId": 2213,
-    "Image": "/assets/img/items/stickers/krakow2017/dennis.png"
-  },
-  {
-    "name": "dennis (Foil) | Krakow 2017",
-    "gen_id": 2179,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41309,
-    "BuffStickerId": 2206,
-    "Image": "/assets/img/items/stickers/krakow2017/dennis-foil.png"
-  },
-  {
-    "name": "dennis (Gold) | Krakow 2017",
-    "gen_id": 2180,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41311,
-    "BuffStickerId": 2208,
-    "Image": "/assets/img/items/stickers/krakow2017/dennis-gold.png"
-  },
-  {
-    "name": "denis | Krakow 2017",
-    "gen_id": 2271,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41303,
-    "BuffStickerId": 2200,
-    "Image": "/assets/img/items/stickers/krakow2017/denis.png"
-  },
-  {
-    "name": "denis (Foil) | Krakow 2017",
-    "gen_id": 2272,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41294,
-    "BuffStickerId": 2191,
-    "Image": "/assets/img/items/stickers/krakow2017/denis-foil.png"
-  },
-  {
-    "name": "denis (Gold) | Krakow 2017",
-    "gen_id": 2273,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41297,
-    "BuffStickerId": 2194,
-    "Image": "/assets/img/items/stickers/krakow2017/denis-gold.png"
-  },
-  {
-    "name": "coldzera | Krakow 2017",
-    "gen_id": 2193,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41281,
-    "BuffStickerId": 2178,
-    "Image": "/assets/img/items/stickers/krakow2017/coldzera.png"
-  },
-  {
-    "name": "coldzera (Foil) | Krakow 2017",
-    "gen_id": 2194,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41272,
-    "BuffStickerId": 2169,
-    "Image": "/assets/img/items/stickers/krakow2017/coldzera-foil.png"
-  },
-  {
-    "name": "coldzera (Gold) | Krakow 2017",
-    "gen_id": 2195,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41275,
-    "BuffStickerId": 2172,
-    "Image": "/assets/img/items/stickers/krakow2017/coldzera-gold.png"
-  },
-  {
-    "name": "chrisJ | Krakow 2017",
-    "gen_id": 2268,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41265,
-    "BuffStickerId": 2162,
-    "Image": "/assets/img/items/stickers/krakow2017/chrisj.png"
-  },
-  {
-    "name": "chrisJ (Foil) | Krakow 2017",
-    "gen_id": 2269,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41257,
-    "BuffStickerId": 2154,
-    "Image": "/assets/img/items/stickers/krakow2017/chrisj-foil.png"
-  },
-  {
-    "name": "chrisJ (Gold) | Krakow 2017",
-    "gen_id": 2270,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41260,
-    "BuffStickerId": 2157,
-    "Image": "/assets/img/items/stickers/krakow2017/chrisj-gold.png"
-  },
-  {
-    "name": "chopper | Krakow 2017",
-    "gen_id": 2373,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41251,
-    "BuffStickerId": 2148,
-    "Image": "/assets/img/items/stickers/krakow2017/chopper.png"
-  },
-  {
-    "name": "chopper (Foil) | Krakow 2017",
-    "gen_id": 2374,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41247,
-    "BuffStickerId": 2144,
-    "Image": "/assets/img/items/stickers/krakow2017/chopper-foil.png"
-  },
-  {
-    "name": "chopper (Gold) | Krakow 2017",
-    "gen_id": 2375,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41249,
-    "BuffStickerId": 2146,
-    "Image": "/assets/img/items/stickers/krakow2017/chopper-gold.png"
-  },
-  {
-    "name": "cajunb | Krakow 2017",
-    "gen_id": 2241,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41241,
-    "BuffStickerId": 2138,
-    "Image": "/assets/img/items/stickers/krakow2017/cajunb.png"
-  },
-  {
-    "name": "cajunb (Foil) | Krakow 2017",
-    "gen_id": 2242,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41233,
-    "BuffStickerId": 2130,
-    "Image": "/assets/img/items/stickers/krakow2017/cajunb-foil.png"
-  },
-  {
-    "name": "cajunb (Gold) | Krakow 2017",
-    "gen_id": 2243,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41236,
-    "BuffStickerId": 2133,
-    "Image": "/assets/img/items/stickers/krakow2017/cajunb-gold.png"
-  },
-  {
-    "name": "byali | Krakow 2017",
-    "gen_id": 2163,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41226,
-    "BuffStickerId": 2123,
-    "Image": "/assets/img/items/stickers/krakow2017/byali.png"
-  },
-  {
-    "name": "byali (Foil) | Krakow 2017",
-    "gen_id": 2164,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41217,
-    "BuffStickerId": 2114,
-    "Image": "/assets/img/items/stickers/krakow2017/byali-foil.png"
-  },
-  {
-    "name": "byali (Gold) | Krakow 2017",
-    "gen_id": 2165,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41220,
-    "BuffStickerId": 2117,
-    "Image": "/assets/img/items/stickers/krakow2017/byali-gold.png"
-  },
-  {
-    "name": "boltz | Krakow 2017",
-    "gen_id": 2358,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41197,
-    "BuffStickerId": 2094,
-    "Image": "/assets/img/items/stickers/krakow2017/boltz.png"
-  },
-  {
-    "name": "boltz (Foil) | Krakow 2017",
-    "gen_id": 2359,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41193,
-    "BuffStickerId": 2090,
-    "Image": "/assets/img/items/stickers/krakow2017/boltz-foil.png"
-  },
-  {
-    "name": "boltz (Gold) | Krakow 2017",
-    "gen_id": 2360,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41194,
-    "BuffStickerId": 2091,
-    "Image": "/assets/img/items/stickers/krakow2017/boltz-gold.png"
-  },
-  {
-    "name": "bodyy | Krakow 2017",
-    "gen_id": 2286,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41190,
-    "BuffStickerId": 2087,
-    "Image": "/assets/img/items/stickers/krakow2017/bodyy.png"
-  },
-  {
-    "name": "bodyy (Foil) | Krakow 2017",
-    "gen_id": 2287,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41184,
-    "BuffStickerId": 2081,
-    "Image": "/assets/img/items/stickers/krakow2017/bodyy-foil.png"
-  },
-  {
-    "name": "bodyy (Gold) | Krakow 2017",
-    "gen_id": 2288,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41186,
-    "BuffStickerId": 2083,
-    "Image": "/assets/img/items/stickers/krakow2017/bodyy-gold.png"
-  },
-  {
-    "name": "B1ad3 | Krakow 2017",
-    "gen_id": 2343,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 39892,
-    "BuffStickerId": 811,
-    "Image": "/assets/img/items/stickers/krakow2017/b1ad3.png"
-  },
-  {
-    "name": "B1ad3 (Foil) | Krakow 2017",
-    "gen_id": 2344,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 39883,
-    "BuffStickerId": 802,
-    "Image": "/assets/img/items/stickers/krakow2017/b1ad3-foil.png"
-  },
-  {
-    "name": "B1ad3 (Gold) | Krakow 2017",
-    "gen_id": 2345,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 39886,
-    "BuffStickerId": 805,
-    "Image": "/assets/img/items/stickers/krakow2017/b1ad3-gold.png"
-  },
-  {
-    "name": "autimatic | Krakow 2017",
-    "gen_id": 2313,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41177,
-    "BuffStickerId": 2074,
-    "Image": "/assets/img/items/stickers/krakow2017/autimatic.png"
-  },
-  {
-    "name": "autimatic (Foil) | Krakow 2017",
-    "gen_id": 2314,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41173,
-    "BuffStickerId": 2070,
-    "Image": "/assets/img/items/stickers/krakow2017/autimatic-foil.png"
-  },
-  {
-    "name": "autimatic (Gold) | Krakow 2017",
-    "gen_id": 2315,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41175,
-    "BuffStickerId": 2072,
-    "Image": "/assets/img/items/stickers/krakow2017/autimatic-gold.png"
-  },
-  {
-    "name": "apEX | Krakow 2017",
-    "gen_id": 2283,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41168,
-    "BuffStickerId": 2065,
-    "Image": "/assets/img/items/stickers/krakow2017/apex.png"
-  },
-  {
-    "name": "apEX (Foil) | Krakow 2017",
-    "gen_id": 2284,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41159,
-    "BuffStickerId": 2056,
-    "Image": "/assets/img/items/stickers/krakow2017/apex-foil.png"
-  },
-  {
-    "name": "apEX (Gold) | Krakow 2017",
-    "gen_id": 2285,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41162,
-    "BuffStickerId": 2059,
-    "Image": "/assets/img/items/stickers/krakow2017/apex-gold.png"
-  },
-  {
-    "name": "allu | Krakow 2017",
-    "gen_id": 2253,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41153,
-    "BuffStickerId": 2050,
-    "Image": "/assets/img/items/stickers/krakow2017/allu.png"
-  },
-  {
-    "name": "allu (Foil) | Krakow 2017",
-    "gen_id": 2254,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41148,
-    "BuffStickerId": 2045,
-    "Image": "/assets/img/items/stickers/krakow2017/allu-foil.png"
-  },
-  {
-    "name": "allu (Gold) | Krakow 2017",
-    "gen_id": 2255,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41149,
-    "BuffStickerId": 2046,
-    "Image": "/assets/img/items/stickers/krakow2017/allu-gold.png"
-  },
-  {
-    "name": "aizy | Krakow 2017",
-    "gen_id": 2238,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 41143,
-    "BuffStickerId": 2040,
-    "Image": "/assets/img/items/stickers/krakow2017/aizy.png"
-  },
-  {
-    "name": "aizy (Foil) | Krakow 2017",
-    "gen_id": 2239,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 41135,
-    "BuffStickerId": 2032,
-    "Image": "/assets/img/items/stickers/krakow2017/aizy-foil.png"
-  },
-  {
-    "name": "aizy (Gold) | Krakow 2017",
-    "gen_id": 2240,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 41138,
-    "BuffStickerId": 2035,
-    "Image": "/assets/img/items/stickers/krakow2017/aizy-gold.png"
-  },
-  {
-    "name": "AdreN | Krakow 2017",
-    "gen_id": 2223,
-    "tournament": "Krakow 2017",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 39852,
-    "BuffStickerId": 771,
-    "Image": "/assets/img/items/stickers/krakow2017/adren.png"
-  },
-  {
-    "name": "AdreN (Foil) | Krakow 2017",
-    "gen_id": 2224,
-    "tournament": "Krakow 2017",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 39846,
-    "BuffStickerId": 765,
-    "Image": "/assets/img/items/stickers/krakow2017/adren-foil.png"
-  },
-  {
-    "name": "AdreN (Gold) | Krakow 2017",
-    "gen_id": 2225,
-    "tournament": "Krakow 2017",
-    "rarity": "Extraordinary",
-    "BuffGoodsId": 39848,
-    "BuffStickerId": 767,
-    "Image": "/assets/img/items/stickers/krakow2017/adren-gold.png"
+    "Name": "Astralis | Krakow 2017",
+    "StickerId": 2063,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/astr_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Astralis (Holo) | Krakow 2017",
+    "StickerId": 2064,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/astr_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Astralis (Foil) | Krakow 2017",
+    "StickerId": 2065,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/astr_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Astralis (Gold) | Krakow 2017",
+    "StickerId": 2066,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/astr_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Virtus.Pro | Krakow 2017",
+    "StickerId": 2067,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/vp_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Virtus.Pro (Holo) | Krakow 2017",
+    "StickerId": 2068,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/vp_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Virtus.Pro (Foil) | Krakow 2017",
+    "StickerId": 2069,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/vp_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Virtus.Pro (Gold) | Krakow 2017",
+    "StickerId": 2070,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/vp_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Fnatic | Krakow 2017",
+    "StickerId": 2071,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/fntc_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Fnatic (Holo) | Krakow 2017",
+    "StickerId": 2072,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/fntc_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Fnatic (Foil) | Krakow 2017",
+    "StickerId": 2073,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/fntc_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Fnatic (Gold) | Krakow 2017",
+    "StickerId": 2074,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/fntc_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "SK Gaming | Krakow 2017",
+    "StickerId": 2075,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sk_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "SK Gaming (Holo) | Krakow 2017",
+    "StickerId": 2076,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sk_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "SK Gaming (Foil) | Krakow 2017",
+    "StickerId": 2077,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/sk_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "SK Gaming (Gold) | Krakow 2017",
+    "StickerId": 2078,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/sk_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Natus Vincere | Krakow 2017",
+    "StickerId": 2079,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/navi_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Natus Vincere (Holo) | Krakow 2017",
+    "StickerId": 2080,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/navi_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Natus Vincere (Foil) | Krakow 2017",
+    "StickerId": 2081,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/navi_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Natus Vincere (Gold) | Krakow 2017",
+    "StickerId": 2082,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/navi_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Gambit | Krakow 2017",
+    "StickerId": 2083,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/gamb_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Gambit (Holo) | Krakow 2017",
+    "StickerId": 2084,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/gamb_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Gambit (Foil) | Krakow 2017",
+    "StickerId": 2085,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/gamb_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Gambit (Gold) | Krakow 2017",
+    "StickerId": 2086,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/gamb_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "North | Krakow 2017",
+    "StickerId": 2087,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/nor_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "North (Holo) | Krakow 2017",
+    "StickerId": 2088,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/nor_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "North (Foil) | Krakow 2017",
+    "StickerId": 2089,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/nor_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "North (Gold) | Krakow 2017",
+    "StickerId": 2090,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/nor_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FaZe Clan | Krakow 2017",
+    "StickerId": 2091,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/faze_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FaZe Clan (Holo) | Krakow 2017",
+    "StickerId": 2092,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/faze_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FaZe Clan (Foil) | Krakow 2017",
+    "StickerId": 2093,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/faze_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FaZe Clan (Gold) | Krakow 2017",
+    "StickerId": 2094,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/faze_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mousesports | Krakow 2017",
+    "StickerId": 2095,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/mss_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mousesports (Holo) | Krakow 2017",
+    "StickerId": 2096,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/mss_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mousesports (Foil) | Krakow 2017",
+    "StickerId": 2097,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/mss_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mousesports (Gold) | Krakow 2017",
+    "StickerId": 2098,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/mss_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "G2 Esports | Krakow 2017",
+    "StickerId": 2099,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/g2_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "G2 Esports (Holo) | Krakow 2017",
+    "StickerId": 2100,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/g2_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "G2 Esports (Foil) | Krakow 2017",
+    "StickerId": 2101,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/g2_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "G2 Esports (Gold) | Krakow 2017",
+    "StickerId": 2102,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/g2_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "BIG | Krakow 2017",
+    "StickerId": 2103,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/big_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "BIG (Holo) | Krakow 2017",
+    "StickerId": 2104,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/big_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "BIG (Foil) | Krakow 2017",
+    "StickerId": 2105,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/big_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "BIG (Gold) | Krakow 2017",
+    "StickerId": 2106,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/big_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Cloud9 | Krakow 2017",
+    "StickerId": 2107,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/c9_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Cloud9 (Holo) | Krakow 2017",
+    "StickerId": 2108,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/c9_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Cloud9 (Foil) | Krakow 2017",
+    "StickerId": 2109,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/c9_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Cloud9 (Gold) | Krakow 2017",
+    "StickerId": 2110,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/c9_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PENTA Sports | Krakow 2017",
+    "StickerId": 2111,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/penta_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PENTA Sports (Holo) | Krakow 2017",
+    "StickerId": 2112,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/penta_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PENTA Sports (Foil) | Krakow 2017",
+    "StickerId": 2113,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/penta_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PENTA Sports (Gold) | Krakow 2017",
+    "StickerId": 2114,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/penta_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Flipsid3 Tactics | Krakow 2017",
+    "StickerId": 2115,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/flip_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Flipsid3 Tactics (Holo) | Krakow 2017",
+    "StickerId": 2116,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/flip_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Flipsid3 Tactics (Foil) | Krakow 2017",
+    "StickerId": 2117,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/flip_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Flipsid3 Tactics (Gold) | Krakow 2017",
+    "StickerId": 2118,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/flip_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Immortals | Krakow 2017",
+    "StickerId": 2119,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/imt_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Immortals (Holo) | Krakow 2017",
+    "StickerId": 2120,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/imt_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Immortals (Foil) | Krakow 2017",
+    "StickerId": 2121,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/imt_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Immortals (Gold) | Krakow 2017",
+    "StickerId": 2122,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/imt_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Vega Squadron | Krakow 2017",
+    "StickerId": 2123,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/vega_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Vega Squadron (Holo) | Krakow 2017",
+    "StickerId": 2124,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/vega_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Vega Squadron (Foil) | Krakow 2017",
+    "StickerId": 2125,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/vega_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Vega Squadron (Gold) | Krakow 2017",
+    "StickerId": 2126,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/vega_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PGL | Krakow 2017",
+    "StickerId": 2127,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/pgl_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PGL (Holo) | Krakow 2017",
+    "StickerId": 2128,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/pgl_holo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PGL (Foil) | Krakow 2017",
+    "StickerId": 2129,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/pgl_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "PGL (Gold) | Krakow 2017",
+    "StickerId": 2130,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/krakow2017/pgl_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "device | Krakow 2017",
+    "StickerId": 2148,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_device_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "device (Foil) | Krakow 2017",
+    "StickerId": 2149,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_device_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "device (Gold) | Krakow 2017",
+    "StickerId": 2150,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_device_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "dupreeh | Krakow 2017",
+    "StickerId": 2151,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dupreeh_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "dupreeh (Foil) | Krakow 2017",
+    "StickerId": 2152,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dupreeh_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "dupreeh (Gold) | Krakow 2017",
+    "StickerId": 2153,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dupreeh_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "gla1ve | Krakow 2017",
+    "StickerId": 2154,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_gla1ve_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "gla1ve (Foil) | Krakow 2017",
+    "StickerId": 2155,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_gla1ve_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "gla1ve (Gold) | Krakow 2017",
+    "StickerId": 2156,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_gla1ve_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Kjaerbye | Krakow 2017",
+    "StickerId": 2157,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kjaerbye_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Kjaerbye (Foil) | Krakow 2017",
+    "StickerId": 2158,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kjaerbye_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Kjaerbye (Gold) | Krakow 2017",
+    "StickerId": 2159,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kjaerbye_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Xyp9x | Krakow 2017",
+    "StickerId": 2160,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_xyp9x_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Xyp9x (Foil) | Krakow 2017",
+    "StickerId": 2161,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_xyp9x_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Xyp9x (Gold) | Krakow 2017",
+    "StickerId": 2162,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_xyp9x_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "byali | Krakow 2017",
+    "StickerId": 2163,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_byali_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "byali (Foil) | Krakow 2017",
+    "StickerId": 2164,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_byali_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "byali (Gold) | Krakow 2017",
+    "StickerId": 2165,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_byali_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NEO | Krakow 2017",
+    "StickerId": 2166,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_neo_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NEO (Foil) | Krakow 2017",
+    "StickerId": 2167,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_neo_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NEO (Gold) | Krakow 2017",
+    "StickerId": 2168,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_neo_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "pashaBiceps | Krakow 2017",
+    "StickerId": 2169,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_pasha_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "pashaBiceps (Foil) | Krakow 2017",
+    "StickerId": 2170,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_pasha_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "pashaBiceps (Gold) | Krakow 2017",
+    "StickerId": 2171,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_pasha_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Snax | Krakow 2017",
+    "StickerId": 2172,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_snax_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Snax (Foil) | Krakow 2017",
+    "StickerId": 2173,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_snax_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Snax (Gold) | Krakow 2017",
+    "StickerId": 2174,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_snax_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "TaZ | Krakow 2017",
+    "StickerId": 2175,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_taz_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "TaZ (Foil) | Krakow 2017",
+    "StickerId": 2176,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_taz_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "TaZ (Gold) | Krakow 2017",
+    "StickerId": 2177,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_taz_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "dennis | Krakow 2017",
+    "StickerId": 2178,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dennis_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "dennis (Foil) | Krakow 2017",
+    "StickerId": 2179,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dennis_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "dennis (Gold) | Krakow 2017",
+    "StickerId": 2180,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dennis_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "flusha | Krakow 2017",
+    "StickerId": 2181,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_flusha_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "flusha (Foil) | Krakow 2017",
+    "StickerId": 2182,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_flusha_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "flusha (Gold) | Krakow 2017",
+    "StickerId": 2183,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_flusha_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "JW | Krakow 2017",
+    "StickerId": 2184,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_jw_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "JW (Foil) | Krakow 2017",
+    "StickerId": 2185,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_jw_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "JW (Gold) | Krakow 2017",
+    "StickerId": 2186,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_jw_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "KRIMZ | Krakow 2017",
+    "StickerId": 2187,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_krimz_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "KRIMZ (Foil) | Krakow 2017",
+    "StickerId": 2188,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_krimz_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "KRIMZ (Gold) | Krakow 2017",
+    "StickerId": 2189,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_krimz_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "olofmeister | Krakow 2017",
+    "StickerId": 2190,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_olofmeister_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "olofmeister (Foil) | Krakow 2017",
+    "StickerId": 2191,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_olofmeister_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "olofmeister (Gold) | Krakow 2017",
+    "StickerId": 2192,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_olofmeister_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "coldzera | Krakow 2017",
+    "StickerId": 2193,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_coldzera_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "coldzera (Foil) | Krakow 2017",
+    "StickerId": 2194,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_coldzera_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "coldzera (Gold) | Krakow 2017",
+    "StickerId": 2195,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_coldzera_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FalleN | Krakow 2017",
+    "StickerId": 2196,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_fallen_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FalleN (Foil) | Krakow 2017",
+    "StickerId": 2197,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_fallen_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "FalleN (Gold) | Krakow 2017",
+    "StickerId": 2198,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_fallen_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "felps | Krakow 2017",
+    "StickerId": 2199,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_felps_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "felps (Foil) | Krakow 2017",
+    "StickerId": 2200,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_felps_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "felps (Gold) | Krakow 2017",
+    "StickerId": 2201,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_felps_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "fer | Krakow 2017",
+    "StickerId": 2202,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_fer_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "fer (Foil) | Krakow 2017",
+    "StickerId": 2203,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_fer_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "fer (Gold) | Krakow 2017",
+    "StickerId": 2204,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_fer_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "TACO | Krakow 2017",
+    "StickerId": 2205,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_taco_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "TACO (Foil) | Krakow 2017",
+    "StickerId": 2206,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_taco_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "TACO (Gold) | Krakow 2017",
+    "StickerId": 2207,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_taco_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Edward | Krakow 2017",
+    "StickerId": 2208,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_edward_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Edward (Foil) | Krakow 2017",
+    "StickerId": 2209,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_edward_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Edward (Gold) | Krakow 2017",
+    "StickerId": 2210,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_edward_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "flamie | Krakow 2017",
+    "StickerId": 2211,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_flamie_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "flamie (Foil) | Krakow 2017",
+    "StickerId": 2212,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_flamie_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "flamie (Gold) | Krakow 2017",
+    "StickerId": 2213,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_flamie_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "GuardiaN | Krakow 2017",
+    "StickerId": 2214,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_guardian_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "GuardiaN (Foil) | Krakow 2017",
+    "StickerId": 2215,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_guardian_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "GuardiaN (Gold) | Krakow 2017",
+    "StickerId": 2216,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_guardian_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "s1mple | Krakow 2017",
+    "StickerId": 2217,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_s1mple_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "s1mple (Foil) | Krakow 2017",
+    "StickerId": 2218,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_s1mple_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "s1mple (Gold) | Krakow 2017",
+    "StickerId": 2219,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_s1mple_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "seized | Krakow 2017",
+    "StickerId": 2220,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_seized_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "seized (Foil) | Krakow 2017",
+    "StickerId": 2221,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_seized_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "seized (Gold) | Krakow 2017",
+    "StickerId": 2222,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_seized_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "AdreN | Krakow 2017",
+    "StickerId": 2223,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_adrenkz_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "AdreN (Foil) | Krakow 2017",
+    "StickerId": 2224,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_adrenkz_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "AdreN (Gold) | Krakow 2017",
+    "StickerId": 2225,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_adrenkz_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Dosia | Krakow 2017",
+    "StickerId": 2226,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dosia_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Dosia (Foil) | Krakow 2017",
+    "StickerId": 2227,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dosia_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Dosia (Gold) | Krakow 2017",
+    "StickerId": 2228,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_dosia_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Hobbit | Krakow 2017",
+    "StickerId": 2229,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hobbit_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Hobbit (Foil) | Krakow 2017",
+    "StickerId": 2230,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hobbit_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Hobbit (Gold) | Krakow 2017",
+    "StickerId": 2231,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hobbit_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mou | Krakow 2017",
+    "StickerId": 2232,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_mou_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mou (Foil) | Krakow 2017",
+    "StickerId": 2233,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_mou_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mou (Gold) | Krakow 2017",
+    "StickerId": 2234,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_mou_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Zeus | Krakow 2017",
+    "StickerId": 2235,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_zeus_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Zeus (Foil) | Krakow 2017",
+    "StickerId": 2236,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_zeus_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Zeus (Gold) | Krakow 2017",
+    "StickerId": 2237,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_zeus_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "aizy | Krakow 2017",
+    "StickerId": 2238,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_aizy_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "aizy (Foil) | Krakow 2017",
+    "StickerId": 2239,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_aizy_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "aizy (Gold) | Krakow 2017",
+    "StickerId": 2240,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_aizy_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "cajunb | Krakow 2017",
+    "StickerId": 2241,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_cajunb_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "cajunb (Foil) | Krakow 2017",
+    "StickerId": 2242,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_cajunb_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "cajunb (Gold) | Krakow 2017",
+    "StickerId": 2243,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_cajunb_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "k0nfig | Krakow 2017",
+    "StickerId": 2244,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_k0nfig_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "k0nfig (Foil) | Krakow 2017",
+    "StickerId": 2245,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_k0nfig_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "k0nfig (Gold) | Krakow 2017",
+    "StickerId": 2246,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_k0nfig_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Magisk | Krakow 2017",
+    "StickerId": 2247,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_magisk_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Magisk (Foil) | Krakow 2017",
+    "StickerId": 2248,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_magisk_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Magisk (Gold) | Krakow 2017",
+    "StickerId": 2249,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_magisk_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "MSL | Krakow 2017",
+    "StickerId": 2250,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_msl_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "MSL (Foil) | Krakow 2017",
+    "StickerId": 2251,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_msl_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "MSL (Gold) | Krakow 2017",
+    "StickerId": 2252,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_msl_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "allu | Krakow 2017",
+    "StickerId": 2253,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_allu_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "allu (Foil) | Krakow 2017",
+    "StickerId": 2254,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_allu_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "allu (Gold) | Krakow 2017",
+    "StickerId": 2255,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_allu_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "karrigan | Krakow 2017",
+    "StickerId": 2256,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_karrigan_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "karrigan (Foil) | Krakow 2017",
+    "StickerId": 2257,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_karrigan_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "karrigan (Gold) | Krakow 2017",
+    "StickerId": 2258,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_karrigan_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kioShiMa | Krakow 2017",
+    "StickerId": 2259,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kioshima_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kioShiMa (Foil) | Krakow 2017",
+    "StickerId": 2260,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kioshima_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kioShiMa (Gold) | Krakow 2017",
+    "StickerId": 2261,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kioshima_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NiKo | Krakow 2017",
+    "StickerId": 2262,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_niko_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NiKo (Foil) | Krakow 2017",
+    "StickerId": 2263,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_niko_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NiKo (Gold) | Krakow 2017",
+    "StickerId": 2264,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_niko_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "rain | Krakow 2017",
+    "StickerId": 2265,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_rain_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "rain (Foil) | Krakow 2017",
+    "StickerId": 2266,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_rain_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "rain (Gold) | Krakow 2017",
+    "StickerId": 2267,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_rain_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "chrisJ | Krakow 2017",
+    "StickerId": 2268,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_chrisj_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "chrisJ (Foil) | Krakow 2017",
+    "StickerId": 2269,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_chrisj_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "chrisJ (Gold) | Krakow 2017",
+    "StickerId": 2270,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_chrisj_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "denis | Krakow 2017",
+    "StickerId": 2271,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_denis_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "denis (Foil) | Krakow 2017",
+    "StickerId": 2272,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_denis_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "denis (Gold) | Krakow 2017",
+    "StickerId": 2273,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_denis_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "loWel | Krakow 2017",
+    "StickerId": 2274,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_lowel_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "loWel (Foil) | Krakow 2017",
+    "StickerId": 2275,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_lowel_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "loWel (Gold) | Krakow 2017",
+    "StickerId": 2276,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_lowel_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "oskar | Krakow 2017",
+    "StickerId": 2277,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_oskar_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "oskar (Foil) | Krakow 2017",
+    "StickerId": 2278,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_oskar_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "oskar (Gold) | Krakow 2017",
+    "StickerId": 2279,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_oskar_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "ropz | Krakow 2017",
+    "StickerId": 2280,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_ropz_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "ropz (Foil) | Krakow 2017",
+    "StickerId": 2281,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_ropz_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "ropz (Gold) | Krakow 2017",
+    "StickerId": 2282,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_ropz_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "apEX | Krakow 2017",
+    "StickerId": 2283,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_apex_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "apEX (Foil) | Krakow 2017",
+    "StickerId": 2284,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_apex_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "apEX (Gold) | Krakow 2017",
+    "StickerId": 2285,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_apex_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "bodyy | Krakow 2017",
+    "StickerId": 2286,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_bodyy_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "bodyy (Foil) | Krakow 2017",
+    "StickerId": 2287,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_bodyy_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "bodyy (Gold) | Krakow 2017",
+    "StickerId": 2288,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_bodyy_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kennyS | Krakow 2017",
+    "StickerId": 2289,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kennys_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kennyS (Foil) | Krakow 2017",
+    "StickerId": 2290,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kennys_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kennyS (Gold) | Krakow 2017",
+    "StickerId": 2291,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kennys_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NBK- | Krakow 2017",
+    "StickerId": 2292,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nbk_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NBK- (Foil) | Krakow 2017",
+    "StickerId": 2293,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nbk_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "NBK- (Gold) | Krakow 2017",
+    "StickerId": 2294,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nbk_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "shox | Krakow 2017",
+    "StickerId": 2295,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_shox_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "shox (Foil) | Krakow 2017",
+    "StickerId": 2296,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_shox_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "shox (Gold) | Krakow 2017",
+    "StickerId": 2297,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_shox_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "gob b | Krakow 2017",
+    "StickerId": 2298,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_gobb_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "gob b (Foil) | Krakow 2017",
+    "StickerId": 2299,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_gobb_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "gob b (Gold) | Krakow 2017",
+    "StickerId": 2300,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_gobb_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "keev | Krakow 2017",
+    "StickerId": 2301,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_keev_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "keev (Foil) | Krakow 2017",
+    "StickerId": 2302,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_keev_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "keev (Gold) | Krakow 2017",
+    "StickerId": 2303,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_keev_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "LEGIJA | Krakow 2017",
+    "StickerId": 2304,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_legija_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "LEGIJA (Foil) | Krakow 2017",
+    "StickerId": 2305,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_legija_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "LEGIJA (Gold) | Krakow 2017",
+    "StickerId": 2306,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_legija_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "nex | Krakow 2017",
+    "StickerId": 2307,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nex_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "nex (Foil) | Krakow 2017",
+    "StickerId": 2308,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nex_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "nex (Gold) | Krakow 2017",
+    "StickerId": 2309,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nex_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "tabseN | Krakow 2017",
+    "StickerId": 2310,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_tabsen_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "tabseN (Foil) | Krakow 2017",
+    "StickerId": 2311,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_tabsen_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "tabseN (Gold) | Krakow 2017",
+    "StickerId": 2312,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_tabsen_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "autimatic | Krakow 2017",
+    "StickerId": 2313,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_autimatic_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "autimatic (Foil) | Krakow 2017",
+    "StickerId": 2314,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_autimatic_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "autimatic (Gold) | Krakow 2017",
+    "StickerId": 2315,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_autimatic_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "n0thing | Krakow 2017",
+    "StickerId": 2316,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nothing_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "n0thing (Foil) | Krakow 2017",
+    "StickerId": 2317,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nothing_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "n0thing (Gold) | Krakow 2017",
+    "StickerId": 2318,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_nothing_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "shroud | Krakow 2017",
+    "StickerId": 2319,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_shroud_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "shroud (Foil) | Krakow 2017",
+    "StickerId": 2320,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_shroud_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "shroud (Gold) | Krakow 2017",
+    "StickerId": 2321,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_shroud_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Skadoodle | Krakow 2017",
+    "StickerId": 2322,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_skadoodle_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Skadoodle (Foil) | Krakow 2017",
+    "StickerId": 2323,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_skadoodle_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Skadoodle (Gold) | Krakow 2017",
+    "StickerId": 2324,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_skadoodle_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Stewie2K | Krakow 2017",
+    "StickerId": 2325,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_stewie2k_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Stewie2K (Foil) | Krakow 2017",
+    "StickerId": 2326,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_stewie2k_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "Stewie2K (Gold) | Krakow 2017",
+    "StickerId": 2327,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_stewie2k_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "HS | Krakow 2017",
+    "StickerId": 2328,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hs_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "HS (Foil) | Krakow 2017",
+    "StickerId": 2329,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hs_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "HS (Gold) | Krakow 2017",
+    "StickerId": 2330,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hs_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "innocent | Krakow 2017",
+    "StickerId": 2331,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_innocent_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "innocent (Foil) | Krakow 2017",
+    "StickerId": 2332,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_innocent_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "innocent (Gold) | Krakow 2017",
+    "StickerId": 2333,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_innocent_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kRYSTAL | Krakow 2017",
+    "StickerId": 2334,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_krystal_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kRYSTAL (Foil) | Krakow 2017",
+    "StickerId": 2335,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_krystal_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kRYSTAL (Gold) | Krakow 2017",
+    "StickerId": 2336,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_krystal_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "suNny | Krakow 2017",
+    "StickerId": 2337,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_sunny_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "suNny (Foil) | Krakow 2017",
+    "StickerId": 2338,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_sunny_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "suNny (Gold) | Krakow 2017",
+    "StickerId": 2339,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_sunny_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "zehN | Krakow 2017",
+    "StickerId": 2340,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_zehn_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "zehN (Foil) | Krakow 2017",
+    "StickerId": 2341,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_zehn_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "zehN (Gold) | Krakow 2017",
+    "StickerId": 2342,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_zehn_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "B1ad3 | Krakow 2017",
+    "StickerId": 2343,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_b1ad3_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "B1ad3 (Foil) | Krakow 2017",
+    "StickerId": 2344,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_b1ad3_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "B1ad3 (Gold) | Krakow 2017",
+    "StickerId": 2345,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_b1ad3_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "electronic | Krakow 2017",
+    "StickerId": 2346,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_electronic_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "electronic (Foil) | Krakow 2017",
+    "StickerId": 2347,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_electronic_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "electronic (Gold) | Krakow 2017",
+    "StickerId": 2348,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_electronic_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "markeloff | Krakow 2017",
+    "StickerId": 2349,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_markeloff_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "markeloff (Foil) | Krakow 2017",
+    "StickerId": 2350,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_markeloff_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "markeloff (Gold) | Krakow 2017",
+    "StickerId": 2351,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_markeloff_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "wayLander | Krakow 2017",
+    "StickerId": 2352,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_waylander_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "wayLander (Foil) | Krakow 2017",
+    "StickerId": 2353,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_waylander_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "wayLander (Gold) | Krakow 2017",
+    "StickerId": 2354,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_waylander_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "WorldEdit | Krakow 2017",
+    "StickerId": 2355,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_worldedit_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "WorldEdit (Foil) | Krakow 2017",
+    "StickerId": 2356,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_worldedit_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "WorldEdit (Gold) | Krakow 2017",
+    "StickerId": 2357,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_worldedit_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "boltz | Krakow 2017",
+    "StickerId": 2358,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_boltz_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "boltz (Foil) | Krakow 2017",
+    "StickerId": 2359,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_boltz_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "boltz (Gold) | Krakow 2017",
+    "StickerId": 2360,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_boltz_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "HEN1 | Krakow 2017",
+    "StickerId": 2361,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hen1_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "HEN1 (Foil) | Krakow 2017",
+    "StickerId": 2362,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hen1_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "HEN1 (Gold) | Krakow 2017",
+    "StickerId": 2363,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hen1_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kNgV- | Krakow 2017",
+    "StickerId": 2364,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kngv_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kNgV- (Foil) | Krakow 2017",
+    "StickerId": 2365,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kngv_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "kNgV- (Gold) | Krakow 2017",
+    "StickerId": 2366,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_kngv_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "LUCAS1 | Krakow 2017",
+    "StickerId": 2367,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_lucas1_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "LUCAS1 (Foil) | Krakow 2017",
+    "StickerId": 2368,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_lucas1_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "LUCAS1 (Gold) | Krakow 2017",
+    "StickerId": 2369,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_lucas1_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "steel | Krakow 2017",
+    "StickerId": 2370,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_steel_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "steel (Foil) | Krakow 2017",
+    "StickerId": 2371,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_steel_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "steel (Gold) | Krakow 2017",
+    "StickerId": 2372,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_steel_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "chopper | Krakow 2017",
+    "StickerId": 2373,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_chopper_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "chopper (Foil) | Krakow 2017",
+    "StickerId": 2374,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_chopper_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "chopper (Gold) | Krakow 2017",
+    "StickerId": 2375,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_chopper_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "hutji | Krakow 2017",
+    "StickerId": 2376,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hutji_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "hutji (Foil) | Krakow 2017",
+    "StickerId": 2377,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hutji_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "hutji (Gold) | Krakow 2017",
+    "StickerId": 2378,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_hutji_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "jR | Krakow 2017",
+    "StickerId": 2379,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_jr_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "jR (Foil) | Krakow 2017",
+    "StickerId": 2380,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_jr_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "jR (Gold) | Krakow 2017",
+    "StickerId": 2381,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_jr_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "keshandr | Krakow 2017",
+    "StickerId": 2382,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_keshandr_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "keshandr (Foil) | Krakow 2017",
+    "StickerId": 2383,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_keshandr_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "keshandr (Gold) | Krakow 2017",
+    "StickerId": 2384,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_keshandr_gold_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mir | Krakow 2017",
+    "StickerId": 2385,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_mir_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mir (Foil) | Krakow 2017",
+    "StickerId": 2386,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_mir_foil_png.png",
+    "Collection": "krakow2017"
+  },
+  {
+    "Name": "mir (Gold) | Krakow 2017",
+    "StickerId": 2387,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/krakow2017/sig_mir_gold_png.png",
+    "Collection": "krakow2017"
   }
 ]

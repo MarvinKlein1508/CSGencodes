@@ -1,0 +1,2774 @@
+[
+  {
+    "name": "Astralis | Cologne 2016",
+    "gen_id": 1365,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39868,
+    "BuffStickerId": 787,
+    "Image": "/assets/img/items/stickers/cologne2016/astralis.png"
+  },
+  {
+    "name": "Astralis (Holo) | Cologne 2016",
+    "gen_id": 1366,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39863,
+    "BuffStickerId": 782,
+    "Image": "/assets/img/items/stickers/cologne2016/astralis-holo.png"
+  },
+  {
+    "name": "Astralis (Foil) | Cologne 2016",
+    "gen_id": 1367,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39858,
+    "BuffStickerId": 777,
+    "Image": "/assets/img/items/stickers/cologne2016/astralis-foil.png"
+  },
+  {
+    "name": "Astralis (Gold) | Cologne 2016",
+    "gen_id": 1368,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/astralis-gold.png"
+  },
+  {
+    "name": "Counter Logic Gaming | Cologne 2016",
+    "gen_id": 1325,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39988,
+    "BuffStickerId": 903,
+    "Image": "/assets/img/items/stickers/cologne2016/counterlogicgaming.png"
+  },
+  {
+    "name": "Counter Logic Gaming (Holo) | Cologne 2016",
+    "gen_id": 1326,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39983,
+    "BuffStickerId": 898,
+    "Image": "/assets/img/items/stickers/cologne2016/counterlogicgaming-holo.png"
+  },
+  {
+    "name": "Counter Logic Gaming (Foil) | Cologne 2016",
+    "gen_id": 1327,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 39980,
+    "BuffStickerId": 895,
+    "Image": "/assets/img/items/stickers/cologne2016/counterlogicgaming-foil.png"
+  },
+  {
+    "name": "Counter Logic Gaming (Gold) | Cologne 2016",
+    "gen_id": 1328,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/counterlogicgaming-gold.png"
+  },
+  {
+    "name": "FaZe Clan | Cologne 2016",
+    "gen_id": 1361,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40109,
+    "BuffStickerId": 1020,
+    "Image": "/assets/img/items/stickers/cologne2016/fazeclan.png"
+  },
+  {
+    "name": "FaZe Clan (Holo) | Cologne 2016",
+    "gen_id": 1362,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40104,
+    "BuffStickerId": 1015,
+    "Image": "/assets/img/items/stickers/cologne2016/fazeclan-holo.png"
+  },
+  {
+    "name": "FaZe Clan (Foil) | Cologne 2016",
+    "gen_id": 1363,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40099,
+    "BuffStickerId": 1010,
+    "Image": "/assets/img/items/stickers/cologne2016/fazeclan-foil.png"
+  },
+  {
+    "name": "FaZe Clan (Gold) | Cologne 2016",
+    "gen_id": 1364,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/fazeclan-gold.png"
+  },
+  {
+    "name": "Flipsid3 Tactics | Cologne 2016",
+    "gen_id": 1333,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40156,
+    "BuffStickerId": 1067,
+    "Image": "/assets/img/items/stickers/cologne2016/flipsid3tactics.png"
+  },
+  {
+    "name": "Flipsid3 Tactics (Holo) | Cologne 2016",
+    "gen_id": 1334,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40148,
+    "BuffStickerId": 1059,
+    "Image": "/assets/img/items/stickers/cologne2016/flipsid3tactics-holo.png"
+  },
+  {
+    "name": "Flipsid3 Tactics (Foil) | Cologne 2016",
+    "gen_id": 1335,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40143,
+    "BuffStickerId": 1054,
+    "Image": "/assets/img/items/stickers/cologne2016/flipsid3tactics-foil.png"
+  },
+  {
+    "name": "Flipsid3 Tactics (Gold) | Cologne 2016",
+    "gen_id": 1336,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/flipsid3tactics-gold.png"
+  },
+  {
+    "name": "Fnatic | Cologne 2016",
+    "gen_id": 1373,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40184,
+    "BuffStickerId": 1095,
+    "Image": "/assets/img/items/stickers/cologne2016/fnatic.png"
+  },
+  {
+    "name": "Fnatic (Holo) | Cologne 2016",
+    "gen_id": 1374,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40173,
+    "BuffStickerId": 1084,
+    "Image": "/assets/img/items/stickers/cologne2016/fnatic-holo.png"
+  },
+  {
+    "name": "Fnatic (Foil) | Cologne 2016",
+    "gen_id": 1375,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40165,
+    "BuffStickerId": 1076,
+    "Image": "/assets/img/items/stickers/cologne2016/fnatic-foil.png"
+  },
+  {
+    "name": "Fnatic (Gold) | Cologne 2016",
+    "gen_id": 1376,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/fnatic-gold.png"
+  },
+  {
+    "name": "G2 Esports | Cologne 2016",
+    "gen_id": 1357,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40212,
+    "BuffStickerId": 1123,
+    "Image": "/assets/img/items/stickers/cologne2016/g2esports.png"
+  },
+  {
+    "name": "G2 Esports (Holo) | Cologne 2016",
+    "gen_id": 1358,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40206,
+    "BuffStickerId": 1117,
+    "Image": "/assets/img/items/stickers/cologne2016/g2esports-holo.png"
+  },
+  {
+    "name": "G2 Esports (Foil) | Cologne 2016",
+    "gen_id": 1359,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40201,
+    "BuffStickerId": 1112,
+    "Image": "/assets/img/items/stickers/cologne2016/g2esports-foil.png"
+  },
+  {
+    "name": "G2 Esports (Gold) | Cologne 2016",
+    "gen_id": 1360,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/g2esports-gold.png"
+  },
+  {
+    "name": "Gambit Gaming | Cologne 2016",
+    "gen_id": 1329,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40229,
+    "BuffStickerId": 1140,
+    "Image": "/assets/img/items/stickers/cologne2016/gambitgaming.png"
+  },
+  {
+    "name": "Gambit Gaming (Holo) | Cologne 2016",
+    "gen_id": 1330,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40226,
+    "BuffStickerId": 1137,
+    "Image": "/assets/img/items/stickers/cologne2016/gambitgaming-holo.png"
+  },
+  {
+    "name": "Gambit Gaming (Foil) | Cologne 2016",
+    "gen_id": 1331,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40223,
+    "BuffStickerId": 1134,
+    "Image": "/assets/img/items/stickers/cologne2016/gambitgaming-foil.png"
+  },
+  {
+    "name": "Gambit Gaming (Gold) | Cologne 2016",
+    "gen_id": 1332,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/gambitgaming-gold.png"
+  },
+  {
+    "name": "mousesports | Cologne 2016",
+    "gen_id": 1341,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41684,
+    "BuffStickerId": 2581,
+    "Image": "/assets/img/items/stickers/cologne2016/mousesports.png"
+  },
+  {
+    "name": "mousesports (Holo) | Cologne 2016",
+    "gen_id": 1342,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41676,
+    "BuffStickerId": 2573,
+    "Image": "/assets/img/items/stickers/cologne2016/mousesports-holo.png"
+  },
+  {
+    "name": "mousesports (Foil) | Cologne 2016",
+    "gen_id": 1343,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 41671,
+    "BuffStickerId": 2568,
+    "Image": "/assets/img/items/stickers/cologne2016/mousesports-foil.png"
+  },
+  {
+    "name": "mousesports (Gold) | Cologne 2016",
+    "gen_id": 1344,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/mousesports-gold.png"
+  },
+  {
+    "name": "Natus Vincere | Cologne 2016",
+    "gen_id": 1345,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40584,
+    "BuffStickerId": 1485,
+    "Image": "/assets/img/items/stickers/cologne2016/natusvincere.png"
+  },
+  {
+    "name": "Natus Vincere (Holo) | Cologne 2016",
+    "gen_id": 1346,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40573,
+    "BuffStickerId": 1475,
+    "Image": "/assets/img/items/stickers/cologne2016/natusvincere-holo.png"
+  },
+  {
+    "name": "Natus Vincere (Foil) | Cologne 2016",
+    "gen_id": 1347,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40566,
+    "BuffStickerId": 1468,
+    "Image": "/assets/img/items/stickers/cologne2016/natusvincere-foil.png"
+  },
+  {
+    "name": "Natus Vincere (Gold) | Cologne 2016",
+    "gen_id": 1348,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/natusvincere-gold.png"
+  },
+  {
+    "name": "Ninjas in Pyjamas | Cologne 2016",
+    "gen_id": 1317,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40628,
+    "BuffStickerId": 1529,
+    "Image": "/assets/img/items/stickers/cologne2016/ninjasinpyjamas.png"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Holo) | Cologne 2016",
+    "gen_id": 1318,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40620,
+    "BuffStickerId": 1521,
+    "Image": "/assets/img/items/stickers/cologne2016/ninjasinpyjamas-holo.png"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Foil) | Cologne 2016",
+    "gen_id": 1319,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40615,
+    "BuffStickerId": 1516,
+    "Image": "/assets/img/items/stickers/cologne2016/ninjasinpyjamas-foil.png"
+  },
+  {
+    "name": "Ninjas in Pyjamas (Gold) | Cologne 2016",
+    "gen_id": 1320,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/ninjasinpyjamas-gold.png"
+  },
+  {
+    "name": "OpTic Gaming | Cologne 2016",
+    "gen_id": 1321,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40647,
+    "BuffStickerId": 1548,
+    "Image": "/assets/img/items/stickers/cologne2016/opticgaming.png"
+  },
+  {
+    "name": "OpTic Gaming (Holo) | Cologne 2016",
+    "gen_id": 1322,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40645,
+    "BuffStickerId": 1546,
+    "Image": "/assets/img/items/stickers/cologne2016/opticgaming-holo.png"
+  },
+  {
+    "name": "OpTic Gaming (Foil) | Cologne 2016",
+    "gen_id": 1323,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40643,
+    "BuffStickerId": 1544,
+    "Image": "/assets/img/items/stickers/cologne2016/opticgaming-foil.png"
+  },
+  {
+    "name": "OpTic Gaming (Gold) | Cologne 2016",
+    "gen_id": 1324,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/opticgaming-gold.png"
+  },
+  {
+    "name": "SK Gaming | Cologne 2016",
+    "gen_id": 1353,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40736,
+    "BuffStickerId": 1637,
+    "Image": "/assets/img/items/stickers/cologne2016/skgaming.png"
+  },
+  {
+    "name": "SK Gaming (Holo) | Cologne 2016",
+    "gen_id": 1354,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40732,
+    "BuffStickerId": 1633,
+    "Image": "/assets/img/items/stickers/cologne2016/skgaming-holo.png"
+  },
+  {
+    "name": "SK Gaming (Foil) | Cologne 2016",
+    "gen_id": 1355,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40728,
+    "BuffStickerId": 1629,
+    "Image": "/assets/img/items/stickers/cologne2016/skgaming-foil.png"
+  },
+  {
+    "name": "SK Gaming (Gold) | Cologne 2016",
+    "gen_id": 1356,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/skgaming-gold.png"
+  },
+  {
+    "name": "Team Dignitas | Cologne 2016",
+    "gen_id": 1377,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40907,
+    "BuffStickerId": 1805,
+    "Image": "/assets/img/items/stickers/cologne2016/teamdignitas.png"
+  },
+  {
+    "name": "Team Dignitas (Holo) | Cologne 2016",
+    "gen_id": 1378,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40902,
+    "BuffStickerId": 1801,
+    "Image": "/assets/img/items/stickers/cologne2016/teamdignitas-holo.png"
+  },
+  {
+    "name": "Team Dignitas (Foil) | Cologne 2016",
+    "gen_id": 1379,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40899,
+    "BuffStickerId": 1798,
+    "Image": "/assets/img/items/stickers/cologne2016/teamdignitas-foil.png"
+  },
+  {
+    "name": "Team Dignitas (Gold) | Cologne 2016",
+    "gen_id": 1380,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/teamdignitas-gold.png"
+  },
+  {
+    "name": "Team EnVyUs | Cologne 2016",
+    "gen_id": 1369,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40925,
+    "BuffStickerId": 1823,
+    "Image": "/assets/img/items/stickers/cologne2016/teamenvyus.png"
+  },
+  {
+    "name": "Team EnVyUs (Holo) | Cologne 2016",
+    "gen_id": 1370,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40918,
+    "BuffStickerId": 1816,
+    "Image": "/assets/img/items/stickers/cologne2016/teamenvyus-holo.png"
+  },
+  {
+    "name": "Team EnVyUs (Foil) | Cologne 2016",
+    "gen_id": 1371,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40913,
+    "BuffStickerId": 1811,
+    "Image": "/assets/img/items/stickers/cologne2016/teamenvyus-foil.png"
+  },
+  {
+    "name": "Team EnVyUs (Gold) | Cologne 2016",
+    "gen_id": 1372,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/teamenvyus-gold.png"
+  },
+  {
+    "name": "Team Liquid | Cologne 2016",
+    "gen_id": 1337,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40949,
+    "BuffStickerId": 1847,
+    "Image": "/assets/img/items/stickers/cologne2016/teamliquid.png"
+  },
+  {
+    "name": "Team Liquid (Holo) | Cologne 2016",
+    "gen_id": 1338,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40944,
+    "BuffStickerId": 1842,
+    "Image": "/assets/img/items/stickers/cologne2016/teamliquid-holo.png"
+  },
+  {
+    "name": "Team Liquid (Foil) | Cologne 2016",
+    "gen_id": 1339,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40940,
+    "BuffStickerId": 1838,
+    "Image": "/assets/img/items/stickers/cologne2016/teamliquid-foil.png"
+  },
+  {
+    "name": "Team Liquid (Gold) | Cologne 2016",
+    "gen_id": 1340,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/teamliquid-gold.png"
+  },
+  {
+    "name": "Virtus.Pro | Cologne 2016",
+    "gen_id": 1349,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41038,
+    "BuffStickerId": 1935,
+    "Image": "/assets/img/items/stickers/cologne2016/virtuspro.png"
+  },
+  {
+    "name": "Virtus.Pro (Holo) | Cologne 2016",
+    "gen_id": 1350,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41028,
+    "BuffStickerId": 1925,
+    "Image": "/assets/img/items/stickers/cologne2016/virtuspro-holo.png"
+  },
+  {
+    "name": "Virtus.Pro (Foil) | Cologne 2016",
+    "gen_id": 1351,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41021,
+    "BuffStickerId": 1918,
+    "Image": "/assets/img/items/stickers/cologne2016/virtuspro-foil.png"
+  },
+  {
+    "name": "Virtus.Pro (Gold) | Cologne 2016",
+    "gen_id": 1352,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/virtuspro-gold.png"
+  },
+  {
+    "name": "AdreN | Cologne 2016",
+    "gen_id": 1608,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39851,
+    "BuffStickerId": 770,
+    "Image": "/assets/img/items/stickers/cologne2016/adren.png"
+  },
+  {
+    "name": "AdreN (Foil) | Cologne 2016",
+    "gen_id": 1609,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39845,
+    "BuffStickerId": 764,
+    "Image": "/assets/img/items/stickers/cologne2016/adren-foil.png"
+  },
+  {
+    "name": "AdreN (Gold) | Cologne 2016",
+    "gen_id": 1610,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/adren-gold.png"
+  },
+  {
+    "name": "aizy | Cologne 2016",
+    "gen_id": 1460,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41142,
+    "BuffStickerId": 2039,
+    "Image": "/assets/img/items/stickers/cologne2016/aizy.png"
+  },
+  {
+    "name": "aizy (Foil) | Cologne 2016",
+    "gen_id": 1461,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41134,
+    "BuffStickerId": 2031,
+    "Image": "/assets/img/items/stickers/cologne2016/aizy-foil.png"
+  },
+  {
+    "name": "aizy (Gold) | Cologne 2016",
+    "gen_id": 1462,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/aizy-gold.png"
+  },
+  {
+    "name": "apEX | Cologne 2016",
+    "gen_id": 1415,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41167,
+    "BuffStickerId": 2064,
+    "Image": "/assets/img/items/stickers/cologne2016/apex.png"
+  },
+  {
+    "name": "apEX (Foil) | Cologne 2016",
+    "gen_id": 1416,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41158,
+    "BuffStickerId": 2055,
+    "Image": "/assets/img/items/stickers/cologne2016/apex-foil.png"
+  },
+  {
+    "name": "apEX (Gold) | Cologne 2016",
+    "gen_id": 1417,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/apex-gold.png"
+  },
+  {
+    "name": "B1ad3 | Cologne 2016",
+    "gen_id": 1430,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 39891,
+    "BuffStickerId": 810,
+    "Image": "/assets/img/items/stickers/cologne2016/b1ad3.png"
+  },
+  {
+    "name": "B1ad3 (Foil) | Cologne 2016",
+    "gen_id": 1431,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39882,
+    "BuffStickerId": 801,
+    "Image": "/assets/img/items/stickers/cologne2016/b1ad3-foil.png"
+  },
+  {
+    "name": "B1ad3 (Gold) | Cologne 2016",
+    "gen_id": 1432,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/b1ad3-gold.png"
+  },
+  {
+    "name": "bodyy | Cologne 2016",
+    "gen_id": 1565,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41189,
+    "BuffStickerId": 2086,
+    "Image": "/assets/img/items/stickers/cologne2016/bodyy.png"
+  },
+  {
+    "name": "bodyy (Foil) | Cologne 2016",
+    "gen_id": 1566,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41183,
+    "BuffStickerId": 2080,
+    "Image": "/assets/img/items/stickers/cologne2016/bodyy-foil.png"
+  },
+  {
+    "name": "bodyy (Gold) | Cologne 2016",
+    "gen_id": 1567,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/bodyy-gold.png"
+  },
+  {
+    "name": "byali | Cologne 2016",
+    "gen_id": 1610,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41225,
+    "BuffStickerId": 2122,
+    "Image": "/assets/img/items/stickers/cologne2016/byali.png"
+  },
+  {
+    "name": "byali (Foil) | Cologne 2016",
+    "gen_id": 1611,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41216,
+    "BuffStickerId": 2113,
+    "Image": "/assets/img/items/stickers/cologne2016/byali-foil.png"
+  },
+  {
+    "name": "byali (Gold) | Cologne 2016",
+    "gen_id": 1612,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/byali-gold.png"
+  },
+  {
+    "name": "cajunb | Cologne 2016",
+    "gen_id": 1535,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 43946,
+    "BuffStickerId": 2864,
+    "Image": "/assets/img/items/stickers/cologne2016/cajunb.png"
+  },
+  {
+    "name": "cajunb (Foil) | Cologne 2016",
+    "gen_id": 1536,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41232,
+    "BuffStickerId": 2129,
+    "Image": "/assets/img/items/stickers/cologne2016/cajunb-foil.png"
+  },
+  {
+    "name": "cajunb (Gold) | Cologne 2016",
+    "gen_id": 1537,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/cajunb-gold.png"
+  },
+  {
+    "name": "chrisJ | Cologne 2016",
+    "gen_id": 1490,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41264,
+    "BuffStickerId": 2161,
+    "Image": "/assets/img/items/stickers/cologne2016/chrisj.png"
+  },
+  {
+    "name": "chrisJ (Foil) | Cologne 2016",
+    "gen_id": 1491,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41256,
+    "BuffStickerId": 2153,
+    "Image": "/assets/img/items/stickers/cologne2016/chrisj-foil.png"
+  },
+  {
+    "name": "chrisJ (Gold) | Cologne 2016",
+    "gen_id": 1492,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/chrisj-gold.png"
+  },
+  {
+    "name": "coldzera | Cologne 2016",
+    "gen_id": 1475,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41280,
+    "BuffStickerId": 2177,
+    "Image": "/assets/img/items/stickers/cologne2016/coldzera.png"
+  },
+  {
+    "name": "coldzera (Foil) | Cologne 2016",
+    "gen_id": 1476,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41271,
+    "BuffStickerId": 2168,
+    "Image": "/assets/img/items/stickers/cologne2016/coldzera-foil.png"
+  },
+  {
+    "name": "coldzera (Gold) | Cologne 2016",
+    "gen_id": 1477,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/coldzera-gold.png"
+  },
+  {
+    "name": "daps | Cologne 2016",
+    "gen_id": 1400,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41288,
+    "BuffStickerId": 2185,
+    "Image": "/assets/img/items/stickers/cologne2016/daps.png"
+  },
+  {
+    "name": "daps (Foil) | Cologne 2016",
+    "gen_id": 1401,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41287,
+    "BuffStickerId": 2184,
+    "Image": "/assets/img/items/stickers/cologne2016/daps-foil.png"
+  },
+  {
+    "name": "daps (Gold) | Cologne 2016",
+    "gen_id": 1402,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/daps-gold.png"
+  },
+  {
+    "name": "denis | Cologne 2016",
+    "gen_id": 1493,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41302,
+    "BuffStickerId": 2199,
+    "Image": "/assets/img/items/stickers/cologne2016/denis.png"
+  },
+  {
+    "name": "denis (Foil) | Cologne 2016",
+    "gen_id": 1494,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41293,
+    "BuffStickerId": 2190,
+    "Image": "/assets/img/items/stickers/cologne2016/denis-foil.png"
+  },
+  {
+    "name": "denis (Gold) | Cologne 2016",
+    "gen_id": 1495,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/denis-gold.png"
+  },
+  {
+    "name": "dennis | Cologne 2016",
+    "gen_id": 1457,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41315,
+    "BuffStickerId": 2212,
+    "Image": "/assets/img/items/stickers/cologne2016/dennis.png"
+  },
+  {
+    "name": "dennis (Foil) | Cologne 2016",
+    "gen_id": 1458,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41308,
+    "BuffStickerId": 2205,
+    "Image": "/assets/img/items/stickers/cologne2016/dennis-foil.png"
+  },
+  {
+    "name": "dennis (Gold) | Cologne 2016",
+    "gen_id": 1459,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/dennis-gold.png"
+  },
+  {
+    "name": "device | Cologne 2016",
+    "gen_id": 1583,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41331,
+    "BuffStickerId": 2228,
+    "Image": "/assets/img/items/stickers/cologne2016/device.png"
+  },
+  {
+    "name": "device (Foil) | Cologne 2016",
+    "gen_id": 1584,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41322,
+    "BuffStickerId": 2219,
+    "Image": "/assets/img/items/stickers/cologne2016/device-foil.png"
+  },
+  {
+    "name": "device (Gold) | Cologne 2016",
+    "gen_id": 1585,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/device-gold.png"
+  },
+  {
+    "name": "DEVIL | Cologne 2016",
+    "gen_id": 1421,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40001,
+    "BuffStickerId": 914,
+    "Image": "/assets/img/items/stickers/cologne2016/devil.png"
+  },
+  {
+    "name": "DEVIL (Foil) | Cologne 2016",
+    "gen_id": 1422,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 39999,
+    "BuffStickerId": 912,
+    "Image": "/assets/img/items/stickers/cologne2016/devil-foil.png"
+  },
+  {
+    "name": "DEVIL (Gold) | Cologne 2016",
+    "gen_id": 1423,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/devil-gold.png"
+  },
+  {
+    "name": "Dosia | Cologne 2016",
+    "gen_id": 1598,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40029,
+    "BuffStickerId": 940,
+    "Image": "/assets/img/items/stickers/cologne2016/dosia.png"
+  },
+  {
+    "name": "Dosia (Foil) | Cologne 2016",
+    "gen_id": 1599,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40022,
+    "BuffStickerId": 933,
+    "Image": "/assets/img/items/stickers/cologne2016/dosia-foil.png"
+  },
+  {
+    "name": "Dosia (Gold) | Cologne 2016",
+    "gen_id": 1600,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/dosia-gold.png"
+  },
+  {
+    "name": "dupreeh | Cologne 2016",
+    "gen_id": 1586,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41355,
+    "BuffStickerId": 2252,
+    "Image": "/assets/img/items/stickers/cologne2016/dupreeh.png"
+  },
+  {
+    "name": "dupreeh (Foil) | Cologne 2016",
+    "gen_id": 1587,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41346,
+    "BuffStickerId": 2243,
+    "Image": "/assets/img/items/stickers/cologne2016/dupreeh-foil.png"
+  },
+  {
+    "name": "dupreeh (Gold) | Cologne 2016",
+    "gen_id": 1588,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/dupreeh-gold.png"
+  },
+  {
+    "name": "Edward | Cologne 2016",
+    "gen_id": 1505,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40072,
+    "BuffStickerId": 983,
+    "Image": "/assets/img/items/stickers/cologne2016/edward.png"
+  },
+  {
+    "name": "Edward (Foil) | Cologne 2016",
+    "gen_id": 1506,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40063,
+    "BuffStickerId": 974,
+    "Image": "/assets/img/items/stickers/cologne2016/edward-foil.png"
+  },
+  {
+    "name": "Edward (Gold) | Cologne 2016",
+    "gen_id": 1507,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/edward-gold.png"
+  },
+  {
+    "name": "EliGE | Cologne 2016",
+    "gen_id": 1553,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40084,
+    "BuffStickerId": 995,
+    "Image": "/assets/img/items/stickers/cologne2016/elige.png"
+  },
+  {
+    "name": "EliGE (Foil) | Cologne 2016",
+    "gen_id": 1554,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40078,
+    "BuffStickerId": 989,
+    "Image": "/assets/img/items/stickers/cologne2016/elige-foil.png"
+  },
+  {
+    "name": "EliGE (Gold) | Cologne 2016",
+    "gen_id": 1555,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/elige-gold.png"
+  },
+  {
+    "name": "f0rest | Cologne 2016",
+    "gen_id": 1523,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41374,
+    "BuffStickerId": 2271,
+    "Image": "/assets/img/items/stickers/cologne2016/f0rest.png"
+  },
+  {
+    "name": "f0rest (Foil) | Cologne 2016",
+    "gen_id": 1524,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41370,
+    "BuffStickerId": 2267,
+    "Image": "/assets/img/items/stickers/cologne2016/f0rest-foil.png"
+  },
+  {
+    "name": "f0rest (Gold) | Cologne 2016",
+    "gen_id": 1525,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/f0rest-gold.png"
+  },
+  {
+    "name": "FalleN | Cologne 2016",
+    "gen_id": 1478,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40125,
+    "BuffStickerId": 1036,
+    "Image": "/assets/img/items/stickers/cologne2016/fallen.png"
+  },
+  {
+    "name": "FalleN (Foil) | Cologne 2016",
+    "gen_id": 1479,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40116,
+    "BuffStickerId": 1027,
+    "Image": "/assets/img/items/stickers/cologne2016/fallen-foil.png"
+  },
+  {
+    "name": "FalleN (Gold) | Cologne 2016",
+    "gen_id": 1480,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/fallen-gold.png"
+  },
+  {
+    "name": "fer | Cologne 2016",
+    "gen_id": 1481,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41394,
+    "BuffStickerId": 2291,
+    "Image": "/assets/img/items/stickers/cologne2016/fer.png"
+  },
+  {
+    "name": "fer (Foil) | Cologne 2016",
+    "gen_id": 1482,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41385,
+    "BuffStickerId": 2282,
+    "Image": "/assets/img/items/stickers/cologne2016/fer-foil.png"
+  },
+  {
+    "name": "fer (Gold) | Cologne 2016",
+    "gen_id": 1483,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/fer-gold.png"
+  },
+  {
+    "name": "flamie | Cologne 2016",
+    "gen_id": 1508,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41413,
+    "BuffStickerId": 2310,
+    "Image": "/assets/img/items/stickers/cologne2016/flamie.png"
+  },
+  {
+    "name": "flamie (Foil) | Cologne 2016",
+    "gen_id": 1509,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41404,
+    "BuffStickerId": 2301,
+    "Image": "/assets/img/items/stickers/cologne2016/flamie-foil.png"
+  },
+  {
+    "name": "flamie (Gold) | Cologne 2016",
+    "gen_id": 1510,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/flamie-gold.png"
+  },
+  {
+    "name": "flusha | Cologne 2016",
+    "gen_id": 1445,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41429,
+    "BuffStickerId": 2326,
+    "Image": "/assets/img/items/stickers/cologne2016/flusha.png"
+  },
+  {
+    "name": "flusha (Foil) | Cologne 2016",
+    "gen_id": 1446,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41420,
+    "BuffStickerId": 2317,
+    "Image": "/assets/img/items/stickers/cologne2016/flusha-foil.png"
+  },
+  {
+    "name": "flusha (Gold) | Cologne 2016",
+    "gen_id": 1447,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/flusha-gold.png"
+  },
+  {
+    "name": "fnx | Cologne 2016",
+    "gen_id": 1484,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41437,
+    "BuffStickerId": 2334,
+    "Image": "/assets/img/items/stickers/cologne2016/fnx.png"
+  },
+  {
+    "name": "fnx (Foil) | Cologne 2016",
+    "gen_id": 1485,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41433,
+    "BuffStickerId": 2330,
+    "Image": "/assets/img/items/stickers/cologne2016/fnx-foil.png"
+  },
+  {
+    "name": "fnx (Gold) | Cologne 2016",
+    "gen_id": 1486,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/fnx-gold.png"
+  },
+  {
+    "name": "fox | Cologne 2016",
+    "gen_id": 1463,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41447,
+    "BuffStickerId": 2344,
+    "Image": "/assets/img/items/stickers/cologne2016/fox.png"
+  },
+  {
+    "name": "fox (Foil) | Cologne 2016",
+    "gen_id": 1464,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41442,
+    "BuffStickerId": 2339,
+    "Image": "/assets/img/items/stickers/cologne2016/fox-foil.png"
+  },
+  {
+    "name": "fox (Gold) | Cologne 2016",
+    "gen_id": 1465,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/fox-gold.png"
+  },
+  {
+    "name": "friberg | Cologne 2016",
+    "gen_id": 1526,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41461,
+    "BuffStickerId": 2358,
+    "Image": "/assets/img/items/stickers/cologne2016/friberg.png"
+  },
+  {
+    "name": "friberg (Foil) | Cologne 2016",
+    "gen_id": 1527,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41457,
+    "BuffStickerId": 2354,
+    "Image": "/assets/img/items/stickers/cologne2016/friberg-foil.png"
+  },
+  {
+    "name": "friberg (Gold) | Cologne 2016",
+    "gen_id": 1528,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/friberg-gold.png"
+  },
+  {
+    "name": "GeT_RiGhT | Cologne 2016",
+    "gen_id": 1529,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40238,
+    "BuffStickerId": 1149,
+    "Image": "/assets/img/items/stickers/cologne2016/getright.png"
+  },
+  {
+    "name": "GeT_RiGhT (Foil) | Cologne 2016",
+    "gen_id": 1530,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40234,
+    "BuffStickerId": 1145,
+    "Image": "/assets/img/items/stickers/cologne2016/getright-foil.png"
+  },
+  {
+    "name": "GeT_RiGhT (Gold) | Cologne 2016",
+    "gen_id": 1531,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/getright-gold.png"
+  },
+  {
+    "name": "gla1ve | Cologne 2016",
+    "gen_id": 1580,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41471,
+    "BuffStickerId": 2368,
+    "Image": "/assets/img/items/stickers/cologne2016/gla1ve.png"
+  },
+  {
+    "name": "gla1ve (Foil) | Cologne 2016",
+    "gen_id": 1581,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41465,
+    "BuffStickerId": 2362,
+    "Image": "/assets/img/items/stickers/cologne2016/gla1ve-foil.png"
+  },
+  {
+    "name": "gla1ve (Gold) | Cologne 2016",
+    "gen_id": 1582,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/gla1ve-gold.png"
+  },
+  {
+    "name": "GuardiaN | Cologne 2016",
+    "gen_id": 1511,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40263,
+    "BuffStickerId": 1174,
+    "Image": "/assets/img/items/stickers/cologne2016/guardian.png"
+  },
+  {
+    "name": "GuardiaN (Foil) | Cologne 2016",
+    "gen_id": 1512,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40254,
+    "BuffStickerId": 1165,
+    "Image": "/assets/img/items/stickers/cologne2016/guardian-foil.png"
+  },
+  {
+    "name": "GuardiaN (Gold) | Cologne 2016",
+    "gen_id": 1513,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/guardian-gold.png"
+  },
+  {
+    "name": "Happy | Cologne 2016",
+    "gen_id": 1418,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40289,
+    "BuffStickerId": 1200,
+    "Image": "/assets/img/items/stickers/cologne2016/happy.png"
+  },
+  {
+    "name": "Happy (Foil) | Cologne 2016",
+    "gen_id": 1419,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40282,
+    "BuffStickerId": 1193,
+    "Image": "/assets/img/items/stickers/cologne2016/happy-foil.png"
+  },
+  {
+    "name": "Happy (Gold) | Cologne 2016",
+    "gen_id": 1420,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/happy-gold.png"
+  },
+  {
+    "name": "hazed | Cologne 2016",
+    "gen_id": 1391,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41489,
+    "BuffStickerId": 2386,
+    "Image": "/assets/img/items/stickers/cologne2016/hazed.png"
+  },
+  {
+    "name": "hazed (Foil) | Cologne 2016",
+    "gen_id": 1392,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41485,
+    "BuffStickerId": 2382,
+    "Image": "/assets/img/items/stickers/cologne2016/hazed-foil.png"
+  },
+  {
+    "name": "hazed (Gold) | Cologne 2016",
+    "gen_id": 1393,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/hazed-gold.png"
+  },
+  {
+    "name": "Hiko | Cologne 2016",
+    "gen_id": 1559,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40320,
+    "BuffStickerId": 1229,
+    "Image": "/assets/img/items/stickers/cologne2016/hiko.png"
+  },
+  {
+    "name": "Hiko (Foil) | Cologne 2016",
+    "gen_id": 1560,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40316,
+    "BuffStickerId": 1225,
+    "Image": "/assets/img/items/stickers/cologne2016/hiko-foil.png"
+  },
+  {
+    "name": "Hiko (Gold) | Cologne 2016",
+    "gen_id": 1561,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/hiko-gold.png"
+  },
+  {
+    "name": "hooch | Cologne 2016",
+    "gen_id": 1601,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41493,
+    "BuffStickerId": 2390,
+    "Image": "/assets/img/items/stickers/cologne2016/hooch.png"
+  },
+  {
+    "name": "hooch (Foil) | Cologne 2016",
+    "gen_id": 1602,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41491,
+    "BuffStickerId": 2388,
+    "Image": "/assets/img/items/stickers/cologne2016/hooch-foil.png"
+  },
+  {
+    "name": "hooch (Gold) | Cologne 2016",
+    "gen_id": 1603,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/hooch-gold.png"
+  },
+  {
+    "name": "jdm64 | Cologne 2016",
+    "gen_id": 1550,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41529,
+    "BuffStickerId": 2426,
+    "Image": "/assets/img/items/stickers/cologne2016/jdm64.png"
+  },
+  {
+    "name": "jdm64 (Foil) | Cologne 2016",
+    "gen_id": 1551,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41522,
+    "BuffStickerId": 2419,
+    "Image": "/assets/img/items/stickers/cologne2016/jdm64-foil.png"
+  },
+  {
+    "name": "jdm64 (Gold) | Cologne 2016",
+    "gen_id": 1552,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/jdm64-gold.png"
+  },
+  {
+    "name": "jkaem | Cologne 2016",
+    "gen_id": 1472,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41535,
+    "BuffStickerId": 2432,
+    "Image": "/assets/img/items/stickers/cologne2016/jkaem.png"
+  },
+  {
+    "name": "jkaem (Foil) | Cologne 2016",
+    "gen_id": 1473,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41532,
+    "BuffStickerId": 2429,
+    "Image": "/assets/img/items/stickers/cologne2016/jkaem-foil.png"
+  },
+  {
+    "name": "jkaem (Gold) | Cologne 2016",
+    "gen_id": 1474,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/jkaem-gold.png"
+  },
+  {
+    "name": "JW | Cologne 2016",
+    "gen_id": 1448,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40361,
+    "BuffStickerId": 1269,
+    "Image": "/assets/img/items/stickers/cologne2016/jw.png"
+  },
+  {
+    "name": "JW (Foil) | Cologne 2016",
+    "gen_id": 1449,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40352,
+    "BuffStickerId": 1260,
+    "Image": "/assets/img/items/stickers/cologne2016/jw-foil.png"
+  },
+  {
+    "name": "JW (Gold) | Cologne 2016",
+    "gen_id": 1450,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/jw-gold.png"
+  },
+  {
+    "name": "k0nfig | Cologne 2016",
+    "gen_id": 1547,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41553,
+    "BuffStickerId": 2450,
+    "Image": "/assets/img/items/stickers/cologne2016/k0nfig.png"
+  },
+  {
+    "name": "k0nfig (Foil) | Cologne 2016",
+    "gen_id": 1548,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41547,
+    "BuffStickerId": 2444,
+    "Image": "/assets/img/items/stickers/cologne2016/k0nfig-foil.png"
+  },
+  {
+    "name": "k0nfig (Gold) | Cologne 2016",
+    "gen_id": 1549,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/k0nfig-gold.png"
+  },
+  {
+    "name": "karrigan | Cologne 2016",
+    "gen_id": 1589,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41580,
+    "BuffStickerId": 2477,
+    "Image": "/assets/img/items/stickers/cologne2016/karrigan.png"
+  },
+  {
+    "name": "karrigan (Foil) | Cologne 2016",
+    "gen_id": 1590,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41571,
+    "BuffStickerId": 2468,
+    "Image": "/assets/img/items/stickers/cologne2016/karrigan-foil.png"
+  },
+  {
+    "name": "karrigan (Gold) | Cologne 2016",
+    "gen_id": 1591,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/karrigan-gold.png"
+  },
+  {
+    "name": "kennyS | Cologne 2016",
+    "gen_id": 1424,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41602,
+    "BuffStickerId": 2499,
+    "Image": "/assets/img/items/stickers/cologne2016/kennys.png"
+  },
+  {
+    "name": "kennyS (Foil) | Cologne 2016",
+    "gen_id": 1425,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41593,
+    "BuffStickerId": 2490,
+    "Image": "/assets/img/items/stickers/cologne2016/kennys-foil.png"
+  },
+  {
+    "name": "kennyS (Gold) | Cologne 2016",
+    "gen_id": 1426,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/kennys-gold.png"
+  },
+  {
+    "name": "kioShiMa | Cologne 2016",
+    "gen_id": 1466,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41620,
+    "BuffStickerId": 2517,
+    "Image": "/assets/img/items/stickers/cologne2016/kioshima.png"
+  },
+  {
+    "name": "kioShiMa (Foil) | Cologne 2016",
+    "gen_id": 1467,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41614,
+    "BuffStickerId": 2511,
+    "Image": "/assets/img/items/stickers/cologne2016/kioshima-foil.png"
+  },
+  {
+    "name": "kioShiMa (Gold) | Cologne 2016",
+    "gen_id": 1468,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/kioshima-gold.png"
+  },
+  {
+    "name": "koosta | Cologne 2016",
+    "gen_id": 1388,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41623,
+    "BuffStickerId": 2520,
+    "Image": "/assets/img/items/stickers/cologne2016/koosta.png"
+  },
+  {
+    "name": "koosta (Foil) | Cologne 2016",
+    "gen_id": 1389,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41622,
+    "BuffStickerId": 2519,
+    "Image": "/assets/img/items/stickers/cologne2016/koosta-foil.png"
+  },
+  {
+    "name": "koosta (Gold) | Cologne 2016",
+    "gen_id": 1390,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/koosta-gold.png"
+  },
+  {
+    "name": "KRIMZ | Cologne 2016",
+    "gen_id": 1451,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40387,
+    "BuffStickerId": 1295,
+    "Image": "/assets/img/items/stickers/cologne2016/krimz.png"
+  },
+  {
+    "name": "KRIMZ (Foil) | Cologne 2016",
+    "gen_id": 1452,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40378,
+    "BuffStickerId": 1286,
+    "Image": "/assets/img/items/stickers/cologne2016/krimz-foil.png"
+  },
+  {
+    "name": "KRIMZ (Gold) | Cologne 2016",
+    "gen_id": 1453,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/krimz-gold.png"
+  },
+  {
+    "name": "markeloff | Cologne 2016",
+    "gen_id": 1439,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41642,
+    "BuffStickerId": 2539,
+    "Image": "/assets/img/items/stickers/cologne2016/markeloff.png"
+  },
+  {
+    "name": "markeloff (Foil) | Cologne 2016",
+    "gen_id": 1440,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41633,
+    "BuffStickerId": 2530,
+    "Image": "/assets/img/items/stickers/cologne2016/markeloff-foil.png"
+  },
+  {
+    "name": "markeloff (Gold) | Cologne 2016",
+    "gen_id": 1441,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/markeloff-gold.png"
+  },
+  {
+    "name": "mixwell | Cologne 2016",
+    "gen_id": 1403,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41654,
+    "BuffStickerId": 2551,
+    "Image": "/assets/img/items/stickers/cologne2016/mixwell.png"
+  },
+  {
+    "name": "mixwell (Foil) | Cologne 2016",
+    "gen_id": 1404,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41652,
+    "BuffStickerId": 2549,
+    "Image": "/assets/img/items/stickers/cologne2016/mixwell-foil.png"
+  },
+  {
+    "name": "mixwell (Gold) | Cologne 2016",
+    "gen_id": 1405,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/mixwell-gold.png"
+  },
+  {
+    "name": "mou | Cologne 2016",
+    "gen_id": 1604,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41664,
+    "BuffStickerId": 2561,
+    "Image": "/assets/img/items/stickers/cologne2016/mou.png"
+  },
+  {
+    "name": "mou (Foil) | Cologne 2016",
+    "gen_id": 1605,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41657,
+    "BuffStickerId": 2554,
+    "Image": "/assets/img/items/stickers/cologne2016/mou-foil.png"
+  },
+  {
+    "name": "mou (Gold) | Cologne 2016",
+    "gen_id": 1606,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/mou-gold.png"
+  },
+  {
+    "name": "MSL | Cologne 2016",
+    "gen_id": 1538,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40482,
+    "BuffStickerId": 1388,
+    "Image": "/assets/img/items/stickers/cologne2016/msl.png"
+  },
+  {
+    "name": "MSL (Foil) | Cologne 2016",
+    "gen_id": 1539,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40475,
+    "BuffStickerId": 1381,
+    "Image": "/assets/img/items/stickers/cologne2016/msl-foil.png"
+  },
+  {
+    "name": "MSL (Gold) | Cologne 2016",
+    "gen_id": 1540,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/msl-gold.png"
+  },
+  {
+    "name": "NAF | Cologne 2016",
+    "gen_id": 1406,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40529,
+    "BuffStickerId": 1431,
+    "Image": "/assets/img/items/stickers/cologne2016/naf.png"
+  },
+  {
+    "name": "NAF (Foil) | Cologne 2016",
+    "gen_id": 1407,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40525,
+    "BuffStickerId": 1427,
+    "Image": "/assets/img/items/stickers/cologne2016/naf-foil.png"
+  },
+  {
+    "name": "NAF (Gold) | Cologne 2016",
+    "gen_id": 1408,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/naf-gold.png"
+  },
+  {
+    "name": "NBK- | Cologne 2016",
+    "gen_id": 1427,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40543,
+    "BuffStickerId": 1445,
+    "Image": "/assets/img/items/stickers/cologne2016/nbk.png"
+  },
+  {
+    "name": "NBK- (Foil) | Cologne 2016",
+    "gen_id": 1428,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40534,
+    "BuffStickerId": 1436,
+    "Image": "/assets/img/items/stickers/cologne2016/nbk-foil.png"
+  },
+  {
+    "name": "NBK- (Gold) | Cologne 2016",
+    "gen_id": 1429,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/nbk-gold.png"
+  },
+  {
+    "name": "NEO | Cologne 2016",
+    "gen_id": 1613,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40559,
+    "BuffStickerId": 1461,
+    "Image": "/assets/img/items/stickers/cologne2016/neo.png"
+  },
+  {
+    "name": "NEO (Foil) | Cologne 2016",
+    "gen_id": 1614,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40550,
+    "BuffStickerId": 1452,
+    "Image": "/assets/img/items/stickers/cologne2016/neo-foil.png"
+  },
+  {
+    "name": "NEO (Gold) | Cologne 2016",
+    "gen_id": 1615,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/neo-gold.png"
+  },
+  {
+    "name": "nex | Cologne 2016",
+    "gen_id": 1499,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41709,
+    "BuffStickerId": 2606,
+    "Image": "/assets/img/items/stickers/cologne2016/nex.png"
+  },
+  {
+    "name": "nex (Foil) | Cologne 2016",
+    "gen_id": 1500,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41701,
+    "BuffStickerId": 2598,
+    "Image": "/assets/img/items/stickers/cologne2016/nex-foil.png"
+  },
+  {
+    "name": "nex (Gold) | Cologne 2016",
+    "gen_id": 1501,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/nex-gold.png"
+  },
+  {
+    "name": "NiKo | Cologne 2016",
+    "gen_id": 1502,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40604,
+    "BuffStickerId": 1505,
+    "Image": "/assets/img/items/stickers/cologne2016/niko.png"
+  },
+  {
+    "name": "NiKo (Foil) | Cologne 2016",
+    "gen_id": 1503,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40596,
+    "BuffStickerId": 1497,
+    "Image": "/assets/img/items/stickers/cologne2016/niko-foil.png"
+  },
+  {
+    "name": "NiKo (Gold) | Cologne 2016",
+    "gen_id": 1504,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/niko-gold.png"
+  },
+  {
+    "name": "nitr0- | Cologne 2016",
+    "gen_id": 1562,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 43949,
+    "BuffStickerId": 2867,
+    "Image": "/assets/img/items/stickers/cologne2016/nitr0.png"
+  },
+  {
+    "name": "nitr0- (Foil) | Cologne 2016",
+    "gen_id": 1563,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41718,
+    "BuffStickerId": 2615,
+    "Image": "/assets/img/items/stickers/cologne2016/nitr0-foil.png"
+  },
+  {
+    "name": "nitr0- (Gold) | Cologne 2016",
+    "gen_id": 1564,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/nitr0-gold.png"
+  },
+  {
+    "name": "olofmeister | Cologne 2016",
+    "gen_id": 1454,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41738,
+    "BuffStickerId": 2635,
+    "Image": "/assets/img/items/stickers/cologne2016/olofmeister.png"
+  },
+  {
+    "name": "olofmeister (Foil) | Cologne 2016",
+    "gen_id": 1455,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41729,
+    "BuffStickerId": 2626,
+    "Image": "/assets/img/items/stickers/cologne2016/olofmeister-foil.png"
+  },
+  {
+    "name": "olofmeister (Gold) | Cologne 2016",
+    "gen_id": 1456,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/olofmeister-gold.png"
+  },
+  {
+    "name": "pashaBiceps | Cologne 2016",
+    "gen_id": 1616,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41760,
+    "BuffStickerId": 2657,
+    "Image": "/assets/img/items/stickers/cologne2016/pashabiceps.png"
+  },
+  {
+    "name": "pashaBiceps (Foil) | Cologne 2016",
+    "gen_id": 1617,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41751,
+    "BuffStickerId": 2648,
+    "Image": "/assets/img/items/stickers/cologne2016/pashabiceps-foil.png"
+  },
+  {
+    "name": "pashaBiceps (Gold) | Cologne 2016",
+    "gen_id": 1618,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/pashabiceps-gold.png"
+  },
+  {
+    "name": "pita | Cologne 2016",
+    "gen_id": 1394,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41771,
+    "BuffStickerId": 2668,
+    "Image": "/assets/img/items/stickers/cologne2016/pita.png"
+  },
+  {
+    "name": "pita (Foil) | Cologne 2016",
+    "gen_id": 1395,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41770,
+    "BuffStickerId": 2667,
+    "Image": "/assets/img/items/stickers/cologne2016/pita-foil.png"
+  },
+  {
+    "name": "pita (Gold) | Cologne 2016",
+    "gen_id": 1396,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/pita-gold.png"
+  },
+  {
+    "name": "pyth | Cologne 2016",
+    "gen_id": 1521,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41780,
+    "BuffStickerId": 2677,
+    "Image": "/assets/img/items/stickers/cologne2016/pyth.png"
+  },
+  {
+    "name": "pyth (Foil) | Cologne 2016",
+    "gen_id": 1522,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41778,
+    "BuffStickerId": 2675,
+    "Image": "/assets/img/items/stickers/cologne2016/pyth-foil.png"
+  },
+  {
+    "name": "pyth (Gold) | Cologne 2016",
+    "gen_id": 1523,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/pyth-gold.png"
+  },
+  {
+    "name": "rain | Cologne 2016",
+    "gen_id": 1469,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41798,
+    "BuffStickerId": 2695,
+    "Image": "/assets/img/items/stickers/cologne2016/rain.png"
+  },
+  {
+    "name": "rain (Foil) | Cologne 2016",
+    "gen_id": 1470,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41789,
+    "BuffStickerId": 2686,
+    "Image": "/assets/img/items/stickers/cologne2016/rain-foil.png"
+  },
+  {
+    "name": "rain (Gold) | Cologne 2016",
+    "gen_id": 1471,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/rain-gold.png"
+  },
+  {
+    "name": "reltuC | Cologne 2016",
+    "gen_id": 1385,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41811,
+    "BuffStickerId": 2708,
+    "Image": "/assets/img/items/stickers/cologne2016/reltuc.png"
+  },
+  {
+    "name": "reltuC (Foil) | Cologne 2016",
+    "gen_id": 1386,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41807,
+    "BuffStickerId": 2704,
+    "Image": "/assets/img/items/stickers/cologne2016/reltuc-foil.png"
+  },
+  {
+    "name": "reltuC (Gold) | Cologne 2016",
+    "gen_id": 1387,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/reltuc-gold.png"
+  },
+  {
+    "name": "RpK | Cologne 2016",
+    "gen_id": 1568,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40718,
+    "BuffStickerId": 1619,
+    "Image": "/assets/img/items/stickers/cologne2016/rpk.png"
+  },
+  {
+    "name": "RpK (Foil) | Cologne 2016",
+    "gen_id": 1569,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40711,
+    "BuffStickerId": 1612,
+    "Image": "/assets/img/items/stickers/cologne2016/rpk-foil.png"
+  },
+  {
+    "name": "RpK (Gold) | Cologne 2016",
+    "gen_id": 1570,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/rpk-gold.png"
+  },
+  {
+    "name": "RUBINO | Cologne 2016",
+    "gen_id": 1544,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40686,
+    "BuffStickerId": 1587,
+    "Image": "/assets/img/items/stickers/cologne2016/rubino.png"
+  },
+  {
+    "name": "RUBINO (Foil) | Cologne 2016",
+    "gen_id": 1545,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40684,
+    "BuffStickerId": 1585,
+    "Image": "/assets/img/items/stickers/cologne2016/rubino-foil.png"
+  },
+  {
+    "name": "RUBINO (Gold) | Cologne 2016",
+    "gen_id": 1546,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/rubino-gold.png"
+  },
+  {
+    "name": "RUSH | Cologne 2016",
+    "gen_id": 1409,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40693,
+    "BuffStickerId": 1594,
+    "Image": "/assets/img/items/stickers/cologne2016/rush.png"
+  },
+  {
+    "name": "RUSH (Foil) | Cologne 2016",
+    "gen_id": 1410,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40689,
+    "BuffStickerId": 1590,
+    "Image": "/assets/img/items/stickers/cologne2016/rush-foil.png"
+  },
+  {
+    "name": "RUSH (Gold) | Cologne 2016",
+    "gen_id": 1411,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/rush-gold.png"
+  },
+  {
+    "name": "s1mple | Cologne 2016",
+    "gen_id": 1556,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41828,
+    "BuffStickerId": 2725,
+    "Image": "/assets/img/items/stickers/cologne2016/s1mple.png"
+  },
+  {
+    "name": "s1mple (Foil) | Cologne 2016",
+    "gen_id": 1557,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41821,
+    "BuffStickerId": 2718,
+    "Image": "/assets/img/items/stickers/cologne2016/s1mple-foil.png"
+  },
+  {
+    "name": "s1mple (Gold) | Cologne 2016",
+    "gen_id": 1558,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/s1mple-gold.png"
+  },
+  {
+    "name": "ScreaM | Cologne 2016",
+    "gen_id": 1571,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40757,
+    "BuffStickerId": 1658,
+    "Image": "/assets/img/items/stickers/cologne2016/scream.png"
+  },
+  {
+    "name": "ScreaM (Foil) | Cologne 2016",
+    "gen_id": 1572,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40750,
+    "BuffStickerId": 1651,
+    "Image": "/assets/img/items/stickers/cologne2016/scream-foil.png"
+  },
+  {
+    "name": "ScreaM (Gold) | Cologne 2016",
+    "gen_id": 1573,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/scream-gold.png"
+  },
+  {
+    "name": "seized | Cologne 2016",
+    "gen_id": 1514,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41851,
+    "BuffStickerId": 2748,
+    "Image": "/assets/img/items/stickers/cologne2016/seized.png"
+  },
+  {
+    "name": "seized (Foil) | Cologne 2016",
+    "gen_id": 1515,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41842,
+    "BuffStickerId": 2739,
+    "Image": "/assets/img/items/stickers/cologne2016/seized-foil.png"
+  },
+  {
+    "name": "seized (Gold) | Cologne 2016",
+    "gen_id": 1516,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/seized-gold.png"
+  },
+  {
+    "name": "Shara | Cologne 2016",
+    "gen_id": 1436,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40766,
+    "BuffStickerId": 1667,
+    "Image": "/assets/img/items/stickers/cologne2016/shara.png"
+  },
+  {
+    "name": "Shara (Foil) | Cologne 2016",
+    "gen_id": 1437,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40764,
+    "BuffStickerId": 1665,
+    "Image": "/assets/img/items/stickers/cologne2016/shara-foil.png"
+  },
+  {
+    "name": "Shara (Gold) | Cologne 2016",
+    "gen_id": 1438,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/shara-gold.png"
+  },
+  {
+    "name": "shox | Cologne 2016",
+    "gen_id": 1574,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41867,
+    "BuffStickerId": 2764,
+    "Image": "/assets/img/items/stickers/cologne2016/shox.png"
+  },
+  {
+    "name": "shox (Foil) | Cologne 2016",
+    "gen_id": 1575,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41858,
+    "BuffStickerId": 2755,
+    "Image": "/assets/img/items/stickers/cologne2016/shox-foil.png"
+  },
+  {
+    "name": "shox (Gold) | Cologne 2016",
+    "gen_id": 1576,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/shox-gold.png"
+  },
+  {
+    "name": "SmithZz | Cologne 2016",
+    "gen_id": 1577,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40801,
+    "BuffStickerId": 1701,
+    "Image": "/assets/img/items/stickers/cologne2016/smithzz.png"
+  },
+  {
+    "name": "SmithZz (Foil) | Cologne 2016",
+    "gen_id": 1578,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40796,
+    "BuffStickerId": 1696,
+    "Image": "/assets/img/items/stickers/cologne2016/smithzz-foil.png"
+  },
+  {
+    "name": "SmithZz (Gold) | Cologne 2016",
+    "gen_id": 1579,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/smithzz-gold.png"
+  },
+  {
+    "name": "Snax | Cologne 2016",
+    "gen_id": 1619,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40816,
+    "BuffStickerId": 1716,
+    "Image": "/assets/img/items/stickers/cologne2016/snax.png"
+  },
+  {
+    "name": "Snax (Foil) | Cologne 2016",
+    "gen_id": 1620,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40807,
+    "BuffStickerId": 1707,
+    "Image": "/assets/img/items/stickers/cologne2016/snax-foil.png"
+  },
+  {
+    "name": "Snax (Gold) | Cologne 2016",
+    "gen_id": 1621,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/snax-gold.png"
+  },
+  {
+    "name": "spaze | Cologne 2016",
+    "gen_id": 1595,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41883,
+    "BuffStickerId": 2780,
+    "Image": "/assets/img/items/stickers/cologne2016/spaze.png"
+  },
+  {
+    "name": "spaze (Foil) | Cologne 2016",
+    "gen_id": 1596,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41882,
+    "BuffStickerId": 2779,
+    "Image": "/assets/img/items/stickers/cologne2016/spaze-foil.png"
+  },
+  {
+    "name": "spaze (Gold) | Cologne 2016",
+    "gen_id": 1597,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/spaze-gold.png"
+  },
+  {
+    "name": "Spiidi | Cologne 2016",
+    "gen_id": 1496,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40836,
+    "BuffStickerId": 1736,
+    "Image": "/assets/img/items/stickers/cologne2016/spiidi.png"
+  },
+  {
+    "name": "Spiidi (Foil) | Cologne 2016",
+    "gen_id": 1497,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40830,
+    "BuffStickerId": 1730,
+    "Image": "/assets/img/items/stickers/cologne2016/spiidi-foil.png"
+  },
+  {
+    "name": "Spiidi (Gold) | Cologne 2016",
+    "gen_id": 1498,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/spiidi-gold.png"
+  },
+  {
+    "name": "stanislaw | Cologne 2016",
+    "gen_id": 1412,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41890,
+    "BuffStickerId": 2787,
+    "Image": "/assets/img/items/stickers/cologne2016/stanislaw.png"
+  },
+  {
+    "name": "stanislaw (Foil) | Cologne 2016",
+    "gen_id": 1413,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41886,
+    "BuffStickerId": 2783,
+    "Image": "/assets/img/items/stickers/cologne2016/stanislaw-foil.png"
+  },
+  {
+    "name": "stanislaw (Gold) | Cologne 2016",
+    "gen_id": 1414,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/stanislaw-gold.png"
+  },
+  {
+    "name": "TACO | Cologne 2016",
+    "gen_id": 1487,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40871,
+    "BuffStickerId": 1771,
+    "Image": "/assets/img/items/stickers/cologne2016/taco.png"
+  },
+  {
+    "name": "TACO (Foil) | Cologne 2016",
+    "gen_id": 1488,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40864,
+    "BuffStickerId": 1764,
+    "Image": "/assets/img/items/stickers/cologne2016/taco-foil.png"
+  },
+  {
+    "name": "TACO (Gold) | Cologne 2016",
+    "gen_id": 1489,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/taco-gold.png"
+  },
+  {
+    "name": "tarik | Cologne 2016",
+    "gen_id": 1397,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41920,
+    "BuffStickerId": 2817,
+    "Image": "/assets/img/items/stickers/cologne2016/tarik.png"
+  },
+  {
+    "name": "tarik (Foil) | Cologne 2016",
+    "gen_id": 1398,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41913,
+    "BuffStickerId": 2810,
+    "Image": "/assets/img/items/stickers/cologne2016/tarik-foil.png"
+  },
+  {
+    "name": "tarik (Gold) | Cologne 2016",
+    "gen_id": 1399,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/tarik-gold.png"
+  },
+  {
+    "name": "TaZ | Cologne 2016",
+    "gen_id": 1622,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40892,
+    "BuffStickerId": 1792,
+    "Image": "/assets/img/items/stickers/cologne2016/taz.png"
+  },
+  {
+    "name": "TaZ (Foil) | Cologne 2016",
+    "gen_id": 1623,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40883,
+    "BuffStickerId": 1783,
+    "Image": "/assets/img/items/stickers/cologne2016/taz-foil.png"
+  },
+  {
+    "name": "TaZ (Gold) | Cologne 2016",
+    "gen_id": 1624,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/taz-gold.png"
+  },
+  {
+    "name": "TENZKI | Cologne 2016",
+    "gen_id": 1541,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40875,
+    "BuffStickerId": 1775,
+    "Image": "/assets/img/items/stickers/cologne2016/tenzki.png"
+  },
+  {
+    "name": "TENZKI (Foil) | Cologne 2016",
+    "gen_id": 1542,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40874,
+    "BuffStickerId": 1774,
+    "Image": "/assets/img/items/stickers/cologne2016/tenzki-foil.png"
+  },
+  {
+    "name": "TENZKI (Gold) | Cologne 2016",
+    "gen_id": 1543,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/tenzki-gold.png"
+  },
+  {
+    "name": "wayLander | Cologne 2016",
+    "gen_id": 1433,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41941,
+    "BuffStickerId": 2838,
+    "Image": "/assets/img/items/stickers/cologne2016/waylander.png"
+  },
+  {
+    "name": "wayLander (Foil) | Cologne 2016",
+    "gen_id": 1434,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41934,
+    "BuffStickerId": 2831,
+    "Image": "/assets/img/items/stickers/cologne2016/waylander-foil.png"
+  },
+  {
+    "name": "wayLander (Gold) | Cologne 2016",
+    "gen_id": 1435,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/waylander-gold.png"
+  },
+  {
+    "name": "WorldEdit | Cologne 2016",
+    "gen_id": 1442,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41075,
+    "BuffStickerId": 1972,
+    "Image": "/assets/img/items/stickers/cologne2016/worldedit.png"
+  },
+  {
+    "name": "WorldEdit (Foil) | Cologne 2016",
+    "gen_id": 1443,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41067,
+    "BuffStickerId": 1964,
+    "Image": "/assets/img/items/stickers/cologne2016/worldedit-foil.png"
+  },
+  {
+    "name": "WorldEdit (Gold) | Cologne 2016",
+    "gen_id": 1444,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/worldedit-gold.png"
+  },
+  {
+    "name": "Xizt | Cologne 2016",
+    "gen_id": 1532,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41087,
+    "BuffStickerId": 1984,
+    "Image": "/assets/img/items/stickers/cologne2016/xizt.png"
+  },
+  {
+    "name": "Xizt (Foil) | Cologne 2016",
+    "gen_id": 1533,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41083,
+    "BuffStickerId": 1980,
+    "Image": "/assets/img/items/stickers/cologne2016/xizt-foil.png"
+  },
+  {
+    "name": "Xizt (Gold) | Cologne 2016",
+    "gen_id": 1534,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/xizt-gold.png"
+  },
+  {
+    "name": "Xyp9x | Cologne 2016",
+    "gen_id": 1592,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41102,
+    "BuffStickerId": 1999,
+    "Image": "/assets/img/items/stickers/cologne2016/xyp9x.png"
+  },
+  {
+    "name": "Xyp9x (Foil) | Cologne 2016",
+    "gen_id": 1593,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41093,
+    "BuffStickerId": 1990,
+    "Image": "/assets/img/items/stickers/cologne2016/xyp9x-foil.png"
+  },
+  {
+    "name": "Xyp9x (Gold) | Cologne 2016",
+    "gen_id": 1594,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/xyp9x-gold.png"
+  },
+  {
+    "name": "Zeus | Cologne 2016",
+    "gen_id": 1517,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 41120,
+    "BuffStickerId": 2017,
+    "Image": "/assets/img/items/stickers/cologne2016/zeus.png"
+  },
+  {
+    "name": "Zeus (Foil) | Cologne 2016",
+    "gen_id": 1518,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 41111,
+    "BuffStickerId": 2008,
+    "Image": "/assets/img/items/stickers/cologne2016/zeus-foil.png"
+  },
+  {
+    "name": "Zeus (Gold) | Cologne 2016",
+    "gen_id": 1519,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/cologne2016/zeus-gold.png"
+  },
+  {
+    "name": "ESL | Cologne 2016",
+    "gen_id": 1381,
+    "tournament": "Cologne 2016",
+    "rarity": "HighGrade",
+    "BuffGoodsId": 40056,
+    "BuffStickerId": 967,
+    "Image": "/assets/img/items/stickers/cologne2016/esl.png"
+  },
+  {
+    "name": "ESL (Holo) | Cologne 2016",
+    "gen_id": 1382,
+    "tournament": "Cologne 2016",
+    "rarity": "Remarkable",
+    "BuffGoodsId": 40048,
+    "BuffStickerId": 959,
+    "Image": "/assets/img/items/stickers/cologne2016/esl-holo.png"
+  },
+  {
+    "name": "ESL (Foil) | Cologne 2016",
+    "gen_id": 1383,
+    "tournament": "Cologne 2016",
+    "rarity": "Exotic",
+    "BuffGoodsId": 40047,
+    "BuffStickerId": 958,
+    "Image": "/assets/img/items/stickers/cologne2016/esl-foil.png"
+  },
+  {
+    "name": "ESL (Gold) | Cologne 2016",
+    "gen_id": 1384,
+    "tournament": "Cologne 2016",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": 12256,
+    "Image": "/assets/img/items/stickers/cologne2016/esl-gold.png"
+  }
+]

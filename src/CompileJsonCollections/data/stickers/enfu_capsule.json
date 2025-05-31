@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Chabo",
+    "StickerId": 355,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/chicken_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Bombsquad",
+    "StickerId": 356,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/enfu_bombsquad_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Bombsquad (Foil)",
+    "StickerId": 357,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/enfu_capsule/enfu_bombsquad_foil_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "The Guru",
+    "StickerId": 358,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/guru_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Silent Ninja",
+    "StickerId": 359,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/ninja_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Silent Ninja (Foil)",
+    "StickerId": 360,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/enfu_capsule/ninja_foil_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "The Samurai",
+    "StickerId": 361,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/samurai_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Skull Lil Boney",
+    "StickerId": 362,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/skullfulilboney_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Skulltorgeist",
+    "StickerId": 363,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/skullfuskulltorgeist_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Skull Troop",
+    "StickerId": 364,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/skullfutrooop_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Salute!",
+    "StickerId": 365,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/soldier_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "The Spartan",
+    "StickerId": 366,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/spartan_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Unicorn",
+    "StickerId": 367,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/unicorn_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "Unicorn (Holo)",
+    "StickerId": 368,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/enfu_capsule/unicorn_holo_png.png",
+    "Collection": "enfu_capsule"
+  },
+  {
+    "Name": "The Zombie",
+    "StickerId": 369,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/enfu_capsule/zombie_png.png",
+    "Collection": "enfu_capsule"
+  }
+]

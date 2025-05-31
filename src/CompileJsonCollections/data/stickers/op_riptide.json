@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "Seeing Red",
+    "StickerId": 4923,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/bandana_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Dead Eye",
+    "StickerId": 4924,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/goggles_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Great Wave",
+    "StickerId": 4925,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/great_wave_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Gutted",
+    "StickerId": 4926,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/gutted_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Kill Count",
+    "StickerId": 4927,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/kill_count_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Operation Riptide",
+    "StickerId": 4928,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/operation_riptide_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Liquid Fire",
+    "StickerId": 4929,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/rising_tide_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Chicken of the Sky",
+    "StickerId": 4930,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/op_riptide/sea_swallow_paper_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Dead Eye (Holo)",
+    "StickerId": 4931,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/op_riptide/goggles_holo_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Great Wave (Holo)",
+    "StickerId": 4932,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/op_riptide/great_wave_holo_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Kill Count (Holo)",
+    "StickerId": 4933,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/op_riptide/kill_count_holo_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Liquid Fire (Holo)",
+    "StickerId": 4934,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/op_riptide/rising_tide_holo_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Seeing Red (Foil)",
+    "StickerId": 4935,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/op_riptide/bandana_foil_png.png",
+    "Collection": "op_riptide"
+  },
+  {
+    "Name": "Great Wave (Foil)",
+    "StickerId": 4936,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/op_riptide/great_wave_foil_png.png",
+    "Collection": "op_riptide"
+  }
+]

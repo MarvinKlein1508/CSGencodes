@@ -1,182 +1,142 @@
 [
   {
-    "name": "Dragon Lore (Foil)",
-    "gen_id": 4522,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Exotic",
-    "BuffGoodsId": 773532,
-    "BuffStickerId": 10731,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/dragonlore-foil.png"
+    "Name": "CS20 Classic (Holo)",
+    "StickerId": 4513,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cs20/cs20_anniversary_pixel_holo_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "All Hail the King (Foil)",
-    "gen_id": 4520,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Exotic",
-    "BuffGoodsId": 773548,
-    "BuffStickerId": 10769,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/allhailtheking-foil.png"
+    "Name": "Too Old for This",
+    "StickerId": 4514,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_2old_glossy_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Door Stuck (Foil)",
-    "gen_id": 4521,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Exotic",
-    "BuffGoodsId": 773545,
-    "BuffStickerId": 10765,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/doorstuck-foil.png"
+    "Name": "Pixel Avenger",
+    "StickerId": 4515,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_arctic_avenger_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Rush 4x20 (Holo)",
-    "gen_id": 4529,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 773529,
-    "BuffStickerId": 10753,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/rush4x20-holo.png"
+    "Name": "Aztec",
+    "StickerId": 4516,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_aztec_beast_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Fire in the Hole (Holo)",
-    "gen_id": 4525,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 773549,
-    "BuffStickerId": 10755,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/fireinthehole-holo.png"
+    "Name": "Too Late",
+    "StickerId": 4517,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_sas_boom_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Boost (Holo)",
-    "gen_id": 4528,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 773546,
-    "BuffStickerId": 10759,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/boost-holo.png"
+    "Name": "Friend Code",
+    "StickerId": 4518,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_c4_friend_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Guinea Pig (Holo)",
-    "gen_id": 4523,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 773543,
-    "BuffStickerId": 10764,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/guineapig-holo.png"
+    "Name": "Clutchman (Holo)",
+    "StickerId": 4519,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cs20/cs20_clutchman_holo_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "CS20 Classic (Holo)",
-    "gen_id": 4513,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 773544,
-    "BuffStickerId": 10754,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/cs20classic-holo.png"
+    "Name": "All Hail the King (Foil)",
+    "StickerId": 4520,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cs20/cs20_anniversary_foil_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Clutchman (Holo)",
-    "gen_id": 4519,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "Remarkable",
-    "BuffGoodsId": 773542,
-    "BuffStickerId": 10760,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/clutchman-holo.png"
+    "Name": "Door Stuck (Foil)",
+    "StickerId": 4521,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cs20/cs20_door_stuck_foil_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Nuke Beast",
-    "gen_id": 4526,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773526,
-    "BuffStickerId": 10762,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/nukebeast.png"
+    "Name": "Dragon Lore (Foil)",
+    "StickerId": 4522,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cs20/cs20_dragon_lore_foil_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Surf's Up",
-    "gen_id": 4531,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773528,
-    "BuffStickerId": 10737,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/surfsup.png"
+    "Name": "Guinea Pig (Holo)",
+    "StickerId": 4523,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cs20/cs20_dz_guinea_pig_holo_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Friend Code",
-    "gen_id": 4518,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773527,
-    "BuffStickerId": 10752,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/friendcode.png"
+    "Name": "Obey SAS",
+    "StickerId": 4524,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_andre_sas_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Obey SAS",
-    "gen_id": 4524,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773533,
-    "BuffStickerId": 10744,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/obeysas.png"
+    "Name": "Fire in the Hole (Holo)",
+    "StickerId": 4525,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cs20/cs20_fire_in_the_hole_holo_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Pixel Avenger",
-    "gen_id": 4515,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773531,
-    "BuffStickerId": 10738,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/pixelavenger.png"
+    "Name": "Nuke Beast",
+    "StickerId": 4526,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_nuke_beast_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Too Late",
-    "gen_id": 4517,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773530,
-    "BuffStickerId": 10745,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/toolate.png"
+    "Name": "Mondays",
+    "StickerId": 4527,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_map_office_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Aztec",
-    "gen_id": 4516,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773537,
-    "BuffStickerId": 10767,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/aztec.png"
+    "Name": "Boost (Holo)",
+    "StickerId": 4528,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cs20/cs20_boost_holo_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Separate Pixels",
-    "gen_id": 4530,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773525,
-    "BuffStickerId": 10734,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/separatepixels.png"
+    "Name": "Rush 4x20 (Holo)",
+    "StickerId": 4529,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cs20/cs20_rush_holo_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Too Old for This",
-    "gen_id": 4514,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773540,
-    "BuffStickerId": 10747,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/toooldforthis.png"
+    "Name": "Separate Pixels",
+    "StickerId": 4530,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_pixel_separatist_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Temperance",
-    "gen_id": 4532,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773541,
-    "BuffStickerId": 10733,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/temperance.png"
+    "Name": "Surf\u0027s Up",
+    "StickerId": 4531,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_surf_png.png",
+    "Collection": "cs20"
   },
   {
-    "name": "Mondays",
-    "gen_id": 4527,
-    "tournament": "CS20 Sticker Capsule",
-    "rarity": "HighGrade",
-    "BuffGoodsId": 773536,
-    "BuffStickerId": 10735,
-    "Image": "/assets/img/items/stickers/cs20stickercapsule/mondays.png"
+    "Name": "Temperance",
+    "StickerId": 4532,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cs20/cs20_tarot_temperance_png.png",
+    "Collection": "cs20"
   }
 ]

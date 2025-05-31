@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "Basilisk",
+    "StickerId": 1639,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/basilisk_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Dragon",
+    "StickerId": 1640,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/dragon_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Hippocamp",
+    "StickerId": 1641,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/hippocamp_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Manticore",
+    "StickerId": 1642,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/manticore_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Pegasus",
+    "StickerId": 1643,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/pegasus_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Phoenix Reborn",
+    "StickerId": 1644,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/phoenix_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Sphinx",
+    "StickerId": 1645,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/sphinx_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Hippocamp (Holo)",
+    "StickerId": 1646,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/hippocamp_holo_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Manticore (Holo)",
+    "StickerId": 1647,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/manticore_holo_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Pegasus (Holo)",
+    "StickerId": 1648,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/pegasus_holo_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Sphinx (Holo)",
+    "StickerId": 1649,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/sphinx_holo_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Basilisk (Foil)",
+    "StickerId": 1650,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/basilisk_foil_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Dragon (Foil)",
+    "StickerId": 1651,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/dragon_foil_png.png",
+    "Collection": "bestiary_capsule"
+  },
+  {
+    "Name": "Phoenix Reborn (Foil)",
+    "StickerId": 1652,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/bestiary_capsule/phoenix_foil_png.png",
+    "Collection": "bestiary_capsule"
+  }
+]

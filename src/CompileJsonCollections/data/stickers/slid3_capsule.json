@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Boom",
+    "StickerId": 974,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/slid3_capsule/boom_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Boom (Holo)",
+    "StickerId": 975,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/slid3_capsule/boom_holo_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Boom (Foil)",
+    "StickerId": 976,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/slid3_capsule/boom_foil_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Countdown",
+    "StickerId": 977,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/slid3_capsule/countdown_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Countdown (Holo)",
+    "StickerId": 978,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/slid3_capsule/countdown_holo_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Countdown (Foil)",
+    "StickerId": 979,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/slid3_capsule/countdown_foil_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Don\u0027t Worry",
+    "StickerId": 980,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/slid3_capsule/dontworryigotcha_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Don\u0027t Worry (Holo)",
+    "StickerId": 981,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/slid3_capsule/dontworryigotcha_holo_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Don\u0027t Worry (Foil)",
+    "StickerId": 982,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/slid3_capsule/dontworryigotcha_foil_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Hard Cluck Life",
+    "StickerId": 983,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/slid3_capsule/hardclucklife_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Hard Cluck Life (Holo)",
+    "StickerId": 984,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/slid3_capsule/hardclucklife_holo_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Hard Cluck Life (Foil)",
+    "StickerId": 985,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/slid3_capsule/hardclucklife_foil_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Move It",
+    "StickerId": 986,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/slid3_capsule/moveit_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Move It (Holo)",
+    "StickerId": 987,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/slid3_capsule/moveit_holo_png.png",
+    "Collection": "slid3_capsule"
+  },
+  {
+    "Name": "Move It (Foil)",
+    "StickerId": 988,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/slid3_capsule/moveit_foil_png.png",
+    "Collection": "slid3_capsule"
+  }
+]

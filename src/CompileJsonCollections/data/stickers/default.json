@@ -1,0 +1,289 @@
+[
+  {
+    "Name": "X-Axes",
+    "StickerId": 1697,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/axes_crossed_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Death Sentence",
+    "StickerId": 1698,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/bubble_dead_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Chess King",
+    "StickerId": 1699,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/chess_king_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "King Me",
+    "StickerId": 1700,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/crown_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Keep the Change",
+    "StickerId": 1701,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/dollar_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Double",
+    "StickerId": 1702,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/double_kill_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Eco",
+    "StickerId": 1703,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/eco_pistol_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Tilt",
+    "StickerId": 1704,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/emo_angry_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Speechless",
+    "StickerId": 1705,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/emo_brainless_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "QQ",
+    "StickerId": 1706,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/emo_despair_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Mr. Teeth",
+    "StickerId": 1707,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/emo_happy_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Ninja",
+    "StickerId": 1708,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/emo_ninja_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Worry",
+    "StickerId": 1709,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/emo_worry_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Rage Mode",
+    "StickerId": 1710,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/evil_eye_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Eye Spy",
+    "StickerId": 1711,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/eyeball_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "GGEZ",
+    "StickerId": 1712,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/gg_01_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "GGWP",
+    "StickerId": 1713,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/gg_02_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "GLHF",
+    "StickerId": 1714,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/glhf_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Quickdraw",
+    "StickerId": 1715,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/gunsmoke_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Backstab",
+    "StickerId": 1716,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/hand_butterfly_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Loser",
+    "StickerId": 1717,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/hand_loser_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Sheriff",
+    "StickerId": 1718,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/hat_sherif_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Tombstone",
+    "StickerId": 1719,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/headstone_rip_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Heart",
+    "StickerId": 1720,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/heart_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "8-Ball",
+    "StickerId": 1721,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/hl_eightball_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Lambda",
+    "StickerId": 1722,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/hl_lambda_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Still Happy",
+    "StickerId": 1723,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/hl_smiley_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Jump Shot",
+    "StickerId": 1724,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/jump_shot_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Karambit",
+    "StickerId": 1725,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/karambit_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "X-Knives",
+    "StickerId": 1726,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/knives_crossed_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Toasted",
+    "StickerId": 1727,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/moly_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Bling",
+    "StickerId": 1728,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/necklace_dollar_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Noscope",
+    "StickerId": 1729,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/no_scope_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Piggles",
+    "StickerId": 1730,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/piggles_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Popdog",
+    "StickerId": 1731,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/popdog_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Cocky",
+    "StickerId": 1732,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/rooster_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "NaCl",
+    "StickerId": 1733,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/salty_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Sorry",
+    "StickerId": 1734,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/sorry_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Eat It",
+    "StickerId": 1735,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/tongue_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "Take Flight",
+    "StickerId": 1736,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/wings_png.png",
+    "Collection": "default"
+  },
+  {
+    "Name": "GTG",
+    "StickerId": 1737,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/default/gtg_png.png",
+    "Collection": "default"
+  }
+]
