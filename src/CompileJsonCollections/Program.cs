@@ -16,7 +16,7 @@ internal class Program
     private static async Task CompileJsonAsync<T>(string directory, string compiledFileName) where T : IGenable
     {
         Console.WriteLine($"Start compiling: {directory} to {compiledFileName}");
-        List<T> item_list = new List<T>();
+        List<T> item_list = [];
 
         var files = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, directory));
         Console.WriteLine($"{files.Length} files found to compile!");
