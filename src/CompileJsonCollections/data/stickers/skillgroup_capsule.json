@@ -4,125 +4,143 @@
     "StickerId": 3440,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/silver_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s16508"
   },
   {
     "Name": "Silver (Foil)",
     "StickerId": 3441,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/silver_normal_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s21149"
   },
   {
     "Name": "Gold Nova",
     "StickerId": 3442,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/gold_nova_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s12331"
   },
   {
     "Name": "Gold Nova (Holo)",
     "StickerId": 3443,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/gold_nova_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s16507"
   },
   {
     "Name": "Master Guardian",
     "StickerId": 3444,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/master_guardian_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s17208"
   },
   {
     "Name": "Master Guardian (Holo)",
     "StickerId": 3445,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/master_guardian_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s18235"
   },
   {
     "Name": "Master Guardian Elite",
     "StickerId": 3446,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/mge_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s12424"
   },
   {
     "Name": "Master Guardian Elite (Holo)",
     "StickerId": 3447,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/mge_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s14430"
   },
   {
     "Name": "Distinguished Master Guardian",
     "StickerId": 3448,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/dmg_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s18672"
   },
   {
     "Name": "Distinguished Master Guardian (Holo)",
     "StickerId": 3449,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/dmg_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s18708"
   },
   {
     "Name": "Legendary Eagle",
     "StickerId": 3450,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/legendary_eagle_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s12382"
   },
   {
     "Name": "Legendary Eagle (Holo)",
     "StickerId": 3451,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/legendary_eagle_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s17021"
   },
   {
     "Name": "Legendary Eagle Master",
     "StickerId": 3452,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/lem_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s12332"
   },
   {
     "Name": "Legendary Eagle Master (Holo)",
     "StickerId": 3453,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/lem_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s16506"
   },
   {
     "Name": "Supreme Master First Class",
     "StickerId": 3454,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/smfc_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s12330"
   },
   {
     "Name": "Supreme Master First Class (Holo)",
     "StickerId": 3455,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/smfc_holo_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s21095"
   },
   {
     "Name": "Global Elite",
     "StickerId": 3456,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/global_elite_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s12336"
   },
   {
     "Name": "Global Elite (Foil)",
     "StickerId": 3457,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/skillgroup_capsule/global_elite_normal_png.png",
-    "Collection": "skillgroup_capsule"
+    "Collection": "skillgroup_capsule",
+    "SkinportSearchId": "s18740"
   }
 ]

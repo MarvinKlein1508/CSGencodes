@@ -7,6 +7,7 @@ public class Sticker : IGenable
     public ItemRarity Rarity { get; set; }
     public string Image { get; set; } = string.Empty;
     public string Collection { get; set; } = string.Empty;
+    public string? SkinportSearchId { get; set; }
     public int GetGenId()
     {
         return StickerId;
@@ -30,5 +31,6 @@ public class AppliedSticker : Sticker
         Rarity = sticker.Rarity;
         Image = sticker.Image;
         PosId = posId;
+        SkinportSearchId = sticker.SkinportSearchId;
     }
 }

@@ -4,104 +4,119 @@
     "StickerId": 2388,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/cheongsam_1_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s17207"
   },
   {
     "Name": "Cheongsam",
     "StickerId": 2389,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/cheongsam_2_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s18599"
   },
   {
     "Name": "Cheongsam (Holo)",
     "StickerId": 2390,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/cheongsam_2_holo_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s18254"
   },
   {
     "Name": "Fancy Koi",
     "StickerId": 2391,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/koi_2_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s17209"
   },
   {
     "Name": "Fancy Koi (Foil)",
     "StickerId": 2392,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/koi_2_foil_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s21119"
   },
   {
     "Name": "Guardian Dragon",
     "StickerId": 2393,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/chinese_dragon_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s23478"
   },
   {
     "Name": "Guardian Dragon (Foil)",
     "StickerId": 2394,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/chinese_dragon_foil_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s18713"
   },
   {
     "Name": "Hotpot",
     "StickerId": 2395,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/hotpot_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s16510"
   },
   {
     "Name": "Noodles",
     "StickerId": 2396,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/noodles_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s15692"
   },
   {
     "Name": "Rice Bomb",
     "StickerId": 2397,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/rice_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s21171"
   },
   {
     "Name": "Terror Rice",
     "StickerId": 2398,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/rice_pudding_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s21092"
   },
   {
     "Name": "Mahjong Fa",
     "StickerId": 2399,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/mahjong_fa_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s21934"
   },
   {
     "Name": "Mahjong Rooster",
     "StickerId": 2400,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/mahjong_rooster_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s17210"
   },
   {
     "Name": "Mahjong Zhong",
     "StickerId": 2401,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/mahjong_zhong_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s18565"
   },
   {
     "Name": "Toy Tiger",
     "StickerId": 2402,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/illuminate_capsule_01/toytiger_png.png",
-    "Collection": "illuminate_capsule_01"
+    "Collection": "illuminate_capsule_01",
+    "SkinportSearchId": "s16953"
   }
 ]

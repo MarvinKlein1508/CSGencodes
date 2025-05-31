@@ -4,125 +4,143 @@
     "StickerId": 3945,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/baited_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17618"
   },
   {
     "Name": "Baited (Holo)",
     "StickerId": 3946,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/feral_predators/baited_holo_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17617"
   },
   {
     "Name": "Bite Me",
     "StickerId": 3947,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/bite_me_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s16951"
   },
   {
     "Name": "Bite Me (Foil)",
     "StickerId": 3949,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/feral_predators/bite_me_foil_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s22384"
   },
   {
     "Name": "Cluck",
     "StickerId": 3950,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/cluck_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s20948"
   },
   {
     "Name": "Cluck (Holo)",
     "StickerId": 3951,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/feral_predators/cluck_holo_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17339"
   },
   {
     "Name": "First Blood",
     "StickerId": 3952,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/first_blood_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17628"
   },
   {
     "Name": "First Blood (Holo)",
     "StickerId": 3953,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/feral_predators/first_blood_holo_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s20406"
   },
   {
     "Name": "Free Hugs",
     "StickerId": 3954,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/free_hugs_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17619"
   },
   {
     "Name": "Free Hugs (Holo)",
     "StickerId": 3955,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/feral_predators/free_hugs_holo_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17365"
   },
   {
     "Name": "Lurker",
     "StickerId": 3956,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/lurker_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17838"
   },
   {
     "Name": "Lurker (Foil)",
     "StickerId": 3958,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/feral_predators/lurker_foil_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s18758"
   },
   {
     "Name": "One Sting",
     "StickerId": 3959,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/one_sting_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s16913"
   },
   {
     "Name": "One Sting (Holo)",
     "StickerId": 3960,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/feral_predators/one_sting_holo_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s17340"
   },
   {
     "Name": "Scavenger",
     "StickerId": 3961,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/scavenger_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s16952"
   },
   {
     "Name": "Scavenger (Holo)",
     "StickerId": 3962,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/feral_predators/scavenger_holo_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s20181"
   },
   {
     "Name": "Toxic",
     "StickerId": 3963,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/feral_predators/toxic_glossy_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s20407"
   },
   {
     "Name": "Toxic (Foil)",
     "StickerId": 3965,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/feral_predators/toxic_foil_png.png",
-    "Collection": "feral_predators"
+    "Collection": "feral_predators",
+    "SkinportSearchId": "s18561"
   }
 ]

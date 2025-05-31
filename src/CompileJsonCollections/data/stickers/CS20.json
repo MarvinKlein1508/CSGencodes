@@ -4,139 +4,159 @@
     "StickerId": 4513,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/cs20/cs20_anniversary_pixel_holo_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48530"
   },
   {
     "Name": "Too Old for This",
     "StickerId": 4514,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_2old_glossy_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48515"
   },
   {
     "Name": "Pixel Avenger",
     "StickerId": 4515,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_arctic_avenger_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48518"
   },
   {
     "Name": "Aztec",
     "StickerId": 4516,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_aztec_beast_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48529"
   },
   {
     "Name": "Too Late",
     "StickerId": 4517,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_sas_boom_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48516"
   },
   {
     "Name": "Friend Code",
     "StickerId": 4518,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_c4_friend_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48512"
   },
   {
     "Name": "Clutchman (Holo)",
     "StickerId": 4519,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/cs20/cs20_clutchman_holo_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48526"
   },
   {
     "Name": "All Hail the King (Foil)",
     "StickerId": 4520,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/cs20/cs20_anniversary_foil_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48509"
   },
   {
     "Name": "Door Stuck (Foil)",
     "StickerId": 4521,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/cs20/cs20_door_stuck_foil_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48570"
   },
   {
     "Name": "Dragon Lore (Foil)",
     "StickerId": 4522,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/cs20/cs20_dragon_lore_foil_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48525"
   },
   {
     "Name": "Guinea Pig (Holo)",
     "StickerId": 4523,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/cs20/cs20_dz_guinea_pig_holo_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48514"
   },
   {
     "Name": "Obey SAS",
     "StickerId": 4524,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_andre_sas_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48513"
   },
   {
     "Name": "Fire in the Hole (Holo)",
     "StickerId": 4525,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/cs20/cs20_fire_in_the_hole_holo_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48547"
   },
   {
     "Name": "Nuke Beast",
     "StickerId": 4526,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_nuke_beast_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48511"
   },
   {
     "Name": "Mondays",
     "StickerId": 4527,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_map_office_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48510"
   },
   {
     "Name": "Boost (Holo)",
     "StickerId": 4528,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/cs20/cs20_boost_holo_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48517"
   },
   {
     "Name": "Rush 4x20 (Holo)",
     "StickerId": 4529,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/cs20/cs20_rush_holo_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48527"
   },
   {
     "Name": "Separate Pixels",
     "StickerId": 4530,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_pixel_separatist_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48528"
   },
   {
-    "Name": "Surf\u0027s Up",
+    "Name": "Surf's Up",
     "StickerId": 4531,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_surf_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48522"
   },
   {
     "Name": "Temperance",
     "StickerId": 4532,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/cs20/cs20_tarot_temperance_png.png",
-    "Collection": "cs20"
+    "Collection": "cs20",
+    "SkinportSearchId": "s48508"
   }
 ]

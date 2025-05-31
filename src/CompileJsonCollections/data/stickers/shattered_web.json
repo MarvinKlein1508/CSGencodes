@@ -4,62 +4,71 @@
     "StickerId": 4504,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/shattered_web/counter_tech_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49745"
   },
   {
     "Name": "Gold Web",
     "StickerId": 4505,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/shattered_web/gold_web_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49728"
   },
   {
     "Name": "Mastermind",
     "StickerId": 4506,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/shattered_web/mastermind_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49725"
   },
   {
     "Name": "Shattered Web",
     "StickerId": 4507,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/shattered_web/shattered_web_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49813"
   },
   {
     "Name": "Terrorist-Tech",
     "StickerId": 4508,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/shattered_web/terrorist_tech_m9_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49739"
   },
   {
     "Name": "Web Stuck",
     "StickerId": 4509,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/shattered_web/web_stuck_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49744"
   },
   {
     "Name": "Mastermind (Holo)",
     "StickerId": 4510,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/shattered_web/mastermind_holo_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49759"
   },
   {
     "Name": "Web Stuck (Holo)",
     "StickerId": 4511,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/shattered_web/web_stuck_holo_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49758"
   },
   {
     "Name": "Gold Web (Foil)",
     "StickerId": 4512,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/shattered_web/gold_web_normal_png.png",
-    "Collection": "shattered_web"
+    "Collection": "shattered_web",
+    "SkinportSearchId": "s49879"
   }
 ]

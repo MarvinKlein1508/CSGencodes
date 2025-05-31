@@ -4,118 +4,135 @@
     "StickerId": 3966,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/BigClucks_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21222"
   },
   {
     "Name": "Bonehead",
     "StickerId": 3967,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/BoneHead_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s20947"
   },
   {
     "Name": "BukAWP",
     "StickerId": 3968,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/BukAWP_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s20419"
   },
   {
     "Name": "Double Dip",
     "StickerId": 3969,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/DoubleDip_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21729"
   },
   {
     "Name": "Fowl Play",
     "StickerId": 3970,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/FowlPlay_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21106"
   },
   {
     "Name": "Heads Up",
     "StickerId": 3971,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/HeadsUp_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21284"
   },
   {
     "Name": "Hot Wings",
     "StickerId": 3972,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/HotWings_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21172"
   },
   {
     "Name": "Nest Egg",
     "StickerId": 3973,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/NestEgg_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s20877"
   },
   {
     "Name": "Roosty Boosty",
     "StickerId": 3974,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/RoostyBoosty_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21235"
   },
   {
     "Name": "What What",
     "StickerId": 3975,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/chicken_capsule/WhatWhat_pack01_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s20950"
   },
   {
     "Name": "Bonehead (Holo)",
     "StickerId": 3976,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/chicken_capsule/bonehead_holo_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s20942"
   },
   {
     "Name": "Double Dip (Holo)",
     "StickerId": 3977,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/chicken_capsule/doubledip_holo_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s22355"
   },
   {
     "Name": "Fowl Play (Holo)",
     "StickerId": 3978,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/chicken_capsule/fowlplay_holo_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21281"
   },
   {
     "Name": "Hot Wings (Holo)",
     "StickerId": 3979,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/chicken_capsule/hotwings_holo_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21057"
   },
   {
     "Name": "Nest Egg (Holo)",
     "StickerId": 3980,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/chicken_capsule/nestegg_holo_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s20552"
   },
   {
     "Name": "Big Clucks (Foil)",
     "StickerId": 3981,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/chicken_capsule/bigclucks_foil_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s21125"
   },
   {
     "Name": "Roosty Boosty (Foil)",
     "StickerId": 3982,
     "Rarity": 2,
     "Image": "/assets/img/items/stickers/chicken_capsule/roostyboosty_foil_png.png",
-    "Collection": "chicken_capsule"
+    "Collection": "chicken_capsule",
+    "SkinportSearchId": "s22141"
   }
 ]

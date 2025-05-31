@@ -81,7 +81,7 @@ public class MarketplaceService
         StringBuilder sb = new();
         sb.Append("https://skinport.com/market?sticker=");
 
-        string query = $"{string.Join("%2C", appliedStickers.Select(x => x.Name.Replace(" ", "+")))}";
+        string query = $"{string.Join("%2C", appliedStickers.Where(x => x.SkinportSearchId is not null).Select(x => x.SkinportSearchId))}";
 
         sb.Append(query);
 

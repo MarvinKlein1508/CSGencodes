@@ -4,139 +4,159 @@
     "StickerId": 4797,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/ava_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65077"
   },
   {
     "Name": "Poorly Drawn Balkan",
     "StickerId": 4798,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/balkan_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65068"
   },
   {
     "Name": "Poorly Drawn Bloody Darryl",
     "StickerId": 4799,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/bloody_darryl_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65069"
   },
   {
     "Name": "Poorly Drawn Chicken",
     "StickerId": 4800,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/chicken_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65071"
   },
   {
     "Name": "Poorly Drawn FBI",
     "StickerId": 4801,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/fbi_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65060"
   },
   {
     "Name": "Poorly Drawn IDF",
     "StickerId": 4802,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/idf_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65074"
   },
   {
     "Name": "Poorly Drawn Leet Crew",
     "StickerId": 4803,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/leet_crew_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65070"
   },
   {
     "Name": "Poorly Drawn Number K",
     "StickerId": 4804,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/number_k_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65064"
   },
   {
     "Name": "Poorly Drawn SAS",
     "StickerId": 4805,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/sas_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65073"
   },
   {
     "Name": "Poorly Drawn Terrorist",
     "StickerId": 4806,
     "Rarity": 0,
     "Image": "/assets/img/items/stickers/poorly_drawn/terrorist_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65072"
   },
   {
     "Name": "Poorly Drawn Ava (Holo)",
     "StickerId": 4807,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/ava_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65075"
   },
   {
     "Name": "Poorly Drawn Balkan (Holo)",
     "StickerId": 4808,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/balkan_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65096"
   },
   {
     "Name": "Poorly Drawn Bloody Darryl (Holo)",
     "StickerId": 4809,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/bloody_darryl_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65098"
   },
   {
     "Name": "Poorly Drawn Chicken (Holo)",
     "StickerId": 4810,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/chicken_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65100"
   },
   {
     "Name": "Poorly Drawn FBI (Holo)",
     "StickerId": 4811,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/fbi_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65097"
   },
   {
     "Name": "Poorly Drawn IDF (Holo)",
     "StickerId": 4812,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/idf_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65076"
   },
   {
     "Name": "Poorly Drawn Leet Crew (Holo)",
     "StickerId": 4813,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/leet_crew_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65078"
   },
   {
     "Name": "Poorly Drawn Number K (Holo)",
     "StickerId": 4814,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/number_k_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65063"
   },
   {
     "Name": "Poorly Drawn SAS (Holo)",
     "StickerId": 4815,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/sas_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65099"
   },
   {
     "Name": "Poorly Drawn Terrorist (Holo)",
     "StickerId": 4816,
     "Rarity": 1,
     "Image": "/assets/img/items/stickers/poorly_drawn/terrorist_holo_png.png",
-    "Collection": "poorly_drawn"
+    "Collection": "poorly_drawn",
+    "SkinportSearchId": "s65095"
   }
 ]
