@@ -60,7 +60,7 @@ namespace JsonModelCreator
 
                 foreach (var sticker in stickers)
                 {
- 
+
                     string tournament = Regex.Replace(sticker.tournament, "[^A-Za-z0-9]+", "");
                     string name = sticker.name
                         .Replace("(Holo)", string.Empty)
@@ -118,7 +118,7 @@ namespace JsonModelCreator
 
                     name = Regex.Replace(name, "[^A-Za-z0-9]+", "");
 
-                    if(sticker.BuffStickerId is null && buff_sticker_search_data.Count > 0)
+                    if (sticker.BuffStickerId is null && buff_sticker_search_data.Count > 0)
                     {
 
                         sticker.BuffStickerId = buff_sticker_search_data.FirstOrDefault(x => x.value.Equals(sticker.name, StringComparison.OrdinalIgnoreCase))?.id ?? null;

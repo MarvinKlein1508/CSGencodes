@@ -47,7 +47,7 @@ internal class Program
                 }
                 else
                 {
-                    
+
                     Console.WriteLine($"Collection: {filename_without_extension} File: {sourceFile}");
                 }
             }

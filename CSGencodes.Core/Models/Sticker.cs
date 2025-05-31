@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CSGencodes.Core.Models
+﻿namespace CSGencodes.Core.Models
 {
     public class Sticker : IGenable, IBuffDetails
     {
@@ -14,7 +8,7 @@ namespace CSGencodes.Core.Models
         public string rarity { get; set; } = string.Empty;
         public int? BuffGoodsId { get; set; } = null;
         public int? BuffStickerId { get; set; } = null;
-        public string? Image { get; set; } 
+        public string? Image { get; set; }
     }
 
     public class AppliedSticker : Sticker

@@ -10100,7 +10100,7 @@ internal class Program
 
 
             string path = "aus2025";
-            
+
 
             string rarity = "HighGrade";
 

@@ -1,11 +1,6 @@
-using CSGencodes.Core.Filters;
 using CSGencodes.Core.Models;
-using Google.Protobuf.WellKnownTypes;
 using Microsoft.AspNetCore.Components;
-using System.Text;
-using System.Web;
 using System.Globalization;
-using System.Threading;
 
 namespace CSGencodes.Pages
 {
@@ -130,11 +125,11 @@ namespace CSGencodes.Pages
             }
         }
 
-  
 
-        
 
-        
+
+
+
 
         private void RemoveLastSticker()
         {
@@ -152,7 +147,7 @@ namespace CSGencodes.Pages
         private async Task OnStickerWearingChange(ChangeEventArgs e, AppliedSticker sticker)
         {
             decimal.TryParse(e.Value.ToString(), CultureInfo.InvariantCulture, out decimal newValue);
-            
+
             sticker.Scratched = newValue;
         }
 

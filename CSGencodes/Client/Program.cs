@@ -15,7 +15,7 @@ namespace CSGencodes
             builder.RootComponents.Add<HeadOutlet>("head::after");
 
             using var client = new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) };
-            
+
             // Read all weapon data
             var weapons = await client.GetFromJsonAsync<IList<Weapon>>("/data/collections.json").ConfigureAwait(false);
             if (weapons is not null)
@@ -31,7 +31,7 @@ namespace CSGencodes
             {
                 StickerService._stickers.AddRange(stickers);
             }
-            
+
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
             builder.Services.AddScoped<WeaponService>();
             builder.Services.AddScoped<StickerService>();
@@ -43,7 +43,7 @@ namespace CSGencodes
         }
 
         //<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-		//    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(ProjectDir)/wwwroot/data/&quot;" />
-	    //</Target>
+        //    <Exec Command="RD /S /Q &quot;$(TargetDir)&quot;&#xD;&#xA;dotnet publish ../CompileJsonCollections -c $(Configuration)&#xD;&#xA;call &quot;../CompileJsonCollections/bin/$(Configuration)/net7.0/publish/CompileJsonCollections.exe&quot; &quot;$(ProjectDir)/wwwroot/data/&quot;" />
+        //</Target>
     }
 }

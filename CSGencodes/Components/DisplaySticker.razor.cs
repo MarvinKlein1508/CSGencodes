@@ -1,5 +1,5 @@
-using Microsoft.AspNetCore.Components;
 using CSGencodes.Core.Models;
+using Microsoft.AspNetCore.Components;
 using System.Diagnostics.CodeAnalysis;
 
 namespace CSGencodes.Components

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
+﻿using System.Text.RegularExpressions;
 
 namespace ItemsGameParser;
 internal static class ClientLootList
@@ -38,7 +33,7 @@ internal static class ClientLootList
             {
                 if (item.StartsWith($"[{itemName}]"))
                 {
-                    if(lootListName.EndsWith("_common"))
+                    if (lootListName.EndsWith("_common"))
                     {
                         return "Consumer";
                     }
