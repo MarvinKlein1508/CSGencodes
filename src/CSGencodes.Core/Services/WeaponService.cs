@@ -6,7 +6,7 @@ namespace CSGencodes.Core.Services;
 
 public class WeaponService
 {
-    public static readonly List<Weapon> _weapons = new();
+    public static readonly List<Weapon> _weapons = [];
     public IEnumerable<Weapon> SearchWeapon(WeaponFilter filter)
     {
         if (!string.IsNullOrWhiteSpace(filter.Searchterm))

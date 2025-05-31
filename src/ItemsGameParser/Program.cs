@@ -1649,12 +1649,9 @@ internal class Program
 
             stickers.Add(new Sticker
             {
-                gen_id = item.Key,
-                name = name,
-                tournament = tournamentName,
-                rarity = rarity,
-                BuffGoodsId = null,
-                BuffStickerId = null,
+                StickerId = item.Key,
+                Name = name,
+                Collection = tournamentName,
                 Image = $"/assets/img/items/stickers/{entry.sticker_material}_png.png"
             });
         }
@@ -1664,7 +1661,7 @@ internal class Program
             WriteIndented = true,
         };
 
-        foreach (var item in stickers.GroupBy(x => x.tournament))
+        foreach (var item in stickers.GroupBy(x => x.Collection))
         {
             List<Sticker> stickerList = item.ToList();
             string json = JsonSerializer.Serialize(stickerList, options);

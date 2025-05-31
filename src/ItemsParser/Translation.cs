@@ -1,9 +1,12 @@
 ﻿using System.Text.RegularExpressions;
 
 namespace ItemsParser;
+/// <summary>
+/// Static class for handling translations of item names in CS2
+/// </summary>
 public static class Translation
 {
-    private static string _translations;
+    private static readonly string _translations;
     static Translation()
     {
         string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "csgo_english.txt");

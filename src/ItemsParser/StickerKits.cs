@@ -1,4 +1,4 @@
-﻿using ItemsParser.Shared;
+﻿using CSGencodes.Core.Models;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
@@ -68,8 +68,7 @@ public static class StickerKits
                 Rarity = rarity,
                 StickerId = item.Id,
                 Image = $"/assets/img/items/stickers/{item.StickerMaterial}_png.png",
-                Collection = collection,
-                BuffStickerId = null,
+                Collection = collection
             };
 
             if (stickerCollections.TryGetValue(collection, out List<Sticker>? value))

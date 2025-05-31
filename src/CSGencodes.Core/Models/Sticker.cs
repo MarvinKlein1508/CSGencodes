@@ -1,35 +1,34 @@
-﻿namespace CSGencodes.Core.Models
+﻿namespace CSGencodes.Core.Models;
+
+public class Sticker : IGenable
 {
-    public class Sticker : IGenable, IBuffDetails
+    public string Name { get; set; } = string.Empty;
+    public int StickerId { get; set; }
+    public ItemRarity Rarity { get; set; }
+    public string Image { get; set; } = string.Empty;
+    public string Collection { get; set; } = string.Empty;
+    public int GetGenId()
     {
-        public string name { get; set; } = string.Empty;
-        public int gen_id { get; set; }
-        public string tournament { get; set; } = string.Empty;
-        public string rarity { get; set; } = string.Empty;
-        public int? BuffGoodsId { get; set; } = null;
-        public int? BuffStickerId { get; set; } = null;
-        public string? Image { get; set; }
+        return StickerId;
     }
+}
 
-    public class AppliedSticker : Sticker
+public class AppliedSticker : Sticker
+{
+    public decimal Scratched { get; set; }
+    public decimal Rotation { get; set; }
+
+    public float OffsetX { get; set; }
+    public float OffsetY { get; set; }
+    public int PosId { get; set; }
+
+    public AppliedSticker(Sticker sticker, int posId)
     {
-        public decimal Scratched { get; set; }
-        public decimal Rotation { get; set; }
-
-        public float OffsetX { get; set; }
-        public float OffsetY { get; set; }
-        public int PosId { get; set; }
-
-        public AppliedSticker(Sticker sticker, int posId)
-        {
-            name = sticker.name;
-            gen_id = sticker.gen_id;
-            tournament = sticker.tournament;
-            rarity = sticker.rarity;
-            BuffGoodsId = sticker.BuffGoodsId;
-            BuffStickerId = sticker.BuffStickerId;
-            Image = sticker.Image;
-            PosId = posId;
-        }
+        Name = sticker.Name;
+        StickerId = sticker.StickerId;
+        Collection = sticker.Collection;
+        Rarity = sticker.Rarity;
+        Image = sticker.Image;
+        PosId = posId;
     }
 }

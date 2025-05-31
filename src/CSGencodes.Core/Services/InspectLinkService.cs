@@ -36,7 +36,7 @@ public class InspectLinkService
                 CEconItemPreviewDataBlock.Types.Sticker proto_sticker = new()
                 {
                     Slot = (uint)sticker.PosId,
-                    StickerId = (uint)sticker.gen_id
+                    StickerId = (uint)sticker.StickerId
                 };
 
                 if (sticker.OffsetX != 0)

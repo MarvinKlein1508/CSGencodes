@@ -8,7 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\ItemsParser.Shared\ItemsParser.Shared.csproj" />
+	  <ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

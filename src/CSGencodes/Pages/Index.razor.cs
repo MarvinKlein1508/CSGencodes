@@ -2,154 +2,138 @@ using CSGencodes.Core.Models;
 using Microsoft.AspNetCore.Components;
 using System.Globalization;
 
-namespace CSGencodes.Pages
+namespace CSGencodes.Pages;
+
+public partial class Index
 {
-    public partial class Index
+    private decimal _float = 0.01m;
+    private int _pattern = 661;
+    private bool _isProcessingInput = false;
+    private CancellationTokenSource? _cancellationTokenSource;
+    private async Task StartInputProcessing(ChangeEventArgs e)
     {
-        private decimal _float = 0.01m;
-        private int _pattern = 661;
-        private bool isProcessingInput = false;
-        private CancellationTokenSource? cancellationTokenSource;
-        private async Task StartInputProcessing(ChangeEventArgs e)
+        // Cancel any previous input processing
+        if (_cancellationTokenSource != null)
         {
-            // Cancel any previous input processing
-            if (cancellationTokenSource != null)
-            {
-                cancellationTokenSource.Cancel();
-                cancellationTokenSource.Dispose();
-            }
-
-            // Create a new cancellation token source
-            cancellationTokenSource = new CancellationTokenSource();
-            var cancellationToken = cancellationTokenSource.Token;
-
-            try
-            {
-                // Wait for a brief delay (e.g., 20ms)
-                await Task.Delay(250, cancellationToken);
-
-                // Trigger the binding after the delay
-                if (!cancellationToken.IsCancellationRequested)
-                {
-                    Settings.StickerFilter.Searchterm = e.Value?.ToString() ?? string.Empty;
-                    StateHasChanged();
-                }
-            }
-            catch (TaskCanceledException)
-            {
-                // Task was canceled, ignore
-            }
-        }
-        [CascadingParameter]
-        public CSGencodesSettings Settings { get; set; } = default!;
-        public Weapon? SelectedWeapon { get; set; }
-
-        public List<AppliedSticker> SelectedStickers { get; set; } = [];
-
-        public string CustomName { get; set; } = string.Empty;
-        public decimal Float
-        {
-            get => _float;
-            set
-            {
-                _float = value;
-
-                if (Settings.MinMaxFloats)
-                {
-                    decimal min_float = SelectedWeapon?.min_wear ?? 0m;
-                    decimal max_float = SelectedWeapon?.max_wear ?? 1m;
-
-                    if (value <= min_float)
-                    {
-                        _float = min_float;
-                    }
-                    else if (value > max_float)
-                    {
-                        _float = max_float;
-                    }
-                }
-            }
+            _cancellationTokenSource.Cancel();
+            _cancellationTokenSource.Dispose();
         }
 
-        public int Pattern
+        // Create a new cancellation token source
+        _cancellationTokenSource = new CancellationTokenSource();
+        var cancellationToken = _cancellationTokenSource.Token;
+
+        try
         {
-            get => _pattern;
-            set
+            // Wait for a brief delay (e.g., 20ms)
+            await Task.Delay(250, cancellationToken);
+
+            // Trigger the binding after the delay
+            if (!cancellationToken.IsCancellationRequested)
             {
-                if (value < 0)
-                {
-                    _pattern = 0;
-                }
-                else if (value > 1000)
-                {
-                    _pattern = 1000;
-                }
-                else
-                {
-                    _pattern = value;
-                }
+                Settings.StickerFilter.Searchterm = e.Value?.ToString() ?? string.Empty;
+                StateHasChanged();
             }
         }
-        private void OnWeaponClicked(Weapon weapon)
+        catch (TaskCanceledException)
         {
-            SelectedWeapon = weapon;
+            // Task was canceled, ignore
+        }
+    }
+    [CascadingParameter]
+    public CSGencodesSettings Settings { get; set; } = default!;
+    public Weapon? SelectedWeapon { get; set; }
+
+    public List<AppliedSticker> SelectedStickers { get; set; } = [];
+
+    public string CustomName { get; set; } = string.Empty;
+    public decimal Float
+    {
+        get => _float;
+        set
+        {
+            _float = value;
 
             if (Settings.MinMaxFloats)
             {
-                if (Float <= weapon.min_wear)
-                {
-                    _float = weapon.min_wear;
-                }
-                else if (Float > weapon.max_wear)
-                {
-                    _float = weapon.max_wear;
-                }
-            }
-        }
+                decimal min_float = SelectedWeapon?.min_wear ?? 0m;
+                decimal max_float = SelectedWeapon?.max_wear ?? 1m;
 
-        private void OnStickerClicked(Sticker sticker)
-        {
-            if (SelectedStickers.Count < 5)
-            {
-                for (int posId = 0; posId < 5; posId++)
+                if (value <= min_float)
                 {
-                    var searchSticker = SelectedStickers.FirstOrDefault(x => x.PosId == posId);
-
-                    if (searchSticker is null)
-                    {
-                        SelectedStickers.Add(new AppliedSticker(sticker, posId));
-                        SortSelectedStickers();
-                        break;
-                    }
+                    _float = min_float;
+                }
+                else if (value > max_float)
+                {
+                    _float = max_float;
                 }
             }
         }
-
-
-
-
-
-
-
-        private void RemoveLastSticker()
-        {
-            SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
-        }
-
-
-        private void SortSelectedStickers()
-        {
-            SelectedStickers.Sort((x, y) => x.PosId.CompareTo(y.PosId));
-        }
-
-
-
-        private async Task OnStickerWearingChange(ChangeEventArgs e, AppliedSticker sticker)
-        {
-            decimal.TryParse(e.Value.ToString(), CultureInfo.InvariantCulture, out decimal newValue);
-
-            sticker.Scratched = newValue;
-        }
-
     }
+
+    public int Pattern
+    {
+        get => _pattern;
+        set
+        {
+            if (value < 0)
+            {
+                _pattern = 0;
+            }
+            else if (value > 1000)
+            {
+                _pattern = 1000;
+            }
+            else
+            {
+                _pattern = value;
+            }
+        }
+    }
+    private void OnWeaponClicked(Weapon weapon)
+    {
+        SelectedWeapon = weapon;
+
+        if (Settings.MinMaxFloats)
+        {
+            if (Float <= weapon.min_wear)
+            {
+                _float = weapon.min_wear;
+            }
+            else if (Float > weapon.max_wear)
+            {
+                _float = weapon.max_wear;
+            }
+        }
+    }
+
+    private void OnStickerClicked(Sticker sticker)
+    {
+        if (SelectedStickers.Count < 5)
+        {
+            for (int posId = 0; posId < 5; posId++)
+            {
+                var searchSticker = SelectedStickers.FirstOrDefault(x => x.PosId == posId);
+
+                if (searchSticker is null)
+                {
+                    SelectedStickers.Add(new AppliedSticker(sticker, posId));
+                    SortSelectedStickers();
+                    break;
+                }
+            }
+        }
+    }
+    private void RemoveLastSticker() => SelectedStickers.RemoveAt(SelectedStickers.Count - 1);
+    private void SortSelectedStickers() => SelectedStickers.Sort((x, y) => x.PosId.CompareTo(y.PosId));
+
+
+
+    private async Task OnStickerWearingChange(ChangeEventArgs e, AppliedSticker sticker)
+    {
+        decimal.TryParse(e.Value.ToString(), CultureInfo.InvariantCulture, out decimal newValue);
+
+        sticker.Scratched = newValue;
+    }
+
 }

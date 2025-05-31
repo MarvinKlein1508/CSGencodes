@@ -155,11 +155,11 @@
         }
 
         <div class="selected-sticker">
-            <h5>@sticker.name (Pos: @(sticker.PosId + 1))</h5>
+            <h5>@sticker.Name (Pos: @(sticker.PosId + 1))</h5>
             @if (!string.IsNullOrWhiteSpace(sticker.Image))
             {
                 <div class="d-flex justify-content-center align-items-center">
-                    <img class="img-responsive sticker-preview" src="@sticker.Image" alt="@sticker.name" style="transform: rotate(@(sticker.Rotation.ToString(CultureInfo.InvariantCulture))deg);" />
+                    <img class="img-responsive sticker-preview" src="@sticker.Image" alt="@sticker.Name" style="transform: rotate(@(sticker.Rotation.ToString(CultureInfo.InvariantCulture))deg);" />
                 </div>
             }
             <EditForm Model="sticker">

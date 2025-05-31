@@ -1,7 +1,6 @@
-﻿namespace CSGencodes.Core.Filters
+﻿namespace CSGencodes.Core.Filters;
+
+public class StickerFilter : Filter
 {
-    public class StickerFilter : Filter
-    {
-        public bool BetaSearch { get; set; }
-    }
+    public bool BetaSearch { get; set; }
 }

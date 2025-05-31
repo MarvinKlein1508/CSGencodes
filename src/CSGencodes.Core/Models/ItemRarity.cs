@@ -1,4 +1,4 @@
-﻿namespace ItemsParser.Shared;
+﻿namespace CSGencodes.Core.Models;
 
 public enum ItemRarity
 {

@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="csgo_english.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

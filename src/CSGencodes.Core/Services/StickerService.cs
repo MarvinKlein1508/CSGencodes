@@ -13,7 +13,7 @@ public class StickerService
         {
             if (filter.Searchterm == "*")
             {
-                foreach (var sticker in _stickers.OrderBy(x => x.gen_id))
+                foreach (var sticker in _stickers.OrderBy(x => x.StickerId))
                 {
                     yield return sticker;
                 }
@@ -22,12 +22,12 @@ public class StickerService
             {
                 var searchphrases = filter.Searchterm.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-                foreach (var sticker in _stickers.OrderBy(x => x.gen_id))
+                foreach (var sticker in _stickers.OrderBy(x => x.StickerId))
                 {
                     bool found_by_search = true;
                     foreach (var searchphrase in searchphrases)
                     {
-                        if (!sticker.name.Contains(searchphrase, StringComparison.OrdinalIgnoreCase))
+                        if (!sticker.Name.Contains(searchphrase, StringComparison.OrdinalIgnoreCase))
                         {
                             found_by_search = false;
                             break;

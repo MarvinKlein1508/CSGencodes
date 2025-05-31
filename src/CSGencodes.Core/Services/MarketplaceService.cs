@@ -20,7 +20,7 @@ public class MarketplaceService
         StringBuilder sb = new();
         sb.Append("https://steamcommunity.com/market/search?q=");
 
-        string query = HttpUtility.UrlEncode($"\"{string.Join(",", appliedStickers.Select(x => x.name))}\"");
+        string query = HttpUtility.UrlEncode($"\"{string.Join(",", appliedStickers.Select(x => x.Name))}\"");
 
         sb.Append(query);
         sb.Append("&descriptions=1&category_730_ItemSet%5B%5D=any&category_730_Weapon%5B%5D=any&category_730_Quality%5B%5D=#p1_price_asc");
@@ -39,7 +39,7 @@ public class MarketplaceService
         StringBuilder sb = new();
         sb.Append("https://skinbid.com/market?Stickers=");
 
-        string query = $"{string.Join(",", appliedStickers.Select(x => x.gen_id))}";
+        string query = $"{string.Join(",", appliedStickers.Select(x => x.StickerId))}";
 
         sb.Append(query);
 
@@ -49,25 +49,27 @@ public class MarketplaceService
     }
     public string? GetBuff163Url(List<AppliedSticker> appliedStickers)
     {
+        // TODO: Reimplement this method later
+        return null;
         // Example: https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids=16226,16226,16226,16226  
-        List<int> searchIds = [];
-        if (appliedStickers.Count != 0)
-        {
-            foreach (var sticker in appliedStickers)
-            {
-                if (sticker.BuffStickerId is not null)
-                {
-                    searchIds.Add((int)sticker.BuffStickerId);
-                }
-            }
-        }
+        //List<int> searchIds = [];
+        //if (appliedStickers.Count != 0)
+        //{
+        //    foreach (var sticker in appliedStickers)
+        //    {
+        //        if (sticker.BuffStickerId is not null)
+        //        {
+        //            searchIds.Add((int)sticker.BuffStickerId);
+        //        }
+        //    }
+        //}
 
-        if (searchIds.Count == 0)
-        {
-            return null;
-        }
+        //if (searchIds.Count == 0)
+        //{
+        //    return null;
+        //}
 
-        return $"https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids={String.Join(",", searchIds)}";
+        //return $"https://buff.163.com/market/csgo#tab=selling&page_num=1&extra_tag_ids={String.Join(",", searchIds)}";
     }
     public string GetSkinportUrl(List<AppliedSticker> appliedStickers)
     {
@@ -79,7 +81,7 @@ public class MarketplaceService
         StringBuilder sb = new();
         sb.Append("https://skinport.com/market?sticker=");
 
-        string query = $"{string.Join("%2C", appliedStickers.Select(x => x.name.Replace(" ", "+")))}";
+        string query = $"{string.Join("%2C", appliedStickers.Select(x => x.Name.Replace(" ", "+")))}";
 
         sb.Append(query);
 
@@ -111,7 +113,7 @@ public class MarketplaceService
             List<string> sticker_values = new();
             foreach (var sticker in stickers)
             {
-                sticker_values.Add($"{{\"i\":\"{sticker.gen_id}\"}}");
+                sticker_values.Add($"{{\"i\":\"{sticker.StickerId}\"}}");
             }
 
 
@@ -142,7 +144,7 @@ public class MarketplaceService
             List<string> sticker_values = new();
             foreach (var sticker in stickers)
             {
-                sticker_values.Add($"{{\"i\":\"{sticker.gen_id}\"}}");
+                sticker_values.Add($"{{\"i\":\"{sticker.StickerId}\"}}");
             }
 
 

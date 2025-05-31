@@ -1,7 +1,6 @@
-﻿namespace CSGencodes.Core.Models
+﻿namespace CSGencodes.Core.Models;
+
+public interface IGenable
 {
-    public interface IGenable
-    {
-        int gen_id { get; set; }
-    }
+    public int GetGenId();
 }

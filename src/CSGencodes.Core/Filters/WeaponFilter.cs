@@ -1,7 +1,6 @@
-﻿namespace CSGencodes.Core.Filters
+﻿namespace CSGencodes.Core.Filters;
+
+public class WeaponFilter : Filter
 {
-    public class WeaponFilter : Filter
-    {
-        public bool IncludeKnives { get; set; } = true;
-    }
+    public bool IncludeKnives { get; set; } = true;
 }
