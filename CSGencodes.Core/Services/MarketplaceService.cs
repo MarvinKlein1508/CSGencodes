@@ -41,7 +41,7 @@ namespace CSGencodes.Core.Services
             }
 
             StringBuilder sb = new();
-            sb.Append("https://skinbid.com/listings?Stickers=false,");
+            sb.Append("https://skinbid.com/market?Stickers=");
 
             string query = $"{string.Join(",", appliedStickers.Select(x => x.gen_id))}";
 
