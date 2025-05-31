@@ -11,7 +11,6 @@ internal class Program
         //// Load all stickers
         await CompileJsonAsync<Sticker>("data/stickers", $"{directory_to_copy}stickers.json");
         await CompileJsonAsync<Weapon>("data/collections", $"{directory_to_copy}collections.json");
-        await CompileJsonAsync<Weapon>("data/knives", $"{directory_to_copy}knives.json");
 
         // Load all collections
 
