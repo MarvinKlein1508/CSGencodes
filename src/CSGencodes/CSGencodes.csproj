@@ -27,35 +27,4 @@
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
-
-	<ItemGroup>
-	  <Folder Include="wwwroot\assets\img\items\knives\kukri\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\Antwerp2022\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\BrokenFangStickerCollection\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\ChickenCapsule\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\ClujNapoca2015\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2014\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2015\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\Cologne2016\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\CommunityCapsule2018\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\ambushstickercapsule\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\cph2024\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\aus2025\" />
-	  <Folder Include="wwwroot\assets\img\items\stickers\tournament_assets\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\eSports2013WinterCollection\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\kilowattcollection\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\graphic_design_collection\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\gallery_collection\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\limited_edition_item\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\overpass_2024_collection\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\sport_and_field_collection\" />
-	  <Folder Include="wwwroot\assets\img\items\weapons\WildfireCollection\" />
-	</ItemGroup>
-
-	
-
-
-
-
-
 </Project>
