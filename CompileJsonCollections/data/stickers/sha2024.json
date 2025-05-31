@@ -898,7 +898,7 @@
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/sha2024/pw_gold_png.png"
-  }, 
+  },
   {
     "name": "Snax | Shanghai 2024",
     "gen_id": 8053,
@@ -5218,5 +5218,185 @@
     "BuffGoodsId": null,
     "BuffStickerId": null,
     "Image": "/assets/img/items/stickers/sha2024/sig_noway_gold_png.png"
+  },
+  {
+    "name": "chopper (Champion) | Shanghai 2024",
+    "gen_id": 8533,
+    "tournament": "Shanghai 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_chopper_champion_png.png"
+  },
+  {
+    "name": "chopper (Glitter, Champion) | Shanghai 2024",
+    "gen_id": 8534,
+    "tournament": "Shanghai 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_chopper_champion_glitter_png.png"
+  },
+  {
+    "name": "chopper (Holo, Champion) | Shanghai 2024",
+    "gen_id": 8535,
+    "tournament": "Shanghai 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_chopper_champion_holo_png.png"
+  },
+  {
+    "name": "chopper (Gold, Champion) | Shanghai 2024",
+    "gen_id": 8536,
+    "tournament": "Shanghai 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_chopper_champion_gold_png.png"
+  },
+  {
+    "name": "magixx (Champion) | Shanghai 2024",
+    "gen_id": 8537,
+    "tournament": "Shanghai 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_magixx_champion_png.png"
+  },
+  {
+    "name": "magixx (Glitter, Champion) | Shanghai 2024",
+    "gen_id": 8538,
+    "tournament": "Shanghai 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_magixx_champion_glitter_png.png"
+  },
+  {
+    "name": "magixx (Holo, Champion) | Shanghai 2024",
+    "gen_id": 8539,
+    "tournament": "Shanghai 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_magixx_champion_holo_png.png"
+  },
+  {
+    "name": "magixx (Gold, Champion) | Shanghai 2024",
+    "gen_id": 8540,
+    "tournament": "Shanghai 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_magixx_champion_gold_png.png"
+  },
+  {
+    "name": "donk (Champion) | Shanghai 2024",
+    "gen_id": 8541,
+    "tournament": "Shanghai 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_donk_champion_png.png"
+  },
+  {
+    "name": "donk (Glitter, Champion) | Shanghai 2024",
+    "gen_id": 8542,
+    "tournament": "Shanghai 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_donk_champion_glitter_png.png"
+  },
+  {
+    "name": "donk (Holo, Champion) | Shanghai 2024",
+    "gen_id": 8543,
+    "tournament": "Shanghai 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_donk_champion_holo_png.png"
+  },
+  {
+    "name": "donk (Gold, Champion) | Shanghai 2024",
+    "gen_id": 8544,
+    "tournament": "Shanghai 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_donk_champion_gold_png.png"
+  },
+  {
+    "name": "sh1ro (Champion) | Shanghai 2024",
+    "gen_id": 8545,
+    "tournament": "Shanghai 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_sh1ro_champion_png.png"
+  },
+  {
+    "name": "sh1ro (Glitter, Champion) | Shanghai 2024",
+    "gen_id": 8546,
+    "tournament": "Shanghai 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_sh1ro_champion_glitter_png.png"
+  },
+  {
+    "name": "sh1ro (Holo, Champion) | Shanghai 2024",
+    "gen_id": 8547,
+    "tournament": "Shanghai 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_sh1ro_champion_holo_png.png"
+  },
+  {
+    "name": "sh1ro (Gold, Champion) | Shanghai 2024",
+    "gen_id": 8548,
+    "tournament": "Shanghai 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_sh1ro_champion_gold_png.png"
+  },
+  {
+    "name": "zont1x (Champion) | Shanghai 2024",
+    "gen_id": 8549,
+    "tournament": "Shanghai 2024",
+    "rarity": "HighGrade",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_zont1x_champion_png.png"
+  },
+  {
+    "name": "zont1x (Glitter, Champion) | Shanghai 2024",
+    "gen_id": 8550,
+    "tournament": "Shanghai 2024",
+    "rarity": "Remarkable",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_zont1x_champion_glitter_png.png"
+  },
+  {
+    "name": "zont1x (Holo, Champion) | Shanghai 2024",
+    "gen_id": 8551,
+    "tournament": "Shanghai 2024",
+    "rarity": "Exotic",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_zont1x_champion_holo_png.png"
+  },
+  {
+    "name": "zont1x (Gold, Champion) | Shanghai 2024",
+    "gen_id": 8552,
+    "tournament": "Shanghai 2024",
+    "rarity": "Extraordinary",
+    "BuffGoodsId": null,
+    "BuffStickerId": null,
+    "Image": "/assets/img/items/stickers/sha2024/sig_zont1x_champion_gold_png.png"
   }
 ]
