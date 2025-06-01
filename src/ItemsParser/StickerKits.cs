@@ -32,7 +32,7 @@ public static class StickerKits
         {
             i++;
             Console.Write("{0}/{1}\r", i, _stickerKits.Count);
-            if (item.Id is 0 || item.StickerMaterial.EndsWith("_graffiti") || item.StickerMaterial == string.Empty)
+            if (item.Id is 0 || item.StickerMaterial.EndsWith("_graffiti") || item.StickerMaterial == string.Empty || item.ItemName.StartsWith("#SprayKit_"))
             {
                 // Skip fallback sticker and graffitis and patches (empty)
                 continue;
