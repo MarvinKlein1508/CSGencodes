@@ -14,7 +14,7 @@ internal static class PaintKits
     private static readonly List<string> _paintKitBlocks;
     private static readonly List<string> _itemSetBlocks;
     private static readonly List<PaintKit> _paintKits = [];
-    private static readonly List<ItemSet> _itemSets = new();
+    private static readonly List<ItemSet> _itemSets = [];
     static PaintKits()
     {
         string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "items_game.txt");
