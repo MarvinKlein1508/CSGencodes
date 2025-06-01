@@ -12,7 +12,9 @@ internal static class PaintKits
 {
     private static readonly string _items_game;
     private static readonly List<string> _paintKitBlocks;
+    private static readonly List<string> _itemSetBlocks;
     private static readonly List<PaintKit> _paintKits = [];
+    private static readonly List<ItemSet> _itemSets = new();
     static PaintKits()
     {
         string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "items_game.txt");
@@ -23,6 +25,14 @@ internal static class PaintKits
         {
             var kits = ParsePaintKitEntries(block);
             _paintKits.AddRange(kits);
+        }
+
+        _itemSetBlocks = ExtractAllItemSetsBlocks(_items_game);
+
+        foreach (var block in _itemSetBlocks)
+        {
+            var itemSet = ParseItemSet(block);
+            _itemSets.Add(itemSet);
         }
     }
 
@@ -46,6 +56,20 @@ internal static class PaintKits
     {
         var results = new List<string>();
         var regex = new Regex(@"""paint_kits""\s*\{((?>[^{}]+|\{(?<c>)|\}(?<-c>))*)(?(c)(?!))\}", RegexOptions.Singleline);
+        var matches = regex.Matches(input);
+
+        foreach (Match match in matches)
+        {
+            results.Add(match.Value.Trim());
+        }
+
+        return results;
+    }
+
+    private static List<string> ExtractAllItemSetsBlocks(string input)
+    {
+        var results = new List<string>();
+        var regex = new Regex(@"""item_sets""\s*\{((?>[^{}]+|\{(?<c>)|\}(?<-c>))*)(?(c)(?!))\}", RegexOptions.Singleline);
         var matches = regex.Matches(input);
 
         foreach (Match match in matches)
@@ -93,6 +117,40 @@ internal static class PaintKits
         return kits;
     }
 
+    private static ItemSet ParseItemSet(string block)
+    {
+        var set = new ItemSet();
+
+        // ID aus erster Zeile
+        var idMatch = Regex.Match(block, @"""([^""]+)""\s*\{");
+        if (idMatch.Success)
+            set.Id = idMatch.Groups[1].Value;
+
+        // name
+        set.Name = Regex.Match(block, @"""name""\s*""([^""]+)""").Groups[1].Value;
+
+        // description
+        set.Description = Regex.Match(block, @"""set_description""\s*""([^""]+)""").Groups[1].Value;
+
+        // is_collection
+        var isColl = Regex.Match(block, @"""is_collection""\s*""([^""]+)""").Groups[1].Value;
+        set.IsCollection = isColl == "1";
+
+        // items block extrahieren
+        var itemsBlockMatch = Regex.Match(block, @"""items""\s*\{([\s\S]*?)\}", RegexOptions.Singleline);
+        if (itemsBlockMatch.Success)
+        {
+            var itemLines = Regex.Matches(itemsBlockMatch.Groups[1].Value, @"""([^""]+)""\s*""([^""]+)""");
+            foreach (Match match in itemLines)
+            {
+                string key = match.Groups[1].Value;
+                string value = match.Groups[2].Value;
+                set.Items[key] = value;
+            }
+        }
+
+        return set;
+    }
     private static string ExtractField(string content, string fieldName)
     {
         var regex = new Regex(@"""" + fieldName + @"""\s*""([^""]*)""", RegexOptions.Singleline);
@@ -155,7 +213,23 @@ internal static class PaintKits
         Console.WriteLine($"Weapon for \"{name}\" could not be found.");
         return (string.Empty, 0, string.Empty);
     }
+    private static ItemSet? GetCollection(PaintKit entry)
+    {
 
+        foreach (var set in _itemSets)
+        {
+            foreach (var item in set.Items)
+            {
+                if (item.Key.StartsWith($"[{entry.Name}]"))
+                {
+                    return set;
+                }
+            }
+        }
+
+
+        return null;
+    }
     private class PaintKit
     {
         public int Id { get; set; }
@@ -166,5 +240,14 @@ internal static class PaintKits
         public decimal WearRemapMin { get; set; }
         public decimal WearRemapMax { get; set; }
         public string CompositeMaterialPath { get; set; } = string.Empty;
+    }
+
+    private class ItemSet
+    {
+        public string Id { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public bool IsCollection { get; set; }
+        public Dictionary<string, string> Items { get; set; } = [];
     }
 }
