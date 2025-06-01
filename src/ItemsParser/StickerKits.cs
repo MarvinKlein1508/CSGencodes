@@ -44,6 +44,7 @@ public static class StickerKits
                 item.ItemName = "#StickerKit_dhw2014_teamdignitas_gold";
             }
 
+
             string stickerName = Translation.GetTranslation(item.ItemName);
             ItemRarity rarity = item.ItemRarity switch
             {
@@ -57,6 +58,10 @@ public static class StickerKits
                 _ => ItemRarity.Unknown,
             };
 
+            if (item.ItemName == "#StickerKit_comm01_howling_dawn")
+            {
+                rarity = ItemRarity.Immortal; // Special case for Howling Dawn sticker
+            }
 
 
             int index = item.StickerMaterial.IndexOf('/');
