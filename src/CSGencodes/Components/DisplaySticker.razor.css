@@ -15,28 +15,6 @@
     flex: 1;
 }
 
-    .sticker:is(:hover) {
-        background: #23232a;
-    }
-
-.rarity-highgrade {
-    color: #4b69ff;
+.sticker:is(:hover) {
+    background: #23232a;
 }
-
-.rarity-remarkable {
-    color: #8847ff;
-}
-
-.rarity-exotic {
-    color: #d32ee6;
-}
-
-.rarity-extraordinary {
-    color: #eb4b4b;
-}
-
-.rarity-contraband {
-    color: #ffae39;
-}
-
-
