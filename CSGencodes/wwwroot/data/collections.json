@@ -715,17 +715,6 @@
     "Image": "/assets/img/items/knives/bayonet/forestddpat.png"
   },
   {
-    "name": "Bayonet | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 500,
-    "gen_id": 5,
-    "collection": "Bayonet",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/bayonet/scorched.png"
-  },
-  {
     "name": "Bowie | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -735,17 +724,6 @@
     "collection": "Bowie",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/bowie/forestddpat.png"
-  },
-  {
-    "name": "Bowie | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 514,
-    "gen_id": 5,
-    "collection": "Bowie",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/bowie/scorched.png"
   },
   {
     "name": "Butterfly | Forest DDPAT",
@@ -759,17 +737,6 @@
     "Image": "/assets/img/items/knives/butterfly/forestddpat.png"
   },
   {
-    "name": "Butterfly | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 515,
-    "gen_id": 5,
-    "collection": "Butterfly",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/butterfly/scorched.png"
-  },
-  {
     "name": "Classic | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -779,17 +746,6 @@
     "collection": "Classic",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/classic/forestddpat.png"
-  },
-  {
-    "name": "Classic | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 503,
-    "gen_id": 5,
-    "collection": "Classic",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/classic/scorched.png"
   },
   {
     "name": "Falchion | Forest DDPAT",
@@ -803,17 +759,6 @@
     "Image": "/assets/img/items/knives/falchion/forestddpat.png"
   },
   {
-    "name": "Falchion | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 512,
-    "gen_id": 5,
-    "collection": "Falchion",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/falchion/scorched.png"
-  },
-  {
     "name": "Flip | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -823,17 +768,6 @@
     "collection": "Flip",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/flip/forestddpat.png"
-  },
-  {
-    "name": "Flip | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 505,
-    "gen_id": 5,
-    "collection": "Flip",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/flip/scorched.png"
   },
   {
     "name": "Gut Knife | Forest DDPAT",
@@ -847,17 +781,6 @@
     "Image": "/assets/img/items/knives/gutknife/forestddpat.png"
   },
   {
-    "name": "Gut Knife | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 506,
-    "gen_id": 5,
-    "collection": "Gut Knife",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/gutknife/scorched.png"
-  },
-  {
     "name": "Huntsman | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -867,17 +790,6 @@
     "collection": "Huntsman",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/huntsman/forestddpat.png"
-  },
-  {
-    "name": "Huntsman | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 509,
-    "gen_id": 5,
-    "collection": "Huntsman",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/huntsman/scorched.png"
   },
   {
     "name": "Karambit | Forest DDPAT",
@@ -891,17 +803,6 @@
     "Image": "/assets/img/items/knives/karambit/forestddpat.png"
   },
   {
-    "name": "Karambit | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 507,
-    "gen_id": 5,
-    "collection": "Karambit",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/karambit/scorched.png"
-  },
-  {
     "name": "Kukri | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -911,17 +812,6 @@
     "collection": "Kukri",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/kukri/forestddpat.png"
-  },
-  {
-    "name": "Kukri | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 526,
-    "gen_id": 5,
-    "collection": "Kukri",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/kukri/scorched.png"
   },
   {
     "name": "M9-Bayonet | Forest DDPAT",
@@ -935,17 +825,6 @@
     "Image": "/assets/img/items/knives/m9bayonet/forestddpat.png"
   },
   {
-    "name": "M9-Bayonet | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 508,
-    "gen_id": 5,
-    "collection": "M9-Bayonet",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/m9bayonet/scorched.png"
-  },
-  {
     "name": "Navaja | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -955,17 +834,6 @@
     "collection": "Navaja",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/navaja/forestddpat.png"
-  },
-  {
-    "name": "Navaja | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 520,
-    "gen_id": 5,
-    "collection": "Navaja",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/navaja/scorched.png"
   },
   {
     "name": "Nomad | Forest DDPAT",
@@ -979,17 +847,6 @@
     "Image": "/assets/img/items/knives/nomad/forestddpat.png"
   },
   {
-    "name": "Nomad | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 521,
-    "gen_id": 5,
-    "collection": "Nomad",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/nomad/scorched.png"
-  },
-  {
     "name": "Paracord Knife | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -999,17 +856,6 @@
     "collection": "Paracord Knife",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/paracordknife/forestddpat.png"
-  },
-  {
-    "name": "Paracord Knife | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 517,
-    "gen_id": 5,
-    "collection": "Paracord Knife",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/paracordknife/scorched.png"
   },
   {
     "name": "Shadow Daggers | Forest DDPAT",
@@ -1023,17 +869,6 @@
     "Image": "/assets/img/items/knives/shadowdaggers/forestddpat.png"
   },
   {
-    "name": "Shadow Daggers | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 516,
-    "gen_id": 5,
-    "collection": "Shadow Daggers",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/shadowdaggers/scorched.png"
-  },
-  {
     "name": "Skeleton | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -1043,17 +878,6 @@
     "collection": "Skeleton",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/skeleton/forestddpat.png"
-  },
-  {
-    "name": "Skeleton | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 525,
-    "gen_id": 5,
-    "collection": "Skeleton",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/skeleton/scorched.png"
   },
   {
     "name": "Stiletto | Forest DDPAT",
@@ -1067,17 +891,6 @@
     "Image": "/assets/img/items/knives/stiletto/forestddpat.png"
   },
   {
-    "name": "Stiletto | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 522,
-    "gen_id": 5,
-    "collection": "Stiletto",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/stiletto/scorched.png"
-  },
-  {
     "name": "Survival | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -1087,17 +900,6 @@
     "collection": "Survival",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/survival/forestddpat.png"
-  },
-  {
-    "name": "Survival | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 518,
-    "gen_id": 5,
-    "collection": "Survival",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/survival/scorched.png"
   },
   {
     "name": "Talon | Forest DDPAT",
@@ -1111,17 +913,6 @@
     "Image": "/assets/img/items/knives/talon/forestddpat.png"
   },
   {
-    "name": "Talon | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 523,
-    "gen_id": 5,
-    "collection": "Talon",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/talon/scorched.png"
-  },
-  {
     "name": "Ursus | Forest DDPAT",
     "min_wear": 0.06,
     "max_wear": 0.8,
@@ -1131,17 +922,6 @@
     "collection": "Ursus",
     "rarity": "Covert",
     "Image": "/assets/img/items/knives/ursus/forestddpat.png"
-  },
-  {
-    "name": "Ursus | Scorched",
-    "min_wear": 0.06,
-    "max_wear": 0.8,
-    "trade_up": false,
-    "weapon_id": 519,
-    "gen_id": 5,
-    "collection": "Ursus",
-    "rarity": "Covert",
-    "Image": "/assets/img/items/knives/ursus/scorched.png"
   },
   {
     "name": "G3SG1 | Arctic Camo",
@@ -5751,6 +5531,226 @@
     "collection": "eSports 2013 Collection",
     "rarity": "Classified",
     "Image": "/assets/img/items/weapons/esports2013collection/awp-boom.png"
+  },
+  {
+    "name": "Bayonet | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 500,
+    "gen_id": 175,
+    "collection": "Bayonet",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/bayonet/scorched.png"
+  },
+  {
+    "name": "Bowie | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 514,
+    "gen_id": 175,
+    "collection": "Bowie",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/bowie/scorched.png"
+  },
+  {
+    "name": "Butterfly | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 515,
+    "gen_id": 175,
+    "collection": "Butterfly",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/butterfly/scorched.png"
+  },
+  {
+    "name": "Classic | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 503,
+    "gen_id": 175,
+    "collection": "Classic",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/classic/scorched.png"
+  },
+  {
+    "name": "Falchion | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 512,
+    "gen_id": 175,
+    "collection": "Falchion",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/falchion/scorched.png"
+  },
+  {
+    "name": "Flip | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 505,
+    "gen_id": 175,
+    "collection": "Flip",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/flip/scorched.png"
+  },
+  {
+    "name": "Gut Knife | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 506,
+    "gen_id": 175,
+    "collection": "Gut Knife",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/gutknife/scorched.png"
+  },
+  {
+    "name": "Huntsman | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 509,
+    "gen_id": 175,
+    "collection": "Huntsman",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/huntsman/scorched.png"
+  },
+  {
+    "name": "Karambit | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 507,
+    "gen_id": 175,
+    "collection": "Karambit",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/karambit/scorched.png"
+  },
+  {
+    "name": "Kukri | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 526,
+    "gen_id": 175,
+    "collection": "Kukri",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/kukri/scorched.png"
+  },
+  {
+    "name": "M9-Bayonet | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 508,
+    "gen_id": 175,
+    "collection": "M9-Bayonet",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/m9bayonet/scorched.png"
+  },
+  {
+    "name": "Navaja | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 520,
+    "gen_id": 175,
+    "collection": "Navaja",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/navaja/scorched.png"
+  },
+  {
+    "name": "Nomad | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 521,
+    "gen_id": 175,
+    "collection": "Nomad",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/nomad/scorched.png"
+  },
+  {
+    "name": "Paracord Knife | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 517,
+    "gen_id": 175,
+    "collection": "Paracord Knife",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/paracordknife/scorched.png"
+  },
+  {
+    "name": "Shadow Daggers | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 516,
+    "gen_id": 175,
+    "collection": "Shadow Daggers",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/shadowdaggers/scorched.png"
+  },
+  {
+    "name": "Skeleton | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 525,
+    "gen_id": 175,
+    "collection": "Skeleton",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/skeleton/scorched.png"
+  },
+  {
+    "name": "Stiletto | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 522,
+    "gen_id": 175,
+    "collection": "Stiletto",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/stiletto/scorched.png"
+  },
+  {
+    "name": "Survival | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 518,
+    "gen_id": 175,
+    "collection": "Survival",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/survival/scorched.png"
+  },
+  {
+    "name": "Talon | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 523,
+    "gen_id": 175,
+    "collection": "Talon",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/talon/scorched.png"
+  },
+  {
+    "name": "Ursus | Scorched",
+    "min_wear": 0.06,
+    "max_wear": 0.8,
+    "trade_up": false,
+    "weapon_id": 519,
+    "gen_id": 175,
+    "collection": "Ursus",
+    "rarity": "Covert",
+    "Image": "/assets/img/items/knives/ursus/scorched.png"
   },
   {
     "name": "P90 | Scorched",
