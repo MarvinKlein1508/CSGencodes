@@ -12,7 +12,7 @@ public class Weapon : IGenable
     public bool trade_up { get; set; }
     public int WeaponId { get; set; }
     public int PaintKitId { get; set; }
-    public string collection { get; set; } = string.Empty;
+    public string Collection { get; set; } = string.Empty;
     public string Rarity { get; set; } = string.Empty;
     public string? Image { get; set; }
 

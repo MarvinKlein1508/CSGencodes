@@ -62,21 +62,57 @@ internal static class CollectionWorker
                 (string weaponName, int weapon_id, string econ_name) = PaintKits.GetWeaponType(paintKit);
 
                 var rarity = PaintKitRarity.GetRarity(paintKitName);
+                string skinName = Translation.GetTranslation(paintKit.DescriptionTag);
+
+                if (paintKit.Id is 1119)
+                {
+                    skinName = "Gamma Doppler (Emerald)";
+                }
+                else if (paintKit.Id is 1120)
+                {
+                    skinName = "Gamma Doppler (Phase 1)";
+                }
+                else if (paintKit.Id is 1121)
+                {
+                    skinName = "Gamma Doppler (Phase 2)";
+                }
+                else if (paintKit.Id is 1122)
+                {
+                    skinName = "Gamma Doppler (Phase 3)";
+                }
+                else if (paintKit.Id is 1123)
+                {
+                    skinName = "Gamma Doppler (Phase 4)";
+                }
 
                 var weapon = new Weapon
                 {
-                    Name = $"{weaponName} | {Translation.GetTranslation(paintKit.DescriptionTag)}",
+                    Name = $"{weaponName} | {skinName}",
                     WeaponId = weapon_id,
                     PaintKitId = paintKit.Id,
                     MaxWear = paintKit.WearRemapMax / FLOAT_DIVIDER,
                     MinWear = paintKit.WearRemapMin / FLOAT_DIVIDER,
                     Rarity = rarity,
+                    Collection = collection,
                     Image = $"{itemSet.Id}/weapon_{econ_name}_{paintKitName}_light_png.png"
                 };
 
                 weaponCollections[collection].Add(weapon);
             }
         }
+
+        // Add missing items
+        weaponCollections[THE_HUNTSMAN_COLLECTION].Add(new Weapon
+        {
+            Name = "M4A4 | Howl",
+            WeaponId = 16,
+            PaintKitId = 309,
+            MinWear = 0,
+            MaxWear = 0.4m,
+            Rarity = "Contraband",
+            Collection = THE_HUNTSMAN_COLLECTION,
+            Image = "set_community_3/weapon_m4a1_cu_m4a1_howling_light_png.png"
+        });
 
         Console.WriteLine("Generate collection json files...");
 
