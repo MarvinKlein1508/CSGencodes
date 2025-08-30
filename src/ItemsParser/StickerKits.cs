@@ -6,6 +6,8 @@ using System.Text.RegularExpressions;
 namespace ItemsParser;
 public static class StickerKits
 {
+    private const string OUTPUT_DIR = "output";
+    private const string OUTPUT_STICKER_DIR = "stickers";
     private static readonly string _items_game;
     private static readonly List<string> _stickerKitBlocks;
     private static readonly List<StickerKit> _stickerKits = [];
@@ -92,14 +94,21 @@ public static class StickerKits
 
         Console.WriteLine("Generate sticker collections...");
 
-        if (!Directory.Exists("Output"))
+        if (!Directory.Exists(OUTPUT_DIR))
         {
-            Directory.CreateDirectory("Output");
+            Directory.CreateDirectory(OUTPUT_DIR);
+        }
+
+        string stickerDir = Path.Combine(OUTPUT_DIR, OUTPUT_STICKER_DIR);
+
+        if (!Directory.Exists(stickerDir))
+        {
+            Directory.CreateDirectory(stickerDir);
         }
 
         foreach (var collection in stickerCollections)
         {
-            string filename = Path.Combine("Output", $"{collection.Key}.json");
+            string filename = Path.Combine(stickerDir, $"{collection.Key}.json");
 
             string json = JsonSerializer.Serialize(collection.Value, new JsonSerializerOptions
             {
