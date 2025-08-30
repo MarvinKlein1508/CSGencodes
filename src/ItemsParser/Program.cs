@@ -1,3 +1,3 @@
-﻿using ItemsParser;
-PaintKits.GeneratePaintKitCollections();
-//StickerKits.GenerateStickerCollections();
+﻿using ItemsParser.workers;
+CollectionWorker.GenerateWeaponCollections();
+StickerWorker.GenerateStickerCollections();

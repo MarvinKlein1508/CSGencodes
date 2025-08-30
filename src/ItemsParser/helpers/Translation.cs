@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace ItemsParser;
+namespace ItemsParser.helpers;
 /// <summary>
 /// Static class for handling translations of item names in CS2
 /// </summary>

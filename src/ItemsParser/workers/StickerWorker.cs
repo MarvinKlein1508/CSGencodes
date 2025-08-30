@@ -1,21 +1,20 @@
 ﻿using CSGencodes.Core.Models;
+using ItemsParser.helpers;
 using JsonModelCreator;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
-namespace ItemsParser;
-public static class StickerKits
+namespace ItemsParser.workers;
+public static class StickerWorker
 {
     private const string OUTPUT_DIR = "output";
     private const string OUTPUT_STICKER_DIR = "stickers";
-    private static readonly string _items_game;
+
     private static readonly List<string> _stickerKitBlocks;
     private static readonly List<StickerKit> _stickerKits = [];
-    static StickerKits()
+    static StickerWorker()
     {
-        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data", "items_game.txt");
-        _items_game = File.ReadAllText(filename);
-        _stickerKitBlocks = ExtractAllStickerKitsBlocks(_items_game);
+        _stickerKitBlocks = ExtractAllStickerKitsBlocks(ItemsGameData.ItemsGame);
 
         foreach (var block in _stickerKitBlocks)
         {
