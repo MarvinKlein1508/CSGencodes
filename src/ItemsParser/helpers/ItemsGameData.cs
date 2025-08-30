@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ItemsParser.helpers;
+﻿namespace ItemsParser.helpers;
 internal static class ItemsGameData
 {
     internal static string ItemsGame { get; }

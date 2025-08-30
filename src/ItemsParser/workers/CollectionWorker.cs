@@ -1,15 +1,7 @@
 ﻿using CSGencodes.Core.Models;
-using ItemsGameParser;
 using ItemsParser.helpers;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using static CEconItemPreviewDataBlock.Types;
 
 namespace ItemsParser.workers;
 internal static class CollectionWorker
