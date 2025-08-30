@@ -17,7 +17,7 @@ internal static class PaintKits
     private static readonly List<ItemSet> _itemSets = [];
     static PaintKits()
     {
-        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "items_game.txt");
+        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data", "items_game.txt");
         _items_game = File.ReadAllText(filename);
         _paintKitBlocks = ExtractAllPaintKitsBlocks(_items_game);
 

@@ -11,7 +11,7 @@ public static class Translation
                   RegexOptions.Compiled | RegexOptions.CultureInvariant);
 
     private static readonly Lazy<Dictionary<string, string>> _dict =
-       new Lazy<Dictionary<string, string>>(() => LoadFile("csgo_english.txt"));
+       new Lazy<Dictionary<string, string>>(() => LoadFile("data/csgo_english.txt"));
 
     public static string GetTranslation(string name)
     {

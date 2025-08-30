@@ -8,16 +8,19 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
+		<ProjectReference Include="..\CSGencodes.Core\CSGencodes.Core.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<None Update="csgo_english.txt">
+		<Content Include="data\**">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-		<None Update="items_game.txt">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
+		</Content>
 	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CsvHelper" Version="33.0.1" />
+	</ItemGroup>
+
+
 
 </Project>

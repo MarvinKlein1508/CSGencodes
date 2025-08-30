@@ -1,4 +1,5 @@
 ﻿using CSGencodes.Core.Models;
+using JsonModelCreator;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
@@ -10,7 +11,7 @@ public static class StickerKits
     private static readonly List<StickerKit> _stickerKits = [];
     static StickerKits()
     {
-        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "items_game.txt");
+        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data", "items_game.txt");
         _items_game = File.ReadAllText(filename);
         _stickerKitBlocks = ExtractAllStickerKitsBlocks(_items_game);
 
@@ -73,8 +74,10 @@ public static class StickerKits
                 Rarity = rarity,
                 StickerId = item.Id,
                 Image = $"/assets/img/items/stickers/{item.StickerMaterial}_png.png",
-                Collection = collection
+                Collection = collection,
             };
+
+            sticker.SkinportSearchId = SkinportIdFinder.GetSkinportId(sticker);
 
             if (stickerCollections.TryGetValue(collection, out List<Sticker>? value))
             {
