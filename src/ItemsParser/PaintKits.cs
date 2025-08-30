@@ -87,23 +87,6 @@ internal static class PaintKits
                 weaponCollections[collection].Add(weapon);
             }
         }
-        //foreach (var item in _paintKits)
-        //{
-        //    i++;
-        //    Console.Write("{0}/{1}\r", i, _paintKits.Count);
-        //    (string weapon_name, int weapon_id, string econ_name) = GetWeaponType(item);
-
-        //    var collection = GetCollection(item);
-        //    string skinName = Translation.GetTranslation(item.DescriptionTag);
-        //    Weapon weapon = new()
-        //    {
-        //        name = $"{weapon_name} | {skinName}",
-        //        weapon_id = weapon_id,
-        //        collection = collection?.Name ?? "UNKNOWN",
-        //    };
-
-        //    weaponCollections["TEST"].Add(weapon);
-        //}
 
         Console.WriteLine(weaponCollections.Count);
     }
@@ -295,23 +278,7 @@ internal static class PaintKits
         Console.WriteLine($"Weapon for \"{name}\" could not be found.");
         return (string.Empty, 0, string.Empty);
     }
-    private static ItemSet? GetCollection(PaintKit entry)
-    {
 
-        foreach (var set in _itemSets)
-        {
-            foreach (var item in set.Items)
-            {
-                if (item.Key.StartsWith($"[{entry.Name}]"))
-                {
-                    return set;
-                }
-            }
-        }
-
-
-        return null;
-    }
     private class PaintKit
     {
         public int Id { get; set; }
