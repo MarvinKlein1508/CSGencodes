@@ -43,8 +43,7 @@ internal static class CollectionWorker
     {
         Dictionary<string, List<Weapon>> weaponCollections = new();
 
-        // Step 1 cast cs2 items into valid objects
-        Console.WriteLine("Parsing paint kits...");
+        Console.WriteLine("Parsing collections...");
         int i = 0;
 
         foreach (var itemSet in _itemSets)
