@@ -1,15 +1,22 @@
 ﻿using CSGencodes.Core.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using static CEconItemPreviewDataBlock.Types;
 
 namespace ItemsParser;
 internal static class PaintKits
 {
+    private const string OUTPUT_DIR = "output";
+    private const string OUTPUT_COLLECTION_DIR = "collections";
+
+    private static readonly string[] _blockedItemSets = ["#CSGO_set_op9_characters"];
+
     private static readonly string _items_game;
     private static readonly List<string> _paintKitBlocks;
     private static readonly List<string> _itemSetBlocks;
@@ -43,13 +50,54 @@ internal static class PaintKits
         // Step 1 cast cs2 items into valid objects
         Console.WriteLine("Parsing paint kits...");
         int i = 0;
-        foreach (var item in _paintKits)
+
+        foreach (var itemSet in _itemSets)
         {
             i++;
-            Console.Write("{0}/{1}\r", i, _paintKits.Count);
-            (string weapon_name, int weapon_id, string econ_name) = GetWeaponType(item);
+            Console.Write("{0}/{1}\r", i, _itemSets.Count);
 
+            if (_blockedItemSets.Contains(itemSet.Name))
+            {
+                continue;
+            }
+
+            var collection = Translation.GetTranslation(itemSet.Name);
+
+            weaponCollections.Add(collection, []);
+
+            foreach (var item in itemSet.Items)
+            {
+                string key = item.Key;
+                string paintKitId = key.Split('[', ']')[1];
+                var paintKit = _paintKits.FirstOrDefault(x => x.Name == paintKitId);
+
+                var weapon = new Weapon
+                {
+                    name = Translation.GetTranslation(paintKit.DescriptionTag),
+                };
+
+                weaponCollections[collection].Add(weapon);
+            }
         }
+        //foreach (var item in _paintKits)
+        //{
+        //    i++;
+        //    Console.Write("{0}/{1}\r", i, _paintKits.Count);
+        //    (string weapon_name, int weapon_id, string econ_name) = GetWeaponType(item);
+
+        //    var collection = GetCollection(item);
+        //    string skinName = Translation.GetTranslation(item.DescriptionTag);
+        //    Weapon weapon = new()
+        //    {
+        //        name = $"{weapon_name} | {skinName}",
+        //        weapon_id = weapon_id,
+        //        collection = collection?.Name ?? "UNKNOWN",
+        //    };
+
+        //    weaponCollections["TEST"].Add(weapon);
+        //}
+
+        Console.WriteLine(weaponCollections.Count);
     }
 
     private static List<string> ExtractAllPaintKitsBlocks(string input)
