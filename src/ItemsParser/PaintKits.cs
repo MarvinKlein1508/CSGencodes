@@ -69,7 +69,7 @@ internal static class PaintKits
             {
                 string key = item.Key;
                 string paintKitId = key.Split('[', ']')[1];
-                var paintKit = _paintKits.FirstOrDefault(x => x.Name == paintKitId);
+                var paintKit = _paintKits.First(x => x.Name == paintKitId);
 
                 var weapon = new Weapon
                 {
