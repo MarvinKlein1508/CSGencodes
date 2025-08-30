@@ -1,4 +1,5 @@
 ﻿using CSGencodes.Core.Models;
+using ItemsGameParser;
 using ItemsParser.helpers;
 using System;
 using System.Collections.Generic;
@@ -68,13 +69,16 @@ internal static class CollectionWorker
 
                 (string weaponName, int weapon_id, string econ_name) = PaintKits.GetWeaponType(paintKit);
 
+                var rarity = PaintKitRarity.GetRarity(paintKitName);
+
                 var weapon = new Weapon
                 {
                     name = $"{weaponName} | {Translation.GetTranslation(paintKit.DescriptionTag)}",
                     weapon_id = weapon_id,
                     gen_id = paintKit.Id,
                     max_wear = paintKit.WearRemapMax / FLOAT_DIVIDER,
-                    min_wear = paintKit.WearRemapMin / FLOAT_DIVIDER
+                    min_wear = paintKit.WearRemapMin / FLOAT_DIVIDER,
+                    rarity = rarity
                 };
 
                 weaponCollections[collection].Add(weapon);

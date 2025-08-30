@@ -1,13 +1,18 @@
-﻿using System.Text.RegularExpressions;
+﻿using ItemsParser.helpers;
+using System.Text.RegularExpressions;
 
 namespace ItemsGameParser;
 internal static class ClientLootList
 {
-    internal static Dictionary<string, List<string>> Lootlist = [];
+    internal static Dictionary<string, List<string>> _lootlist = [];
+    static ClientLootList()
+    {
+        ParseClientLootLists(ItemsGameData.ItemsGame);
+    }
     internal static void ParseClientLootLists(string input)
     {
         var allClientLootListBlocks = ExtractClientLootListsBlocks(input);
-        Lootlist = new Dictionary<string, List<string>>();
+        _lootlist = new Dictionary<string, List<string>>();
 
         foreach (var block in allClientLootListBlocks)
         {
@@ -17,15 +22,27 @@ internal static class ClientLootList
                 var singleMap = ParseNamedLootLists(match.Groups[1].Value);
                 foreach (var pair in singleMap)
                 {
-                    Lootlist[pair.Key] = pair.Value;
+                    _lootlist[pair.Key] = pair.Value;
                 }
             }
         }
     }
-
     internal static string GetRarity(string itemName)
     {
-        foreach (var list in Lootlist)
+        if (itemName is "cu_retribution" or "cu_p90_scorpius" or "am_nitrogen")
+        {
+            return "Milspec";
+        }
+        else if (itemName is "cu_mac10_decay" or "cu_xray_p250" or "hy_labrat_mp5")
+        {
+            return "Restricted";
+        }
+        else if (itemName is "cu_usp_spitfire")
+        {
+            return "Classified";
+        }
+
+        foreach (var list in _lootlist)
         {
             string lootListName = list.Key;
 
@@ -67,7 +84,6 @@ internal static class ClientLootList
 
         throw new Exception($"Could not figure out rarity for: {itemName}");
     }
-
     private static List<string> ExtractClientLootListsBlocks(string input)
     {
         var blocks = new List<string>();
@@ -103,7 +119,6 @@ internal static class ClientLootList
 
         return blocks;
     }
-
     private static Dictionary<string, List<string>> ParseNamedLootLists(string clientLootListsBlockContent)
     {
         var result = new Dictionary<string, List<string>>();
