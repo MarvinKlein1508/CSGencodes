@@ -1,0 +1,138 @@
+[
+  {
+    "Name": "Assassin",
+    "StickerId": 4533,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/assassin_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Chief",
+    "StickerId": 4534,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/chief_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dirty Money",
+    "StickerId": 4535,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/dirtymoney_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Extermination",
+    "StickerId": 4536,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/extermination_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Incineration",
+    "StickerId": 4537,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/incineration_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Killjoy",
+    "StickerId": 4538,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/killjoy_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Legendary",
+    "StickerId": 4539,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/legendary_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mister Chief",
+    "StickerId": 4540,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/misterchief_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Noble",
+    "StickerId": 4541,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/noble_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spartan",
+    "StickerId": 4542,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/halo/spartan_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Assassin (Holo)",
+    "StickerId": 4543,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/halo/assassin_holo_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Chief (Holo)",
+    "StickerId": 4544,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/halo/chief_holo_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Incineration (Holo)",
+    "StickerId": 4545,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/halo/incineration_holo_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Killjoy (Holo)",
+    "StickerId": 4546,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/halo/killjoy_holo_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Noble (Holo)",
+    "StickerId": 4547,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/halo/noble_holo_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Chief (Foil)",
+    "StickerId": 4548,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/halo/chief_foil_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Legendary (Foil)",
+    "StickerId": 4549,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/halo/legendary_foil_png.png",
+    "Collection": "halo",
+    "SkinportSearchId": null
+  }
+]

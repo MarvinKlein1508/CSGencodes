@@ -1,0 +1,4802 @@
+[
+  {
+    "Name": "Natus Vincere | Copenhagen 2024",
+    "StickerId": 7254,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/navi_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Glitter) | Copenhagen 2024",
+    "StickerId": 7255,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/navi_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Holo) | Copenhagen 2024",
+    "StickerId": 7256,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/navi_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Gold) | Copenhagen 2024",
+    "StickerId": 7257,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/navi_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro | Copenhagen 2024",
+    "StickerId": 7258,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/vp_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro (Glitter) | Copenhagen 2024",
+    "StickerId": 7259,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/vp_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro (Holo) | Copenhagen 2024",
+    "StickerId": 7260,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/vp_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro (Gold) | Copenhagen 2024",
+    "StickerId": 7261,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/vp_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 Esports | Copenhagen 2024",
+    "StickerId": 7262,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/g2_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 Esports (Glitter) | Copenhagen 2024",
+    "StickerId": 7263,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/g2_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 Esports (Holo) | Copenhagen 2024",
+    "StickerId": 7264,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/g2_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 Esports (Gold) | Copenhagen 2024",
+    "StickerId": 7265,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/g2_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe Clan | Copenhagen 2024",
+    "StickerId": 7266,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/faze_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe Clan (Glitter) | Copenhagen 2024",
+    "StickerId": 7267,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/faze_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe Clan (Holo) | Copenhagen 2024",
+    "StickerId": 7268,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/faze_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe Clan (Gold) | Copenhagen 2024",
+    "StickerId": 7269,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/faze_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Spirit | Copenhagen 2024",
+    "StickerId": 7270,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/spir_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Spirit (Glitter) | Copenhagen 2024",
+    "StickerId": 7271,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/spir_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Spirit (Holo) | Copenhagen 2024",
+    "StickerId": 7272,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/spir_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Spirit (Gold) | Copenhagen 2024",
+    "StickerId": 7273,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/spir_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality | Copenhagen 2024",
+    "StickerId": 7274,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/vita_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality (Glitter) | Copenhagen 2024",
+    "StickerId": 7275,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/vita_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality (Holo) | Copenhagen 2024",
+    "StickerId": 7276,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/vita_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality (Gold) | Copenhagen 2024",
+    "StickerId": 7277,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/vita_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MOUZ | Copenhagen 2024",
+    "StickerId": 7278,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MOUZ (Glitter) | Copenhagen 2024",
+    "StickerId": 7279,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MOUZ (Holo) | Copenhagen 2024",
+    "StickerId": 7280,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MOUZ (Gold) | Copenhagen 2024",
+    "StickerId": 7281,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/mouz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Complexity Gaming | Copenhagen 2024",
+    "StickerId": 7282,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Complexity Gaming (Glitter) | Copenhagen 2024",
+    "StickerId": 7283,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Complexity Gaming (Holo) | Copenhagen 2024",
+    "StickerId": 7284,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Complexity Gaming (Gold) | Copenhagen 2024",
+    "StickerId": 7285,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/cplx_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 | Copenhagen 2024",
+    "StickerId": 7286,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/c9_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 (Glitter) | Copenhagen 2024",
+    "StickerId": 7287,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/c9_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 (Holo) | Copenhagen 2024",
+    "StickerId": 7288,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/c9_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 (Gold) | Copenhagen 2024",
+    "StickerId": 7289,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/c9_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ENCE | Copenhagen 2024",
+    "StickerId": 7290,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/ence_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ENCE (Glitter) | Copenhagen 2024",
+    "StickerId": 7291,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/ence_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ENCE (Holo) | Copenhagen 2024",
+    "StickerId": 7292,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/ence_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ENCE (Gold) | Copenhagen 2024",
+    "StickerId": 7293,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/ence_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA | Copenhagen 2024",
+    "StickerId": 7294,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/furi_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA (Glitter) | Copenhagen 2024",
+    "StickerId": 7295,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/furi_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA (Holo) | Copenhagen 2024",
+    "StickerId": 7296,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/furi_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA (Gold) | Copenhagen 2024",
+    "StickerId": 7297,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/furi_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic | Copenhagen 2024",
+    "StickerId": 7298,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/hero_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic (Glitter) | Copenhagen 2024",
+    "StickerId": 7299,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/hero_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic (Holo) | Copenhagen 2024",
+    "StickerId": 7300,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/hero_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic (Gold) | Copenhagen 2024",
+    "StickerId": 7301,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/hero_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Eternal Fire | Copenhagen 2024",
+    "StickerId": 7302,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/eter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Eternal Fire (Glitter) | Copenhagen 2024",
+    "StickerId": 7303,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/eter_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Eternal Fire (Holo) | Copenhagen 2024",
+    "StickerId": 7304,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/eter_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Eternal Fire (Gold) | Copenhagen 2024",
+    "StickerId": 7305,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/eter_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Apeks | Copenhagen 2024",
+    "StickerId": 7306,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/apex_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Apeks (Glitter) | Copenhagen 2024",
+    "StickerId": 7307,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/apex_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Apeks (Holo) | Copenhagen 2024",
+    "StickerId": 7308,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/apex_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Apeks (Gold) | Copenhagen 2024",
+    "StickerId": 7309,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/apex_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GamerLegion | Copenhagen 2024",
+    "StickerId": 7310,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/gl_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GamerLegion (Glitter) | Copenhagen 2024",
+    "StickerId": 7311,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/gl_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GamerLegion (Holo) | Copenhagen 2024",
+    "StickerId": 7312,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/gl_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GamerLegion (Gold) | Copenhagen 2024",
+    "StickerId": 7313,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/gl_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "SAW | Copenhagen 2024",
+    "StickerId": 7314,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/saw_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "SAW (Glitter) | Copenhagen 2024",
+    "StickerId": 7315,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/saw_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "SAW (Holo) | Copenhagen 2024",
+    "StickerId": 7316,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/saw_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "SAW (Gold) | Copenhagen 2024",
+    "StickerId": 7317,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/saw_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "paiN Gaming | Copenhagen 2024",
+    "StickerId": 7318,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/pain_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "paiN Gaming (Glitter) | Copenhagen 2024",
+    "StickerId": 7319,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/pain_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "paiN Gaming (Holo) | Copenhagen 2024",
+    "StickerId": 7320,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/pain_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "paiN Gaming (Gold) | Copenhagen 2024",
+    "StickerId": 7321,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/pain_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Imperial Esports | Copenhagen 2024",
+    "StickerId": 7322,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/imp_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Imperial Esports (Glitter) | Copenhagen 2024",
+    "StickerId": 7323,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/imp_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Imperial Esports (Holo) | Copenhagen 2024",
+    "StickerId": 7324,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/imp_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Imperial Esports (Gold) | Copenhagen 2024",
+    "StickerId": 7325,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/imp_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "The MongolZ | Copenhagen 2024",
+    "StickerId": 7326,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "The MongolZ (Glitter) | Copenhagen 2024",
+    "StickerId": 7327,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "The MongolZ (Holo) | Copenhagen 2024",
+    "StickerId": 7328,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "The MongolZ (Gold) | Copenhagen 2024",
+    "StickerId": 7329,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/mngz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "AMKAL ESPORTS | Copenhagen 2024",
+    "StickerId": 7330,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/amka_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "AMKAL ESPORTS (Glitter) | Copenhagen 2024",
+    "StickerId": 7331,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/amka_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "AMKAL ESPORTS (Holo) | Copenhagen 2024",
+    "StickerId": 7332,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/amka_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "AMKAL ESPORTS (Gold) | Copenhagen 2024",
+    "StickerId": 7333,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/amka_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ECSTATIC | Copenhagen 2024",
+    "StickerId": 7334,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ECSTATIC (Glitter) | Copenhagen 2024",
+    "StickerId": 7335,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ECSTATIC (Holo) | Copenhagen 2024",
+    "StickerId": 7336,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ECSTATIC (Gold) | Copenhagen 2024",
+    "StickerId": 7337,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/ecst_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KOI | Copenhagen 2024",
+    "StickerId": 7338,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/koi_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KOI (Glitter) | Copenhagen 2024",
+    "StickerId": 7339,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/koi_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KOI (Holo) | Copenhagen 2024",
+    "StickerId": 7340,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/koi_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KOI (Gold) | Copenhagen 2024",
+    "StickerId": 7341,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/koi_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Legacy | Copenhagen 2024",
+    "StickerId": 7342,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Legacy (Glitter) | Copenhagen 2024",
+    "StickerId": 7343,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Legacy (Holo) | Copenhagen 2024",
+    "StickerId": 7344,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Legacy (Gold) | Copenhagen 2024",
+    "StickerId": 7345,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/lgcy_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lynn Vision | Copenhagen 2024",
+    "StickerId": 7346,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lynn Vision (Glitter) | Copenhagen 2024",
+    "StickerId": 7347,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lynn Vision (Holo) | Copenhagen 2024",
+    "StickerId": 7348,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lynn Vision (Gold) | Copenhagen 2024",
+    "StickerId": 7349,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/lynn_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "PGL | Copenhagen 2024",
+    "StickerId": 7350,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "PGL (Glitter) | Copenhagen 2024",
+    "StickerId": 7351,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "PGL (Holo) | Copenhagen 2024",
+    "StickerId": 7352,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "PGL (Gold) | Copenhagen 2024",
+    "StickerId": 7353,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/pgl_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL | Copenhagen 2024",
+    "StickerId": 7379,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Glitter) | Copenhagen 2024",
+    "StickerId": 7380,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Holo) | Copenhagen 2024",
+    "StickerId": 7381,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Gold) | Copenhagen 2024",
+    "StickerId": 7382,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib | Copenhagen 2024",
+    "StickerId": 7383,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Glitter) | Copenhagen 2024",
+    "StickerId": 7384,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Holo) | Copenhagen 2024",
+    "StickerId": 7385,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Gold) | Copenhagen 2024",
+    "StickerId": 7386,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t | Copenhagen 2024",
+    "StickerId": 7387,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Glitter) | Copenhagen 2024",
+    "StickerId": 7388,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Holo) | Copenhagen 2024",
+    "StickerId": 7389,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Gold) | Copenhagen 2024",
+    "StickerId": 7390,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM | Copenhagen 2024",
+    "StickerId": 7391,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Glitter) | Copenhagen 2024",
+    "StickerId": 7392,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Holo) | Copenhagen 2024",
+    "StickerId": 7393,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Gold) | Copenhagen 2024",
+    "StickerId": 7394,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful | Copenhagen 2024",
+    "StickerId": 7395,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Glitter) | Copenhagen 2024",
+    "StickerId": 7396,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Holo) | Copenhagen 2024",
+    "StickerId": 7397,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Gold) | Copenhagen 2024",
+    "StickerId": 7398,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "fame | Copenhagen 2024",
+    "StickerId": 7399,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fame_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "fame (Glitter) | Copenhagen 2024",
+    "StickerId": 7400,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fame_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "fame (Holo) | Copenhagen 2024",
+    "StickerId": 7401,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fame_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "fame (Gold) | Copenhagen 2024",
+    "StickerId": 7402,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fame_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FL1T | Copenhagen 2024",
+    "StickerId": 7403,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FL1T (Glitter) | Copenhagen 2024",
+    "StickerId": 7404,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FL1T (Holo) | Copenhagen 2024",
+    "StickerId": 7405,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FL1T (Gold) | Copenhagen 2024",
+    "StickerId": 7406,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fl1t_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jame | Copenhagen 2024",
+    "StickerId": 7407,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jame_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jame (Glitter) | Copenhagen 2024",
+    "StickerId": 7408,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jame_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jame (Holo) | Copenhagen 2024",
+    "StickerId": 7409,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jame_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jame (Gold) | Copenhagen 2024",
+    "StickerId": 7410,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jame_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mir | Copenhagen 2024",
+    "StickerId": 7411,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mir_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mir (Glitter) | Copenhagen 2024",
+    "StickerId": 7412,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mir_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mir (Holo) | Copenhagen 2024",
+    "StickerId": 7413,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mir_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mir (Gold) | Copenhagen 2024",
+    "StickerId": 7414,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mir_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n0rb3r7 | Copenhagen 2024",
+    "StickerId": 7415,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n0rb3r7 (Glitter) | Copenhagen 2024",
+    "StickerId": 7416,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n0rb3r7 (Holo) | Copenhagen 2024",
+    "StickerId": 7417,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n0rb3r7 (Gold) | Copenhagen 2024",
+    "StickerId": 7418,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n0rb3r7_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HooXi | Copenhagen 2024",
+    "StickerId": 7419,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HooXi (Glitter) | Copenhagen 2024",
+    "StickerId": 7420,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HooXi (Holo) | Copenhagen 2024",
+    "StickerId": 7421,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HooXi (Gold) | Copenhagen 2024",
+    "StickerId": 7422,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hooxi_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "huNter- | Copenhagen 2024",
+    "StickerId": 7423,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hunter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "huNter- (Glitter) | Copenhagen 2024",
+    "StickerId": 7424,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hunter_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "huNter- (Holo) | Copenhagen 2024",
+    "StickerId": 7425,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hunter_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "huNter- (Gold) | Copenhagen 2024",
+    "StickerId": 7426,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hunter_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "m0NESY | Copenhagen 2024",
+    "StickerId": 7427,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "m0NESY (Glitter) | Copenhagen 2024",
+    "StickerId": 7428,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "m0NESY (Holo) | Copenhagen 2024",
+    "StickerId": 7429,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "m0NESY (Gold) | Copenhagen 2024",
+    "StickerId": 7430,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_m0nesy_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nexa | Copenhagen 2024",
+    "StickerId": 7431,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nexa_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nexa (Glitter) | Copenhagen 2024",
+    "StickerId": 7432,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nexa_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nexa (Holo) | Copenhagen 2024",
+    "StickerId": 7433,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nexa_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nexa (Gold) | Copenhagen 2024",
+    "StickerId": 7434,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nexa_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NiKo | Copenhagen 2024",
+    "StickerId": 7435,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_niko_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NiKo (Glitter) | Copenhagen 2024",
+    "StickerId": 7436,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_niko_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NiKo (Holo) | Copenhagen 2024",
+    "StickerId": 7437,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_niko_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NiKo (Gold) | Copenhagen 2024",
+    "StickerId": 7438,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_niko_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "broky | Copenhagen 2024",
+    "StickerId": 7439,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_broky_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "broky (Glitter) | Copenhagen 2024",
+    "StickerId": 7440,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_broky_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "broky (Holo) | Copenhagen 2024",
+    "StickerId": 7441,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_broky_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "broky (Gold) | Copenhagen 2024",
+    "StickerId": 7442,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_broky_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "frozen | Copenhagen 2024",
+    "StickerId": 7443,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_frozen_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "frozen (Glitter) | Copenhagen 2024",
+    "StickerId": 7444,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_frozen_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "frozen (Holo) | Copenhagen 2024",
+    "StickerId": 7445,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_frozen_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "frozen (Gold) | Copenhagen 2024",
+    "StickerId": 7446,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_frozen_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "karrigan | Copenhagen 2024",
+    "StickerId": 7447,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "karrigan (Glitter) | Copenhagen 2024",
+    "StickerId": 7448,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "karrigan (Holo) | Copenhagen 2024",
+    "StickerId": 7449,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "karrigan (Gold) | Copenhagen 2024",
+    "StickerId": 7450,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_karrigan_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "rain | Copenhagen 2024",
+    "StickerId": 7451,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_rain_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "rain (Glitter) | Copenhagen 2024",
+    "StickerId": 7452,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_rain_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "rain (Holo) | Copenhagen 2024",
+    "StickerId": 7453,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_rain_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "rain (Gold) | Copenhagen 2024",
+    "StickerId": 7454,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_rain_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ropz | Copenhagen 2024",
+    "StickerId": 7455,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ropz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ropz (Glitter) | Copenhagen 2024",
+    "StickerId": 7456,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ropz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ropz (Holo) | Copenhagen 2024",
+    "StickerId": 7457,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ropz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ropz (Gold) | Copenhagen 2024",
+    "StickerId": 7458,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ropz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chopper | Copenhagen 2024",
+    "StickerId": 7459,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chopper_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chopper (Glitter) | Copenhagen 2024",
+    "StickerId": 7460,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chopper_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chopper (Holo) | Copenhagen 2024",
+    "StickerId": 7461,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chopper_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chopper (Gold) | Copenhagen 2024",
+    "StickerId": 7462,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chopper_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "donk | Copenhagen 2024",
+    "StickerId": 7463,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_donk_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "donk (Glitter) | Copenhagen 2024",
+    "StickerId": 7464,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_donk_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "donk (Holo) | Copenhagen 2024",
+    "StickerId": 7465,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_donk_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "donk (Gold) | Copenhagen 2024",
+    "StickerId": 7466,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_donk_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "magixx | Copenhagen 2024",
+    "StickerId": 7467,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_magixx_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "magixx (Glitter) | Copenhagen 2024",
+    "StickerId": 7468,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_magixx_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "magixx (Holo) | Copenhagen 2024",
+    "StickerId": 7469,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_magixx_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "magixx (Gold) | Copenhagen 2024",
+    "StickerId": 7470,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_magixx_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sh1ro | Copenhagen 2024",
+    "StickerId": 7471,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sh1ro (Glitter) | Copenhagen 2024",
+    "StickerId": 7472,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sh1ro (Holo) | Copenhagen 2024",
+    "StickerId": 7473,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sh1ro (Gold) | Copenhagen 2024",
+    "StickerId": 7474,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sh1ro_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "zont1x | Copenhagen 2024",
+    "StickerId": 7475,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "zont1x (Glitter) | Copenhagen 2024",
+    "StickerId": 7476,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "zont1x (Holo) | Copenhagen 2024",
+    "StickerId": 7477,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "zont1x (Gold) | Copenhagen 2024",
+    "StickerId": 7478,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zont1x_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "apEX | Copenhagen 2024",
+    "StickerId": 7479,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_apex_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "apEX (Glitter) | Copenhagen 2024",
+    "StickerId": 7480,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_apex_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "apEX (Holo) | Copenhagen 2024",
+    "StickerId": 7481,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_apex_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "apEX (Gold) | Copenhagen 2024",
+    "StickerId": 7482,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_apex_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FlameZ | Copenhagen 2024",
+    "StickerId": 7483,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_flamez_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FlameZ (Glitter) | Copenhagen 2024",
+    "StickerId": 7484,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_flamez_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FlameZ (Holo) | Copenhagen 2024",
+    "StickerId": 7485,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_flamez_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FlameZ (Gold) | Copenhagen 2024",
+    "StickerId": 7486,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_flamez_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mezii | Copenhagen 2024",
+    "StickerId": 7487,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mezii_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mezii (Glitter) | Copenhagen 2024",
+    "StickerId": 7488,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mezii_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mezii (Holo) | Copenhagen 2024",
+    "StickerId": 7489,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mezii_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mezii (Gold) | Copenhagen 2024",
+    "StickerId": 7490,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mezii_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spinx | Copenhagen 2024",
+    "StickerId": 7491,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_spinx_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spinx (Glitter) | Copenhagen 2024",
+    "StickerId": 7492,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_spinx_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spinx (Holo) | Copenhagen 2024",
+    "StickerId": 7493,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_spinx_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spinx (Gold) | Copenhagen 2024",
+    "StickerId": 7494,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_spinx_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ZywOo | Copenhagen 2024",
+    "StickerId": 7495,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ZywOo (Glitter) | Copenhagen 2024",
+    "StickerId": 7496,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ZywOo (Holo) | Copenhagen 2024",
+    "StickerId": 7497,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ZywOo (Gold) | Copenhagen 2024",
+    "StickerId": 7498,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_zywoo_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Brollan | Copenhagen 2024",
+    "StickerId": 7499,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_brollan_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Brollan (Glitter) | Copenhagen 2024",
+    "StickerId": 7500,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_brollan_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Brollan (Holo) | Copenhagen 2024",
+    "StickerId": 7501,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_brollan_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Brollan (Gold) | Copenhagen 2024",
+    "StickerId": 7502,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_brollan_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jimpphat | Copenhagen 2024",
+    "StickerId": 7503,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jimpphat (Glitter) | Copenhagen 2024",
+    "StickerId": 7504,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jimpphat (Holo) | Copenhagen 2024",
+    "StickerId": 7505,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jimpphat (Gold) | Copenhagen 2024",
+    "StickerId": 7506,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jimpphat_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "siuhy | Copenhagen 2024",
+    "StickerId": 7507,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "siuhy (Glitter) | Copenhagen 2024",
+    "StickerId": 7508,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "siuhy (Holo) | Copenhagen 2024",
+    "StickerId": 7509,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "siuhy (Gold) | Copenhagen 2024",
+    "StickerId": 7510,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_siuhy_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "torzsi | Copenhagen 2024",
+    "StickerId": 7511,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "torzsi (Glitter) | Copenhagen 2024",
+    "StickerId": 7512,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "torzsi (Holo) | Copenhagen 2024",
+    "StickerId": 7513,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "torzsi (Gold) | Copenhagen 2024",
+    "StickerId": 7514,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_torzsi_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "xertioN | Copenhagen 2024",
+    "StickerId": 7515,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xertion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "xertioN (Glitter) | Copenhagen 2024",
+    "StickerId": 7516,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xertion_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "xertioN (Holo) | Copenhagen 2024",
+    "StickerId": 7517,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xertion_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "xertioN (Gold) | Copenhagen 2024",
+    "StickerId": 7518,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xertion_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hallzerk | Copenhagen 2024",
+    "StickerId": 7519,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hallzerk (Glitter) | Copenhagen 2024",
+    "StickerId": 7520,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hallzerk (Holo) | Copenhagen 2024",
+    "StickerId": 7521,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hallzerk (Gold) | Copenhagen 2024",
+    "StickerId": 7522,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hallzerk_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EliGE | Copenhagen 2024",
+    "StickerId": 7523,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_elige_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EliGE (Glitter) | Copenhagen 2024",
+    "StickerId": 7524,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_elige_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EliGE (Holo) | Copenhagen 2024",
+    "StickerId": 7525,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_elige_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EliGE (Gold) | Copenhagen 2024",
+    "StickerId": 7526,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_elige_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "floppy | Copenhagen 2024",
+    "StickerId": 7527,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_floppy_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "floppy (Glitter) | Copenhagen 2024",
+    "StickerId": 7528,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_floppy_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "floppy (Holo) | Copenhagen 2024",
+    "StickerId": 7529,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_floppy_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "floppy (Gold) | Copenhagen 2024",
+    "StickerId": 7530,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_floppy_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Grim | Copenhagen 2024",
+    "StickerId": 7531,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_grim_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Grim (Glitter) | Copenhagen 2024",
+    "StickerId": 7532,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_grim_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Grim (Holo) | Copenhagen 2024",
+    "StickerId": 7533,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_grim_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Grim (Gold) | Copenhagen 2024",
+    "StickerId": 7534,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_grim_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JT | Copenhagen 2024",
+    "StickerId": 7535,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jt_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JT (Glitter) | Copenhagen 2024",
+    "StickerId": 7536,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jt_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JT (Holo) | Copenhagen 2024",
+    "StickerId": 7537,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jt_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JT (Gold) | Copenhagen 2024",
+    "StickerId": 7538,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jt_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ax1Le | Copenhagen 2024",
+    "StickerId": 7539,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ax1Le (Glitter) | Copenhagen 2024",
+    "StickerId": 7540,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ax1Le (Holo) | Copenhagen 2024",
+    "StickerId": 7541,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ax1Le (Gold) | Copenhagen 2024",
+    "StickerId": 7542,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ax1le_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boombl4 | Copenhagen 2024",
+    "StickerId": 7543,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boombl4 (Glitter) | Copenhagen 2024",
+    "StickerId": 7544,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boombl4 (Holo) | Copenhagen 2024",
+    "StickerId": 7545,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boombl4 (Gold) | Copenhagen 2024",
+    "StickerId": 7546,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_boombl4_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "electronic | Copenhagen 2024",
+    "StickerId": 7547,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_electronic_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "electronic (Glitter) | Copenhagen 2024",
+    "StickerId": 7548,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_electronic_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "electronic (Holo) | Copenhagen 2024",
+    "StickerId": 7549,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_electronic_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "electronic (Gold) | Copenhagen 2024",
+    "StickerId": 7550,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_electronic_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Hobbit | Copenhagen 2024",
+    "StickerId": 7551,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Hobbit (Glitter) | Copenhagen 2024",
+    "StickerId": 7552,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Hobbit (Holo) | Copenhagen 2024",
+    "StickerId": 7553,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Hobbit (Gold) | Copenhagen 2024",
+    "StickerId": 7554,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hobbit_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Perfecto | Copenhagen 2024",
+    "StickerId": 7555,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Perfecto (Glitter) | Copenhagen 2024",
+    "StickerId": 7556,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Perfecto (Holo) | Copenhagen 2024",
+    "StickerId": 7557,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Perfecto (Gold) | Copenhagen 2024",
+    "StickerId": 7558,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_perfecto_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Goofy | Copenhagen 2024",
+    "StickerId": 7559,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_goofy_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Goofy (Glitter) | Copenhagen 2024",
+    "StickerId": 7560,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_goofy_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Goofy (Holo) | Copenhagen 2024",
+    "StickerId": 7561,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_goofy_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Goofy (Gold) | Copenhagen 2024",
+    "StickerId": 7562,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_goofy_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Kylar | Copenhagen 2024",
+    "StickerId": 7563,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kylar_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Kylar (Glitter) | Copenhagen 2024",
+    "StickerId": 7564,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kylar_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Kylar (Holo) | Copenhagen 2024",
+    "StickerId": 7565,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kylar_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Kylar (Gold) | Copenhagen 2024",
+    "StickerId": 7566,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kylar_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dycha | Copenhagen 2024",
+    "StickerId": 7567,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dycha_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dycha (Glitter) | Copenhagen 2024",
+    "StickerId": 7568,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dycha_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dycha (Holo) | Copenhagen 2024",
+    "StickerId": 7569,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dycha_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dycha (Gold) | Copenhagen 2024",
+    "StickerId": 7570,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dycha_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "gla1ve | Copenhagen 2024",
+    "StickerId": 7571,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "gla1ve (Glitter) | Copenhagen 2024",
+    "StickerId": 7572,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "gla1ve (Holo) | Copenhagen 2024",
+    "StickerId": 7573,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "gla1ve (Gold) | Copenhagen 2024",
+    "StickerId": 7574,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_gla1ve_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hades | Copenhagen 2024",
+    "StickerId": 7575,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hades_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hades (Glitter) | Copenhagen 2024",
+    "StickerId": 7576,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hades_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hades (Holo) | Copenhagen 2024",
+    "StickerId": 7577,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hades_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "hades (Gold) | Copenhagen 2024",
+    "StickerId": 7578,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hades_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arT | Copenhagen 2024",
+    "StickerId": 7579,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_art_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arT (Glitter) | Copenhagen 2024",
+    "StickerId": 7580,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_art_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arT (Holo) | Copenhagen 2024",
+    "StickerId": 7581,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_art_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arT (Gold) | Copenhagen 2024",
+    "StickerId": 7582,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_art_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chelo | Copenhagen 2024",
+    "StickerId": 7583,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chelo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chelo (Glitter) | Copenhagen 2024",
+    "StickerId": 7584,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chelo_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chelo (Holo) | Copenhagen 2024",
+    "StickerId": 7585,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chelo_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "chelo (Gold) | Copenhagen 2024",
+    "StickerId": 7586,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_chelo_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FalleN | Copenhagen 2024",
+    "StickerId": 7587,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fallen_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FalleN (Glitter) | Copenhagen 2024",
+    "StickerId": 7588,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fallen_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FalleN (Holo) | Copenhagen 2024",
+    "StickerId": 7589,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fallen_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FalleN (Gold) | Copenhagen 2024",
+    "StickerId": 7590,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_fallen_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KSCERATO | Copenhagen 2024",
+    "StickerId": 7591,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KSCERATO (Glitter) | Copenhagen 2024",
+    "StickerId": 7592,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KSCERATO (Holo) | Copenhagen 2024",
+    "StickerId": 7593,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "KSCERATO (Gold) | Copenhagen 2024",
+    "StickerId": 7594,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kscerato_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "yuurih | Copenhagen 2024",
+    "StickerId": 7595,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "yuurih (Glitter) | Copenhagen 2024",
+    "StickerId": 7596,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "yuurih (Holo) | Copenhagen 2024",
+    "StickerId": 7597,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "yuurih (Gold) | Copenhagen 2024",
+    "StickerId": 7598,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_yuurih_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kyxsan | Copenhagen 2024",
+    "StickerId": 7599,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kyxsan (Glitter) | Copenhagen 2024",
+    "StickerId": 7600,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kyxsan (Holo) | Copenhagen 2024",
+    "StickerId": 7601,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kyxsan (Gold) | Copenhagen 2024",
+    "StickerId": 7602,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kyxsan_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NertZ | Copenhagen 2024",
+    "StickerId": 7603,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nertz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NertZ (Glitter) | Copenhagen 2024",
+    "StickerId": 7604,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nertz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NertZ (Holo) | Copenhagen 2024",
+    "StickerId": 7605,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nertz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NertZ (Gold) | Copenhagen 2024",
+    "StickerId": 7606,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nertz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nicoodoz | Copenhagen 2024",
+    "StickerId": 7607,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nicoodoz (Glitter) | Copenhagen 2024",
+    "StickerId": 7608,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nicoodoz (Holo) | Copenhagen 2024",
+    "StickerId": 7609,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nicoodoz (Gold) | Copenhagen 2024",
+    "StickerId": 7610,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nicoodoz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sjuush | Copenhagen 2024",
+    "StickerId": 7611,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sjuush (Glitter) | Copenhagen 2024",
+    "StickerId": 7612,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sjuush (Holo) | Copenhagen 2024",
+    "StickerId": 7613,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sjuush (Gold) | Copenhagen 2024",
+    "StickerId": 7614,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sjuush_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TeSeS | Copenhagen 2024",
+    "StickerId": 7615,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_teses_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TeSeS (Glitter) | Copenhagen 2024",
+    "StickerId": 7616,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_teses_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TeSeS (Holo) | Copenhagen 2024",
+    "StickerId": 7617,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_teses_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TeSeS (Gold) | Copenhagen 2024",
+    "StickerId": 7618,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_teses_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Calyx | Copenhagen 2024",
+    "StickerId": 7619,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_calyx_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Calyx (Glitter) | Copenhagen 2024",
+    "StickerId": 7620,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_calyx_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Calyx (Holo) | Copenhagen 2024",
+    "StickerId": 7621,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_calyx_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Calyx (Gold) | Copenhagen 2024",
+    "StickerId": 7622,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_calyx_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MAJ3R | Copenhagen 2024",
+    "StickerId": 7623,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MAJ3R (Glitter) | Copenhagen 2024",
+    "StickerId": 7624,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MAJ3R (Holo) | Copenhagen 2024",
+    "StickerId": 7625,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MAJ3R (Gold) | Copenhagen 2024",
+    "StickerId": 7626,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_maj3r_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Wicadia | Copenhagen 2024",
+    "StickerId": 7627,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Wicadia (Glitter) | Copenhagen 2024",
+    "StickerId": 7628,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Wicadia (Holo) | Copenhagen 2024",
+    "StickerId": 7629,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Wicadia (Gold) | Copenhagen 2024",
+    "StickerId": 7630,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_wicadia_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "woxic | Copenhagen 2024",
+    "StickerId": 7631,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_woxic_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "woxic (Glitter) | Copenhagen 2024",
+    "StickerId": 7632,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_woxic_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "woxic (Holo) | Copenhagen 2024",
+    "StickerId": 7633,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_woxic_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "woxic (Gold) | Copenhagen 2024",
+    "StickerId": 7634,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_woxic_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "XANTARES | Copenhagen 2024",
+    "StickerId": 7635,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xantares_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "XANTARES (Glitter) | Copenhagen 2024",
+    "StickerId": 7636,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xantares_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "XANTARES (Holo) | Copenhagen 2024",
+    "StickerId": 7637,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xantares_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "XANTARES (Gold) | Copenhagen 2024",
+    "StickerId": 7638,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_xantares_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nawwk | Copenhagen 2024",
+    "StickerId": 7639,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nawwk (Glitter) | Copenhagen 2024",
+    "StickerId": 7640,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nawwk (Holo) | Copenhagen 2024",
+    "StickerId": 7641,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "nawwk (Gold) | Copenhagen 2024",
+    "StickerId": 7642,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nawwk_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "CacaNito | Copenhagen 2024",
+    "StickerId": 7643,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "CacaNito (Glitter) | Copenhagen 2024",
+    "StickerId": 7644,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "CacaNito (Holo) | Copenhagen 2024",
+    "StickerId": 7645,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "CacaNito (Gold) | Copenhagen 2024",
+    "StickerId": 7646,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_cacanito_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jkaem | Copenhagen 2024",
+    "StickerId": 7647,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jkaem (Glitter) | Copenhagen 2024",
+    "StickerId": 7648,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jkaem (Holo) | Copenhagen 2024",
+    "StickerId": 7649,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jkaem (Gold) | Copenhagen 2024",
+    "StickerId": 7650,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jkaem_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sense | Copenhagen 2024",
+    "StickerId": 7651,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sense_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sense (Glitter) | Copenhagen 2024",
+    "StickerId": 7652,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sense_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sense (Holo) | Copenhagen 2024",
+    "StickerId": 7653,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sense_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "sense (Gold) | Copenhagen 2024",
+    "StickerId": 7654,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_sense_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "STYKO | Copenhagen 2024",
+    "StickerId": 7655,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_styko_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "STYKO (Glitter) | Copenhagen 2024",
+    "StickerId": 7656,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_styko_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "STYKO (Holo) | Copenhagen 2024",
+    "StickerId": 7657,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_styko_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "STYKO (Gold) | Copenhagen 2024",
+    "StickerId": 7658,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_styko_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "acoR | Copenhagen 2024",
+    "StickerId": 7659,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_acor_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "acoR (Glitter) | Copenhagen 2024",
+    "StickerId": 7660,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_acor_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "acoR (Holo) | Copenhagen 2024",
+    "StickerId": 7661,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_acor_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "acoR (Gold) | Copenhagen 2024",
+    "StickerId": 7662,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_acor_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "isak | Copenhagen 2024",
+    "StickerId": 7663,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_isak_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "isak (Glitter) | Copenhagen 2024",
+    "StickerId": 7664,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_isak_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "isak (Holo) | Copenhagen 2024",
+    "StickerId": 7665,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_isak_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "isak (Gold) | Copenhagen 2024",
+    "StickerId": 7666,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_isak_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Keoz | Copenhagen 2024",
+    "StickerId": 7667,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_keoz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Keoz (Glitter) | Copenhagen 2024",
+    "StickerId": 7668,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_keoz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Keoz (Holo) | Copenhagen 2024",
+    "StickerId": 7669,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_keoz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Keoz (Gold) | Copenhagen 2024",
+    "StickerId": 7670,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_keoz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Snax | Copenhagen 2024",
+    "StickerId": 7671,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_snax_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Snax (Glitter) | Copenhagen 2024",
+    "StickerId": 7672,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_snax_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Snax (Holo) | Copenhagen 2024",
+    "StickerId": 7673,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_snax_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Snax (Gold) | Copenhagen 2024",
+    "StickerId": 7674,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_snax_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "volt | Copenhagen 2024",
+    "StickerId": 7675,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_volt_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "volt (Glitter) | Copenhagen 2024",
+    "StickerId": 7676,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_volt_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "volt (Holo) | Copenhagen 2024",
+    "StickerId": 7677,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_volt_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "volt (Gold) | Copenhagen 2024",
+    "StickerId": 7678,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_volt_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arrozdoce | Copenhagen 2024",
+    "StickerId": 7679,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arrozdoce (Glitter) | Copenhagen 2024",
+    "StickerId": 7680,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arrozdoce (Holo) | Copenhagen 2024",
+    "StickerId": 7681,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "arrozdoce (Gold) | Copenhagen 2024",
+    "StickerId": 7682,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_arrozdoce_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ewjerkz | Copenhagen 2024",
+    "StickerId": 7683,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ewjerkz (Glitter) | Copenhagen 2024",
+    "StickerId": 7684,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ewjerkz (Holo) | Copenhagen 2024",
+    "StickerId": 7685,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ewjerkz (Gold) | Copenhagen 2024",
+    "StickerId": 7686,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_ewjerkz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MUTiRiS | Copenhagen 2024",
+    "StickerId": 7687,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MUTiRiS (Glitter) | Copenhagen 2024",
+    "StickerId": 7688,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MUTiRiS (Holo) | Copenhagen 2024",
+    "StickerId": 7689,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "MUTiRiS (Gold) | Copenhagen 2024",
+    "StickerId": 7690,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mutiris_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "roman | Copenhagen 2024",
+    "StickerId": 7691,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_roman_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "roman (Glitter) | Copenhagen 2024",
+    "StickerId": 7692,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_roman_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "roman (Holo) | Copenhagen 2024",
+    "StickerId": 7693,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_roman_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "roman (Gold) | Copenhagen 2024",
+    "StickerId": 7694,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_roman_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "story | Copenhagen 2024",
+    "StickerId": 7695,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_story_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "story (Glitter) | Copenhagen 2024",
+    "StickerId": 7696,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_story_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "story (Holo) | Copenhagen 2024",
+    "StickerId": 7697,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_story_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "story (Gold) | Copenhagen 2024",
+    "StickerId": 7698,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_story_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "biguzera | Copenhagen 2024",
+    "StickerId": 7699,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "biguzera (Glitter) | Copenhagen 2024",
+    "StickerId": 7700,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "biguzera (Holo) | Copenhagen 2024",
+    "StickerId": 7701,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "biguzera (Gold) | Copenhagen 2024",
+    "StickerId": 7702,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_biguzera_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kauez | Copenhagen 2024",
+    "StickerId": 7703,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kauez_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kauez (Glitter) | Copenhagen 2024",
+    "StickerId": 7704,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kauez_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kauez (Holo) | Copenhagen 2024",
+    "StickerId": 7705,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kauez_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kauez (Gold) | Copenhagen 2024",
+    "StickerId": 7706,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kauez_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "lux | Copenhagen 2024",
+    "StickerId": 7707,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_lux_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "lux (Glitter) | Copenhagen 2024",
+    "StickerId": 7708,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_lux_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "lux (Holo) | Copenhagen 2024",
+    "StickerId": 7709,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_lux_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "lux (Gold) | Copenhagen 2024",
+    "StickerId": 7710,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_lux_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n1ssim | Copenhagen 2024",
+    "StickerId": 7711,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n1ssim (Glitter) | Copenhagen 2024",
+    "StickerId": 7712,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n1ssim (Holo) | Copenhagen 2024",
+    "StickerId": 7713,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "n1ssim (Gold) | Copenhagen 2024",
+    "StickerId": 7714,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_n1ssim_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NQZ | Copenhagen 2024",
+    "StickerId": 7715,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nqz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NQZ (Glitter) | Copenhagen 2024",
+    "StickerId": 7716,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nqz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NQZ (Holo) | Copenhagen 2024",
+    "StickerId": 7717,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nqz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NQZ (Gold) | Copenhagen 2024",
+    "StickerId": 7718,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nqz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "decenty | Copenhagen 2024",
+    "StickerId": 7719,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_decenty_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "decenty (Glitter) | Copenhagen 2024",
+    "StickerId": 7720,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_decenty_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "decenty (Holo) | Copenhagen 2024",
+    "StickerId": 7721,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_decenty_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "decenty (Gold) | Copenhagen 2024",
+    "StickerId": 7722,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_decenty_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "felps | Copenhagen 2024",
+    "StickerId": 7723,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_felps_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "felps (Glitter) | Copenhagen 2024",
+    "StickerId": 7724,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_felps_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "felps (Holo) | Copenhagen 2024",
+    "StickerId": 7725,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_felps_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "felps (Gold) | Copenhagen 2024",
+    "StickerId": 7726,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_felps_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HEN1 | Copenhagen 2024",
+    "StickerId": 7727,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hen1_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HEN1 (Glitter) | Copenhagen 2024",
+    "StickerId": 7728,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hen1_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HEN1 (Holo) | Copenhagen 2024",
+    "StickerId": 7729,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hen1_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HEN1 (Gold) | Copenhagen 2024",
+    "StickerId": 7730,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_hen1_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "noway | Copenhagen 2024",
+    "StickerId": 7731,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_noway_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "noway (Glitter) | Copenhagen 2024",
+    "StickerId": 7732,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_noway_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "noway (Holo) | Copenhagen 2024",
+    "StickerId": 7733,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_noway_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "noway (Gold) | Copenhagen 2024",
+    "StickerId": 7734,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_noway_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "VINI | Copenhagen 2024",
+    "StickerId": 7735,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_vini_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "VINI (Glitter) | Copenhagen 2024",
+    "StickerId": 7736,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_vini_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "VINI (Holo) | Copenhagen 2024",
+    "StickerId": 7737,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_vini_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "VINI (Gold) | Copenhagen 2024",
+    "StickerId": 7738,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_vini_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "910 | Copenhagen 2024",
+    "StickerId": 7739,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_910_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "910 (Glitter) | Copenhagen 2024",
+    "StickerId": 7740,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_910_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "910 (Holo) | Copenhagen 2024",
+    "StickerId": 7741,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_910_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "910 (Gold) | Copenhagen 2024",
+    "StickerId": 7742,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_910_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "bLitz | Copenhagen 2024",
+    "StickerId": 7743,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_blitz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "bLitz (Glitter) | Copenhagen 2024",
+    "StickerId": 7744,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_blitz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "bLitz (Holo) | Copenhagen 2024",
+    "StickerId": 7745,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_blitz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "bLitz (Gold) | Copenhagen 2024",
+    "StickerId": 7746,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_blitz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mzinho | Copenhagen 2024",
+    "StickerId": 7747,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mzinho (Glitter) | Copenhagen 2024",
+    "StickerId": 7748,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mzinho (Holo) | Copenhagen 2024",
+    "StickerId": 7749,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mzinho (Gold) | Copenhagen 2024",
+    "StickerId": 7750,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mzinho_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Senzu | Copenhagen 2024",
+    "StickerId": 7751,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_senzu_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Senzu (Glitter) | Copenhagen 2024",
+    "StickerId": 7752,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_senzu_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Senzu (Holo) | Copenhagen 2024",
+    "StickerId": 7753,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_senzu_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Senzu (Gold) | Copenhagen 2024",
+    "StickerId": 7754,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_senzu_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Techno4K | Copenhagen 2024",
+    "StickerId": 7755,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Techno4K (Glitter) | Copenhagen 2024",
+    "StickerId": 7756,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Techno4K (Holo) | Copenhagen 2024",
+    "StickerId": 7757,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Techno4K (Gold) | Copenhagen 2024",
+    "StickerId": 7758,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_techno4k_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Forester | Copenhagen 2024",
+    "StickerId": 7759,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_forester_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Forester (Glitter) | Copenhagen 2024",
+    "StickerId": 7760,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_forester_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Forester (Holo) | Copenhagen 2024",
+    "StickerId": 7761,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_forester_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Forester (Gold) | Copenhagen 2024",
+    "StickerId": 7762,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_forester_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ICY | Copenhagen 2024",
+    "StickerId": 7763,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_icy_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ICY (Glitter) | Copenhagen 2024",
+    "StickerId": 7764,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_icy_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ICY (Holo) | Copenhagen 2024",
+    "StickerId": 7765,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_icy_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ICY (Gold) | Copenhagen 2024",
+    "StickerId": 7766,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_icy_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Krad | Copenhagen 2024",
+    "StickerId": 7767,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_krad_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Krad (Glitter) | Copenhagen 2024",
+    "StickerId": 7768,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_krad_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Krad (Holo) | Copenhagen 2024",
+    "StickerId": 7769,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_krad_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Krad (Gold) | Copenhagen 2024",
+    "StickerId": 7770,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_krad_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NickelBack | Copenhagen 2024",
+    "StickerId": 7771,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NickelBack (Glitter) | Copenhagen 2024",
+    "StickerId": 7772,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NickelBack (Holo) | Copenhagen 2024",
+    "StickerId": 7773,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NickelBack (Gold) | Copenhagen 2024",
+    "StickerId": 7774,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nickelback_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TRAVIS | Copenhagen 2024",
+    "StickerId": 7775,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_travis_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TRAVIS (Glitter) | Copenhagen 2024",
+    "StickerId": 7776,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_travis_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TRAVIS (Holo) | Copenhagen 2024",
+    "StickerId": 7777,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_travis_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TRAVIS (Gold) | Copenhagen 2024",
+    "StickerId": 7778,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_travis_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kraghen | Copenhagen 2024",
+    "StickerId": 7779,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kraghen (Glitter) | Copenhagen 2024",
+    "StickerId": 7780,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kraghen (Holo) | Copenhagen 2024",
+    "StickerId": 7781,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "kraghen (Gold) | Copenhagen 2024",
+    "StickerId": 7782,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_kraghen_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nodios | Copenhagen 2024",
+    "StickerId": 7783,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nodios_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nodios (Glitter) | Copenhagen 2024",
+    "StickerId": 7784,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nodios_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nodios (Holo) | Copenhagen 2024",
+    "StickerId": 7785,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nodios_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nodios (Gold) | Copenhagen 2024",
+    "StickerId": 7786,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nodios_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Patti | Copenhagen 2024",
+    "StickerId": 7787,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_patti_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Patti (Glitter) | Copenhagen 2024",
+    "StickerId": 7788,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_patti_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Patti (Holo) | Copenhagen 2024",
+    "StickerId": 7789,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_patti_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Patti (Gold) | Copenhagen 2024",
+    "StickerId": 7790,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_patti_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Queenix | Copenhagen 2024",
+    "StickerId": 7791,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_queenix_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Queenix (Glitter) | Copenhagen 2024",
+    "StickerId": 7792,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_queenix_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Queenix (Holo) | Copenhagen 2024",
+    "StickerId": 7793,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_queenix_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Queenix (Gold) | Copenhagen 2024",
+    "StickerId": 7794,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_queenix_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "salazar | Copenhagen 2024",
+    "StickerId": 7795,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_salazar_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "salazar (Glitter) | Copenhagen 2024",
+    "StickerId": 7796,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_salazar_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "salazar (Holo) | Copenhagen 2024",
+    "StickerId": 7797,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_salazar_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "salazar (Gold) | Copenhagen 2024",
+    "StickerId": 7798,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_salazar_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "adamS | Copenhagen 2024",
+    "StickerId": 7799,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_adams_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "adamS (Glitter) | Copenhagen 2024",
+    "StickerId": 7800,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_adams_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "adamS (Holo) | Copenhagen 2024",
+    "StickerId": 7801,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_adams_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "adamS (Gold) | Copenhagen 2024",
+    "StickerId": 7802,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_adams_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dav1g | Copenhagen 2024",
+    "StickerId": 7803,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dav1g (Glitter) | Copenhagen 2024",
+    "StickerId": 7804,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dav1g (Holo) | Copenhagen 2024",
+    "StickerId": 7805,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dav1g (Gold) | Copenhagen 2024",
+    "StickerId": 7806,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dav1g_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JUST | Copenhagen 2024",
+    "StickerId": 7807,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_just_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JUST (Glitter) | Copenhagen 2024",
+    "StickerId": 7808,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_just_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JUST (Holo) | Copenhagen 2024",
+    "StickerId": 7809,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_just_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "JUST (Gold) | Copenhagen 2024",
+    "StickerId": 7810,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_just_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mopoz | Copenhagen 2024",
+    "StickerId": 7811,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mopoz (Glitter) | Copenhagen 2024",
+    "StickerId": 7812,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mopoz (Holo) | Copenhagen 2024",
+    "StickerId": 7813,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mopoz (Gold) | Copenhagen 2024",
+    "StickerId": 7814,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_mopoz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "stadodo | Copenhagen 2024",
+    "StickerId": 7815,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "stadodo (Glitter) | Copenhagen 2024",
+    "StickerId": 7816,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "stadodo (Holo) | Copenhagen 2024",
+    "StickerId": 7817,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "stadodo (Gold) | Copenhagen 2024",
+    "StickerId": 7818,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_stadodo_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b4rtiN | Copenhagen 2024",
+    "StickerId": 7819,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b4rtiN (Glitter) | Copenhagen 2024",
+    "StickerId": 7820,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b4rtiN (Holo) | Copenhagen 2024",
+    "StickerId": 7821,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b4rtiN (Gold) | Copenhagen 2024",
+    "StickerId": 7822,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b4rtin_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "coldzera | Copenhagen 2024",
+    "StickerId": 7823,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "coldzera (Glitter) | Copenhagen 2024",
+    "StickerId": 7824,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "coldzera (Holo) | Copenhagen 2024",
+    "StickerId": 7825,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "coldzera (Gold) | Copenhagen 2024",
+    "StickerId": 7826,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_coldzera_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dumau | Copenhagen 2024",
+    "StickerId": 7827,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dumau_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dumau (Glitter) | Copenhagen 2024",
+    "StickerId": 7828,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dumau_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dumau (Holo) | Copenhagen 2024",
+    "StickerId": 7829,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dumau_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dumau (Gold) | Copenhagen 2024",
+    "StickerId": 7830,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_dumau_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "latto | Copenhagen 2024",
+    "StickerId": 7831,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_latto_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "latto (Glitter) | Copenhagen 2024",
+    "StickerId": 7832,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_latto_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "latto (Holo) | Copenhagen 2024",
+    "StickerId": 7833,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_latto_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "latto (Gold) | Copenhagen 2024",
+    "StickerId": 7834,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_latto_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NEKiZ | Copenhagen 2024",
+    "StickerId": 7835,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NEKiZ (Glitter) | Copenhagen 2024",
+    "StickerId": 7836,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NEKiZ (Holo) | Copenhagen 2024",
+    "StickerId": 7837,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "NEKiZ (Gold) | Copenhagen 2024",
+    "StickerId": 7838,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_nekiz_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EmiliaQAQ | Copenhagen 2024",
+    "StickerId": 7839,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EmiliaQAQ (Glitter) | Copenhagen 2024",
+    "StickerId": 7840,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EmiliaQAQ (Holo) | Copenhagen 2024",
+    "StickerId": 7841,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "EmiliaQAQ (Gold) | Copenhagen 2024",
+    "StickerId": 7842,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_emiliaqaq_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jee | Copenhagen 2024",
+    "StickerId": 7843,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jee_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jee (Glitter) | Copenhagen 2024",
+    "StickerId": 7844,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jee_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jee (Holo) | Copenhagen 2024",
+    "StickerId": 7845,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jee_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Jee (Gold) | Copenhagen 2024",
+    "StickerId": 7846,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jee_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Starry | Copenhagen 2024",
+    "StickerId": 7847,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_starry_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Starry (Glitter) | Copenhagen 2024",
+    "StickerId": 7848,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_starry_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Starry (Holo) | Copenhagen 2024",
+    "StickerId": 7849,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_starry_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Starry (Gold) | Copenhagen 2024",
+    "StickerId": 7850,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_starry_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "westmelon | Copenhagen 2024",
+    "StickerId": 7851,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "westmelon (Glitter) | Copenhagen 2024",
+    "StickerId": 7852,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "westmelon (Holo) | Copenhagen 2024",
+    "StickerId": 7853,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "westmelon (Gold) | Copenhagen 2024",
+    "StickerId": 7854,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_westmelon_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "z4KR | Copenhagen 2024",
+    "StickerId": 7855,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "z4KR (Glitter) | Copenhagen 2024",
+    "StickerId": 7856,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_glitter_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "z4KR (Holo) | Copenhagen 2024",
+    "StickerId": 7857,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_holo_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "z4KR (Gold) | Copenhagen 2024",
+    "StickerId": 7858,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_z4kr_gold_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Champion) | Copenhagen 2024",
+    "StickerId": 7859,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Glitter, Champion) | Copenhagen 2024",
+    "StickerId": 7860,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_glitter_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Holo, Champion) | Copenhagen 2024",
+    "StickerId": 7861,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_holo_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "jL (Gold, Champion) | Copenhagen 2024",
+    "StickerId": 7862,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_jl_gold_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Champion) | Copenhagen 2024",
+    "StickerId": 7863,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Glitter, Champion) | Copenhagen 2024",
+    "StickerId": 7864,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_glitter_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Holo, Champion) | Copenhagen 2024",
+    "StickerId": 7865,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_holo_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aleksib (Gold, Champion) | Copenhagen 2024",
+    "StickerId": 7866,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_aleksib_gold_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Champion) | Copenhagen 2024",
+    "StickerId": 7867,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Glitter, Champion) | Copenhagen 2024",
+    "StickerId": 7868,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_glitter_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Holo, Champion) | Copenhagen 2024",
+    "StickerId": 7869,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_holo_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "b1t (Gold, Champion) | Copenhagen 2024",
+    "StickerId": 7870,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_b1t_gold_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Champion) | Copenhagen 2024",
+    "StickerId": 7871,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Glitter, Champion) | Copenhagen 2024",
+    "StickerId": 7872,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_glitter_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Holo, Champion) | Copenhagen 2024",
+    "StickerId": 7873,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_holo_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iM (Gold, Champion) | Copenhagen 2024",
+    "StickerId": 7874,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_im_gold_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Champion) | Copenhagen 2024",
+    "StickerId": 7875,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Glitter, Champion) | Copenhagen 2024",
+    "StickerId": 7876,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_glitter_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Holo, Champion) | Copenhagen 2024",
+    "StickerId": 7877,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_holo_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "w0nderful (Gold, Champion) | Copenhagen 2024",
+    "StickerId": 7878,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/cph2024/sig_w0nderful_gold_champion_png.png",
+    "Collection": "cph2024",
+    "SkinportSearchId": null
+  }
+]

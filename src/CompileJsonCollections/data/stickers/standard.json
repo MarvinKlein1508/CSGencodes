@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Lucky 13",
+    "StickerId": 13,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/thirteen_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aces High",
+    "StickerId": 14,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/aces_high_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Aces High (Holo)",
+    "StickerId": 15,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/standard/aces_high_holo_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "I Conquered",
+    "StickerId": 16,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/conquered_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Seek \u0026 Destroy",
+    "StickerId": 17,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/destroy_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Black Dog",
+    "StickerId": 18,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/dispatch_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fearsome",
+    "StickerId": 19,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/fearsome_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fearsome (Holo)",
+    "StickerId": 20,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/standard/fearsome_holo_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cerberus",
+    "StickerId": 21,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/guarding_hell_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Easy Peasy",
+    "StickerId": 22,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/lemon_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Luck Skill",
+    "StickerId": 23,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/luck_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vigilance",
+    "StickerId": 24,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/standard/vigilance_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vigilance (Holo)",
+    "StickerId": 25,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/standard/vigilance_holo_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lucky 13 (Foil)",
+    "StickerId": 26,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/standard/thirteen_foil_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Luck Skill (Foil)",
+    "StickerId": 27,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/standard/luck_foil_png.png",
+    "Collection": "standard",
+    "SkinportSearchId": null
+  }
+]

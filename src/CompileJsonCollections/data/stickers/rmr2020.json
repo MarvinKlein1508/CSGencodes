@@ -1,0 +1,770 @@
+[
+  {
+    "Name": "Vitality | 2020 RMR",
+    "StickerId": 4701,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/vita_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality (Holo) | 2020 RMR",
+    "StickerId": 4702,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/vita_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality (Foil) | 2020 RMR",
+    "StickerId": 4703,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/vita_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vitality (Gold) | 2020 RMR",
+    "StickerId": 4704,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/vita_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic | 2020 RMR",
+    "StickerId": 4705,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/hero_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic (Holo) | 2020 RMR",
+    "StickerId": 4706,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/hero_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic (Foil) | 2020 RMR",
+    "StickerId": 4707,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/hero_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Heroic (Gold) | 2020 RMR",
+    "StickerId": 4708,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/hero_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas | 2020 RMR",
+    "StickerId": 4709,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/nip_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas (Holo) | 2020 RMR",
+    "StickerId": 4710,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/nip_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas (Foil) | 2020 RMR",
+    "StickerId": 4711,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/nip_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas (Gold) | 2020 RMR",
+    "StickerId": 4712,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/nip_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Astralis | 2020 RMR",
+    "StickerId": 4713,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/astr_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Astralis (Holo) | 2020 RMR",
+    "StickerId": 4714,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/astr_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Astralis (Foil) | 2020 RMR",
+    "StickerId": 4715,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/astr_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Astralis (Gold) | 2020 RMR",
+    "StickerId": 4716,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/astr_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "BIG | 2020 RMR",
+    "StickerId": 4717,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/big_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "BIG (Holo) | 2020 RMR",
+    "StickerId": 4718,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/big_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "BIG (Foil) | 2020 RMR",
+    "StickerId": 4719,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/big_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "BIG (Gold) | 2020 RMR",
+    "StickerId": 4720,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/big_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic | 2020 RMR",
+    "StickerId": 4721,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/fntc_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic (Holo) | 2020 RMR",
+    "StickerId": 4722,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/fntc_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic (Foil) | 2020 RMR",
+    "StickerId": 4723,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/fntc_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic (Gold) | 2020 RMR",
+    "StickerId": 4724,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/fntc_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 | 2020 RMR",
+    "StickerId": 4725,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/g2_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 (Holo) | 2020 RMR",
+    "StickerId": 4726,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/g2_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 (Foil) | 2020 RMR",
+    "StickerId": 4727,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/g2_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "G2 (Gold) | 2020 RMR",
+    "StickerId": 4728,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/g2_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "OG | 2020 RMR",
+    "StickerId": 4729,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/og_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "OG (Holo) | 2020 RMR",
+    "StickerId": 4730,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/og_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "OG (Foil) | 2020 RMR",
+    "StickerId": 4731,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/og_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "OG (Gold) | 2020 RMR",
+    "StickerId": 4732,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/og_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GODSENT | 2020 RMR",
+    "StickerId": 4733,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/god_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GODSENT (Holo) | 2020 RMR",
+    "StickerId": 4734,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/god_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GODSENT (Foil) | 2020 RMR",
+    "StickerId": 4735,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/god_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "GODSENT (Gold) | 2020 RMR",
+    "StickerId": 4736,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/god_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe | 2020 RMR",
+    "StickerId": 4737,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/faze_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe (Holo) | 2020 RMR",
+    "StickerId": 4738,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/faze_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe (Foil) | 2020 RMR",
+    "StickerId": 4739,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/faze_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FaZe (Gold) | 2020 RMR",
+    "StickerId": 4740,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/faze_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "North | 2020 RMR",
+    "StickerId": 4741,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/nor_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "North (Holo) | 2020 RMR",
+    "StickerId": 4742,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/nor_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "North (Foil) | 2020 RMR",
+    "StickerId": 4743,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/nor_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "North (Gold) | 2020 RMR",
+    "StickerId": 4744,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/nor_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spirit | 2020 RMR",
+    "StickerId": 4745,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/spir_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spirit (Holo) | 2020 RMR",
+    "StickerId": 4746,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/spir_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spirit (Foil) | 2020 RMR",
+    "StickerId": 4747,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/spir_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Spirit (Gold) | 2020 RMR",
+    "StickerId": 4748,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/spir_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere | 2020 RMR",
+    "StickerId": 4749,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/navi_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Holo) | 2020 RMR",
+    "StickerId": 4750,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/navi_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Foil) | 2020 RMR",
+    "StickerId": 4751,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/navi_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Gold) | 2020 RMR",
+    "StickerId": 4752,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/navi_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nemiga | 2020 RMR",
+    "StickerId": 4753,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/nemi_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nemiga (Holo) | 2020 RMR",
+    "StickerId": 4754,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/nemi_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nemiga (Foil) | 2020 RMR",
+    "StickerId": 4755,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/nemi_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nemiga (Gold) | 2020 RMR",
+    "StickerId": 4756,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/nemi_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro | 2020 RMR",
+    "StickerId": 4757,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/vp_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro (Holo) | 2020 RMR",
+    "StickerId": 4758,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/vp_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro (Foil) | 2020 RMR",
+    "StickerId": 4759,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/vp_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.pro (Gold) | 2020 RMR",
+    "StickerId": 4760,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/vp_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ESPADA | 2020 RMR",
+    "StickerId": 4761,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/esp_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ESPADA (Holo) | 2020 RMR",
+    "StickerId": 4762,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/esp_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ESPADA (Foil) | 2020 RMR",
+    "StickerId": 4763,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/esp_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ESPADA (Gold) | 2020 RMR",
+    "StickerId": 4764,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/esp_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Evil Geniuses | 2020 RMR",
+    "StickerId": 4765,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/evl_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Evil Geniuses (Holo) | 2020 RMR",
+    "StickerId": 4766,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/evl_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Evil Geniuses (Foil) | 2020 RMR",
+    "StickerId": 4767,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/evl_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Evil Geniuses (Gold) | 2020 RMR",
+    "StickerId": 4768,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/evl_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "100 Thieves | 2020 RMR",
+    "StickerId": 4769,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/thv_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "100 Thieves (Holo) | 2020 RMR",
+    "StickerId": 4770,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/thv_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "100 Thieves (Foil) | 2020 RMR",
+    "StickerId": 4771,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/thv_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "100 Thieves (Gold) | 2020 RMR",
+    "StickerId": 4772,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/thv_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA | 2020 RMR",
+    "StickerId": 4773,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/furi_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA (Holo) | 2020 RMR",
+    "StickerId": 4774,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/furi_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA (Foil) | 2020 RMR",
+    "StickerId": 4775,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/furi_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "FURIA (Gold) | 2020 RMR",
+    "StickerId": 4776,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/furi_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Liquid | 2020 RMR",
+    "StickerId": 4777,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/liq_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Liquid (Holo) | 2020 RMR",
+    "StickerId": 4778,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/liq_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Liquid (Foil) | 2020 RMR",
+    "StickerId": 4779,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/liq_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Liquid (Gold) | 2020 RMR",
+    "StickerId": 4780,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/liq_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Gen.G | 2020 RMR",
+    "StickerId": 4781,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/geng_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Gen.G (Holo) | 2020 RMR",
+    "StickerId": 4782,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/geng_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Gen.G (Foil) | 2020 RMR",
+    "StickerId": 4783,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/geng_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Gen.G (Gold) | 2020 RMR",
+    "StickerId": 4784,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/geng_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boom | 2020 RMR",
+    "StickerId": 4785,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/boom_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boom (Holo) | 2020 RMR",
+    "StickerId": 4786,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/boom_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boom (Foil) | 2020 RMR",
+    "StickerId": 4787,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/boom_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Boom (Gold) | 2020 RMR",
+    "StickerId": 4788,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/boom_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Renegades | 2020 RMR",
+    "StickerId": 4789,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/ren_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Renegades (Holo) | 2020 RMR",
+    "StickerId": 4790,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/ren_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Renegades (Foil) | 2020 RMR",
+    "StickerId": 4791,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/ren_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Renegades (Gold) | 2020 RMR",
+    "StickerId": 4792,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/ren_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TYLOO | 2020 RMR",
+    "StickerId": 4793,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/rmr2020/tyl_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TYLOO (Holo) | 2020 RMR",
+    "StickerId": 4794,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/rmr2020/tyl_holo_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TYLOO (Foil) | 2020 RMR",
+    "StickerId": 4795,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/rmr2020/tyl_foil_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "TYLOO (Gold) | 2020 RMR",
+    "StickerId": 4796,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/rmr2020/tyl_gold_png.png",
+    "Collection": "rmr2020",
+    "SkinportSearchId": null
+  }
+]

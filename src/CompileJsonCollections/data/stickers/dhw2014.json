@@ -1,0 +1,434 @@
+[
+  {
+    "Name": "Fnatic | DreamHack 2014",
+    "StickerId": 198,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/fnatic_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic (Holo) | DreamHack 2014",
+    "StickerId": 199,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/dhw2014/fnatic_holo_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic (Foil) | DreamHack 2014",
+    "StickerId": 200,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/fnatic_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 | DreamHack 2014",
+    "StickerId": 201,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/cloud9_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 (Holo) | DreamHack 2014",
+    "StickerId": 202,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/dhw2014/cloud9_holo_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 (Foil) | DreamHack 2014",
+    "StickerId": 203,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/cloud9_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.Pro | DreamHack 2014",
+    "StickerId": 207,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/virtuspro_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.Pro (Holo) | DreamHack 2014",
+    "StickerId": 208,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/dhw2014/virtuspro_holo_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.Pro (Foil) | DreamHack 2014",
+    "StickerId": 209,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/virtuspro_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas | DreamHack 2014",
+    "StickerId": 210,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/ninjasinpyjamas_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas (Holo) | DreamHack 2014",
+    "StickerId": 211,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/dhw2014/ninjasinpyjamas_holo_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas (Foil) | DreamHack 2014",
+    "StickerId": 212,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/ninjasinpyjamas_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere | DreamHack 2014",
+    "StickerId": 213,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/navi_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Holo) | DreamHack 2014",
+    "StickerId": 214,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/dhw2014/navi_holo_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Foil) | DreamHack 2014",
+    "StickerId": 215,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/navi_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Dignitas | DreamHack 2014",
+    "StickerId": 219,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/dignitas_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Dignitas (Holo) | DreamHack 2014",
+    "StickerId": 220,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/dhw2014/dignitas_holo_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Dignitas (Foil) | DreamHack 2014",
+    "StickerId": 221,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/dignitas_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Bravado Gaming | DreamHack 2014",
+    "StickerId": 222,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/bravadogaming_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ESC Gaming | DreamHack 2014",
+    "StickerId": 223,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/escgaming_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HellRaisers | DreamHack 2014",
+    "StickerId": 224,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/hellraisers_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iBUYPOWER | DreamHack 2014",
+    "StickerId": 225,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/ibuypower_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "PENTA Sports | DreamHack 2014",
+    "StickerId": 226,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/pentasports_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Planetkey Dynamics | DreamHack 2014",
+    "StickerId": 227,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/planetkeydynamics_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team LDLC.com | DreamHack 2014",
+    "StickerId": 228,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/teamldlc_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "myXMG | DreamHack 2014",
+    "StickerId": 229,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/myxmg_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "DreamHack Winter 2014",
+    "StickerId": 230,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/dreamhackwinter2014_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "DreamHack Winter 2014 (Foil)",
+    "StickerId": 231,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/dreamhackwinter2014_foil_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "3DMAX | DreamHack 2014",
+    "StickerId": 232,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/3dmax_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Copenhagen Wolves | DreamHack 2014",
+    "StickerId": 233,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/copenhagenwolves_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dAT team | DreamHack 2014",
+    "StickerId": 234,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/datteam_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "London Conspiracy | DreamHack 2014",
+    "StickerId": 235,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/londonconspiracy_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mousesports | DreamHack 2014",
+    "StickerId": 236,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/mousesports_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "3DMAX (Gold) | DreamHack 2014",
+    "StickerId": 237,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/3dmax_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Bravado Gaming (Gold) | DreamHack 2014",
+    "StickerId": 238,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/bravadogaming_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cloud9 (Gold) | DreamHack 2014",
+    "StickerId": 239,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/cloud9_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Copenhagen Wolves (Gold) | DreamHack 2014",
+    "StickerId": 240,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/copenhagenwolves_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "dAT team (Gold) | DreamHack 2014",
+    "StickerId": 241,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/datteam_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team Dignitas (Gold) | DreamHack 2014",
+    "StickerId": 242,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/dignitas_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "ESC Gaming (Gold) | DreamHack 2014",
+    "StickerId": 243,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/escgaming_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fnatic (Gold) | DreamHack 2014",
+    "StickerId": 244,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/fnatic_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "HellRaisers (Gold) | DreamHack 2014",
+    "StickerId": 245,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/hellraisers_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "iBUYPOWER (Gold) | DreamHack 2014",
+    "StickerId": 246,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/ibuypower_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "London Conspiracy (Gold) | DreamHack 2014",
+    "StickerId": 247,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/londonconspiracy_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "mousesports (Gold) | DreamHack 2014",
+    "StickerId": 248,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/mousesports_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "myXMG (Gold) | DreamHack 2014",
+    "StickerId": 249,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/myxmg_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Natus Vincere (Gold) | DreamHack 2014",
+    "StickerId": 250,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/navi_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ninjas in Pyjamas (Gold) | DreamHack 2014",
+    "StickerId": 251,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/ninjasinpyjamas_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "PENTA Sports (Gold) | DreamHack 2014",
+    "StickerId": 252,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/pentasports_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Planetkey Dynamics (Gold) | DreamHack 2014",
+    "StickerId": 253,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/planetkeydynamics_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Team LDLC.com (Gold) | DreamHack 2014",
+    "StickerId": 254,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/teamldlc_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Virtus.Pro (Gold) | DreamHack 2014",
+    "StickerId": 255,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/virtuspro_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Flipsid3 Tactics | DreamHack 2014",
+    "StickerId": 256,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/dhw2014/flipsid3_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Flipsid3 Tactics (Gold) | DreamHack 2014",
+    "StickerId": 257,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/dhw2014/flipsid3_gold_png.png",
+    "Collection": "dhw2014",
+    "SkinportSearchId": null
+  }
+]

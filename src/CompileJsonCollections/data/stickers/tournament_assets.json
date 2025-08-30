@@ -1,0 +1,106 @@
+[
+  {
+    "Name": "All-Stars Orange (Holo)",
+    "StickerId": 1315,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/tournament_assets/allstars_a_holo_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "All-Stars Blue (Holo)",
+    "StickerId": 1316,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/tournament_assets/allstars_b_holo_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ancient (Gold)",
+    "StickerId": 1689,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_ancient_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dust II (Gold)",
+    "StickerId": 1690,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_dust2_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Inferno (Gold)",
+    "StickerId": 1691,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_inferno_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mirage (Gold)",
+    "StickerId": 1692,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_mirage_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mirage (Gold)",
+    "StickerId": 7889,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_mirage_cs2_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Anubis (Gold)",
+    "StickerId": 6607,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_anubis_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Nuke (Gold)",
+    "StickerId": 1693,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_nuke_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Overpass (Gold)",
+    "StickerId": 1694,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_overpass_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Overpass (Gold)",
+    "StickerId": 7890,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_overpass_cs2_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vertigo (Gold)",
+    "StickerId": 1695,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_vertigo_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Train (Gold)",
+    "StickerId": 8553,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/tournament_assets/de_train_gold_png.png",
+    "Collection": "tournament_assets",
+    "SkinportSearchId": null
+  }
+]

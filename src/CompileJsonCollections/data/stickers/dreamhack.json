@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "Shooter",
+    "StickerId": 1,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_gologo1_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Shooter (Foil)",
+    "StickerId": 2,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_gologo1_holo_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Shooter Close",
+    "StickerId": 3,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_gologo2_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Shooter Close (Foil)",
+    "StickerId": 4,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_gologo2_holo_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blue Snowflake",
+    "StickerId": 5,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_snowflake2_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blue Snowflake (Foil)",
+    "StickerId": 6,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_snowflake3_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Polar Bears",
+    "StickerId": 7,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_bears_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Polar Bears (Foil)",
+    "StickerId": 8,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_bears_holo_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mountain",
+    "StickerId": 9,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_mountain_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mountain (Foil)",
+    "StickerId": 10,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_mountain_holo_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Frosty the Hitman",
+    "StickerId": 11,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_snowman_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Frosty the Hitman (Foil)",
+    "StickerId": 12,
+    "Rarity": 7,
+    "Image": "/assets/img/items/stickers/dreamhack/dh_snowman_holo_png.png",
+    "Collection": "dreamhack",
+    "SkinportSearchId": null
+  }
+]

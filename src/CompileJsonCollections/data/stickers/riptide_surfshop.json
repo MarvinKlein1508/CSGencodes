@@ -1,0 +1,578 @@
+[
+  {
+    "Name": "Orange Gnar",
+    "StickerId": 4817,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/gnar_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blue Gnar",
+    "StickerId": 4818,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/gnar_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Green Gnar",
+    "StickerId": 4819,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/gnar_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Purple Gnar",
+    "StickerId": 4820,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/gnar_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Yellow Jaggyfish",
+    "StickerId": 4821,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/jaggyfish_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Pink Jaggyfish",
+    "StickerId": 4822,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/jaggyfish_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Purple Jaggyfish",
+    "StickerId": 4823,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/jaggyfish_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Black Jaggyfish",
+    "StickerId": 4824,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/jaggyfish_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blue Lethal",
+    "StickerId": 4825,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/lethal_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Green Lethal",
+    "StickerId": 4826,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/lethal_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fade Lethal",
+    "StickerId": 4827,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/lethal_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Yellow Lethal",
+    "StickerId": 4828,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/lethal_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Green Shark Shooter",
+    "StickerId": 4829,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_ak_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Black Shark Shooter",
+    "StickerId": 4830,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_ak_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blue Shark Shooter",
+    "StickerId": 4831,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_ak_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Red Shark Shooter",
+    "StickerId": 4832,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_ak_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Green Cyclawps",
+    "StickerId": 4833,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_awp_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Red Cyclawps",
+    "StickerId": 4834,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_awp_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Purple Cyclawps",
+    "StickerId": 4835,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_awp_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Yellow Cyclawps",
+    "StickerId": 4836,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_awp_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Purple Bombster",
+    "StickerId": 4837,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_bomb_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "White Bombster",
+    "StickerId": 4838,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_bomb_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Green Bombster",
+    "StickerId": 4839,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_bomb_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Yellow Bombster",
+    "StickerId": 4840,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/monster_bomb_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Watermelon Tentaskull",
+    "StickerId": 4841,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_octo_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blood Moon Tentaskull",
+    "StickerId": 4842,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_octo_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Sunset Ocean Tentaskull",
+    "StickerId": 4843,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_octo_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Toxic Tentaskull",
+    "StickerId": 4844,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_octo_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Watermelon Stabbyfish",
+    "StickerId": 4845,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/swordfish_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Stabbyfish",
+    "StickerId": 4846,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/swordfish_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "After Hours Stabbyfish",
+    "StickerId": 4847,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/swordfish_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ocean Sunset Stabbyfish",
+    "StickerId": 4848,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/swordfish_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Wave Rider",
+    "StickerId": 4849,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/wave_rider_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blood Moon Wave Rider",
+    "StickerId": 4850,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/wave_rider_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Toxic Wave Rider",
+    "StickerId": 4851,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/wave_rider_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fools Gold Wave Rider",
+    "StickerId": 4852,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/wave_rider_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Candy Buttery (Holo)",
+    "StickerId": 4853,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/buttery_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Flame Buttery (Holo)",
+    "StickerId": 4854,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/buttery_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Watermelon Buttery (Holo)",
+    "StickerId": 4855,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/buttery_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Buttery (Holo)",
+    "StickerId": 4856,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/buttery_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Opal Flick (Holo)",
+    "StickerId": 4857,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flick_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ocean Sunset Flick (Holo)",
+    "StickerId": 4858,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flick_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mercury Flick (Holo)",
+    "StickerId": 4859,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flick_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Flick (Holo)",
+    "StickerId": 4860,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flick_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Watermelon Flow (Holo)",
+    "StickerId": 4861,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flow_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Toxic Flow (Holo)",
+    "StickerId": 4862,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flow_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cotton Candy Flow (Holo)",
+    "StickerId": 4863,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flow_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Flow (Holo)",
+    "StickerId": 4864,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/flow_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Skill Surf (Holo)",
+    "StickerId": 4865,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/skill_surf_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ocean Sunset Skill Surf (Holo)",
+    "StickerId": 4866,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/skill_surf_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Coral Skill Surf (Holo)",
+    "StickerId": 4867,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/skill_surf_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Bubble Gum Skill Surf (Holo)",
+    "StickerId": 4868,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/skill_surf_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Abalone Strafe (Holo)",
+    "StickerId": 4869,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/strafe_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Watermelon Strafe (Holo)",
+    "StickerId": 4870,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/strafe_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mood Ring Strafe (Holo)",
+    "StickerId": 4871,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/strafe_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Neon Opal Strafe (Holo)",
+    "StickerId": 4872,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/strafe_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Flame Tier6 (Holo)",
+    "StickerId": 4873,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/tier6_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Watermelon Tier6 (Holo)",
+    "StickerId": 4874,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/tier6_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Miami Tier6 (Holo)",
+    "StickerId": 4875,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/tier6_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Forge Tier6 (Holo)",
+    "StickerId": 4876,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/tier6_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Sticker Bomb Surf Ava (Foil)",
+    "StickerId": 4877,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_ava_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dragon Lore Surf Ava (Foil)",
+    "StickerId": 4878,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_ava_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Akihabara Accept Surf Ava (Foil)",
+    "StickerId": 4879,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_ava_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Dark Water Surf Ava (Foil)",
+    "StickerId": 4880,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_ava_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ultraviolet Poison Frog (Foil)",
+    "StickerId": 4881,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/poisonfrog_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lore Poison Frog (Foil)",
+    "StickerId": 4920,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/poisonfrog_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Crimson Web Poison Frog (Foil)",
+    "StickerId": 4921,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/poisonfrog_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Doppler Poison Frog (Foil)",
+    "StickerId": 4922,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/poisonfrog_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Sticker Bomb Surf K (Foil)",
+    "StickerId": 4950,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_k_01_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Hypnotic Surf K (Foil)",
+    "StickerId": 4951,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_k_02_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fire Serpent Surf K (Foil)",
+    "StickerId": 4952,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_k_03_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Blaze Surf K (Foil)",
+    "StickerId": 4953,
+    "Rarity": 2,
+    "Image": "/assets/img/items/stickers/riptide_surfshop/surf_k_04_png.png",
+    "Collection": "riptide_surfshop",
+    "SkinportSearchId": null
+  }
+]

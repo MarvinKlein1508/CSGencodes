@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "Ivette",
+    "StickerId": 962,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/pinups_capsule/ivette_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Kimberly",
+    "StickerId": 963,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/pinups_capsule/kimberly_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Martha",
+    "StickerId": 964,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/pinups_capsule/martha_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Merietta",
+    "StickerId": 965,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/pinups_capsule/merietta_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Sherry",
+    "StickerId": 966,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/pinups_capsule/scherry_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Tamara",
+    "StickerId": 967,
+    "Rarity": 0,
+    "Image": "/assets/img/items/stickers/pinups_capsule/tamara_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ivette (Holo)",
+    "StickerId": 968,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/pinups_capsule/ivette_holo_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Kimberly (Holo)",
+    "StickerId": 969,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/pinups_capsule/kimberly_holo_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Martha (Holo)",
+    "StickerId": 970,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/pinups_capsule/martha_holo_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Merietta (Holo)",
+    "StickerId": 971,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/pinups_capsule/merietta_holo_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Sherry (Holo)",
+    "StickerId": 972,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/pinups_capsule/scherry_holo_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Tamara (Holo)",
+    "StickerId": 973,
+    "Rarity": 1,
+    "Image": "/assets/img/items/stickers/pinups_capsule/tamara_holo_png.png",
+    "Collection": "pinups_capsule",
+    "SkinportSearchId": null
+  }
+]
