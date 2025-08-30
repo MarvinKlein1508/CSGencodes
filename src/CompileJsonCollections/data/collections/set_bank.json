@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "MP7 | Forest DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 33,
+    "PaintKitId": 5,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_mp7_hy_ddpat_light_png.png"
+  },
+  {
+    "Name": "MP7 | Forest DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 33,
+    "PaintKitId": 5,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_mp7_hy_ddpat_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Urban DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 17,
+    "PaintKitId": 17,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_mac10_hy_ddpat_urb_light_png.png"
+  },
+  {
+    "Name": "P250 | Bone Mask",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 36,
+    "PaintKitId": 27,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_p250_sp_tape_light_png.png"
+  },
+  {
+    "Name": "Negev | Army Sheen",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 28,
+    "PaintKitId": 298,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_negev_am_army_shine_light_png.png"
+  },
+  {
+    "Name": "Negev | Army Sheen",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 28,
+    "PaintKitId": 298,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_negev_am_army_shine_light_png.png"
+  },
+  {
+    "Name": "P2000 | Silver",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 32,
+    "PaintKitId": 32,
+    "Collection": "The Bank Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bank/weapon_hkp2000_an_silver_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Carbon Fiber",
+    "MinWear": 0,
+    "MaxWear": 0.12,
+    "WeaponId": 26,
+    "PaintKitId": 70,
+    "Collection": "The Bank Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bank/weapon_bizon_am_carbon_fiber_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Death Rattle",
+    "MinWear": 0.08,
+    "MaxWear": 0.5,
+    "WeaponId": 4,
+    "PaintKitId": 293,
+    "Collection": "The Bank Collection",
+    "Rarity": "common",
+    "Image": "set_bank/weapon_glock_hy_nerodia_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Green Apple",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 11,
+    "PaintKitId": 294,
+    "Collection": "The Bank Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bank/weapon_g3sg1_so_green_light_png.png"
+  },
+  {
+    "Name": "Nova | Caged Steel",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 35,
+    "PaintKitId": 299,
+    "Collection": "The Bank Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bank/weapon_nova_am_oval_hex_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Meteorite",
+    "MinWear": 0,
+    "MaxWear": 0.18,
+    "WeaponId": 1,
+    "PaintKitId": 296,
+    "Collection": "The Bank Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bank/weapon_deagle_am_crystallized_dark_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Tuxedo",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 13,
+    "PaintKitId": 297,
+    "Collection": "The Bank Collection",
+    "Rarity": "rare",
+    "Image": "set_bank/weapon_galilar_so_orca_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Tuxedo",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 13,
+    "PaintKitId": 297,
+    "Collection": "The Bank Collection",
+    "Rarity": "rare",
+    "Image": "set_bank/weapon_galilar_so_orca_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Emerald Pinstripe",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 300,
+    "Collection": "The Bank Collection",
+    "Rarity": "rare",
+    "Image": "set_bank/weapon_ak47_cu_pinstripe_ak47_light_png.png"
+  },
+  {
+    "Name": "P250 | Franklin",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 36,
+    "PaintKitId": 295,
+    "Collection": "The Bank Collection",
+    "Rarity": "legendary",
+    "Image": "set_bank/weapon_p250_cu_money_light_png.png"
+  }
+]

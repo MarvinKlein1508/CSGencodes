@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "USP-S | Dark Water",
+    "MinWear": 0.1,
+    "MaxWear": 0.26,
+    "WeaponId": 61,
+    "PaintKitId": 60,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_usp_silencer_am_zebra_dark_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Ultraviolet",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 39,
+    "PaintKitId": 98,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_sg556_so_purple_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Blood Tiger",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 60,
+    "PaintKitId": 217,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "uncommon",
+    "Image": "set_esports_iii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Hexane",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 10,
+    "PaintKitId": 218,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_famas_hy_bluehex_light_png.png"
+  },
+  {
+    "Name": "Negev | Bratatat",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 28,
+    "PaintKitId": 317,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_negev_cu_bratatat_negev_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Red Python",
+    "MinWear": 0.08,
+    "MaxWear": 0.5,
+    "WeaponId": 25,
+    "PaintKitId": 320,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_xm1014_hy_snakeskin_red_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Blue Streak",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 26,
+    "PaintKitId": 13,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_iii/weapon_bizon_hy_splatter_light_png.png"
+  },
+  {
+    "Name": "P90 | Virus",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 19,
+    "PaintKitId": 20,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_iii/weapon_p90_hy_zombie_light_png.png"
+  },
+  {
+    "Name": "MP7 | Ocean Foam",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 33,
+    "PaintKitId": 213,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_iii/weapon_mp7_am_ossify_blue_light_png.png"
+  },
+  {
+    "Name": "P250 | Steel Disruption",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 36,
+    "PaintKitId": 230,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_p250_am_ddpatdense_silver_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Crimson Web",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 38,
+    "PaintKitId": 232,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_iii/weapon_scar20_hy_webs_darker_light_png.png"
+  },
+  {
+    "Name": "AUG | Bengal Tiger",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 8,
+    "PaintKitId": 9,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "legendary",
+    "Image": "set_esports_iii/weapon_aug_hy_tiger_light_png.png"
+  },
+  {
+    "Name": "Nova | Bloomstick",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 35,
+    "PaintKitId": 62,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "legendary",
+    "Image": "set_esports_iii/weapon_nova_cu_spring_nova_light_png.png"
+  },
+  {
+    "Name": "AWP | Corticera",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 9,
+    "PaintKitId": 181,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_iii/weapon_awp_cu_favela_awp_light_png.png"
+  },
+  {
+    "Name": "P2000 | Corticera",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 32,
+    "PaintKitId": 184,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_iii/weapon_hkp2000_cu_favela_p2000_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Bullet Rain",
+    "MinWear": 0.02,
+    "MaxWear": 0.46,
+    "WeaponId": 16,
+    "PaintKitId": 155,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "ancient",
+    "Image": "set_esports_iii/weapon_m4a1_cu_bullet_rain_m4a1_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Jaguar",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 316,
+    "Collection": "The eSports 2014 Summer Collection",
+    "Rarity": "legendary",
+    "Image": "set_esports_iii/weapon_ak47_cu_panther_ak47_light_png.png"
+  }
+]

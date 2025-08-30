@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "P250 | Drought",
+    "MinWear": 0,
+    "MaxWear": 0.44,
+    "WeaponId": 36,
+    "PaintKitId": 825,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "common",
+    "Image": "set_mirage_2021/weapon_p250_sp_desert_skulls_dawn_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Anolis",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 26,
+    "PaintKitId": 829,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "common",
+    "Image": "set_mirage_2021/weapon_bizon_hy_lizard_skin_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Navy Sheen",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 27,
+    "PaintKitId": 822,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "common",
+    "Image": "set_mirage_2021/weapon_mag7_am_navy_shine_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Sienna Damask",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 17,
+    "PaintKitId": 826,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "common",
+    "Image": "set_mirage_2021/weapon_mac10_sp_mirage_flowers_tan_light_png.png"
+  },
+  {
+    "Name": "MP7 | Prey",
+    "MinWear": 0,
+    "MaxWear": 0.48,
+    "WeaponId": 33,
+    "PaintKitId": 935,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "common",
+    "Image": "set_mirage_2021/weapon_mp7_sp_zebracam_red_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Drift Wood",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 2,
+    "PaintKitId": 824,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_mirage_2021/weapon_elite_gs_sp_dry_wood_light_png.png"
+  },
+  {
+    "Name": "Negev | CaliCamo",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 28,
+    "PaintKitId": 240,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_mirage_2021/weapon_negev_hy_varicamo_desert_light_png.png"
+  },
+  {
+    "Name": "M249 | Midnight Palm",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 14,
+    "PaintKitId": 933,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_mirage_2021/weapon_m249_sp_palm_night_light_png.png"
+  },
+  {
+    "Name": "P90 | Verdant Growth",
+    "MinWear": 0,
+    "MaxWear": 0.47,
+    "WeaponId": 19,
+    "PaintKitId": 828,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_mirage_2021/weapon_p90_sp_moro_textile_green_vine_light_png.png"
+  },
+  {
+    "Name": "USP-S | Purple DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 61,
+    "PaintKitId": 818,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_mirage_2021/weapon_usp_silencer_am_ddpat_purple_light_png.png"
+  },
+  {
+    "Name": "MP9 | Music Box",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 34,
+    "PaintKitId": 820,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "rare",
+    "Image": "set_mirage_2021/weapon_mp9_am_mirage_flowers_metalic_light_png.png"
+  },
+  {
+    "Name": "M249 | Humidor",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 14,
+    "PaintKitId": 827,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "rare",
+    "Image": "set_mirage_2021/weapon_m249_sp_moro_carving_burnt_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Desert Blossom",
+    "MinWear": 0,
+    "MaxWear": 0.49,
+    "WeaponId": 39,
+    "PaintKitId": 765,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "rare",
+    "Image": "set_mirage_2021/weapon_sg556_aa_desert_bloom_bright_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Elegant Vines",
+    "MinWear": 0,
+    "MaxWear": 0.37,
+    "WeaponId": 25,
+    "PaintKitId": 821,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "mythical",
+    "Image": "set_mirage_2021/weapon_xm1014_am_moro_textile_bright_light_png.png"
+  },
+  {
+    "Name": "AWP | Pink DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 9,
+    "PaintKitId": 84,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "rare",
+    "Image": "set_mirage_2021/weapon_awp_hy_ddpat_pink_light_png.png"
+  },
+  {
+    "Name": "AUG | Sand Storm",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 8,
+    "PaintKitId": 823,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "mythical",
+    "Image": "set_mirage_2021/weapon_aug_gs_aug_sand_storm_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Oxide Oasis",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 23,
+    "PaintKitId": 923,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "legendary",
+    "Image": "set_mirage_2021/weapon_mp5sd_gs_mp5_neon_flektarn_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Fennec Fox",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 1,
+    "PaintKitId": 764,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "mythical",
+    "Image": "set_mirage_2021/weapon_deagle_gs_deagle_fennec_light_png.png"
+  },
+  {
+    "Name": "AWP | Desert Hydra",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 9,
+    "PaintKitId": 819,
+    "Collection": "The 2021 Mirage Collection",
+    "Rarity": "legendary",
+    "Image": "set_mirage_2021/weapon_awp_gs_awp_hydra_light_png.png"
+  }
+]

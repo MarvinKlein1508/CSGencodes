@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "P250 | X-Ray",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 36,
+    "PaintKitId": 125,
+    "Collection": "The X-Ray Collection",
+    "Rarity": "mythical",
+    "Image": "set_xraymachine/weapon_p250_cu_xray_p250_light_png.png"
+  }
+]

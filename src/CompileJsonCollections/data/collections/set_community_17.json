@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "USP-S | Blueprint",
+    "MinWear": 0,
+    "MaxWear": 0.86,
+    "WeaponId": 61,
+    "PaintKitId": 657,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_17/weapon_usp_silencer_cu_usps_blueprint_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Macabre",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 10,
+    "PaintKitId": 659,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_famas_sp_famas_macabre_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Briefing",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 60,
+    "PaintKitId": 663,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_17/weapon_m4a1_silencer_cu_m4a1s_metritera_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Aloha",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 17,
+    "PaintKitId": 665,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_mac10_am_mac10_aloha_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Hard Water",
+    "MinWear": 0,
+    "MaxWear": 0.45,
+    "WeaponId": 27,
+    "PaintKitId": 666,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_mag7_am_mag7_caustic_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Cut Out",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 30,
+    "PaintKitId": 671,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_tec9_aq_tec9_chalk_pattern_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Metal Flowers",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 24,
+    "PaintKitId": 672,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_ump45_aq_ump45_flameflower_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Orbit Mk01",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 7,
+    "PaintKitId": 656,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_ak47_gs_ak_colony01_red_light_png.png"
+  },
+  {
+    "Name": "P2000 | Woodsman",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 32,
+    "PaintKitId": 667,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "rare",
+    "Image": "set_community_17/weapon_hkp2000_cu_p2000_hunter_light_png.png"
+  },
+  {
+    "Name": "P250 | Red Rock",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 36,
+    "PaintKitId": 668,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_17/weapon_p250_cu_p250_axiom_light_png.png"
+  },
+  {
+    "Name": "P90 | Death Grip",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 19,
+    "PaintKitId": 669,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_17/weapon_p90_hy_p90_barebones_blue_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Death\u0027s Head",
+    "MinWear": 0,
+    "MaxWear": 0.51,
+    "WeaponId": 40,
+    "PaintKitId": 670,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_17/weapon_ssg08_cu_ssg08_deathshead_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Cobra Strike",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 2,
+    "PaintKitId": 658,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_17/weapon_elite_gs_gs_dualberettas_cobra_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Sugar Rush",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 13,
+    "PaintKitId": 661,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_17/weapon_galilar_cu_galil_candychaos_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Hellfire",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 16,
+    "PaintKitId": 664,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_17/weapon_m4a1_cu_m4a4_hellfire_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Hyper Beast",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 3,
+    "PaintKitId": 660,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_17/weapon_fiveseven_cu_fiveseven_hyperbeast_light_png.png"
+  },
+  {
+    "Name": "AWP | Oni Taiji",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 9,
+    "PaintKitId": 662,
+    "Collection": "The Operation Hydra Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_17/weapon_awp_cu_awp_hannya_light_png.png"
+  }
+]

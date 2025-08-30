@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Five-SeveN | Scrawl",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 3,
+    "PaintKitId": 1128,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_fiveseven_cu_fiveseven_alpha_omega_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Ensnared",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 17,
+    "PaintKitId": 1131,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_mac10_cu_mac10_pixie_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Foresight",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 27,
+    "PaintKitId": 1132,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_mag7_cu_mag7_predictor_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Necro Jr.",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 23,
+    "PaintKitId": 1137,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_mp5sd_gs_mp5_kid_necronomicon_light_png.png"
+  },
+  {
+    "Name": "P2000 | Lifted Spirits",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 32,
+    "PaintKitId": 1138,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_30/weapon_hkp2000_cu_p2k_flying_dream_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Poultrygeist",
+    "MinWear": 0,
+    "MaxWear": 0.57,
+    "WeaponId": 38,
+    "PaintKitId": 1139,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_scar20_sp_scar_chickenfight_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Spirit Board",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 29,
+    "PaintKitId": 1140,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_sawedoff_cu_sawedoff_ouija_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Space Cat",
+    "MinWear": 0,
+    "MaxWear": 0.67,
+    "WeaponId": 26,
+    "PaintKitId": 1125,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_30/weapon_bizon_cu_bizon_spacecat_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Dream Glade",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 11,
+    "PaintKitId": 1129,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_30/weapon_g3sg1_cu_g3sg1_glade_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Night Terror",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 60,
+    "PaintKitId": 1130,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_m4a1_silencer_gs_m4a1s_insomnia_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Zombie Offensive",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 25,
+    "PaintKitId": 1135,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_30/weapon_xm1014_am_xm_zombie_offensive_light_png.png"
+  },
+  {
+    "Name": "USP-S | Ticket to Hell",
+    "MinWear": 0,
+    "MaxWear": 0.76,
+    "WeaponId": 61,
+    "PaintKitId": 1136,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "rare",
+    "Image": "set_community_30/weapon_usp_silencer_cu_usp_to_hell_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Melondrama",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 2,
+    "PaintKitId": 1126,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_30/weapon_elite_gs_cu_elites_beware_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Rapid Eye Movement",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 10,
+    "PaintKitId": 1127,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_30/weapon_famas_gs_famas_rapid_eyes_light_png.png"
+  },
+  {
+    "Name": "MP7 | Abyssal Apparition",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 1133,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_30/weapon_mp7_cu_mp7_fear_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Nightwish",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 1141,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_30/weapon_ak47_cu_ak47_nightwish_light_png.png"
+  },
+  {
+    "Name": "MP9 | Starlight Protector",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 34,
+    "PaintKitId": 1134,
+    "Collection": "The Dreams \u0026 Nightmares Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_30/weapon_mp9_gs_mp9_starlight_light_png.png"
+  }
+]

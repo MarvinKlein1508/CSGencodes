@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Five-SeveN | Contractor",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 3,
+    "PaintKitId": 46,
+    "Collection": "The Baggage Collection",
+    "Rarity": "common",
+    "Image": "set_baggage/weapon_fiveseven_so_pmc_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Sand Dune",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 27,
+    "PaintKitId": 99,
+    "Collection": "The Baggage Collection",
+    "Rarity": "common",
+    "Image": "set_baggage/weapon_mag7_so_sand_light_png.png"
+  },
+  {
+    "Name": "MP7 | Olive Plaid",
+    "MinWear": 0,
+    "MaxWear": 0.58,
+    "WeaponId": 33,
+    "PaintKitId": 365,
+    "Collection": "The Baggage Collection",
+    "Rarity": "common",
+    "Image": "set_baggage/weapon_mp7_hy_plaid1_light_png.png"
+  },
+  {
+    "Name": "MP9 | Green Plaid",
+    "MinWear": 0,
+    "MaxWear": 0.58,
+    "WeaponId": 34,
+    "PaintKitId": 366,
+    "Collection": "The Baggage Collection",
+    "Rarity": "common",
+    "Image": "set_baggage/weapon_mp9_hy_plaid2_light_png.png"
+  },
+  {
+    "Name": "MP9 | Green Plaid",
+    "MinWear": 0,
+    "MaxWear": 0.58,
+    "WeaponId": 34,
+    "PaintKitId": 366,
+    "Collection": "The Baggage Collection",
+    "Rarity": "common",
+    "Image": "set_baggage/weapon_mp9_hy_plaid2_light_png.png"
+  },
+  {
+    "Name": "P90 | Leather",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 19,
+    "PaintKitId": 342,
+    "Collection": "The Baggage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_baggage/weapon_p90_cu_brown_leather_p90_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Commuter",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 343,
+    "Collection": "The Baggage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_baggage/weapon_mac10_cu_luggage_mac10_light_png.png"
+  },
+  {
+    "Name": "P2000 | Coach Class",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 32,
+    "PaintKitId": 346,
+    "Collection": "The Baggage Collection",
+    "Rarity": "common",
+    "Image": "set_baggage/weapon_hkp2000_cu_luggage_p2000_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Traveler",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 39,
+    "PaintKitId": 363,
+    "Collection": "The Baggage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_baggage/weapon_sg556_cu_luggage_sg553_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | First Class",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 29,
+    "PaintKitId": 345,
+    "Collection": "The Baggage Collection",
+    "Rarity": "rare",
+    "Image": "set_baggage/weapon_sawedoff_cu_green_leather_sawedoff_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Red Leather",
+    "MinWear": 0,
+    "MaxWear": 0.56,
+    "WeaponId": 25,
+    "PaintKitId": 348,
+    "Collection": "The Baggage Collection",
+    "Rarity": "rare",
+    "Image": "set_baggage/weapon_xm1014_cu_leather_xm1014_light_png.png"
+  },
+  {
+    "Name": "USP-S | Business Class",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 364,
+    "Collection": "The Baggage Collection",
+    "Rarity": "uncommon",
+    "Image": "set_baggage/weapon_usp_silencer_cu_luggage_usp-s_light_png.png"
+  },
+  {
+    "Name": "AK-47 | First Class",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 341,
+    "Collection": "The Baggage Collection",
+    "Rarity": "rare",
+    "Image": "set_baggage/weapon_ak47_cu_green_leather_ak47_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Pilot",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 1,
+    "PaintKitId": 347,
+    "Collection": "The Baggage Collection",
+    "Rarity": "rare",
+    "Image": "set_baggage/weapon_deagle_aq_pilot_deagle_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Jet Set",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 340,
+    "Collection": "The Baggage Collection",
+    "Rarity": "mythical",
+    "Image": "set_baggage/weapon_ak47_cu_well_traveled_ak47_light_png.png"
+  }
+]

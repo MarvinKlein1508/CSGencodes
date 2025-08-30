@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "PP-Bizon | Irradiated Alert",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 26,
+    "PaintKitId": 171,
+    "Collection": "The Nuke Collection",
+    "Rarity": "common",
+    "Image": "set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Irradiated Alert",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 26,
+    "PaintKitId": 171,
+    "Collection": "The Nuke Collection",
+    "Rarity": "common",
+    "Image": "set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Irradiated Alert",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 26,
+    "PaintKitId": 171,
+    "Collection": "The Nuke Collection",
+    "Rarity": "common",
+    "Image": "set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+  },
+  {
+    "Name": "P90 | Fallout Warning",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 19,
+    "PaintKitId": 169,
+    "Collection": "The Nuke Collection",
+    "Rarity": "uncommon",
+    "Image": "set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+  },
+  {
+    "Name": "P90 | Fallout Warning",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 19,
+    "PaintKitId": 169,
+    "Collection": "The Nuke Collection",
+    "Rarity": "uncommon",
+    "Image": "set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+  },
+  {
+    "Name": "P90 | Fallout Warning",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 19,
+    "PaintKitId": 169,
+    "Collection": "The Nuke Collection",
+    "Rarity": "uncommon",
+    "Image": "set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Radiation Hazard",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 167,
+    "Collection": "The Nuke Collection",
+    "Rarity": "uncommon",
+    "Image": "set_nuke/weapon_m4a1_sp_nukestripe_orange_light_png.png"
+  },
+  {
+    "Name": "P250 | Nuclear Threat",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 36,
+    "PaintKitId": 168,
+    "Collection": "The Nuke Collection",
+    "Rarity": "mythical",
+    "Image": "set_nuke/weapon_p250_sp_nukestripe_green_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Nuclear Threat",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 30,
+    "PaintKitId": 179,
+    "Collection": "The Nuke Collection",
+    "Rarity": "mythical",
+    "Image": "set_nuke/weapon_tec9_sp_nukestripe_green_tec9_light_png.png"
+  }
+]

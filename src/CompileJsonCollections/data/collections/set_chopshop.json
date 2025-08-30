@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "Negev | Army Sheen",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 28,
+    "PaintKitId": 298,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "common",
+    "Image": "set_chopshop/weapon_negev_am_army_shine_light_png.png"
+  },
+  {
+    "Name": "Negev | Army Sheen",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 28,
+    "PaintKitId": 298,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "common",
+    "Image": "set_chopshop/weapon_negev_am_army_shine_light_png.png"
+  },
+  {
+    "Name": "M249 | Impact Drill",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 14,
+    "PaintKitId": 472,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "common",
+    "Image": "set_chopshop/weapon_m249_so_keycolors_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Seabird",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 27,
+    "PaintKitId": 473,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "common",
+    "Image": "set_chopshop/weapon_mag7_so_aqua_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Night",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 4,
+    "PaintKitId": 40,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "common",
+    "Image": "set_chopshop/weapon_glock_so_night_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Urban Rubble",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 1,
+    "PaintKitId": 237,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "uncommon",
+    "Image": "set_chopshop/weapon_deagle_hy_varicamo_urban_light_png.png"
+  },
+  {
+    "Name": "USP-S | Para Green",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 61,
+    "PaintKitId": 454,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "common",
+    "Image": "set_chopshop/weapon_usp_silencer_so_khaki_green_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Fade",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 4,
+    "PaintKitId": 38,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "rare",
+    "Image": "set_chopshop/weapon_glock_aa_fade_light_png.png"
+  },
+  {
+    "Name": "MP7 | Whiteout",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 33,
+    "PaintKitId": 102,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "rare",
+    "Image": "set_chopshop/weapon_mp7_so_whiteout_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Full Stop",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 29,
+    "PaintKitId": 250,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "rare",
+    "Image": "set_chopshop/weapon_sawedoff_hy_varicamo_red_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Nitro",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 60,
+    "PaintKitId": 254,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "rare",
+    "Image": "set_chopshop/weapon_m4a1_silencer_so_orange_accents_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Emerald",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 63,
+    "PaintKitId": 453,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "rare",
+    "Image": "set_chopshop/weapon_cz75a_an_emerald_light_png.png"
+  },
+  {
+    "Name": "MP9 | Bulldozer",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 34,
+    "PaintKitId": 39,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "mythical",
+    "Image": "set_chopshop/weapon_mp9_so_yellow_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Duelist",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 2,
+    "PaintKitId": 447,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "mythical",
+    "Image": "set_chopshop/weapon_elite_gs_gs_mother_of_pearl_elite_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Twilight Galaxy",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 4,
+    "PaintKitId": 437,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "mythical",
+    "Image": "set_chopshop/weapon_glock_am_aqua_flecks_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Hot Rod",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 60,
+    "PaintKitId": 445,
+    "Collection": "The Chop Shop Collection",
+    "Rarity": "mythical",
+    "Image": "set_chopshop/weapon_m4a1_silencer_an_red_m4a1s_light_png.png"
+  }
+]

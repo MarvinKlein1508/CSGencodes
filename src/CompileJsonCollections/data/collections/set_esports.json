@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "M4A4 | Faded Zebra",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 176,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "uncommon",
+    "Image": "set_esports/weapon_m4a1_sp_zebracam_bw_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Memento",
+    "MinWear": 0.02,
+    "MaxWear": 0.18,
+    "WeaponId": 27,
+    "PaintKitId": 177,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "rare",
+    "Image": "set_esports/weapon_mag7_hy_icosahedron_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Doomkitty",
+    "MinWear": 0.08,
+    "MaxWear": 0.22,
+    "WeaponId": 10,
+    "PaintKitId": 178,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "rare",
+    "Image": "set_esports/weapon_famas_hy_doomkitty_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Orange DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 13,
+    "PaintKitId": 83,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports/weapon_galilar_hy_ddpat_orange_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Orange DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 13,
+    "PaintKitId": 83,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports/weapon_galilar_hy_ddpat_orange_light_png.png"
+  },
+  {
+    "Name": "P250 | Splash",
+    "MinWear": 0,
+    "MaxWear": 0.18,
+    "WeaponId": 36,
+    "PaintKitId": 162,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports/weapon_p250_sp_splash_p250_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Red Laminate",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 7,
+    "PaintKitId": 14,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports/weapon_ak47_hy_ak47lam_light_png.png"
+  },
+  {
+    "Name": "AWP | BOOM",
+    "MinWear": 0,
+    "MaxWear": 0.28,
+    "WeaponId": 9,
+    "PaintKitId": 174,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports/weapon_awp_hy_blam_simple_light_png.png"
+  },
+  {
+    "Name": "P90 | Death by Kitty",
+    "MinWear": 0.08,
+    "MaxWear": 0.32,
+    "WeaponId": 19,
+    "PaintKitId": 156,
+    "Collection": "The eSports 2013 Collection",
+    "Rarity": "ancient",
+    "Image": "set_esports/weapon_p90_cu_catskulls_p90_light_png.png"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "MAC-10 | Urban DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 17,
+    "PaintKitId": 17,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_mac10_hy_ddpat_urb_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Colony",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 2,
+    "PaintKitId": 47,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_elite_gs_so_space_marine_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Polar Camo",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 11,
+    "PaintKitId": 74,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_g3sg1_hy_arctic_contrast_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Forest Night",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 3,
+    "PaintKitId": 78,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_fiveseven_hy_forest_night_light_png.png"
+  },
+  {
+    "Name": "Nova | Polar Mesh",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 35,
+    "PaintKitId": 107,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_nova_sp_mesh_arctic_contrast_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Urban Dashed",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 26,
+    "PaintKitId": 149,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_bizon_sp_tape_short_urban_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Candy Apple",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 3,
+    "PaintKitId": 3,
+    "Collection": "The Train Collection",
+    "Rarity": "uncommon",
+    "Image": "set_train/weapon_fiveseven_so_red_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Urban DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 17,
+    "PaintKitId": 17,
+    "Collection": "The Train Collection",
+    "Rarity": "common",
+    "Image": "set_train/weapon_mac10_hy_ddpat_urb_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Metallic DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 27,
+    "PaintKitId": 34,
+    "Collection": "The Train Collection",
+    "Rarity": "uncommon",
+    "Image": "set_train/weapon_mag7_am_urban_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Metallic DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 27,
+    "PaintKitId": 34,
+    "Collection": "The Train Collection",
+    "Rarity": "uncommon",
+    "Image": "set_train/weapon_mag7_am_urban_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Carbon Fiber",
+    "MinWear": 0,
+    "MaxWear": 0.12,
+    "WeaponId": 26,
+    "PaintKitId": 70,
+    "Collection": "The Train Collection",
+    "Rarity": "uncommon",
+    "Image": "set_train/weapon_bizon_am_carbon_fiber_light_png.png"
+  },
+  {
+    "Name": "P90 | Ash Wood",
+    "MinWear": 0,
+    "MaxWear": 0.45,
+    "WeaponId": 19,
+    "PaintKitId": 234,
+    "Collection": "The Train Collection",
+    "Rarity": "uncommon",
+    "Image": "set_train/weapon_p90_sp_twigs_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Urban Rubble",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 1,
+    "PaintKitId": 237,
+    "Collection": "The Train Collection",
+    "Rarity": "uncommon",
+    "Image": "set_train/weapon_deagle_hy_varicamo_urban_light_png.png"
+  },
+  {
+    "Name": "P2000 | Amber Fade",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 32,
+    "PaintKitId": 246,
+    "Collection": "The Train Collection",
+    "Rarity": "rare",
+    "Image": "set_train/weapon_hkp2000_aa_fade_metallic_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Red Quartz",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 30,
+    "PaintKitId": 248,
+    "Collection": "The Train Collection",
+    "Rarity": "mythical",
+    "Image": "set_train/weapon_tec9_am_crystallized_light_png.png"
+  }
+]

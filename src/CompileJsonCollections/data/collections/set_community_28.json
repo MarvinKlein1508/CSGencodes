@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Glock-18 | Clear Polymer",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 1039,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_28/weapon_glock_gs_glock_polymer_light_png.png"
+  },
+  {
+    "Name": "M249 | O.S.I.P.R.",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 14,
+    "PaintKitId": 1042,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_m249_gs_m249_combine_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Heavy Metal",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 39,
+    "PaintKitId": 1048,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_sg556_gs_sg553_deathmetal_light_png.png"
+  },
+  {
+    "Name": "R8 Revolver | Junk Yard",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 64,
+    "PaintKitId": 1047,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_revolver_gs_r8_rustking_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Oscillator",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 24,
+    "PaintKitId": 1049,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_ump45_am_ump45_electrowave_light_png.png"
+  },
+  {
+    "Name": "Nova | Windblown",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 35,
+    "PaintKitId": 1051,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_nova_sp_nova_wind_dispersal_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Circaetus",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 63,
+    "PaintKitId": 1036,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_cz75a_cu_cz75_whirlwind_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Slate",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 1035,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_ak47_gs_ak47_professional_light_png.png"
+  },
+  {
+    "Name": "P250 | Cyber Shell",
+    "MinWear": 0,
+    "MaxWear": 0.85,
+    "WeaponId": 36,
+    "PaintKitId": 1044,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_28/weapon_p250_gs_p250_cybershell_light_png.png"
+  },
+  {
+    "Name": "Negev | dev_texture",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 28,
+    "PaintKitId": 1043,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_28/weapon_negev_cu_negev_devtexture_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Button Masher",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 1045,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_28/weapon_mac10_cu_mac10_portable_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Trigger Discipline",
+    "MinWear": 0,
+    "MaxWear": 0.97,
+    "WeaponId": 1,
+    "PaintKitId": 1050,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "rare",
+    "Image": "set_community_28/weapon_deagle_cu_deag_trigger_discipline_light_png.png"
+  },
+  {
+    "Name": "MP9 | Food Chain",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 1037,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_28/weapon_mp9_cu_mp9_food_chain_light_png.png"
+  },
+  {
+    "Name": "XM1014 | XOXO",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 25,
+    "PaintKitId": 1046,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_28/weapon_xm1014_aq_xm1014_punk_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Chromatic Aberration",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 13,
+    "PaintKitId": 1038,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_28/weapon_galilar_cu_galil_chroma_pink_light_png.png"
+  },
+  {
+    "Name": "USP-S | The Traitor",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 1040,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_28/weapon_usp_silencer_gs_usps_hangedman_light_png.png"
+  },
+  {
+    "Name": "M4A4 | In Living Color",
+    "MinWear": 0,
+    "MaxWear": 0.79,
+    "WeaponId": 16,
+    "PaintKitId": 1041,
+    "Collection": "The Snakebite Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_28/weapon_m4a1_cu_m4a4_love_light_png.png"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Galil AR | Sandstorm",
+    "MinWear": 0.1,
+    "MaxWear": 0.6,
+    "WeaponId": 13,
+    "PaintKitId": 264,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "rare",
+    "Image": "set_community_1/weapon_galilar_cu_sandstorm_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Kami",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 3,
+    "PaintKitId": 265,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "rare",
+    "Image": "set_community_1/weapon_fiveseven_hy_kami_light_png.png"
+  },
+  {
+    "Name": "M249 | Magma",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 14,
+    "PaintKitId": 266,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "rare",
+    "Image": "set_community_1/weapon_m249_aq_obsidian_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Cobalt Halftone",
+    "MinWear": 0.05,
+    "MaxWear": 0.45,
+    "WeaponId": 26,
+    "PaintKitId": 267,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "rare",
+    "Image": "set_community_1/weapon_bizon_am_turqoise_halftone_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Pulse",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 10,
+    "PaintKitId": 260,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_1/weapon_famas_cu_famas_pulse_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Marina",
+    "MinWear": 0.05,
+    "MaxWear": 0.5,
+    "WeaponId": 2,
+    "PaintKitId": 261,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_1/weapon_elite_gs_hy_marina_sunrise_light_png.png"
+  },
+  {
+    "Name": "MP9 | Rose Iron",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 34,
+    "PaintKitId": 262,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_1/weapon_mp9_am_thorny_rose_mp9_light_png.png"
+  },
+  {
+    "Name": "Nova | Rising Skull",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 35,
+    "PaintKitId": 263,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_1/weapon_nova_cu_skull_nova_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Guardian",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 60,
+    "PaintKitId": 257,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_1/weapon_m4a1_silencer_cu_m4a1-s_elegant_light_png.png"
+  },
+  {
+    "Name": "P250 | Mehndi",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 36,
+    "PaintKitId": 258,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_1/weapon_p250_cu_p250_refined_light_png.png"
+  },
+  {
+    "Name": "AWP | Redline",
+    "MinWear": 0.1,
+    "MaxWear": 0.4,
+    "WeaponId": 9,
+    "PaintKitId": 259,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_1/weapon_awp_cu_awp_cobra_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Asiimov",
+    "MinWear": 0.18,
+    "MaxWear": 1,
+    "WeaponId": 16,
+    "PaintKitId": 255,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_1/weapon_m4a1_cu_m4_asimov_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | The Kraken",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 29,
+    "PaintKitId": 256,
+    "Collection": "The Winter Offensive Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_1/weapon_sawedoff_cu_sawedoff_octopump_light_png.png"
+  }
+]

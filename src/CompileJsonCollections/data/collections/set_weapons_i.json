@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "MP7 | Skulls",
+    "MinWear": 0.1,
+    "MaxWear": 0.26,
+    "WeaponId": 33,
+    "PaintKitId": 11,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_i/weapon_mp7_hy_skulls_light_png.png"
+  },
+  {
+    "Name": "AUG | Wings",
+    "MinWear": 0,
+    "MaxWear": 0.14,
+    "WeaponId": 8,
+    "PaintKitId": 73,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_i/weapon_aug_hy_feathers_aug_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Ultraviolet",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 39,
+    "PaintKitId": 98,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_i/weapon_sg556_so_purple_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Dragon Tattoo",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 4,
+    "PaintKitId": 48,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_i/weapon_glock_am_dragon_glock_light_png.png"
+  },
+  {
+    "Name": "USP-S | Dark Water",
+    "MinWear": 0.1,
+    "MaxWear": 0.26,
+    "WeaponId": 61,
+    "PaintKitId": 60,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
+  },
+  {
+    "Name": "USP-S | Dark Water",
+    "MinWear": 0.1,
+    "MaxWear": 0.26,
+    "WeaponId": 61,
+    "PaintKitId": 60,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Case Hardened",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 44,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "mythical",
+    "Image": "set_weapons_i/weapon_ak47_aq_oiled_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Hypnotic",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 1,
+    "PaintKitId": 61,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "mythical",
+    "Image": "set_weapons_i/weapon_deagle_aa_vertigo_light_png.png"
+  },
+  {
+    "Name": "AWP | Lightning Strike",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 9,
+    "PaintKitId": 51,
+    "Collection": "The Arms Deal Collection",
+    "Rarity": "legendary",
+    "Image": "set_weapons_i/weapon_awp_am_lightning_awp_light_png.png"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Sawed-Off | Morris",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 29,
+    "PaintKitId": 673,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_18/weapon_sawedoff_aq_sawed-off_flower_light_png.png"
+  },
+  {
+    "Name": "AUG | Triqua",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 8,
+    "PaintKitId": 674,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_18/weapon_aug_cu_aug_orange_triangle_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Hunter",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 11,
+    "PaintKitId": 677,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_18/weapon_g3sg1_gs_g3sg1_cetme_redux_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Off World",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 680,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_18/weapon_glock_cu_glock_indigo_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Oceanic",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 17,
+    "PaintKitId": 682,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_18/weapon_mac10_am_mac10_oceani_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Cracked Opal",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 30,
+    "PaintKitId": 684,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_18/weapon_tec9_cu_tec9_cracked_opal_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Jungle Slipstream",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 38,
+    "PaintKitId": 685,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_18/weapon_scar20_hy_scar20_jungle_slipstream_light_png.png"
+  },
+  {
+    "Name": "MP9 | Goo",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 34,
+    "PaintKitId": 679,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_18/weapon_mp9_cu_mp9_goo_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Phantom",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 39,
+    "PaintKitId": 686,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_18/weapon_sg556_gs_sg553_phantom_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Tacticat",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 63,
+    "PaintKitId": 687,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_18/weapon_cz75a_gs_cz75_tacticat_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Exposure",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 24,
+    "PaintKitId": 688,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_18/weapon_ump45_cu_ump45_x-ray_machine_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Ziggy",
+    "MinWear": 0,
+    "MaxWear": 0.72,
+    "WeaponId": 25,
+    "PaintKitId": 689,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_18/weapon_xm1014_aq_xm1014_ziggy_anarchy_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | High Roller",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 26,
+    "PaintKitId": 676,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_18/weapon_bizon_cu_bizon_all_in_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Leaded Glass",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 60,
+    "PaintKitId": 681,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_18/weapon_m4a1_silencer_gs_m4a1_shatter_light_png.png"
+  },
+  {
+    "Name": "R8 Revolver | Llama Cannon",
+    "MinWear": 0.03,
+    "MaxWear": 0.7,
+    "WeaponId": 64,
+    "PaintKitId": 683,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_18/weapon_revolver_gs_r8_llamacannon_light_png.png"
+  },
+  {
+    "Name": "AK-47 | The Empress",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 675,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_18/weapon_ak47_gs_ak47_empress_light_png.png"
+  },
+  {
+    "Name": "P250 | See Ya Later",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 36,
+    "PaintKitId": 678,
+    "Collection": "The Spectrum 2 Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_18/weapon_p250_cu_p250_cybercroc_light_png.png"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "FAMAS | Crypsis",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 10,
+    "PaintKitId": 835,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_famas_sp_famas_ghost_insects_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Uncharted",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 7,
+    "PaintKitId": 836,
+    "Collection": "The Prisma Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_22/weapon_ak47_cu_ak47_aztec_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Whitefish",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 840,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_mac10_gs_mac10_fish_bait_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Akoben",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 13,
+    "PaintKitId": 842,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_galilar_sp_galil_akoben_light_png.png"
+  },
+  {
+    "Name": "MP7 | Mischief",
+    "MinWear": 0.1,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 847,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_mp7_cu_mp7_racketeer_light_png.png"
+  },
+  {
+    "Name": "P250 | Verdigris",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 36,
+    "PaintKitId": 848,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_p250_aq_p250_verdigris_light_png.png"
+  },
+  {
+    "Name": "P90 | Off World",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 19,
+    "PaintKitId": 849,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_p90_cu_p90_offworld_light_png.png"
+  },
+  {
+    "Name": "AWP | Atheris",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 838,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_awp_cu_awp_viper_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Bamboozle",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 30,
+    "PaintKitId": 839,
+    "Collection": "The Prisma Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_22/weapon_tec9_cu_tec9_bamboo_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Light Rail",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 1,
+    "PaintKitId": 841,
+    "Collection": "The Prisma Collection",
+    "Rarity": "rare",
+    "Image": "set_community_22/weapon_deagle_gs_deagle_exo_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Gauss",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 23,
+    "PaintKitId": 846,
+    "Collection": "The Prisma Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_22/weapon_mp5sd_gs_mp5sd_astromatic_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Moonrise",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 24,
+    "PaintKitId": 851,
+    "Collection": "The Prisma Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_22/weapon_ump45_aa_ump45_moonrise_sunset_light_png.png"
+  },
+  {
+    "Name": "R8 Revolver | Skull Crusher",
+    "MinWear": 0.25,
+    "MaxWear": 0.8,
+    "WeaponId": 64,
+    "PaintKitId": 843,
+    "Collection": "The Prisma Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_22/weapon_revolver_cu_revolver_oppressor_light_png.png"
+  },
+  {
+    "Name": "AUG | Momentum",
+    "MinWear": 0.05,
+    "MaxWear": 1,
+    "WeaponId": 8,
+    "PaintKitId": 845,
+    "Collection": "The Prisma Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_22/weapon_aug_cu_aug_momentum_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Incinegator",
+    "MinWear": 0.14,
+    "MaxWear": 0.65,
+    "WeaponId": 25,
+    "PaintKitId": 850,
+    "Collection": "The Prisma Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_22/weapon_xm1014_cu_xm1014_incinerator_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Angry Mob",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 3,
+    "PaintKitId": 837,
+    "Collection": "The Prisma Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_22/weapon_fiveseven_cu_five_seven_angry_light_png.png"
+  },
+  {
+    "Name": "M4A4 | The Emperor",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 16,
+    "PaintKitId": 844,
+    "Collection": "The Prisma Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_22/weapon_m4a1_gs_m4a4_emperor_light_png.png"
+  }
+]

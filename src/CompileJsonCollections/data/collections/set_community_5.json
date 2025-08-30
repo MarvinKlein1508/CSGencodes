@@ -1,0 +1,142 @@
+[
+  {
+    "Name": "G3SG1 | Murky",
+    "MinWear": 0,
+    "MaxWear": 0.25,
+    "WeaponId": 11,
+    "PaintKitId": 382,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_g3sg1_am_g3sg1_murky_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Firestarter",
+    "MinWear": 0.06,
+    "MaxWear": 0.49,
+    "WeaponId": 27,
+    "PaintKitId": 385,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_mag7_sp_mag7_firebitten_light_png.png"
+  },
+  {
+    "Name": "MP9 | Dart",
+    "MinWear": 0,
+    "MaxWear": 0.46,
+    "WeaponId": 34,
+    "PaintKitId": 386,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_mp9_cu_mp9_chevron_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Urban Hazard",
+    "MinWear": 0,
+    "MaxWear": 0.25,
+    "WeaponId": 3,
+    "PaintKitId": 387,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_fiveseven_cu_fiveseven_urban_hazard_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Delusion",
+    "MinWear": 0.06,
+    "MaxWear": 0.35,
+    "WeaponId": 24,
+    "PaintKitId": 392,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_ump45_sp_ump45_d-visions_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Grinder",
+    "MinWear": 0.02,
+    "MaxWear": 0.25,
+    "WeaponId": 4,
+    "PaintKitId": 381,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_glock_aq_glock_coiled_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Basilisk",
+    "MinWear": 0,
+    "MaxWear": 0.68,
+    "WeaponId": 60,
+    "PaintKitId": 383,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Griffin",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 16,
+    "PaintKitId": 384,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "rare",
+    "Image": "set_community_5/weapon_m4a1_cu_m4a4_griffin_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Highwayman",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 29,
+    "PaintKitId": 390,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_5/weapon_sawedoff_aq_sawedoff_blackgold_light_png.png"
+  },
+  {
+    "Name": "P250 | Cartel",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 36,
+    "PaintKitId": 388,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_5/weapon_p250_aq_p250_cartel_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Cardiac",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 38,
+    "PaintKitId": 391,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_5/weapon_scar20_cu_scar20_intervention_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Tranquility",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 25,
+    "PaintKitId": 393,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_5/weapon_xm1014_cu_xm1014_caritas_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Wasteland Rebel",
+    "MinWear": 0.05,
+    "MaxWear": 0.7,
+    "WeaponId": 7,
+    "PaintKitId": 380,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_5/weapon_ak47_cu_tribute_ak47_light_png.png"
+  },
+  {
+    "Name": "P2000 | Fire Elemental",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 32,
+    "PaintKitId": 389,
+    "Collection": "The Vanguard Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_5/weapon_hkp2000_cu_p2000_fire_elemental_light_png.png"
+  }
+]

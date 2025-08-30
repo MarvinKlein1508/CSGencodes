@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "AUG | Plague",
+    "MinWear": 0,
+    "MaxWear": 0.76,
+    "WeaponId": 8,
+    "PaintKitId": 1088,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_aug_gs_aug_plague_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Tread",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 2,
+    "PaintKitId": 1091,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_elite_gs_gs_dual_berettas_tread_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Keeping Tabs",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 11,
+    "PaintKitId": 1095,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_g3sg1_cu_g3sg1_tacticalmap_light_png.png"
+  },
+  {
+    "Name": "MP7 | Guerrilla",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 1096,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_mp7_cu_mp7_khaki_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Lumen",
+    "MinWear": 0,
+    "MaxWear": 0.77,
+    "WeaponId": 26,
+    "PaintKitId": 1099,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_bizon_gs_bizon_flasher_light_png.png"
+  },
+  {
+    "Name": "USP-S | Black Lotus",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 61,
+    "PaintKitId": 1102,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_29/weapon_usp_silencer_cu_usp_black_lotus_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Watchdog",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 25,
+    "PaintKitId": 1103,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_xm1014_gs_xm1014_watchdog_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | BI83 Spectrum",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 27,
+    "PaintKitId": 1089,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_29/weapon_mag7_gs_mag7_bismuth_light_png.png"
+  },
+  {
+    "Name": "FAMAS | ZX Spectron",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 10,
+    "PaintKitId": 1092,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_29/weapon_famas_cu_famas_spectron_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Boost Protocol",
+    "MinWear": 0,
+    "MaxWear": 0.41,
+    "WeaponId": 3,
+    "PaintKitId": 1093,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_29/weapon_fiveseven_gs_five_seven_efusion_light_png.png"
+  },
+  {
+    "Name": "MP9 | Mount Fuji",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 34,
+    "PaintKitId": 1094,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_29/weapon_mp9_aa_mp9_fuji_pink_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Spider Lily",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 16,
+    "PaintKitId": 1097,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "rare",
+    "Image": "set_community_29/weapon_m4a1_gs_m4_flowers_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Toybox",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 1098,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_29/weapon_mac10_cu_mac10_toybox_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Snack Attack",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 1100,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_29/weapon_glock_cu_glock_snackattack_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Turbo Peek",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 40,
+    "PaintKitId": 1101,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_29/weapon_ssg08_cu_ssg_overtake_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Ocean Drive",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 1,
+    "PaintKitId": 1090,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_29/weapon_deagle_cu_deagle_kitch_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Leet Museo",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 7,
+    "PaintKitId": 1087,
+    "Collection": "The Operation Riptide Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_29/weapon_ak47_gs_ak47_abstract_light_png.png"
+  }
+]

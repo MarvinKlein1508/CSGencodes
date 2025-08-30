@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "M4A1-S | Boreal Forest",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 60,
+    "PaintKitId": 77,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Blue Spruce",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 25,
+    "PaintKitId": 96,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_xm1014_so_moss_light_png.png"
+  },
+  {
+    "Name": "AUG | Storm",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 8,
+    "PaintKitId": 100,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_aug_so_stormfront_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Sage Spray",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 13,
+    "PaintKitId": 119,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_galilar_sp_spray_desert_sage_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Waves Perforated",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 39,
+    "PaintKitId": 136,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_sg556_sp_tape_dots_waves_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Jungle Dashed",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 11,
+    "PaintKitId": 147,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Blue Steel",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 25,
+    "PaintKitId": 42,
+    "Collection": "The Lake Collection",
+    "Rarity": "uncommon",
+    "Image": "set_lake/weapon_xm1014_aq_blued_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Safari Mesh",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 7,
+    "PaintKitId": 72,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_ak47_sp_mesh_tan_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Mudder",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 1,
+    "PaintKitId": 90,
+    "Collection": "The Lake Collection",
+    "Rarity": "common",
+    "Image": "set_lake/weapon_deagle_hy_mottled_sand_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Cyanospatter",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 10,
+    "PaintKitId": 92,
+    "Collection": "The Lake Collection",
+    "Rarity": "uncommon",
+    "Image": "set_lake/weapon_famas_hy_reef_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Night Ops",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 26,
+    "PaintKitId": 236,
+    "Collection": "The Lake Collection",
+    "Rarity": "uncommon",
+    "Image": "set_lake/weapon_bizon_hy_varicamo_night_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Anodized Navy",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 2,
+    "PaintKitId": 28,
+    "Collection": "The Lake Collection",
+    "Rarity": "rare",
+    "Image": "set_lake/weapon_elite_gs_an_navy_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Night Ops",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 26,
+    "PaintKitId": 236,
+    "Collection": "The Lake Collection",
+    "Rarity": "uncommon",
+    "Image": "set_lake/weapon_bizon_hy_varicamo_night_light_png.png"
+  },
+  {
+    "Name": "P90 | Teardown",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 19,
+    "PaintKitId": 244,
+    "Collection": "The Lake Collection",
+    "Rarity": "rare",
+    "Image": "set_lake/weapon_p90_sp_mesh_hot_and_cold_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Cobalt Quartz",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 2,
+    "PaintKitId": 249,
+    "Collection": "The Lake Collection",
+    "Rarity": "mythical",
+    "Image": "set_lake/weapon_elite_gs_am_crystallized_blue_light_png.png"
+  }
+]

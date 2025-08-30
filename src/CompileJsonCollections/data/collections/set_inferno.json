@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "MAG-7 | Sand Dune",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 27,
+    "PaintKitId": 99,
+    "Collection": "The Inferno Collection",
+    "Rarity": "common",
+    "Image": "set_inferno/weapon_mag7_so_sand_light_png.png"
+  },
+  {
+    "Name": "Nova | Walnut",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 35,
+    "PaintKitId": 158,
+    "Collection": "The Inferno Collection",
+    "Rarity": "common",
+    "Image": "set_inferno/weapon_nova_cu_walnut_nova_light_png.png"
+  },
+  {
+    "Name": "P250 | Gunsmoke",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 36,
+    "PaintKitId": 15,
+    "Collection": "The Inferno Collection",
+    "Rarity": "uncommon",
+    "Image": "set_inferno/weapon_p250_hy_gelpen_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Tornado",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 101,
+    "Collection": "The Inferno Collection",
+    "Rarity": "common",
+    "Image": "set_inferno/weapon_m4a1_so_tornado_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Anodized Navy",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 2,
+    "PaintKitId": 28,
+    "Collection": "The Inferno Collection",
+    "Rarity": "rare",
+    "Image": "set_inferno/weapon_elite_gs_an_navy_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Brass",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 159,
+    "Collection": "The Inferno Collection",
+    "Rarity": "rare",
+    "Image": "set_inferno/weapon_glock_aq_brass_light_png.png"
+  }
+]

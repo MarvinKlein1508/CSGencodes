@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "CZ75-Auto | Crimson Web",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 63,
+    "PaintKitId": 12,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_iii/weapon_cz75a_hy_webs_light_png.png"
+  },
+  {
+    "Name": "P2000 | Red FragCam",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 32,
+    "PaintKitId": 275,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "uncommon",
+    "Image": "set_weapons_iii/weapon_hkp2000_hy_poly_camo_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Panther",
+    "MinWear": 0,
+    "MaxWear": 0.58,
+    "WeaponId": 2,
+    "PaintKitId": 276,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_iii/weapon_elite_gs_so_panther_light_png.png"
+  },
+  {
+    "Name": "USP-S | Stainless",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 61,
+    "PaintKitId": 277,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "uncommon",
+    "Image": "set_weapons_iii/weapon_usp_silencer_aq_usp_stainless_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Blue Fissure",
+    "MinWear": 0.06,
+    "MaxWear": 0.58,
+    "WeaponId": 4,
+    "PaintKitId": 278,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "uncommon",
+    "Image": "set_weapons_iii/weapon_glock_hy_craquelure_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Tread Plate",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 63,
+    "PaintKitId": 268,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_weapons_iii/weapon_cz75a_am_diamond_plate_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Titanium Bit",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 30,
+    "PaintKitId": 272,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_weapons_iii/weapon_tec9_am_fluted_tec9_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Heirloom",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 1,
+    "PaintKitId": 273,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_weapons_iii/weapon_deagle_aq_engraved_deagle_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Copper Galaxy",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 3,
+    "PaintKitId": 274,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_weapons_iii/weapon_fiveseven_am_copper_flecks_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | The Fuschia Is Now",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 63,
+    "PaintKitId": 269,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "legendary",
+    "Image": "set_weapons_iii/weapon_cz75a_am_fuschia_light_png.png"
+  },
+  {
+    "Name": "P250 | Undertow",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 36,
+    "PaintKitId": 271,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "legendary",
+    "Image": "set_weapons_iii/weapon_p250_am_p250_beaded_paint_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Victoria",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 63,
+    "PaintKitId": 270,
+    "Collection": "The Arms Deal 3 Collection",
+    "Rarity": "ancient",
+    "Image": "set_weapons_iii/weapon_cz75a_aq_etched_cz75_light_png.png"
+  }
+]

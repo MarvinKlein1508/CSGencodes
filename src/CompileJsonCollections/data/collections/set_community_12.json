@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Dual Berettas | Ventilators",
+    "MinWear": 0,
+    "MaxWear": 0.45,
+    "WeaponId": 2,
+    "PaintKitId": 544,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_12/weapon_elite_gs_gs_dualberettas_ventilators_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Orange Crash",
+    "MinWear": 0,
+    "MaxWear": 0.52,
+    "WeaponId": 11,
+    "PaintKitId": 545,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_12/weapon_g3sg1_sp_g3sg1_militiaorange_light_png.png"
+  },
+  {
+    "Name": "M249 | Spectre",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 14,
+    "PaintKitId": 547,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_12/weapon_m249_cu_m249_spectre_light_png.png"
+  },
+  {
+    "Name": "MP9 | Bioleak",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 34,
+    "PaintKitId": 549,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_12/weapon_mp9_am_mp9_bioleak_light_png.png"
+  },
+  {
+    "Name": "P2000 | Oceanic",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 32,
+    "PaintKitId": 550,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_12/weapon_hkp2000_hy_p2000_oceani_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Fubar",
+    "MinWear": 0.4,
+    "MaxWear": 1,
+    "WeaponId": 29,
+    "PaintKitId": 552,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_12/weapon_sawedoff_gs_sawedoff_fubar_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Atlas",
+    "MinWear": 0,
+    "MaxWear": 0.81,
+    "WeaponId": 39,
+    "PaintKitId": 553,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "rare",
+    "Image": "set_community_12/weapon_sg556_cu_sg553_atlas_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Red Astor",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 63,
+    "PaintKitId": 543,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_12/weapon_cz75a_gs_cz75a_redastor_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Firefight",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 13,
+    "PaintKitId": 546,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_12/weapon_galilar_gs_galilar_incenerator_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Ghost Crusader",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 40,
+    "PaintKitId": 554,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_12/weapon_ssg08_gs_ssg08_armacore_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Re-Entry",
+    "MinWear": 0,
+    "MaxWear": 0.43,
+    "WeaponId": 30,
+    "PaintKitId": 555,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_12/weapon_tec9_am_tec9_redblast_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Black Tie",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 25,
+    "PaintKitId": 557,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_12/weapon_xm1014_cu_xm1014_spectrum_light_png.png"
+  },
+  {
+    "Name": "AUG | Fleet Flock",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 8,
+    "PaintKitId": 541,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_12/weapon_aug_cu_aug_swallows_light_png.png"
+  },
+  {
+    "Name": "P250 | Asiimov",
+    "MinWear": 0.1,
+    "MaxWear": 1,
+    "WeaponId": 36,
+    "PaintKitId": 551,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_12/weapon_p250_cu_p250_asiimov_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Primal Saber",
+    "MinWear": 0,
+    "MaxWear": 0.77,
+    "WeaponId": 24,
+    "PaintKitId": 556,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_12/weapon_ump45_cu_ump45_primalsaber_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Judgement of Anubis",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 26,
+    "PaintKitId": 542,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_12/weapon_bizon_cu_bizon_Curse_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Chantico\u0027s Fire",
+    "MinWear": 0,
+    "MaxWear": 0.99,
+    "WeaponId": 60,
+    "PaintKitId": 548,
+    "Collection": "The Chroma 3 Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_12/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_png.png"
+  }
+]

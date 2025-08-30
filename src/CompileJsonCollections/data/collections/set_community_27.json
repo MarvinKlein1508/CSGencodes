@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "CZ75-Auto | Vendetta",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 63,
+    "PaintKitId": 976,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_cz75a_gs_cz75_vendetta_light_png.png"
+  },
+  {
+    "Name": "P90 | Cocoa Rampage",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 19,
+    "PaintKitId": 977,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_p90_hy_p90_dino_rampage_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Digital Mesh",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 11,
+    "PaintKitId": 980,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_g3sg1_gs_g3sg1_disrupt_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Vandal",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 13,
+    "PaintKitId": 981,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_galilar_gs_galil_vandal_light_png.png"
+  },
+  {
+    "Name": "P250 | Contaminant",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 36,
+    "PaintKitId": 982,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_p250_cu_p250_infect_light_png.png"
+  },
+  {
+    "Name": "M249 | Deep Relief",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 14,
+    "PaintKitId": 983,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_m249_cu_m249_deep_relief_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Condition Zero",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 23,
+    "PaintKitId": 986,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_mp5sd_gs_mp5_conditionzero_light_png.png"
+  },
+  {
+    "Name": "AWP | Exoskeleton",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 975,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "rare",
+    "Image": "set_community_27/weapon_awp_gs_awp_exoskeleton_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Dezastre",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 2,
+    "PaintKitId": 978,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_27/weapon_elite_gs_gs_dual_elites_dezastre_light_png.png"
+  },
+  {
+    "Name": "Nova | Clear Polymer",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 35,
+    "PaintKitId": 987,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_27/weapon_nova_cu_nova_polymer_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Parallax",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 40,
+    "PaintKitId": 989,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_27/weapon_ssg08_cu_ssg08_chromatic_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Gold Bismuth",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 24,
+    "PaintKitId": 990,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_27/weapon_ump45_gs_ump_gold_bismuth_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Fairy Tale",
+    "MinWear": 0.02,
+    "MaxWear": 0.9,
+    "WeaponId": 3,
+    "PaintKitId": 979,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_27/weapon_fiveseven_cu_five_seven_diary_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Cyber Security",
+    "MinWear": 0,
+    "MaxWear": 0.98,
+    "WeaponId": 16,
+    "PaintKitId": 985,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_27/weapon_m4a1_cu_m4a4_cyberpunk_light_png.png"
+  },
+  {
+    "Name": "USP-S | Monster Mashup",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 61,
+    "PaintKitId": 991,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_27/weapon_usp_silencer_cu_usp_krokos_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Printstream",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 60,
+    "PaintKitId": 984,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_27/weapon_m4a1_silencer_cu_m4a1s_printstream_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Neo-Noir",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 988,
+    "Collection": "The Operation Broken Fang Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_27/weapon_glock_cu_glock_noir_light_png.png"
+  }
+]

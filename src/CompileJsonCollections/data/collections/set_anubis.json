@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "R8 Revolver | Inlay",
+    "MinWear": 0,
+    "MaxWear": 0.76,
+    "WeaponId": 64,
+    "PaintKitId": 1237,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_revolver_gs_revolver_acanthus_bronze_light_png.png"
+  },
+  {
+    "Name": "M249 | Submerged",
+    "MinWear": 0.02,
+    "MaxWear": 0.8,
+    "WeaponId": 14,
+    "PaintKitId": 1242,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_m249_cu_m249_scarab_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Hieroglyph",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 25,
+    "PaintKitId": 1254,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_xm1014_cu_xm1014_pharaoh_light_png.png"
+  },
+  {
+    "Name": "MP7 | Sunbaked",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 1246,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_mp7_gs_mp7_strone_light_png.png"
+  },
+  {
+    "Name": "AUG | Snake Pit",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 8,
+    "PaintKitId": 1249,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_aug_hy_dune_trap_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Mud-Spec",
+    "MinWear": 0,
+    "MaxWear": 0.73,
+    "WeaponId": 60,
+    "PaintKitId": 1243,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Azure Glyph",
+    "MinWear": 0.01,
+    "MaxWear": 0.99,
+    "WeaponId": 40,
+    "PaintKitId": 1251,
+    "Collection": "The Anubis Collection",
+    "Rarity": "uncommon",
+    "Image": "set_anubis/weapon_ssg08_gs_ssg08_anubis_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Echoing Sands",
+    "MinWear": 0.02,
+    "MaxWear": 0.8,
+    "WeaponId": 17,
+    "PaintKitId": 1244,
+    "Collection": "The Anubis Collection",
+    "Rarity": "uncommon",
+    "Image": "set_anubis/weapon_mac10_cu_mac10_scarab_light_png.png"
+  },
+  {
+    "Name": "USP-S | Desert Tactical",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 1253,
+    "Collection": "The Anubis Collection",
+    "Rarity": "common",
+    "Image": "set_anubis/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Steel Delta",
+    "MinWear": 0,
+    "MaxWear": 0.73,
+    "WeaponId": 7,
+    "PaintKitId": 1238,
+    "Collection": "The Anubis Collection",
+    "Rarity": "uncommon",
+    "Image": "set_anubis/weapon_ak47_gs_ak47_strone_light_png.png"
+  },
+  {
+    "Name": "AWP | Black Nile",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 9,
+    "PaintKitId": 1239,
+    "Collection": "The Anubis Collection",
+    "Rarity": "uncommon",
+    "Image": "set_anubis/weapon_awp_gs_awp_strone_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Mummy\u0027s Rot",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 30,
+    "PaintKitId": 1252,
+    "Collection": "The Anubis Collection",
+    "Rarity": "rare",
+    "Image": "set_anubis/weapon_tec9_cu_tec9_mummy_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Copper Coated",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 27,
+    "PaintKitId": 1245,
+    "Collection": "The Anubis Collection",
+    "Rarity": "rare",
+    "Image": "set_anubis/weapon_mag7_gs_mag7_goold_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Ramese\u0027s Reach",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 1240,
+    "Collection": "The Anubis Collection",
+    "Rarity": "rare",
+    "Image": "set_anubis/weapon_glock_cu_glock_ramzes_light_png.png"
+  },
+  {
+    "Name": "Nova | Sobek\u0027s Bite",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 35,
+    "PaintKitId": 1247,
+    "Collection": "The Anubis Collection",
+    "Rarity": "mythical",
+    "Image": "set_anubis/weapon_nova_gs_nova_sobek_light_png.png"
+  },
+  {
+    "Name": "P90 | ScaraB Rush",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 19,
+    "PaintKitId": 1250,
+    "Collection": "The Anubis Collection",
+    "Rarity": "mythical",
+    "Image": "set_anubis/weapon_p90_cu_p90_scarab_of_wisdom_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Waters of Nephthys",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 10,
+    "PaintKitId": 1241,
+    "Collection": "The Anubis Collection",
+    "Rarity": "legendary",
+    "Image": "set_anubis/weapon_famas_cu_famas_holo_ocean_light_png.png"
+  },
+  {
+    "Name": "P250 | Apep\u0027s Curse",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 36,
+    "PaintKitId": 1248,
+    "Collection": "The Anubis Collection",
+    "Rarity": "legendary",
+    "Image": "set_anubis/weapon_p250_gs_p250_apep_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Eye of Horus",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 16,
+    "PaintKitId": 1255,
+    "Collection": "The Anubis Collection",
+    "Rarity": "legendary",
+    "Image": "set_anubis/weapon_m4a1_gs_m4a4_ra_light_png.png"
+  }
+]

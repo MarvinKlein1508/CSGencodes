@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "MAC-10 | Strats",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 17,
+    "PaintKitId": 1075,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "common",
+    "Image": "set_vertigo_2021/weapon_mac10_hy_vertigospray_blue_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Faulty Wiring",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 10,
+    "PaintKitId": 1066,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "common",
+    "Image": "set_vertigo_2021/weapon_famas_aa_wiring_yellow_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Blue Tire",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 25,
+    "PaintKitId": 1078,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "common",
+    "Image": "set_vertigo_2021/weapon_xm1014_sp_tire_tread_blue_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Framework",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 63,
+    "PaintKitId": 1076,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "common",
+    "Image": "set_vertigo_2021/weapon_cz75a_hy_vertigoillusion_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Oil Change",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 2,
+    "PaintKitId": 1086,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "common",
+    "Image": "set_vertigo_2021/weapon_elite_gs_sp_engine_dirty_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Red Tire",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 4,
+    "PaintKitId": 1079,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "common",
+    "Image": "set_vertigo_2021/weapon_glock_sp_tire_tread_red_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Mechanism",
+    "MinWear": 0,
+    "MaxWear": 0.49,
+    "WeaponId": 24,
+    "PaintKitId": 1085,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "uncommon",
+    "Image": "set_vertigo_2021/weapon_ump45_aa_engine_performance_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Carbon Fiber",
+    "MinWear": 0,
+    "MaxWear": 0.12,
+    "WeaponId": 26,
+    "PaintKitId": 70,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "uncommon",
+    "Image": "set_vertigo_2021/weapon_bizon_am_carbon_fiber_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Breaker Box",
+    "MinWear": 0,
+    "MaxWear": 0.44,
+    "WeaponId": 26,
+    "PaintKitId": 1083,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "uncommon",
+    "Image": "set_vertigo_2021/weapon_bizon_aa_wiring_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Green Laminate",
+    "MinWear": 0.02,
+    "MaxWear": 0.4,
+    "WeaponId": 7,
+    "PaintKitId": 1070,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "uncommon",
+    "Image": "set_vertigo_2021/weapon_ak47_hy_ak47lam_green_light_png.png"
+  },
+  {
+    "Name": "P90 | Schematic",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 19,
+    "PaintKitId": 1074,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "rare",
+    "Image": "set_vertigo_2021/weapon_p90_hy_vertigogeo_light_png.png"
+  },
+  {
+    "Name": "Nova | Interlock",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 35,
+    "PaintKitId": 1077,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "rare",
+    "Image": "set_vertigo_2021/weapon_nova_hy_vertigoillusion_yellow_light_png.png"
+  },
+  {
+    "Name": "Negev | Infrastructure",
+    "MinWear": 0,
+    "MaxWear": 0.49,
+    "WeaponId": 28,
+    "PaintKitId": 1080,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "rare",
+    "Image": "set_vertigo_2021/weapon_negev_hy_vertigospray_light_png.png"
+  },
+  {
+    "Name": "Galil AR | CAUTION!",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 13,
+    "PaintKitId": 1071,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "mythical",
+    "Image": "set_vertigo_2021/weapon_galilar_sp_galil_caution_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Prism Terrace",
+    "MinWear": 0,
+    "MaxWear": 0.37,
+    "WeaponId": 27,
+    "PaintKitId": 1072,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "mythical",
+    "Image": "set_vertigo_2021/weapon_mag7_hy_geometric_steps_pearl_light_png.png"
+  },
+  {
+    "Name": "P250 | Digital Architect",
+    "MinWear": 0,
+    "MaxWear": 0.49,
+    "WeaponId": 36,
+    "PaintKitId": 1081,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "mythical",
+    "Image": "set_vertigo_2021/weapon_p250_aa_vertigogeo_neon_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Fall Hazard",
+    "MinWear": 0.01,
+    "MaxWear": 0.52,
+    "WeaponId": 3,
+    "PaintKitId": 1082,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "legendary",
+    "Image": "set_vertigo_2021/weapon_fiveseven_cu_vertigo_fiveseven_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Hazard Pay",
+    "MinWear": 0,
+    "MaxWear": 0.48,
+    "WeaponId": 39,
+    "PaintKitId": 1084,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "legendary",
+    "Image": "set_vertigo_2021/weapon_sg556_cu_sg553_caution_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Imminent Danger",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 60,
+    "PaintKitId": 1073,
+    "Collection": "The 2021 Vertigo Collection",
+    "Rarity": "legendary",
+    "Image": "set_vertigo_2021/weapon_m4a1_silencer_gs_m4a1_vertigo_light_png.png"
+  }
+]

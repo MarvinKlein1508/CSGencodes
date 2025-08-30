@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "PP-Bizon | Night Riot",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 26,
+    "PaintKitId": 692,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_bizon_cu_bizon_riot_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Flame Test",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 3,
+    "PaintKitId": 693,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_fiveseven_gs_fiveseven_hot_rod_violet_light_png.png"
+  },
+  {
+    "Name": "MP9 | Black Sand",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 697,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_mp9_cu_mp9_black_sand_light_png.png"
+  },
+  {
+    "Name": "P2000 | Urban Hazard",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 32,
+    "PaintKitId": 700,
+    "Collection": "The Clutch Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_19/weapon_hkp2000_cu_p2000_urban_hazard_light_png.png"
+  },
+  {
+    "Name": "R8 Revolver | Grip",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 64,
+    "PaintKitId": 701,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_revolver_gs_revolver_tread_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Aloha",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 39,
+    "PaintKitId": 702,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_sg556_sp_sg533_aloha_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Oxide Blaze",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 25,
+    "PaintKitId": 706,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_xm1014_cu_xm1014_oxide_blaze_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Moonrise",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 4,
+    "PaintKitId": 694,
+    "Collection": "The Clutch Collection",
+    "Rarity": "rare",
+    "Image": "set_community_19/weapon_glock_aa_glock_18_urban_moon_fever_light_png.png"
+  },
+  {
+    "Name": "Negev | Lionfish",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 28,
+    "PaintKitId": 698,
+    "Collection": "The Clutch Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_19/weapon_negev_sp_negev_lionfish_light_png.png"
+  },
+  {
+    "Name": "Nova | Wild Six",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 35,
+    "PaintKitId": 699,
+    "Collection": "The Clutch Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_19/weapon_nova_gs_nova_anchorite_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | SWAG-7",
+    "MinWear": 0,
+    "MaxWear": 0.92,
+    "WeaponId": 27,
+    "PaintKitId": 703,
+    "Collection": "The Clutch Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_19/weapon_mag7_aq_mag7_swag7_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Arctic Wolf",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 24,
+    "PaintKitId": 704,
+    "Collection": "The Clutch Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_19/weapon_ump45_cu_ump45_white_fang_light_png.png"
+  },
+  {
+    "Name": "AUG | Stymphalian",
+    "MinWear": 0,
+    "MaxWear": 0.63,
+    "WeaponId": 8,
+    "PaintKitId": 690,
+    "Collection": "The Clutch Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_19/weapon_aug_gs_aug_stymphalian_birds_light_png.png"
+  },
+  {
+    "Name": "AWP | Mortis",
+    "MinWear": 0,
+    "MaxWear": 0.64,
+    "WeaponId": 9,
+    "PaintKitId": 691,
+    "Collection": "The Clutch Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_19/weapon_awp_gs_awp_death_light_png.png"
+  },
+  {
+    "Name": "USP-S | Cortex",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 705,
+    "Collection": "The Clutch Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_19/weapon_usp_silencer_cu_usp_cut_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Neo-Noir",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 16,
+    "PaintKitId": 695,
+    "Collection": "The Clutch Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_19/weapon_m4a1_cu_m4a4_neo_noir_light_png.png"
+  },
+  {
+    "Name": "MP7 | Bloodsport",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 33,
+    "PaintKitId": 696,
+    "Collection": "The Clutch Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_19/weapon_mp7_gs_mp7_bloodsport_light_png.png"
+  }
+]

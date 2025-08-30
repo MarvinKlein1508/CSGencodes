@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Nova | Forest Leaves",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 35,
+    "PaintKitId": 25,
+    "Collection": "The Aztec Collection",
+    "Rarity": "common",
+    "Image": "set_aztec/weapon_nova_sp_leaves_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Lichen Dashed",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 40,
+    "PaintKitId": 26,
+    "Collection": "The Aztec Collection",
+    "Rarity": "common",
+    "Image": "set_aztec/weapon_ssg08_sp_short_tape_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Jungle",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 3,
+    "PaintKitId": 151,
+    "Collection": "The Aztec Collection",
+    "Rarity": "common",
+    "Image": "set_aztec/weapon_fiveseven_so_jungle_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Jungle Tiger",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 16,
+    "Collection": "The Aztec Collection",
+    "Rarity": "common",
+    "Image": "set_aztec/weapon_m4a1_hy_v_tiger_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Jungle Spray",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 7,
+    "PaintKitId": 122,
+    "Collection": "The Aztec Collection",
+    "Rarity": "common",
+    "Image": "set_aztec/weapon_ak47_sp_spray_jungle_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Ossified",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 30,
+    "PaintKitId": 36,
+    "Collection": "The Aztec Collection",
+    "Rarity": "rare",
+    "Image": "set_aztec/weapon_tec9_am_ossify_light_png.png"
+  }
+]

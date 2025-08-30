@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "AUG | Storm",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 8,
+    "PaintKitId": 100,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "common",
+    "Image": "set_cobblestone/weapon_aug_so_stormfront_light_png.png"
+  },
+  {
+    "Name": "AUG | Storm",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 8,
+    "PaintKitId": 100,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "common",
+    "Image": "set_cobblestone/weapon_aug_so_stormfront_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Briar",
+    "MinWear": 0,
+    "MaxWear": 0.22,
+    "WeaponId": 2,
+    "PaintKitId": 330,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "common",
+    "Image": "set_cobblestone/weapon_elite_gs_hy_vines_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Indigo",
+    "MinWear": 0.06,
+    "MaxWear": 0.8,
+    "WeaponId": 17,
+    "PaintKitId": 333,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "common",
+    "Image": "set_cobblestone/weapon_mac10_so_indigo_and_grey_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Indigo",
+    "MinWear": 0.06,
+    "MaxWear": 0.8,
+    "WeaponId": 17,
+    "PaintKitId": 333,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "common",
+    "Image": "set_cobblestone/weapon_mac10_so_indigo_and_grey_light_png.png"
+  },
+  {
+    "Name": "P2000 | Silver",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 32,
+    "PaintKitId": 32,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cobblestone/weapon_hkp2000_an_silver_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Green Apple",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 11,
+    "PaintKitId": 294,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cobblestone/weapon_g3sg1_so_green_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Rust Coat",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 29,
+    "PaintKitId": 323,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cobblestone/weapon_sawedoff_aq_steel_light_png.png"
+  },
+  {
+    "Name": "USP-S | Royal Blue",
+    "MinWear": 0.06,
+    "MaxWear": 0.8,
+    "WeaponId": 61,
+    "PaintKitId": 332,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "common",
+    "Image": "set_cobblestone/weapon_usp_silencer_hy_indigo_usp_light_png.png"
+  },
+  {
+    "Name": "P2000 | Chainmail",
+    "MinWear": 0,
+    "MaxWear": 0.22,
+    "WeaponId": 32,
+    "PaintKitId": 327,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cobblestone/weapon_hkp2000_am_chainmail_light_png.png"
+  },
+  {
+    "Name": "MP9 | Dark Age",
+    "MinWear": 0,
+    "MaxWear": 0.22,
+    "WeaponId": 34,
+    "PaintKitId": 329,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "rare",
+    "Image": "set_cobblestone/weapon_mp9_am_metal_inlay_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Chalice",
+    "MinWear": 0,
+    "MaxWear": 0.1,
+    "WeaponId": 63,
+    "PaintKitId": 325,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "mythical",
+    "Image": "set_cobblestone/weapon_cz75a_am_royal_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Hand Cannon",
+    "MinWear": 0.01,
+    "MaxWear": 0.7,
+    "WeaponId": 1,
+    "PaintKitId": 328,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "rare",
+    "Image": "set_cobblestone/weapon_deagle_aq_handcannon_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Knight",
+    "MinWear": 0,
+    "MaxWear": 0.1,
+    "WeaponId": 60,
+    "PaintKitId": 326,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "mythical",
+    "Image": "set_cobblestone/weapon_m4a1_silencer_am_metals_light_png.png"
+  },
+  {
+    "Name": "AWP | Dragon Lore",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 9,
+    "PaintKitId": 344,
+    "Collection": "The Cobblestone Collection",
+    "Rarity": "legendary",
+    "Image": "set_cobblestone/weapon_awp_cu_medieval_dragon_awp_light_png.png"
+  }
+]

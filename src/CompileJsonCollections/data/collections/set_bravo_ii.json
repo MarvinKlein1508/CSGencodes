@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "MP9 | Dry Season",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 34,
+    "PaintKitId": 199,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_mp9_sp_tape_dots_bravo_light_png.png"
+  },
+  {
+    "Name": "M249 | Jungle DDPAT",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 14,
+    "PaintKitId": 202,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_m249_hy_ddpat_jungle_bravo_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Jungle",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 25,
+    "PaintKitId": 205,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_xm1014_so_jungle_bravo_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Tornado",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 30,
+    "PaintKitId": 206,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_tec9_so_tornado_bravo_light_png.png"
+  },
+  {
+    "Name": "MP7 | Groundwater",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 33,
+    "PaintKitId": 209,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_mp7_so_olive_bravo_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Anodized Gunmetal",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 3,
+    "PaintKitId": 210,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_fiveseven_an_gunmetal_bravo_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Mayan Dreams",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 40,
+    "PaintKitId": 200,
+    "Collection": "The Alpha Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bravo_ii/weapon_ssg08_hy_mayan_dreams_bravo_light_png.png"
+  },
+  {
+    "Name": "Negev | Palm",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 28,
+    "PaintKitId": 201,
+    "Collection": "The Alpha Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bravo_ii/weapon_negev_sp_palm_bravo_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Mosaico",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 29,
+    "PaintKitId": 204,
+    "Collection": "The Alpha Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bravo_ii/weapon_sawedoff_hy_ali_tile_bravo_light_png.png"
+  },
+  {
+    "Name": "P250 | Facets",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 36,
+    "PaintKitId": 207,
+    "Collection": "The Alpha Collection",
+    "Rarity": "uncommon",
+    "Image": "set_bravo_ii/weapon_p250_hy_crumple_dark_bravo_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Sand Dune",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 4,
+    "PaintKitId": 208,
+    "Collection": "The Alpha Collection",
+    "Rarity": "common",
+    "Image": "set_bravo_ii/weapon_glock_so_sand_bravo_light_png.png"
+  },
+  {
+    "Name": "AUG | Anodized Navy",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 8,
+    "PaintKitId": 197,
+    "Collection": "The Alpha Collection",
+    "Rarity": "rare",
+    "Image": "set_bravo_ii/weapon_aug_an_navy_bravo_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Hazard",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 27,
+    "PaintKitId": 198,
+    "Collection": "The Alpha Collection",
+    "Rarity": "rare",
+    "Image": "set_bravo_ii/weapon_mag7_sp_hazard_bravo_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Rust Coat",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 26,
+    "PaintKitId": 203,
+    "Collection": "The Alpha Collection",
+    "Rarity": "rare",
+    "Image": "set_bravo_ii/weapon_bizon_aq_steel_bravo_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Spitfire",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 10,
+    "PaintKitId": 194,
+    "Collection": "The Alpha Collection",
+    "Rarity": "mythical",
+    "Image": "set_bravo_ii/weapon_famas_sp_spitfire_famas_bravo_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Emerald",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 38,
+    "PaintKitId": 196,
+    "Collection": "The Alpha Collection",
+    "Rarity": "mythical",
+    "Image": "set_bravo_ii/weapon_scar20_an_emerald_bravo_light_png.png"
+  }
+]

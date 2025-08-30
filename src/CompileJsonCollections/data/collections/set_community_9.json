@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "Dual Berettas | Dualing Dragons",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 2,
+    "PaintKitId": 491,
+    "Collection": "The Shadow Collection",
+    "Rarity": "rare",
+    "Image": "set_community_9/weapon_elite_gs_cu_dualberretta_dragons_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Survivor Z",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 10,
+    "PaintKitId": 492,
+    "Collection": "The Shadow Collection",
+    "Rarity": "rare",
+    "Image": "set_community_9/weapon_famas_cu_famas_lenta_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Wraiths",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 4,
+    "PaintKitId": 495,
+    "Collection": "The Shadow Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_9/weapon_glock_gs_glock18_wrathys_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Rangeen",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 17,
+    "PaintKitId": 498,
+    "Collection": "The Shadow Collection",
+    "Rarity": "rare",
+    "Image": "set_community_9/weapon_mac10_cu_mac10_alekhya_duo_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Cobalt Core",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 27,
+    "PaintKitId": 499,
+    "Collection": "The Shadow Collection",
+    "Rarity": "rare",
+    "Image": "set_community_9/weapon_mag7_cu_mag7_myrcene_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Green Marine",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 38,
+    "PaintKitId": 502,
+    "Collection": "The Shadow Collection",
+    "Rarity": "rare",
+    "Image": "set_community_9/weapon_scar20_gs_scar20_peacemaker03_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Scumbria",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 25,
+    "PaintKitId": 505,
+    "Collection": "The Shadow Collection",
+    "Rarity": "rare",
+    "Image": "set_community_9/weapon_xm1014_aq_xm1014_scumbria_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Stone Cold",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 13,
+    "PaintKitId": 494,
+    "Collection": "The Shadow Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_9/weapon_galilar_gs_galil_nightwing_light_png.png"
+  },
+  {
+    "Name": "M249 | Nebula Crusader",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 14,
+    "PaintKitId": 496,
+    "Collection": "The Shadow Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_9/weapon_m249_gs_m249_nebula_crusader_light_png.png"
+  },
+  {
+    "Name": "MP7 | Special Delivery",
+    "MinWear": 0,
+    "MaxWear": 0.62,
+    "WeaponId": 33,
+    "PaintKitId": 500,
+    "Collection": "The Shadow Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_9/weapon_mp7_cu_mp7_classified_light_png.png"
+  },
+  {
+    "Name": "P250 | Wingshot",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 36,
+    "PaintKitId": 501,
+    "Collection": "The Shadow Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_9/weapon_p250_hy_p250_crackshot_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Frontside Misty",
+    "MinWear": 0.02,
+    "MaxWear": 0.87,
+    "WeaponId": 7,
+    "PaintKitId": 490,
+    "Collection": "The Shadow Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_9/weapon_ak47_cu_ak47_winter_sport_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Flux",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 11,
+    "PaintKitId": 493,
+    "Collection": "The Shadow Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_9/weapon_g3sg1_gs_g3sg1_flux_purple_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Big Iron",
+    "MinWear": 0,
+    "MaxWear": 0.64,
+    "WeaponId": 40,
+    "PaintKitId": 503,
+    "Collection": "The Shadow Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_9/weapon_ssg08_cu_ssg08_technicality_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Golden Coil",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 60,
+    "PaintKitId": 497,
+    "Collection": "The Shadow Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_9/weapon_m4a1_silencer_gs_m4a1s_snakebite_gold_light_png.png"
+  },
+  {
+    "Name": "USP-S | Kill Confirmed",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 504,
+    "Collection": "The Shadow Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_9/weapon_usp_silencer_cu_usp_kill_confirmed_light_png.png"
+  }
+]

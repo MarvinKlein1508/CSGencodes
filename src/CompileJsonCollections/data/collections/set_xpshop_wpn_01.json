@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "XM1014 | Solitude",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 25,
+    "PaintKitId": 1215,
+    "Collection": "Limited Edition Item",
+    "Rarity": "mythical",
+    "Image": "set_xpshop_wpn_01/weapon_xm1014_soch_mountains_limited_time_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Heat Treated",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 1,
+    "PaintKitId": 1054,
+    "Collection": "Limited Edition Item",
+    "Rarity": "mythical",
+    "Image": "set_xpshop_wpn_01/weapon_deagle_aq_deagle_case_hardened_2_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Solitude",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 60,
+    "PaintKitId": 1338,
+    "Collection": "Limited Edition Item",
+    "Rarity": "mythical",
+    "Image": "set_xpshop_wpn_01/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+  }
+]

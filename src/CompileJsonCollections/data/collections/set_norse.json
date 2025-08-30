@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "SG 553 | Barricade",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 39,
+    "PaintKitId": 861,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_sg556_sp_asgard_wall_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Tornado",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 101,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_m4a1_so_tornado_light_png.png"
+  },
+  {
+    "Name": "P90 | Scorched",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 19,
+    "PaintKitId": 175,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_p90_sp_dapple_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Red Stone",
+    "MinWear": 0.06,
+    "MaxWear": 0.5,
+    "WeaponId": 40,
+    "PaintKitId": 762,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_ssg08_so_rune_stone_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Night Borre",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 10,
+    "PaintKitId": 863,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_famas_sp_knots_blue_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Moss Quartz",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 60,
+    "PaintKitId": 862,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_m4a1_silencer_am_crystallized_dark_green_light_png.png"
+  },
+  {
+    "Name": "P2000 | Pathfinder",
+    "MinWear": 0,
+    "MaxWear": 0.35,
+    "WeaponId": 32,
+    "PaintKitId": 443,
+    "Collection": "The Norse Collection",
+    "Rarity": "common",
+    "Image": "set_norse/weapon_hkp2000_sp_labyrinth2_light_png.png"
+  },
+  {
+    "Name": "P2000 | Chainmail",
+    "MinWear": 0,
+    "MaxWear": 0.22,
+    "WeaponId": 32,
+    "PaintKitId": 327,
+    "Collection": "The Norse Collection",
+    "Rarity": "uncommon",
+    "Image": "set_norse/weapon_hkp2000_am_chainmail_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Pyre",
+    "MinWear": 0.06,
+    "MaxWear": 0.55,
+    "WeaponId": 2,
+    "PaintKitId": 860,
+    "Collection": "The Norse Collection",
+    "Rarity": "uncommon",
+    "Image": "set_norse/weapon_elite_gs_hy_gelpen_dark_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Brass",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 159,
+    "Collection": "The Norse Collection",
+    "Rarity": "rare",
+    "Image": "set_norse/weapon_glock_aq_brass_light_png.png"
+  },
+  {
+    "Name": "CZ75-Auto | Emerald Quartz",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 63,
+    "PaintKitId": 859,
+    "Collection": "The Norse Collection",
+    "Rarity": "rare",
+    "Image": "set_norse/weapon_cz75a_am_crystallized_green_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Frost Borre",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 25,
+    "PaintKitId": 760,
+    "Collection": "The Norse Collection",
+    "Rarity": "rare",
+    "Image": "set_norse/weapon_xm1014_am_knots_silver_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Copper Borre",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 17,
+    "PaintKitId": 761,
+    "Collection": "The Norse Collection",
+    "Rarity": "rare",
+    "Image": "set_norse/weapon_mac10_am_knots_brown_light_png.png"
+  },
+  {
+    "Name": "AUG | Flame J\u00F6rmungandr",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 8,
+    "PaintKitId": 758,
+    "Collection": "The Norse Collection",
+    "Rarity": "mythical",
+    "Image": "set_norse/weapon_aug_am_jorm_orange_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Emerald J\u00F6rmungandr",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 1,
+    "PaintKitId": 757,
+    "Collection": "The Norse Collection",
+    "Rarity": "rare",
+    "Image": "set_norse/weapon_deagle_am_jorm_green_light_png.png"
+  },
+  {
+    "Name": "P90 | Astral J\u00F6rmungandr",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 19,
+    "PaintKitId": 759,
+    "Collection": "The Norse Collection",
+    "Rarity": "mythical",
+    "Image": "set_norse/weapon_p90_am_jorm_blue_light_png.png"
+  },
+  {
+    "Name": "Negev | Mj\u00F6lnir",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 28,
+    "PaintKitId": 763,
+    "Collection": "The Norse Collection",
+    "Rarity": "legendary",
+    "Image": "set_norse/weapon_negev_gs_negev_thor_light_png.png"
+  },
+  {
+    "Name": "AWP | Gungnir",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 9,
+    "PaintKitId": 756,
+    "Collection": "The Norse Collection",
+    "Rarity": "legendary",
+    "Image": "set_norse/weapon_awp_gs_awp_gungnir_light_png.png"
+  }
+]

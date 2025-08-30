@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "XM1014 | Charter",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 25,
+    "PaintKitId": 994,
+    "Collection": "The Control Collection",
+    "Rarity": "common",
+    "Image": "set_op10_ct/weapon_xm1014_am_authority_brown_light_png.png"
+  },
+  {
+    "Name": "AUG | Surveillance",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 8,
+    "PaintKitId": 995,
+    "Collection": "The Control Collection",
+    "Rarity": "common",
+    "Image": "set_op10_ct/weapon_aug_am_intelligence_grey_light_png.png"
+  },
+  {
+    "Name": "Negev | Army Sheen",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 28,
+    "PaintKitId": 298,
+    "Collection": "The Control Collection",
+    "Rarity": "common",
+    "Image": "set_op10_ct/weapon_negev_am_army_shine_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Forest Night",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 3,
+    "PaintKitId": 78,
+    "Collection": "The Control Collection",
+    "Rarity": "common",
+    "Image": "set_op10_ct/weapon_fiveseven_hy_forest_night_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Jungle Dashed",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 11,
+    "PaintKitId": 147,
+    "Collection": "The Control Collection",
+    "Rarity": "common",
+    "Image": "set_op10_ct/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | The Bronze",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 1,
+    "PaintKitId": 992,
+    "Collection": "The Control Collection",
+    "Rarity": "common",
+    "Image": "set_op10_ct/weapon_deagle_am_numbers_bronze_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Switch Board",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 2,
+    "PaintKitId": 998,
+    "Collection": "The Control Collection",
+    "Rarity": "uncommon",
+    "Image": "set_op10_ct/weapon_elite_gs_hy_numbers_green_light_png.png"
+  },
+  {
+    "Name": "R8 Revolver | Nitro",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 64,
+    "PaintKitId": 798,
+    "Collection": "The Control Collection",
+    "Rarity": "uncommon",
+    "Image": "set_op10_ct/weapon_revolver_so_orange_accents3_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Carbon Fiber",
+    "MinWear": 0,
+    "MaxWear": 0.12,
+    "WeaponId": 26,
+    "PaintKitId": 70,
+    "Collection": "The Control Collection",
+    "Rarity": "uncommon",
+    "Image": "set_op10_ct/weapon_bizon_am_carbon_fiber_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Global Offensive",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 16,
+    "PaintKitId": 993,
+    "Collection": "The Control Collection",
+    "Rarity": "uncommon",
+    "Image": "set_op10_ct/weapon_m4a1_cu_csgo_camo_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Threat Detected",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 40,
+    "PaintKitId": 996,
+    "Collection": "The Control Collection",
+    "Rarity": "rare",
+    "Image": "set_op10_ct/weapon_ssg08_am_intelligence_orange_light_png.png"
+  },
+  {
+    "Name": "P2000 | Dispatch",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 32,
+    "PaintKitId": 997,
+    "Collection": "The Control Collection",
+    "Rarity": "uncommon",
+    "Image": "set_op10_ct/weapon_hkp2000_am_numbers_red_blue_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Magna Carta",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 38,
+    "PaintKitId": 1028,
+    "Collection": "The Control Collection",
+    "Rarity": "rare",
+    "Image": "set_op10_ct/weapon_scar20_hy_authority_purple_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Prime Conspiracy",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 10,
+    "PaintKitId": 999,
+    "Collection": "The Control Collection",
+    "Rarity": "mythical",
+    "Image": "set_op10_ct/weapon_famas_am_numbers_magenta_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Berries And Cherries",
+    "MinWear": 0,
+    "MaxWear": 0.1,
+    "WeaponId": 3,
+    "PaintKitId": 1002,
+    "Collection": "The Control Collection",
+    "Rarity": "mythical",
+    "Image": "set_op10_ct/weapon_fiveseven_aa_fade_red_blue_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Crime Scene",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 24,
+    "PaintKitId": 1003,
+    "Collection": "The Control Collection",
+    "Rarity": "mythical",
+    "Image": "set_op10_ct/weapon_ump45_cu_ump_crime_scene_light_png.png"
+  },
+  {
+    "Name": "USP-S | Target Acquired",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 61,
+    "PaintKitId": 1027,
+    "Collection": "The Control Collection",
+    "Rarity": "mythical",
+    "Image": "set_op10_ct/weapon_usp_silencer_am_intelligence_magenta_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Blue Phosphor",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 60,
+    "PaintKitId": 1017,
+    "Collection": "The Control Collection",
+    "Rarity": "mythical",
+    "Image": "set_op10_ct/weapon_m4a1_silencer_am_m4a1s_bluesmoke_light_png.png"
+  },
+  {
+    "Name": "AWP | Fade",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 9,
+    "PaintKitId": 1026,
+    "Collection": "The Control Collection",
+    "Rarity": "legendary",
+    "Image": "set_op10_ct/weapon_awp_aa_awp_fade_light_png.png"
+  }
+]

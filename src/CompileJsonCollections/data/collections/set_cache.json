@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Negev | Nuclear Waste",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 28,
+    "PaintKitId": 369,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_negev_sp_nuclear_pattern3_negev_light_png.png"
+  },
+  {
+    "Name": "P250 | Contamination",
+    "MinWear": 0,
+    "MaxWear": 0.83,
+    "WeaponId": 36,
+    "PaintKitId": 373,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_p250_hy_nuclear_skulls4_p250_light_png.png"
+  },
+  {
+    "Name": "AUG | Radiation Hazard",
+    "MinWear": 0,
+    "MaxWear": 0.55,
+    "WeaponId": 8,
+    "PaintKitId": 375,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_aug_sp_nukestripe_orange_aug_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Chemical Green",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 26,
+    "PaintKitId": 376,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_bizon_so_grey_nuclear_green_bizon_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Hot Shot",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 3,
+    "PaintKitId": 377,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_fiveseven_so_grey_nuclear_orange_five_seven_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Fallout Warning",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 39,
+    "PaintKitId": 378,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_sg556_sp_nukestripe_maroon_sg553_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Reactor",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 367,
+    "Collection": "The Cache Collection",
+    "Rarity": "uncommon",
+    "Image": "set_cache/weapon_glock_am_nuclear_pattern1_glock_light_png.png"
+  },
+  {
+    "Name": "MP9 | Setting Sun",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 368,
+    "Collection": "The Cache Collection",
+    "Rarity": "rare",
+    "Image": "set_cache/weapon_mp9_hy_nuclear_pattern2_mp9_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Bone Machine",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 25,
+    "PaintKitId": 370,
+    "Collection": "The Cache Collection",
+    "Rarity": "rare",
+    "Image": "set_cache/weapon_xm1014_am_nuclear_skulls1_xm1014_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Nuclear Garden",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 17,
+    "PaintKitId": 372,
+    "Collection": "The Cache Collection",
+    "Rarity": "rare",
+    "Image": "set_cache/weapon_mac10_am_nuclear_skulls3_mac10_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Toxic",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 30,
+    "PaintKitId": 374,
+    "Collection": "The Cache Collection",
+    "Rarity": "rare",
+    "Image": "set_cache/weapon_tec9_hy_nuclear_skulls5_tec9_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Styx",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 10,
+    "PaintKitId": 371,
+    "Collection": "The Cache Collection",
+    "Rarity": "mythical",
+    "Image": "set_cache/weapon_famas_am_nuclear_skulls2_famas_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Cerberus",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 13,
+    "PaintKitId": 379,
+    "Collection": "The Cache Collection",
+    "Rarity": "mythical",
+    "Image": "set_cache/weapon_galilar_cu_cerbrus_galil_light_png.png"
+  }
+]

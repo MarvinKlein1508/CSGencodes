@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Tec-9 | Blue Titanium",
+    "MinWear": 0,
+    "MaxWear": 0.04,
+    "WeaponId": 30,
+    "PaintKitId": 216,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_tec9_an_titanium30v_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Nightshade",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 3,
+    "PaintKitId": 223,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_fiveseven_hy_flowers_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Water Sigil",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 26,
+    "PaintKitId": 224,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_bizon_hy_water_crest_light_png.png"
+  },
+  {
+    "Name": "Nova | Ghost Camo",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 35,
+    "PaintKitId": 225,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_nova_sp_camo_wood_blue_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Azure Zebra",
+    "MinWear": 0,
+    "MaxWear": 0.28,
+    "WeaponId": 11,
+    "PaintKitId": 229,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_g3sg1_sp_zebracam_blue_light_png.png"
+  },
+  {
+    "Name": "P250 | Steel Disruption",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 36,
+    "PaintKitId": 230,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_p250_am_ddpatdense_silver_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Blue Laminate",
+    "MinWear": 0.02,
+    "MaxWear": 0.4,
+    "WeaponId": 7,
+    "PaintKitId": 226,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "rare",
+    "Image": "set_esports_ii/weapon_ak47_hy_ak47lam_blue_light_png.png"
+  },
+  {
+    "Name": "P90 | Blind Spot",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 19,
+    "PaintKitId": 228,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_ii/weapon_p90_hy_modspots_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Afterimage",
+    "MinWear": 0.02,
+    "MaxWear": 0.4,
+    "WeaponId": 10,
+    "PaintKitId": 154,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "legendary",
+    "Image": "set_esports_ii/weapon_famas_cu_broken_path_famas_light_png.png"
+  },
+  {
+    "Name": "AWP | Electric Hive",
+    "MinWear": 0,
+    "MaxWear": 0.4,
+    "WeaponId": 9,
+    "PaintKitId": 227,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_ii/weapon_awp_hy_hive_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Cobalt Disruption",
+    "MinWear": 0,
+    "MaxWear": 0.2,
+    "WeaponId": 1,
+    "PaintKitId": 231,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "mythical",
+    "Image": "set_esports_ii/weapon_deagle_am_ddpatdense_peacock_light_png.png"
+  },
+  {
+    "Name": "M4A4 | X-Ray",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 16,
+    "PaintKitId": 215,
+    "Collection": "The eSports 2013 Winter Collection",
+    "Rarity": "ancient",
+    "Image": "set_esports_ii/weapon_m4a1_cu_xray_m4_light_png.png"
+  }
+]

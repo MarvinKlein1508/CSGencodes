@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "M4A4 | Desert Storm",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 8,
+    "Collection": "The Dust Collection",
+    "Rarity": "common",
+    "Image": "set_dust/weapon_m4a1_hy_desert_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Palm",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 38,
+    "PaintKitId": 157,
+    "Collection": "The Dust Collection",
+    "Rarity": "uncommon",
+    "Image": "set_dust/weapon_scar20_sp_palm_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Predator",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 7,
+    "PaintKitId": 170,
+    "Collection": "The Dust Collection",
+    "Rarity": "common",
+    "Image": "set_dust/weapon_ak47_sp_zebracam_light_png.png"
+  },
+  {
+    "Name": "AUG | Copperhead",
+    "MinWear": 0.12,
+    "MaxWear": 0.38,
+    "WeaponId": 8,
+    "PaintKitId": 10,
+    "Collection": "The Dust Collection",
+    "Rarity": "rare",
+    "Image": "set_dust/weapon_aug_hy_copperhead_light_png.png"
+  },
+  {
+    "Name": "AWP | Snake Camo",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 9,
+    "PaintKitId": 30,
+    "Collection": "The Dust Collection",
+    "Rarity": "uncommon",
+    "Image": "set_dust/weapon_awp_sp_snake_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Copper",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 29,
+    "PaintKitId": 41,
+    "Collection": "The Dust Collection",
+    "Rarity": "rare",
+    "Image": "set_dust/weapon_sawedoff_aq_copper_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Blaze",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 1,
+    "PaintKitId": 37,
+    "Collection": "The Dust Collection",
+    "Rarity": "rare",
+    "Image": "set_dust/weapon_deagle_aa_flames_light_png.png"
+  },
+  {
+    "Name": "P2000 | Scorpion",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 32,
+    "PaintKitId": 71,
+    "Collection": "The Dust Collection",
+    "Rarity": "rare",
+    "Image": "set_dust/weapon_hkp2000_am_scorpion_p2000_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Brass",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 159,
+    "Collection": "The Dust Collection",
+    "Rarity": "rare",
+    "Image": "set_dust/weapon_glock_aq_brass_light_png.png"
+  }
+]

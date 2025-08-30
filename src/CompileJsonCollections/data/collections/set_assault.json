@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "UMP-45 | Caramel",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 24,
+    "PaintKitId": 93,
+    "Collection": "The Assault Collection",
+    "Rarity": "common",
+    "Image": "set_assault/weapon_ump45_so_caramel_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Tornado",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 16,
+    "PaintKitId": 101,
+    "Collection": "The Assault Collection",
+    "Rarity": "common",
+    "Image": "set_assault/weapon_m4a1_so_tornado_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Candy Apple",
+    "MinWear": 0,
+    "MaxWear": 0.3,
+    "WeaponId": 3,
+    "PaintKitId": 3,
+    "Collection": "The Assault Collection",
+    "Rarity": "uncommon",
+    "Image": "set_assault/weapon_fiveseven_so_red_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Anodized Navy",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 2,
+    "PaintKitId": 28,
+    "Collection": "The Assault Collection",
+    "Rarity": "rare",
+    "Image": "set_assault/weapon_elite_gs_an_navy_light_png.png"
+  },
+  {
+    "Name": "AUG | Hot Rod",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 8,
+    "PaintKitId": 33,
+    "Collection": "The Assault Collection",
+    "Rarity": "rare",
+    "Image": "set_assault/weapon_aug_an_red_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Fade",
+    "MinWear": 0,
+    "MaxWear": 0.08,
+    "WeaponId": 4,
+    "PaintKitId": 38,
+    "Collection": "The Assault Collection",
+    "Rarity": "rare",
+    "Image": "set_assault/weapon_glock_aa_fade_light_png.png"
+  },
+  {
+    "Name": "MP9 | Bulldozer",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 34,
+    "PaintKitId": 39,
+    "Collection": "The Assault Collection",
+    "Rarity": "mythical",
+    "Image": "set_assault/weapon_mp9_so_yellow_light_png.png"
+  }
+]

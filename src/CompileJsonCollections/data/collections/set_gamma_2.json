@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "CZ75-Auto | Imprint",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 63,
+    "PaintKitId": 602,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_cz75a_gs_cz75_tread_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Scumbria",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 3,
+    "PaintKitId": 605,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_fiveseven_aq_five_seven_scumbria_light_png.png"
+  },
+  {
+    "Name": "G3SG1 | Ventilator",
+    "MinWear": 0,
+    "MaxWear": 0.45,
+    "WeaponId": 11,
+    "PaintKitId": 606,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_g3sg1_gs_g3sg1_ventilator_light_png.png"
+  },
+  {
+    "Name": "Negev | Dazzle",
+    "MinWear": 0.1,
+    "MaxWear": 0.65,
+    "WeaponId": 28,
+    "PaintKitId": 610,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_negev_hy_negev_dazzle_light_png.png"
+  },
+  {
+    "Name": "P90 | Grim",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 19,
+    "PaintKitId": 611,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_p90_cu_p90_grimm_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Briefing",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 24,
+    "PaintKitId": 615,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_ump45_cu_ump45_metritera_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Slipstream",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 25,
+    "PaintKitId": 616,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_xm1014_hy_xm1014_fractal_blue_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Directive",
+    "MinWear": 0.06,
+    "MaxWear": 1,
+    "WeaponId": 1,
+    "PaintKitId": 603,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_deagle_aq_desert_eagle_constable_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Weasel",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 607,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "rare",
+    "Image": "set_gamma_2/weapon_glock_cu_glock18_weasel_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Petroglyph",
+    "MinWear": 0,
+    "MaxWear": 0.44,
+    "WeaponId": 27,
+    "PaintKitId": 608,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_gamma_2/weapon_mag7_cu_mag7_tribal_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Powercore",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 38,
+    "PaintKitId": 612,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_gamma_2/weapon_scar20_gs_scar20_powercore_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Triarch",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 39,
+    "PaintKitId": 613,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "mythical",
+    "Image": "set_gamma_2/weapon_sg556_cu_sg556_triarch_light_png.png"
+  },
+  {
+    "Name": "AUG | Syd Mead",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 8,
+    "PaintKitId": 601,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_gamma_2/weapon_aug_gs_aug_syd_mead_light_png.png"
+  },
+  {
+    "Name": "MP9 | Airlock",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 609,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_gamma_2/weapon_mp9_cu_mp9_narcis_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Fuel Injector",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 30,
+    "PaintKitId": 614,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_gamma_2/weapon_tec9_gs_tec9_supercharged_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Neon Revolution",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 7,
+    "PaintKitId": 600,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "legendary",
+    "Image": "set_gamma_2/weapon_ak47_cu_ak47_anarchy_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Roll Cage",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 10,
+    "PaintKitId": 604,
+    "Collection": "The Gamma 2 Collection",
+    "Rarity": "ancient",
+    "Image": "set_gamma_2/weapon_famas_gs_famas_rally_light_png.png"
+  }
+]

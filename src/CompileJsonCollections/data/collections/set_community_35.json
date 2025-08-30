@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "M4A4 | Choppa",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 16,
+    "PaintKitId": 1210,
+    "Collection": "The Fever Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_35/weapon_m4a1_m4a4_green_camo_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Resupply",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 27,
+    "PaintKitId": 1188,
+    "Collection": "The Fever Collection",
+    "Rarity": "rare",
+    "Image": "set_community_35/weapon_mag7_mag7_ammo_box_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Memorial",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 40,
+    "PaintKitId": 1187,
+    "Collection": "The Fever Collection",
+    "Rarity": "rare",
+    "Image": "set_community_35/weapon_ssg08_ssg08_brutalist_light_png.png"
+  },
+  {
+    "Name": "P2000 | Sure Grip",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 32,
+    "PaintKitId": 1181,
+    "Collection": "The Fever Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_35/weapon_hkp2000_p2k_fractal_light_png.png"
+  },
+  {
+    "Name": "USP-S | PC-GRN",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 61,
+    "PaintKitId": 1186,
+    "Collection": "The Fever Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_35/weapon_usp_silencer_usps_bruteforce_green_light_png.png"
+  },
+  {
+    "Name": "MP9 | Nexus",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 1193,
+    "Collection": "The Fever Collection",
+    "Rarity": "rare",
+    "Image": "set_community_35/weapon_mp9_mp9_nexus_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Mockingbird",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 25,
+    "PaintKitId": 1182,
+    "Collection": "The Fever Collection",
+    "Rarity": "rare",
+    "Image": "set_community_35/weapon_xm1014_xm1014_mockingbird_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Serpent Strike",
+    "MinWear": 0,
+    "MaxWear": 0.57,
+    "WeaponId": 1,
+    "PaintKitId": 1189,
+    "Collection": "The Fever Collection",
+    "Rarity": "rare",
+    "Image": "set_community_35/weapon_deagle_deagle_snake_pattern_light_png.png"
+  },
+  {
+    "Name": "Zeus | Tosai",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 31,
+    "PaintKitId": 1183,
+    "Collection": "The Fever Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_35/weapon_taser_zeus_tosai_light_png.png"
+  },
+  {
+    "Name": "Nova | Rising Sun",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 35,
+    "PaintKitId": 1192,
+    "Collection": "The Fever Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_35/weapon_nova_nova_rising_sun_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Control",
+    "MinWear": 0,
+    "MaxWear": 0.798995,
+    "WeaponId": 13,
+    "PaintKitId": 1185,
+    "Collection": "The Fever Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_35/weapon_galilar_galil_control_strike_light_png.png"
+  },
+  {
+    "Name": "P90 | Wave Breaker",
+    "MinWear": 0,
+    "MaxWear": 0.950549,
+    "WeaponId": 19,
+    "PaintKitId": 1190,
+    "Collection": "The Fever Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_35/weapon_p90_p90_boost_blue_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Searing Rage",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 1207,
+    "Collection": "The Fever Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_35/weapon_ak47_ak47_explosive_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Shinobu",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 1208,
+    "Collection": "The Fever Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_35/weapon_glock_glock_shinobu_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | K.O. Factory",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 24,
+    "PaintKitId": 1194,
+    "Collection": "The Fever Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_35/weapon_ump45_ump45_old_cartoon_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Bad Trip",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 10,
+    "PaintKitId": 1184,
+    "Collection": "The Fever Collection",
+    "Rarity": "ancient",
+    "Image": "set_community_35/weapon_famas_famas_badtrip_light_png.png"
+  },
+  {
+    "Name": "AWP | Printstream",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 1206,
+    "Collection": "The Fever Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_35/weapon_awp_awp_printstream_light_png.png"
+  }
+]

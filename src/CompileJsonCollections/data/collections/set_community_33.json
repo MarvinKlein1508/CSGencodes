@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Dual Berettas | Hideout",
+    "MinWear": 0,
+    "MaxWear": 0.698529,
+    "WeaponId": 2,
+    "PaintKitId": 1169,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_elite_gs_dual_berettas_lethal_grin_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Light Box",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 1164,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_mac10_mac10_illusion_light_png.png"
+  },
+  {
+    "Name": "Nova | Dark Sigil",
+    "MinWear": 0,
+    "MaxWear": 0.698529,
+    "WeaponId": 35,
+    "PaintKitId": 1162,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_nova_nova_drakkar_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Dezastre",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 40,
+    "PaintKitId": 1161,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_ssg08_ssg08_dezastre_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Slag",
+    "MinWear": 0,
+    "MaxWear": 0.9,
+    "WeaponId": 30,
+    "PaintKitId": 1159,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_tec9_tec9_junkyard_engineering_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Motorized",
+    "MinWear": 0,
+    "MaxWear": 0.801418,
+    "WeaponId": 24,
+    "PaintKitId": 1175,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_ump45_ump45_assembled_engine_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Irezumi",
+    "MinWear": 0,
+    "MaxWear": 0.799353,
+    "WeaponId": 25,
+    "PaintKitId": 1174,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_xm1014_xm1014_irezumi_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Block-18",
+    "MinWear": 0,
+    "MaxWear": 0.671875,
+    "WeaponId": 4,
+    "PaintKitId": 1167,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_glock_glock_brick_mondrian_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Etch Lord",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 16,
+    "PaintKitId": 1165,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "rare",
+    "Image": "set_community_33/weapon_m4a1_m4a4_snakebite_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Hybrid",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 3,
+    "PaintKitId": 1168,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_33/weapon_fiveseven_fiveseven_hybrid_light_png.png"
+  },
+  {
+    "Name": "MP7 | Just Smile",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 1163,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_33/weapon_mp7_mp7_just_smile_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Analog Input",
+    "MinWear": 0,
+    "MaxWear": 0.61886,
+    "WeaponId": 29,
+    "PaintKitId": 1160,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_33/weapon_sawedoff_sawedoff_gamer_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Black Lotus",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 60,
+    "PaintKitId": 1166,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_33/weapon_m4a1_silencer_m4a1s_black_lotus_light_png.png"
+  },
+  {
+    "Name": "Zeus | Olympus",
+    "MinWear": 0,
+    "MaxWear": 0.67,
+    "WeaponId": 31,
+    "PaintKitId": 1172,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_33/weapon_taser_zeus_thunder_god_light_png.png"
+  },
+  {
+    "Name": "USP-S | Jawbreaker",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 1173,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_33/weapon_usp_silencer_usps_doggy_light_png.png"
+  },
+  {
+    "Name": "AWP | Chrome Cannon",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 1170,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_33/weapon_awp_awp_tempered_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Inheritance",
+    "MinWear": 0,
+    "MaxWear": 0.797346,
+    "WeaponId": 7,
+    "PaintKitId": 1171,
+    "Collection": "The Kilowatt Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_33/weapon_ak47_ak_porcelain_light_png.png"
+  }
+]

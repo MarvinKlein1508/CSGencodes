@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Negev | Ultralight",
+    "MinWear": 0,
+    "MaxWear": 0.79,
+    "WeaponId": 28,
+    "PaintKitId": 958,
+    "Collection": "The Fracture Collection",
+    "Rarity": "rare",
+    "Image": "set_community_26/weapon_negev_cu_negev_ultralight_light_png.png"
+  },
+  {
+    "Name": "P2000 | Gnarled",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 32,
+    "PaintKitId": 960,
+    "Collection": "The Fracture Collection",
+    "Rarity": "uncommon",
+    "Image": "set_community_26/weapon_hkp2000_aq_p2000_lost_world_light_png.png"
+  },
+  {
+    "Name": "SG 553 | Ol\u0027 Rusty",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 39,
+    "PaintKitId": 966,
+    "Collection": "The Fracture Collection",
+    "Rarity": "rare",
+    "Image": "set_community_26/weapon_sg556_gs_sg553_rusty_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Mainframe 001",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 40,
+    "PaintKitId": 967,
+    "Collection": "The Fracture Collection",
+    "Rarity": "rare",
+    "Image": "set_community_26/weapon_ssg08_cu_ssg08_mainframe_light_png.png"
+  },
+  {
+    "Name": "P250 | Cassette",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 36,
+    "PaintKitId": 968,
+    "Collection": "The Fracture Collection",
+    "Rarity": "rare",
+    "Image": "set_community_26/weapon_p250_cu_p250_cassette_light_png.png"
+  },
+  {
+    "Name": "P90 | Freight",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 19,
+    "PaintKitId": 969,
+    "Collection": "The Fracture Collection",
+    "Rarity": "rare",
+    "Image": "set_community_26/weapon_p90_gs_p90_container_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Runic",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 26,
+    "PaintKitId": 973,
+    "Collection": "The Fracture Collection",
+    "Rarity": "rare",
+    "Image": "set_community_26/weapon_bizon_gs_bizon_hellraider_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | Monster Call",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 27,
+    "PaintKitId": 961,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_mag7_cu_mag7_monster_call_light_png.png"
+  },
+  {
+    "Name": "Tec-9 | Brother",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 30,
+    "PaintKitId": 964,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_tec9_gs_tec9_guerilla_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Allure",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 965,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_mac10_cu_mac10_isoonna_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Connexion",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 13,
+    "PaintKitId": 972,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_galilar_gs_galil_phoenix_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Kitbash",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 23,
+    "PaintKitId": 974,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_mp5sd_gs_mp5sd_wasteland_legacy_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Tooth Fairy",
+    "MinWear": 0,
+    "MaxWear": 0.73,
+    "WeaponId": 16,
+    "PaintKitId": 971,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_m4a1_cu_m4a4_queenfairy_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Vogue",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 4,
+    "PaintKitId": 963,
+    "Collection": "The Fracture Collection",
+    "Rarity": "mythical",
+    "Image": "set_community_26/weapon_glock_cu_glock_eyecontact_light_png.png"
+  },
+  {
+    "Name": "XM1014 | Entombed",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 25,
+    "PaintKitId": 970,
+    "Collection": "The Fracture Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_26/weapon_xm1014_cu_xm1014_amulet_blue_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Printstream",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 1,
+    "PaintKitId": 962,
+    "Collection": "The Fracture Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_26/weapon_deagle_cu_deag_printstream_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Legion of Anubis",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 7,
+    "PaintKitId": 959,
+    "Collection": "The Fracture Collection",
+    "Rarity": "legendary",
+    "Image": "set_community_26/weapon_ak47_cu_ak47_anubis_light_png.png"
+  }
+]
