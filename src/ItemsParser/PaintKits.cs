@@ -15,6 +15,8 @@ internal static class PaintKits
     private const string OUTPUT_DIR = "output";
     private const string OUTPUT_COLLECTION_DIR = "collections";
 
+    private const int FLOAT_DIVIDER = 1_000_000;
+
     private static readonly string[] _blockedItemSets = ["#CSGO_set_op9_characters", "#CSGO_set_op10_characters", "#CSGO_set_op11_characters"];
 
     private static readonly string _items_game;
@@ -71,9 +73,15 @@ internal static class PaintKits
                 string paintKitId = key.Split('[', ']')[1];
                 var paintKit = _paintKits.First(x => x.Name == paintKitId);
 
+                (string weaponName, int weapon_id, string econ_name) = GetWeaponType(paintKit);
+
                 var weapon = new Weapon
                 {
-                    name = Translation.GetTranslation(paintKit.DescriptionTag),
+                    name = $"{weaponName} | {Translation.GetTranslation(paintKit.DescriptionTag)}",
+                    weapon_id = weapon_id,
+                    gen_id = paintKit.Id,
+                    max_wear = paintKit.WearRemapMax / FLOAT_DIVIDER,
+                    min_wear = paintKit.WearRemapMin / FLOAT_DIVIDER
                 };
 
                 weaponCollections[collection].Add(weapon);
