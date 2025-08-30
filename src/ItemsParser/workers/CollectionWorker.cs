@@ -70,7 +70,8 @@ internal static class CollectionWorker
                     PaintKitId = paintKit.Id,
                     MaxWear = paintKit.WearRemapMax / FLOAT_DIVIDER,
                     MinWear = paintKit.WearRemapMin / FLOAT_DIVIDER,
-                    Rarity = rarity
+                    Rarity = rarity,
+                    Image = $"{itemSet.Id}/weapon_{econ_name}_{paintKitName}_light_png.png"
                 };
 
                 weaponCollections[collection].Add(weapon);
