@@ -102,8 +102,8 @@ public class MarketplaceService
 
         if (selectedWeapon is not null)
         {
-            parameters.Add($"defIndex={selectedWeapon.weapon_id}");
-            parameters.Add($"paintIndex={selectedWeapon.gen_id}");
+            parameters.Add($"defIndex={selectedWeapon.WeaponId}");
+            parameters.Add($"paintIndex={selectedWeapon.PaintKitId}");
         }
 
         if (appliedStickers.Count != 0)

@@ -56,8 +56,8 @@ public partial class Index
 
             if (Settings.MinMaxFloats)
             {
-                decimal min_float = SelectedWeapon?.min_wear ?? 0m;
-                decimal max_float = SelectedWeapon?.max_wear ?? 1m;
+                decimal min_float = SelectedWeapon?.MinWear ?? 0m;
+                decimal max_float = SelectedWeapon?.MaxWear ?? 1m;
 
                 if (value <= min_float)
                 {
@@ -96,13 +96,13 @@ public partial class Index
 
         if (Settings.MinMaxFloats)
         {
-            if (Float <= weapon.min_wear)
+            if (Float <= weapon.MinWear)
             {
-                _float = weapon.min_wear;
+                _float = weapon.MinWear;
             }
-            else if (Float > weapon.max_wear)
+            else if (Float > weapon.MaxWear)
             {
-                _float = weapon.max_wear;
+                _float = weapon.MaxWear;
             }
         }
     }

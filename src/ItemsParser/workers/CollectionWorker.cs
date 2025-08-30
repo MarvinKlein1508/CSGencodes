@@ -65,12 +65,12 @@ internal static class CollectionWorker
 
                 var weapon = new Weapon
                 {
-                    name = $"{weaponName} | {Translation.GetTranslation(paintKit.DescriptionTag)}",
-                    weapon_id = weapon_id,
-                    gen_id = paintKit.Id,
-                    max_wear = paintKit.WearRemapMax / FLOAT_DIVIDER,
-                    min_wear = paintKit.WearRemapMin / FLOAT_DIVIDER,
-                    rarity = rarity
+                    Name = $"{weaponName} | {Translation.GetTranslation(paintKit.DescriptionTag)}",
+                    WeaponId = weapon_id,
+                    PaintKitId = paintKit.Id,
+                    MaxWear = paintKit.WearRemapMax / FLOAT_DIVIDER,
+                    MinWear = paintKit.WearRemapMin / FLOAT_DIVIDER,
+                    Rarity = rarity
                 };
 
                 weaponCollections[collection].Add(weapon);

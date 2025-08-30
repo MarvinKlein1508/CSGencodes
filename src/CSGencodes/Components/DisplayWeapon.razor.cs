@@ -19,7 +19,7 @@ namespace CSGencodes.Components
                 return string.Empty;
             }
 
-            return Weapon.rarity switch
+            return Weapon.Rarity switch
             {
                 "Consumer" => "rarity-consumer",
                 "Industrial" => "rarity-industrial",

@@ -13,7 +13,7 @@ public class WeaponService
         {
             if (filter.Searchterm == "*")
             {
-                foreach (var weapon in _weapons.OrderBy(x => x.gen_id))
+                foreach (var weapon in _weapons.OrderBy(x => x.PaintKitId))
                 {
                     yield return weapon;
                 }
@@ -32,7 +32,7 @@ public class WeaponService
                     bool found_by_search = true;
                     foreach (var searchphrase in searchphrases)
                     {
-                        if (!weapon.name.Contains(searchphrase, StringComparison.OrdinalIgnoreCase))
+                        if (!weapon.Name.Contains(searchphrase, StringComparison.OrdinalIgnoreCase))
                         {
                             found_by_search = false;
                             break;

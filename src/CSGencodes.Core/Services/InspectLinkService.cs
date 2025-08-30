@@ -14,8 +14,8 @@ public class InspectLinkService
         CEconItemPreviewDataBlock proto = new CEconItemPreviewDataBlock();
 
         proto.Rarity = (uint)weapon.RarityId;
-        proto.Defindex = (uint)weapon.weapon_id;
-        proto.Paintindex = (uint)weapon.gen_id;
+        proto.Defindex = (uint)weapon.WeaponId;
+        proto.Paintindex = (uint)weapon.PaintKitId;
         proto.Paintseed = (uint)pattern;
 
         if (!string.IsNullOrWhiteSpace(customName))

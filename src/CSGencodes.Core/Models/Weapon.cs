@@ -6,30 +6,30 @@ namespace CSGencodes.Core.Models;
 
 public class Weapon : IGenable
 {
-    public string name { get; set; } = string.Empty;
-    public decimal min_wear { get; set; }
-    public decimal max_wear { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public decimal MinWear { get; set; }
+    public decimal MaxWear { get; set; }
     public bool trade_up { get; set; }
-    public int weapon_id { get; set; }
-    public int gen_id { get; set; }
+    public int WeaponId { get; set; }
+    public int PaintKitId { get; set; }
     public string collection { get; set; } = string.Empty;
-    public string rarity { get; set; } = string.Empty;
+    public string Rarity { get; set; } = string.Empty;
     public string? Image { get; set; }
 
     [JsonIgnore]
-    public bool IsKnife => weapon_id switch
+    public bool IsKnife => WeaponId switch
     {
         41 or 42 or 59 or 500 or 503 or 505 or 506 or 507 or 508 or 509 or 512 or 514 or 515 or 516 or 517 or 518 or 519 or 520 or 521 or 522 or 523 or 525 => true,
         _ => false
     };
     [JsonIgnore]
-    public int StickerSlotsAmount => weapon_id switch
+    public int StickerSlotsAmount => WeaponId switch
     {
         41 or 42 or 59 or 500 or 503 or 505 or 506 or 507 or 508 or 509 or 512 or 514 or 515 or 516 or 517 or 518 or 519 or 520 or 521 or 522 or 523 or 525 => 0,
         _ => 5
     };
     [JsonIgnore]
-    public int RarityId => rarity switch
+    public int RarityId => Rarity switch
     {
         "Consumer" => 1,
         "Industrial" => 2,
@@ -43,7 +43,7 @@ public class Weapon : IGenable
     public string GetGencode(decimal @float, int pattern, string customName, List<AppliedSticker> stickers)
     {
         StringBuilder sb = new();
-        sb.Append($"!gen {weapon_id} {gen_id} {pattern} {@float.ToString("0.00000000000000", CultureInfo.InvariantCulture)}");
+        sb.Append($"!gen {WeaponId} {PaintKitId} {pattern} {@float.ToString("0.00000000000000", CultureInfo.InvariantCulture)}");
 
 
 
@@ -90,6 +90,6 @@ public class Weapon : IGenable
 
     public int GetGenId()
     {
-        return gen_id;
+        return PaintKitId;
     }
 }
