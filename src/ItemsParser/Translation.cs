@@ -17,7 +17,7 @@ public static class Translation
     {
         name = name.Replace("#", string.Empty);
 
-        return _dict.Value.TryGetValue(name.Trim(), out var val) ? val : string.Empty;
+        return _dict.Value.TryGetValue(name.Trim().ToLower(), out var val) ? val : string.Empty;
     }
 
 
@@ -33,7 +33,7 @@ public static class Translation
             var m = _keyValueLine.Match(line);
             if (m.Success)
             {
-                var key = m.Groups["key"].Value;
+                var key = m.Groups["key"].Value.ToLower();
                 var val = m.Groups["val"].Value;
                 dict[key] = val;
             }

@@ -15,7 +15,7 @@ internal static class PaintKits
     private const string OUTPUT_DIR = "output";
     private const string OUTPUT_COLLECTION_DIR = "collections";
 
-    private static readonly string[] _blockedItemSets = ["#CSGO_set_op9_characters"];
+    private static readonly string[] _blockedItemSets = ["#CSGO_set_op9_characters", "#CSGO_set_op10_characters", "#CSGO_set_op11_characters"];
 
     private static readonly string _items_game;
     private static readonly List<string> _paintKitBlocks;
@@ -38,8 +38,8 @@ internal static class PaintKits
 
         foreach (var block in _itemSetBlocks)
         {
-            var itemSet = ParseItemSet(block);
-            _itemSets.Add(itemSet);
+            var itemSets = ParseItemSets(block);
+            _itemSets.AddRange(itemSets);
         }
     }
 
@@ -127,7 +127,6 @@ internal static class PaintKits
 
         return results;
     }
-
     private static List<PaintKit> ParsePaintKitEntries(string stickerKitsBlock)
     {
         var kits = new List<PaintKit>();
@@ -165,39 +164,66 @@ internal static class PaintKits
         return kits;
     }
 
-    private static ItemSet ParseItemSet(string block)
+    private static List<ItemSet> ParseItemSets(string input)
     {
-        var set = new ItemSet();
+        var results = new List<ItemSet>();
 
-        // ID aus erster Zeile
-        var idMatch = Regex.Match(block, @"""([^""]+)""\s*\{");
-        if (idMatch.Success)
-            set.Id = idMatch.Groups[1].Value;
+        // 1) item_sets-Root balanciert extrahieren
+        var root = Regex.Match(
+            input,
+            @"""item_sets""\s*\{(?<root>(?>[^{}]+|{(?<c>)|}(?<-c>))*(?(c)(?!)))\}",
+            RegexOptions.Singleline);
 
-        // name
-        set.Name = Regex.Match(block, @"""name""\s*""([^""]+)""").Groups[1].Value;
+        if (!root.Success)
+            return results;
 
-        // description
-        set.Description = Regex.Match(block, @"""set_description""\s*""([^""]+)""").Groups[1].Value;
+        string rootBody = root.Groups["root"].Value;
 
-        // is_collection
-        var isColl = Regex.Match(block, @"""is_collection""\s*""([^""]+)""").Groups[1].Value;
-        set.IsCollection = isColl == "1";
+        // 2) Alle direkten Sets darin balanciert finden
+        var setMatches = Regex.Matches(
+            rootBody,
+            @"""(?<id>[^""]+)""\s*\{(?<body>(?>[^{}]+|{(?<c>)|}(?<-c>))*(?(c)(?!)))\}",
+            RegexOptions.Singleline);
 
-        // items block extrahieren
-        var itemsBlockMatch = Regex.Match(block, @"""items""\s*\{([\s\S]*?)\}", RegexOptions.Singleline);
-        if (itemsBlockMatch.Success)
+        foreach (Match m in setMatches)
         {
-            var itemLines = Regex.Matches(itemsBlockMatch.Groups[1].Value, @"""([^""]+)""\s*""([^""]+)""");
-            foreach (Match match in itemLines)
+            var set = new ItemSet();
+            set.Id = m.Groups["id"].Value;
+
+            string body = m.Groups["body"].Value;
+
+            // name
+            set.Name = Regex.Match(body, @"""name""\s*""([^""]+)""").Groups[1].Value;
+
+            // description
+            set.Description = Regex.Match(body, @"""set_description""\s*""([^""]+)""").Groups[1].Value;
+
+            // is_collection
+            var isColl = Regex.Match(body, @"""is_collection""\s*""([^""]+)""").Groups[1].Value;
+            set.IsCollection = isColl == "1";
+
+            // items (balanciert, falls innerhalb nochmal {...} auftaucht)
+            var itemsBlockMatch = Regex.Match(
+                body,
+                @"""items""\s*\{(?<items>(?>[^{}]+|{(?<c>)|}(?<-c>))*(?(c)(?!)))\}",
+                RegexOptions.Singleline);
+
+            if (itemsBlockMatch.Success)
             {
-                string key = match.Groups[1].Value;
-                string value = match.Groups[2].Value;
-                set.Items[key] = value;
+                var itemLines = Regex.Matches(itemsBlockMatch.Groups["items"].Value,
+                                              @"""([^""]+)""\s*""([^""]+)""");
+                foreach (Match im in itemLines)
+                {
+                    string key = im.Groups[1].Value;
+                    string value = im.Groups[2].Value;
+                    set.Items[key] = value;
+                }
             }
+
+            results.Add(set);
         }
 
-        return set;
+        return results;
     }
     private static string ExtractField(string content, string fieldName)
     {
