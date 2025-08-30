@@ -1,3 +1,3 @@
 ﻿using ItemsParser;
-PaintKits.GeneratePaintKitCollections();
-//StickerKits.GenerateStickerCollections();
+//PaintKits.GeneratePaintKitCollections();
+StickerKits.GenerateStickerCollections();

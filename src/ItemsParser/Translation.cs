@@ -6,24 +6,38 @@ namespace ItemsParser;
 /// </summary>
 public static class Translation
 {
-    private static readonly string _translations;
-    static Translation()
-    {
-        string filename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "csgo_english.txt");
-        _translations = File.ReadAllText(filename);
-    }
+    private static readonly Regex _keyValueLine =
+        new Regex("^\\s*\"(?<key>[^\"]+)\"\\s*\"(?<val>[^\"]*)\"\\s*$",
+                  RegexOptions.Compiled | RegexOptions.CultureInvariant);
+
+    private static readonly Lazy<Dictionary<string, string>> _dict =
+       new Lazy<Dictionary<string, string>>(() => LoadFile("csgo_english.txt"));
 
     public static string GetTranslation(string name)
     {
-        string nameSanitized = name.Replace("#", string.Empty);
-        string pattern = $"(?<={nameSanitized}...).*\"";
-        Regex nameRegex = new Regex(pattern);
-        var match = nameRegex.Match(_translations);
-        if (match.Success && match.Groups.Count > 0)
-        {
-            return match.Groups[0].Value.Replace("\"", string.Empty).Trim();
-        }
+        name = name.Replace("#", string.Empty);
 
-        return string.Empty;
+        return _dict.Value.TryGetValue(name.Trim(), out var val) ? val : string.Empty;
+    }
+
+
+    private static Dictionary<string, string> LoadFile(string path)
+    {
+        var dict = new Dictionary<string, string>(StringComparer.Ordinal);
+        foreach (var rawLine in File.ReadLines(path))
+        {
+            var line = rawLine.Trim();
+
+            if (line.Length == 0 || line.StartsWith("//") || line is "{" or "}") continue;
+
+            var m = _keyValueLine.Match(line);
+            if (m.Success)
+            {
+                var key = m.Groups["key"].Value;
+                var val = m.Groups["val"].Value;
+                dict[key] = val;
+            }
+        }
+        return dict;
     }
 }
