@@ -6,8 +6,8 @@
     "WeaponId": 19,
     "PaintKitId": 1020,
     "Collection": "The Ancient Collection",
-    "Rarity": "common",
-    "Image": "set_op10_ancient/weapon_p90_aa_ancient_brown_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_p90_aa_ancient_brown_light_png.png"
   },
   {
     "Name": "SG 553 | Lush Ruins",
@@ -16,8 +16,8 @@
     "WeaponId": 39,
     "PaintKitId": 1022,
     "Collection": "The Ancient Collection",
-    "Rarity": "common",
-    "Image": "set_op10_ancient/weapon_sg556_aa_ruins_green_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_sg556_aa_ruins_green_light_png.png"
   },
   {
     "Name": "Negev | Army Sheen",
@@ -26,8 +26,8 @@
     "WeaponId": 28,
     "PaintKitId": 298,
     "Collection": "The Ancient Collection",
-    "Rarity": "common",
-    "Image": "set_op10_ancient/weapon_negev_am_army_shine_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_negev_am_army_shine_light_png.png"
   },
   {
     "Name": "G3SG1 | Jungle Dashed",
@@ -36,8 +36,8 @@
     "WeaponId": 11,
     "PaintKitId": 147,
     "Collection": "The Ancient Collection",
-    "Rarity": "common",
-    "Image": "set_op10_ancient/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
   },
   {
     "Name": "Glock-18 | Night",
@@ -46,8 +46,8 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Ancient Collection",
-    "Rarity": "common",
-    "Image": "set_op10_ancient/weapon_glock_so_night_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_glock_so_night_light_png.png"
   },
   {
     "Name": "P2000 | Panther Camo",
@@ -56,8 +56,8 @@
     "WeaponId": 32,
     "PaintKitId": 1019,
     "Collection": "The Ancient Collection",
-    "Rarity": "common",
-    "Image": "set_op10_ancient/weapon_hkp2000_am_black_panther_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_am_black_panther_light_png.png"
   },
   {
     "Name": "MP7 | Tall Grass",
@@ -66,8 +66,8 @@
     "WeaponId": 33,
     "PaintKitId": 1023,
     "Collection": "The Ancient Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_ancient/weapon_mp7_hy_drywood_green_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_mp7_hy_drywood_green_light_png.png"
   },
   {
     "Name": "G3SG1 | Ancient Ritual",
@@ -76,8 +76,8 @@
     "WeaponId": 11,
     "PaintKitId": 1034,
     "Collection": "The Ancient Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_ancient/weapon_g3sg1_am_ancient_wine_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_g3sg1_am_ancient_wine_light_png.png"
   },
   {
     "Name": "P2000 | Silver",
@@ -86,8 +86,8 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Ancient Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_ancient/weapon_hkp2000_an_silver_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_an_silver_light_png.png"
   },
   {
     "Name": "Tec-9 | Blast From the Past",
@@ -96,8 +96,8 @@
     "WeaponId": 30,
     "PaintKitId": 1024,
     "Collection": "The Ancient Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_ancient/weapon_tec9_hy_ancient_tiles_peach_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_tec9_hy_ancient_tiles_peach_light_png.png"
   },
   {
     "Name": "AUG | Carved Jade",
@@ -106,8 +106,8 @@
     "WeaponId": 8,
     "PaintKitId": 1033,
     "Collection": "The Ancient Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_ancient/weapon_aug_am_jade_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_aug_am_jade_light_png.png"
   },
   {
     "Name": "Galil AR | Dusk Ruins",
@@ -116,8 +116,8 @@
     "WeaponId": 13,
     "PaintKitId": 1032,
     "Collection": "The Ancient Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_ancient/weapon_galilar_hy_ruins_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_galilar_hy_ruins_red_light_png.png"
   },
   {
     "Name": "USP-S | Dark Water",
@@ -126,8 +126,8 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Ancient Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_ancient/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
     "Name": "XM1014 | Ancient Lore",
@@ -136,8 +136,8 @@
     "WeaponId": 25,
     "PaintKitId": 1021,
     "Collection": "The Ancient Collection",
-    "Rarity": "mythical",
-    "Image": "set_op10_ancient/weapon_xm1014_am_ancient_warm_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_xm1014_am_ancient_warm_light_png.png"
   },
   {
     "Name": "MAC-10 | Gold Brick",
@@ -146,8 +146,8 @@
     "WeaponId": 17,
     "PaintKitId": 1025,
     "Collection": "The Ancient Collection",
-    "Rarity": "mythical",
-    "Image": "set_op10_ancient/weapon_mac10_am_gold_brick_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_mac10_am_gold_brick_light_png.png"
   },
   {
     "Name": "USP-S | Ancient Visions",
@@ -156,8 +156,8 @@
     "WeaponId": 61,
     "PaintKitId": 1031,
     "Collection": "The Ancient Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_ancient/weapon_usp_silencer_sp_ancient_bright_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_sp_ancient_bright_light_png.png"
   },
   {
     "Name": "P90 | Run and Hide",
@@ -166,8 +166,8 @@
     "WeaponId": 19,
     "PaintKitId": 1000,
     "Collection": "The Ancient Collection",
-    "Rarity": "legendary",
-    "Image": "set_op10_ancient/weapon_p90_cu_jaguar_p90_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_p90_cu_jaguar_p90_light_png.png"
   },
   {
     "Name": "AK-47 | Panthera onca",
@@ -176,8 +176,8 @@
     "WeaponId": 7,
     "PaintKitId": 1018,
     "Collection": "The Ancient Collection",
-    "Rarity": "mythical",
-    "Image": "set_op10_ancient/weapon_ak47_cu_ak_jaguar_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_ak47_cu_ak_jaguar_light_png.png"
   },
   {
     "Name": "M4A1-S | Welcome to the Jungle",
@@ -186,7 +186,7 @@
     "WeaponId": 60,
     "PaintKitId": 1001,
     "Collection": "The Ancient Collection",
-    "Rarity": "legendary",
-    "Image": "set_op10_ancient/weapon_m4a1_silencer_cu_m4a1_snake_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_m4a1_silencer_cu_m4a1_snake_light_png.png"
   }
 ]

@@ -6,8 +6,8 @@
     "WeaponId": 4,
     "PaintKitId": 399,
     "Collection": "The Chroma Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_6/weapon_glock_cu_glock_deathtoll_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_glock_cu_glock_deathtoll_light_png.png"
   },
   {
     "Name": "M249 | System Lock",
@@ -16,8 +16,8 @@
     "WeaponId": 14,
     "PaintKitId": 401,
     "Collection": "The Chroma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_6/weapon_m249_cu_m249_sektor_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_m249_cu_m249_sektor_light_png.png"
   },
   {
     "Name": "MP9 | Deadly Poison",
@@ -26,8 +26,8 @@
     "WeaponId": 34,
     "PaintKitId": 403,
     "Collection": "The Chroma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_6/weapon_mp9_cu_mp9_deadly_poison_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_mp9_cu_mp9_deadly_poison_light_png.png"
   },
   {
     "Name": "SCAR-20 | Grotto",
@@ -36,8 +36,8 @@
     "WeaponId": 38,
     "PaintKitId": 406,
     "Collection": "The Chroma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_6/weapon_scar20_aq_scar20_leak_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_scar20_aq_scar20_leak_light_png.png"
   },
   {
     "Name": "XM1014 | Quicksilver",
@@ -46,8 +46,8 @@
     "WeaponId": 25,
     "PaintKitId": 407,
     "Collection": "The Chroma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_6/weapon_xm1014_aq_xm1014_sigla_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_xm1014_aq_xm1014_sigla_light_png.png"
   },
   {
     "Name": "Dual Berettas | Urban Shock",
@@ -56,8 +56,8 @@
     "WeaponId": 2,
     "PaintKitId": 396,
     "Collection": "The Chroma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_6/weapon_elite_gs_cu_elites_urbanstorm_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_elite_gs_cu_elites_urbanstorm_light_png.png"
   },
   {
     "Name": "Desert Eagle | Naga",
@@ -66,8 +66,8 @@
     "WeaponId": 1,
     "PaintKitId": 397,
     "Collection": "The Chroma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_6/weapon_deagle_aq_deagle_naga_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_deagle_aq_deagle_naga_light_png.png"
   },
   {
     "Name": "MAC-10 | Malachite",
@@ -76,8 +76,8 @@
     "WeaponId": 17,
     "PaintKitId": 402,
     "Collection": "The Chroma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_6/weapon_mac10_am_mac10_malachite_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_mac10_am_mac10_malachite_light_png.png"
   },
   {
     "Name": "Sawed-Off | Serenity",
@@ -86,8 +86,8 @@
     "WeaponId": 29,
     "PaintKitId": 405,
     "Collection": "The Chroma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_6/weapon_sawedoff_cu_sawedoff_deva_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_sawedoff_cu_sawedoff_deva_light_png.png"
   },
   {
     "Name": "AK-47 | Cartel",
@@ -96,8 +96,8 @@
     "WeaponId": 7,
     "PaintKitId": 394,
     "Collection": "The Chroma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_6/weapon_ak47_aq_ak47_cartel_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_ak47_aq_ak47_cartel_light_png.png"
   },
   {
     "Name": "M4A4 | \u9F8D\u738B (Dragon King)",
@@ -106,8 +106,8 @@
     "WeaponId": 16,
     "PaintKitId": 400,
     "Collection": "The Chroma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_6/weapon_m4a1_cu_m4a4_ancestral_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_m4a1_cu_m4a4_ancestral_light_png.png"
   },
   {
     "Name": "P250 | Muertos",
@@ -116,8 +116,8 @@
     "WeaponId": 36,
     "PaintKitId": 404,
     "Collection": "The Chroma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_6/weapon_p250_cu_p250_mandala_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_p250_cu_p250_mandala_light_png.png"
   },
   {
     "Name": "AWP | Man-o\u0027-war",
@@ -126,8 +126,8 @@
     "WeaponId": 9,
     "PaintKitId": 395,
     "Collection": "The Chroma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_6/weapon_awp_am_awp_glory_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_awp_am_awp_glory_light_png.png"
   },
   {
     "Name": "Galil AR | Chatterbox",
@@ -136,7 +136,7 @@
     "WeaponId": 13,
     "PaintKitId": 398,
     "Collection": "The Chroma Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_6/weapon_galilar_cu_galil_abrasion_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_galilar_cu_galil_abrasion_light_png.png"
   }
 ]

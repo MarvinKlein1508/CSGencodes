@@ -6,8 +6,8 @@
     "WeaponId": 24,
     "PaintKitId": 93,
     "Collection": "The Assault Collection",
-    "Rarity": "common",
-    "Image": "set_assault/weapon_ump45_so_caramel_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_ump45_so_caramel_light_png.png"
   },
   {
     "Name": "M4A4 | Tornado",
@@ -16,8 +16,8 @@
     "WeaponId": 16,
     "PaintKitId": 101,
     "Collection": "The Assault Collection",
-    "Rarity": "common",
-    "Image": "set_assault/weapon_m4a1_so_tornado_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_m4a1_so_tornado_light_png.png"
   },
   {
     "Name": "Five-SeveN | Candy Apple",
@@ -26,8 +26,8 @@
     "WeaponId": 3,
     "PaintKitId": 3,
     "Collection": "The Assault Collection",
-    "Rarity": "uncommon",
-    "Image": "set_assault/weapon_fiveseven_so_red_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_fiveseven_so_red_light_png.png"
   },
   {
     "Name": "Dual Berettas | Anodized Navy",
@@ -36,8 +36,8 @@
     "WeaponId": 2,
     "PaintKitId": 28,
     "Collection": "The Assault Collection",
-    "Rarity": "rare",
-    "Image": "set_assault/weapon_elite_gs_an_navy_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_elite_gs_an_navy_light_png.png"
   },
   {
     "Name": "AUG | Hot Rod",
@@ -46,8 +46,8 @@
     "WeaponId": 8,
     "PaintKitId": 33,
     "Collection": "The Assault Collection",
-    "Rarity": "rare",
-    "Image": "set_assault/weapon_aug_an_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_aug_an_red_light_png.png"
   },
   {
     "Name": "Glock-18 | Fade",
@@ -56,8 +56,8 @@
     "WeaponId": 4,
     "PaintKitId": 38,
     "Collection": "The Assault Collection",
-    "Rarity": "rare",
-    "Image": "set_assault/weapon_glock_aa_fade_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_glock_aa_fade_light_png.png"
   },
   {
     "Name": "MP9 | Bulldozer",
@@ -66,7 +66,7 @@
     "WeaponId": 34,
     "PaintKitId": 39,
     "Collection": "The Assault Collection",
-    "Rarity": "mythical",
-    "Image": "set_assault/weapon_mp9_so_yellow_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_assault/weapon_mp9_so_yellow_light_png.png"
   }
 ]

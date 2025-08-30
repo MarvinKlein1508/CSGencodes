@@ -6,8 +6,8 @@
     "WeaponId": 33,
     "PaintKitId": 11,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_i/weapon_mp7_hy_skulls_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_mp7_hy_skulls_light_png.png"
   },
   {
     "Name": "AUG | Wings",
@@ -16,8 +16,8 @@
     "WeaponId": 8,
     "PaintKitId": 73,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_i/weapon_aug_hy_feathers_aug_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_aug_hy_feathers_aug_light_png.png"
   },
   {
     "Name": "SG 553 | Ultraviolet",
@@ -26,8 +26,8 @@
     "WeaponId": 39,
     "PaintKitId": 98,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_i/weapon_sg556_so_purple_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_sg556_so_purple_light_png.png"
   },
   {
     "Name": "Glock-18 | Dragon Tattoo",
@@ -36,8 +36,8 @@
     "WeaponId": 4,
     "PaintKitId": 48,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_i/weapon_glock_am_dragon_glock_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_glock_am_dragon_glock_light_png.png"
   },
   {
     "Name": "USP-S | Dark Water",
@@ -46,8 +46,8 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
     "Name": "USP-S | Dark Water",
@@ -56,8 +56,8 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
     "Name": "AK-47 | Case Hardened",
@@ -66,8 +66,8 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_i/weapon_ak47_aq_oiled_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_ak47_aq_oiled_light_png.png"
   },
   {
     "Name": "Desert Eagle | Hypnotic",
@@ -76,8 +76,8 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_i/weapon_deagle_aa_vertigo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
     "Name": "AWP | Lightning Strike",
@@ -86,7 +86,7 @@
     "WeaponId": 9,
     "PaintKitId": 51,
     "Collection": "The Arms Deal Collection",
-    "Rarity": "legendary",
-    "Image": "set_weapons_i/weapon_awp_am_lightning_awp_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_awp_am_lightning_awp_light_png.png"
   }
 ]

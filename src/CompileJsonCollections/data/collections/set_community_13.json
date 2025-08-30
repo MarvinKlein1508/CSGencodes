@@ -6,8 +6,8 @@
     "WeaponId": 3,
     "PaintKitId": 585,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_fiveseven_cu_five_seven_daimyo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_fiveseven_cu_five_seven_daimyo_light_png.png"
   },
   {
     "Name": "MAC-10 | Carnivore",
@@ -16,8 +16,8 @@
     "WeaponId": 17,
     "PaintKitId": 589,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_mac10_aq_mac_10_alien_camo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_mac10_aq_mac_10_alien_camo_light_png.png"
   },
   {
     "Name": "Nova | Exo",
@@ -26,8 +26,8 @@
     "WeaponId": 35,
     "PaintKitId": 590,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_nova_aq_nova_sci_fi_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_nova_aq_nova_sci_fi_light_png.png"
   },
   {
     "Name": "P250 | Iron Clad",
@@ -36,8 +36,8 @@
     "WeaponId": 36,
     "PaintKitId": 592,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_p250_gs_p250_metal_panels_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_p250_gs_p250_metal_panels_light_png.png"
   },
   {
     "Name": "PP-Bizon | Harvester",
@@ -46,8 +46,8 @@
     "WeaponId": 26,
     "PaintKitId": 594,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_bizon_gs_pp_bizon_harvester_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_bizon_gs_pp_bizon_harvester_light_png.png"
   },
   {
     "Name": "SG 553 | Aerial",
@@ -56,8 +56,8 @@
     "WeaponId": 39,
     "PaintKitId": 598,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_sg556_cu_sg553_aerial_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_sg556_cu_sg553_aerial_light_png.png"
   },
   {
     "Name": "Tec-9 | Ice Cap",
@@ -66,8 +66,8 @@
     "WeaponId": 30,
     "PaintKitId": 599,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_tec9_am_tec_9_sea_salt_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_tec9_am_tec_9_sea_salt_light_png.png"
   },
   {
     "Name": "AUG | Aristocrat",
@@ -76,8 +76,8 @@
     "WeaponId": 8,
     "PaintKitId": 583,
     "Collection": "The Gamma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_13/weapon_aug_gs_aug_aristocrat_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_aug_gs_aug_aristocrat_light_png.png"
   },
   {
     "Name": "AWP | Phobos",
@@ -86,8 +86,8 @@
     "WeaponId": 9,
     "PaintKitId": 584,
     "Collection": "The Gamma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_13/weapon_awp_gs_awp_phobos_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_awp_gs_awp_phobos_light_png.png"
   },
   {
     "Name": "P90 | Chopper",
@@ -96,8 +96,8 @@
     "WeaponId": 19,
     "PaintKitId": 593,
     "Collection": "The Gamma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_13/weapon_p90_gs_p90_full_throttle_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_p90_gs_p90_full_throttle_light_png.png"
   },
   {
     "Name": "R8 Revolver | Reboot",
@@ -106,8 +106,8 @@
     "WeaponId": 64,
     "PaintKitId": 595,
     "Collection": "The Gamma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_13/weapon_revolver_cu_r8_cybersport_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_revolver_cu_r8_cybersport_light_png.png"
   },
   {
     "Name": "Sawed-Off | Limelight",
@@ -116,8 +116,8 @@
     "WeaponId": 29,
     "PaintKitId": 596,
     "Collection": "The Gamma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_13/weapon_sawedoff_cu_sawed_off_lime_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_sawedoff_cu_sawed_off_lime_light_png.png"
   },
   {
     "Name": "M4A4 | Desolate Space",
@@ -126,8 +126,8 @@
     "WeaponId": 16,
     "PaintKitId": 588,
     "Collection": "The Gamma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_13/weapon_m4a1_cu_m4a4_desolate_space_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_m4a1_cu_m4a4_desolate_space_light_png.png"
   },
   {
     "Name": "P2000 | Imperial Dragon",
@@ -136,8 +136,8 @@
     "WeaponId": 32,
     "PaintKitId": 591,
     "Collection": "The Gamma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_13/weapon_hkp2000_gs_p2000_imperial_dragon_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_hkp2000_gs_p2000_imperial_dragon_light_png.png"
   },
   {
     "Name": "SCAR-20 | Bloodsport",
@@ -146,8 +146,8 @@
     "WeaponId": 38,
     "PaintKitId": 597,
     "Collection": "The Gamma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_13/weapon_scar20_gs_scar20_bloodsport_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_scar20_gs_scar20_bloodsport_light_png.png"
   },
   {
     "Name": "Glock-18 | Wasteland Rebel",
@@ -156,8 +156,8 @@
     "WeaponId": 4,
     "PaintKitId": 586,
     "Collection": "The Gamma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_13/weapon_glock_cu_glock_wasteland_rebel_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_glock_cu_glock_wasteland_rebel_light_png.png"
   },
   {
     "Name": "M4A1-S | Mecha Industries",
@@ -166,7 +166,7 @@
     "WeaponId": 60,
     "PaintKitId": 587,
     "Collection": "The Gamma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_13/weapon_m4a1_silencer_gs_m4a1_mecha_industries_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_13/weapon_m4a1_silencer_gs_m4a1_mecha_industries_light_png.png"
   }
 ]

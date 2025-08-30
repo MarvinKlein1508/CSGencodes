@@ -6,8 +6,8 @@
     "WeaponId": 8,
     "PaintKitId": 708,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_aug_hy_aug_torn_orange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_aug_hy_aug_torn_orange_light_png.png"
   },
   {
     "Name": "Dual Berettas | Shred",
@@ -16,8 +16,8 @@
     "WeaponId": 2,
     "PaintKitId": 710,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_elite_gs_sp_elites_winter_raider_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_elite_gs_sp_elites_winter_raider_light_png.png"
   },
   {
     "Name": "Glock-18 | Warhawk",
@@ -26,8 +26,8 @@
     "WeaponId": 4,
     "PaintKitId": 713,
     "Collection": "The Horizon Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_20/weapon_glock_gs_glock_thunder_dust_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_glock_gs_glock_thunder_dust_light_png.png"
   },
   {
     "Name": "MP9 | Capillary",
@@ -36,8 +36,8 @@
     "WeaponId": 34,
     "PaintKitId": 715,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_mp9_cu_mp9_vein_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_mp9_cu_mp9_vein_light_png.png"
   },
   {
     "Name": "P90 | Traction",
@@ -46,8 +46,8 @@
     "WeaponId": 19,
     "PaintKitId": 717,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_p90_gs_p90_tread_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_p90_gs_p90_tread_light_png.png"
   },
   {
     "Name": "R8 Revolver | Survivalist",
@@ -56,8 +56,8 @@
     "WeaponId": 64,
     "PaintKitId": 721,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_revolver_cu_r8_survivalist_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_revolver_cu_r8_survivalist_light_png.png"
   },
   {
     "Name": "Tec-9 | Snek-9",
@@ -66,8 +66,8 @@
     "WeaponId": 30,
     "PaintKitId": 722,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_tec9_cu_tec9_snake_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_tec9_cu_tec9_snake_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Eco",
@@ -76,8 +76,8 @@
     "WeaponId": 63,
     "PaintKitId": 709,
     "Collection": "The Horizon Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_20/weapon_cz75a_cu_cz75_eco_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_cz75a_cu_cz75_eco_light_png.png"
   },
   {
     "Name": "G3SG1 | High Seas",
@@ -86,8 +86,8 @@
     "WeaponId": 11,
     "PaintKitId": 712,
     "Collection": "The Horizon Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_20/weapon_g3sg1_gs_g3sg1_buccaneer_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_g3sg1_gs_g3sg1_buccaneer_light_png.png"
   },
   {
     "Name": "Nova | Toy Soldier",
@@ -96,8 +96,8 @@
     "WeaponId": 35,
     "PaintKitId": 716,
     "Collection": "The Horizon Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_20/weapon_nova_cu_nova_toy_soldier_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_nova_cu_nova_toy_soldier_light_png.png"
   },
   {
     "Name": "AWP | PAW",
@@ -106,8 +106,8 @@
     "WeaponId": 9,
     "PaintKitId": 718,
     "Collection": "The Horizon Collection",
-    "Rarity": "rare",
-    "Image": "set_community_20/weapon_awp_am_awp_pawpaw_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_awp_am_awp_pawpaw_light_png.png"
   },
   {
     "Name": "MP7 | Powercore",
@@ -116,8 +116,8 @@
     "WeaponId": 33,
     "PaintKitId": 719,
     "Collection": "The Horizon Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_20/weapon_mp7_gs_powercore_mp7_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_mp7_gs_powercore_mp7_light_png.png"
   },
   {
     "Name": "M4A1-S | Nightmare",
@@ -126,8 +126,8 @@
     "WeaponId": 60,
     "PaintKitId": 714,
     "Collection": "The Horizon Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_20/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_png.png"
   },
   {
     "Name": "Sawed-Off | Devourer",
@@ -136,8 +136,8 @@
     "WeaponId": 29,
     "PaintKitId": 720,
     "Collection": "The Horizon Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_20/weapon_sawedoff_cu_sawedoff_devourer_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_sawedoff_cu_sawedoff_devourer_light_png.png"
   },
   {
     "Name": "FAMAS | Eye of Athena",
@@ -146,8 +146,8 @@
     "WeaponId": 10,
     "PaintKitId": 723,
     "Collection": "The Horizon Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_20/weapon_famas_cu_famas_owl_orange_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_famas_cu_famas_owl_orange_light_png.png"
   },
   {
     "Name": "AK-47 | Neon Rider",
@@ -156,8 +156,8 @@
     "WeaponId": 7,
     "PaintKitId": 707,
     "Collection": "The Horizon Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_20/weapon_ak47_cu_ak_neon_rider_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_ak47_cu_ak_neon_rider_light_png.png"
   },
   {
     "Name": "Desert Eagle | Code Red",
@@ -166,7 +166,7 @@
     "WeaponId": 1,
     "PaintKitId": 711,
     "Collection": "The Horizon Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_20/weapon_deagle_gs_deagle_aggressor_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_deagle_gs_deagle_aggressor_light_png.png"
   }
 ]

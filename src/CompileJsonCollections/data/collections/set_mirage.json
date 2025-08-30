@@ -6,8 +6,8 @@
     "WeaponId": 36,
     "PaintKitId": 27,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_p250_sp_tape_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_p250_sp_tape_light_png.png"
   },
   {
     "Name": "Five-SeveN | Contractor",
@@ -16,8 +16,8 @@
     "WeaponId": 3,
     "PaintKitId": 46,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_fiveseven_so_pmc_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_fiveseven_so_pmc_light_png.png"
   },
   {
     "Name": "Dual Berettas | Colony",
@@ -26,8 +26,8 @@
     "WeaponId": 2,
     "PaintKitId": 47,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_elite_gs_so_space_marine_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_elite_gs_so_space_marine_light_png.png"
   },
   {
     "Name": "AK-47 | Safari Mesh",
@@ -36,8 +36,8 @@
     "WeaponId": 7,
     "PaintKitId": 72,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_ak47_sp_mesh_tan_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
     "Name": "P90 | Scorched",
@@ -46,8 +46,8 @@
     "WeaponId": 19,
     "PaintKitId": 175,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_p90_sp_dapple_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_p90_sp_dapple_light_png.png"
   },
   {
     "Name": "Galil AR | Hunting Blind",
@@ -56,8 +56,8 @@
     "WeaponId": 13,
     "PaintKitId": 241,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_galilar_sp_mesh_slashes_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_galilar_sp_mesh_slashes_light_png.png"
   },
   {
     "Name": "Glock-18 | Groundwater",
@@ -66,8 +66,8 @@
     "WeaponId": 4,
     "PaintKitId": 2,
     "Collection": "The Mirage Collection",
-    "Rarity": "common",
-    "Image": "set_mirage/weapon_glock_so_olive_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_glock_so_olive_light_png.png"
   },
   {
     "Name": "Five-SeveN | Orange Peel",
@@ -76,8 +76,8 @@
     "WeaponId": 3,
     "PaintKitId": 141,
     "Collection": "The Mirage Collection",
-    "Rarity": "uncommon",
-    "Image": "set_mirage/weapon_fiveseven_sp_tape_orange_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_fiveseven_sp_tape_orange_light_png.png"
   },
   {
     "Name": "SSG 08 | Tropical Storm",
@@ -86,8 +86,8 @@
     "WeaponId": 40,
     "PaintKitId": 233,
     "Collection": "The Mirage Collection",
-    "Rarity": "uncommon",
-    "Image": "set_mirage/weapon_ssg08_sp_palm_shadow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_ssg08_sp_palm_shadow_light_png.png"
   },
   {
     "Name": "Negev | CaliCamo",
@@ -96,8 +96,8 @@
     "WeaponId": 28,
     "PaintKitId": 240,
     "Collection": "The Mirage Collection",
-    "Rarity": "uncommon",
-    "Image": "set_mirage/weapon_negev_hy_varicamo_desert_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_negev_hy_varicamo_desert_light_png.png"
   },
   {
     "Name": "SG 553 | Gator Mesh",
@@ -106,8 +106,8 @@
     "WeaponId": 39,
     "PaintKitId": 243,
     "Collection": "The Mirage Collection",
-    "Rarity": "uncommon",
-    "Image": "set_mirage/weapon_sg556_sp_mesh_python_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_sg556_sp_mesh_python_light_png.png"
   },
   {
     "Name": "AUG | Hot Rod",
@@ -116,8 +116,8 @@
     "WeaponId": 8,
     "PaintKitId": 33,
     "Collection": "The Mirage Collection",
-    "Rarity": "rare",
-    "Image": "set_mirage/weapon_aug_an_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_aug_an_red_light_png.png"
   },
   {
     "Name": "Desert Eagle | Blaze",
@@ -126,8 +126,8 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The Mirage Collection",
-    "Rarity": "rare",
-    "Image": "set_mirage/weapon_deagle_aa_flames_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_deagle_aa_flames_light_png.png"
   },
   {
     "Name": "P2000 | Amber Fade",
@@ -136,8 +136,8 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The Mirage Collection",
-    "Rarity": "rare",
-    "Image": "set_mirage/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "MP9 | Bulldozer",
@@ -146,7 +146,7 @@
     "WeaponId": 34,
     "PaintKitId": 39,
     "Collection": "The Mirage Collection",
-    "Rarity": "mythical",
-    "Image": "set_mirage/weapon_mp9_so_yellow_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp9_so_yellow_light_png.png"
   }
 ]

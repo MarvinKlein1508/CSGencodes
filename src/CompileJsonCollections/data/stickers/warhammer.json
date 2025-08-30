@@ -2,137 +2,137 @@
   {
     "Name": "Adepta Sororitas",
     "StickerId": 4614,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/adepta_sororitas_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55441"
   },
   {
     "Name": "Aeldari Avatar",
     "StickerId": 4615,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/aeldari_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55407"
   },
   {
     "Name": "Full Buy",
     "StickerId": 4616,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/full_buy_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55440"
   },
   {
     "Name": "Heresy",
     "StickerId": 4617,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/heresy_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55454"
   },
   {
     "Name": "Necron",
     "StickerId": 4618,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/necron_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55408"
   },
   {
     "Name": "Ork Waaagh!",
     "StickerId": 4619,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/ork_waaagh_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55405"
   },
   {
     "Name": "Primaris Keychain",
     "StickerId": 4620,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/primaris_keychain_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55426"
   },
   {
     "Name": "Repulsor",
     "StickerId": 4621,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/repulsor_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55439"
   },
   {
     "Name": "Space Marine",
     "StickerId": 4622,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/space_marine_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55434"
   },
   {
     "Name": "Tyranids Ravener",
     "StickerId": 4623,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/warhammer/tyranids_ravener_paper_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55425"
   },
   {
     "Name": "Heresy (Holo)",
     "StickerId": 4624,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/warhammer/heresy_holo_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55455"
   },
   {
     "Name": "Lord of Skulls (Holo)",
     "StickerId": 4625,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/warhammer/lord_of_skulls_holo_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55427"
   },
   {
     "Name": "Space Marine (Holo)",
     "StickerId": 4626,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/warhammer/space_marine_holo_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55418"
   },
   {
     "Name": "Tyranids Hive Tyrant (Holo)",
     "StickerId": 4627,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/warhammer/tyranids_hive_tyrant_holo_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55406"
   },
   {
     "Name": "Bloodthirster (Foil)",
     "StickerId": 4628,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/warhammer/bloodthirster_foil_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55458"
   },
   {
     "Name": "Chaos Marine (Foil)",
     "StickerId": 4629,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/warhammer/chaos_marine_foil_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55453"
   },
   {
     "Name": "Emperor (Foil)",
     "StickerId": 4630,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/warhammer/emperor_foil_png.png",
     "Collection": "warhammer",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s55442"
   }
 ]

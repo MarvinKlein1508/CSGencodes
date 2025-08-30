@@ -6,8 +6,8 @@
     "WeaponId": 1,
     "PaintKitId": 90,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "common",
-    "Image": "set_inferno_2/weapon_deagle_hy_mottled_sand_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_deagle_hy_mottled_sand_light_png.png"
   },
   {
     "Name": "MP5-SD | Dirt Drop",
@@ -16,8 +16,8 @@
     "WeaponId": 23,
     "PaintKitId": 753,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "common",
-    "Image": "set_inferno_2/weapon_mp5sd_sp_tape_short_rally_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_mp5sd_sp_tape_short_rally_light_png.png"
   },
   {
     "Name": "MP9 | Slide",
@@ -26,8 +26,8 @@
     "WeaponId": 34,
     "PaintKitId": 755,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "common",
-    "Image": "set_inferno_2/weapon_mp9_hy_splatter3_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_mp9_hy_splatter3_light_png.png"
   },
   {
     "Name": "AUG | Sweeper",
@@ -36,8 +36,8 @@
     "WeaponId": 8,
     "PaintKitId": 794,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "common",
-    "Image": "set_inferno_2/weapon_aug_sp_mesh_safetyblack_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_aug_sp_mesh_safetyblack_light_png.png"
   },
   {
     "Name": "MAG-7 | Rust Coat",
@@ -46,8 +46,8 @@
     "WeaponId": 27,
     "PaintKitId": 754,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "common",
-    "Image": "set_inferno_2/weapon_mag7_aq_steel_inferno_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_mag7_aq_steel_inferno_light_png.png"
   },
   {
     "Name": "Five-SeveN | Candy Apple",
@@ -56,8 +56,8 @@
     "WeaponId": 3,
     "PaintKitId": 3,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "uncommon",
-    "Image": "set_inferno_2/weapon_fiveseven_so_red_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_fiveseven_so_red_light_png.png"
   },
   {
     "Name": "MAC-10 | Calf Skin",
@@ -66,8 +66,8 @@
     "WeaponId": 17,
     "PaintKitId": 748,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "uncommon",
-    "Image": "set_inferno_2/weapon_mac10_gs_mac10_checker_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_mac10_gs_mac10_checker_light_png.png"
   },
   {
     "Name": "R8 Revolver | Nitro",
@@ -76,8 +76,8 @@
     "WeaponId": 64,
     "PaintKitId": 798,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "uncommon",
-    "Image": "set_inferno_2/weapon_revolver_so_orange_accents3_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_revolver_so_orange_accents3_light_png.png"
   },
   {
     "Name": "Glock-18 | High Beam",
@@ -86,8 +86,8 @@
     "WeaponId": 4,
     "PaintKitId": 799,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "common",
-    "Image": "set_inferno_2/weapon_glock_aa_vertigo_blue_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_glock_aa_vertigo_blue_light_png.png"
   },
   {
     "Name": "SSG 08 | Hand Brake",
@@ -96,8 +96,8 @@
     "WeaponId": 40,
     "PaintKitId": 751,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "rare",
-    "Image": "set_inferno_2/weapon_ssg08_gs_ssg08_checker_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_ssg08_gs_ssg08_checker_light_png.png"
   },
   {
     "Name": "M4A4 | Converter",
@@ -106,8 +106,8 @@
     "WeaponId": 16,
     "PaintKitId": 793,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "uncommon",
-    "Image": "set_inferno_2/weapon_m4a1_hy_red_hex_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_m4a1_hy_red_hex_light_png.png"
   },
   {
     "Name": "USP-S | Check Engine",
@@ -116,8 +116,8 @@
     "WeaponId": 61,
     "PaintKitId": 796,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "uncommon",
-    "Image": "set_inferno_2/weapon_usp_silencer_sp_mesh_safetyred_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_usp_silencer_sp_mesh_safetyred_light_png.png"
   },
   {
     "Name": "Sawed-Off | Brake Light",
@@ -126,8 +126,8 @@
     "WeaponId": 29,
     "PaintKitId": 797,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "rare",
-    "Image": "set_inferno_2/weapon_sawedoff_aa_vertigo_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_sawedoff_aa_vertigo_red_light_png.png"
   },
   {
     "Name": "P250 | Vino Primo",
@@ -136,8 +136,8 @@
     "WeaponId": 36,
     "PaintKitId": 749,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "mythical",
-    "Image": "set_inferno_2/weapon_p250_gs_p250_checker_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_p250_gs_p250_checker_light_png.png"
   },
   {
     "Name": "MP7 | Fade",
@@ -146,8 +146,8 @@
     "WeaponId": 33,
     "PaintKitId": 752,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "mythical",
-    "Image": "set_inferno_2/weapon_mp7_aa_fade_mp7_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_mp7_aa_fade_mp7_light_png.png"
   },
   {
     "Name": "AK-47 | Safety Net",
@@ -156,8 +156,8 @@
     "WeaponId": 7,
     "PaintKitId": 795,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "rare",
-    "Image": "set_inferno_2/weapon_ak47_hy_mesh_safetyorange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_ak47_hy_mesh_safetyorange_light_png.png"
   },
   {
     "Name": "Dual Berettas | Twin Turbo",
@@ -166,8 +166,8 @@
     "WeaponId": 2,
     "PaintKitId": 747,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "legendary",
-    "Image": "set_inferno_2/weapon_elite_gs_cu_dual_elites_rally_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_elite_gs_cu_dual_elites_rally_light_png.png"
   },
   {
     "Name": "SG 553 | Integrale",
@@ -176,7 +176,7 @@
     "WeaponId": 39,
     "PaintKitId": 750,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": "legendary",
-    "Image": "set_inferno_2/weapon_sg556_cu_sg553_rally_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_sg556_cu_sg553_rally_light_png.png"
   }
 ]

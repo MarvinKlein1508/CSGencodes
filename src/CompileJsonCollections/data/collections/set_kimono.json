@@ -6,8 +6,8 @@
     "WeaponId": 26,
     "PaintKitId": 457,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "common",
-    "Image": "set_kimono/weapon_bizon_hy_bamboo_jungle_ink_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_bizon_hy_bamboo_jungle_ink_light_png.png"
   },
   {
     "Name": "Sawed-Off | Bamboo Shadow",
@@ -16,8 +16,8 @@
     "WeaponId": 29,
     "PaintKitId": 458,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "common",
-    "Image": "set_kimono/weapon_sawedoff_hy_bamboo_jungle_black_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_sawedoff_hy_bamboo_jungle_black_light_png.png"
   },
   {
     "Name": "Tec-9 | Bamboo Forest",
@@ -26,8 +26,8 @@
     "WeaponId": 30,
     "PaintKitId": 459,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "common",
-    "Image": "set_kimono/weapon_tec9_hy_bamboo_jungle_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_tec9_hy_bamboo_jungle_light_png.png"
   },
   {
     "Name": "G3SG1 | Orange Kimono",
@@ -36,8 +36,8 @@
     "WeaponId": 11,
     "PaintKitId": 465,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "common",
-    "Image": "set_kimono/weapon_g3sg1_hy_kimono_diamonds_orange_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_g3sg1_hy_kimono_diamonds_orange_light_png.png"
   },
   {
     "Name": "P250 | Mint Kimono",
@@ -46,8 +46,8 @@
     "WeaponId": 36,
     "PaintKitId": 467,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "common",
-    "Image": "set_kimono/weapon_p250_sp_kimono_diamonds_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_p250_sp_kimono_diamonds_light_png.png"
   },
   {
     "Name": "P250 | Crimson Kimono",
@@ -56,8 +56,8 @@
     "WeaponId": 36,
     "PaintKitId": 466,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "uncommon",
-    "Image": "set_kimono/weapon_p250_hy_kimono_diamonds_red_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_p250_hy_kimono_diamonds_red_light_png.png"
   },
   {
     "Name": "Desert Eagle | Midnight Storm",
@@ -66,8 +66,8 @@
     "WeaponId": 1,
     "PaintKitId": 468,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "common",
-    "Image": "set_kimono/weapon_deagle_am_seastorm_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_deagle_am_seastorm_light_png.png"
   },
   {
     "Name": "Galil AR | Aqua Terrace",
@@ -76,8 +76,8 @@
     "WeaponId": 13,
     "PaintKitId": 460,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "rare",
-    "Image": "set_kimono/weapon_galilar_am_geometric_steps_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_galilar_am_geometric_steps_light_png.png"
   },
   {
     "Name": "MAG-7 | Counter Terrace",
@@ -86,8 +86,8 @@
     "WeaponId": 27,
     "PaintKitId": 462,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "rare",
-    "Image": "set_kimono/weapon_mag7_hy_geometric_steps_green_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_mag7_hy_geometric_steps_green_light_png.png"
   },
   {
     "Name": "Tec-9 | Terrace",
@@ -96,8 +96,8 @@
     "WeaponId": 30,
     "PaintKitId": 463,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "rare",
-    "Image": "set_kimono/weapon_tec9_hy_geometric_steps_yellow_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_tec9_hy_geometric_steps_yellow_light_png.png"
   },
   {
     "Name": "Five-SeveN | Neon Kimono",
@@ -106,8 +106,8 @@
     "WeaponId": 3,
     "PaintKitId": 464,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "mythical",
-    "Image": "set_kimono/weapon_fiveseven_hy_kimono_diamonds_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_fiveseven_hy_kimono_diamonds_light_png.png"
   },
   {
     "Name": "Desert Eagle | Sunset Storm \u58F1",
@@ -116,8 +116,8 @@
     "WeaponId": 1,
     "PaintKitId": 469,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "rare",
-    "Image": "set_kimono/weapon_deagle_am_seastorm_blood_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_deagle_am_seastorm_blood_light_png.png"
   },
   {
     "Name": "Desert Eagle | Sunset Storm \u5F10",
@@ -126,8 +126,8 @@
     "WeaponId": 1,
     "PaintKitId": 470,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "rare",
-    "Image": "set_kimono/weapon_deagle_am_seastorm_shojo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_deagle_am_seastorm_shojo_light_png.png"
   },
   {
     "Name": "M4A4 | Daybreak",
@@ -136,8 +136,8 @@
     "WeaponId": 16,
     "PaintKitId": 471,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "rare",
-    "Image": "set_kimono/weapon_m4a1_am_kimono_sunrise_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_m4a1_am_kimono_sunrise_light_png.png"
   },
   {
     "Name": "AK-47 | Hydroponic",
@@ -146,8 +146,8 @@
     "WeaponId": 7,
     "PaintKitId": 456,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "mythical",
-    "Image": "set_kimono/weapon_ak47_am_bamboo_jungle_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_ak47_am_bamboo_jungle_light_png.png"
   },
   {
     "Name": "AUG | Akihabara Accept",
@@ -156,7 +156,7 @@
     "WeaponId": 8,
     "PaintKitId": 455,
     "Collection": "The Rising Sun Collection",
-    "Rarity": "ancient",
-    "Image": "set_kimono/weapon_aug_cu_anime_aug_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_kimono/weapon_aug_cu_anime_aug_light_png.png"
   }
 ]

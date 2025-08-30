@@ -6,8 +6,8 @@
     "WeaponId": 23,
     "PaintKitId": 872,
     "Collection": "The St. Marc Collection",
-    "Rarity": "common",
-    "Image": "set_stmarc/weapon_mp5sd_hy_bamboo_stmarc_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_mp5sd_hy_bamboo_stmarc_light_png.png"
   },
   {
     "Name": "MAC-10 | Surfwood",
@@ -16,8 +16,8 @@
     "WeaponId": 17,
     "PaintKitId": 871,
     "Collection": "The St. Marc Collection",
-    "Rarity": "common",
-    "Image": "set_stmarc/weapon_mac10_sp_twigs_beach_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_mac10_sp_twigs_beach_light_png.png"
   },
   {
     "Name": "PP-Bizon | Seabird",
@@ -26,8 +26,8 @@
     "WeaponId": 26,
     "PaintKitId": 873,
     "Collection": "The St. Marc Collection",
-    "Rarity": "common",
-    "Image": "set_stmarc/weapon_bizon_so_aqua_stmarc_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_bizon_so_aqua_stmarc_light_png.png"
   },
   {
     "Name": "Sawed-Off | Jungle Thicket",
@@ -36,8 +36,8 @@
     "WeaponId": 29,
     "PaintKitId": 870,
     "Collection": "The St. Marc Collection",
-    "Rarity": "common",
-    "Image": "set_stmarc/weapon_sawedoff_sp_palm_green_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_sawedoff_sp_palm_green_light_png.png"
   },
   {
     "Name": "Five-SeveN | Jungle",
@@ -46,8 +46,8 @@
     "WeaponId": 3,
     "PaintKitId": 151,
     "Collection": "The St. Marc Collection",
-    "Rarity": "common",
-    "Image": "set_stmarc/weapon_fiveseven_so_jungle_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_fiveseven_so_jungle_light_png.png"
   },
   {
     "Name": "P90 | Sunset Lily",
@@ -56,8 +56,8 @@
     "WeaponId": 19,
     "PaintKitId": 726,
     "Collection": "The St. Marc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_stmarc/weapon_p90_sp_bloom_orange_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_p90_sp_bloom_orange_light_png.png"
   },
   {
     "Name": "M4A4 | Dark Blossom",
@@ -66,8 +66,8 @@
     "WeaponId": 16,
     "PaintKitId": 730,
     "Collection": "The St. Marc Collection",
-    "Rarity": "common",
-    "Image": "set_stmarc/weapon_m4a1_sp_bud_blue_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_m4a1_sp_bud_blue_light_png.png"
   },
   {
     "Name": "XM1014 | Banana Leaf",
@@ -76,8 +76,8 @@
     "WeaponId": 25,
     "PaintKitId": 731,
     "Collection": "The St. Marc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_stmarc/weapon_xm1014_hy_leaf_green_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_xm1014_hy_leaf_green_light_png.png"
   },
   {
     "Name": "Tec-9 | Rust Leaf",
@@ -86,8 +86,8 @@
     "WeaponId": 30,
     "PaintKitId": 733,
     "Collection": "The St. Marc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_stmarc/weapon_tec9_sp_leaf_orange_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_tec9_sp_leaf_orange_light_png.png"
   },
   {
     "Name": "UMP-45 | Day Lily",
@@ -96,8 +96,8 @@
     "WeaponId": 24,
     "PaintKitId": 725,
     "Collection": "The St. Marc Collection",
-    "Rarity": "rare",
-    "Image": "set_stmarc/weapon_ump45_hy_bloom_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_ump45_hy_bloom_red_light_png.png"
   },
   {
     "Name": "Five-SeveN | Crimson Blossom",
@@ -106,8 +106,8 @@
     "WeaponId": 3,
     "PaintKitId": 729,
     "Collection": "The St. Marc Collection",
-    "Rarity": "rare",
-    "Image": "set_stmarc/weapon_fiveseven_hy_bud_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_fiveseven_hy_bud_red_light_png.png"
   },
   {
     "Name": "MP7 | Teal Blossom",
@@ -116,8 +116,8 @@
     "WeaponId": 33,
     "PaintKitId": 728,
     "Collection": "The St. Marc Collection",
-    "Rarity": "rare",
-    "Image": "set_stmarc/weapon_mp7_sp_bud_green_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_mp7_sp_bud_green_light_png.png"
   },
   {
     "Name": "FAMAS | Sundown",
@@ -126,8 +126,8 @@
     "WeaponId": 10,
     "PaintKitId": 869,
     "Collection": "The St. Marc Collection",
-    "Rarity": "rare",
-    "Image": "set_stmarc/weapon_famas_sp_palm_sunset_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_famas_sp_palm_sunset_light_png.png"
   },
   {
     "Name": "SSG 08 | Sea Calico",
@@ -136,8 +136,8 @@
     "WeaponId": 40,
     "PaintKitId": 868,
     "Collection": "The St. Marc Collection",
-    "Rarity": "mythical",
-    "Image": "set_stmarc/weapon_ssg08_hy_flowers_stmarc_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_ssg08_hy_flowers_stmarc_light_png.png"
   },
   {
     "Name": "Glock-18 | Synth Leaf",
@@ -146,8 +146,8 @@
     "WeaponId": 4,
     "PaintKitId": 732,
     "Collection": "The St. Marc Collection",
-    "Rarity": "rare",
-    "Image": "set_stmarc/weapon_glock_hy_leaf_blue_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_glock_hy_leaf_blue_light_png.png"
   },
   {
     "Name": "AUG | Midnight Lily",
@@ -156,8 +156,8 @@
     "WeaponId": 8,
     "PaintKitId": 727,
     "Collection": "The St. Marc Collection",
-    "Rarity": "mythical",
-    "Image": "set_stmarc/weapon_aug_am_bloom_blue_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_aug_am_bloom_blue_light_png.png"
   },
   {
     "Name": "MP9 | Wild Lily",
@@ -166,8 +166,8 @@
     "WeaponId": 34,
     "PaintKitId": 734,
     "Collection": "The St. Marc Collection",
-    "Rarity": "legendary",
-    "Image": "set_stmarc/weapon_mp9_cu_mp9_island_floral_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_mp9_cu_mp9_island_floral_light_png.png"
   },
   {
     "Name": "AK-47 | Wild Lotus",
@@ -176,7 +176,7 @@
     "WeaponId": 7,
     "PaintKitId": 724,
     "Collection": "The St. Marc Collection",
-    "Rarity": "legendary",
-    "Image": "set_stmarc/weapon_ak47_cu_ak_island_floral_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_ak47_cu_ak_island_floral_light_png.png"
   }
 ]

@@ -6,8 +6,8 @@
     "WeaponId": 17,
     "PaintKitId": 17,
     "Collection": "The Vertigo Collection",
-    "Rarity": "common",
-    "Image": "set_vertigo/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_mac10_hy_ddpat_urb_light_png.png"
   },
   {
     "Name": "XM1014 | Urban Perforated",
@@ -16,8 +16,8 @@
     "WeaponId": 25,
     "PaintKitId": 135,
     "Collection": "The Vertigo Collection",
-    "Rarity": "common",
-    "Image": "set_vertigo/weapon_xm1014_sp_tape_dots_urban_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_xm1014_sp_tape_dots_urban_light_png.png"
   },
   {
     "Name": "PP-Bizon | Carbon Fiber",
@@ -26,8 +26,8 @@
     "WeaponId": 26,
     "PaintKitId": 70,
     "Collection": "The Vertigo Collection",
-    "Rarity": "uncommon",
-    "Image": "set_vertigo/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_bizon_am_carbon_fiber_light_png.png"
   },
   {
     "Name": "P90 | Glacier Mesh",
@@ -36,8 +36,8 @@
     "WeaponId": 19,
     "PaintKitId": 111,
     "Collection": "The Vertigo Collection",
-    "Rarity": "rare",
-    "Image": "set_vertigo/weapon_p90_sp_mesh_glacier_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_p90_sp_mesh_glacier_light_png.png"
   },
   {
     "Name": "AK-47 | Black Laminate",
@@ -46,8 +46,8 @@
     "WeaponId": 7,
     "PaintKitId": 172,
     "Collection": "The Vertigo Collection",
-    "Rarity": "uncommon",
-    "Image": "set_vertigo/weapon_ak47_hy_ak47lam_bw_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_ak47_hy_ak47lam_bw_light_png.png"
   },
   {
     "Name": "Dual Berettas | Demolition",
@@ -56,7 +56,7 @@
     "WeaponId": 2,
     "PaintKitId": 153,
     "Collection": "The Vertigo Collection",
-    "Rarity": "mythical",
-    "Image": "set_vertigo/weapon_elite_gs_so_tangerine_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_elite_gs_so_tangerine_light_png.png"
   }
 ]

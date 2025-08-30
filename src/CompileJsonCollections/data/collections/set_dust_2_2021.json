@@ -6,8 +6,8 @@
     "WeaponId": 64,
     "PaintKitId": 924,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2_2021/weapon_revolver_hy_brush_camo_tan_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_revolver_hy_brush_camo_tan_light_png.png"
   },
   {
     "Name": "P90 | Desert DDPAT",
@@ -16,8 +16,8 @@
     "WeaponId": 19,
     "PaintKitId": 925,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2_2021/weapon_p90_hy_ddpat_desert_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_p90_hy_ddpat_desert_light_png.png"
   },
   {
     "Name": "SG 553 | Bleached",
@@ -26,8 +26,8 @@
     "WeaponId": 39,
     "PaintKitId": 934,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2_2021/weapon_sg556_sp_desert_skulls_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_sg556_sp_desert_skulls_light_png.png"
   },
   {
     "Name": "MP7 | Prey",
@@ -36,8 +36,8 @@
     "WeaponId": 33,
     "PaintKitId": 935,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2_2021/weapon_mp7_sp_zebracam_red_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_mp7_sp_zebracam_red_light_png.png"
   },
   {
     "Name": "Sawed-Off | Parched",
@@ -46,8 +46,8 @@
     "WeaponId": 29,
     "PaintKitId": 880,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2_2021/weapon_sawedoff_hy_desert_bloom_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_sawedoff_hy_desert_bloom_light_png.png"
   },
   {
     "Name": "AUG | Spalted Wood",
@@ -56,8 +56,8 @@
     "WeaponId": 8,
     "PaintKitId": 927,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2_2021/weapon_aug_hy_dry_wood_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_aug_hy_dry_wood_light_png.png"
   },
   {
     "Name": "MP9 | Old Roots",
@@ -66,8 +66,8 @@
     "WeaponId": 34,
     "PaintKitId": 931,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2_2021/weapon_mp9_sp_moro_carving_yellow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_mp9_sp_moro_carving_yellow_light_png.png"
   },
   {
     "Name": "Five-SeveN | Withered Vine",
@@ -76,8 +76,8 @@
     "WeaponId": 3,
     "PaintKitId": 932,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2_2021/weapon_fiveseven_sp_moro_textile_purple_yellow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_fiveseven_sp_moro_textile_purple_yellow_light_png.png"
   },
   {
     "Name": "M249 | Midnight Palm",
@@ -86,8 +86,8 @@
     "WeaponId": 14,
     "PaintKitId": 933,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2_2021/weapon_m249_sp_palm_night_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_m249_sp_palm_night_light_png.png"
   },
   {
     "Name": "P250 | Black \u0026 Tan",
@@ -96,8 +96,8 @@
     "WeaponId": 36,
     "PaintKitId": 928,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2_2021/weapon_p250_hy_desert_multicam_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_p250_hy_desert_multicam_light_png.png"
   },
   {
     "Name": "Nova | Quick Sand",
@@ -106,8 +106,8 @@
     "WeaponId": 35,
     "PaintKitId": 929,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2_2021/weapon_nova_hy_torn_camo_paints_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_nova_hy_torn_camo_paints_light_png.png"
   },
   {
     "Name": "G3SG1 | New Roots",
@@ -116,8 +116,8 @@
     "WeaponId": 11,
     "PaintKitId": 930,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2_2021/weapon_g3sg1_sp_moro_carving_lightblue_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_g3sg1_sp_moro_carving_lightblue_light_png.png"
   },
   {
     "Name": "P2000 | Amber Fade",
@@ -126,8 +126,8 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "USP-S | Orange Anolis",
@@ -136,8 +136,8 @@
     "WeaponId": 61,
     "PaintKitId": 922,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2_2021/weapon_usp_silencer_am_lizard_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_usp_silencer_am_lizard_red_light_png.png"
   },
   {
     "Name": "M4A4 | Red DDPAT",
@@ -146,8 +146,8 @@
     "WeaponId": 16,
     "PaintKitId": 926,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2_2021/weapon_m4a1_hy_ddpat_urban_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_m4a1_hy_ddpat_urban_red_light_png.png"
   },
   {
     "Name": "AK-47 | Case Hardened",
@@ -156,8 +156,8 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_dust_2_2021/weapon_ak47_aq_oiled_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_aq_oiled_light_png.png"
   },
   {
     "Name": "UMP-45 | Fade",
@@ -166,8 +166,8 @@
     "WeaponId": 24,
     "PaintKitId": 879,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_dust_2_2021/weapon_ump45_aa_fade_ump_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ump45_aa_fade_ump_light_png.png"
   },
   {
     "Name": "SSG 08 | Death Strike",
@@ -176,8 +176,8 @@
     "WeaponId": 40,
     "PaintKitId": 1052,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_dust_2_2021/weapon_ssg08_cu_ssg08_scorpion_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ssg08_cu_ssg08_scorpion_light_png.png"
   },
   {
     "Name": "AK-47 | Gold Arabesque",
@@ -186,7 +186,7 @@
     "WeaponId": 7,
     "PaintKitId": 921,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_dust_2_2021/weapon_ak47_gs_ak47_gold_arabesque_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_gs_ak47_gold_arabesque_light_png.png"
   }
 ]

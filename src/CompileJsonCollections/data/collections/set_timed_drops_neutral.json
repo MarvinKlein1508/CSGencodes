@@ -6,8 +6,8 @@
     "WeaponId": 11,
     "PaintKitId": 1305,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_g3sg1_sp_khaki_camo_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_g3sg1_sp_khaki_camo_light_png.png"
   },
   {
     "Name": "M249 | Sage Camo",
@@ -16,8 +16,8 @@
     "WeaponId": 14,
     "PaintKitId": 1298,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_m249_hyo_jungle_desat_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_m249_hyo_jungle_desat_light_png.png"
   },
   {
     "Name": "Zeus | Swamp DDPAT",
@@ -26,8 +26,8 @@
     "WeaponId": 31,
     "PaintKitId": 1297,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_taser_hy_digicam_forest_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_taser_hy_digicam_forest_light_png.png"
   },
   {
     "Name": "AUG | Commando Company",
@@ -36,8 +36,8 @@
     "WeaponId": 8,
     "PaintKitId": 1308,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_aug_hy_flecktarn_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_aug_hy_flecktarn_light_png.png"
   },
   {
     "Name": "FAMAS | Palm",
@@ -46,8 +46,8 @@
     "WeaponId": 10,
     "PaintKitId": 1302,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_famas_spo_palm_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_famas_spo_palm_light_png.png"
   },
   {
     "Name": "SSG 08 | Green Ceramic",
@@ -56,8 +56,8 @@
     "WeaponId": 40,
     "PaintKitId": 1304,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_ssg08_so_ceramic_green_ssg08_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ssg08_so_ceramic_green_ssg08_light_png.png"
   },
   {
     "Name": "MP9 | Pine",
@@ -66,8 +66,8 @@
     "WeaponId": 34,
     "PaintKitId": 1301,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_mp9_soe_alpine_green_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_mp9_soe_alpine_green_light_png.png"
   },
   {
     "Name": "Tec-9 | Raw Ceramic",
@@ -76,8 +76,8 @@
     "WeaponId": 30,
     "PaintKitId": 1299,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_tec9_so_ceramic_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_tec9_so_ceramic_light_png.png"
   },
   {
     "Name": "Negev | Raw Ceramic",
@@ -86,8 +86,8 @@
     "WeaponId": 28,
     "PaintKitId": 1300,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_negev_so_ceramic_negev_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_negev_so_ceramic_negev_light_png.png"
   },
   {
     "Name": "MAG-7 | Copper Oxide",
@@ -96,8 +96,8 @@
     "WeaponId": 27,
     "PaintKitId": 1306,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_mag7_so_greyblue_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_mag7_so_greyblue_light_png.png"
   },
   {
     "Name": "P250 | Copper Oxide",
@@ -106,8 +106,8 @@
     "WeaponId": 36,
     "PaintKitId": 1307,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_p250_so_greyblue_p250_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_p250_so_greyblue_p250_light_png.png"
   },
   {
     "Name": "UMP-45 | Green Swirl",
@@ -116,8 +116,8 @@
     "WeaponId": 24,
     "PaintKitId": 1303,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_ump45_soch_hueshift_desat_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ump45_soch_hueshift_desat_light_png.png"
   },
   {
     "Name": "Dual Berettas | Polished Malachite",
@@ -126,8 +126,8 @@
     "WeaponId": 2,
     "PaintKitId": 1290,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_elite_gs_soch_marble_grips_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_elite_gs_soch_marble_grips_light_png.png"
   },
   {
     "Name": "R8 Revolver | Leafhopper",
@@ -136,8 +136,8 @@
     "WeaponId": 64,
     "PaintKitId": 1293,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_revolver_aq_titanium_acid_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_revolver_aq_titanium_acid_light_png.png"
   },
   {
     "Name": "MAC-10 | Acid Hex",
@@ -146,8 +146,8 @@
     "WeaponId": 17,
     "PaintKitId": 1295,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_mac10_hye_green_camo_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_mac10_hye_green_camo_light_png.png"
   },
   {
     "Name": "SSG 08 | Tiger Tear",
@@ -156,8 +156,8 @@
     "WeaponId": 40,
     "PaintKitId": 1289,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_ssg08_hye_tiger2_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ssg08_hye_tiger2_light_png.png"
   },
   {
     "Name": "Galil AR | Acid Dart",
@@ -166,8 +166,8 @@
     "WeaponId": 13,
     "PaintKitId": 1296,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_galilar_hye_yellow_usaf_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_galilar_hye_yellow_usaf_light_png.png"
   },
   {
     "Name": "P90 | Mustard Gas",
@@ -176,8 +176,8 @@
     "WeaponId": 19,
     "PaintKitId": 1291,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_p90_hye_zoom_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_p90_hye_zoom_light_png.png"
   },
   {
     "Name": "AK-47 | VariCamo Grey",
@@ -186,8 +186,8 @@
     "WeaponId": 7,
     "PaintKitId": 1288,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_ak47_soe_varicamo_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ak47_soe_varicamo_light_png.png"
   },
   {
     "Name": "P2000 | Marsh",
@@ -196,8 +196,8 @@
     "WeaponId": 32,
     "PaintKitId": 1292,
     "Collection": "The Boreal Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_neutral/weapon_hkp2000_soe_teal_glitter_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_hkp2000_soe_teal_glitter_light_png.png"
   },
   {
     "Name": "Tec-9 | Garter-9",
@@ -206,8 +206,8 @@
     "WeaponId": 30,
     "PaintKitId": 1286,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_tec9_soe_snakeskin_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_tec9_soe_snakeskin_light_png.png"
   },
   {
     "Name": "MP5-SD | Gold Leaf",
@@ -216,8 +216,8 @@
     "WeaponId": 23,
     "PaintKitId": 1294,
     "Collection": "The Boreal Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_neutral/weapon_mp5sd_hye_gold_camo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_mp5sd_hye_gold_camo_light_png.png"
   },
   {
     "Name": "MAC-10 | Poplar Thicket",
@@ -226,8 +226,8 @@
     "WeaponId": 17,
     "PaintKitId": 1285,
     "Collection": "The Boreal Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_neutral/weapon_mac10_hye_green_forest_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_mac10_hye_green_forest_light_png.png"
   },
   {
     "Name": "XM1014 | Copperflage",
@@ -236,8 +236,8 @@
     "WeaponId": 25,
     "PaintKitId": 1287,
     "Collection": "The Boreal Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_neutral/weapon_xm1014_ht_copper_edges_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_xm1014_ht_copper_edges_light_png.png"
   },
   {
     "Name": "USP-S | Tropical Breeze",
@@ -246,8 +246,8 @@
     "WeaponId": 61,
     "PaintKitId": 1284,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_usp_silencer_soe_tropical_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_usp_silencer_soe_tropical_light_png.png"
   },
   {
     "Name": "AK-47 | Wintergreen",
@@ -256,8 +256,8 @@
     "WeaponId": 7,
     "PaintKitId": 1283,
     "Collection": "The Boreal Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_neutral/weapon_ak47_soe_metallic_green_2_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ak47_soe_metallic_green_2_light_png.png"
   },
   {
     "Name": "M4A4 | Sheet Lightning",
@@ -266,8 +266,8 @@
     "WeaponId": 16,
     "PaintKitId": 1281,
     "Collection": "The Boreal Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_neutral/weapon_m4a1_spe_lightning_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_m4a1_spe_lightning_light_png.png"
   },
   {
     "Name": "Glock-18 | Glockingbird",
@@ -276,8 +276,8 @@
     "WeaponId": 4,
     "PaintKitId": 1282,
     "Collection": "The Boreal Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_neutral/weapon_glock_spe_missile_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_glock_spe_missile_light_png.png"
   },
   {
     "Name": "AWP | Green Energy",
@@ -286,7 +286,7 @@
     "WeaponId": 9,
     "PaintKitId": 1280,
     "Collection": "The Boreal Collection",
-    "Rarity": "mythical",
-    "Image": "set_timed_drops_neutral/weapon_awp_cue_jump_line_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_awp_cue_jump_line_light_png.png"
   }
 ]

@@ -6,8 +6,8 @@
     "WeaponId": 2,
     "PaintKitId": 544,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_12/weapon_elite_gs_gs_dualberettas_ventilators_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_elite_gs_gs_dualberettas_ventilators_light_png.png"
   },
   {
     "Name": "G3SG1 | Orange Crash",
@@ -16,8 +16,8 @@
     "WeaponId": 11,
     "PaintKitId": 545,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_12/weapon_g3sg1_sp_g3sg1_militiaorange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_g3sg1_sp_g3sg1_militiaorange_light_png.png"
   },
   {
     "Name": "M249 | Spectre",
@@ -26,8 +26,8 @@
     "WeaponId": 14,
     "PaintKitId": 547,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_12/weapon_m249_cu_m249_spectre_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_m249_cu_m249_spectre_light_png.png"
   },
   {
     "Name": "MP9 | Bioleak",
@@ -36,8 +36,8 @@
     "WeaponId": 34,
     "PaintKitId": 549,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_12/weapon_mp9_am_mp9_bioleak_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_mp9_am_mp9_bioleak_light_png.png"
   },
   {
     "Name": "P2000 | Oceanic",
@@ -46,8 +46,8 @@
     "WeaponId": 32,
     "PaintKitId": 550,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_12/weapon_hkp2000_hy_p2000_oceani_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_hkp2000_hy_p2000_oceani_light_png.png"
   },
   {
     "Name": "Sawed-Off | Fubar",
@@ -56,8 +56,8 @@
     "WeaponId": 29,
     "PaintKitId": 552,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_12/weapon_sawedoff_gs_sawedoff_fubar_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_sawedoff_gs_sawedoff_fubar_light_png.png"
   },
   {
     "Name": "SG 553 | Atlas",
@@ -66,8 +66,8 @@
     "WeaponId": 39,
     "PaintKitId": 553,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_12/weapon_sg556_cu_sg553_atlas_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_sg556_cu_sg553_atlas_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Red Astor",
@@ -76,8 +76,8 @@
     "WeaponId": 63,
     "PaintKitId": 543,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_12/weapon_cz75a_gs_cz75a_redastor_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_cz75a_gs_cz75a_redastor_light_png.png"
   },
   {
     "Name": "Galil AR | Firefight",
@@ -86,8 +86,8 @@
     "WeaponId": 13,
     "PaintKitId": 546,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_12/weapon_galilar_gs_galilar_incenerator_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_galilar_gs_galilar_incenerator_light_png.png"
   },
   {
     "Name": "SSG 08 | Ghost Crusader",
@@ -96,8 +96,8 @@
     "WeaponId": 40,
     "PaintKitId": 554,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_12/weapon_ssg08_gs_ssg08_armacore_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_ssg08_gs_ssg08_armacore_light_png.png"
   },
   {
     "Name": "Tec-9 | Re-Entry",
@@ -106,8 +106,8 @@
     "WeaponId": 30,
     "PaintKitId": 555,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_12/weapon_tec9_am_tec9_redblast_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_tec9_am_tec9_redblast_light_png.png"
   },
   {
     "Name": "XM1014 | Black Tie",
@@ -116,8 +116,8 @@
     "WeaponId": 25,
     "PaintKitId": 557,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_12/weapon_xm1014_cu_xm1014_spectrum_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_xm1014_cu_xm1014_spectrum_light_png.png"
   },
   {
     "Name": "AUG | Fleet Flock",
@@ -126,8 +126,8 @@
     "WeaponId": 8,
     "PaintKitId": 541,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_12/weapon_aug_cu_aug_swallows_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_aug_cu_aug_swallows_light_png.png"
   },
   {
     "Name": "P250 | Asiimov",
@@ -136,8 +136,8 @@
     "WeaponId": 36,
     "PaintKitId": 551,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_12/weapon_p250_cu_p250_asiimov_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_p250_cu_p250_asiimov_light_png.png"
   },
   {
     "Name": "UMP-45 | Primal Saber",
@@ -146,8 +146,8 @@
     "WeaponId": 24,
     "PaintKitId": 556,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_12/weapon_ump45_cu_ump45_primalsaber_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_ump45_cu_ump45_primalsaber_light_png.png"
   },
   {
     "Name": "PP-Bizon | Judgement of Anubis",
@@ -156,8 +156,8 @@
     "WeaponId": 26,
     "PaintKitId": 542,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_12/weapon_bizon_cu_bizon_Curse_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_bizon_cu_bizon_Curse_light_png.png"
   },
   {
     "Name": "M4A1-S | Chantico\u0027s Fire",
@@ -166,7 +166,7 @@
     "WeaponId": 60,
     "PaintKitId": 548,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_12/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_png.png"
   }
 ]

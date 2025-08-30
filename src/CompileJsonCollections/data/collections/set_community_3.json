@@ -6,8 +6,8 @@
     "WeaponId": 30,
     "PaintKitId": 303,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_tec9_cu_tec9_asiimov_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_tec9_cu_tec9_asiimov_light_png.png"
   },
   {
     "Name": "SSG 08 | Slashed",
@@ -16,8 +16,8 @@
     "WeaponId": 40,
     "PaintKitId": 304,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_ssg08_cu_ssg08_immortal_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_ssg08_cu_ssg08_immortal_light_png.png"
   },
   {
     "Name": "Dual Berettas | Retribution",
@@ -26,8 +26,8 @@
     "WeaponId": 2,
     "PaintKitId": 307,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_elite_gs_cu_retribution_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_elite_gs_cu_retribution_light_png.png"
   },
   {
     "Name": "Galil AR | Kami",
@@ -36,8 +36,8 @@
     "WeaponId": 13,
     "PaintKitId": 308,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_galilar_hy_galil_kami_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_galilar_hy_galil_kami_light_png.png"
   },
   {
     "Name": "P90 | Desert Warfare",
@@ -46,8 +46,8 @@
     "WeaponId": 19,
     "PaintKitId": 311,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_p90_cu_p90_scorpius_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_p90_cu_p90_scorpius_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Poison Dart",
@@ -56,8 +56,8 @@
     "WeaponId": 63,
     "PaintKitId": 315,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_cz75a_am_nitrogen_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_cz75a_am_nitrogen_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Twist",
@@ -66,8 +66,8 @@
     "WeaponId": 63,
     "PaintKitId": 334,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_cz75a_am_gyrate_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_cz75a_am_gyrate_light_png.png"
   },
   {
     "Name": "P90 | Module",
@@ -76,8 +76,8 @@
     "WeaponId": 19,
     "PaintKitId": 335,
     "Collection": "The Huntsman Collection",
-    "Rarity": "rare",
-    "Image": "set_community_3/weapon_p90_an_royalbleed_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_p90_an_royalbleed_light_png.png"
   },
   {
     "Name": "P2000 | Pulse",
@@ -86,8 +86,8 @@
     "WeaponId": 32,
     "PaintKitId": 338,
     "Collection": "The Huntsman Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_3/weapon_hkp2000_cu_p2000_pulse_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_hkp2000_cu_p2000_pulse_light_png.png"
   },
   {
     "Name": "AUG | Torque",
@@ -96,8 +96,8 @@
     "WeaponId": 8,
     "PaintKitId": 305,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_aug_cu_aug_progressiv_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_aug_cu_aug_progressiv_light_png.png"
   },
   {
     "Name": "PP-Bizon | Antique",
@@ -106,8 +106,8 @@
     "WeaponId": 26,
     "PaintKitId": 306,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_bizon_cu_bizon_antique_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_bizon_cu_bizon_antique_light_png.png"
   },
   {
     "Name": "MAC-10 | Curse",
@@ -116,8 +116,8 @@
     "WeaponId": 17,
     "PaintKitId": 310,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_mac10_cu_mac10_decay_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_mac10_cu_mac10_decay_light_png.png"
   },
   {
     "Name": "XM1014 | Heaven Guard",
@@ -126,8 +126,8 @@
     "WeaponId": 25,
     "PaintKitId": 314,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_xm1014_cu_xm1014_heaven_guard_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_xm1014_cu_xm1014_heaven_guard_light_png.png"
   },
   {
     "Name": "MAC-10 | Tatter",
@@ -136,8 +136,8 @@
     "WeaponId": 17,
     "PaintKitId": 337,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_mac10_cu_korupt_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_mac10_cu_korupt_light_png.png"
   },
   {
     "Name": "M4A1-S | Atomic Alloy",
@@ -146,8 +146,8 @@
     "WeaponId": 60,
     "PaintKitId": 301,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_m4a1_silencer_am_m4a1-s_alloy_orange_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_m4a1_silencer_am_m4a1-s_alloy_orange_light_png.png"
   },
   {
     "Name": "SCAR-20 | Cyrex",
@@ -156,8 +156,8 @@
     "WeaponId": 38,
     "PaintKitId": 312,
     "Collection": "The Huntsman Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_3/weapon_scar20_cu_scar_cyrex_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_scar20_cu_scar_cyrex_light_png.png"
   },
   {
     "Name": "USP-S | Orion",
@@ -166,8 +166,8 @@
     "WeaponId": 61,
     "PaintKitId": 313,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_usp_silencer_cu_usp_spitfire_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_usp_silencer_cu_usp_spitfire_light_png.png"
   },
   {
     "Name": "USP-S | Caiman",
@@ -176,8 +176,8 @@
     "WeaponId": 61,
     "PaintKitId": 339,
     "Collection": "The Huntsman Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_3/weapon_usp_silencer_cu_kaiman_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_usp_silencer_cu_kaiman_light_png.png"
   },
   {
     "Name": "AK-47 | Vulcan",
@@ -186,8 +186,8 @@
     "WeaponId": 7,
     "PaintKitId": 302,
     "Collection": "The Huntsman Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_3/weapon_ak47_cu_ak47_rubber_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_ak47_cu_ak47_rubber_light_png.png"
   },
   {
     "Name": "M4A4 | Desert-Strike",
@@ -196,8 +196,8 @@
     "WeaponId": 16,
     "PaintKitId": 336,
     "Collection": "The Huntsman Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_3/weapon_m4a1_cu_titanstorm_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_m4a1_cu_titanstorm_light_png.png"
   },
   {
     "Name": "M4A4 | Howl",
@@ -206,7 +206,7 @@
     "WeaponId": 16,
     "PaintKitId": 309,
     "Collection": "The Huntsman Collection",
-    "Rarity": "Contraband",
-    "Image": "set_community_3/weapon_m4a1_cu_m4a1_howling_light_png.png"
+    "Rarity": 7,
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_m4a1_cu_m4a1_howling_light_png.png"
   }
 ]

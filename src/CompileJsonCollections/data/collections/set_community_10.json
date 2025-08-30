@@ -6,8 +6,8 @@
     "WeaponId": 63,
     "PaintKitId": 12,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "rare",
-    "Image": "set_community_10/weapon_cz75a_hy_webs_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_cz75a_hy_webs_light_png.png"
   },
   {
     "Name": "AUG | Ricochet",
@@ -16,8 +16,8 @@
     "WeaponId": 8,
     "PaintKitId": 507,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "rare",
-    "Image": "set_community_10/weapon_aug_am_aug_jumble_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_aug_am_aug_jumble_light_png.png"
   },
   {
     "Name": "Desert Eagle | Corinthian",
@@ -26,8 +26,8 @@
     "WeaponId": 1,
     "PaintKitId": 509,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_10/weapon_deagle_aq_deagle_corinthian_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_deagle_aq_deagle_corinthian_light_png.png"
   },
   {
     "Name": "P2000 | Imperial",
@@ -36,8 +36,8 @@
     "WeaponId": 32,
     "PaintKitId": 515,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_10/weapon_hkp2000_am_p2000_imperial_red_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_hkp2000_am_p2000_imperial_red_light_png.png"
   },
   {
     "Name": "Sawed-Off | Yorick",
@@ -46,8 +46,8 @@
     "WeaponId": 29,
     "PaintKitId": 517,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "rare",
-    "Image": "set_community_10/weapon_sawedoff_gs_sawedoff_necromancer_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_sawedoff_gs_sawedoff_necromancer_light_png.png"
   },
   {
     "Name": "SCAR-20 | Outbreak",
@@ -56,8 +56,8 @@
     "WeaponId": 38,
     "PaintKitId": 518,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "rare",
-    "Image": "set_community_10/weapon_scar20_hy_scar20_jungler_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_scar20_hy_scar20_jungler_light_png.png"
   },
   {
     "Name": "PP-Bizon | Fuel Rod",
@@ -66,8 +66,8 @@
     "WeaponId": 26,
     "PaintKitId": 508,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_bizon_cu_bizon_noxious_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_bizon_cu_bizon_noxious_light_png.png"
   },
   {
     "Name": "Five-SeveN | Retrobution",
@@ -76,8 +76,8 @@
     "WeaponId": 3,
     "PaintKitId": 510,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_fiveseven_cu_fiveseven_retrobution_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_fiveseven_cu_fiveseven_retrobution_light_png.png"
   },
   {
     "Name": "Negev | Power Loader",
@@ -86,8 +86,8 @@
     "WeaponId": 28,
     "PaintKitId": 514,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_negev_cu_negev_impact_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_negev_cu_negev_impact_light_png.png"
   },
   {
     "Name": "SG 553 | Tiger Moth",
@@ -96,8 +96,8 @@
     "WeaponId": 39,
     "PaintKitId": 519,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_sg556_gs_sg553_tiger_moth_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_sg556_gs_sg553_tiger_moth_light_png.png"
   },
   {
     "Name": "Tec-9 | Avalanche",
@@ -106,8 +106,8 @@
     "WeaponId": 30,
     "PaintKitId": 520,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_tec9_cu_tec9_avalanche_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_tec9_cu_tec9_avalanche_light_png.png"
   },
   {
     "Name": "XM1014 | Teclu Burner",
@@ -116,8 +116,8 @@
     "WeaponId": 25,
     "PaintKitId": 521,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_xm1014_aq_xm1014_hot_rod_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_xm1014_aq_xm1014_hot_rod_light_png.png"
   },
   {
     "Name": "AK-47 | Point Disarray",
@@ -126,8 +126,8 @@
     "WeaponId": 7,
     "PaintKitId": 506,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_10/weapon_ak47_cu_ak47_point_disarray_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_ak47_cu_ak47_point_disarray_light_png.png"
   },
   {
     "Name": "G3SG1 | The Executioner",
@@ -136,8 +136,8 @@
     "WeaponId": 11,
     "PaintKitId": 511,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_10/weapon_g3sg1_cu_g3sg1_executioner_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_g3sg1_cu_g3sg1_executioner_light_png.png"
   },
   {
     "Name": "P90 | Shapewood",
@@ -146,8 +146,8 @@
     "WeaponId": 19,
     "PaintKitId": 516,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_10/weapon_p90_cu_p90_shapewood_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_p90_cu_p90_shapewood_light_png.png"
   },
   {
     "Name": "M4A4 | Royal Paladin",
@@ -156,8 +156,8 @@
     "WeaponId": 16,
     "PaintKitId": 512,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_10/weapon_m4a1_gs_m4a4_royal_squire_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_m4a1_gs_m4a4_royal_squire_light_png.png"
   },
   {
     "Name": "R8 Revolver | Fade",
@@ -166,7 +166,7 @@
     "WeaponId": 64,
     "PaintKitId": 522,
     "Collection": "The Revolver Case Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_10/weapon_revolver_aa_fade_revolver_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_revolver_aa_fade_revolver_light_png.png"
   }
 ]

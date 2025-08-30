@@ -6,8 +6,8 @@
     "WeaponId": 16,
     "PaintKitId": 1210,
     "Collection": "The Fever Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_35/weapon_m4a1_m4a4_green_camo_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_m4a1_m4a4_green_camo_light_png.png"
   },
   {
     "Name": "MAG-7 | Resupply",
@@ -16,8 +16,8 @@
     "WeaponId": 27,
     "PaintKitId": 1188,
     "Collection": "The Fever Collection",
-    "Rarity": "rare",
-    "Image": "set_community_35/weapon_mag7_mag7_ammo_box_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_mag7_mag7_ammo_box_light_png.png"
   },
   {
     "Name": "SSG 08 | Memorial",
@@ -26,8 +26,8 @@
     "WeaponId": 40,
     "PaintKitId": 1187,
     "Collection": "The Fever Collection",
-    "Rarity": "rare",
-    "Image": "set_community_35/weapon_ssg08_ssg08_brutalist_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_ssg08_ssg08_brutalist_light_png.png"
   },
   {
     "Name": "P2000 | Sure Grip",
@@ -36,8 +36,8 @@
     "WeaponId": 32,
     "PaintKitId": 1181,
     "Collection": "The Fever Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_35/weapon_hkp2000_p2k_fractal_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_hkp2000_p2k_fractal_light_png.png"
   },
   {
     "Name": "USP-S | PC-GRN",
@@ -46,8 +46,8 @@
     "WeaponId": 61,
     "PaintKitId": 1186,
     "Collection": "The Fever Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_35/weapon_usp_silencer_usps_bruteforce_green_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_usp_silencer_usps_bruteforce_green_light_png.png"
   },
   {
     "Name": "MP9 | Nexus",
@@ -56,8 +56,8 @@
     "WeaponId": 34,
     "PaintKitId": 1193,
     "Collection": "The Fever Collection",
-    "Rarity": "rare",
-    "Image": "set_community_35/weapon_mp9_mp9_nexus_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_mp9_mp9_nexus_light_png.png"
   },
   {
     "Name": "XM1014 | Mockingbird",
@@ -66,8 +66,8 @@
     "WeaponId": 25,
     "PaintKitId": 1182,
     "Collection": "The Fever Collection",
-    "Rarity": "rare",
-    "Image": "set_community_35/weapon_xm1014_xm1014_mockingbird_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_xm1014_xm1014_mockingbird_light_png.png"
   },
   {
     "Name": "Desert Eagle | Serpent Strike",
@@ -76,8 +76,8 @@
     "WeaponId": 1,
     "PaintKitId": 1189,
     "Collection": "The Fever Collection",
-    "Rarity": "rare",
-    "Image": "set_community_35/weapon_deagle_deagle_snake_pattern_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_deagle_deagle_snake_pattern_light_png.png"
   },
   {
     "Name": "Zeus | Tosai",
@@ -86,8 +86,8 @@
     "WeaponId": 31,
     "PaintKitId": 1183,
     "Collection": "The Fever Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_35/weapon_taser_zeus_tosai_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_taser_zeus_tosai_light_png.png"
   },
   {
     "Name": "Nova | Rising Sun",
@@ -96,8 +96,8 @@
     "WeaponId": 35,
     "PaintKitId": 1192,
     "Collection": "The Fever Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_35/weapon_nova_nova_rising_sun_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_nova_nova_rising_sun_light_png.png"
   },
   {
     "Name": "Galil AR | Control",
@@ -106,8 +106,8 @@
     "WeaponId": 13,
     "PaintKitId": 1185,
     "Collection": "The Fever Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_35/weapon_galilar_galil_control_strike_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_galilar_galil_control_strike_light_png.png"
   },
   {
     "Name": "P90 | Wave Breaker",
@@ -116,8 +116,8 @@
     "WeaponId": 19,
     "PaintKitId": 1190,
     "Collection": "The Fever Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_35/weapon_p90_p90_boost_blue_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_p90_p90_boost_blue_light_png.png"
   },
   {
     "Name": "AK-47 | Searing Rage",
@@ -126,8 +126,8 @@
     "WeaponId": 7,
     "PaintKitId": 1207,
     "Collection": "The Fever Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_35/weapon_ak47_ak47_explosive_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_ak47_ak47_explosive_light_png.png"
   },
   {
     "Name": "Glock-18 | Shinobu",
@@ -136,8 +136,8 @@
     "WeaponId": 4,
     "PaintKitId": 1208,
     "Collection": "The Fever Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_35/weapon_glock_glock_shinobu_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_glock_glock_shinobu_light_png.png"
   },
   {
     "Name": "UMP-45 | K.O. Factory",
@@ -146,8 +146,8 @@
     "WeaponId": 24,
     "PaintKitId": 1194,
     "Collection": "The Fever Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_35/weapon_ump45_ump45_old_cartoon_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_ump45_ump45_old_cartoon_light_png.png"
   },
   {
     "Name": "FAMAS | Bad Trip",
@@ -156,8 +156,8 @@
     "WeaponId": 10,
     "PaintKitId": 1184,
     "Collection": "The Fever Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_35/weapon_famas_famas_badtrip_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_famas_famas_badtrip_light_png.png"
   },
   {
     "Name": "AWP | Printstream",
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 1206,
     "Collection": "The Fever Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_35/weapon_awp_awp_printstream_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_35/weapon_awp_awp_printstream_light_png.png"
   }
 ]

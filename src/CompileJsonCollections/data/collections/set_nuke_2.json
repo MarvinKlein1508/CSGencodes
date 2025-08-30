@@ -6,8 +6,8 @@
     "WeaponId": 26,
     "PaintKitId": 775,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "common",
-    "Image": "set_nuke_2/weapon_bizon_hy_blueprint_white_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_bizon_hy_blueprint_white_light_png.png"
   },
   {
     "Name": "P250 | Facility Draft",
@@ -16,8 +16,8 @@
     "WeaponId": 36,
     "PaintKitId": 777,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "common",
-    "Image": "set_nuke_2/weapon_p250_hy_blueprint_red_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_p250_hy_blueprint_red_light_png.png"
   },
   {
     "Name": "UMP-45 | Facility Dark",
@@ -26,8 +26,8 @@
     "WeaponId": 24,
     "PaintKitId": 778,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "common",
-    "Image": "set_nuke_2/weapon_ump45_hy_blueprint_bluered_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_ump45_hy_blueprint_bluered_light_png.png"
   },
   {
     "Name": "Five-SeveN | Coolant",
@@ -36,8 +36,8 @@
     "WeaponId": 3,
     "PaintKitId": 784,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "common",
-    "Image": "set_nuke_2/weapon_fiveseven_hy_ducts_green_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_fiveseven_hy_ducts_green_light_png.png"
   },
   {
     "Name": "Nova | Mandrel",
@@ -46,8 +46,8 @@
     "WeaponId": 35,
     "PaintKitId": 785,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "common",
-    "Image": "set_nuke_2/weapon_nova_hy_ducts_grey_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_nova_hy_ducts_grey_light_png.png"
   },
   {
     "Name": "M4A4 | Mainframe",
@@ -56,8 +56,8 @@
     "WeaponId": 16,
     "PaintKitId": 780,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "common",
-    "Image": "set_nuke_2/weapon_m4a1_am_circuitboard_silver_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_m4a1_am_circuitboard_silver_light_png.png"
   },
   {
     "Name": "MP7 | Motherboard",
@@ -66,8 +66,8 @@
     "WeaponId": 33,
     "PaintKitId": 782,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "uncommon",
-    "Image": "set_nuke_2/weapon_mp7_am_circuitboard_green_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_mp7_am_circuitboard_green_light_png.png"
   },
   {
     "Name": "Negev | Bulkhead",
@@ -76,8 +76,8 @@
     "WeaponId": 28,
     "PaintKitId": 783,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "uncommon",
-    "Image": "set_nuke_2/weapon_negev_hy_ducts_yellow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_negev_hy_ducts_yellow_light_png.png"
   },
   {
     "Name": "Galil AR | Cold Fusion",
@@ -86,8 +86,8 @@
     "WeaponId": 13,
     "PaintKitId": 790,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "uncommon",
-    "Image": "set_nuke_2/weapon_galilar_hy_nuclear_skulls_aqua_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_galilar_hy_nuclear_skulls_aqua_light_png.png"
   },
   {
     "Name": "P90 | Facility Negative",
@@ -96,8 +96,8 @@
     "WeaponId": 19,
     "PaintKitId": 776,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "rare",
-    "Image": "set_nuke_2/weapon_p90_hy_blueprint_aqua_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_p90_hy_blueprint_aqua_light_png.png"
   },
   {
     "Name": "MP5-SD | Co-Processor",
@@ -106,8 +106,8 @@
     "WeaponId": 23,
     "PaintKitId": 781,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "rare",
-    "Image": "set_nuke_2/weapon_mp5sd_am_circuitboard_aqua_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_mp5sd_am_circuitboard_aqua_light_png.png"
   },
   {
     "Name": "P250 | Exchanger",
@@ -116,8 +116,8 @@
     "WeaponId": 36,
     "PaintKitId": 786,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "rare",
-    "Image": "set_nuke_2/weapon_p250_hy_ducts_blue_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_p250_hy_ducts_blue_light_png.png"
   },
   {
     "Name": "AWP | Acheron",
@@ -126,8 +126,8 @@
     "WeaponId": 9,
     "PaintKitId": 788,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "uncommon",
-    "Image": "set_nuke_2/weapon_awp_hy_nuclear_skulls_redblue_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_awp_hy_nuclear_skulls_redblue_light_png.png"
   },
   {
     "Name": "AUG | Random Access",
@@ -136,8 +136,8 @@
     "WeaponId": 8,
     "PaintKitId": 779,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "mythical",
-    "Image": "set_nuke_2/weapon_aug_am_circuitboard_orange_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_aug_am_circuitboard_orange_light_png.png"
   },
   {
     "Name": "MAG-7 | Core Breach",
@@ -146,8 +146,8 @@
     "WeaponId": 27,
     "PaintKitId": 787,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "mythical",
-    "Image": "set_nuke_2/weapon_mag7_hy_nuclear_hotorange_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_mag7_hy_nuclear_hotorange_light_png.png"
   },
   {
     "Name": "Glock-18 | Nuclear Garden",
@@ -156,8 +156,8 @@
     "WeaponId": 4,
     "PaintKitId": 789,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "rare",
-    "Image": "set_nuke_2/weapon_glock_am_nuclear_skulls_green_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_glock_am_nuclear_skulls_green_light_png.png"
   },
   {
     "Name": "Tec-9 | Remote Control",
@@ -166,8 +166,8 @@
     "WeaponId": 30,
     "PaintKitId": 791,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "legendary",
-    "Image": "set_nuke_2/weapon_tec9_gs_tec9_envoy_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_tec9_gs_tec9_envoy_light_png.png"
   },
   {
     "Name": "M4A1-S | Control Panel",
@@ -176,7 +176,7 @@
     "WeaponId": 60,
     "PaintKitId": 792,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": "mythical",
-    "Image": "set_nuke_2/weapon_m4a1_silencer_gs_m4a1s_operator_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_nuke_2/weapon_m4a1_silencer_gs_m4a1s_operator_light_png.png"
   }
 ]

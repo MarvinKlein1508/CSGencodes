@@ -6,8 +6,8 @@
     "WeaponId": 30,
     "PaintKitId": 216,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_ii/weapon_tec9_an_titanium30v_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_tec9_an_titanium30v_light_png.png"
   },
   {
     "Name": "M4A1-S | Blood Tiger",
@@ -16,8 +16,8 @@
     "WeaponId": 60,
     "PaintKitId": 217,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_weapons_ii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
   },
   {
     "Name": "FAMAS | Hexane",
@@ -26,8 +26,8 @@
     "WeaponId": 10,
     "PaintKitId": 218,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_ii/weapon_famas_hy_bluehex_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_famas_hy_bluehex_light_png.png"
   },
   {
     "Name": "P250 | Hive",
@@ -36,8 +36,8 @@
     "WeaponId": 36,
     "PaintKitId": 219,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_ii/weapon_p250_hy_redhex_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_p250_hy_redhex_light_png.png"
   },
   {
     "Name": "SCAR-20 | Crimson Web",
@@ -46,8 +46,8 @@
     "WeaponId": 38,
     "PaintKitId": 232,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_weapons_ii/weapon_scar20_hy_webs_darker_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_scar20_hy_webs_darker_light_png.png"
   },
   {
     "Name": "AK-47 | Case Hardened",
@@ -56,8 +56,8 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_ii/weapon_ak47_aq_oiled_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_ak47_aq_oiled_light_png.png"
   },
   {
     "Name": "Desert Eagle | Hypnotic",
@@ -66,8 +66,8 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_ii/weapon_deagle_aa_vertigo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
     "Name": "Nova | Graphite",
@@ -76,8 +76,8 @@
     "WeaponId": 35,
     "PaintKitId": 214,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_ii/weapon_nova_am_crumple_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_nova_am_crumple_light_png.png"
   },
   {
     "Name": "Dual Berettas | Hemoglobin",
@@ -86,8 +86,8 @@
     "WeaponId": 2,
     "PaintKitId": 220,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_ii/weapon_elite_gs_am_ossify_red_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_elite_gs_am_ossify_red_light_png.png"
   },
   {
     "Name": "P90 | Cold Blooded",
@@ -96,8 +96,8 @@
     "WeaponId": 19,
     "PaintKitId": 67,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_weapons_ii/weapon_p90_am_slither_p90_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_p90_am_slither_p90_light_png.png"
   },
   {
     "Name": "USP-S | Serum",
@@ -106,8 +106,8 @@
     "WeaponId": 61,
     "PaintKitId": 221,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_weapons_ii/weapon_usp_silencer_am_electric_red_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_usp_silencer_am_electric_red_light_png.png"
   },
   {
     "Name": "SSG 08 | Blood in the Water",
@@ -116,7 +116,7 @@
     "WeaponId": 40,
     "PaintKitId": 222,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": "ancient",
-    "Image": "set_weapons_ii/weapon_ssg08_cu_shark_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_ssg08_cu_shark_light_png.png"
   }
 ]

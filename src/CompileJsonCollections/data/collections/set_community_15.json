@@ -6,8 +6,8 @@
     "WeaponId": 63,
     "PaintKitId": 622,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_cz75a_am_czv2_mf_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_cz75a_am_czv2_mf_light_png.png"
   },
   {
     "Name": "Glock-18 | Ironwork",
@@ -16,8 +16,8 @@
     "WeaponId": 4,
     "PaintKitId": 623,
     "Collection": "The Glove Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_15/weapon_glock_aq_glock_dark-fall_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_glock_aq_glock_dark-fall_light_png.png"
   },
   {
     "Name": "MP7 | Cirrus",
@@ -26,8 +26,8 @@
     "WeaponId": 33,
     "PaintKitId": 627,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_mp7_gs_final_pooldeadv2_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_mp7_gs_final_pooldeadv2_light_png.png"
   },
   {
     "Name": "Galil AR | Black Sand",
@@ -36,8 +36,8 @@
     "WeaponId": 13,
     "PaintKitId": 629,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_galilar_cu_galil_ar-camo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_galilar_cu_galil_ar-camo_light_png.png"
   },
   {
     "Name": "MP9 | Sand Scale",
@@ -46,8 +46,8 @@
     "WeaponId": 34,
     "PaintKitId": 630,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_mp9_aa_hide-mp9_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_mp9_aa_hide-mp9_light_png.png"
   },
   {
     "Name": "MAG-7 | Sonar",
@@ -56,8 +56,8 @@
     "WeaponId": 27,
     "PaintKitId": 633,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_mag7_am_mag7_malform_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_mag7_am_mag7_malform_light_png.png"
   },
   {
     "Name": "P2000 | Turf",
@@ -66,8 +66,8 @@
     "WeaponId": 32,
     "PaintKitId": 635,
     "Collection": "The Glove Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_15/weapon_hkp2000_gs_p2000-sport_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_hkp2000_gs_p2000-sport_light_png.png"
   },
   {
     "Name": "Dual Berettas | Royal Consorts",
@@ -76,8 +76,8 @@
     "WeaponId": 2,
     "PaintKitId": 625,
     "Collection": "The Glove Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_15/weapon_elite_gs_gs_dual_berettas_golden_venice_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_elite_gs_gs_dual_berettas_golden_venice_light_png.png"
   },
   {
     "Name": "G3SG1 | Stinger",
@@ -86,8 +86,8 @@
     "WeaponId": 11,
     "PaintKitId": 628,
     "Collection": "The Glove Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_15/weapon_g3sg1_gs_g3sg1_viper_yellow_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_g3sg1_gs_g3sg1_viper_yellow_light_png.png"
   },
   {
     "Name": "M4A1-S | Flashback",
@@ -96,8 +96,8 @@
     "WeaponId": 60,
     "PaintKitId": 631,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_m4a1_silencer_cu_m4a1_flashback_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_m4a1_silencer_cu_m4a1_flashback_light_png.png"
   },
   {
     "Name": "Nova | Gila",
@@ -106,8 +106,8 @@
     "WeaponId": 35,
     "PaintKitId": 634,
     "Collection": "The Glove Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_15/weapon_nova_am_nova_sand_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_nova_am_nova_sand_light_png.png"
   },
   {
     "Name": "USP-S | Cyrex",
@@ -116,8 +116,8 @@
     "WeaponId": 61,
     "PaintKitId": 637,
     "Collection": "The Glove Collection",
-    "Rarity": "rare",
-    "Image": "set_community_15/weapon_usp_silencer_cu_usp_cyrex_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_usp_silencer_cu_usp_cyrex_light_png.png"
   },
   {
     "Name": "FAMAS | Mecha Industries",
@@ -126,8 +126,8 @@
     "WeaponId": 10,
     "PaintKitId": 626,
     "Collection": "The Glove Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_15/weapon_famas_gs_famas_mecha_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_famas_gs_famas_mecha_light_png.png"
   },
   {
     "Name": "P90 | Shallow Grave",
@@ -136,8 +136,8 @@
     "WeaponId": 19,
     "PaintKitId": 636,
     "Collection": "The Glove Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_15/weapon_p90_gs_p90_shallow_grave_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_p90_gs_p90_shallow_grave_light_png.png"
   },
   {
     "Name": "Sawed-Off | Wasteland Princess",
@@ -146,8 +146,8 @@
     "WeaponId": 29,
     "PaintKitId": 638,
     "Collection": "The Glove Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_15/weapon_sawedoff_cu_wp_sawedoff_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_sawedoff_cu_wp_sawedoff_light_png.png"
   },
   {
     "Name": "SSG 08 | Dragonfire",
@@ -156,8 +156,8 @@
     "WeaponId": 40,
     "PaintKitId": 624,
     "Collection": "The Glove Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_15/weapon_ssg08_cu_ssg08_dragonfire_scope_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_ssg08_cu_ssg08_dragonfire_scope_light_png.png"
   },
   {
     "Name": "M4A4 | Buzz Kill",
@@ -166,7 +166,7 @@
     "WeaponId": 16,
     "PaintKitId": 632,
     "Collection": "The Glove Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_15/weapon_m4a1_gs_m4a4_sector_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_m4a1_gs_m4a4_sector_light_png.png"
   }
 ]

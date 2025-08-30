@@ -6,8 +6,8 @@
     "WeaponId": 23,
     "PaintKitId": 768,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "uncommon",
-    "Image": "set_realism_camo/weapon_mp5sd_ht_blur_camo_mp5sd_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_mp5sd_ht_blur_camo_mp5sd_light_png.png"
   },
   {
     "Name": "Tec-9 | Tiger Stencil",
@@ -16,8 +16,8 @@
     "WeaponId": 30,
     "PaintKitId": 766,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "uncommon",
-    "Image": "set_realism_camo/weapon_tec9_soch_tiger_stencil_tec9_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_tec9_soch_tiger_stencil_tec9_light_png.png"
   },
   {
     "Name": "FAMAS | Half Sleeve",
@@ -26,8 +26,8 @@
     "WeaponId": 10,
     "PaintKitId": 461,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "uncommon",
-    "Image": "set_realism_camo/weapon_famas_gs_gamebred_famas_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_famas_gs_gamebred_famas_light_png.png"
   },
   {
     "Name": "AK-47 | Olive Polycam",
@@ -36,8 +36,8 @@
     "WeaponId": 7,
     "PaintKitId": 1179,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "common",
-    "Image": "set_realism_camo/weapon_ak47_ht_poly_camo_ak47_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_ak47_ht_poly_camo_ak47_light_png.png"
   },
   {
     "Name": "PP-Bizon | Cold Cell",
@@ -46,8 +46,8 @@
     "WeaponId": 26,
     "PaintKitId": 770,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "uncommon",
-    "Image": "set_realism_camo/weapon_bizon_sp_wax_rub_bizon_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_bizon_sp_wax_rub_bizon_light_png.png"
   },
   {
     "Name": "MAG-7 | Wildwood",
@@ -56,8 +56,8 @@
     "WeaponId": 27,
     "PaintKitId": 773,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "uncommon",
-    "Image": "set_realism_camo/weapon_mag7_soch_wildwood_mag7_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_mag7_soch_wildwood_mag7_light_png.png"
   },
   {
     "Name": "SSG 08 | Zeno",
@@ -66,8 +66,8 @@
     "WeaponId": 40,
     "PaintKitId": 513,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "rare",
-    "Image": "set_realism_camo/weapon_ssg08_gsch_zeno_ssg08_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_ssg08_gsch_zeno_ssg08_light_png.png"
   },
   {
     "Name": "P250 | Small Game",
@@ -76,8 +76,8 @@
     "WeaponId": 36,
     "PaintKitId": 774,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "rare",
-    "Image": "set_realism_camo/weapon_p250_soch_hunter_blaze_p250_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_p250_soch_hunter_blaze_p250_light_png.png"
   },
   {
     "Name": "Nova | Yorkshire",
@@ -86,8 +86,8 @@
     "WeaponId": 35,
     "PaintKitId": 324,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "rare",
-    "Image": "set_realism_camo/weapon_nova_gs_ripple_nova_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_nova_gs_ripple_nova_light_png.png"
   },
   {
     "Name": "USP-S | Alpine Camo",
@@ -96,8 +96,8 @@
     "WeaponId": 61,
     "PaintKitId": 830,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "uncommon",
-    "Image": "set_realism_camo/weapon_usp_silencer_gsch_bright_camo_usp_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_usp_silencer_gsch_bright_camo_usp_light_png.png"
   },
   {
     "Name": "Five-SeveN | Heat Treated",
@@ -106,8 +106,8 @@
     "WeaponId": 3,
     "PaintKitId": 831,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "mythical",
-    "Image": "set_realism_camo/weapon_fiveseven_aq_case_hardened_fiveseven_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_fiveseven_aq_case_hardened_fiveseven_light_png.png"
   },
   {
     "Name": "MP9 | Arctic Tri-Tone",
@@ -116,8 +116,8 @@
     "WeaponId": 34,
     "PaintKitId": 331,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "mythical",
-    "Image": "set_realism_camo/weapon_mp9_gs_arctic_mp9_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_mp9_gs_arctic_mp9_light_png.png"
   },
   {
     "Name": "UMP-45 | Crimson Foil",
@@ -126,8 +126,8 @@
     "WeaponId": 24,
     "PaintKitId": 412,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "mythical",
-    "Image": "set_realism_camo/weapon_ump45_gsch_sport_ump45_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_ump45_gsch_sport_ump45_light_png.png"
   },
   {
     "Name": "Galil AR | Rainbow Spoon",
@@ -136,8 +136,8 @@
     "WeaponId": 13,
     "PaintKitId": 1178,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "legendary",
-    "Image": "set_realism_camo/weapon_galilar_aq_titanium_rainbow_galilar_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_galilar_aq_titanium_rainbow_galilar_light_png.png"
   },
   {
     "Name": "Glock-18 | AXIA",
@@ -146,8 +146,8 @@
     "WeaponId": 4,
     "PaintKitId": 832,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "mythical",
-    "Image": "set_realism_camo/weapon_glock_gsch_axia_glock_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_glock_gsch_axia_glock_light_png.png"
   },
   {
     "Name": "M4A1-S | Fade",
@@ -156,7 +156,7 @@
     "WeaponId": 60,
     "PaintKitId": 1177,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": "legendary",
-    "Image": "set_realism_camo/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_realism_camo/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png"
   }
 ]

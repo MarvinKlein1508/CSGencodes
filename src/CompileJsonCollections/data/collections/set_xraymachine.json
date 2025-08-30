@@ -6,7 +6,7 @@
     "WeaponId": 36,
     "PaintKitId": 125,
     "Collection": "The X-Ray Collection",
-    "Rarity": "mythical",
-    "Image": "set_xraymachine/weapon_p250_cu_xray_p250_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_xraymachine/weapon_p250_cu_xray_p250_light_png.png"
   }
 ]

@@ -61,7 +61,18 @@ internal static class CollectionWorker
 
                 (string weaponName, int weapon_id, string econ_name) = PaintKits.GetWeaponType(paintKit);
 
-                var rarity = PaintKitRarity.GetRarity(paintKitName);
+                var rarity = PaintKitRarity.GetRarity(paintKitName) switch
+                {
+                    "common" => ItemRarity.Common,
+                    "uncommon" => ItemRarity.Uncommon,
+                    "rare" => ItemRarity.Rare,
+                    "mythical" => ItemRarity.Mythical,
+                    "legendary" => ItemRarity.Legendary,
+                    "ancient" => ItemRarity.Ancient,
+                    "immortal" => ItemRarity.Immortal,
+                    _ => ItemRarity.Unknown,
+                };
+
                 string skinName = Translation.GetTranslation(paintKit.DescriptionTag);
 
                 if (paintKit.Id is 1119)
@@ -94,7 +105,7 @@ internal static class CollectionWorker
                     MinWear = paintKit.WearRemapMin / FLOAT_DIVIDER,
                     Rarity = rarity,
                     Collection = collection,
-                    Image = $"{itemSet.Id}/weapon_{econ_name}_{paintKitName}_light_png.png"
+                    Image = $"/assets/img/items/weapons/{itemSet.Id}/weapon_{econ_name}_{paintKitName}_light_png.png"
                 };
 
                 weaponCollections[itemSet.Id].Add(weapon);
@@ -109,9 +120,9 @@ internal static class CollectionWorker
             PaintKitId = 309,
             MinWear = 0,
             MaxWear = 0.4m,
-            Rarity = "Contraband",
+            Rarity = ItemRarity.Immortal,
             Collection = "The Huntsman Collection",
-            Image = "set_community_3/weapon_m4a1_cu_m4a1_howling_light_png.png"
+            Image = "/assets/img/items/weapons/set_community_3/weapon_m4a1_cu_m4a1_howling_light_png.png"
         });
 
         Console.WriteLine("Generate collection json files...");

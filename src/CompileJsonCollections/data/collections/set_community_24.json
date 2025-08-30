@@ -6,8 +6,8 @@
     "WeaponId": 2,
     "PaintKitId": 903,
     "Collection": "The CS20 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_24/weapon_elite_gs_gs_dual_elites_classic_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_elite_gs_gs_dual_elites_classic_light_png.png"
   },
   {
     "Name": "Tec-9 | Flash Out",
@@ -16,8 +16,8 @@
     "WeaponId": 30,
     "PaintKitId": 905,
     "Collection": "The CS20 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_24/weapon_tec9_cu_tec9_flash_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_tec9_cu_tec9_flash_light_png.png"
   },
   {
     "Name": "MAC-10 | Classic Crate",
@@ -26,8 +26,8 @@
     "WeaponId": 17,
     "PaintKitId": 908,
     "Collection": "The CS20 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_24/weapon_mac10_gs_mac10_dust_crate_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_mac10_gs_mac10_dust_crate_light_png.png"
   },
   {
     "Name": "MAG-7 | Popdog",
@@ -36,8 +36,8 @@
     "WeaponId": 27,
     "PaintKitId": 909,
     "Collection": "The CS20 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_24/weapon_mag7_gs_mag7_popdog_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_mag7_gs_mag7_popdog_light_png.png"
   },
   {
     "Name": "SCAR-20 | Assault",
@@ -46,8 +46,8 @@
     "WeaponId": 38,
     "PaintKitId": 914,
     "Collection": "The CS20 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_24/weapon_scar20_cu_scar_assault_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_scar20_cu_scar_assault_light_png.png"
   },
   {
     "Name": "FAMAS | Decommissioned",
@@ -56,8 +56,8 @@
     "WeaponId": 10,
     "PaintKitId": 904,
     "Collection": "The CS20 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_24/weapon_famas_cu_famas_nuke_tension_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_famas_cu_famas_nuke_tension_light_png.png"
   },
   {
     "Name": "Glock-18 | Sacrifice",
@@ -66,8 +66,8 @@
     "WeaponId": 4,
     "PaintKitId": 918,
     "Collection": "The CS20 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_24/weapon_glock_cu_glock_hero_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_glock_cu_glock_hero_light_png.png"
   },
   {
     "Name": "M249 | Aztec",
@@ -76,8 +76,8 @@
     "WeaponId": 14,
     "PaintKitId": 902,
     "Collection": "The CS20 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_24/weapon_m249_aq_m249_aztec_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_m249_aq_m249_aztec_light_png.png"
   },
   {
     "Name": "MP5-SD | Agent",
@@ -86,8 +86,8 @@
     "WeaponId": 23,
     "PaintKitId": 915,
     "Collection": "The CS20 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_24/weapon_mp5sd_gs_mp5_fbi_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_mp5sd_gs_mp5_fbi_light_png.png"
   },
   {
     "Name": "Five-SeveN | Buddy",
@@ -96,8 +96,8 @@
     "WeaponId": 3,
     "PaintKitId": 906,
     "Collection": "The CS20 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_24/weapon_fiveseven_cu_fiveseven_gsg9_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_fiveseven_cu_fiveseven_gsg9_light_png.png"
   },
   {
     "Name": "P250 | Inferno",
@@ -106,8 +106,8 @@
     "WeaponId": 36,
     "PaintKitId": 907,
     "Collection": "The CS20 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_24/weapon_p250_gs_p250_inferno_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_p250_gs_p250_inferno_light_png.png"
   },
   {
     "Name": "UMP-45 | Plastique",
@@ -116,8 +116,8 @@
     "WeaponId": 24,
     "PaintKitId": 916,
     "Collection": "The CS20 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_24/weapon_ump45_cu_ump_bomb_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_ump45_cu_ump_bomb_light_png.png"
   },
   {
     "Name": "MP9 | Hydra",
@@ -126,8 +126,8 @@
     "WeaponId": 34,
     "PaintKitId": 910,
     "Collection": "The CS20 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_24/weapon_mp9_cu_mp9_hydra_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_mp9_cu_mp9_hydra_light_png.png"
   },
   {
     "Name": "P90 | Nostalgia",
@@ -136,8 +136,8 @@
     "WeaponId": 19,
     "PaintKitId": 911,
     "Collection": "The CS20 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_24/weapon_p90_cu_p90_nostalgia_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_p90_cu_p90_nostalgia_light_png.png"
   },
   {
     "Name": "AUG | Death by Puppy",
@@ -146,8 +146,8 @@
     "WeaponId": 8,
     "PaintKitId": 913,
     "Collection": "The CS20 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_24/weapon_aug_am_aug_death_by_doggy_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_aug_am_aug_death_by_doggy_light_png.png"
   },
   {
     "Name": "AWP | Wildfire",
@@ -156,8 +156,8 @@
     "WeaponId": 9,
     "PaintKitId": 917,
     "Collection": "The CS20 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_24/weapon_awp_cu_awp_wildfire_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_awp_cu_awp_wildfire_light_png.png"
   },
   {
     "Name": "FAMAS | Commemoration",
@@ -166,7 +166,7 @@
     "WeaponId": 10,
     "PaintKitId": 919,
     "Collection": "The CS20 Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_24/weapon_famas_gs_famas_legacy_gold_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_famas_gs_famas_legacy_gold_light_png.png"
   }
 ]

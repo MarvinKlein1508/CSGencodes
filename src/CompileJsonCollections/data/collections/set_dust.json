@@ -6,8 +6,8 @@
     "WeaponId": 16,
     "PaintKitId": 8,
     "Collection": "The Dust Collection",
-    "Rarity": "common",
-    "Image": "set_dust/weapon_m4a1_hy_desert_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_m4a1_hy_desert_light_png.png"
   },
   {
     "Name": "SCAR-20 | Palm",
@@ -16,8 +16,8 @@
     "WeaponId": 38,
     "PaintKitId": 157,
     "Collection": "The Dust Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust/weapon_scar20_sp_palm_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_scar20_sp_palm_light_png.png"
   },
   {
     "Name": "AK-47 | Predator",
@@ -26,8 +26,8 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Dust Collection",
-    "Rarity": "common",
-    "Image": "set_dust/weapon_ak47_sp_zebracam_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
     "Name": "AUG | Copperhead",
@@ -36,8 +36,8 @@
     "WeaponId": 8,
     "PaintKitId": 10,
     "Collection": "The Dust Collection",
-    "Rarity": "rare",
-    "Image": "set_dust/weapon_aug_hy_copperhead_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_aug_hy_copperhead_light_png.png"
   },
   {
     "Name": "AWP | Snake Camo",
@@ -46,8 +46,8 @@
     "WeaponId": 9,
     "PaintKitId": 30,
     "Collection": "The Dust Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust/weapon_awp_sp_snake_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_awp_sp_snake_light_png.png"
   },
   {
     "Name": "Sawed-Off | Copper",
@@ -56,8 +56,8 @@
     "WeaponId": 29,
     "PaintKitId": 41,
     "Collection": "The Dust Collection",
-    "Rarity": "rare",
-    "Image": "set_dust/weapon_sawedoff_aq_copper_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_sawedoff_aq_copper_light_png.png"
   },
   {
     "Name": "Desert Eagle | Blaze",
@@ -66,8 +66,8 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The Dust Collection",
-    "Rarity": "rare",
-    "Image": "set_dust/weapon_deagle_aa_flames_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_deagle_aa_flames_light_png.png"
   },
   {
     "Name": "P2000 | Scorpion",
@@ -76,8 +76,8 @@
     "WeaponId": 32,
     "PaintKitId": 71,
     "Collection": "The Dust Collection",
-    "Rarity": "rare",
-    "Image": "set_dust/weapon_hkp2000_am_scorpion_p2000_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_hkp2000_am_scorpion_p2000_light_png.png"
   },
   {
     "Name": "Glock-18 | Brass",
@@ -86,7 +86,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Dust Collection",
-    "Rarity": "rare",
-    "Image": "set_dust/weapon_glock_aq_brass_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust/weapon_glock_aq_brass_light_png.png"
   }
 ]

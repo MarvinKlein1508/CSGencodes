@@ -6,8 +6,8 @@
     "WeaponId": 61,
     "PaintKitId": 115,
     "Collection": "The Gallery Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_34/weapon_usp_silencer_usp_field_snake_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_usp_silencer_usp_field_snake_light_png.png"
   },
   {
     "Name": "Desert Eagle | Calligraffiti",
@@ -16,8 +16,8 @@
     "WeaponId": 1,
     "PaintKitId": 114,
     "Collection": "The Gallery Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_34/weapon_deagle_deagle_calligraff_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_deagle_deagle_calligraff_light_png.png"
   },
   {
     "Name": "MP5-SD | Statics",
@@ -26,8 +26,8 @@
     "WeaponId": 23,
     "PaintKitId": 1180,
     "Collection": "The Gallery Collection",
-    "Rarity": "rare",
-    "Image": "set_community_34/weapon_mp5sd_mp5_statics_blue_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_mp5sd_mp5_statics_blue_light_png.png"
   },
   {
     "Name": "AUG | Luxe Trim",
@@ -36,8 +36,8 @@
     "WeaponId": 8,
     "PaintKitId": 121,
     "Collection": "The Gallery Collection",
-    "Rarity": "rare",
-    "Image": "set_community_34/weapon_aug_aug_puffer_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_aug_aug_puffer_light_png.png"
   },
   {
     "Name": "M249 | Hypnosis",
@@ -46,8 +46,8 @@
     "WeaponId": 14,
     "PaintKitId": 120,
     "Collection": "The Gallery Collection",
-    "Rarity": "rare",
-    "Image": "set_community_34/weapon_m249_m249_hypnosis_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_m249_m249_hypnosis_light_png.png"
   },
   {
     "Name": "R8 Revolver | Tango",
@@ -56,8 +56,8 @@
     "WeaponId": 64,
     "PaintKitId": 123,
     "Collection": "The Gallery Collection",
-    "Rarity": "rare",
-    "Image": "set_community_34/weapon_revolver_r8_roses_and_guns_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_revolver_r8_roses_and_guns_light_png.png"
   },
   {
     "Name": "SCAR-20 | Trail Blazer",
@@ -66,8 +66,8 @@
     "WeaponId": 38,
     "PaintKitId": 117,
     "Collection": "The Gallery Collection",
-    "Rarity": "rare",
-    "Image": "set_community_34/weapon_scar20_scar20_fury_topo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_scar20_scar20_fury_topo_light_png.png"
   },
   {
     "Name": "M4A4 | Turbine",
@@ -76,8 +76,8 @@
     "WeaponId": 16,
     "PaintKitId": 118,
     "Collection": "The Gallery Collection",
-    "Rarity": "rare",
-    "Image": "set_community_34/weapon_m4a1_m4a4_fusion_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_m4a1_m4a4_fusion_light_png.png"
   },
   {
     "Name": "Dual Berettas | Hydro Strike",
@@ -86,8 +86,8 @@
     "WeaponId": 2,
     "PaintKitId": 112,
     "Collection": "The Gallery Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_34/weapon_elite_gs_dual_elite_hydro_strike_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_elite_gs_dual_elite_hydro_strike_light_png.png"
   },
   {
     "Name": "MAC-10 | Saib\u0101 Oni",
@@ -96,8 +96,8 @@
     "WeaponId": 17,
     "PaintKitId": 126,
     "Collection": "The Gallery Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_34/weapon_mac10_mac10_ozaki_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_mac10_mac10_ozaki_light_png.png"
   },
   {
     "Name": "P90 | Randy Rush",
@@ -106,8 +106,8 @@
     "WeaponId": 19,
     "PaintKitId": 127,
     "Collection": "The Gallery Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_34/weapon_p90_p90_randy_rush_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_p90_p90_randy_rush_light_png.png"
   },
   {
     "Name": "SSG 08 | Rapid Transit",
@@ -116,8 +116,8 @@
     "WeaponId": 40,
     "PaintKitId": 128,
     "Collection": "The Gallery Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_34/weapon_ssg08_ssg08_transit_white_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_ssg08_ssg08_transit_white_light_png.png"
   },
   {
     "Name": "AK-47 | The Outsiders",
@@ -126,8 +126,8 @@
     "WeaponId": 7,
     "PaintKitId": 113,
     "Collection": "The Gallery Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_34/weapon_ak47_ak47_t_bus_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_ak47_ak47_t_bus_light_png.png"
   },
   {
     "Name": "P250 | Epicenter",
@@ -136,8 +136,8 @@
     "WeaponId": 36,
     "PaintKitId": 130,
     "Collection": "The Gallery Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_34/weapon_p250_p250_impact_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_p250_p250_impact_light_png.png"
   },
   {
     "Name": "UMP-45 | Neo-Noir",
@@ -146,8 +146,8 @@
     "WeaponId": 24,
     "PaintKitId": 131,
     "Collection": "The Gallery Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_34/weapon_ump45_ump45_neo_noir_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_ump45_ump45_neo_noir_light_png.png"
   },
   {
     "Name": "Glock-18 | Gold Toof",
@@ -156,8 +156,8 @@
     "WeaponId": 4,
     "PaintKitId": 129,
     "Collection": "The Gallery Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_34/weapon_glock_glock_chomper_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_glock_glock_chomper_light_png.png"
   },
   {
     "Name": "M4A1-S | Vaporwave",
@@ -166,7 +166,7 @@
     "WeaponId": 60,
     "PaintKitId": 106,
     "Collection": "The Gallery Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_34/weapon_m4a1_silencer_m4a1s_vaporwave_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_m4a1_silencer_m4a1s_vaporwave_light_png.png"
   }
 ]

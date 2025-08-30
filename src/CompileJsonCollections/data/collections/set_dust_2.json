@@ -6,8 +6,8 @@
     "WeaponId": 16,
     "PaintKitId": 8,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_m4a1_hy_desert_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_m4a1_hy_desert_light_png.png"
   },
   {
     "Name": "MAG-7 | Sand Dune",
@@ -16,8 +16,8 @@
     "WeaponId": 27,
     "PaintKitId": 99,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_mag7_so_sand_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_mag7_so_sand_light_png.png"
   },
   {
     "Name": "SCAR-20 | Sand Mesh",
@@ -26,8 +26,8 @@
     "WeaponId": 38,
     "PaintKitId": 116,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_scar20_sp_mesh_sand_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_scar20_sp_mesh_sand_light_png.png"
   },
   {
     "Name": "P90 | Sand Spray",
@@ -36,8 +36,8 @@
     "WeaponId": 19,
     "PaintKitId": 124,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_p90_sp_spray_sand_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_p90_sp_spray_sand_light_png.png"
   },
   {
     "Name": "MP9 | Sand Dashed",
@@ -46,8 +46,8 @@
     "WeaponId": 34,
     "PaintKitId": 148,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_mp9_sp_tape_short_sand_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_mp9_sp_tape_short_sand_light_png.png"
   },
   {
     "Name": "AK-47 | Predator",
@@ -56,8 +56,8 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_ak47_sp_zebracam_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
     "Name": "AWP | Snake Camo",
@@ -66,8 +66,8 @@
     "WeaponId": 9,
     "PaintKitId": 30,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2/weapon_awp_sp_snake_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_awp_sp_snake_light_png.png"
   },
   {
     "Name": "AK-47 | Safari Mesh",
@@ -76,8 +76,8 @@
     "WeaponId": 7,
     "PaintKitId": 72,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "common",
-    "Image": "set_dust_2/weapon_ak47_sp_mesh_tan_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
     "Name": "Five-SeveN | Orange Peel",
@@ -86,8 +86,8 @@
     "WeaponId": 3,
     "PaintKitId": 141,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2/weapon_fiveseven_sp_tape_orange_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_fiveseven_sp_tape_orange_light_png.png"
   },
   {
     "Name": "SCAR-20 | Palm",
@@ -96,8 +96,8 @@
     "WeaponId": 38,
     "PaintKitId": 157,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2/weapon_scar20_sp_palm_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_scar20_sp_palm_light_png.png"
   },
   {
     "Name": "Tec-9 | VariCamo",
@@ -106,8 +106,8 @@
     "WeaponId": 30,
     "PaintKitId": 235,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2/weapon_tec9_hy_varicamo_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_tec9_hy_varicamo_light_png.png"
   },
   {
     "Name": "Glock-18 | Brass",
@@ -116,8 +116,8 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2/weapon_glock_aq_brass_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_glock_aq_brass_light_png.png"
   },
   {
     "Name": "Tec-9 | VariCamo",
@@ -126,8 +126,8 @@
     "WeaponId": 30,
     "PaintKitId": 235,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_dust_2/weapon_tec9_hy_varicamo_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_tec9_hy_varicamo_light_png.png"
   },
   {
     "Name": "SG 553 | Damascus Steel",
@@ -136,8 +136,8 @@
     "WeaponId": 39,
     "PaintKitId": 247,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2/weapon_sg556_aq_damascus_sg553_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_sg556_aq_damascus_sg553_light_png.png"
   },
   {
     "Name": "P2000 | Amber Fade",
@@ -146,8 +146,8 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_dust_2/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "R8 Revolver | Amber Fade",
@@ -156,7 +156,7 @@
     "WeaponId": 64,
     "PaintKitId": 523,
     "Collection": "The Dust 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_dust_2/weapon_revolver_aa_fade_metallic_revolver_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_revolver_aa_fade_metallic_revolver_light_png.png"
   }
 ]

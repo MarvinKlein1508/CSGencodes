@@ -6,8 +6,8 @@
     "WeaponId": 29,
     "PaintKitId": 1272,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_sawedoff_gsch_ripple_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_sawedoff_gsch_ripple_light_png.png"
   },
   {
     "Name": "P90 | Blue Tac",
@@ -16,8 +16,8 @@
     "WeaponId": 19,
     "PaintKitId": 1277,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_p90_hy_usaf_round_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_p90_hy_usaf_round_light_png.png"
   },
   {
     "Name": "P250 | Plum Netting",
@@ -26,8 +26,8 @@
     "WeaponId": 36,
     "PaintKitId": 1273,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_p250_sp_lace_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_p250_sp_lace_light_png.png"
   },
   {
     "Name": "MP5-SD | Lime Hex",
@@ -36,8 +36,8 @@
     "WeaponId": 23,
     "PaintKitId": 1274,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_mp5sd_sp_lime_hex_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_mp5sd_sp_lime_hex_light_png.png"
   },
   {
     "Name": "MP9 | Buff Blue",
@@ -46,8 +46,8 @@
     "WeaponId": 34,
     "PaintKitId": 1278,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_mp9_ht_blue_edges_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_mp9_ht_blue_edges_light_png.png"
   },
   {
     "Name": "SG 553 | Night Camo",
@@ -56,8 +56,8 @@
     "WeaponId": 39,
     "PaintKitId": 1270,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_sg556_soo_blues_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_sg556_soo_blues_light_png.png"
   },
   {
     "Name": "R8 Revolver | Cobalt Grip",
@@ -66,8 +66,8 @@
     "WeaponId": 64,
     "PaintKitId": 1276,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_revolver_soch_indigo_grips_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_revolver_soch_indigo_grips_light_png.png"
   },
   {
     "Name": "SSG 08 | Grey Smoke",
@@ -76,8 +76,8 @@
     "WeaponId": 40,
     "PaintKitId": 1271,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_ssg08_soch_blorb_bw_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_ssg08_soch_blorb_bw_light_png.png"
   },
   {
     "Name": "Galil AR | Grey Smoke",
@@ -86,8 +86,8 @@
     "WeaponId": 13,
     "PaintKitId": 1275,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_galilar_soch_blorb_bw_galilar_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_galilar_soch_blorb_bw_galilar_light_png.png"
   },
   {
     "Name": "MAC-10 | Storm Camo",
@@ -96,8 +96,8 @@
     "WeaponId": 17,
     "PaintKitId": 1269,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_mac10_soo_mac10_blueberry_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_mac10_soo_mac10_blueberry_light_png.png"
   },
   {
     "Name": "Tec-9 | Blue Blast",
@@ -106,8 +106,8 @@
     "WeaponId": 30,
     "PaintKitId": 1279,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_tec9_so_teal_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_tec9_so_teal_light_png.png"
   },
   {
     "Name": "XM1014 | Gum Wall Camo",
@@ -116,8 +116,8 @@
     "WeaponId": 25,
     "PaintKitId": 1267,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_xm1014_hye_drippy_camo_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_xm1014_hye_drippy_camo_light_png.png"
   },
   {
     "Name": "Negev | Sour Grapes",
@@ -126,8 +126,8 @@
     "WeaponId": 28,
     "PaintKitId": 1260,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_negev_soe_berry_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_negev_soe_berry_light_png.png"
   },
   {
     "Name": "Five-SeveN | Sky Blue",
@@ -136,8 +136,8 @@
     "WeaponId": 3,
     "PaintKitId": 1262,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_fiveseven_soe_blue_and_chrome_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_fiveseven_soe_blue_and_chrome_light_png.png"
   },
   {
     "Name": "Zeus | Electric Blue",
@@ -146,8 +146,8 @@
     "WeaponId": 31,
     "PaintKitId": 1268,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_taser_soe_electric_blue_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_taser_soe_electric_blue_light_png.png"
   },
   {
     "Name": "Galil AR | Robin\u0027s Egg",
@@ -156,8 +156,8 @@
     "WeaponId": 13,
     "PaintKitId": 1264,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_galilar_soe_robinsegg_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_galilar_soe_robinsegg_light_png.png"
   },
   {
     "Name": "Nova | Turquoise Pour",
@@ -166,8 +166,8 @@
     "WeaponId": 35,
     "PaintKitId": 1261,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_nova_soo_acrylic_flow_turquoise_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_nova_soo_acrylic_flow_turquoise_light_png.png"
   },
   {
     "Name": "Dual Berettas | Rose Nacre",
@@ -176,8 +176,8 @@
     "WeaponId": 2,
     "PaintKitId": 1263,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_elite_gs_soo_rose_gold_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_elite_gs_soo_rose_gold_light_png.png"
   },
   {
     "Name": "Glock-18 | Ocean Topo",
@@ -186,8 +186,8 @@
     "WeaponId": 4,
     "PaintKitId": 1265,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_glock_hye_topo_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_glock_hye_topo_light_png.png"
   },
   {
     "Name": "M4A4 | Naval Shred Camo",
@@ -196,8 +196,8 @@
     "WeaponId": 16,
     "PaintKitId": 1266,
     "Collection": "The Ascent Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_cool/weapon_m4a1_hye_blue_m4a4_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_m4a1_hye_blue_m4a4_light_png.png"
   },
   {
     "Name": "P2000 | Royal Baroque",
@@ -206,8 +206,8 @@
     "WeaponId": 32,
     "PaintKitId": 1259,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_hkp2000_spe_scarf_print_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_hkp2000_spe_scarf_print_light_png.png"
   },
   {
     "Name": "P90 | Reef Grief",
@@ -216,8 +216,8 @@
     "WeaponId": 19,
     "PaintKitId": 1256,
     "Collection": "The Ascent Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_cool/weapon_p90_hye_coral_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_p90_hye_coral_light_png.png"
   },
   {
     "Name": "MP9 | Cobalt Paisley",
@@ -226,8 +226,8 @@
     "WeaponId": 34,
     "PaintKitId": 1258,
     "Collection": "The Ascent Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_cool/weapon_mp9_hye_blue_paisley_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_mp9_hye_blue_paisley_light_png.png"
   },
   {
     "Name": "FAMAS | Yeti Camo",
@@ -236,8 +236,8 @@
     "WeaponId": 10,
     "PaintKitId": 1219,
     "Collection": "The Ascent Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_cool/weapon_famas_soe_blue_famas_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_famas_soe_blue_famas_light_png.png"
   },
   {
     "Name": "Desert Eagle | Mint Fan",
@@ -246,8 +246,8 @@
     "WeaponId": 1,
     "PaintKitId": 1257,
     "Collection": "The Ascent Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_cool/weapon_deagle_ht_earth_fans_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_deagle_ht_earth_fans_light_png.png"
   },
   {
     "Name": "AK-47 | Midnight Laminate",
@@ -256,8 +256,8 @@
     "WeaponId": 7,
     "PaintKitId": 1218,
     "Collection": "The Ascent Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_cool/weapon_ak47_soe_iridescent_purple_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_ak47_soe_iridescent_purple_light_png.png"
   },
   {
     "Name": "USP-S | Royal Guard",
@@ -266,8 +266,8 @@
     "WeaponId": 61,
     "PaintKitId": 1217,
     "Collection": "The Ascent Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_cool/weapon_usp_silencer_soe_blue_and_gold_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_usp_silencer_soe_blue_and_gold_light_png.png"
   },
   {
     "Name": "M4A1-S | Stratosphere",
@@ -276,7 +276,7 @@
     "WeaponId": 60,
     "PaintKitId": 1216,
     "Collection": "The Ascent Collection",
-    "Rarity": "mythical",
-    "Image": "set_timed_drops_cool/weapon_m4a1_silencer_cue_stratosphere_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_m4a1_silencer_cue_stratosphere_light_png.png"
   }
 ]

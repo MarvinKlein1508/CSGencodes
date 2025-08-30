@@ -2,18 +2,18 @@
 
 public enum ItemRarity
 {
-    Rare,
-    Mythical,
-    Legendary,
-    Ancient,
-    Common,
-    Uncommon,
+    Common = 1,
+    Uncommon = 2,
+    Rare = 3,
+    Mythical = 4,
+    Legendary = 5,
+    Ancient = 6,
     /// <summary>
     /// Contraband
     /// </summary>
-    Immortal,
+    Immortal = 7,
     /// <summary>
     /// Some not obtainable items
     /// </summary>
-    Unknown
+    Unknown = 0
 }

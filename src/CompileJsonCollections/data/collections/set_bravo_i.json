@@ -6,8 +6,8 @@
     "WeaponId": 39,
     "PaintKitId": 186,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_sg556_sp_spray_waves_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_sg556_sp_spray_waves_bravo_light_png.png"
   },
   {
     "Name": "Dual Berettas | Black Limba",
@@ -16,8 +16,8 @@
     "WeaponId": 2,
     "PaintKitId": 190,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_elite_gs_cu_season_elites_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_elite_gs_cu_season_elites_bravo_light_png.png"
   },
   {
     "Name": "Nova | Tempest",
@@ -26,8 +26,8 @@
     "WeaponId": 35,
     "PaintKitId": 191,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_nova_hy_seaside_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_nova_hy_seaside_bravo_light_png.png"
   },
   {
     "Name": "Galil AR | Shattered",
@@ -36,8 +36,8 @@
     "WeaponId": 13,
     "PaintKitId": 192,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_galilar_hy_crumple_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_galilar_hy_crumple_bravo_light_png.png"
   },
   {
     "Name": "UMP-45 | Bone Pile",
@@ -46,8 +46,8 @@
     "WeaponId": 24,
     "PaintKitId": 193,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_ump45_sp_skull_diagram_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_ump45_sp_skull_diagram_bravo_light_png.png"
   },
   {
     "Name": "G3SG1 | Demeter",
@@ -56,8 +56,8 @@
     "WeaponId": 11,
     "PaintKitId": 195,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_g3sg1_hy_bluepolygon_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_g3sg1_hy_bluepolygon_bravo_light_png.png"
   },
   {
     "Name": "USP-S | Overgrowth",
@@ -66,8 +66,8 @@
     "WeaponId": 61,
     "PaintKitId": 183,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_usp_silencer_hy_siege_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_usp_silencer_hy_siege_bravo_light_png.png"
   },
   {
     "Name": "M4A4 | Zirka",
@@ -76,8 +76,8 @@
     "WeaponId": 16,
     "PaintKitId": 187,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_m4a1_sp_star_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_m4a1_sp_star_bravo_light_png.png"
   },
   {
     "Name": "MAC-10 | Graven",
@@ -86,8 +86,8 @@
     "WeaponId": 17,
     "PaintKitId": 188,
     "Collection": "The Bravo Collection",
-    "Rarity": "mythical",
-    "Image": "set_bravo_i/weapon_mac10_aq_etched_mac10_bravo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_mac10_aq_etched_mac10_bravo_light_png.png"
   },
   {
     "Name": "M4A1-S | Bright Water",
@@ -96,8 +96,8 @@
     "WeaponId": 60,
     "PaintKitId": 189,
     "Collection": "The Bravo Collection",
-    "Rarity": "rare",
-    "Image": "set_bravo_i/weapon_m4a1_silencer_hy_ocean_bravo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_m4a1_silencer_hy_ocean_bravo_light_png.png"
   },
   {
     "Name": "P90 | Emerald Dragon",
@@ -106,8 +106,8 @@
     "WeaponId": 19,
     "PaintKitId": 182,
     "Collection": "The Bravo Collection",
-    "Rarity": "legendary",
-    "Image": "set_bravo_i/weapon_p90_cu_dragon_p90_bravo_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_p90_cu_dragon_p90_bravo_light_png.png"
   },
   {
     "Name": "P2000 | Ocean Foam",
@@ -116,8 +116,8 @@
     "WeaponId": 32,
     "PaintKitId": 211,
     "Collection": "The Bravo Collection",
-    "Rarity": "mythical",
-    "Image": "set_bravo_i/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_png.png"
   },
   {
     "Name": "AWP | Graphite",
@@ -126,8 +126,8 @@
     "WeaponId": 9,
     "PaintKitId": 212,
     "Collection": "The Bravo Collection",
-    "Rarity": "mythical",
-    "Image": "set_bravo_i/weapon_awp_am_crumple_bravo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_awp_am_crumple_bravo_light_png.png"
   },
   {
     "Name": "AK-47 | Fire Serpent",
@@ -136,8 +136,8 @@
     "WeaponId": 7,
     "PaintKitId": 180,
     "Collection": "The Bravo Collection",
-    "Rarity": "legendary",
-    "Image": "set_bravo_i/weapon_ak47_cu_fireserpent_ak47_bravo_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_ak47_cu_fireserpent_ak47_bravo_light_png.png"
   },
   {
     "Name": "Desert Eagle | Golden Koi",
@@ -146,7 +146,7 @@
     "WeaponId": 1,
     "PaintKitId": 185,
     "Collection": "The Bravo Collection",
-    "Rarity": "legendary",
-    "Image": "set_bravo_i/weapon_deagle_am_scales_bravo_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_deagle_am_scales_bravo_light_png.png"
   }
 ]

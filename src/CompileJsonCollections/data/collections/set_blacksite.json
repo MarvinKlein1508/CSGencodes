@@ -6,7 +6,7 @@
     "WeaponId": 23,
     "PaintKitId": 800,
     "Collection": "The Blacksite Collection",
-    "Rarity": "mythical",
-    "Image": "set_blacksite/weapon_mp5sd_hy_labrat_mp5_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_blacksite/weapon_mp5sd_hy_labrat_mp5_light_png.png"
   }
 ]

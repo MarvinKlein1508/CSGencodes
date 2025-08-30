@@ -6,8 +6,8 @@
     "WeaponId": 33,
     "PaintKitId": 354,
     "Collection": "The Breakout Collection",
-    "Rarity": "rare",
-    "Image": "set_community_4/weapon_mp7_cu_mp7-commander_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_mp7_cu_mp7-commander_light_png.png"
   },
   {
     "Name": "Negev | Desert-Strike",
@@ -16,8 +16,8 @@
     "WeaponId": 28,
     "PaintKitId": 355,
     "Collection": "The Breakout Collection",
-    "Rarity": "rare",
-    "Image": "set_community_4/weapon_negev_cu_negev_titanstorm_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_negev_cu_negev_titanstorm_light_png.png"
   },
   {
     "Name": "P2000 | Ivory",
@@ -26,8 +26,8 @@
     "WeaponId": 32,
     "PaintKitId": 357,
     "Collection": "The Breakout Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_4/weapon_hkp2000_cu_p2000_ivory_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_hkp2000_cu_p2000_ivory_light_png.png"
   },
   {
     "Name": "SSG 08 | Abyss",
@@ -36,8 +36,8 @@
     "WeaponId": 40,
     "PaintKitId": 361,
     "Collection": "The Breakout Collection",
-    "Rarity": "rare",
-    "Image": "set_community_4/weapon_ssg08_aq_leviathan_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_ssg08_aq_leviathan_light_png.png"
   },
   {
     "Name": "UMP-45 | Labyrinth",
@@ -46,8 +46,8 @@
     "WeaponId": 24,
     "PaintKitId": 362,
     "Collection": "The Breakout Collection",
-    "Rarity": "rare",
-    "Image": "set_community_4/weapon_ump45_hy_lines_orange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_ump45_hy_lines_orange_light_png.png"
   },
   {
     "Name": "PP-Bizon | Osiris",
@@ -56,8 +56,8 @@
     "WeaponId": 26,
     "PaintKitId": 349,
     "Collection": "The Breakout Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_4/weapon_bizon_cu_bizon-osiris_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_bizon_cu_bizon-osiris_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Tigris",
@@ -66,8 +66,8 @@
     "WeaponId": 63,
     "PaintKitId": 350,
     "Collection": "The Breakout Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_4/weapon_cz75a_cu_c75a-tiger_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_cz75a_cu_c75a-tiger_light_png.png"
   },
   {
     "Name": "Nova | Koi",
@@ -76,8 +76,8 @@
     "WeaponId": 35,
     "PaintKitId": 356,
     "Collection": "The Breakout Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_4/weapon_nova_cu_nova_koi_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_nova_cu_nova_koi_light_png.png"
   },
   {
     "Name": "P250 | Supernova",
@@ -86,8 +86,8 @@
     "WeaponId": 36,
     "PaintKitId": 358,
     "Collection": "The Breakout Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_4/weapon_p250_cu_bittersweet_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_p250_cu_bittersweet_light_png.png"
   },
   {
     "Name": "Desert Eagle | Conspiracy",
@@ -96,8 +96,8 @@
     "WeaponId": 1,
     "PaintKitId": 351,
     "Collection": "The Breakout Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_4/weapon_deagle_cu_deagle_aureus_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_deagle_cu_deagle_aureus_light_png.png"
   },
   {
     "Name": "Five-SeveN | Fowl Play",
@@ -106,8 +106,8 @@
     "WeaponId": 3,
     "PaintKitId": 352,
     "Collection": "The Breakout Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_4/weapon_fiveseven_aq_57_feathers_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_fiveseven_aq_57_feathers_light_png.png"
   },
   {
     "Name": "Glock-18 | Water Elemental",
@@ -116,8 +116,8 @@
     "WeaponId": 4,
     "PaintKitId": 353,
     "Collection": "The Breakout Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_4/weapon_glock_cu_glock-liquescent_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_glock_cu_glock-liquescent_light_png.png"
   },
   {
     "Name": "P90 | Asiimov",
@@ -126,8 +126,8 @@
     "WeaponId": 19,
     "PaintKitId": 359,
     "Collection": "The Breakout Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_4/weapon_p90_cu_p90-asiimov_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_p90_cu_p90-asiimov_light_png.png"
   },
   {
     "Name": "M4A1-S | Cyrex",
@@ -136,7 +136,7 @@
     "WeaponId": 60,
     "PaintKitId": 360,
     "Collection": "The Breakout Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_4/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_4/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_png.png"
   }
 ]

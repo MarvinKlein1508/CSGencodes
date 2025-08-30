@@ -6,8 +6,8 @@
     "WeaponId": 2,
     "PaintKitId": 491,
     "Collection": "The Shadow Collection",
-    "Rarity": "rare",
-    "Image": "set_community_9/weapon_elite_gs_cu_dualberretta_dragons_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_elite_gs_cu_dualberretta_dragons_light_png.png"
   },
   {
     "Name": "FAMAS | Survivor Z",
@@ -16,8 +16,8 @@
     "WeaponId": 10,
     "PaintKitId": 492,
     "Collection": "The Shadow Collection",
-    "Rarity": "rare",
-    "Image": "set_community_9/weapon_famas_cu_famas_lenta_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_famas_cu_famas_lenta_light_png.png"
   },
   {
     "Name": "Glock-18 | Wraiths",
@@ -26,8 +26,8 @@
     "WeaponId": 4,
     "PaintKitId": 495,
     "Collection": "The Shadow Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_9/weapon_glock_gs_glock18_wrathys_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_glock_gs_glock18_wrathys_light_png.png"
   },
   {
     "Name": "MAC-10 | Rangeen",
@@ -36,8 +36,8 @@
     "WeaponId": 17,
     "PaintKitId": 498,
     "Collection": "The Shadow Collection",
-    "Rarity": "rare",
-    "Image": "set_community_9/weapon_mac10_cu_mac10_alekhya_duo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_mac10_cu_mac10_alekhya_duo_light_png.png"
   },
   {
     "Name": "MAG-7 | Cobalt Core",
@@ -46,8 +46,8 @@
     "WeaponId": 27,
     "PaintKitId": 499,
     "Collection": "The Shadow Collection",
-    "Rarity": "rare",
-    "Image": "set_community_9/weapon_mag7_cu_mag7_myrcene_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_mag7_cu_mag7_myrcene_light_png.png"
   },
   {
     "Name": "SCAR-20 | Green Marine",
@@ -56,8 +56,8 @@
     "WeaponId": 38,
     "PaintKitId": 502,
     "Collection": "The Shadow Collection",
-    "Rarity": "rare",
-    "Image": "set_community_9/weapon_scar20_gs_scar20_peacemaker03_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_scar20_gs_scar20_peacemaker03_light_png.png"
   },
   {
     "Name": "XM1014 | Scumbria",
@@ -66,8 +66,8 @@
     "WeaponId": 25,
     "PaintKitId": 505,
     "Collection": "The Shadow Collection",
-    "Rarity": "rare",
-    "Image": "set_community_9/weapon_xm1014_aq_xm1014_scumbria_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_xm1014_aq_xm1014_scumbria_light_png.png"
   },
   {
     "Name": "Galil AR | Stone Cold",
@@ -76,8 +76,8 @@
     "WeaponId": 13,
     "PaintKitId": 494,
     "Collection": "The Shadow Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_9/weapon_galilar_gs_galil_nightwing_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_galilar_gs_galil_nightwing_light_png.png"
   },
   {
     "Name": "M249 | Nebula Crusader",
@@ -86,8 +86,8 @@
     "WeaponId": 14,
     "PaintKitId": 496,
     "Collection": "The Shadow Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_9/weapon_m249_gs_m249_nebula_crusader_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_m249_gs_m249_nebula_crusader_light_png.png"
   },
   {
     "Name": "MP7 | Special Delivery",
@@ -96,8 +96,8 @@
     "WeaponId": 33,
     "PaintKitId": 500,
     "Collection": "The Shadow Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_9/weapon_mp7_cu_mp7_classified_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_mp7_cu_mp7_classified_light_png.png"
   },
   {
     "Name": "P250 | Wingshot",
@@ -106,8 +106,8 @@
     "WeaponId": 36,
     "PaintKitId": 501,
     "Collection": "The Shadow Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_9/weapon_p250_hy_p250_crackshot_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_p250_hy_p250_crackshot_light_png.png"
   },
   {
     "Name": "AK-47 | Frontside Misty",
@@ -116,8 +116,8 @@
     "WeaponId": 7,
     "PaintKitId": 490,
     "Collection": "The Shadow Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_9/weapon_ak47_cu_ak47_winter_sport_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_ak47_cu_ak47_winter_sport_light_png.png"
   },
   {
     "Name": "G3SG1 | Flux",
@@ -126,8 +126,8 @@
     "WeaponId": 11,
     "PaintKitId": 493,
     "Collection": "The Shadow Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_9/weapon_g3sg1_gs_g3sg1_flux_purple_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_g3sg1_gs_g3sg1_flux_purple_light_png.png"
   },
   {
     "Name": "SSG 08 | Big Iron",
@@ -136,8 +136,8 @@
     "WeaponId": 40,
     "PaintKitId": 503,
     "Collection": "The Shadow Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_9/weapon_ssg08_cu_ssg08_technicality_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_ssg08_cu_ssg08_technicality_light_png.png"
   },
   {
     "Name": "M4A1-S | Golden Coil",
@@ -146,8 +146,8 @@
     "WeaponId": 60,
     "PaintKitId": 497,
     "Collection": "The Shadow Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_9/weapon_m4a1_silencer_gs_m4a1s_snakebite_gold_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_m4a1_silencer_gs_m4a1s_snakebite_gold_light_png.png"
   },
   {
     "Name": "USP-S | Kill Confirmed",
@@ -156,7 +156,7 @@
     "WeaponId": 61,
     "PaintKitId": 504,
     "Collection": "The Shadow Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_9/weapon_usp_silencer_cu_usp_kill_confirmed_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_usp_silencer_cu_usp_kill_confirmed_light_png.png"
   }
 ]

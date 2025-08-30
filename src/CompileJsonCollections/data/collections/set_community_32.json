@@ -6,8 +6,8 @@
     "WeaponId": 27,
     "PaintKitId": 1220,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_mag7_cu_mag7_insomnia_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_mag7_cu_mag7_insomnia_light_png.png"
   },
   {
     "Name": "MP9 | Featherweight",
@@ -16,8 +16,8 @@
     "WeaponId": 34,
     "PaintKitId": 1225,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_mp9_cu_mp9_superlight_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_mp9_cu_mp9_superlight_light_png.png"
   },
   {
     "Name": "SCAR-20 | Fragments",
@@ -26,8 +26,8 @@
     "WeaponId": 38,
     "PaintKitId": 1226,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_scar20_gs_scar_fragments_black_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_scar20_gs_scar_fragments_black_light_png.png"
   },
   {
     "Name": "P250 | Re.built",
@@ -36,8 +36,8 @@
     "WeaponId": 36,
     "PaintKitId": 1230,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_p250_cu_p250_rebuilt_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_p250_cu_p250_rebuilt_light_png.png"
   },
   {
     "Name": "MP5-SD | Liquidation",
@@ -46,8 +46,8 @@
     "WeaponId": 23,
     "PaintKitId": 1231,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_mp5sd_cu_mp5sd_quick_liquidation_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_mp5sd_cu_mp5sd_quick_liquidation_light_png.png"
   },
   {
     "Name": "SG 553 | Cyberforce",
@@ -56,8 +56,8 @@
     "WeaponId": 39,
     "PaintKitId": 1234,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_sg556_cu_sg553_cyberforce_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_sg556_cu_sg553_cyberforce_light_png.png"
   },
   {
     "Name": "Tec-9 | Rebel",
@@ -66,8 +66,8 @@
     "WeaponId": 30,
     "PaintKitId": 1235,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_tec9_cu_tec9_freedom_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_tec9_cu_tec9_freedom_light_png.png"
   },
   {
     "Name": "M4A1-S | Emphorosaur-S",
@@ -76,8 +76,8 @@
     "WeaponId": 60,
     "PaintKitId": 1223,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_m4a1_silencer_cu_m4a1s_feeding_frenzy_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_m4a1_silencer_cu_m4a1s_feeding_frenzy_light_png.png"
   },
   {
     "Name": "Glock-18 | Umbral Rabbit",
@@ -86,8 +86,8 @@
     "WeaponId": 4,
     "PaintKitId": 1227,
     "Collection": "The Revolution Collection",
-    "Rarity": "rare",
-    "Image": "set_community_32/weapon_glock_cu_glock_moon_rabbit_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_glock_cu_glock_moon_rabbit_light_png.png"
   },
   {
     "Name": "MAC-10 | Sakkaku",
@@ -96,8 +96,8 @@
     "WeaponId": 17,
     "PaintKitId": 1229,
     "Collection": "The Revolution Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_32/weapon_mac10_cu_mac10_sakkaku_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_mac10_cu_mac10_sakkaku_light_png.png"
   },
   {
     "Name": "R8 Revolver | Banana Cannon",
@@ -106,8 +106,8 @@
     "WeaponId": 64,
     "PaintKitId": 1232,
     "Collection": "The Revolution Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_32/weapon_revolver_gs_r8_banana_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_revolver_gs_r8_banana_light_png.png"
   },
   {
     "Name": "P90 | Neoqueen",
@@ -116,8 +116,8 @@
     "WeaponId": 19,
     "PaintKitId": 1233,
     "Collection": "The Revolution Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_32/weapon_p90_gs_p90_neoqueen_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_p90_gs_p90_neoqueen_light_png.png"
   },
   {
     "Name": "UMP-45 | Wild Child",
@@ -126,8 +126,8 @@
     "WeaponId": 24,
     "PaintKitId": 1236,
     "Collection": "The Revolution Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_32/weapon_ump45_cu_ump_clutch_kick_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_ump45_cu_ump_clutch_kick_light_png.png"
   },
   {
     "Name": "P2000 | Wicked Sick",
@@ -136,8 +136,8 @@
     "WeaponId": 32,
     "PaintKitId": 1224,
     "Collection": "The Revolution Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_32/weapon_hkp2000_cu_p2000_decline_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_hkp2000_cu_p2000_decline_light_png.png"
   },
   {
     "Name": "AWP | Duality",
@@ -146,8 +146,8 @@
     "WeaponId": 9,
     "PaintKitId": 1222,
     "Collection": "The Revolution Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_32/weapon_awp_gs_awp_limbo_snake_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_awp_gs_awp_limbo_snake_light_png.png"
   },
   {
     "Name": "AK-47 | Head Shot",
@@ -156,8 +156,8 @@
     "WeaponId": 7,
     "PaintKitId": 1221,
     "Collection": "The Revolution Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_32/weapon_ak47_cu_ak_head_shot_holo_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_ak47_cu_ak_head_shot_holo_light_png.png"
   },
   {
     "Name": "M4A4 | Temukau",
@@ -166,7 +166,7 @@
     "WeaponId": 16,
     "PaintKitId": 1228,
     "Collection": "The Revolution Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_32/weapon_m4a1_cu_m4a4_temukau_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_32/weapon_m4a1_cu_m4a4_temukau_light_png.png"
   }
 ]

@@ -2,137 +2,137 @@
   {
     "Name": "Battlefield Portal",
     "StickerId": 4903,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/bf_portal_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80699"
   },
   {
     "Name": "BF 2042",
     "StickerId": 4904,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/bf2042_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80681"
   },
   {
     "Name": "Come Here Boy",
     "StickerId": 4905,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/comehereboy_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80687"
   },
   {
     "Name": "Forty Two",
     "StickerId": 4906,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/fortytwo_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80680"
   },
   {
     "Name": "Knives Out",
     "StickerId": 4907,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/knives_out_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80691"
   },
   {
     "Name": "Mr. Chompy",
     "StickerId": 4908,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/mrchompy_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80700"
   },
   {
     "Name": "No Pats",
     "StickerId": 4909,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/nopats_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80702"
   },
   {
     "Name": "PAC AI",
     "StickerId": 4910,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/pac_ai_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80689"
   },
   {
     "Name": "PTFO",
     "StickerId": 4911,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/ptfo_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80697"
   },
   {
     "Name": "Ready For Battle",
     "StickerId": 4912,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/bf2042/ready_for_battle_paper_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80688"
   },
   {
     "Name": "No Pats (Holo)",
     "StickerId": 4913,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/bf2042/nopats_holo_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80701"
   },
   {
     "Name": "PTFO (Holo)",
     "StickerId": 4914,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/bf2042/ptfo_holo_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80690"
   },
   {
     "Name": "Ready For Battle (Holo)",
     "StickerId": 4915,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/bf2042/ready_for_battle_holo_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80710"
   },
   {
     "Name": "Wingsuit (Holo)",
     "StickerId": 4916,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/bf2042/wingsuit_holo_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80693"
   },
   {
     "Name": "Mr. Chompy (Foil)",
     "StickerId": 4917,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/bf2042/mrchompy_foil_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80726"
   },
   {
     "Name": "PAC AI (Foil)",
     "StickerId": 4918,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/bf2042/pac_ai_foil_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80723"
   },
   {
     "Name": "Tornado Chaos (Foil)",
     "StickerId": 4919,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/bf2042/tornado_chaos_foil_png.png",
     "Collection": "bf2042",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s80705"
   }
 ]

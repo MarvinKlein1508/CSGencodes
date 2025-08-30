@@ -6,8 +6,8 @@
     "WeaponId": 7,
     "PaintKitId": 422,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_7/weapon_ak47_cu_ak47_mastery_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_ak47_cu_ak47_mastery_light_png.png"
   },
   {
     "Name": "MP7 | Armor Core",
@@ -16,8 +16,8 @@
     "WeaponId": 33,
     "PaintKitId": 423,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_7/weapon_mp7_aq_mp7_ultramodern_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_mp7_aq_mp7_ultramodern_light_png.png"
   },
   {
     "Name": "Desert Eagle | Bronze Deco",
@@ -26,8 +26,8 @@
     "WeaponId": 1,
     "PaintKitId": 425,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_7/weapon_deagle_am_bronze_sparkle_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_deagle_am_bronze_sparkle_light_png.png"
   },
   {
     "Name": "P250 | Valence",
@@ -36,8 +36,8 @@
     "WeaponId": 36,
     "PaintKitId": 426,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_7/weapon_p250_aq_p250_contour_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_p250_aq_p250_contour_light_png.png"
   },
   {
     "Name": "Negev | Man-o\u0027-war",
@@ -46,8 +46,8 @@
     "WeaponId": 28,
     "PaintKitId": 432,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_7/weapon_negev_am_negev_glory_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_negev_am_negev_glory_light_png.png"
   },
   {
     "Name": "Sawed-Off | Origami",
@@ -56,8 +56,8 @@
     "WeaponId": 29,
     "PaintKitId": 434,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_7/weapon_sawedoff_cu_sawedoff_origami_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_sawedoff_cu_sawedoff_origami_light_png.png"
   },
   {
     "Name": "AWP | Worm God",
@@ -66,8 +66,8 @@
     "WeaponId": 9,
     "PaintKitId": 424,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "rare",
-    "Image": "set_community_7/weapon_awp_aq_awp_twine_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_awp_aq_awp_twine_light_png.png"
   },
   {
     "Name": "MAG-7 | Heat",
@@ -76,8 +76,8 @@
     "WeaponId": 27,
     "PaintKitId": 431,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_7/weapon_mag7_cu_mag7_redhot_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_mag7_cu_mag7_redhot_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Pole Position",
@@ -86,8 +86,8 @@
     "WeaponId": 63,
     "PaintKitId": 435,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_7/weapon_cz75a_cu_cz75_precision_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_cz75a_cu_cz75_precision_light_png.png"
   },
   {
     "Name": "UMP-45 | Grand Prix",
@@ -96,8 +96,8 @@
     "WeaponId": 24,
     "PaintKitId": 436,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_7/weapon_ump45_am_ump_racer_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_ump45_am_ump_racer_light_png.png"
   },
   {
     "Name": "Five-SeveN | Monkey Business",
@@ -106,8 +106,8 @@
     "WeaponId": 3,
     "PaintKitId": 427,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_7/weapon_fiveseven_cu_fiveseven_banana_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_fiveseven_cu_fiveseven_banana_light_png.png"
   },
   {
     "Name": "Galil AR | Eco",
@@ -116,8 +116,8 @@
     "WeaponId": 13,
     "PaintKitId": 428,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_7/weapon_galilar_cu_galil_eco_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_galilar_cu_galil_eco_light_png.png"
   },
   {
     "Name": "FAMAS | Djinn",
@@ -126,8 +126,8 @@
     "WeaponId": 10,
     "PaintKitId": 429,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_7/weapon_famas_aq_famas_jinn_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_famas_aq_famas_jinn_light_png.png"
   },
   {
     "Name": "M4A1-S | Hyper Beast",
@@ -136,8 +136,8 @@
     "WeaponId": 60,
     "PaintKitId": 430,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_7/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_png.png"
   },
   {
     "Name": "MAC-10 | Neon Rider",
@@ -146,7 +146,7 @@
     "WeaponId": 17,
     "PaintKitId": 433,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_7/weapon_mac10_cu_mac10_neonrider_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_7/weapon_mac10_cu_mac10_neonrider_light_png.png"
   }
 ]

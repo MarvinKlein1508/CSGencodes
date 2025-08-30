@@ -6,8 +6,8 @@
     "WeaponId": 10,
     "PaintKitId": 1146,
     "Collection": "The Recoil Collection",
-    "Rarity": "rare",
-    "Image": "set_community_31/weapon_famas_gs_famas_corp_meow_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_famas_gs_famas_corp_meow_light_png.png"
   },
   {
     "Name": "Galil AR | Destroyer",
@@ -16,8 +16,8 @@
     "WeaponId": 13,
     "PaintKitId": 1147,
     "Collection": "The Recoil Collection",
-    "Rarity": "rare",
-    "Image": "set_community_31/weapon_galilar_cu_galil_destroyer_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_galilar_cu_galil_destroyer_light_png.png"
   },
   {
     "Name": "M4A4 | Poly Mag",
@@ -26,8 +26,8 @@
     "WeaponId": 16,
     "PaintKitId": 1149,
     "Collection": "The Recoil Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_31/weapon_m4a1_cu_m4a4_elite_tactical_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_m4a1_cu_m4a4_elite_tactical_light_png.png"
   },
   {
     "Name": "MAC-10 | Monkeyflage",
@@ -36,8 +36,8 @@
     "WeaponId": 17,
     "PaintKitId": 1150,
     "Collection": "The Recoil Collection",
-    "Rarity": "rare",
-    "Image": "set_community_31/weapon_mac10_cu_mac10_monkeyflage_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_mac10_cu_mac10_monkeyflage_light_png.png"
   },
   {
     "Name": "Negev | Drop Me",
@@ -46,8 +46,8 @@
     "WeaponId": 28,
     "PaintKitId": 1152,
     "Collection": "The Recoil Collection",
-    "Rarity": "rare",
-    "Image": "set_community_31/weapon_negev_cu_negev_clear_sky_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_negev_cu_negev_clear_sky_light_png.png"
   },
   {
     "Name": "UMP-45 | Roadblock",
@@ -56,8 +56,8 @@
     "WeaponId": 24,
     "PaintKitId": 1157,
     "Collection": "The Recoil Collection",
-    "Rarity": "rare",
-    "Image": "set_community_31/weapon_ump45_gs_ump_roadblock_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_ump45_gs_ump_roadblock_light_png.png"
   },
   {
     "Name": "Glock-18 | Winterized",
@@ -66,8 +66,8 @@
     "WeaponId": 4,
     "PaintKitId": 1158,
     "Collection": "The Recoil Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_31/weapon_glock_gs_glock_elite_camo_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_glock_gs_glock_elite_camo_light_png.png"
   },
   {
     "Name": "R8 Revolver | Crazy 8",
@@ -76,8 +76,8 @@
     "WeaponId": 64,
     "PaintKitId": 1145,
     "Collection": "The Recoil Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_31/weapon_revolver_gs_revolver_purple_elite_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_revolver_gs_revolver_purple_elite_light_png.png"
   },
   {
     "Name": "M249 | Downtown",
@@ -86,8 +86,8 @@
     "WeaponId": 14,
     "PaintKitId": 1148,
     "Collection": "The Recoil Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_31/weapon_m249_cu_m249_downvote_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_m249_cu_m249_downvote_light_png.png"
   },
   {
     "Name": "SG 553 | Dragon Tech",
@@ -96,8 +96,8 @@
     "WeaponId": 39,
     "PaintKitId": 1151,
     "Collection": "The Recoil Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_31/weapon_sg556_cu_sg553_cyber_dragon_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_sg556_cu_sg553_cyber_dragon_light_png.png"
   },
   {
     "Name": "P90 | Vent Rush",
@@ -106,8 +106,8 @@
     "WeaponId": 19,
     "PaintKitId": 1154,
     "Collection": "The Recoil Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_31/weapon_p90_gs_p90_tangled_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_p90_gs_p90_tangled_light_png.png"
   },
   {
     "Name": "Dual Berettas | Flora Carnivora",
@@ -116,8 +116,8 @@
     "WeaponId": 2,
     "PaintKitId": 1156,
     "Collection": "The Recoil Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_31/weapon_elite_gs_cu_dual_elites_evil_flora_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_elite_gs_cu_dual_elites_evil_flora_light_png.png"
   },
   {
     "Name": "AK-47 | Ice Coaled",
@@ -126,8 +126,8 @@
     "WeaponId": 7,
     "PaintKitId": 1143,
     "Collection": "The Recoil Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_31/weapon_ak47_cu_ak47_cogthings_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_ak47_cu_ak47_cogthings_light_png.png"
   },
   {
     "Name": "P250 | Visions",
@@ -136,8 +136,8 @@
     "WeaponId": 36,
     "PaintKitId": 1153,
     "Collection": "The Recoil Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_31/weapon_p250_gs_p250_visions_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_p250_gs_p250_visions_light_png.png"
   },
   {
     "Name": "Sawed-Off | Kiss\u2665Love",
@@ -146,8 +146,8 @@
     "WeaponId": 29,
     "PaintKitId": 1155,
     "Collection": "The Recoil Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_31/weapon_sawedoff_cu_sawedoff_kisslove_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_sawedoff_cu_sawedoff_kisslove_light_png.png"
   },
   {
     "Name": "USP-S | Printstream",
@@ -156,8 +156,8 @@
     "WeaponId": 61,
     "PaintKitId": 1142,
     "Collection": "The Recoil Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_31/weapon_usp_silencer_cu_usp_printstream_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_usp_silencer_cu_usp_printstream_light_png.png"
   },
   {
     "Name": "AWP | Chromatic Aberration",
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 1144,
     "Collection": "The Recoil Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_31/weapon_awp_cu_awp_chroma_pink_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_awp_cu_awp_chroma_pink_light_png.png"
   }
 ]

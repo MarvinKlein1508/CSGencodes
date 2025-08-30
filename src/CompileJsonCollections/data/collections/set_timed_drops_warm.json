@@ -6,8 +6,8 @@
     "WeaponId": 33,
     "PaintKitId": 1326,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_mp7_so_mustard_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_mp7_so_mustard_light_png.png"
   },
   {
     "Name": "SCAR-20 | Short Ochre",
@@ -16,8 +16,8 @@
     "WeaponId": 38,
     "PaintKitId": 1327,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_scar20_so_mustard_scar20_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_scar20_so_mustard_scar20_light_png.png"
   },
   {
     "Name": "Dual Berettas | BorDeux",
@@ -26,8 +26,8 @@
     "WeaponId": 2,
     "PaintKitId": 1335,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_elite_gs_soch_acrylic_grips_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_elite_gs_soch_acrylic_grips_light_png.png"
   },
   {
     "Name": "Five-SeveN | Autumn Thicket",
@@ -36,8 +36,8 @@
     "WeaponId": 3,
     "PaintKitId": 1336,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_fiveseven_soo_branches_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_fiveseven_soo_branches_light_png.png"
   },
   {
     "Name": "MAC-10 | Bronzer",
@@ -46,8 +46,8 @@
     "WeaponId": 17,
     "PaintKitId": 1334,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_mac10_so_bronze_powder_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_mac10_so_bronze_powder_light_png.png"
   },
   {
     "Name": "XM1014 | Canvas Cloud",
@@ -56,8 +56,8 @@
     "WeaponId": 25,
     "PaintKitId": 1333,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_xm1014_hy_cloud_camo_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_xm1014_hy_cloud_camo_light_png.png"
   },
   {
     "Name": "PP-Bizon | Wood Block Camo",
@@ -66,8 +66,8 @@
     "WeaponId": 26,
     "PaintKitId": 1325,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_bizon_hy_wood_grain_camo_red_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_bizon_hy_wood_grain_camo_red_light_png.png"
   },
   {
     "Name": "Nova | Marsh Grass",
@@ -76,8 +76,8 @@
     "WeaponId": 35,
     "PaintKitId": 1331,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_nova_soo_grass_photo_camo_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_nova_soo_grass_photo_camo_light_png.png"
   },
   {
     "Name": "G3SG1 | Red Jasper",
@@ -86,8 +86,8 @@
     "WeaponId": 11,
     "PaintKitId": 1328,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_g3sg1_soo_g3sg1_tomato_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_g3sg1_soo_g3sg1_tomato_light_png.png"
   },
   {
     "Name": "P90 | Desert Halftone",
@@ -96,8 +96,8 @@
     "WeaponId": 19,
     "PaintKitId": 1332,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_p90_ht_simple_camo_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_p90_ht_simple_camo_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Pink Pearl",
@@ -106,8 +106,8 @@
     "WeaponId": 63,
     "PaintKitId": 1329,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_cz75a_soe_pink_pearl_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_cz75a_soe_pink_pearl_light_png.png"
   },
   {
     "Name": "MP9 | Multi-Terrain",
@@ -116,8 +116,8 @@
     "WeaponId": 34,
     "PaintKitId": 1330,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_mp9_hy_mtp_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_mp9_hy_mtp_light_png.png"
   },
   {
     "Name": "SG 553 | Basket Halftone",
@@ -126,8 +126,8 @@
     "WeaponId": 39,
     "PaintKitId": 1320,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_sg556_ht_orange_basket_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_sg556_ht_orange_basket_light_png.png"
   },
   {
     "Name": "P250 | Sedimentary",
@@ -136,8 +136,8 @@
     "WeaponId": 36,
     "PaintKitId": 1317,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_p250_soe_yellow_swirl_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_p250_soe_yellow_swirl_light_png.png"
   },
   {
     "Name": "FAMAS | Grey Ghost",
@@ -146,8 +146,8 @@
     "WeaponId": 10,
     "PaintKitId": 1321,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_famas_soo_famas_grey_ghost_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_famas_soo_famas_grey_ghost_light_png.png"
   },
   {
     "Name": "Tec-9 | Citric Acid",
@@ -156,8 +156,8 @@
     "WeaponId": 30,
     "PaintKitId": 1322,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_tec9_soo_paint_splats_yellow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_tec9_soo_paint_splats_yellow_light_png.png"
   },
   {
     "Name": "Galil AR | O-Ranger",
@@ -166,8 +166,8 @@
     "WeaponId": 13,
     "PaintKitId": 1314,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_galilar_soe_orange_flick_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_galilar_soe_orange_flick_light_png.png"
   },
   {
     "Name": "M4A4 | Steel Work",
@@ -176,8 +176,8 @@
     "WeaponId": 16,
     "PaintKitId": 1313,
     "Collection": "The Radiant Collection",
-    "Rarity": "common",
-    "Image": "set_timed_drops_warm/weapon_m4a1_ht_metal_edges_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_m4a1_ht_metal_edges_light_png.png"
   },
   {
     "Name": "M4A1-S | Rose Hex",
@@ -186,8 +186,8 @@
     "WeaponId": 60,
     "PaintKitId": 1319,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_m4a1_silencer_hy_hexagon_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_m4a1_silencer_hy_hexagon_light_png.png"
   },
   {
     "Name": "AWP | Arsenic Spill",
@@ -196,8 +196,8 @@
     "WeaponId": 9,
     "PaintKitId": 1324,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_awp_hy_varicamo_simple_yellow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_awp_hy_varicamo_simple_yellow_light_png.png"
   },
   {
     "Name": "SSG 08 | Blush Pour",
@@ -206,8 +206,8 @@
     "WeaponId": 40,
     "PaintKitId": 1316,
     "Collection": "The Radiant Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_warm/weapon_ssg08_soo_acrylic_flow_pink_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_ssg08_soo_acrylic_flow_pink_light_png.png"
   },
   {
     "Name": "P250 | Red Tide",
@@ -216,8 +216,8 @@
     "WeaponId": 36,
     "PaintKitId": 1315,
     "Collection": "The Radiant Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_warm/weapon_p250_hye_pink_coral_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_p250_hye_pink_coral_light_png.png"
   },
   {
     "Name": "Glock-18 | Coral Bloom",
@@ -226,8 +226,8 @@
     "WeaponId": 4,
     "PaintKitId": 1312,
     "Collection": "The Radiant Collection",
-    "Rarity": "uncommon",
-    "Image": "set_timed_drops_warm/weapon_glock_soe_roses_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_glock_soe_roses_light_png.png"
   },
   {
     "Name": "MP9 | Shredded",
@@ -236,8 +236,8 @@
     "WeaponId": 34,
     "PaintKitId": 1310,
     "Collection": "The Radiant Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_warm/weapon_mp9_hye_pink_tiger_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_mp9_hye_pink_tiger_light_png.png"
   },
   {
     "Name": "Desert Eagle | Mulberry",
@@ -246,8 +246,8 @@
     "WeaponId": 1,
     "PaintKitId": 1318,
     "Collection": "The Radiant Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_warm/weapon_deagle_soe_plum_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_deagle_soe_plum_light_png.png"
   },
   {
     "Name": "USP-S | Bleeding Edge",
@@ -256,8 +256,8 @@
     "WeaponId": 61,
     "PaintKitId": 1323,
     "Collection": "The Radiant Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_warm/weapon_usp_silencer_ht_red_edges_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_usp_silencer_ht_red_edges_light_png.png"
   },
   {
     "Name": "M4A1-S | Glitched Paint",
@@ -266,8 +266,8 @@
     "WeaponId": 60,
     "PaintKitId": 1311,
     "Collection": "The Radiant Collection",
-    "Rarity": "rare",
-    "Image": "set_timed_drops_warm/weapon_m4a1_silencer_ht_abstract_wind_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_m4a1_silencer_ht_abstract_wind_light_png.png"
   },
   {
     "Name": "AK-47 | Nouveau Rouge",
@@ -276,7 +276,7 @@
     "WeaponId": 7,
     "PaintKitId": 1309,
     "Collection": "The Radiant Collection",
-    "Rarity": "mythical",
-    "Image": "set_timed_drops_warm/weapon_ak47_hye_ak47_nouveau_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_ak47_hye_ak47_nouveau_light_png.png"
   }
 ]

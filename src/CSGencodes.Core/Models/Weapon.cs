@@ -12,7 +12,7 @@ public class Weapon : IGenable
     public int WeaponId { get; set; }
     public int PaintKitId { get; set; }
     public string Collection { get; set; } = string.Empty;
-    public string Rarity { get; set; } = string.Empty;
+    public ItemRarity Rarity { get; set; }
     public string? Image { get; set; }
 
     [JsonIgnore]
@@ -30,13 +30,13 @@ public class Weapon : IGenable
     [JsonIgnore]
     public int RarityId => Rarity switch
     {
-        "Consumer" => 1,
-        "Industrial" => 2,
-        "Milspec" => 3,
-        "Restricted" => 4,
-        "Classified" => 5,
-        "Covert" => 6,
-        "Contraband" => 7,
+        ItemRarity.Common => 1,
+        ItemRarity.Uncommon => 2,
+        ItemRarity.Rare => 3,
+        ItemRarity.Mythical => 4,
+        ItemRarity.Legendary => 5,
+        ItemRarity.Ancient => 6,
+        ItemRarity.Immortal => 7,
         _ => 1,
     };
     public string GetGencode(decimal @float, int pattern, string customName, List<AppliedSticker> stickers)

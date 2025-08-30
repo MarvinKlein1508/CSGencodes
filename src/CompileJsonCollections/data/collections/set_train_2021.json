@@ -6,8 +6,8 @@
     "WeaponId": 1,
     "PaintKitId": 1056,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "uncommon",
-    "Image": "set_train_2021/weapon_deagle_sp_spacerace_blue_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_sp_spacerace_blue_light_png.png"
   },
   {
     "Name": "M4A1-S | Fizzy POP",
@@ -16,8 +16,8 @@
     "WeaponId": 60,
     "PaintKitId": 1059,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "uncommon",
-    "Image": "set_train_2021/weapon_m4a1_silencer_sp_technowar_red_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_m4a1_silencer_sp_technowar_red_light_png.png"
   },
   {
     "Name": "SSG 08 | Spring Twilly",
@@ -26,8 +26,8 @@
     "WeaponId": 40,
     "PaintKitId": 1060,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_ssg08_hy_trainarchitect_green_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_ssg08_hy_trainarchitect_green_light_png.png"
   },
   {
     "Name": "P2000 | Amber Fade",
@@ -36,8 +36,8 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "Sawed-Off | Full Stop",
@@ -46,8 +46,8 @@
     "WeaponId": 29,
     "PaintKitId": 250,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_sawedoff_hy_varicamo_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_sawedoff_hy_varicamo_red_light_png.png"
   },
   {
     "Name": "AK-47 | Safety Net",
@@ -56,8 +56,8 @@
     "WeaponId": 7,
     "PaintKitId": 795,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_ak47_hy_mesh_safetyorange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_ak47_hy_mesh_safetyorange_light_png.png"
   },
   {
     "Name": "Desert Eagle | Blaze",
@@ -66,8 +66,8 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_deagle_aa_flames_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_aa_flames_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Syndicate",
@@ -76,8 +76,8 @@
     "WeaponId": 63,
     "PaintKitId": 1064,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "mythical",
-    "Image": "set_train_2021/weapon_cz75a_gs_train_cz75_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_cz75a_gs_train_cz75_light_png.png"
   },
   {
     "Name": "AWP | POP AWP",
@@ -86,8 +86,8 @@
     "WeaponId": 9,
     "PaintKitId": 1058,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_awp_hy_technowar_rwb_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_awp_hy_technowar_rwb_light_png.png"
   },
   {
     "Name": "P2000 | Space Race",
@@ -96,8 +96,8 @@
     "WeaponId": 32,
     "PaintKitId": 1055,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "rare",
-    "Image": "set_train_2021/weapon_hkp2000_aa_spacerace_orange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_spacerace_orange_light_png.png"
   },
   {
     "Name": "MP5-SD | Autumn Twilly",
@@ -106,8 +106,8 @@
     "WeaponId": 23,
     "PaintKitId": 1061,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "mythical",
-    "Image": "set_train_2021/weapon_mp5sd_hy_trainarchitect_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_mp5sd_hy_trainarchitect_light_png.png"
   },
   {
     "Name": "Tec-9 | Red Quartz",
@@ -116,8 +116,8 @@
     "WeaponId": 30,
     "PaintKitId": 248,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "mythical",
-    "Image": "set_train_2021/weapon_tec9_am_crystallized_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_tec9_am_crystallized_light_png.png"
   },
   {
     "Name": "FAMAS | Meltdown",
@@ -126,8 +126,8 @@
     "WeaponId": 10,
     "PaintKitId": 1053,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_famas_am_nuclear_pattern4_famas_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_famas_am_nuclear_pattern4_famas_light_png.png"
   },
   {
     "Name": "MAC-10 | Propaganda",
@@ -136,8 +136,8 @@
     "WeaponId": 17,
     "PaintKitId": 1067,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_mac10_cu_mac10_propaganda_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_mac10_cu_mac10_propaganda_light_png.png"
   },
   {
     "Name": "USP-S | Whiteout",
@@ -146,8 +146,8 @@
     "WeaponId": 61,
     "PaintKitId": 1065,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "mythical",
-    "Image": "set_train_2021/weapon_usp_silencer_so_whiteout_riptide_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_usp_silencer_so_whiteout_riptide_light_png.png"
   },
   {
     "Name": "Glock-18 | Gamma Doppler (Phase 4)",
@@ -156,8 +156,8 @@
     "WeaponId": 4,
     "PaintKitId": 1123,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_glock_am_gamma_doppler_phase4_glock_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase4_glock_light_png.png"
   },
   {
     "Name": "Glock-18 | Gamma Doppler (Phase 3)",
@@ -166,8 +166,8 @@
     "WeaponId": 4,
     "PaintKitId": 1122,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_glock_am_gamma_doppler_phase3_glock_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase3_glock_light_png.png"
   },
   {
     "Name": "Glock-18 | Gamma Doppler (Phase 2)",
@@ -176,8 +176,8 @@
     "WeaponId": 4,
     "PaintKitId": 1121,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_glock_am_gamma_doppler_phase2_glock_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase2_glock_light_png.png"
   },
   {
     "Name": "Glock-18 | Gamma Doppler (Phase 1)",
@@ -186,8 +186,8 @@
     "WeaponId": 4,
     "PaintKitId": 1120,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_glock_am_gamma_doppler_phase1_glock_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase1_glock_light_png.png"
   },
   {
     "Name": "Glock-18 | Gamma Doppler (Emerald)",
@@ -196,8 +196,8 @@
     "WeaponId": 4,
     "PaintKitId": 1119,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_glock_am_emerald_marbleized_glock_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_emerald_marbleized_glock_light_png.png"
   },
   {
     "Name": "M4A4 | The Coalition",
@@ -206,7 +206,7 @@
     "WeaponId": 16,
     "PaintKitId": 1063,
     "Collection": "The 2021 Train Collection",
-    "Rarity": "legendary",
-    "Image": "set_train_2021/weapon_m4a1_gs_m4a4_coalition_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_m4a1_gs_m4a4_coalition_light_png.png"
   }
 ]

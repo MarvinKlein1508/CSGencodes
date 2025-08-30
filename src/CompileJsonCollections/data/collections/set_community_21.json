@@ -6,8 +6,8 @@
     "WeaponId": 34,
     "PaintKitId": 804,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "rare",
-    "Image": "set_community_21/weapon_mp9_gs_mp9_colony01_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_mp9_gs_mp9_colony01_light_png.png"
   },
   {
     "Name": "Glock-18 | Oxide Blaze",
@@ -16,8 +16,8 @@
     "WeaponId": 4,
     "PaintKitId": 808,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_21/weapon_glock_cu_glock18_corroden_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_glock_cu_glock18_corroden_light_png.png"
   },
   {
     "Name": "Nova | Wood Fired",
@@ -26,8 +26,8 @@
     "WeaponId": 35,
     "PaintKitId": 809,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "rare",
-    "Image": "set_community_21/weapon_nova_gs_nova_hunter_brute_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_nova_gs_nova_hunter_brute_light_png.png"
   },
   {
     "Name": "M4A4 | Magnesium",
@@ -36,8 +36,8 @@
     "WeaponId": 16,
     "PaintKitId": 811,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_21/weapon_m4a1_gs_m4a4_chopper_ghost_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_m4a1_gs_m4a4_chopper_ghost_light_png.png"
   },
   {
     "Name": "Sawed-Off | Black Sand",
@@ -46,8 +46,8 @@
     "WeaponId": 29,
     "PaintKitId": 814,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "rare",
-    "Image": "set_community_21/weapon_sawedoff_cu_sawedoff_black_sand_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_sawedoff_cu_sawedoff_black_sand_light_png.png"
   },
   {
     "Name": "SG 553 | Danger Close",
@@ -56,8 +56,8 @@
     "WeaponId": 39,
     "PaintKitId": 815,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "rare",
-    "Image": "set_community_21/weapon_sg556_gs_sg553_over_heated_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_sg556_gs_sg553_over_heated_light_png.png"
   },
   {
     "Name": "Tec-9 | Fubar",
@@ -66,8 +66,8 @@
     "WeaponId": 30,
     "PaintKitId": 816,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "rare",
-    "Image": "set_community_21/weapon_tec9_gs_tec9_fubar_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_tec9_gs_tec9_fubar_light_png.png"
   },
   {
     "Name": "G3SG1 | Scavenger",
@@ -76,8 +76,8 @@
     "WeaponId": 11,
     "PaintKitId": 806,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_21/weapon_g3sg1_gs_g3sg1_savage_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_g3sg1_gs_g3sg1_savage_light_png.png"
   },
   {
     "Name": "Galil AR | Signal",
@@ -86,8 +86,8 @@
     "WeaponId": 13,
     "PaintKitId": 807,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_21/weapon_galilar_hy_galil_signal_red_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_galilar_hy_galil_signal_red_light_png.png"
   },
   {
     "Name": "MAC-10 | Pipe Down",
@@ -96,8 +96,8 @@
     "WeaponId": 17,
     "PaintKitId": 812,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_21/weapon_mac10_gs_mac10_exo_pipes_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_mac10_gs_mac10_exo_pipes_light_png.png"
   },
   {
     "Name": "P250 | Nevermore",
@@ -106,8 +106,8 @@
     "WeaponId": 36,
     "PaintKitId": 813,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_21/weapon_p250_aa_p250_gravediggers_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_p250_aa_p250_gravediggers_light_png.png"
   },
   {
     "Name": "USP-S | Flashback",
@@ -116,8 +116,8 @@
     "WeaponId": 61,
     "PaintKitId": 817,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "rare",
-    "Image": "set_community_21/weapon_usp_silencer_cu_usp_flashback_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_usp_silencer_cu_usp_flashback_light_png.png"
   },
   {
     "Name": "UMP-45 | Momentum",
@@ -126,8 +126,8 @@
     "WeaponId": 24,
     "PaintKitId": 802,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_21/weapon_ump45_cu_ump_arrows_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_ump45_cu_ump_arrows_light_png.png"
   },
   {
     "Name": "Desert Eagle | Mecha Industries",
@@ -136,8 +136,8 @@
     "WeaponId": 1,
     "PaintKitId": 805,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_21/weapon_deagle_gs_deagle_mecha_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_deagle_gs_deagle_mecha_light_png.png"
   },
   {
     "Name": "MP5-SD | Phosphor",
@@ -146,8 +146,8 @@
     "WeaponId": 23,
     "PaintKitId": 810,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_21/weapon_mp5sd_gs_mp5_festival_drip_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_mp5sd_gs_mp5_festival_drip_light_png.png"
   },
   {
     "Name": "AK-47 | Asiimov",
@@ -156,8 +156,8 @@
     "WeaponId": 7,
     "PaintKitId": 801,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_21/weapon_ak47_cu_ak47_asiimov_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_ak47_cu_ak47_asiimov_light_png.png"
   },
   {
     "Name": "AWP | Neo-Noir",
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 803,
     "Collection": "The Danger Zone Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_21/weapon_awp_cu_awp_neonoir_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_21/weapon_awp_cu_awp_neonoir_light_png.png"
   }
 ]

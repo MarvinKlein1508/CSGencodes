@@ -2,105 +2,105 @@
   {
     "Name": "Last Vance",
     "StickerId": 4601,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/last_vance_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53277"
   },
   {
     "Name": "Vortigaunt the Painter",
     "StickerId": 4602,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/art_vort_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53276"
   },
   {
     "Name": "Big Hugs",
     "StickerId": 4603,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/big_hugs_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53278"
   },
   {
     "Name": "Combine Helmet",
     "StickerId": 4604,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/combine_mask_broken_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53280"
   },
   {
     "Name": "Gnome Mercy",
     "StickerId": 4605,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/gnome_mercy_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53284"
   },
   {
     "Name": "Greetings",
     "StickerId": 4606,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/greetings_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53279"
   },
   {
     "Name": "Lambda",
     "StickerId": 4607,
-    "Rarity": 0,
+    "Rarity": 3,
     "Image": "/assets/img/items/stickers/alyx/lambda_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53286"
   },
   {
     "Name": "Vortigaunt (Holo)",
     "StickerId": 4608,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/alyx/vortigaunt_holo_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53292"
   },
   {
     "Name": "Big Hugs (Holo)",
     "StickerId": 4609,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/alyx/big_hugs_holo_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53320"
   },
   {
     "Name": "Combine Helmet (Holo)",
     "StickerId": 4610,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/alyx/combine_mask_broken_holo_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53309"
   },
   {
     "Name": "Lambda (Holo)",
     "StickerId": 4611,
-    "Rarity": 1,
+    "Rarity": 4,
     "Image": "/assets/img/items/stickers/alyx/lambda_holo_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53287"
   },
   {
     "Name": "Last Vance (Gold)",
     "StickerId": 4612,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/alyx/last_vance_gold_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53325"
   },
   {
     "Name": "Health (Gold)",
     "StickerId": 4613,
-    "Rarity": 2,
+    "Rarity": 5,
     "Image": "/assets/img/items/stickers/alyx/health_foil_png.png",
     "Collection": "alyx",
-    "SkinportSearchId": null
+    "SkinportSearchId": "s53321"
   }
 ]

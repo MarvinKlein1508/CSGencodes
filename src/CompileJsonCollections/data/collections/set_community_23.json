@@ -6,8 +6,8 @@
     "WeaponId": 23,
     "PaintKitId": 888,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_mp5sd_gs_mp5_etch_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_mp5sd_gs_mp5_etch_light_png.png"
   },
   {
     "Name": "Nova | Plume",
@@ -16,8 +16,8 @@
     "WeaponId": 35,
     "PaintKitId": 890,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_nova_cu_nova_featherswing_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_nova_cu_nova_featherswing_light_png.png"
   },
   {
     "Name": "G3SG1 | Black Sand",
@@ -26,8 +26,8 @@
     "WeaponId": 11,
     "PaintKitId": 891,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_g3sg1_cu_g3sg1_blacksand_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_g3sg1_cu_g3sg1_blacksand_light_png.png"
   },
   {
     "Name": "R8 Revolver | Memento",
@@ -36,8 +36,8 @@
     "WeaponId": 64,
     "PaintKitId": 892,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_revolver_gs_r8_memento_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_revolver_gs_r8_memento_light_png.png"
   },
   {
     "Name": "Dual Berettas | Balance",
@@ -46,8 +46,8 @@
     "WeaponId": 2,
     "PaintKitId": 895,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_elite_gs_gs_dual_elites_rose_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_elite_gs_gs_dual_elites_rose_light_png.png"
   },
   {
     "Name": "SCAR-20 | Torn",
@@ -56,8 +56,8 @@
     "WeaponId": 38,
     "PaintKitId": 896,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_scar20_sp_scar20_striker_dust_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_scar20_sp_scar20_striker_dust_light_png.png"
   },
   {
     "Name": "M249 | Warbird",
@@ -66,8 +66,8 @@
     "WeaponId": 14,
     "PaintKitId": 900,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_m249_gs_m249_warbird_veteran_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_m249_gs_m249_warbird_veteran_light_png.png"
   },
   {
     "Name": "PP-Bizon | Embargo",
@@ -76,8 +76,8 @@
     "WeaponId": 26,
     "PaintKitId": 884,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_23/weapon_bizon_cu_bizon_road_warrior_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_bizon_cu_bizon_road_warrior_light_png.png"
   },
   {
     "Name": "AK-47 | Rat Rod",
@@ -86,8 +86,8 @@
     "WeaponId": 7,
     "PaintKitId": 885,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_ak47_gs_ak47_nibbler_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_ak47_gs_ak47_nibbler_light_png.png"
   },
   {
     "Name": "AUG | Arctic Wolf",
@@ -96,8 +96,8 @@
     "WeaponId": 8,
     "PaintKitId": 886,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_23/weapon_aug_cu_aug_whitefang_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_aug_cu_aug_whitefang_light_png.png"
   },
   {
     "Name": "MP7 | Neon Ply",
@@ -106,8 +106,8 @@
     "WeaponId": 33,
     "PaintKitId": 893,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_23/weapon_mp7_cu_mp7_replica_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_mp7_cu_mp7_replica_light_png.png"
   },
   {
     "Name": "P2000 | Obsidian",
@@ -116,8 +116,8 @@
     "WeaponId": 32,
     "PaintKitId": 894,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "rare",
-    "Image": "set_community_23/weapon_hkp2000_cu_p2000_obsidian_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_hkp2000_cu_p2000_obsidian_light_png.png"
   },
   {
     "Name": "Tec-9 | Decimator",
@@ -126,8 +126,8 @@
     "WeaponId": 30,
     "PaintKitId": 889,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_23/weapon_tec9_gs_tec9_decimator_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_tec9_gs_tec9_decimator_light_png.png"
   },
   {
     "Name": "SG 553 | Colony IV",
@@ -136,8 +136,8 @@
     "WeaponId": 39,
     "PaintKitId": 897,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_23/weapon_sg556_cu_sg553_reactor_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_sg556_cu_sg553_reactor_light_png.png"
   },
   {
     "Name": "SSG 08 | Bloodshot",
@@ -146,8 +146,8 @@
     "WeaponId": 40,
     "PaintKitId": 899,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_23/weapon_ssg08_cu_ssg08_tickler_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_ssg08_cu_ssg08_tickler_light_png.png"
   },
   {
     "Name": "AWP | Containment Breach",
@@ -156,8 +156,8 @@
     "WeaponId": 9,
     "PaintKitId": 887,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_23/weapon_awp_cu_awp_virus_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_awp_cu_awp_virus_light_png.png"
   },
   {
     "Name": "MAC-10 | Stalker",
@@ -166,7 +166,7 @@
     "WeaponId": 17,
     "PaintKitId": 898,
     "Collection": "The Shattered Web Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_23/weapon_mac10_gs_mac10_stalker_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_mac10_gs_mac10_stalker_light_png.png"
   }
 ]

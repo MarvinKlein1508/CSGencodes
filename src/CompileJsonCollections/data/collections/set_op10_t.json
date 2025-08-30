@@ -6,8 +6,8 @@
     "WeaponId": 2,
     "PaintKitId": 1005,
     "Collection": "The Havoc Collection",
-    "Rarity": "common",
-    "Image": "set_op10_t/weapon_elite_gs_am_heist_plans_green_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_elite_gs_am_heist_plans_green_light_png.png"
   },
   {
     "Name": "Tec-9 | Phoenix Chalk",
@@ -16,8 +16,8 @@
     "WeaponId": 30,
     "PaintKitId": 1010,
     "Collection": "The Havoc Collection",
-    "Rarity": "common",
-    "Image": "set_op10_t/weapon_tec9_hy_phoenix_tags_lilac_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_tec9_hy_phoenix_tags_lilac_light_png.png"
   },
   {
     "Name": "Sawed-Off | Clay Ambush",
@@ -26,8 +26,8 @@
     "WeaponId": 29,
     "PaintKitId": 1014,
     "Collection": "The Havoc Collection",
-    "Rarity": "common",
-    "Image": "set_op10_t/weapon_sawedoff_hy_tigers_tan_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_sawedoff_hy_tigers_tan_light_png.png"
   },
   {
     "Name": "Glock-18 | Death Rattle",
@@ -36,8 +36,8 @@
     "WeaponId": 4,
     "PaintKitId": 293,
     "Collection": "The Havoc Collection",
-    "Rarity": "common",
-    "Image": "set_op10_t/weapon_glock_hy_nerodia_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_hy_nerodia_light_png.png"
   },
   {
     "Name": "AK-47 | Predator",
@@ -46,8 +46,8 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Havoc Collection",
-    "Rarity": "common",
-    "Image": "set_op10_t/weapon_ak47_sp_zebracam_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
     "Name": "MP7 | Vault Heist",
@@ -56,8 +56,8 @@
     "WeaponId": 33,
     "PaintKitId": 1007,
     "Collection": "The Havoc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_t/weapon_mp7_am_heist_plans_yellow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_mp7_am_heist_plans_yellow_light_png.png"
   },
   {
     "Name": "UMP-45 | Houndstooth",
@@ -66,8 +66,8 @@
     "WeaponId": 24,
     "PaintKitId": 1008,
     "Collection": "The Havoc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_t/weapon_ump45_hy_houndstooth_brown_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_ump45_hy_houndstooth_brown_light_png.png"
   },
   {
     "Name": "R8 Revolver | Phoenix Marker",
@@ -76,8 +76,8 @@
     "WeaponId": 64,
     "PaintKitId": 1011,
     "Collection": "The Havoc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_t/weapon_revolver_am_phoenix_tags_blue_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_revolver_am_phoenix_tags_blue_light_png.png"
   },
   {
     "Name": "Sawed-Off | Rust Coat",
@@ -86,8 +86,8 @@
     "WeaponId": 29,
     "PaintKitId": 323,
     "Collection": "The Havoc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_t/weapon_sawedoff_aq_steel_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_sawedoff_aq_steel_light_png.png"
   },
   {
     "Name": "Desert Eagle | Night Heist",
@@ -96,8 +96,8 @@
     "WeaponId": 1,
     "PaintKitId": 1006,
     "Collection": "The Havoc Collection",
-    "Rarity": "uncommon",
-    "Image": "set_op10_t/weapon_deagle_am_heist_plans_purple_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_am_heist_plans_purple_light_png.png"
   },
   {
     "Name": "Negev | Phoenix Stencil",
@@ -106,8 +106,8 @@
     "WeaponId": 28,
     "PaintKitId": 1012,
     "Collection": "The Havoc Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_t/weapon_negev_hy_phoenix_tags_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_negev_hy_phoenix_tags_red_light_png.png"
   },
   {
     "Name": "P90 | Tiger Pit",
@@ -116,8 +116,8 @@
     "WeaponId": 19,
     "PaintKitId": 1015,
     "Collection": "The Havoc Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_t/weapon_p90_am_tigers_brown_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_p90_am_tigers_brown_light_png.png"
   },
   {
     "Name": "P250 | Bengal Tiger",
@@ -126,8 +126,8 @@
     "WeaponId": 36,
     "PaintKitId": 1030,
     "Collection": "The Havoc Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_t/weapon_p250_hy_p250_tiger_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_p250_hy_p250_tiger_light_png.png"
   },
   {
     "Name": "Galil AR | Phoenix Blacklight",
@@ -136,8 +136,8 @@
     "WeaponId": 13,
     "PaintKitId": 1013,
     "Collection": "The Havoc Collection",
-    "Rarity": "mythical",
-    "Image": "set_op10_t/weapon_galilar_sp_phoenix_tags_purple_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_galilar_sp_phoenix_tags_purple_light_png.png"
   },
   {
     "Name": "Desert Eagle | Hypnotic",
@@ -146,8 +146,8 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Havoc Collection",
-    "Rarity": "mythical",
-    "Image": "set_op10_t/weapon_deagle_aa_vertigo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
     "Name": "Glock-18 | Franklin",
@@ -156,8 +156,8 @@
     "WeaponId": 4,
     "PaintKitId": 1016,
     "Collection": "The Havoc Collection",
-    "Rarity": "rare",
-    "Image": "set_op10_t/weapon_glock_cu_money_glock_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_cu_money_glock_light_png.png"
   },
   {
     "Name": "AWP | Silk Tiger",
@@ -166,8 +166,8 @@
     "WeaponId": 9,
     "PaintKitId": 1029,
     "Collection": "The Havoc Collection",
-    "Rarity": "mythical",
-    "Image": "set_op10_t/weapon_awp_am_tigers_blue_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_awp_am_tigers_blue_light_png.png"
   },
   {
     "Name": "MAC-10 | Hot Snakes",
@@ -176,8 +176,8 @@
     "WeaponId": 17,
     "PaintKitId": 1009,
     "Collection": "The Havoc Collection",
-    "Rarity": "legendary",
-    "Image": "set_op10_t/weapon_mac10_gs_mac10_snake_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_mac10_gs_mac10_snake_light_png.png"
   },
   {
     "Name": "AK-47 | X-Ray",
@@ -186,7 +186,7 @@
     "WeaponId": 7,
     "PaintKitId": 1004,
     "Collection": "The Havoc Collection",
-    "Rarity": "legendary",
-    "Image": "set_op10_t/weapon_ak47_cu_ak_xray_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_cu_ak_xray_light_png.png"
   }
 ]

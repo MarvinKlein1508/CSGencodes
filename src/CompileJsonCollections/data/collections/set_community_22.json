@@ -6,8 +6,8 @@
     "WeaponId": 10,
     "PaintKitId": 835,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_famas_sp_famas_ghost_insects_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_famas_sp_famas_ghost_insects_light_png.png"
   },
   {
     "Name": "AK-47 | Uncharted",
@@ -16,8 +16,8 @@
     "WeaponId": 7,
     "PaintKitId": 836,
     "Collection": "The Prisma Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_22/weapon_ak47_cu_ak47_aztec_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_ak47_cu_ak47_aztec_light_png.png"
   },
   {
     "Name": "MAC-10 | Whitefish",
@@ -26,8 +26,8 @@
     "WeaponId": 17,
     "PaintKitId": 840,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_mac10_gs_mac10_fish_bait_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_mac10_gs_mac10_fish_bait_light_png.png"
   },
   {
     "Name": "Galil AR | Akoben",
@@ -36,8 +36,8 @@
     "WeaponId": 13,
     "PaintKitId": 842,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_galilar_sp_galil_akoben_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_galilar_sp_galil_akoben_light_png.png"
   },
   {
     "Name": "MP7 | Mischief",
@@ -46,8 +46,8 @@
     "WeaponId": 33,
     "PaintKitId": 847,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_mp7_cu_mp7_racketeer_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_mp7_cu_mp7_racketeer_light_png.png"
   },
   {
     "Name": "P250 | Verdigris",
@@ -56,8 +56,8 @@
     "WeaponId": 36,
     "PaintKitId": 848,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_p250_aq_p250_verdigris_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_p250_aq_p250_verdigris_light_png.png"
   },
   {
     "Name": "P90 | Off World",
@@ -66,8 +66,8 @@
     "WeaponId": 19,
     "PaintKitId": 849,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_p90_cu_p90_offworld_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_p90_cu_p90_offworld_light_png.png"
   },
   {
     "Name": "AWP | Atheris",
@@ -76,8 +76,8 @@
     "WeaponId": 9,
     "PaintKitId": 838,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_awp_cu_awp_viper_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_awp_cu_awp_viper_light_png.png"
   },
   {
     "Name": "Tec-9 | Bamboozle",
@@ -86,8 +86,8 @@
     "WeaponId": 30,
     "PaintKitId": 839,
     "Collection": "The Prisma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_22/weapon_tec9_cu_tec9_bamboo_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_tec9_cu_tec9_bamboo_light_png.png"
   },
   {
     "Name": "Desert Eagle | Light Rail",
@@ -96,8 +96,8 @@
     "WeaponId": 1,
     "PaintKitId": 841,
     "Collection": "The Prisma Collection",
-    "Rarity": "rare",
-    "Image": "set_community_22/weapon_deagle_gs_deagle_exo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_deagle_gs_deagle_exo_light_png.png"
   },
   {
     "Name": "MP5-SD | Gauss",
@@ -106,8 +106,8 @@
     "WeaponId": 23,
     "PaintKitId": 846,
     "Collection": "The Prisma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_22/weapon_mp5sd_gs_mp5sd_astromatic_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_mp5sd_gs_mp5sd_astromatic_light_png.png"
   },
   {
     "Name": "UMP-45 | Moonrise",
@@ -116,8 +116,8 @@
     "WeaponId": 24,
     "PaintKitId": 851,
     "Collection": "The Prisma Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_22/weapon_ump45_aa_ump45_moonrise_sunset_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_ump45_aa_ump45_moonrise_sunset_light_png.png"
   },
   {
     "Name": "R8 Revolver | Skull Crusher",
@@ -126,8 +126,8 @@
     "WeaponId": 64,
     "PaintKitId": 843,
     "Collection": "The Prisma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_22/weapon_revolver_cu_revolver_oppressor_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_revolver_cu_revolver_oppressor_light_png.png"
   },
   {
     "Name": "AUG | Momentum",
@@ -136,8 +136,8 @@
     "WeaponId": 8,
     "PaintKitId": 845,
     "Collection": "The Prisma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_22/weapon_aug_cu_aug_momentum_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_aug_cu_aug_momentum_light_png.png"
   },
   {
     "Name": "XM1014 | Incinegator",
@@ -146,8 +146,8 @@
     "WeaponId": 25,
     "PaintKitId": 850,
     "Collection": "The Prisma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_22/weapon_xm1014_cu_xm1014_incinerator_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_xm1014_cu_xm1014_incinerator_light_png.png"
   },
   {
     "Name": "Five-SeveN | Angry Mob",
@@ -156,8 +156,8 @@
     "WeaponId": 3,
     "PaintKitId": 837,
     "Collection": "The Prisma Collection",
-    "Rarity": "ancient",
-    "Image": "set_community_22/weapon_fiveseven_cu_five_seven_angry_light_png.png"
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_fiveseven_cu_five_seven_angry_light_png.png"
   },
   {
     "Name": "M4A4 | The Emperor",
@@ -166,7 +166,7 @@
     "WeaponId": 16,
     "PaintKitId": 844,
     "Collection": "The Prisma Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_22/weapon_m4a1_gs_m4a4_emperor_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_22/weapon_m4a1_gs_m4a4_emperor_light_png.png"
   }
 ]

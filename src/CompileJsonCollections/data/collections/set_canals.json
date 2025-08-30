@@ -6,8 +6,8 @@
     "WeaponId": 8,
     "PaintKitId": 740,
     "Collection": "The Canals Collection",
-    "Rarity": "common",
-    "Image": "set_canals/weapon_aug_hy_murano_blue_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_aug_hy_murano_blue_light_png.png"
   },
   {
     "Name": "SCAR-20 | Stone Mosaico",
@@ -16,8 +16,8 @@
     "WeaponId": 38,
     "PaintKitId": 865,
     "Collection": "The Canals Collection",
-    "Rarity": "common",
-    "Image": "set_canals/weapon_scar20_hy_canals_tile_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_scar20_hy_canals_tile_light_png.png"
   },
   {
     "Name": "R8 Revolver | Canal Spray",
@@ -26,8 +26,8 @@
     "WeaponId": 64,
     "PaintKitId": 866,
     "Collection": "The Canals Collection",
-    "Rarity": "common",
-    "Image": "set_canals/weapon_revolver_sp_spray_water_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_revolver_sp_spray_water_light_png.png"
   },
   {
     "Name": "Negev | Boroque Sand",
@@ -36,8 +36,8 @@
     "WeaponId": 28,
     "PaintKitId": 920,
     "Collection": "The Canals Collection",
-    "Rarity": "common",
-    "Image": "set_canals/weapon_negev_hy_veneto_tan_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_negev_hy_veneto_tan_light_png.png"
   },
   {
     "Name": "MAC-10 | Indigo",
@@ -46,8 +46,8 @@
     "WeaponId": 17,
     "PaintKitId": 333,
     "Collection": "The Canals Collection",
-    "Rarity": "common",
-    "Image": "set_canals/weapon_mac10_so_indigo_and_grey_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_mac10_so_indigo_and_grey_light_png.png"
   },
   {
     "Name": "AK-47 | Baroque Purple",
@@ -56,8 +56,8 @@
     "WeaponId": 7,
     "PaintKitId": 745,
     "Collection": "The Canals Collection",
-    "Rarity": "common",
-    "Image": "set_canals/weapon_ak47_hy_veneto_purple_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_ak47_hy_veneto_purple_light_png.png"
   },
   {
     "Name": "SG 553 | Candy Apple",
@@ -66,8 +66,8 @@
     "WeaponId": 39,
     "PaintKitId": 864,
     "Collection": "The Canals Collection",
-    "Rarity": "uncommon",
-    "Image": "set_canals/weapon_sg556_so_red_sg553_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_sg556_so_red_sg553_light_png.png"
   },
   {
     "Name": "P250 | Dark Filigree",
@@ -76,8 +76,8 @@
     "WeaponId": 36,
     "PaintKitId": 741,
     "Collection": "The Canals Collection",
-    "Rarity": "uncommon",
-    "Image": "set_canals/weapon_p250_am_ren_dark_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_p250_am_ren_dark_light_png.png"
   },
   {
     "Name": "Tec-9 | Orange Murano",
@@ -86,8 +86,8 @@
     "WeaponId": 30,
     "PaintKitId": 738,
     "Collection": "The Canals Collection",
-    "Rarity": "uncommon",
-    "Image": "set_canals/weapon_tec9_hy_murano_orange_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_tec9_hy_murano_orange_light_png.png"
   },
   {
     "Name": "P90 | Baroque Red",
@@ -96,8 +96,8 @@
     "WeaponId": 19,
     "PaintKitId": 744,
     "Collection": "The Canals Collection",
-    "Rarity": "rare",
-    "Image": "set_canals/weapon_p90_am_veneto_red_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_p90_am_veneto_red_light_png.png"
   },
   {
     "Name": "G3SG1 | Violet Murano",
@@ -106,8 +106,8 @@
     "WeaponId": 11,
     "PaintKitId": 739,
     "Collection": "The Canals Collection",
-    "Rarity": "rare",
-    "Image": "set_canals/weapon_g3sg1_am_murano_violet_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_g3sg1_am_murano_violet_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Emerald",
@@ -116,8 +116,8 @@
     "WeaponId": 63,
     "PaintKitId": 453,
     "Collection": "The Canals Collection",
-    "Rarity": "rare",
-    "Image": "set_canals/weapon_cz75a_an_emerald_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_cz75a_an_emerald_light_png.png"
   },
   {
     "Name": "SSG 08 | Orange Filigree",
@@ -126,8 +126,8 @@
     "WeaponId": 40,
     "PaintKitId": 743,
     "Collection": "The Canals Collection",
-    "Rarity": "rare",
-    "Image": "set_canals/weapon_ssg08_hy_ren_orange_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_ssg08_hy_ren_orange_light_png.png"
   },
   {
     "Name": "MP9 | Stained Glass",
@@ -136,8 +136,8 @@
     "WeaponId": 34,
     "PaintKitId": 867,
     "Collection": "The Canals Collection",
-    "Rarity": "mythical",
-    "Image": "set_canals/weapon_mp9_am_stained_glass_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_mp9_am_stained_glass_light_png.png"
   },
   {
     "Name": "MAC-10 | Red Filigree",
@@ -146,8 +146,8 @@
     "WeaponId": 17,
     "PaintKitId": 742,
     "Collection": "The Canals Collection",
-    "Rarity": "mythical",
-    "Image": "set_canals/weapon_mac10_am_ren_red_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_mac10_am_ren_red_light_png.png"
   },
   {
     "Name": "Nova | Baroque Orange",
@@ -156,8 +156,8 @@
     "WeaponId": 35,
     "PaintKitId": 746,
     "Collection": "The Canals Collection",
-    "Rarity": "mythical",
-    "Image": "set_canals/weapon_nova_am_veneto2_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_nova_am_veneto2_light_png.png"
   },
   {
     "Name": "MAG-7 | Cinquedea",
@@ -166,8 +166,8 @@
     "WeaponId": 27,
     "PaintKitId": 737,
     "Collection": "The Canals Collection",
-    "Rarity": "legendary",
-    "Image": "set_canals/weapon_mag7_gs_mag7_glass_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_mag7_gs_mag7_glass_light_png.png"
   },
   {
     "Name": "AWP | The Prince",
@@ -176,7 +176,7 @@
     "WeaponId": 9,
     "PaintKitId": 736,
     "Collection": "The Canals Collection",
-    "Rarity": "legendary",
-    "Image": "set_canals/weapon_awp_gs_awp_enamel_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_canals/weapon_awp_gs_awp_enamel_light_png.png"
   }
 ]

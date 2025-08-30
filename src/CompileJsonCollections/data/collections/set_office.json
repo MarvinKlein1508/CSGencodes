@@ -6,8 +6,8 @@
     "WeaponId": 10,
     "PaintKitId": 22,
     "Collection": "The Office Collection",
-    "Rarity": "common",
-    "Image": "set_office/weapon_famas_sp_spray_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_office/weapon_famas_sp_spray_light_png.png"
   },
   {
     "Name": "G3SG1 | Arctic Camo",
@@ -16,8 +16,8 @@
     "WeaponId": 11,
     "PaintKitId": 6,
     "Collection": "The Office Collection",
-    "Rarity": "uncommon",
-    "Image": "set_office/weapon_g3sg1_hy_arctic_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_office/weapon_g3sg1_hy_arctic_light_png.png"
   },
   {
     "Name": "M249 | Blizzard Marbleized",
@@ -26,8 +26,8 @@
     "WeaponId": 14,
     "PaintKitId": 75,
     "Collection": "The Office Collection",
-    "Rarity": "uncommon",
-    "Image": "set_office/weapon_m249_hy_blizzard_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_office/weapon_m249_hy_blizzard_light_png.png"
   },
   {
     "Name": "Galil AR | Winter Forest",
@@ -36,8 +36,8 @@
     "WeaponId": 13,
     "PaintKitId": 76,
     "Collection": "The Office Collection",
-    "Rarity": "uncommon",
-    "Image": "set_office/weapon_galilar_hy_forest_winter_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_office/weapon_galilar_hy_forest_winter_light_png.png"
   },
   {
     "Name": "P2000 | Silver",
@@ -46,8 +46,8 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Office Collection",
-    "Rarity": "uncommon",
-    "Image": "set_office/weapon_hkp2000_an_silver_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_office/weapon_hkp2000_an_silver_light_png.png"
   },
   {
     "Name": "MP7 | Whiteout",
@@ -56,7 +56,7 @@
     "WeaponId": 33,
     "PaintKitId": 102,
     "Collection": "The Office Collection",
-    "Rarity": "rare",
-    "Image": "set_office/weapon_mp7_so_whiteout_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_office/weapon_mp7_so_whiteout_light_png.png"
   }
 ]

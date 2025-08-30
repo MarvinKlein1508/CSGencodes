@@ -6,8 +6,8 @@
     "WeaponId": 26,
     "PaintKitId": 641,
     "Collection": "The Spectrum Collection",
-    "Rarity": "rare",
-    "Image": "set_community_16/weapon_bizon_hy_bizon_torn_green_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_bizon_hy_bizon_torn_green_light_png.png"
   },
   {
     "Name": "SCAR-20 | Blueprint",
@@ -16,8 +16,8 @@
     "WeaponId": 38,
     "PaintKitId": 642,
     "Collection": "The Spectrum Collection",
-    "Rarity": "rare",
-    "Image": "set_community_16/weapon_scar20_cu_blueprint_scar_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_scar20_cu_blueprint_scar_light_png.png"
   },
   {
     "Name": "Desert Eagle | Oxide Blaze",
@@ -26,8 +26,8 @@
     "WeaponId": 1,
     "PaintKitId": 645,
     "Collection": "The Spectrum Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_16/weapon_deagle_cu_desert_eagle_corroden_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_deagle_cu_desert_eagle_corroden_light_png.png"
   },
   {
     "Name": "Five-SeveN | Capillary",
@@ -36,8 +36,8 @@
     "WeaponId": 3,
     "PaintKitId": 646,
     "Collection": "The Spectrum Collection",
-    "Rarity": "rare",
-    "Image": "set_community_16/weapon_fiveseven_cu_fiveseven_vein_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_fiveseven_cu_fiveseven_vein_light_png.png"
   },
   {
     "Name": "MP7 | Akoben",
@@ -46,8 +46,8 @@
     "WeaponId": 33,
     "PaintKitId": 649,
     "Collection": "The Spectrum Collection",
-    "Rarity": "rare",
-    "Image": "set_community_16/weapon_mp7_sp_mp7_tribal_yellow_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_mp7_sp_mp7_tribal_yellow_light_png.png"
   },
   {
     "Name": "P250 | Ripple",
@@ -56,8 +56,8 @@
     "WeaponId": 36,
     "PaintKitId": 650,
     "Collection": "The Spectrum Collection",
-    "Rarity": "rare",
-    "Image": "set_community_16/weapon_p250_am_p250_sputnik_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_p250_am_p250_sputnik_light_png.png"
   },
   {
     "Name": "Sawed-Off | Zander",
@@ -66,8 +66,8 @@
     "WeaponId": 29,
     "PaintKitId": 655,
     "Collection": "The Spectrum Collection",
-    "Rarity": "rare",
-    "Image": "set_community_16/weapon_sawedoff_aq_sawedoff_zander2_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_sawedoff_aq_sawedoff_zander2_light_png.png"
   },
   {
     "Name": "Galil AR | Crimson Tsunami",
@@ -76,8 +76,8 @@
     "WeaponId": 13,
     "PaintKitId": 647,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_galilar_sp_galil_wave_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_galilar_sp_galil_wave_light_png.png"
   },
   {
     "Name": "M249 | Emerald Poison Dart",
@@ -86,8 +86,8 @@
     "WeaponId": 14,
     "PaintKitId": 648,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_m249_sp_m249_frog_original_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_m249_sp_m249_frog_original_light_png.png"
   },
   {
     "Name": "MAC-10 | Last Dive",
@@ -96,8 +96,8 @@
     "WeaponId": 17,
     "PaintKitId": 651,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_mac10_aa_mac10_the_last_dive_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_mac10_aa_mac10_the_last_dive_light_png.png"
   },
   {
     "Name": "UMP-45 | Scaffold",
@@ -106,8 +106,8 @@
     "WeaponId": 24,
     "PaintKitId": 652,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_ump45_gs_ump_abyss_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_ump45_gs_ump_abyss_light_png.png"
   },
   {
     "Name": "XM1014 | Seasons",
@@ -116,8 +116,8 @@
     "WeaponId": 25,
     "PaintKitId": 654,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_xm1014_aq_xm_leaf_fade_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_xm1014_aq_xm_leaf_fade_light_png.png"
   },
   {
     "Name": "AWP | Fever Dream",
@@ -126,8 +126,8 @@
     "WeaponId": 9,
     "PaintKitId": 640,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_awp_cu_awp_psychopath_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_awp_cu_awp_psychopath_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Xiangliu",
@@ -136,8 +136,8 @@
     "WeaponId": 63,
     "PaintKitId": 643,
     "Collection": "The Spectrum Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_16/weapon_cz75a_gs_cz_snakes_purple_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_cz75a_gs_cz_snakes_purple_light_png.png"
   },
   {
     "Name": "M4A1-S | Decimator",
@@ -146,8 +146,8 @@
     "WeaponId": 60,
     "PaintKitId": 644,
     "Collection": "The Spectrum Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_16/weapon_m4a1_silencer_gs_m4a1_decimator_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_m4a1_silencer_gs_m4a1_decimator_light_png.png"
   },
   {
     "Name": "AK-47 | Bloodsport",
@@ -156,8 +156,8 @@
     "WeaponId": 7,
     "PaintKitId": 639,
     "Collection": "The Spectrum Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_16/weapon_ak47_gs_ak47_bloodsport_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_ak47_gs_ak47_bloodsport_light_png.png"
   },
   {
     "Name": "USP-S | Neo-Noir",
@@ -166,7 +166,7 @@
     "WeaponId": 61,
     "PaintKitId": 653,
     "Collection": "The Spectrum Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_16/weapon_usp_silencer_cu_usps_noir_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_16/weapon_usp_silencer_cu_usps_noir_light_png.png"
   }
 ]

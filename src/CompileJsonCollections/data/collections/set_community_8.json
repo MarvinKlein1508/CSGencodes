@@ -6,8 +6,8 @@
     "WeaponId": 13,
     "PaintKitId": 478,
     "Collection": "The Falchion Collection",
-    "Rarity": "rare",
-    "Image": "set_community_8/weapon_galilar_cu_galilar_particles_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_galilar_cu_galilar_particles_light_png.png"
   },
   {
     "Name": "Glock-18 | Bunsen Burner",
@@ -16,8 +16,8 @@
     "WeaponId": 4,
     "PaintKitId": 479,
     "Collection": "The Falchion Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_8/weapon_glock_aq_glock18_flames_blue_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_glock_aq_glock18_flames_blue_light_png.png"
   },
   {
     "Name": "Nova | Ranger",
@@ -26,8 +26,8 @@
     "WeaponId": 35,
     "PaintKitId": 484,
     "Collection": "The Falchion Collection",
-    "Rarity": "rare",
-    "Image": "set_community_8/weapon_nova_cu_nova_ranger_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_nova_cu_nova_ranger_light_png.png"
   },
   {
     "Name": "P90 | Elite Build",
@@ -36,8 +36,8 @@
     "WeaponId": 19,
     "PaintKitId": 486,
     "Collection": "The Falchion Collection",
-    "Rarity": "rare",
-    "Image": "set_community_8/weapon_p90_cu_p90_mastery_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_p90_cu_p90_mastery_light_png.png"
   },
   {
     "Name": "UMP-45 | Riot",
@@ -46,8 +46,8 @@
     "WeaponId": 24,
     "PaintKitId": 488,
     "Collection": "The Falchion Collection",
-    "Rarity": "rare",
-    "Image": "set_community_8/weapon_ump45_cu_ump45_uproar_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_ump45_cu_ump45_uproar_light_png.png"
   },
   {
     "Name": "USP-S | Torque",
@@ -56,8 +56,8 @@
     "WeaponId": 61,
     "PaintKitId": 489,
     "Collection": "The Falchion Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_8/weapon_usp_silencer_cu_usp_progressiv_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_usp_silencer_cu_usp_progressiv_light_png.png"
   },
   {
     "Name": "FAMAS | Neural Net",
@@ -66,8 +66,8 @@
     "WeaponId": 10,
     "PaintKitId": 477,
     "Collection": "The Falchion Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_8/weapon_famas_am_famas_dots_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_famas_am_famas_dots_light_png.png"
   },
   {
     "Name": "M4A4 | Evil Daimyo",
@@ -76,8 +76,8 @@
     "WeaponId": 16,
     "PaintKitId": 480,
     "Collection": "The Falchion Collection",
-    "Rarity": "rare",
-    "Image": "set_community_8/weapon_m4a1_cu_m4a4_evil_daimyo_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_m4a1_cu_m4a4_evil_daimyo_light_png.png"
   },
   {
     "Name": "MP9 | Ruby Poison Dart",
@@ -86,8 +86,8 @@
     "WeaponId": 34,
     "PaintKitId": 482,
     "Collection": "The Falchion Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_8/weapon_mp9_am_mp9_nitrogen_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_mp9_am_mp9_nitrogen_light_png.png"
   },
   {
     "Name": "Negev | Loudmouth",
@@ -96,8 +96,8 @@
     "WeaponId": 28,
     "PaintKitId": 483,
     "Collection": "The Falchion Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_8/weapon_negev_cu_negev_annihilator_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_negev_cu_negev_annihilator_light_png.png"
   },
   {
     "Name": "P2000 | Handgun",
@@ -106,8 +106,8 @@
     "WeaponId": 32,
     "PaintKitId": 485,
     "Collection": "The Falchion Collection",
-    "Rarity": "rare",
-    "Image": "set_community_8/weapon_hkp2000_aq_p2000_boom_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_hkp2000_aq_p2000_boom_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Yellow Jacket",
@@ -116,8 +116,8 @@
     "WeaponId": 63,
     "PaintKitId": 476,
     "Collection": "The Falchion Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_8/weapon_cz75a_cu_cz75a_chastizer_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_cz75a_cu_cz75a_chastizer_light_png.png"
   },
   {
     "Name": "MP7 | Nemesis",
@@ -126,8 +126,8 @@
     "WeaponId": 33,
     "PaintKitId": 481,
     "Collection": "The Falchion Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_8/weapon_mp7_cu_mp7_nemsis_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_mp7_cu_mp7_nemsis_light_png.png"
   },
   {
     "Name": "SG 553 | Cyrex",
@@ -136,8 +136,8 @@
     "WeaponId": 39,
     "PaintKitId": 487,
     "Collection": "The Falchion Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_8/weapon_sg556_cu_sg553_cyrex_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_sg556_cu_sg553_cyrex_light_png.png"
   },
   {
     "Name": "AK-47 | Aquamarine Revenge",
@@ -146,8 +146,8 @@
     "WeaponId": 7,
     "PaintKitId": 474,
     "Collection": "The Falchion Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_8/weapon_ak47_cu_ak47_courage_alt_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_ak47_cu_ak47_courage_alt_light_png.png"
   },
   {
     "Name": "AWP | Hyper Beast",
@@ -156,7 +156,7 @@
     "WeaponId": 9,
     "PaintKitId": 475,
     "Collection": "The Falchion Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_8/weapon_awp_cu_awp_hyper_beast_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_8/weapon_awp_cu_awp_hyper_beast_light_png.png"
   }
 ]

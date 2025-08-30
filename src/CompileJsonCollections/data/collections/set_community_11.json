@@ -6,8 +6,8 @@
     "WeaponId": 26,
     "PaintKitId": 526,
     "Collection": "The Wildfire Collection",
-    "Rarity": "rare",
-    "Image": "set_community_11/weapon_bizon_cu_bizon_citizen_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_bizon_cu_bizon_citizen_light_png.png"
   },
   {
     "Name": "Dual Berettas | Cartel",
@@ -16,8 +16,8 @@
     "WeaponId": 2,
     "PaintKitId": 528,
     "Collection": "The Wildfire Collection",
-    "Rarity": "rare",
-    "Image": "set_community_11/weapon_elite_gs_aq_dualberettas_cartel_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_elite_gs_aq_dualberettas_cartel_light_png.png"
   },
   {
     "Name": "MAC-10 | Lapis Gator",
@@ -26,8 +26,8 @@
     "WeaponId": 17,
     "PaintKitId": 534,
     "Collection": "The Wildfire Collection",
-    "Rarity": "rare",
-    "Image": "set_community_11/weapon_mac10_am_mac10_electricity_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_mac10_am_mac10_electricity_light_png.png"
   },
   {
     "Name": "SSG 08 | Necropos",
@@ -36,8 +36,8 @@
     "WeaponId": 40,
     "PaintKitId": 538,
     "Collection": "The Wildfire Collection",
-    "Rarity": "rare",
-    "Image": "set_community_11/weapon_ssg08_cu_ssg08_necropos_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_ssg08_cu_ssg08_necropos_light_png.png"
   },
   {
     "Name": "Tec-9 | Jambiya",
@@ -46,8 +46,8 @@
     "WeaponId": 30,
     "PaintKitId": 539,
     "Collection": "The Wildfire Collection",
-    "Rarity": "rare",
-    "Image": "set_community_11/weapon_tec9_gs_tec9_jambiya_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_tec9_gs_tec9_jambiya_light_png.png"
   },
   {
     "Name": "USP-S | Lead Conduit",
@@ -56,8 +56,8 @@
     "WeaponId": 61,
     "PaintKitId": 540,
     "Collection": "The Wildfire Collection",
-    "Rarity": "uncommon",
-    "Image": "set_community_11/weapon_usp_silencer_gs_usp_voltage_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_usp_silencer_gs_usp_voltage_light_png.png"
   },
   {
     "Name": "FAMAS | Valence",
@@ -66,8 +66,8 @@
     "WeaponId": 10,
     "PaintKitId": 529,
     "Collection": "The Wildfire Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_11/weapon_famas_aq_famas_contour_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_famas_aq_famas_contour_light_png.png"
   },
   {
     "Name": "Five-SeveN | Triumvirate",
@@ -76,8 +76,8 @@
     "WeaponId": 3,
     "PaintKitId": 530,
     "Collection": "The Wildfire Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_11/weapon_fiveseven_cu_fiveseven_augmented_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_fiveseven_cu_fiveseven_augmented_light_png.png"
   },
   {
     "Name": "Glock-18 | Royal Legion",
@@ -86,8 +86,8 @@
     "WeaponId": 4,
     "PaintKitId": 532,
     "Collection": "The Wildfire Collection",
-    "Rarity": "rare",
-    "Image": "set_community_11/weapon_glock_gs_glock18_award_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_glock_gs_glock18_award_light_png.png"
   },
   {
     "Name": "MAG-7 | Praetorian",
@@ -96,8 +96,8 @@
     "WeaponId": 27,
     "PaintKitId": 535,
     "Collection": "The Wildfire Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_11/weapon_mag7_gs_mag7_praetorian_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_mag7_gs_mag7_praetorian_light_png.png"
   },
   {
     "Name": "MP7 | Impire",
@@ -106,8 +106,8 @@
     "WeaponId": 33,
     "PaintKitId": 536,
     "Collection": "The Wildfire Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_11/weapon_mp7_sp_mp7_impire_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_mp7_sp_mp7_impire_light_png.png"
   },
   {
     "Name": "AWP | Elite Build",
@@ -116,8 +116,8 @@
     "WeaponId": 9,
     "PaintKitId": 525,
     "Collection": "The Wildfire Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_11/weapon_awp_cu_awp_mastery_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_awp_cu_awp_mastery_light_png.png"
   },
   {
     "Name": "Desert Eagle | Kumicho Dragon",
@@ -126,8 +126,8 @@
     "WeaponId": 1,
     "PaintKitId": 527,
     "Collection": "The Wildfire Collection",
-    "Rarity": "mythical",
-    "Image": "set_community_11/weapon_deagle_aq_deserteagle_kumichodragon_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_deagle_aq_deserteagle_kumichodragon_light_png.png"
   },
   {
     "Name": "Nova | Hyper Beast",
@@ -136,8 +136,8 @@
     "WeaponId": 35,
     "PaintKitId": 537,
     "Collection": "The Wildfire Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_11/weapon_nova_cu_nova_hyperbeast_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_nova_cu_nova_hyperbeast_light_png.png"
   },
   {
     "Name": "AK-47 | Fuel Injector",
@@ -146,8 +146,8 @@
     "WeaponId": 7,
     "PaintKitId": 524,
     "Collection": "The Wildfire Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_11/weapon_ak47_gs_ak47_supercharged_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_ak47_gs_ak47_supercharged_light_png.png"
   },
   {
     "Name": "M4A4 | The Battlestar",
@@ -156,7 +156,7 @@
     "WeaponId": 16,
     "PaintKitId": 533,
     "Collection": "The Wildfire Collection",
-    "Rarity": "legendary",
-    "Image": "set_community_11/weapon_m4a1_gs_m4a4_pioneer_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_m4a1_gs_m4a4_pioneer_light_png.png"
   }
 ]

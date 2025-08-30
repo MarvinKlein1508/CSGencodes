@@ -6,8 +6,8 @@
     "WeaponId": 14,
     "PaintKitId": 875,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "uncommon",
-    "Image": "set_graphic_design/weapon_m249_ht_peaks_rainbow_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_m249_ht_peaks_rainbow_light_png.png"
   },
   {
     "Name": "SSG 08 | Halftone Whorl",
@@ -16,8 +16,8 @@
     "WeaponId": 40,
     "PaintKitId": 877,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "uncommon",
-    "Image": "set_graphic_design/weapon_ssg08_ht_swirl_ssg08_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_ssg08_ht_swirl_ssg08_light_png.png"
   },
   {
     "Name": "FAMAS | Halftone Wash",
@@ -26,8 +26,8 @@
     "WeaponId": 10,
     "PaintKitId": 882,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "uncommon",
-    "Image": "set_graphic_design/weapon_famas_ht_splash_famas_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_famas_ht_splash_famas_light_png.png"
   },
   {
     "Name": "MP7 | Astrolabe",
@@ -36,8 +36,8 @@
     "WeaponId": 33,
     "PaintKitId": 940,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "uncommon",
-    "Image": "set_graphic_design/weapon_mp7_gs_constellation_dark_mp7_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_mp7_gs_constellation_dark_mp7_light_png.png"
   },
   {
     "Name": "Galil AR | NV",
@@ -46,8 +46,8 @@
     "WeaponId": 13,
     "PaintKitId": 939,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "uncommon",
-    "Image": "set_graphic_design/weapon_galilar_cu_poly_green_galil_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_galilar_cu_poly_green_galil_light_png.png"
   },
   {
     "Name": "P2000 | Coral Halftone",
@@ -56,8 +56,8 @@
     "WeaponId": 32,
     "PaintKitId": 878,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "common",
-    "Image": "set_graphic_design/weapon_hkp2000_ht_facet_p2000_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_hkp2000_ht_facet_p2000_light_png.png"
   },
   {
     "Name": "SCAR-20 | Wild Berry",
@@ -66,8 +66,8 @@
     "WeaponId": 38,
     "PaintKitId": 883,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "rare",
-    "Image": "set_graphic_design/weapon_scar20_cu_chevron_scar20_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_scar20_cu_chevron_scar20_light_png.png"
   },
   {
     "Name": "SG 553 | Berry Gel Coat",
@@ -76,8 +76,8 @@
     "WeaponId": 39,
     "PaintKitId": 901,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "rare",
-    "Image": "set_graphic_design/weapon_sg556_gs_happy_red_sg556_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_sg556_gs_happy_red_sg556_light_png.png"
   },
   {
     "Name": "AK-47 | Crossfade",
@@ -86,8 +86,8 @@
     "WeaponId": 7,
     "PaintKitId": 912,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "uncommon",
-    "Image": "set_graphic_design/weapon_ak47_cu_graphic_overlay_ak47_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_ak47_cu_graphic_overlay_ak47_light_png.png"
   },
   {
     "Name": "XM1014 | Halftone Shift",
@@ -96,8 +96,8 @@
     "WeaponId": 25,
     "PaintKitId": 834,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "rare",
-    "Image": "set_graphic_design/weapon_xm1014_ht_shapes_xm1014_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_xm1014_ht_shapes_xm1014_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Slalom",
@@ -106,8 +106,8 @@
     "WeaponId": 63,
     "PaintKitId": 937,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "mythical",
-    "Image": "set_graphic_design/weapon_cz75a_cu_abstract_white_cz_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_cz75a_cu_abstract_white_cz_light_png.png"
   },
   {
     "Name": "P90 | Attack Vector",
@@ -116,8 +116,8 @@
     "WeaponId": 19,
     "PaintKitId": 936,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "mythical",
-    "Image": "set_graphic_design/weapon_p90_cu_poly_violet_p90_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_p90_cu_poly_violet_p90_light_png.png"
   },
   {
     "Name": "M4A4 | Polysoup",
@@ -126,8 +126,8 @@
     "WeaponId": 16,
     "PaintKitId": 874,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "rare",
-    "Image": "set_graphic_design/weapon_m4a1_soo_polysoup_m4a4_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_m4a1_soo_polysoup_m4a4_light_png.png"
   },
   {
     "Name": "Desert Eagle | Starcade",
@@ -136,8 +136,8 @@
     "WeaponId": 1,
     "PaintKitId": 938,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "mythical",
-    "Image": "set_graphic_design/weapon_deagle_cu_glitter_deagle_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_deagle_cu_glitter_deagle_light_png.png"
   },
   {
     "Name": "AUG | Lil\u0027 Pig",
@@ -146,8 +146,8 @@
     "WeaponId": 8,
     "PaintKitId": 173,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "legendary",
-    "Image": "set_graphic_design/weapon_aug_gs_lilpig_aug_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_aug_gs_lilpig_aug_light_png.png"
   },
   {
     "Name": "AWP | CMYK",
@@ -156,7 +156,7 @@
     "WeaponId": 9,
     "PaintKitId": 163,
     "Collection": "The Graphic Design Collection",
-    "Rarity": "legendary",
-    "Image": "set_graphic_design/weapon_awp_gs_independe_awp_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_graphic_design/weapon_awp_gs_independe_awp_light_png.png"
   }
 ]

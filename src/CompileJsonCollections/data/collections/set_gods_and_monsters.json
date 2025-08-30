@@ -6,8 +6,8 @@
     "WeaponId": 33,
     "PaintKitId": 442,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "common",
-    "Image": "set_gods_and_monsters/weapon_mp7_sp_labyrinth_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_mp7_sp_labyrinth_light_png.png"
   },
   {
     "Name": "AUG | Daedalus",
@@ -16,8 +16,8 @@
     "WeaponId": 8,
     "PaintKitId": 444,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "common",
-    "Image": "set_gods_and_monsters/weapon_aug_sp_labyrinth3_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_aug_sp_labyrinth3_light_png.png"
   },
   {
     "Name": "Dual Berettas | Moon in Libra",
@@ -26,8 +26,8 @@
     "WeaponId": 2,
     "PaintKitId": 450,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "common",
-    "Image": "set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
   },
   {
     "Name": "Dual Berettas | Moon in Libra",
@@ -36,8 +36,8 @@
     "WeaponId": 2,
     "PaintKitId": 450,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "common",
-    "Image": "set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
   },
   {
     "Name": "Tec-9 | Hades",
@@ -46,8 +46,8 @@
     "WeaponId": 30,
     "PaintKitId": 439,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "uncommon",
-    "Image": "set_gods_and_monsters/weapon_tec9_hy_hades_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_tec9_hy_hades_light_png.png"
   },
   {
     "Name": "P2000 | Pathfinder",
@@ -56,8 +56,8 @@
     "WeaponId": 32,
     "PaintKitId": 443,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "common",
-    "Image": "set_gods_and_monsters/weapon_hkp2000_sp_labyrinth2_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_hkp2000_sp_labyrinth2_light_png.png"
   },
   {
     "Name": "AWP | Sun in Leo",
@@ -66,8 +66,8 @@
     "WeaponId": 9,
     "PaintKitId": 451,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "common",
-    "Image": "set_gods_and_monsters/weapon_awp_hy_zodiac2_light_png.png"
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_awp_hy_zodiac2_light_png.png"
   },
   {
     "Name": "M249 | Shipping Forecast",
@@ -76,8 +76,8 @@
     "WeaponId": 14,
     "PaintKitId": 452,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "uncommon",
-    "Image": "set_gods_and_monsters/weapon_m249_hy_zodiac3_light_png.png"
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m249_hy_zodiac3_light_png.png"
   },
   {
     "Name": "UMP-45 | Minotaur\u0027s Labyrinth",
@@ -86,8 +86,8 @@
     "WeaponId": 24,
     "PaintKitId": 441,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "rare",
-    "Image": "set_gods_and_monsters/weapon_ump45_cu_labyrinth_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_ump45_cu_labyrinth_light_png.png"
   },
   {
     "Name": "MP9 | Pandora\u0027s Box",
@@ -96,8 +96,8 @@
     "WeaponId": 34,
     "PaintKitId": 448,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "rare",
-    "Image": "set_gods_and_monsters/weapon_mp9_aa_pandora_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_mp9_aa_pandora_light_png.png"
   },
   {
     "Name": "G3SG1 | Chronos",
@@ -106,8 +106,8 @@
     "WeaponId": 11,
     "PaintKitId": 438,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "mythical",
-    "Image": "set_gods_and_monsters/weapon_g3sg1_cu_chronos_g3sg1_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_g3sg1_cu_chronos_g3sg1_light_png.png"
   },
   {
     "Name": "M4A1-S | Icarus Fell",
@@ -116,8 +116,8 @@
     "WeaponId": 60,
     "PaintKitId": 440,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "rare",
-    "Image": "set_gods_and_monsters/weapon_m4a1_silencer_hy_icarus_light_png.png"
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m4a1_silencer_hy_icarus_light_png.png"
   },
   {
     "Name": "M4A4 | Poseidon",
@@ -126,8 +126,8 @@
     "WeaponId": 16,
     "PaintKitId": 449,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "mythical",
-    "Image": "set_gods_and_monsters/weapon_m4a1_cu_poseidon_light_png.png"
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m4a1_cu_poseidon_light_png.png"
   },
   {
     "Name": "AWP | Medusa",
@@ -136,7 +136,7 @@
     "WeaponId": 9,
     "PaintKitId": 446,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": "legendary",
-    "Image": "set_gods_and_monsters/weapon_awp_cu_medusa_awp_light_png.png"
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_awp_cu_medusa_awp_light_png.png"
   }
 ]
