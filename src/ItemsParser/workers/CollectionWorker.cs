@@ -8,7 +8,7 @@ internal static class CollectionWorker
 {
     private const string OUTPUT_DIR = "output";
     private const string OUTPUT_COLLECTION_DIR = "collections";
-    private const string THE_HUNTSMAN_COLLECTION = "The Huntsman Collection";
+    private const string THE_HUNTSMAN_COLLECTION = "set_community_3";
 
     private const int FLOAT_DIVIDER = 1_000_000;
 
@@ -51,7 +51,7 @@ internal static class CollectionWorker
 
             var collection = Translation.GetTranslation(itemSet.Name);
 
-            weaponCollections.Add(collection, []);
+            weaponCollections.Add(itemSet.Id, []);
 
             foreach (var item in itemSet.Items)
             {
@@ -97,7 +97,7 @@ internal static class CollectionWorker
                     Image = $"{itemSet.Id}/weapon_{econ_name}_{paintKitName}_light_png.png"
                 };
 
-                weaponCollections[collection].Add(weapon);
+                weaponCollections[itemSet.Id].Add(weapon);
             }
         }
 
@@ -110,7 +110,7 @@ internal static class CollectionWorker
             MinWear = 0,
             MaxWear = 0.4m,
             Rarity = "Contraband",
-            Collection = THE_HUNTSMAN_COLLECTION,
+            Collection = "The Huntsman Collection",
             Image = "set_community_3/weapon_m4a1_cu_m4a1_howling_light_png.png"
         });
 
