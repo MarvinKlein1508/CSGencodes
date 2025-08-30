@@ -17,6 +17,9 @@ internal static class PaintKits
 
     private const int FLOAT_DIVIDER = 1_000_000;
 
+    /// <summary>
+    /// This array contains item sets which are not weapon item sets and should be ignored
+    /// </summary>
     private static readonly string[] _blockedItemSets = ["#CSGO_set_op9_characters", "#CSGO_set_op10_characters", "#CSGO_set_op11_characters"];
 
     private static readonly string _items_game;
