@@ -9,7 +9,6 @@ public class Weapon : IGenable
     public string Name { get; set; } = string.Empty;
     public decimal MinWear { get; set; }
     public decimal MaxWear { get; set; }
-    public bool trade_up { get; set; }
     public int WeaponId { get; set; }
     public int PaintKitId { get; set; }
     public string Collection { get; set; } = string.Empty;
