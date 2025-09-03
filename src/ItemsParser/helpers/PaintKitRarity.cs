@@ -11,7 +11,8 @@ internal static class PaintKitRarity
 
     public static string GetRarity(string paintKitName)
     {
-        return _rarities[paintKitName];
+        var tmp = _rarities;
+        return tmp[paintKitName];
     }
     private static Dictionary<string, string> ParseAllPaintKitsRarity(string input)
     {

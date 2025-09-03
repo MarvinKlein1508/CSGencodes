@@ -24,9 +24,8 @@ public partial class DisplayWeapon
             ItemRarity.Common or ItemRarity.Unknown => "rarity-consumer",
             ItemRarity.Uncommon => "rarity-industrial",
             ItemRarity.Rare => "rarity-milspec",
-            ItemRarity.Mythical => "rarity-restricted",
-            ItemRarity.Legendary => "rarity-classified",
-            ItemRarity.Ancient => "rarity-covert",
+            ItemRarity.Mythical => "rarity-classified",
+            ItemRarity.Legendary or ItemRarity.Ancient => "rarity-covert",
             ItemRarity.Immortal => "rarity-contraband",
             _ => string.Empty,
         };
