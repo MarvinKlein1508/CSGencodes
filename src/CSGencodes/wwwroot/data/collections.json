@@ -397,7 +397,7 @@
     "PaintKitId": 28,
     "Collection": "The Inferno Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_inferno/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno/weapon_elite_an_navy_light_png.png"
   },
   {
     "Name": "MP7 | Anodized Navy",
@@ -667,7 +667,7 @@
     "PaintKitId": 43,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_elite_gs_aq_forced_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_elite_aq_forced_light_png.png"
   },
   {
     "Name": "MAC-10 | Case Hardened",
@@ -737,7 +737,7 @@
     "PaintKitId": 46,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_elite_gs_so_pmc_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_elite_so_pmc_light_png.png"
   },
   {
     "Name": "SCAR-20 | Contractor",
@@ -777,7 +777,7 @@
     "PaintKitId": 47,
     "Collection": "The Train Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_train/weapon_elite_gs_so_space_marine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_elite_so_space_marine_light_png.png"
   },
   {
     "Name": "Glock-18 | Dragon Tattoo",
@@ -1407,7 +1407,7 @@
     "PaintKitId": 112,
     "Collection": "The Gallery Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_community_34/weapon_elite_gs_dual_elite_hydro_strike_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_34/weapon_elite_dual_elite_hydro_strike_light_png.png"
   },
   {
     "Name": "AK-47 | The Outsiders",
@@ -1677,7 +1677,7 @@
     "PaintKitId": 139,
     "Collection": "The Overpass 2024 Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_elite_gs_cu_overpass_baby_dualies_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_elite_cu_overpass_baby_dualies_light_png.png"
   },
   {
     "Name": "MAC-10 | Pipsqueak",
@@ -1857,7 +1857,7 @@
     "PaintKitId": 153,
     "Collection": "The Vertigo Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_vertigo/weapon_elite_gs_so_tangerine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_vertigo/weapon_elite_so_tangerine_light_png.png"
   },
   {
     "Name": "FAMAS | Afterimage",
@@ -2387,7 +2387,7 @@
     "PaintKitId": 190,
     "Collection": "The Bravo Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_elite_gs_cu_season_elites_bravo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bravo_i/weapon_elite_cu_season_elites_bravo_light_png.png"
   },
   {
     "Name": "Nova | Tempest",
@@ -2717,7 +2717,7 @@
     "PaintKitId": 220,
     "Collection": "The Arms Deal 2 Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_elite_gs_am_ossify_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_elite_am_ossify_red_light_png.png"
   },
   {
     "Name": "USP-S | Serum",
@@ -3167,7 +3167,7 @@
     "PaintKitId": 249,
     "Collection": "The Lake Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_elite_gs_am_crystallized_blue_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_elite_am_crystallized_blue_light_png.png"
   },
   {
     "Name": "MP7 | Full Stop",
@@ -3317,7 +3317,7 @@
     "PaintKitId": 261,
     "Collection": "The Winter Offensive Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_community_1/weapon_elite_gs_hy_marina_sunrise_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_1/weapon_elite_hy_marina_sunrise_light_png.png"
   },
   {
     "Name": "MP9 | Rose Iron",
@@ -3467,7 +3467,7 @@
     "PaintKitId": 276,
     "Collection": "The Arms Deal 3 Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_weapons_iii/weapon_elite_gs_so_panther_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_iii/weapon_elite_so_panther_light_png.png"
   },
   {
     "Name": "USP-S | Stainless",
@@ -3867,7 +3867,7 @@
     "PaintKitId": 307,
     "Collection": "The Huntsman Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_3/weapon_elite_gs_cu_retribution_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_3/weapon_elite_cu_retribution_light_png.png"
   },
   {
     "Name": "Galil AR | Kami",
@@ -4117,7 +4117,7 @@
     "PaintKitId": 330,
     "Collection": "The Cobblestone Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_elite_gs_hy_vines_light_png.png"
+    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_elite_hy_vines_light_png.png"
   },
   {
     "Name": "MP9 | Arctic Tri-Tone",
@@ -4807,7 +4807,7 @@
     "PaintKitId": 396,
     "Collection": "The Chroma Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_community_6/weapon_elite_gs_cu_elites_urbanstorm_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_6/weapon_elite_cu_elites_urbanstorm_light_png.png"
   },
   {
     "Name": "Desert Eagle | Naga",
@@ -5197,7 +5197,7 @@
     "PaintKitId": 447,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_elite_gs_gs_mother_of_pearl_elite_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_elite_gs_mother_of_pearl_elite_light_png.png"
   },
   {
     "Name": "MP9 | Pandora\u0027s Box",
@@ -5227,7 +5227,7 @@
     "PaintKitId": 450,
     "Collection": "The Gods and Monsters Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_hy_zodiac1_light_png.png"
   },
   {
     "Name": "Nova | Moon in Libra",
@@ -5267,7 +5267,7 @@
     "PaintKitId": 453,
     "Collection": "The Canals Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_canals/weapon_elite_gs_an_emerald_light_png.png"
+    "Image": "/assets/img/items/weapons/set_canals/weapon_elite_an_emerald_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Emerald",
@@ -5657,7 +5657,7 @@
     "PaintKitId": 491,
     "Collection": "The Shadow Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_9/weapon_elite_gs_cu_dualberretta_dragons_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_9/weapon_elite_cu_dualberretta_dragons_light_png.png"
   },
   {
     "Name": "FAMAS | Survivor Z",
@@ -6027,7 +6027,7 @@
     "PaintKitId": 528,
     "Collection": "The Wildfire Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_11/weapon_elite_gs_aq_dualberettas_cartel_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_11/weapon_elite_aq_dualberettas_cartel_light_png.png"
   },
   {
     "Name": "FAMAS | Valence",
@@ -6177,7 +6177,7 @@
     "PaintKitId": 544,
     "Collection": "The Chroma 3 Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_12/weapon_elite_gs_gs_dualberettas_ventilators_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_12/weapon_elite_gs_dualberettas_ventilators_light_png.png"
   },
   {
     "Name": "G3SG1 | Orange Crash",
@@ -6687,7 +6687,7 @@
     "PaintKitId": 625,
     "Collection": "The Glove Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_community_15/weapon_elite_gs_gs_dual_berettas_golden_venice_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_15/weapon_elite_gs_dual_berettas_golden_venice_light_png.png"
   },
   {
     "Name": "FAMAS | Mecha Industries",
@@ -7017,7 +7017,7 @@
     "PaintKitId": 658,
     "Collection": "The Operation Hydra Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_community_17/weapon_elite_gs_gs_dualberettas_cobra_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_17/weapon_elite_gs_dualberettas_cobra_light_png.png"
   },
   {
     "Name": "FAMAS | Macabre",
@@ -7537,7 +7537,7 @@
     "PaintKitId": 710,
     "Collection": "The Horizon Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_20/weapon_elite_gs_sp_elites_winter_raider_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_20/weapon_elite_sp_elites_winter_raider_light_png.png"
   },
   {
     "Name": "Desert Eagle | Code Red",
@@ -7897,7 +7897,7 @@
     "PaintKitId": 747,
     "Collection": "The 2018 Inferno Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_elite_gs_cu_dual_elites_rally_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_elite_cu_dual_elites_rally_light_png.png"
   },
   {
     "Name": "MAC-10 | Calf Skin",
@@ -8647,7 +8647,7 @@
     "PaintKitId": 824,
     "Collection": "The 2021 Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_elite_gs_sp_dry_wood_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_elite_sp_dry_wood_light_png.png"
   },
   {
     "Name": "P250 | Drought",
@@ -8927,7 +8927,7 @@
     "PaintKitId": 860,
     "Collection": "The Norse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_elite_gs_hy_gelpen_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_elite_hy_gelpen_dark_light_png.png"
   },
   {
     "Name": "SG 553 | Barricade",
@@ -9257,7 +9257,7 @@
     "PaintKitId": 895,
     "Collection": "The Shattered Web Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_23/weapon_elite_gs_gs_dual_elites_rose_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_23/weapon_elite_gs_dual_elites_rose_light_png.png"
   },
   {
     "Name": "SCAR-20 | Torn",
@@ -9337,7 +9337,7 @@
     "PaintKitId": 903,
     "Collection": "The CS20 Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_24/weapon_elite_gs_gs_dual_elites_classic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_24/weapon_elite_gs_dual_elites_classic_light_png.png"
   },
   {
     "Name": "FAMAS | Decommissioned",
@@ -10107,7 +10107,7 @@
     "PaintKitId": 978,
     "Collection": "The Operation Broken Fang Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_community_27/weapon_elite_gs_gs_dual_elites_dezastre_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_27/weapon_elite_gs_dual_elites_dezastre_light_png.png"
   },
   {
     "Name": "Five-SeveN | Fairy Tale",
@@ -10307,7 +10307,7 @@
     "PaintKitId": 998,
     "Collection": "The Control Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_elite_gs_hy_numbers_green_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_elite_hy_numbers_green_light_png.png"
   },
   {
     "Name": "FAMAS | Prime Conspiracy",
@@ -10377,7 +10377,7 @@
     "PaintKitId": 1005,
     "Collection": "The Havoc Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_elite_gs_am_heist_plans_green_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_elite_am_heist_plans_green_light_png.png"
   },
   {
     "Name": "Desert Eagle | Night Heist",
@@ -11157,7 +11157,7 @@
     "PaintKitId": 1086,
     "Collection": "The 2021 Vertigo Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_elite_gs_sp_engine_dirty_light_png.png"
+    "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_elite_sp_engine_dirty_light_png.png"
   },
   {
     "Name": "AK-47 | Leet Museo",
@@ -11207,7 +11207,7 @@
     "PaintKitId": 1091,
     "Collection": "The Operation Riptide Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_29/weapon_elite_gs_gs_dual_berettas_tread_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_29/weapon_elite_gs_dual_berettas_tread_light_png.png"
   },
   {
     "Name": "FAMAS | ZX Spectron",
@@ -11397,7 +11397,7 @@
     "PaintKitId": 1126,
     "Collection": "The Dreams \u0026 Nightmares Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_community_30/weapon_elite_gs_cu_elites_beware_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_30/weapon_elite_cu_elites_beware_light_png.png"
   },
   {
     "Name": "FAMAS | Rapid Eye Movement",
@@ -11697,7 +11697,7 @@
     "PaintKitId": 1156,
     "Collection": "The Recoil Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_community_31/weapon_elite_gs_cu_dual_elites_evil_flora_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_31/weapon_elite_cu_dual_elites_evil_flora_light_png.png"
   },
   {
     "Name": "UMP-45 | Roadblock",
@@ -11827,7 +11827,7 @@
     "PaintKitId": 1169,
     "Collection": "The Kilowatt Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_33/weapon_elite_gs_dual_berettas_lethal_grin_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_33/weapon_elite_dual_berettas_lethal_grin_light_png.png"
   },
   {
     "Name": "AWP | Chrome Cannon",
@@ -12727,7 +12727,7 @@
     "PaintKitId": 1263,
     "Collection": "The Ascent Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_elite_gs_soo_rose_gold_light_png.png"
+    "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_elite_soo_rose_gold_light_png.png"
   },
   {
     "Name": "Galil AR | Robin\u0027s Egg",
@@ -12997,7 +12997,7 @@
     "PaintKitId": 1290,
     "Collection": "The Boreal Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_elite_gs_soch_marble_grips_light_png.png"
+    "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_elite_soch_marble_grips_light_png.png"
   },
   {
     "Name": "P90 | Mustard Gas",
@@ -13447,7 +13447,7 @@
     "PaintKitId": 1335,
     "Collection": "The Radiant Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_elite_gs_soch_acrylic_grips_light_png.png"
+    "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_elite_soch_acrylic_grips_light_png.png"
   },
   {
     "Name": "Five-SeveN | Autumn Thicket",

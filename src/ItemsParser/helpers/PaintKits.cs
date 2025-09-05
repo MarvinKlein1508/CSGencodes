@@ -111,7 +111,7 @@ internal static class PaintKits
                 "weapon_m4a1_silencer" => ("M4A1-S", 60, "m4a1_silencer"),
                 "weapon_negev" => ("Negev", 28, "negev"),
                 "weapon_fiveseven" => ("Five-SeveN", 3, "fiveseven"),
-                "weapon_elite" => ("Dual Berettas", 2, "elite_gs"),
+                "weapon_elite" => ("Dual Berettas", 2, "elite"),
                 "weapon_sg556" => ("SG 553", 39, "sg556"),
                 "weapon_sawedoff" => ("Sawed-Off", 29, "sawedoff"),
                 "weapon_mp5sd" => ("MP5-SD", 23, "mp5sd"),
