@@ -120,14 +120,14 @@
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_g3sg1_sp_moro_carving_lightblue_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "Galil AR | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 13,
     "PaintKitId": 246,
     "Collection": "The 2021 Dust 2 Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_galilar_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "USP-S | Orange Anolis",
@@ -150,14 +150,14 @@
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_m4a1_hy_ddpat_urban_red_light_png.png"
   },
   {
-    "Name": "AK-47 | Case Hardened",
+    "Name": "MAC-10 | Case Hardened",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 7,
+    "WeaponId": 17,
     "PaintKitId": 44,
     "Collection": "The 2021 Dust 2 Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_aq_oiled_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_mac10_aq_oiled_light_png.png"
   },
   {
     "Name": "UMP-45 | Fade",

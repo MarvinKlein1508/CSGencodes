@@ -75,18 +75,16 @@ internal static class PaintKits
     {
         return _paintKits.First(x => x.Name == name);
     }
-    public static (string name, int weapon_id, string econ_name) GetWeaponType(PaintKit entry)
+    public static (string name, int weapon_id, string econ_name) GetWeaponType(string key)
     {
-        string name = entry.Name;
-        string pattern = $@"\[{Regex.Escape(name)}\]([a-zA-Z0-9_]+)";
-        var match = Regex.Match(ItemsGameData.ItemsGame, pattern);
+        // Key: [hy_mesh_safetyorange]weapon_tec9
+        var keySplitted = key.Split(']');
 
-        if (match.Success)
+        if (keySplitted.Length == 2)
         {
-            string weapon_type = match.Groups[1].Value;
+            string weaponPart = keySplitted[1];
 
-
-            return weapon_type switch
+            return weaponPart switch
             {
                 "weapon_hkp2000" => ("P2000", 32, "hkp2000"),
                 "weapon_xm1014" => ("XM1014", 25, "xm1014"),
@@ -123,11 +121,10 @@ internal static class PaintKits
                 "weapon_bizon" => ("PP-Bizon", 26, "bizon"),
                 "weapon_mp7" => ("MP7", 33, "mp7"),
                 "weapon_scar20" => ("SCAR-20", 38, "scar20"),
-                _ => throw new NotImplementedException($"Weapon {weapon_type} has not been implemented"),
+                _ => throw new NotImplementedException($"Weapon {weaponPart} has not been implemented"),
             };
         }
 
-        Console.WriteLine($"Weapon for \"{name}\" could not be found.");
         return (string.Empty, 0, string.Empty);
     }
 }

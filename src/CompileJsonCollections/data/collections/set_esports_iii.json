@@ -1,43 +1,43 @@
 [
   {
-    "Name": "USP-S | Dark Water",
+    "Name": "SSG 08 | Dark Water",
     "MinWear": 0.1,
     "MaxWear": 0.26,
-    "WeaponId": 61,
+    "WeaponId": 40,
     "PaintKitId": 60,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_ssg08_am_zebra_dark_light_png.png"
   },
   {
-    "Name": "SG 553 | Ultraviolet",
+    "Name": "MAC-10 | Ultraviolet",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 39,
+    "WeaponId": 17,
     "PaintKitId": 98,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_sg556_so_purple_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_mac10_so_purple_light_png.png"
   },
   {
-    "Name": "M4A1-S | Blood Tiger",
+    "Name": "USP-S | Blood Tiger",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 60,
+    "WeaponId": 61,
     "PaintKitId": 217,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_usp_silencer_hy_redtiger_light_png.png"
   },
   {
-    "Name": "FAMAS | Hexane",
+    "Name": "CZ75-Auto | Hexane",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 10,
+    "WeaponId": 63,
     "PaintKitId": 218,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_famas_hy_bluehex_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_cz75a_hy_bluehex_light_png.png"
   },
   {
     "Name": "Negev | Bratatat",
@@ -90,24 +90,24 @@
     "Image": "/assets/img/items/weapons/set_esports_iii/weapon_mp7_am_ossify_blue_light_png.png"
   },
   {
-    "Name": "P250 | Steel Disruption",
+    "Name": "Glock-18 | Steel Disruption",
     "MinWear": 0,
     "MaxWear": 0.2,
-    "WeaponId": 36,
+    "WeaponId": 4,
     "PaintKitId": 230,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_p250_am_ddpatdense_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_glock_am_ddpatdense_silver_light_png.png"
   },
   {
-    "Name": "SCAR-20 | Crimson Web",
+    "Name": "Desert Eagle | Crimson Web",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 38,
+    "WeaponId": 1,
     "PaintKitId": 232,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_scar20_hy_webs_darker_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_deagle_hy_webs_darker_light_png.png"
   },
   {
     "Name": "AUG | Bengal Tiger",

@@ -1,23 +1,23 @@
 [
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "SCAR-20 | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 38,
     "PaintKitId": 298,
     "Collection": "The Chop Shop Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_scar20_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "CZ75-Auto | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 63,
     "PaintKitId": 298,
     "Collection": "The Chop Shop Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_cz75a_am_army_shine_light_png.png"
   },
   {
     "Name": "M249 | Impact Drill",
@@ -40,24 +40,24 @@
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_mag7_so_aqua_light_png.png"
   },
   {
-    "Name": "Glock-18 | Night",
+    "Name": "Desert Eagle | Night",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 4,
+    "WeaponId": 1,
     "PaintKitId": 40,
     "Collection": "The Chop Shop Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_so_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_deagle_so_night_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Urban Rubble",
+    "Name": "Galil AR | Urban Rubble",
     "MinWear": 0,
     "MaxWear": 0.5,
-    "WeaponId": 1,
+    "WeaponId": 13,
     "PaintKitId": 237,
     "Collection": "The Chop Shop Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_deagle_hy_varicamo_urban_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_galilar_hy_varicamo_urban_light_png.png"
   },
   {
     "Name": "USP-S | Para Green",
@@ -70,44 +70,44 @@
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_usp_silencer_so_khaki_green_light_png.png"
   },
   {
-    "Name": "Glock-18 | Fade",
+    "Name": "MAC-10 | Fade",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 4,
+    "WeaponId": 17,
     "PaintKitId": 38,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_aa_fade_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mac10_aa_fade_light_png.png"
   },
   {
-    "Name": "MP7 | Whiteout",
+    "Name": "P250 | Whiteout",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 33,
+    "WeaponId": 36,
     "PaintKitId": 102,
     "Collection": "The Chop Shop Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mp7_so_whiteout_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_p250_so_whiteout_light_png.png"
   },
   {
-    "Name": "Sawed-Off | Full Stop",
+    "Name": "MP7 | Full Stop",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 29,
+    "WeaponId": 33,
     "PaintKitId": 250,
     "Collection": "The Chop Shop Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_sawedoff_hy_varicamo_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mp7_hy_varicamo_red_light_png.png"
   },
   {
-    "Name": "M4A1-S | Nitro",
+    "Name": "Five-SeveN | Nitro",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 60,
+    "WeaponId": 3,
     "PaintKitId": 254,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_m4a1_silencer_so_orange_accents_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_fiveseven_so_orange_accents_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Emerald",
@@ -120,14 +120,14 @@
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_cz75a_an_emerald_light_png.png"
   },
   {
-    "Name": "MP9 | Bulldozer",
+    "Name": "SG 553 | Bulldozer",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 34,
+    "WeaponId": 39,
     "PaintKitId": 39,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mp9_so_yellow_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_sg556_so_yellow_light_png.png"
   },
   {
     "Name": "Dual Berettas | Duelist",

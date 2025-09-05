@@ -40,14 +40,14 @@
     "Image": "/assets/img/items/weapons/set_stmarc/weapon_sawedoff_sp_palm_green_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Jungle",
+    "Name": "M249 | Jungle",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 14,
     "PaintKitId": 151,
     "Collection": "The St. Marc Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_stmarc/weapon_fiveseven_so_jungle_light_png.png"
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_m249_so_jungle_light_png.png"
   },
   {
     "Name": "P90 | Sunset Lily",

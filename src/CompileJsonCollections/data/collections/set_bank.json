@@ -10,34 +10,34 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_mp7_hy_ddpat_light_png.png"
   },
   {
-    "Name": "MP7 | Forest DDPAT",
+    "Name": "Sawed-Off | Forest DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 33,
+    "WeaponId": 29,
     "PaintKitId": 5,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_mp7_hy_ddpat_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_sawedoff_hy_ddpat_light_png.png"
   },
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "Tec-9 | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 30,
     "PaintKitId": 17,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_tec9_hy_ddpat_urb_light_png.png"
   },
   {
-    "Name": "P250 | Bone Mask",
+    "Name": "R8 Revolver | Bone Mask",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 36,
+    "WeaponId": 64,
     "PaintKitId": 27,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_p250_sp_tape_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_revolver_sp_tape_light_png.png"
   },
   {
     "Name": "Negev | Army Sheen",
@@ -50,34 +50,34 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_negev_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "SG 553 | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 39,
     "PaintKitId": 298,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_sg556_am_army_shine_light_png.png"
   },
   {
-    "Name": "P2000 | Silver",
+    "Name": "MAC-10 | Silver",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 32,
+    "WeaponId": 17,
     "PaintKitId": 32,
     "Collection": "The Bank Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_hkp2000_an_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_mac10_an_silver_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "UMP-45 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 24,
     "PaintKitId": 70,
     "Collection": "The Bank Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_ump45_am_carbon_fiber_light_png.png"
   },
   {
     "Name": "Glock-18 | Death Rattle",
@@ -130,14 +130,14 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_galilar_so_orca_light_png.png"
   },
   {
-    "Name": "Galil AR | Tuxedo",
+    "Name": "CZ75-Auto | Tuxedo",
     "MinWear": 0,
     "MaxWear": 0.8,
-    "WeaponId": 13,
+    "WeaponId": 63,
     "PaintKitId": 297,
     "Collection": "The Bank Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_galilar_so_orca_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_cz75a_so_orca_light_png.png"
   },
   {
     "Name": "AK-47 | Emerald Pinstripe",

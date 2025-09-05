@@ -1,73 +1,73 @@
 [
   {
-    "Name": "Glock-18 | Groundwater",
+    "Name": "Tec-9 | Groundwater",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 4,
+    "WeaponId": 30,
     "PaintKitId": 2,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_glock_so_olive_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_tec9_so_olive_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Contractor",
+    "Name": "AUG | Contractor",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 8,
     "PaintKitId": 46,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_fiveseven_so_pmc_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_aug_so_pmc_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Colony",
+    "Name": "FAMAS | Colony",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 2,
+    "WeaponId": 10,
     "PaintKitId": 47,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_elite_gs_so_space_marine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_famas_so_space_marine_light_png.png"
   },
   {
-    "Name": "MAG-7 | Sand Dune",
+    "Name": "Nova | Sand Dune",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 27,
+    "WeaponId": 35,
     "PaintKitId": 99,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_mag7_so_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_nova_so_sand_light_png.png"
   },
   {
-    "Name": "MP9 | Sand Dashed",
+    "Name": "PP-Bizon | Sand Dashed",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 34,
+    "WeaponId": 26,
     "PaintKitId": 148,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_mp9_sp_tape_short_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_bizon_sp_tape_short_sand_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "Nova | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 35,
     "PaintKitId": 3,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_nova_so_red_light_png.png"
   },
   {
-    "Name": "P250 | Gunsmoke",
+    "Name": "UMP-45 | Gunsmoke",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 36,
+    "WeaponId": 24,
     "PaintKitId": 15,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_p250_hy_gelpen_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_ump45_hy_gelpen_light_png.png"
   },
   {
     "Name": "P2000 | Granite Marbleized",
@@ -100,34 +100,34 @@
     "Image": "/assets/img/items/weapons/set_italy/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
   },
   {
-    "Name": "Negev | CaliCamo",
+    "Name": "XM1014 | CaliCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 28,
+    "WeaponId": 25,
     "PaintKitId": 240,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_negev_hy_varicamo_desert_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_xm1014_hy_varicamo_desert_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "Glock-18 | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 4,
     "PaintKitId": 3,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_glock_so_red_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Anodized Navy",
+    "Name": "MP7 | Anodized Navy",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 2,
+    "WeaponId": 33,
     "PaintKitId": 28,
     "Collection": "The Italy Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_mp7_an_navy_light_png.png"
   },
   {
     "Name": "Sawed-Off | Full Stop",

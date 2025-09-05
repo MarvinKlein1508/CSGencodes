@@ -30,24 +30,24 @@
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_sawedoff_hy_tigers_tan_light_png.png"
   },
   {
-    "Name": "Glock-18 | Death Rattle",
+    "Name": "PP-Bizon | Death Rattle",
     "MinWear": 0.08,
     "MaxWear": 0.5,
-    "WeaponId": 4,
+    "WeaponId": 26,
     "PaintKitId": 293,
     "Collection": "The Havoc Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_hy_nerodia_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_bizon_hy_nerodia_light_png.png"
   },
   {
-    "Name": "AK-47 | Predator",
+    "Name": "M249 | Predator",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 14,
     "PaintKitId": 170,
     "Collection": "The Havoc Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_sp_zebracam_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_m249_sp_zebracam_light_png.png"
   },
   {
     "Name": "MP7 | Vault Heist",
@@ -80,14 +80,14 @@
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_revolver_am_phoenix_tags_blue_light_png.png"
   },
   {
-    "Name": "Sawed-Off | Rust Coat",
+    "Name": "Nova | Rust Coat",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 29,
+    "WeaponId": 35,
     "PaintKitId": 323,
     "Collection": "The Havoc Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_sawedoff_aq_steel_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_nova_aq_steel_light_png.png"
   },
   {
     "Name": "Desert Eagle | Night Heist",
@@ -140,14 +140,14 @@
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_galilar_sp_phoenix_tags_purple_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Hypnotic",
+    "Name": "SG 553 | Hypnotic",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 39,
     "PaintKitId": 61,
     "Collection": "The Havoc Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_aa_vertigo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_sg556_aa_vertigo_light_png.png"
   },
   {
     "Name": "Glock-18 | Franklin",

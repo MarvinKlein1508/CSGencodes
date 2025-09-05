@@ -1,13 +1,13 @@
 [
   {
-    "Name": "Nova | Forest Leaves",
+    "Name": "PP-Bizon | Forest Leaves",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 35,
+    "WeaponId": 26,
     "PaintKitId": 25,
     "Collection": "The Militia Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_nova_sp_leaves_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_sp_leaves_light_png.png"
   },
   {
     "Name": "XM1014 | Grassland",
@@ -20,14 +20,14 @@
     "Image": "/assets/img/items/weapons/set_militia/weapon_xm1014_so_grassland_light_png.png"
   },
   {
-    "Name": "M4A4 | Tornado",
+    "Name": "MAC-10 | Tornado",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 17,
     "PaintKitId": 101,
     "Collection": "The Militia Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_m4a1_so_tornado_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_mac10_so_tornado_light_png.png"
   },
   {
     "Name": "P2000 | Grassland Leaves",
@@ -50,24 +50,24 @@
     "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Modern Hunter",
+    "Name": "Nova | Modern Hunter",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 35,
     "PaintKitId": 164,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_nova_hy_hunter_modern_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Modern Hunter",
+    "Name": "P250 | Modern Hunter",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 36,
     "PaintKitId": 164,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_p250_hy_hunter_modern_light_png.png"
   },
   {
     "Name": "Nova | Blaze Orange",
@@ -80,24 +80,24 @@
     "Image": "/assets/img/items/weapons/set_militia/weapon_nova_hy_hunter_blaze_orange_light_png.png"
   },
   {
-    "Name": "Nova | Blaze Orange",
+    "Name": "XM1014 | Blaze Orange",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 35,
+    "WeaponId": 25,
     "PaintKitId": 166,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_nova_hy_hunter_blaze_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_xm1014_hy_hunter_blaze_orange_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Modern Hunter",
+    "Name": "M4A4 | Modern Hunter",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 16,
     "PaintKitId": 164,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_m4a1_hy_hunter_modern_light_png.png"
   },
   {
     "Name": "SCAR-20 | Splash Jam",

@@ -59,7 +59,7 @@ internal static class CollectionWorker
                 string paintKitName = key.Split('[', ']')[1];
                 var paintKit = PaintKits.GetPaintKitByName(paintKitName);
 
-                (string weaponName, int weapon_id, string econ_name) = PaintKits.GetWeaponType(paintKit);
+                (string weaponName, int weapon_id, string econ_name) = PaintKits.GetWeaponType(key);
 
                 var rarity = ClientLootList.GetRarity(paintKit.Name);
 

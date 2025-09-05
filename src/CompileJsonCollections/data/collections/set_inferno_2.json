@@ -1,13 +1,13 @@
 [
   {
-    "Name": "Desert Eagle | Mudder",
+    "Name": "UMP-45 | Mudder",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 1,
+    "WeaponId": 24,
     "PaintKitId": 90,
     "Collection": "The 2018 Inferno Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_deagle_hy_mottled_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_ump45_hy_mottled_sand_light_png.png"
   },
   {
     "Name": "MP5-SD | Dirt Drop",
@@ -50,14 +50,14 @@
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_mag7_aq_steel_inferno_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "PP-Bizon | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 26,
     "PaintKitId": 3,
     "Collection": "The 2018 Inferno Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_bizon_so_red_light_png.png"
   },
   {
     "Name": "MAC-10 | Calf Skin",

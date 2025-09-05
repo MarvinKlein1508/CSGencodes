@@ -1,33 +1,33 @@
 [
   {
-    "Name": "Five-SeveN | Contractor",
+    "Name": "Dual Berettas | Contractor",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 2,
     "PaintKitId": 46,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_fiveseven_so_pmc_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_elite_gs_so_pmc_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Contractor",
+    "Name": "SCAR-20 | Contractor",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 38,
     "PaintKitId": 46,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_fiveseven_so_pmc_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_scar20_so_pmc_light_png.png"
   },
   {
-    "Name": "XM1014 | Blue Spruce",
+    "Name": "SSG 08 | Blue Spruce",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 25,
+    "WeaponId": 40,
     "PaintKitId": 96,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_xm1014_so_moss_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_ssg08_so_moss_light_png.png"
   },
   {
     "Name": "Tec-9 | Army Mesh",
@@ -50,14 +50,14 @@
     "Image": "/assets/img/items/weapons/set_safehouse/weapon_mp7_sp_spray_army_light_png.png"
   },
   {
-    "Name": "Nova | Forest Leaves",
+    "Name": "USP-S | Forest Leaves",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 35,
+    "WeaponId": 61,
     "PaintKitId": 25,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_nova_sp_leaves_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_usp_silencer_sp_leaves_light_png.png"
   },
   {
     "Name": "AUG | Condemned",
@@ -70,54 +70,54 @@
     "Image": "/assets/img/items/weapons/set_safehouse/weapon_aug_sp_mesh_forest_fire_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Orange Peel",
+    "Name": "MP9 | Orange Peel",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 34,
     "PaintKitId": 141,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_fiveseven_sp_tape_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_mp9_sp_tape_orange_light_png.png"
   },
   {
-    "Name": "Tec-9 | VariCamo",
+    "Name": "G3SG1 | VariCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 30,
+    "WeaponId": 11,
     "PaintKitId": 235,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_tec9_hy_varicamo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_g3sg1_hy_varicamo_light_png.png"
   },
   {
-    "Name": "Tec-9 | VariCamo",
+    "Name": "Galil AR | VariCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 30,
+    "WeaponId": 13,
     "PaintKitId": 235,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_tec9_hy_varicamo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_galilar_hy_varicamo_light_png.png"
   },
   {
-    "Name": "SG 553 | Gator Mesh",
+    "Name": "M249 | Gator Mesh",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 39,
+    "WeaponId": 14,
     "PaintKitId": 243,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_sg556_sp_mesh_python_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_m249_sp_mesh_python_light_png.png"
   },
   {
-    "Name": "P90 | Teardown",
+    "Name": "FAMAS | Teardown",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 19,
+    "WeaponId": 10,
     "PaintKitId": 244,
     "Collection": "The Safehouse Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_p90_sp_mesh_hot_and_cold_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_famas_sp_mesh_hot_and_cold_light_png.png"
   },
   {
     "Name": "Five-SeveN | Silver Quartz",

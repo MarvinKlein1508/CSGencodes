@@ -1,13 +1,13 @@
 [
   {
-    "Name": "M4A1-S | Boreal Forest",
+    "Name": "P250 | Boreal Forest",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 60,
+    "WeaponId": 36,
     "PaintKitId": 77,
     "Collection": "The Lake Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_p250_hy_forest_boreal_light_png.png"
   },
   {
     "Name": "XM1014 | Blue Spruce",
@@ -70,14 +70,14 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_xm1014_aq_blued_light_png.png"
   },
   {
-    "Name": "AK-47 | Safari Mesh",
+    "Name": "AWP | Safari Mesh",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 9,
     "PaintKitId": 72,
     "Collection": "The Lake Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_ak47_sp_mesh_tan_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_awp_sp_mesh_tan_light_png.png"
   },
   {
     "Name": "Desert Eagle | Mudder",
@@ -110,24 +110,24 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_bizon_hy_varicamo_night_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Anodized Navy",
+    "Name": "SG 553 | Anodized Navy",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 2,
+    "WeaponId": 39,
     "PaintKitId": 28,
     "Collection": "The Lake Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_sg556_an_navy_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Night Ops",
+    "Name": "USP-S | Night Ops",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 26,
+    "WeaponId": 61,
     "PaintKitId": 236,
     "Collection": "The Lake Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_bizon_hy_varicamo_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_usp_silencer_hy_varicamo_night_light_png.png"
   },
   {
     "Name": "P90 | Teardown",

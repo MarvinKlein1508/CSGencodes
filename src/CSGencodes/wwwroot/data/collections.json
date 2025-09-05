@@ -1,13 +1,13 @@
 [
   {
-    "Name": "Glock-18 | Groundwater",
+    "Name": "Tec-9 | Groundwater",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 4,
+    "WeaponId": 30,
     "PaintKitId": 2,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_glock_so_olive_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_tec9_so_olive_light_png.png"
   },
   {
     "Name": "Glock-18 | Groundwater",
@@ -30,44 +30,44 @@
     "Image": "/assets/img/items/weapons/set_assault/weapon_fiveseven_so_red_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "PP-Bizon | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 26,
     "PaintKitId": 3,
     "Collection": "The 2018 Inferno Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_bizon_so_red_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "Nova | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 35,
     "PaintKitId": 3,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_nova_so_red_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "Glock-18 | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 4,
     "PaintKitId": 3,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_glock_so_red_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "MAC-10 | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 17,
     "PaintKitId": 3,
     "Collection": "The Train Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_mac10_so_red_light_png.png"
   },
   {
     "Name": "MP7 | Forest DDPAT",
@@ -80,14 +80,14 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_mp7_hy_ddpat_light_png.png"
   },
   {
-    "Name": "MP7 | Forest DDPAT",
+    "Name": "Sawed-Off | Forest DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 33,
+    "WeaponId": 29,
     "PaintKitId": 5,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_mp7_hy_ddpat_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_sawedoff_hy_ddpat_light_png.png"
   },
   {
     "Name": "G3SG1 | Arctic Camo",
@@ -110,14 +110,14 @@
     "Image": "/assets/img/items/weapons/set_dust/weapon_m4a1_hy_desert_light_png.png"
   },
   {
-    "Name": "M4A4 | Desert Storm",
+    "Name": "G3SG1 | Desert Storm",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 11,
     "PaintKitId": 8,
     "Collection": "The Dust 2 Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_m4a1_hy_desert_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_g3sg1_hy_desert_light_png.png"
   },
   {
     "Name": "AUG | Bengal Tiger",
@@ -150,14 +150,14 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_mp7_hy_skulls_light_png.png"
   },
   {
-    "Name": "CZ75-Auto | Crimson Web",
+    "Name": "R8 Revolver | Crimson Web",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 63,
+    "WeaponId": 64,
     "PaintKitId": 12,
     "Collection": "The Revolver Case Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_community_10/weapon_cz75a_hy_webs_light_png.png"
+    "Image": "/assets/img/items/weapons/set_community_10/weapon_revolver_hy_webs_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Crimson Web",
@@ -200,24 +200,24 @@
     "Image": "/assets/img/items/weapons/set_inferno/weapon_p250_hy_gelpen_light_png.png"
   },
   {
-    "Name": "P250 | Gunsmoke",
+    "Name": "UMP-45 | Gunsmoke",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 36,
+    "WeaponId": 24,
     "PaintKitId": 15,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_p250_hy_gelpen_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_ump45_hy_gelpen_light_png.png"
   },
   {
-    "Name": "P250 | Gunsmoke",
+    "Name": "MP7 | Gunsmoke",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 36,
+    "WeaponId": 33,
     "PaintKitId": 15,
     "Collection": "The Overpass Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_p250_hy_gelpen_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_mp7_hy_gelpen_light_png.png"
   },
   {
     "Name": "M4A4 | Jungle Tiger",
@@ -230,44 +230,44 @@
     "Image": "/assets/img/items/weapons/set_aztec/weapon_m4a1_hy_v_tiger_light_png.png"
   },
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "Tec-9 | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 30,
     "PaintKitId": 17,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_tec9_hy_ddpat_urb_light_png.png"
   },
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "Desert Eagle | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 1,
     "PaintKitId": 17,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_deagle_hy_ddpat_urb_light_png.png"
   },
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "UMP-45 | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 24,
     "PaintKitId": 17,
     "Collection": "The Train Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_train/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_ump45_hy_ddpat_urb_light_png.png"
   },
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "M4A4 | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 16,
     "PaintKitId": 17,
     "Collection": "The Train Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_train/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_m4a1_hy_ddpat_urb_light_png.png"
   },
   {
     "Name": "MAC-10 | Urban DDPAT",
@@ -310,14 +310,14 @@
     "Image": "/assets/img/items/weapons/set_office/weapon_famas_sp_spray_light_png.png"
   },
   {
-    "Name": "FAMAS | Contrast Spray",
+    "Name": "M249 | Contrast Spray",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 10,
+    "WeaponId": 14,
     "PaintKitId": 22,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_famas_sp_spray_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_m249_sp_spray_light_png.png"
   },
   {
     "Name": "Nova | Forest Leaves",
@@ -330,24 +330,24 @@
     "Image": "/assets/img/items/weapons/set_aztec/weapon_nova_sp_leaves_light_png.png"
   },
   {
-    "Name": "Nova | Forest Leaves",
+    "Name": "PP-Bizon | Forest Leaves",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 35,
+    "WeaponId": 26,
     "PaintKitId": 25,
     "Collection": "The Militia Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_nova_sp_leaves_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_sp_leaves_light_png.png"
   },
   {
-    "Name": "Nova | Forest Leaves",
+    "Name": "USP-S | Forest Leaves",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 35,
+    "WeaponId": 61,
     "PaintKitId": 25,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_nova_sp_leaves_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_usp_silencer_sp_leaves_light_png.png"
   },
   {
     "Name": "SSG 08 | Lichen Dashed",
@@ -360,14 +360,14 @@
     "Image": "/assets/img/items/weapons/set_aztec/weapon_ssg08_sp_short_tape_light_png.png"
   },
   {
-    "Name": "P250 | Bone Mask",
+    "Name": "R8 Revolver | Bone Mask",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 36,
+    "WeaponId": 64,
     "PaintKitId": 27,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_p250_sp_tape_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_revolver_sp_tape_light_png.png"
   },
   {
     "Name": "P250 | Bone Mask",
@@ -380,14 +380,14 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_p250_sp_tape_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Anodized Navy",
+    "Name": "Negev | Anodized Navy",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 2,
+    "WeaponId": 28,
     "PaintKitId": 28,
     "Collection": "The Assault Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_assault/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_assault/weapon_negev_an_navy_light_png.png"
   },
   {
     "Name": "Dual Berettas | Anodized Navy",
@@ -400,24 +400,24 @@
     "Image": "/assets/img/items/weapons/set_inferno/weapon_elite_gs_an_navy_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Anodized Navy",
+    "Name": "MP7 | Anodized Navy",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 2,
+    "WeaponId": 33,
     "PaintKitId": 28,
     "Collection": "The Italy Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_mp7_an_navy_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Anodized Navy",
+    "Name": "SG 553 | Anodized Navy",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 2,
+    "WeaponId": 39,
     "PaintKitId": 28,
     "Collection": "The Lake Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_sg556_an_navy_light_png.png"
   },
   {
     "Name": "AWP | Snake Camo",
@@ -430,34 +430,34 @@
     "Image": "/assets/img/items/weapons/set_dust/weapon_awp_sp_snake_light_png.png"
   },
   {
-    "Name": "AWP | Snake Camo",
+    "Name": "Sawed-Off | Snake Camo",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 9,
+    "WeaponId": 29,
     "PaintKitId": 30,
     "Collection": "The Dust 2 Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_awp_sp_snake_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_sawedoff_sp_snake_light_png.png"
   },
   {
-    "Name": "P2000 | Silver",
+    "Name": "MAC-10 | Silver",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 32,
+    "WeaponId": 17,
     "PaintKitId": 32,
     "Collection": "The Bank Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_hkp2000_an_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_mac10_an_silver_light_png.png"
   },
   {
-    "Name": "P2000 | Silver",
+    "Name": "MAG-7 | Silver",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 32,
+    "WeaponId": 27,
     "PaintKitId": 32,
     "Collection": "The Cobblestone Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_hkp2000_an_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_mag7_an_silver_light_png.png"
   },
   {
     "Name": "P2000 | Silver",
@@ -470,14 +470,14 @@
     "Image": "/assets/img/items/weapons/set_office/weapon_hkp2000_an_silver_light_png.png"
   },
   {
-    "Name": "P2000 | Silver",
+    "Name": "CZ75-Auto | Silver",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 32,
+    "WeaponId": 63,
     "PaintKitId": 32,
     "Collection": "The Ancient Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_an_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_cz75a_an_silver_light_png.png"
   },
   {
     "Name": "AUG | Hot Rod",
@@ -490,14 +490,14 @@
     "Image": "/assets/img/items/weapons/set_assault/weapon_aug_an_red_light_png.png"
   },
   {
-    "Name": "AUG | Hot Rod",
+    "Name": "MP9 | Hot Rod",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 8,
+    "WeaponId": 34,
     "PaintKitId": 33,
     "Collection": "The Mirage Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_aug_an_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp9_an_red_light_png.png"
   },
   {
     "Name": "MAG-7 | Metallic DDPAT",
@@ -510,14 +510,14 @@
     "Image": "/assets/img/items/weapons/set_train/weapon_mag7_am_urban_light_png.png"
   },
   {
-    "Name": "MAG-7 | Metallic DDPAT",
+    "Name": "P250 | Metallic DDPAT",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 27,
+    "WeaponId": 36,
     "PaintKitId": 34,
     "Collection": "The Train Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train/weapon_mag7_am_urban_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_p250_am_urban_light_png.png"
   },
   {
     "Name": "Tec-9 | Ossified",
@@ -540,24 +540,24 @@
     "Image": "/assets/img/items/weapons/set_dust/weapon_deagle_aa_flames_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Blaze",
+    "Name": "UMP-45 | Blaze",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 24,
     "PaintKitId": 37,
     "Collection": "The Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_deagle_aa_flames_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_ump45_aa_flames_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Blaze",
+    "Name": "R8 Revolver | Blaze",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 64,
     "PaintKitId": 37,
     "Collection": "The 2021 Train Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_aa_flames_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_revolver_aa_flames_light_png.png"
   },
   {
     "Name": "Glock-18 | Fade",
@@ -570,14 +570,14 @@
     "Image": "/assets/img/items/weapons/set_assault/weapon_glock_aa_fade_light_png.png"
   },
   {
-    "Name": "Glock-18 | Fade",
+    "Name": "MAC-10 | Fade",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 4,
+    "WeaponId": 17,
     "PaintKitId": 38,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_aa_fade_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mac10_aa_fade_light_png.png"
   },
   {
     "Name": "MP9 | Bulldozer",
@@ -590,44 +590,44 @@
     "Image": "/assets/img/items/weapons/set_assault/weapon_mp9_so_yellow_light_png.png"
   },
   {
-    "Name": "MP9 | Bulldozer",
+    "Name": "SG 553 | Bulldozer",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 34,
+    "WeaponId": 39,
     "PaintKitId": 39,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mp9_so_yellow_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_sg556_so_yellow_light_png.png"
   },
   {
-    "Name": "MP9 | Bulldozer",
+    "Name": "MAG-7 | Bulldozer",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 34,
+    "WeaponId": 27,
     "PaintKitId": 39,
     "Collection": "The Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp9_so_yellow_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mag7_so_yellow_light_png.png"
   },
   {
-    "Name": "Glock-18 | Night",
+    "Name": "Desert Eagle | Night",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 4,
+    "WeaponId": 1,
     "PaintKitId": 40,
     "Collection": "The Chop Shop Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_so_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_deagle_so_night_light_png.png"
   },
   {
-    "Name": "Glock-18 | Night",
+    "Name": "R8 Revolver | Night",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 4,
+    "WeaponId": 64,
     "PaintKitId": 40,
     "Collection": "The Ancient Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_glock_so_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_revolver_so_night_light_png.png"
   },
   {
     "Name": "Glock-18 | Night",
@@ -670,14 +670,14 @@
     "Image": "/assets/img/items/weapons/set_italy/weapon_elite_gs_aq_forced_light_png.png"
   },
   {
-    "Name": "AK-47 | Case Hardened",
+    "Name": "MAC-10 | Case Hardened",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 7,
+    "WeaponId": 17,
     "PaintKitId": 44,
     "Collection": "The 2021 Dust 2 Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_aq_oiled_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_mac10_aq_oiled_light_png.png"
   },
   {
     "Name": "AK-47 | Case Hardened",
@@ -690,34 +690,34 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_ak47_aq_oiled_light_png.png"
   },
   {
-    "Name": "AK-47 | Case Hardened",
+    "Name": "Five-SeveN | Case Hardened",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 7,
+    "WeaponId": 3,
     "PaintKitId": 44,
     "Collection": "The Arms Deal 2 Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_ak47_aq_oiled_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_fiveseven_aq_oiled_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Contractor",
+    "Name": "G3SG1 | Contractor",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 11,
     "PaintKitId": 46,
     "Collection": "The Baggage Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_baggage/weapon_fiveseven_so_pmc_light_png.png"
+    "Image": "/assets/img/items/weapons/set_baggage/weapon_g3sg1_so_pmc_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Contractor",
+    "Name": "AUG | Contractor",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 8,
     "PaintKitId": 46,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_fiveseven_so_pmc_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_aug_so_pmc_light_png.png"
   },
   {
     "Name": "Five-SeveN | Contractor",
@@ -730,44 +730,44 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_fiveseven_so_pmc_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Contractor",
-    "MinWear": 0,
-    "MaxWear": 0,
-    "WeaponId": 3,
-    "PaintKitId": 46,
-    "Collection": "The Safehouse Collection",
-    "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_fiveseven_so_pmc_light_png.png"
-  },
-  {
-    "Name": "Five-SeveN | Contractor",
-    "MinWear": 0,
-    "MaxWear": 0,
-    "WeaponId": 3,
-    "PaintKitId": 46,
-    "Collection": "The Safehouse Collection",
-    "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_fiveseven_so_pmc_light_png.png"
-  },
-  {
-    "Name": "Dual Berettas | Colony",
+    "Name": "Dual Berettas | Contractor",
     "MinWear": 0,
     "MaxWear": 0,
     "WeaponId": 2,
+    "PaintKitId": 46,
+    "Collection": "The Safehouse Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_elite_gs_so_pmc_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Contractor",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 38,
+    "PaintKitId": 46,
+    "Collection": "The Safehouse Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_scar20_so_pmc_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Colony",
+    "MinWear": 0,
+    "MaxWear": 0,
+    "WeaponId": 10,
     "PaintKitId": 47,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_elite_gs_so_space_marine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_famas_so_space_marine_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Colony",
+    "Name": "AUG | Colony",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 2,
+    "WeaponId": 8,
     "PaintKitId": 47,
     "Collection": "The Mirage Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_elite_gs_so_space_marine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_aug_so_space_marine_light_png.png"
   },
   {
     "Name": "Dual Berettas | Colony",
@@ -800,24 +800,24 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_awp_am_lightning_awp_light_png.png"
   },
   {
-    "Name": "USP-S | Dark Water",
+    "Name": "SSG 08 | Dark Water",
     "MinWear": 0.1,
     "MaxWear": 0.26,
-    "WeaponId": 61,
+    "WeaponId": 40,
     "PaintKitId": 60,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_ssg08_am_zebra_dark_light_png.png"
   },
   {
-    "Name": "USP-S | Dark Water",
+    "Name": "FAMAS | Dark Water",
     "MinWear": 0.1,
     "MaxWear": 0.26,
-    "WeaponId": 61,
+    "WeaponId": 10,
     "PaintKitId": 60,
     "Collection": "The Ancient Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_famas_am_zebra_dark_light_png.png"
   },
   {
     "Name": "USP-S | Dark Water",
@@ -830,24 +830,24 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
-    "Name": "USP-S | Dark Water",
+    "Name": "M4A1-S | Dark Water",
     "MinWear": 0.1,
     "MaxWear": 0.26,
-    "WeaponId": 61,
+    "WeaponId": 60,
     "PaintKitId": 60,
     "Collection": "The Arms Deal Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_m4a1_silencer_am_zebra_dark_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Hypnotic",
+    "Name": "SG 553 | Hypnotic",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 39,
     "PaintKitId": 61,
     "Collection": "The Havoc Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_aa_vertigo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_sg556_aa_vertigo_light_png.png"
   },
   {
     "Name": "Desert Eagle | Hypnotic",
@@ -860,14 +860,14 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Hypnotic",
+    "Name": "MP9 | Hypnotic",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 34,
     "PaintKitId": 61,
     "Collection": "The Arms Deal 2 Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_deagle_aa_vertigo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_mp9_aa_vertigo_light_png.png"
   },
   {
     "Name": "Nova | Bloomstick",
@@ -890,34 +890,34 @@
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_p90_am_slither_p90_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "UMP-45 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 24,
     "PaintKitId": 70,
     "Collection": "The Bank Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_ump45_am_carbon_fiber_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "MAG-7 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 27,
     "PaintKitId": 70,
     "Collection": "The Control Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_mag7_am_carbon_fiber_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "SCAR-20 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 38,
     "PaintKitId": 70,
     "Collection": "The Train Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_scar20_am_carbon_fiber_light_png.png"
   },
   {
     "Name": "PP-Bizon | Carbon Fiber",
@@ -930,14 +930,14 @@
     "Image": "/assets/img/items/weapons/set_vertigo/weapon_bizon_am_carbon_fiber_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "SSG 08 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 40,
     "PaintKitId": 70,
     "Collection": "The 2021 Vertigo Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_ssg08_am_carbon_fiber_light_png.png"
   },
   {
     "Name": "P2000 | Scorpion",
@@ -960,24 +960,24 @@
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
-    "Name": "AK-47 | Safari Mesh",
+    "Name": "AWP | Safari Mesh",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 9,
     "PaintKitId": 72,
     "Collection": "The Lake Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_ak47_sp_mesh_tan_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_awp_sp_mesh_tan_light_png.png"
   },
   {
-    "Name": "AK-47 | Safari Mesh",
+    "Name": "G3SG1 | Safari Mesh",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 11,
     "PaintKitId": 72,
     "Collection": "The Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_ak47_sp_mesh_tan_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_g3sg1_sp_mesh_tan_light_png.png"
   },
   {
     "Name": "AUG | Wings",
@@ -1030,24 +1030,24 @@
     "Image": "/assets/img/items/weapons/set_italy/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
   },
   {
-    "Name": "M4A1-S | Boreal Forest",
+    "Name": "P250 | Boreal Forest",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 60,
+    "WeaponId": 36,
     "PaintKitId": 77,
     "Collection": "The Lake Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_p250_hy_forest_boreal_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Forest Night",
+    "Name": "P250 | Forest Night",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 36,
     "PaintKitId": 78,
     "Collection": "The Control Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_fiveseven_hy_forest_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_p250_hy_forest_night_light_png.png"
   },
   {
     "Name": "Five-SeveN | Forest Night",
@@ -1070,24 +1070,24 @@
     "Image": "/assets/img/items/weapons/set_esports/weapon_galilar_hy_ddpat_orange_light_png.png"
   },
   {
-    "Name": "Galil AR | Orange DDPAT",
+    "Name": "Sawed-Off | Orange DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 13,
+    "WeaponId": 29,
     "PaintKitId": 83,
     "Collection": "The eSports 2013 Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_esports/weapon_galilar_hy_ddpat_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports/weapon_sawedoff_hy_ddpat_orange_light_png.png"
   },
   {
-    "Name": "AWP | Pink DDPAT",
+    "Name": "Glock-18 | Pink DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 9,
+    "WeaponId": 4,
     "PaintKitId": 84,
     "Collection": "The 2021 Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_awp_hy_ddpat_pink_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_glock_hy_ddpat_pink_light_png.png"
   },
   {
     "Name": "AWP | Pink DDPAT",
@@ -1100,14 +1100,14 @@
     "Image": "/assets/img/items/weapons/set_overpass/weapon_awp_hy_ddpat_pink_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Mudder",
+    "Name": "UMP-45 | Mudder",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 1,
+    "WeaponId": 24,
     "PaintKitId": 90,
     "Collection": "The 2018 Inferno Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_deagle_hy_mottled_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno_2/weapon_ump45_hy_mottled_sand_light_png.png"
   },
   {
     "Name": "Desert Eagle | Mudder",
@@ -1150,14 +1150,14 @@
     "Image": "/assets/img/items/weapons/set_militia/weapon_xm1014_so_grassland_light_png.png"
   },
   {
-    "Name": "XM1014 | Grassland",
+    "Name": "P2000 | Grassland",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 25,
+    "WeaponId": 32,
     "PaintKitId": 95,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_xm1014_so_grassland_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_hkp2000_so_grassland_light_png.png"
   },
   {
     "Name": "XM1014 | Blue Spruce",
@@ -1170,24 +1170,24 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_xm1014_so_moss_light_png.png"
   },
   {
-    "Name": "XM1014 | Blue Spruce",
+    "Name": "SSG 08 | Blue Spruce",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 25,
+    "WeaponId": 40,
     "PaintKitId": 96,
     "Collection": "The Safehouse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_xm1014_so_moss_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_ssg08_so_moss_light_png.png"
   },
   {
-    "Name": "SG 553 | Ultraviolet",
+    "Name": "MAC-10 | Ultraviolet",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 39,
+    "WeaponId": 17,
     "PaintKitId": 98,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_sg556_so_purple_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_mac10_so_purple_light_png.png"
   },
   {
     "Name": "SG 553 | Ultraviolet",
@@ -1200,24 +1200,24 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_sg556_so_purple_light_png.png"
   },
   {
-    "Name": "MAG-7 | Sand Dune",
+    "Name": "SSG 08 | Sand Dune",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 27,
+    "WeaponId": 40,
     "PaintKitId": 99,
     "Collection": "The Baggage Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_baggage/weapon_mag7_so_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_baggage/weapon_ssg08_so_sand_light_png.png"
   },
   {
-    "Name": "MAG-7 | Sand Dune",
+    "Name": "P250 | Sand Dune",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 27,
+    "WeaponId": 36,
     "PaintKitId": 99,
     "Collection": "The Dust 2 Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_mag7_so_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_p250_so_sand_light_png.png"
   },
   {
     "Name": "MAG-7 | Sand Dune",
@@ -1230,34 +1230,34 @@
     "Image": "/assets/img/items/weapons/set_inferno/weapon_mag7_so_sand_light_png.png"
   },
   {
-    "Name": "MAG-7 | Sand Dune",
+    "Name": "Nova | Sand Dune",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 27,
+    "WeaponId": 35,
     "PaintKitId": 99,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_mag7_so_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_nova_so_sand_light_png.png"
   },
   {
-    "Name": "AUG | Storm",
+    "Name": "P90 | Storm",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 8,
+    "WeaponId": 19,
     "PaintKitId": 100,
     "Collection": "The Cobblestone Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_aug_so_stormfront_light_png.png"
+    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_p90_so_stormfront_light_png.png"
   },
   {
-    "Name": "AUG | Storm",
+    "Name": "SCAR-20 | Storm",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 8,
+    "WeaponId": 38,
     "PaintKitId": 100,
     "Collection": "The Cobblestone Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_aug_so_stormfront_light_png.png"
+    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_scar20_so_stormfront_light_png.png"
   },
   {
     "Name": "AUG | Storm",
@@ -1270,34 +1270,34 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_aug_so_stormfront_light_png.png"
   },
   {
-    "Name": "AUG | Storm",
+    "Name": "MAG-7 | Storm",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 8,
+    "WeaponId": 27,
     "PaintKitId": 100,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_aug_so_stormfront_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_mag7_so_stormfront_light_png.png"
   },
   {
-    "Name": "AUG | Storm",
+    "Name": "MP9 | Storm",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 8,
+    "WeaponId": 34,
     "PaintKitId": 100,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_aug_so_stormfront_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_mp9_so_stormfront_light_png.png"
   },
   {
-    "Name": "M4A4 | Tornado",
+    "Name": "SG 553 | Tornado",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 39,
     "PaintKitId": 101,
     "Collection": "The Assault Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_assault/weapon_m4a1_so_tornado_light_png.png"
+    "Image": "/assets/img/items/weapons/set_assault/weapon_sg556_so_tornado_light_png.png"
   },
   {
     "Name": "M4A4 | Tornado",
@@ -1310,34 +1310,34 @@
     "Image": "/assets/img/items/weapons/set_inferno/weapon_m4a1_so_tornado_light_png.png"
   },
   {
-    "Name": "M4A4 | Tornado",
+    "Name": "MAC-10 | Tornado",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 17,
     "PaintKitId": 101,
     "Collection": "The Militia Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_m4a1_so_tornado_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_mac10_so_tornado_light_png.png"
   },
   {
-    "Name": "M4A4 | Tornado",
+    "Name": "Galil AR | Tornado",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 13,
     "PaintKitId": 101,
     "Collection": "The Norse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_so_tornado_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_galilar_so_tornado_light_png.png"
   },
   {
-    "Name": "MP7 | Whiteout",
+    "Name": "P250 | Whiteout",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 33,
+    "WeaponId": 36,
     "PaintKitId": 102,
     "Collection": "The Chop Shop Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mp7_so_whiteout_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_p250_so_whiteout_light_png.png"
   },
   {
     "Name": "MP7 | Whiteout",
@@ -1480,14 +1480,14 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_galilar_sp_spray_desert_sage_light_png.png"
   },
   {
-    "Name": "Galil AR | Sage Spray",
+    "Name": "Sawed-Off | Sage Spray",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 13,
+    "WeaponId": 29,
     "PaintKitId": 119,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_galilar_sp_spray_desert_sage_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_sawedoff_sp_spray_desert_sage_light_png.png"
   },
   {
     "Name": "M249 | Hypnosis",
@@ -1700,24 +1700,24 @@
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_fiveseven_sp_tape_orange_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Orange Peel",
+    "Name": "MP7 | Orange Peel",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 33,
     "PaintKitId": 141,
     "Collection": "The Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_fiveseven_sp_tape_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp7_sp_tape_orange_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Orange Peel",
+    "Name": "MP9 | Orange Peel",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 34,
     "PaintKitId": 141,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_fiveseven_sp_tape_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_mp9_sp_tape_orange_light_png.png"
   },
   {
     "Name": "AK-47 | B the Monster",
@@ -1770,24 +1770,24 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
   },
   {
-    "Name": "G3SG1 | Jungle Dashed",
+    "Name": "SSG 08 | Jungle Dashed",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 11,
+    "WeaponId": 40,
     "PaintKitId": 147,
     "Collection": "The Ancient Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_ssg08_sp_tape_short_jungle_light_png.png"
   },
   {
-    "Name": "G3SG1 | Jungle Dashed",
+    "Name": "CZ75-Auto | Jungle Dashed",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 11,
+    "WeaponId": 63,
     "PaintKitId": 147,
     "Collection": "The Control Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_cz75a_sp_tape_short_jungle_light_png.png"
   },
   {
     "Name": "MP9 | Sand Dashed",
@@ -1800,14 +1800,14 @@
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_mp9_sp_tape_short_sand_light_png.png"
   },
   {
-    "Name": "MP9 | Sand Dashed",
+    "Name": "PP-Bizon | Sand Dashed",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 34,
+    "WeaponId": 26,
     "PaintKitId": 148,
     "Collection": "The Italy Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_mp9_sp_tape_short_sand_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_bizon_sp_tape_short_sand_light_png.png"
   },
   {
     "Name": "PP-Bizon | Urban Dashed",
@@ -1830,14 +1830,14 @@
     "Image": "/assets/img/items/weapons/set_aztec/weapon_fiveseven_so_jungle_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Jungle",
+    "Name": "M249 | Jungle",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 14,
     "PaintKitId": 151,
     "Collection": "The St. Marc Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_stmarc/weapon_fiveseven_so_jungle_light_png.png"
+    "Image": "/assets/img/items/weapons/set_stmarc/weapon_m249_so_jungle_light_png.png"
   },
   {
     "Name": "Glock-18 | Teal Graf",
@@ -1900,14 +1900,14 @@
     "Image": "/assets/img/items/weapons/set_dust/weapon_scar20_sp_palm_light_png.png"
   },
   {
-    "Name": "SCAR-20 | Palm",
+    "Name": "MAC-10 | Palm",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 38,
+    "WeaponId": 17,
     "PaintKitId": 157,
     "Collection": "The Dust 2 Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_scar20_sp_palm_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_mac10_sp_palm_light_png.png"
   },
   {
     "Name": "Nova | Walnut",
@@ -1930,34 +1930,34 @@
     "Image": "/assets/img/items/weapons/set_dust/weapon_glock_aq_brass_light_png.png"
   },
   {
-    "Name": "Glock-18 | Brass",
+    "Name": "PP-Bizon | Brass",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 4,
+    "WeaponId": 26,
     "PaintKitId": 159,
     "Collection": "The Dust 2 Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_glock_aq_brass_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_bizon_aq_brass_light_png.png"
   },
   {
-    "Name": "Glock-18 | Brass",
+    "Name": "Tec-9 | Brass",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 4,
+    "WeaponId": 30,
     "PaintKitId": 159,
     "Collection": "The Inferno Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_inferno/weapon_glock_aq_brass_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno/weapon_tec9_aq_brass_light_png.png"
   },
   {
-    "Name": "Glock-18 | Brass",
+    "Name": "SCAR-20 | Brass",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 4,
+    "WeaponId": 38,
     "PaintKitId": 159,
     "Collection": "The Norse Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_glock_aq_brass_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_scar20_aq_brass_light_png.png"
   },
   {
     "Name": "M4A1-S | Wash me plz",
@@ -2010,34 +2010,34 @@
     "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Modern Hunter",
+    "Name": "Nova | Modern Hunter",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 35,
     "PaintKitId": 164,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_nova_hy_hunter_modern_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Modern Hunter",
+    "Name": "P250 | Modern Hunter",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 36,
     "PaintKitId": 164,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_p250_hy_hunter_modern_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Modern Hunter",
+    "Name": "M4A4 | Modern Hunter",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 16,
     "PaintKitId": 164,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_bizon_hy_hunter_modern_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_m4a1_hy_hunter_modern_light_png.png"
   },
   {
     "Name": "SCAR-20 | Splash Jam",
@@ -2060,14 +2060,14 @@
     "Image": "/assets/img/items/weapons/set_militia/weapon_nova_hy_hunter_blaze_orange_light_png.png"
   },
   {
-    "Name": "Nova | Blaze Orange",
+    "Name": "XM1014 | Blaze Orange",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 35,
+    "WeaponId": 25,
     "PaintKitId": 166,
     "Collection": "The Militia Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_militia/weapon_nova_hy_hunter_blaze_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_militia/weapon_xm1014_hy_hunter_blaze_orange_light_png.png"
   },
   {
     "Name": "M4A4 | Radiation Hazard",
@@ -2100,24 +2100,24 @@
     "Image": "/assets/img/items/weapons/set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
   },
   {
-    "Name": "P90 | Fallout Warning",
+    "Name": "UMP-45 | Fallout Warning",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 24,
     "PaintKitId": 169,
     "Collection": "The Nuke Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_ump45_sp_nukestripe_maroon_light_png.png"
   },
   {
-    "Name": "P90 | Fallout Warning",
+    "Name": "XM1014 | Fallout Warning",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 25,
     "PaintKitId": 169,
     "Collection": "The Nuke Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_xm1014_sp_nukestripe_maroon_light_png.png"
   },
   {
     "Name": "AK-47 | Predator",
@@ -2130,24 +2130,24 @@
     "Image": "/assets/img/items/weapons/set_dust/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
-    "Name": "AK-47 | Predator",
+    "Name": "Nova | Predator",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 35,
     "PaintKitId": 170,
     "Collection": "The Dust 2 Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_ak47_sp_zebracam_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_nova_sp_zebracam_light_png.png"
   },
   {
-    "Name": "AK-47 | Predator",
+    "Name": "M249 | Predator",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 14,
     "PaintKitId": 170,
     "Collection": "The Havoc Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_sp_zebracam_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_m249_sp_zebracam_light_png.png"
   },
   {
     "Name": "PP-Bizon | Irradiated Alert",
@@ -2160,24 +2160,24 @@
     "Image": "/assets/img/items/weapons/set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Irradiated Alert",
+    "Name": "MAG-7 | Irradiated Alert",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 27,
     "PaintKitId": 171,
     "Collection": "The Nuke Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_mag7_sp_nukestripe_brown_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Irradiated Alert",
+    "Name": "Sawed-Off | Irradiated Alert",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 29,
     "PaintKitId": 171,
     "Collection": "The Nuke Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_sawedoff_sp_nukestripe_brown_light_png.png"
   },
   {
     "Name": "AK-47 | Black Laminate",
@@ -2220,24 +2220,24 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_p90_sp_dapple_light_png.png"
   },
   {
-    "Name": "P90 | Scorched",
+    "Name": "MP7 | Scorched",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 33,
     "PaintKitId": 175,
     "Collection": "The Norse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_p90_sp_dapple_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_mp7_sp_dapple_light_png.png"
   },
   {
-    "Name": "P90 | Scorched",
+    "Name": "UMP-45 | Scorched",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 24,
     "PaintKitId": 175,
     "Collection": "The Overpass Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_overpass/weapon_p90_sp_dapple_light_png.png"
+    "Image": "/assets/img/items/weapons/set_overpass/weapon_ump45_sp_dapple_light_png.png"
   },
   {
     "Name": "M4A4 | Faded Zebra",
@@ -2640,14 +2640,14 @@
     "Image": "/assets/img/items/weapons/set_esports_ii/weapon_m4a1_cu_xray_m4_light_png.png"
   },
   {
-    "Name": "Tec-9 | Blue Titanium",
+    "Name": "Galil AR | Blue Titanium",
     "MinWear": 0,
     "MaxWear": 0.04,
-    "WeaponId": 30,
+    "WeaponId": 13,
     "PaintKitId": 216,
     "Collection": "The eSports 2013 Winter Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_ii/weapon_tec9_an_titanium30v_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_ii/weapon_galilar_an_titanium30v_light_png.png"
   },
   {
     "Name": "Tec-9 | Blue Titanium",
@@ -2660,14 +2660,14 @@
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_tec9_an_titanium30v_light_png.png"
   },
   {
-    "Name": "M4A1-S | Blood Tiger",
+    "Name": "USP-S | Blood Tiger",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 60,
+    "WeaponId": 61,
     "PaintKitId": 217,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_usp_silencer_hy_redtiger_light_png.png"
   },
   {
     "Name": "M4A1-S | Blood Tiger",
@@ -2680,14 +2680,14 @@
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
   },
   {
-    "Name": "FAMAS | Hexane",
+    "Name": "CZ75-Auto | Hexane",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 10,
+    "WeaponId": 63,
     "PaintKitId": 218,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_famas_hy_bluehex_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_cz75a_hy_bluehex_light_png.png"
   },
   {
     "Name": "FAMAS | Hexane",
@@ -2820,14 +2820,14 @@
     "Image": "/assets/img/items/weapons/set_esports_ii/weapon_p250_am_ddpatdense_silver_light_png.png"
   },
   {
-    "Name": "P250 | Steel Disruption",
+    "Name": "Glock-18 | Steel Disruption",
     "MinWear": 0,
     "MaxWear": 0.2,
-    "WeaponId": 36,
+    "WeaponId": 4,
     "PaintKitId": 230,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_p250_am_ddpatdense_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_glock_am_ddpatdense_silver_light_png.png"
   },
   {
     "Name": "Desert Eagle | Cobalt Disruption",
@@ -2840,14 +2840,14 @@
     "Image": "/assets/img/items/weapons/set_esports_ii/weapon_deagle_am_ddpatdense_peacock_light_png.png"
   },
   {
-    "Name": "SCAR-20 | Crimson Web",
+    "Name": "Desert Eagle | Crimson Web",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 38,
+    "WeaponId": 1,
     "PaintKitId": 232,
     "Collection": "The eSports 2014 Summer Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_scar20_hy_webs_darker_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_iii/weapon_deagle_hy_webs_darker_light_png.png"
   },
   {
     "Name": "SCAR-20 | Crimson Web",
@@ -2890,34 +2890,34 @@
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_tec9_hy_varicamo_light_png.png"
   },
   {
-    "Name": "Tec-9 | VariCamo",
+    "Name": "M4A1-S | VariCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 30,
+    "WeaponId": 60,
     "PaintKitId": 235,
     "Collection": "The Dust 2 Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_dust_2/weapon_tec9_hy_varicamo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2/weapon_m4a1_silencer_hy_varicamo_light_png.png"
   },
   {
-    "Name": "Tec-9 | VariCamo",
+    "Name": "G3SG1 | VariCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 30,
+    "WeaponId": 11,
     "PaintKitId": 235,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_tec9_hy_varicamo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_g3sg1_hy_varicamo_light_png.png"
   },
   {
-    "Name": "Tec-9 | VariCamo",
+    "Name": "Galil AR | VariCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 30,
+    "WeaponId": 13,
     "PaintKitId": 235,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_tec9_hy_varicamo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_galilar_hy_varicamo_light_png.png"
   },
   {
     "Name": "PP-Bizon | Night Ops",
@@ -2930,24 +2930,24 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_bizon_hy_varicamo_night_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Night Ops",
+    "Name": "USP-S | Night Ops",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 26,
+    "WeaponId": 61,
     "PaintKitId": 236,
     "Collection": "The Lake Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_lake/weapon_bizon_hy_varicamo_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_lake/weapon_usp_silencer_hy_varicamo_night_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Urban Rubble",
+    "Name": "Galil AR | Urban Rubble",
     "MinWear": 0,
     "MaxWear": 0.5,
-    "WeaponId": 1,
+    "WeaponId": 13,
     "PaintKitId": 237,
     "Collection": "The Chop Shop Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_deagle_hy_varicamo_urban_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_galilar_hy_varicamo_urban_light_png.png"
   },
   {
     "Name": "Desert Eagle | Urban Rubble",
@@ -2980,14 +2980,14 @@
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_galilar_sp_overpass_paint_pen_metal_light_png.png"
   },
   {
-    "Name": "Negev | CaliCamo",
+    "Name": "XM1014 | CaliCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 28,
+    "WeaponId": 25,
     "PaintKitId": 240,
     "Collection": "The Italy Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_italy/weapon_negev_hy_varicamo_desert_light_png.png"
+    "Image": "/assets/img/items/weapons/set_italy/weapon_xm1014_hy_varicamo_desert_light_png.png"
   },
   {
     "Name": "Negev | CaliCamo",
@@ -3000,14 +3000,14 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_negev_hy_varicamo_desert_light_png.png"
   },
   {
-    "Name": "Negev | CaliCamo",
+    "Name": "FAMAS | CaliCamo",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 28,
+    "WeaponId": 10,
     "PaintKitId": 240,
     "Collection": "The 2021 Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_negev_hy_varicamo_desert_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_famas_hy_varicamo_desert_light_png.png"
   },
   {
     "Name": "Galil AR | Hunting Blind",
@@ -3040,14 +3040,14 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_sg556_sp_mesh_python_light_png.png"
   },
   {
-    "Name": "SG 553 | Gator Mesh",
+    "Name": "M249 | Gator Mesh",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 39,
+    "WeaponId": 14,
     "PaintKitId": 243,
     "Collection": "The Safehouse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_sg556_sp_mesh_python_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_m249_sp_mesh_python_light_png.png"
   },
   {
     "Name": "P90 | Teardown",
@@ -3060,14 +3060,14 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_p90_sp_mesh_hot_and_cold_light_png.png"
   },
   {
-    "Name": "P90 | Teardown",
+    "Name": "FAMAS | Teardown",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 19,
+    "WeaponId": 10,
     "PaintKitId": 244,
     "Collection": "The Safehouse Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_safehouse/weapon_p90_sp_mesh_hot_and_cold_light_png.png"
+    "Image": "/assets/img/items/weapons/set_safehouse/weapon_famas_sp_mesh_hot_and_cold_light_png.png"
   },
   {
     "Name": "MP7 | Army Recon",
@@ -3090,44 +3090,44 @@
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "Galil AR | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 13,
     "PaintKitId": 246,
     "Collection": "The 2021 Dust 2 Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_galilar_aa_fade_metallic_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "MAC-10 | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 17,
     "PaintKitId": 246,
     "Collection": "The Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mac10_aa_fade_metallic_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "Sawed-Off | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 29,
     "PaintKitId": 246,
     "Collection": "The Train Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_train/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_sawedoff_aa_fade_metallic_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "AUG | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 8,
     "PaintKitId": 246,
     "Collection": "The 2021 Train Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_aug_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "SG 553 | Damascus Steel",
@@ -3150,14 +3150,14 @@
     "Image": "/assets/img/items/weapons/set_train/weapon_tec9_am_crystallized_light_png.png"
   },
   {
-    "Name": "Tec-9 | Red Quartz",
+    "Name": "Nova | Red Quartz",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 30,
+    "WeaponId": 35,
     "PaintKitId": 248,
     "Collection": "The 2021 Train Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_train_2021/weapon_tec9_am_crystallized_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_nova_am_crystallized_light_png.png"
   },
   {
     "Name": "Dual Berettas | Cobalt Quartz",
@@ -3170,14 +3170,14 @@
     "Image": "/assets/img/items/weapons/set_lake/weapon_elite_gs_am_crystallized_blue_light_png.png"
   },
   {
-    "Name": "Sawed-Off | Full Stop",
+    "Name": "MP7 | Full Stop",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 29,
+    "WeaponId": 33,
     "PaintKitId": 250,
     "Collection": "The Chop Shop Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_sawedoff_hy_varicamo_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_mp7_hy_varicamo_red_light_png.png"
   },
   {
     "Name": "Sawed-Off | Full Stop",
@@ -3190,14 +3190,14 @@
     "Image": "/assets/img/items/weapons/set_italy/weapon_sawedoff_hy_varicamo_red_light_png.png"
   },
   {
-    "Name": "Sawed-Off | Full Stop",
+    "Name": "UMP-45 | Full Stop",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 29,
+    "WeaponId": 24,
     "PaintKitId": 250,
     "Collection": "The 2021 Train Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_train_2021/weapon_sawedoff_hy_varicamo_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_ump45_hy_varicamo_red_light_png.png"
   },
   {
     "Name": "AWP | Pit Viper",
@@ -3230,14 +3230,14 @@
     "Image": "/assets/img/items/weapons/set_safehouse/weapon_ssg08_aa_fade_grassland_light_png.png"
   },
   {
-    "Name": "M4A1-S | Nitro",
+    "Name": "Five-SeveN | Nitro",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 60,
+    "WeaponId": 3,
     "PaintKitId": 254,
     "Collection": "The Chop Shop Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_m4a1_silencer_so_orange_accents_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_fiveseven_so_orange_accents_light_png.png"
   },
   {
     "Name": "M4A1-S | Nitro",
@@ -3640,14 +3640,14 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_glock_hy_nerodia_light_png.png"
   },
   {
-    "Name": "Glock-18 | Death Rattle",
+    "Name": "PP-Bizon | Death Rattle",
     "MinWear": 0.08,
     "MaxWear": 0.5,
-    "WeaponId": 4,
+    "WeaponId": 26,
     "PaintKitId": 293,
     "Collection": "The Havoc Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_hy_nerodia_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_bizon_hy_nerodia_light_png.png"
   },
   {
     "Name": "G3SG1 | Green Apple",
@@ -3660,24 +3660,24 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_g3sg1_so_green_light_png.png"
   },
   {
-    "Name": "G3SG1 | Green Apple",
+    "Name": "Nova | Green Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 11,
+    "WeaponId": 35,
     "PaintKitId": 294,
     "Collection": "The Cobblestone Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_g3sg1_so_green_light_png.png"
+    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_nova_so_green_light_png.png"
   },
   {
-    "Name": "G3SG1 | Green Apple",
+    "Name": "Galil AR | Green Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 11,
+    "WeaponId": 13,
     "PaintKitId": 294,
     "Collection": "The Train 2025 Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train_2025/weapon_g3sg1_so_green_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2025/weapon_galilar_so_green_light_png.png"
   },
   {
     "Name": "P250 | Franklin",
@@ -3710,14 +3710,14 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_galilar_so_orca_light_png.png"
   },
   {
-    "Name": "Galil AR | Tuxedo",
+    "Name": "CZ75-Auto | Tuxedo",
     "MinWear": 0,
     "MaxWear": 0.8,
-    "WeaponId": 13,
+    "WeaponId": 63,
     "PaintKitId": 297,
     "Collection": "The Bank Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_galilar_so_orca_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_cz75a_so_orca_light_png.png"
   },
   {
     "Name": "Negev | Army Sheen",
@@ -3730,54 +3730,54 @@
     "Image": "/assets/img/items/weapons/set_bank/weapon_negev_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "SG 553 | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 39,
     "PaintKitId": 298,
     "Collection": "The Bank Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_bank/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_bank/weapon_sg556_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "SCAR-20 | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 38,
     "PaintKitId": 298,
     "Collection": "The Chop Shop Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_scar20_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "CZ75-Auto | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 63,
     "PaintKitId": 298,
     "Collection": "The Chop Shop Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_chopshop/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_chopshop/weapon_cz75a_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "Nova | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 35,
     "PaintKitId": 298,
     "Collection": "The Ancient Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_nova_am_army_shine_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "MP9 | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 34,
     "PaintKitId": 298,
     "Collection": "The Control Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_mp9_am_army_shine_light_png.png"
   },
   {
     "Name": "Nova | Caged Steel",
@@ -4030,14 +4030,14 @@
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_sawedoff_aq_steel_light_png.png"
   },
   {
-    "Name": "Sawed-Off | Rust Coat",
+    "Name": "Nova | Rust Coat",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 29,
+    "WeaponId": 35,
     "PaintKitId": 323,
     "Collection": "The Havoc Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_t/weapon_sawedoff_aq_steel_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_t/weapon_nova_aq_steel_light_png.png"
   },
   {
     "Name": "Nova | Yorkshire",
@@ -4080,14 +4080,14 @@
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_hkp2000_am_chainmail_light_png.png"
   },
   {
-    "Name": "P2000 | Chainmail",
+    "Name": "MAG-7 | Chainmail",
     "MinWear": 0,
     "MaxWear": 0.22,
-    "WeaponId": 32,
+    "WeaponId": 27,
     "PaintKitId": 327,
     "Collection": "The Norse Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_am_chainmail_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_mag7_am_chainmail_light_png.png"
   },
   {
     "Name": "Desert Eagle | Hand Cannon",
@@ -4140,14 +4140,14 @@
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_usp_silencer_hy_indigo_usp_light_png.png"
   },
   {
-    "Name": "MAC-10 | Indigo",
+    "Name": "CZ75-Auto | Indigo",
     "MinWear": 0.06,
     "MaxWear": 0.8,
-    "WeaponId": 17,
+    "WeaponId": 63,
     "PaintKitId": 333,
     "Collection": "The Canals Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_canals/weapon_mac10_so_indigo_and_grey_light_png.png"
+    "Image": "/assets/img/items/weapons/set_canals/weapon_cz75a_so_indigo_and_grey_light_png.png"
   },
   {
     "Name": "MAC-10 | Indigo",
@@ -4160,14 +4160,14 @@
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_mac10_so_indigo_and_grey_light_png.png"
   },
   {
-    "Name": "MAC-10 | Indigo",
+    "Name": "UMP-45 | Indigo",
     "MinWear": 0.06,
     "MaxWear": 0.8,
-    "WeaponId": 17,
+    "WeaponId": 24,
     "PaintKitId": 333,
     "Collection": "The Cobblestone Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_mac10_so_indigo_and_grey_light_png.png"
+    "Image": "/assets/img/items/weapons/set_cobblestone/weapon_ump45_so_indigo_and_grey_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Twist",
@@ -4500,14 +4500,14 @@
     "Image": "/assets/img/items/weapons/set_baggage/weapon_mp9_hy_plaid2_light_png.png"
   },
   {
-    "Name": "MP9 | Green Plaid",
+    "Name": "CZ75-Auto | Green Plaid",
     "MinWear": 0,
     "MaxWear": 0.58,
-    "WeaponId": 34,
+    "WeaponId": 63,
     "PaintKitId": 366,
     "Collection": "The Baggage Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_baggage/weapon_mp9_hy_plaid2_light_png.png"
+    "Image": "/assets/img/items/weapons/set_baggage/weapon_cz75a_hy_plaid2_light_png.png"
   },
   {
     "Name": "Glock-18 | Reactor",
@@ -5150,14 +5150,14 @@
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_hkp2000_sp_labyrinth2_light_png.png"
   },
   {
-    "Name": "P2000 | Pathfinder",
+    "Name": "USP-S | Pathfinder",
     "MinWear": 0,
     "MaxWear": 0.35,
-    "WeaponId": 32,
+    "WeaponId": 61,
     "PaintKitId": 443,
     "Collection": "The Norse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_sp_labyrinth2_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_usp_silencer_sp_labyrinth2_light_png.png"
   },
   {
     "Name": "AUG | Daedalus",
@@ -5230,14 +5230,14 @@
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Moon in Libra",
+    "Name": "Nova | Moon in Libra",
     "MinWear": 0,
     "MaxWear": 0.5,
-    "WeaponId": 2,
+    "WeaponId": 35,
     "PaintKitId": 450,
     "Collection": "The Gods and Monsters Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_nova_hy_zodiac1_light_png.png"
   },
   {
     "Name": "AWP | Sun in Leo",
@@ -5260,14 +5260,14 @@
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m249_hy_zodiac3_light_png.png"
   },
   {
-    "Name": "CZ75-Auto | Emerald",
+    "Name": "Dual Berettas | Emerald",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 63,
+    "WeaponId": 2,
     "PaintKitId": 453,
     "Collection": "The Canals Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_canals/weapon_cz75a_an_emerald_light_png.png"
+    "Image": "/assets/img/items/weapons/set_canals/weapon_elite_gs_an_emerald_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Emerald",
@@ -8340,14 +8340,14 @@
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_ak47_hy_mesh_safetyorange_light_png.png"
   },
   {
-    "Name": "AK-47 | Safety Net",
+    "Name": "Tec-9 | Safety Net",
     "MinWear": 0,
     "MaxWear": 0.6,
-    "WeaponId": 7,
+    "WeaponId": 30,
     "PaintKitId": 795,
     "Collection": "The 2021 Train Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_train_2021/weapon_ak47_hy_mesh_safetyorange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2021/weapon_tec9_hy_mesh_safetyorange_light_png.png"
   },
   {
     "Name": "USP-S | Check Engine",
@@ -8380,14 +8380,14 @@
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_revolver_so_orange_accents3_light_png.png"
   },
   {
-    "Name": "R8 Revolver | Nitro",
+    "Name": "MP5-SD | Nitro",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 64,
+    "WeaponId": 23,
     "PaintKitId": 798,
     "Collection": "The Control Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_revolver_so_orange_accents3_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ct/weapon_mp5sd_so_orange_accents3_light_png.png"
   },
   {
     "Name": "Glock-18 | High Beam",
@@ -9640,14 +9640,14 @@
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_m249_sp_palm_night_light_png.png"
   },
   {
-    "Name": "M249 | Midnight Palm",
+    "Name": "CZ75-Auto | Midnight Palm",
     "MinWear": 0,
     "MaxWear": 0.5,
-    "WeaponId": 14,
+    "WeaponId": 63,
     "PaintKitId": 933,
     "Collection": "The 2021 Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_m249_sp_palm_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_cz75a_sp_palm_night_light_png.png"
   },
   {
     "Name": "SG 553 | Bleached",
@@ -9670,14 +9670,14 @@
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_mp7_sp_zebracam_red_light_png.png"
   },
   {
-    "Name": "MP7 | Prey",
+    "Name": "SSG 08 | Prey",
     "MinWear": 0,
     "MaxWear": 0.48,
-    "WeaponId": 33,
+    "WeaponId": 40,
     "PaintKitId": 935,
     "Collection": "The 2021 Mirage Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_mp7_sp_zebracam_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_ssg08_sp_zebracam_red_light_png.png"
   },
   {
     "Name": "P90 | Attack Vector",

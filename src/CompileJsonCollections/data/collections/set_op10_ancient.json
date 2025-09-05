@@ -20,34 +20,34 @@
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_sg556_aa_ruins_green_light_png.png"
   },
   {
-    "Name": "Negev | Army Sheen",
+    "Name": "Nova | Army Sheen",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 28,
+    "WeaponId": 35,
     "PaintKitId": 298,
     "Collection": "The Ancient Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_negev_am_army_shine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_nova_am_army_shine_light_png.png"
   },
   {
-    "Name": "G3SG1 | Jungle Dashed",
+    "Name": "SSG 08 | Jungle Dashed",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 11,
+    "WeaponId": 40,
     "PaintKitId": 147,
     "Collection": "The Ancient Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_g3sg1_sp_tape_short_jungle_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_ssg08_sp_tape_short_jungle_light_png.png"
   },
   {
-    "Name": "Glock-18 | Night",
+    "Name": "R8 Revolver | Night",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 4,
+    "WeaponId": 64,
     "PaintKitId": 40,
     "Collection": "The Ancient Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_glock_so_night_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_revolver_so_night_light_png.png"
   },
   {
     "Name": "P2000 | Panther Camo",
@@ -80,14 +80,14 @@
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_g3sg1_am_ancient_wine_light_png.png"
   },
   {
-    "Name": "P2000 | Silver",
+    "Name": "CZ75-Auto | Silver",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 32,
+    "WeaponId": 63,
     "PaintKitId": 32,
     "Collection": "The Ancient Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_an_silver_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_cz75a_an_silver_light_png.png"
   },
   {
     "Name": "Tec-9 | Blast From the Past",
@@ -120,14 +120,14 @@
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_galilar_hy_ruins_red_light_png.png"
   },
   {
-    "Name": "USP-S | Dark Water",
+    "Name": "FAMAS | Dark Water",
     "MinWear": 0.1,
     "MaxWear": 0.26,
-    "WeaponId": 61,
+    "WeaponId": 10,
     "PaintKitId": 60,
     "Collection": "The Ancient Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_famas_am_zebra_dark_light_png.png"
   },
   {
     "Name": "XM1014 | Ancient Lore",

@@ -1,13 +1,13 @@
 [
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "UMP-45 | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 24,
     "PaintKitId": 17,
     "Collection": "The Train Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_train/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_ump45_hy_ddpat_urb_light_png.png"
   },
   {
     "Name": "Dual Berettas | Colony",
@@ -60,24 +60,24 @@
     "Image": "/assets/img/items/weapons/set_train/weapon_bizon_sp_tape_short_urban_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Candy Apple",
+    "Name": "MAC-10 | Candy Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 3,
+    "WeaponId": 17,
     "PaintKitId": 3,
     "Collection": "The Train Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train/weapon_fiveseven_so_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_mac10_so_red_light_png.png"
   },
   {
-    "Name": "MAC-10 | Urban DDPAT",
+    "Name": "M4A4 | Urban DDPAT",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 17,
+    "WeaponId": 16,
     "PaintKitId": 17,
     "Collection": "The Train Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_train/weapon_mac10_hy_ddpat_urb_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_m4a1_hy_ddpat_urb_light_png.png"
   },
   {
     "Name": "MAG-7 | Metallic DDPAT",
@@ -90,24 +90,24 @@
     "Image": "/assets/img/items/weapons/set_train/weapon_mag7_am_urban_light_png.png"
   },
   {
-    "Name": "MAG-7 | Metallic DDPAT",
+    "Name": "P250 | Metallic DDPAT",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 27,
+    "WeaponId": 36,
     "PaintKitId": 34,
     "Collection": "The Train Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train/weapon_mag7_am_urban_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_p250_am_urban_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "SCAR-20 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 38,
     "PaintKitId": 70,
     "Collection": "The Train Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_scar20_am_carbon_fiber_light_png.png"
   },
   {
     "Name": "P90 | Ash Wood",
@@ -130,14 +130,14 @@
     "Image": "/assets/img/items/weapons/set_train/weapon_deagle_hy_varicamo_urban_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "Sawed-Off | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 29,
     "PaintKitId": 246,
     "Collection": "The Train Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_train/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train/weapon_sawedoff_aa_fade_metallic_light_png.png"
   },
   {
     "Name": "Tec-9 | Red Quartz",

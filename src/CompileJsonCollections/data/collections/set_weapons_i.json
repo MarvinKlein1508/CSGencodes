@@ -50,14 +50,14 @@
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
-    "Name": "USP-S | Dark Water",
+    "Name": "M4A1-S | Dark Water",
     "MinWear": 0.1,
     "MaxWear": 0.26,
-    "WeaponId": 61,
+    "WeaponId": 60,
     "PaintKitId": 60,
     "Collection": "The Arms Deal Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_i/weapon_m4a1_silencer_am_zebra_dark_light_png.png"
   },
   {
     "Name": "AK-47 | Case Hardened",

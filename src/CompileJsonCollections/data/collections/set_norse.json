@@ -10,24 +10,24 @@
     "Image": "/assets/img/items/weapons/set_norse/weapon_sg556_sp_asgard_wall_light_png.png"
   },
   {
-    "Name": "M4A4 | Tornado",
+    "Name": "Galil AR | Tornado",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 13,
     "PaintKitId": 101,
     "Collection": "The Norse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_so_tornado_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_galilar_so_tornado_light_png.png"
   },
   {
-    "Name": "P90 | Scorched",
+    "Name": "MP7 | Scorched",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 33,
     "PaintKitId": 175,
     "Collection": "The Norse Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_p90_sp_dapple_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_mp7_sp_dapple_light_png.png"
   },
   {
     "Name": "SSG 08 | Red Stone",
@@ -60,24 +60,24 @@
     "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_silencer_am_crystallized_dark_green_light_png.png"
   },
   {
-    "Name": "P2000 | Pathfinder",
+    "Name": "USP-S | Pathfinder",
     "MinWear": 0,
     "MaxWear": 0.35,
-    "WeaponId": 32,
+    "WeaponId": 61,
     "PaintKitId": 443,
     "Collection": "The Norse Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_sp_labyrinth2_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_usp_silencer_sp_labyrinth2_light_png.png"
   },
   {
-    "Name": "P2000 | Chainmail",
+    "Name": "MAG-7 | Chainmail",
     "MinWear": 0,
     "MaxWear": 0.22,
-    "WeaponId": 32,
+    "WeaponId": 27,
     "PaintKitId": 327,
     "Collection": "The Norse Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_am_chainmail_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_mag7_am_chainmail_light_png.png"
   },
   {
     "Name": "Dual Berettas | Pyre",
@@ -90,14 +90,14 @@
     "Image": "/assets/img/items/weapons/set_norse/weapon_elite_gs_hy_gelpen_dark_light_png.png"
   },
   {
-    "Name": "Glock-18 | Brass",
+    "Name": "SCAR-20 | Brass",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 4,
+    "WeaponId": 38,
     "PaintKitId": 159,
     "Collection": "The Norse Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_norse/weapon_glock_aq_brass_light_png.png"
+    "Image": "/assets/img/items/weapons/set_norse/weapon_scar20_aq_brass_light_png.png"
   },
   {
     "Name": "CZ75-Auto | Emerald Quartz",

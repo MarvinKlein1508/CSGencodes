@@ -1,13 +1,13 @@
 [
   {
-    "Name": "G3SG1 | Green Apple",
+    "Name": "Galil AR | Green Apple",
     "MinWear": 0,
     "MaxWear": 0.3,
-    "WeaponId": 11,
+    "WeaponId": 13,
     "PaintKitId": 294,
     "Collection": "The Train 2025 Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_train_2025/weapon_g3sg1_so_green_light_png.png"
+    "Image": "/assets/img/items/weapons/set_train_2025/weapon_galilar_so_green_light_png.png"
   },
   {
     "Name": "P250 | Constructivist",

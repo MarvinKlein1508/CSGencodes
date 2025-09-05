@@ -40,14 +40,14 @@
     "Image": "/assets/img/items/weapons/set_canals/weapon_negev_hy_veneto_tan_light_png.png"
   },
   {
-    "Name": "MAC-10 | Indigo",
+    "Name": "CZ75-Auto | Indigo",
     "MinWear": 0.06,
     "MaxWear": 0.8,
-    "WeaponId": 17,
+    "WeaponId": 63,
     "PaintKitId": 333,
     "Collection": "The Canals Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_canals/weapon_mac10_so_indigo_and_grey_light_png.png"
+    "Image": "/assets/img/items/weapons/set_canals/weapon_cz75a_so_indigo_and_grey_light_png.png"
   },
   {
     "Name": "AK-47 | Baroque Purple",
@@ -110,14 +110,14 @@
     "Image": "/assets/img/items/weapons/set_canals/weapon_g3sg1_am_murano_violet_light_png.png"
   },
   {
-    "Name": "CZ75-Auto | Emerald",
+    "Name": "Dual Berettas | Emerald",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 63,
+    "WeaponId": 2,
     "PaintKitId": 453,
     "Collection": "The Canals Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_canals/weapon_cz75a_an_emerald_light_png.png"
+    "Image": "/assets/img/items/weapons/set_canals/weapon_elite_gs_an_emerald_light_png.png"
   },
   {
     "Name": "SSG 08 | Orange Filigree",

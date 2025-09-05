@@ -50,13 +50,13 @@
     "Image": "/assets/img/items/weapons/set_inferno/weapon_elite_gs_an_navy_light_png.png"
   },
   {
-    "Name": "Glock-18 | Brass",
+    "Name": "Tec-9 | Brass",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 4,
+    "WeaponId": 30,
     "PaintKitId": 159,
     "Collection": "The Inferno Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_inferno/weapon_glock_aq_brass_light_png.png"
+    "Image": "/assets/img/items/weapons/set_inferno/weapon_tec9_aq_brass_light_png.png"
   }
 ]

@@ -10,24 +10,24 @@
     "Image": "/assets/img/items/weapons/set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Irradiated Alert",
+    "Name": "MAG-7 | Irradiated Alert",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 27,
     "PaintKitId": 171,
     "Collection": "The Nuke Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_mag7_sp_nukestripe_brown_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Irradiated Alert",
+    "Name": "Sawed-Off | Irradiated Alert",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 26,
+    "WeaponId": 29,
     "PaintKitId": 171,
     "Collection": "The Nuke Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_bizon_sp_nukestripe_brown_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_sawedoff_sp_nukestripe_brown_light_png.png"
   },
   {
     "Name": "P90 | Fallout Warning",
@@ -40,24 +40,24 @@
     "Image": "/assets/img/items/weapons/set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
   },
   {
-    "Name": "P90 | Fallout Warning",
+    "Name": "UMP-45 | Fallout Warning",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 24,
     "PaintKitId": 169,
     "Collection": "The Nuke Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_ump45_sp_nukestripe_maroon_light_png.png"
   },
   {
-    "Name": "P90 | Fallout Warning",
+    "Name": "XM1014 | Fallout Warning",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 19,
+    "WeaponId": 25,
     "PaintKitId": 169,
     "Collection": "The Nuke Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_nuke/weapon_p90_sp_nukestripe_maroon_light_png.png"
+    "Image": "/assets/img/items/weapons/set_nuke/weapon_xm1014_sp_nukestripe_maroon_light_png.png"
   },
   {
     "Name": "M4A4 | Radiation Hazard",

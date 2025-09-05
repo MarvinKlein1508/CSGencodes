@@ -10,14 +10,14 @@
     "Image": "/assets/img/items/weapons/set_assault/weapon_ump45_so_caramel_light_png.png"
   },
   {
-    "Name": "M4A4 | Tornado",
+    "Name": "SG 553 | Tornado",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 16,
+    "WeaponId": 39,
     "PaintKitId": 101,
     "Collection": "The Assault Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_assault/weapon_m4a1_so_tornado_light_png.png"
+    "Image": "/assets/img/items/weapons/set_assault/weapon_sg556_so_tornado_light_png.png"
   },
   {
     "Name": "Five-SeveN | Candy Apple",
@@ -30,14 +30,14 @@
     "Image": "/assets/img/items/weapons/set_assault/weapon_fiveseven_so_red_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Anodized Navy",
+    "Name": "Negev | Anodized Navy",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 2,
+    "WeaponId": 28,
     "PaintKitId": 28,
     "Collection": "The Assault Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_assault/weapon_elite_gs_an_navy_light_png.png"
+    "Image": "/assets/img/items/weapons/set_assault/weapon_negev_an_navy_light_png.png"
   },
   {
     "Name": "AUG | Hot Rod",

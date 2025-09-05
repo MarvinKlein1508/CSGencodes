@@ -30,14 +30,14 @@
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Moon in Libra",
+    "Name": "Nova | Moon in Libra",
     "MinWear": 0,
     "MaxWear": 0.5,
-    "WeaponId": 2,
+    "WeaponId": 35,
     "PaintKitId": 450,
     "Collection": "The Gods and Monsters Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_elite_gs_hy_zodiac1_light_png.png"
+    "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_nova_hy_zodiac1_light_png.png"
   },
   {
     "Name": "Tec-9 | Hades",

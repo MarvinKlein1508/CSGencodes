@@ -1,13 +1,13 @@
 [
   {
-    "Name": "Tec-9 | Blue Titanium",
+    "Name": "Galil AR | Blue Titanium",
     "MinWear": 0,
     "MaxWear": 0.04,
-    "WeaponId": 30,
+    "WeaponId": 13,
     "PaintKitId": 216,
     "Collection": "The eSports 2013 Winter Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_esports_ii/weapon_tec9_an_titanium30v_light_png.png"
+    "Image": "/assets/img/items/weapons/set_esports_ii/weapon_galilar_an_titanium30v_light_png.png"
   },
   {
     "Name": "Five-SeveN | Nightshade",

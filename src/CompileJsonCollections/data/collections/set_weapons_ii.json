@@ -50,24 +50,24 @@
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_scar20_hy_webs_darker_light_png.png"
   },
   {
-    "Name": "AK-47 | Case Hardened",
+    "Name": "Five-SeveN | Case Hardened",
     "MinWear": 0,
     "MaxWear": 1,
-    "WeaponId": 7,
+    "WeaponId": 3,
     "PaintKitId": 44,
     "Collection": "The Arms Deal 2 Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_ak47_aq_oiled_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_fiveseven_aq_oiled_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Hypnotic",
+    "Name": "MP9 | Hypnotic",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 34,
     "PaintKitId": 61,
     "Collection": "The Arms Deal 2 Collection",
     "Rarity": 5,
-    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_deagle_aa_vertigo_light_png.png"
+    "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_mp9_aa_vertigo_light_png.png"
   },
   {
     "Name": "Nova | Graphite",

@@ -20,24 +20,24 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_fiveseven_so_pmc_light_png.png"
   },
   {
-    "Name": "Dual Berettas | Colony",
+    "Name": "AUG | Colony",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 2,
+    "WeaponId": 8,
     "PaintKitId": 47,
     "Collection": "The Mirage Collection",
     "Rarity": 1,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_elite_gs_so_space_marine_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_aug_so_space_marine_light_png.png"
   },
   {
-    "Name": "AK-47 | Safari Mesh",
+    "Name": "G3SG1 | Safari Mesh",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 7,
+    "WeaponId": 11,
     "PaintKitId": 72,
     "Collection": "The Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_ak47_sp_mesh_tan_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_g3sg1_sp_mesh_tan_light_png.png"
   },
   {
     "Name": "P90 | Scorched",
@@ -70,14 +70,14 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_glock_so_olive_light_png.png"
   },
   {
-    "Name": "Five-SeveN | Orange Peel",
+    "Name": "MP7 | Orange Peel",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 3,
+    "WeaponId": 33,
     "PaintKitId": 141,
     "Collection": "The Mirage Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_fiveseven_sp_tape_orange_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp7_sp_tape_orange_light_png.png"
   },
   {
     "Name": "SSG 08 | Tropical Storm",
@@ -110,43 +110,43 @@
     "Image": "/assets/img/items/weapons/set_mirage/weapon_sg556_sp_mesh_python_light_png.png"
   },
   {
-    "Name": "AUG | Hot Rod",
+    "Name": "MP9 | Hot Rod",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 8,
+    "WeaponId": 34,
     "PaintKitId": 33,
     "Collection": "The Mirage Collection",
     "Rarity": 3,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_aug_an_red_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp9_an_red_light_png.png"
   },
   {
-    "Name": "Desert Eagle | Blaze",
+    "Name": "UMP-45 | Blaze",
     "MinWear": 0,
     "MaxWear": 0.08,
-    "WeaponId": 1,
+    "WeaponId": 24,
     "PaintKitId": 37,
     "Collection": "The Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_deagle_aa_flames_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_ump45_aa_flames_light_png.png"
   },
   {
-    "Name": "P2000 | Amber Fade",
+    "Name": "MAC-10 | Amber Fade",
     "MinWear": 0,
     "MaxWear": 0.4,
-    "WeaponId": 32,
+    "WeaponId": 17,
     "PaintKitId": 246,
     "Collection": "The Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_hkp2000_aa_fade_metallic_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mac10_aa_fade_metallic_light_png.png"
   },
   {
-    "Name": "MP9 | Bulldozer",
+    "Name": "MAG-7 | Bulldozer",
     "MinWear": 0,
     "MaxWear": 0,
-    "WeaponId": 34,
+    "WeaponId": 27,
     "PaintKitId": 39,
     "Collection": "The Mirage Collection",
     "Rarity": 4,
-    "Image": "/assets/img/items/weapons/set_mirage/weapon_mp9_so_yellow_light_png.png"
+    "Image": "/assets/img/items/weapons/set_mirage/weapon_mag7_so_yellow_light_png.png"
   }
 ]

@@ -70,14 +70,14 @@
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_ump45_aa_engine_performance_light_png.png"
   },
   {
-    "Name": "PP-Bizon | Carbon Fiber",
+    "Name": "SSG 08 | Carbon Fiber",
     "MinWear": 0,
     "MaxWear": 0.12,
-    "WeaponId": 26,
+    "WeaponId": 40,
     "PaintKitId": 70,
     "Collection": "The 2021 Vertigo Collection",
     "Rarity": 2,
-    "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_bizon_am_carbon_fiber_light_png.png"
+    "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_ssg08_am_carbon_fiber_light_png.png"
   },
   {
     "Name": "PP-Bizon | Breaker Box",
