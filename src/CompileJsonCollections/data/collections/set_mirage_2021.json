@@ -96,7 +96,7 @@
     "WeaponId": 61,
     "PaintKitId": 818,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_usp_silencer_am_ddpat_purple_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 9,
     "PaintKitId": 84,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_awp_hy_ddpat_pink_light_png.png"
   },
   {
@@ -176,7 +176,7 @@
     "WeaponId": 1,
     "PaintKitId": 764,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_deagle_gs_deagle_fennec_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 9,
     "PaintKitId": 819,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_awp_gs_awp_hydra_light_png.png"
   }
 ]

@@ -46,7 +46,7 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_so_night_light_png.png"
   },
   {
@@ -56,7 +56,7 @@
     "WeaponId": 1,
     "PaintKitId": 237,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_deagle_hy_varicamo_urban_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 61,
     "PaintKitId": 454,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_usp_silencer_so_khaki_green_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 4,
     "PaintKitId": 38,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_aa_fade_light_png.png"
   },
   {
@@ -106,7 +106,7 @@
     "WeaponId": 60,
     "PaintKitId": 254,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_m4a1_silencer_so_orange_accents_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 4,
     "PaintKitId": 437,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_am_aqua_flecks_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 60,
     "PaintKitId": 445,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_m4a1_silencer_an_red_m4a1s_light_png.png"
   }
 ]

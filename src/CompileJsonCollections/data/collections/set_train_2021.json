@@ -6,7 +6,7 @@
     "WeaponId": 1,
     "PaintKitId": 1056,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_sp_spacerace_blue_light_png.png"
   },
   {
@@ -16,7 +16,7 @@
     "WeaponId": 60,
     "PaintKitId": 1059,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_m4a1_silencer_sp_technowar_red_light_png.png"
   },
   {
@@ -36,7 +36,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -56,7 +56,7 @@
     "WeaponId": 7,
     "PaintKitId": 795,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_ak47_hy_mesh_safetyorange_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_aa_flames_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 9,
     "PaintKitId": 1058,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_awp_hy_technowar_rwb_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 32,
     "PaintKitId": 1055,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_spacerace_orange_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 61,
     "PaintKitId": 1065,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_usp_silencer_so_whiteout_riptide_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 4,
     "PaintKitId": 1123,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase4_glock_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 4,
     "PaintKitId": 1122,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase3_glock_light_png.png"
   },
   {
@@ -176,7 +176,7 @@
     "WeaponId": 4,
     "PaintKitId": 1121,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase2_glock_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 4,
     "PaintKitId": 1120,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase1_glock_light_png.png"
   },
   {
@@ -196,7 +196,7 @@
     "WeaponId": 4,
     "PaintKitId": 1119,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_emerald_marbleized_glock_light_png.png"
   },
   {
@@ -206,7 +206,7 @@
     "WeaponId": 16,
     "PaintKitId": 1063,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_m4a1_gs_m4a4_coalition_light_png.png"
   }
 ]

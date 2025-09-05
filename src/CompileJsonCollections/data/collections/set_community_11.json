@@ -56,7 +56,7 @@
     "WeaponId": 61,
     "PaintKitId": 540,
     "Collection": "The Wildfire Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_usp_silencer_gs_usp_voltage_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 4,
     "PaintKitId": 532,
     "Collection": "The Wildfire Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_glock_gs_glock18_award_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 9,
     "PaintKitId": 525,
     "Collection": "The Wildfire Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_awp_cu_awp_mastery_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 1,
     "PaintKitId": 527,
     "Collection": "The Wildfire Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_deagle_aq_deserteagle_kumichodragon_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 7,
     "PaintKitId": 524,
     "Collection": "The Wildfire Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_ak47_gs_ak47_supercharged_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 16,
     "PaintKitId": 533,
     "Collection": "The Wildfire Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_m4a1_gs_m4a4_pioneer_light_png.png"
   }
 ]

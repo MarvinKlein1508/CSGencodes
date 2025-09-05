@@ -16,7 +16,7 @@
     "WeaponId": 4,
     "PaintKitId": 808,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_glock_cu_glock18_corroden_light_png.png"
   },
   {
@@ -36,7 +36,7 @@
     "WeaponId": 16,
     "PaintKitId": 811,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_m4a1_gs_m4a4_chopper_ghost_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 61,
     "PaintKitId": 817,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_usp_silencer_cu_usp_flashback_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 1,
     "PaintKitId": 805,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_deagle_gs_deagle_mecha_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 7,
     "PaintKitId": 801,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_ak47_cu_ak47_asiimov_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 803,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_awp_cu_awp_neonoir_light_png.png"
   }
 ]

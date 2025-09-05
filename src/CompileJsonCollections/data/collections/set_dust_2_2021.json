@@ -126,7 +126,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 61,
     "PaintKitId": 922,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_usp_silencer_am_lizard_red_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 16,
     "PaintKitId": 926,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_m4a1_hy_ddpat_urban_red_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_aq_oiled_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 7,
     "PaintKitId": 921,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_gs_ak47_gold_arabesque_light_png.png"
   }
 ]

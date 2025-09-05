@@ -16,7 +16,7 @@
     "WeaponId": 4,
     "PaintKitId": 479,
     "Collection": "The Falchion Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_glock_aq_glock18_flames_blue_light_png.png"
   },
   {
@@ -56,7 +56,7 @@
     "WeaponId": 61,
     "PaintKitId": 489,
     "Collection": "The Falchion Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_usp_silencer_cu_usp_progressiv_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 16,
     "PaintKitId": 480,
     "Collection": "The Falchion Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_m4a1_cu_m4a4_evil_daimyo_light_png.png"
   },
   {
@@ -106,7 +106,7 @@
     "WeaponId": 32,
     "PaintKitId": 485,
     "Collection": "The Falchion Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_hkp2000_aq_p2000_boom_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 7,
     "PaintKitId": 474,
     "Collection": "The Falchion Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_ak47_cu_ak47_courage_alt_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 9,
     "PaintKitId": 475,
     "Collection": "The Falchion Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_awp_cu_awp_hyper_beast_light_png.png"
   }
 ]

@@ -36,7 +36,7 @@
     "WeaponId": 4,
     "PaintKitId": 293,
     "Collection": "The Havoc Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_hy_nerodia_light_png.png"
   },
   {
@@ -46,7 +46,7 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Havoc Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 1,
     "PaintKitId": 1006,
     "Collection": "The Havoc Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_am_heist_plans_purple_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Havoc Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 4,
     "PaintKitId": 1016,
     "Collection": "The Havoc Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_cu_money_glock_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 1029,
     "Collection": "The Havoc Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_awp_am_tigers_blue_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 7,
     "PaintKitId": 1004,
     "Collection": "The Havoc Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_cu_ak_xray_light_png.png"
   }
 ]

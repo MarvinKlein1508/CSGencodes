@@ -6,7 +6,7 @@
     "WeaponId": 16,
     "PaintKitId": 1210,
     "Collection": "The Fever Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_m4a1_m4a4_green_camo_light_png.png"
   },
   {
@@ -36,7 +36,7 @@
     "WeaponId": 32,
     "PaintKitId": 1181,
     "Collection": "The Fever Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_hkp2000_p2k_fractal_light_png.png"
   },
   {
@@ -46,7 +46,7 @@
     "WeaponId": 61,
     "PaintKitId": 1186,
     "Collection": "The Fever Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_usp_silencer_usps_bruteforce_green_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 1,
     "PaintKitId": 1189,
     "Collection": "The Fever Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_deagle_deagle_snake_pattern_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 7,
     "PaintKitId": 1207,
     "Collection": "The Fever Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_ak47_ak47_explosive_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 4,
     "PaintKitId": 1208,
     "Collection": "The Fever Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_glock_glock_shinobu_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 1206,
     "Collection": "The Fever Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_awp_awp_printstream_light_png.png"
   }
 ]

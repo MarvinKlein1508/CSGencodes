@@ -16,7 +16,7 @@
     "WeaponId": 4,
     "PaintKitId": 623,
     "Collection": "The Glove Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_glock_aq_glock_dark-fall_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 32,
     "PaintKitId": 635,
     "Collection": "The Glove Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_hkp2000_gs_p2000-sport_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 60,
     "PaintKitId": 631,
     "Collection": "The Glove Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_m4a1_silencer_cu_m4a1_flashback_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 61,
     "PaintKitId": 637,
     "Collection": "The Glove Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_usp_silencer_cu_usp_cyrex_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 16,
     "PaintKitId": 632,
     "Collection": "The Glove Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_m4a1_gs_m4a4_sector_light_png.png"
   }
 ]

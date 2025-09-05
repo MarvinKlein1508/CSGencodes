@@ -6,7 +6,7 @@
     "WeaponId": 4,
     "PaintKitId": 2,
     "Collection": "The Italy Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_italy/weapon_glock_so_olive_light_png.png"
   },
   {
@@ -16,7 +16,7 @@
     "WeaponId": 4,
     "PaintKitId": 2,
     "Collection": "The Mirage Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_glock_so_olive_light_png.png"
   },
   {
@@ -106,7 +106,7 @@
     "WeaponId": 16,
     "PaintKitId": 8,
     "Collection": "The Dust Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust/weapon_m4a1_hy_desert_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 16,
     "PaintKitId": 8,
     "Collection": "The Dust 2 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_m4a1_hy_desert_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 7,
     "PaintKitId": 14,
     "Collection": "The eSports 2013 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_esports/weapon_ak47_hy_ak47lam_light_png.png"
   },
   {
@@ -226,7 +226,7 @@
     "WeaponId": 16,
     "PaintKitId": 16,
     "Collection": "The Aztec Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_aztec/weapon_m4a1_hy_v_tiger_light_png.png"
   },
   {
@@ -296,7 +296,7 @@
     "WeaponId": 32,
     "PaintKitId": 21,
     "Collection": "The Italy Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_italy/weapon_hkp2000_hy_granite_light_png.png"
   },
   {
@@ -426,7 +426,7 @@
     "WeaponId": 9,
     "PaintKitId": 30,
     "Collection": "The Dust Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_dust/weapon_awp_sp_snake_light_png.png"
   },
   {
@@ -436,7 +436,7 @@
     "WeaponId": 9,
     "PaintKitId": 30,
     "Collection": "The Dust 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_awp_sp_snake_light_png.png"
   },
   {
@@ -446,7 +446,7 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Bank Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_bank/weapon_hkp2000_an_silver_light_png.png"
   },
   {
@@ -456,7 +456,7 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Cobblestone Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_hkp2000_an_silver_light_png.png"
   },
   {
@@ -466,7 +466,7 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Office Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_office/weapon_hkp2000_an_silver_light_png.png"
   },
   {
@@ -476,7 +476,7 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Ancient Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_an_silver_light_png.png"
   },
   {
@@ -536,7 +536,7 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The Dust Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust/weapon_deagle_aa_flames_light_png.png"
   },
   {
@@ -546,7 +546,7 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The Mirage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_deagle_aa_flames_light_png.png"
   },
   {
@@ -556,7 +556,7 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_aa_flames_light_png.png"
   },
   {
@@ -566,7 +566,7 @@
     "WeaponId": 4,
     "PaintKitId": 38,
     "Collection": "The Assault Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_assault/weapon_glock_aa_fade_light_png.png"
   },
   {
@@ -576,7 +576,7 @@
     "WeaponId": 4,
     "PaintKitId": 38,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_aa_fade_light_png.png"
   },
   {
@@ -616,7 +616,7 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_so_night_light_png.png"
   },
   {
@@ -626,7 +626,7 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Ancient Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_glock_so_night_light_png.png"
   },
   {
@@ -636,7 +636,7 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Overpass Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_glock_so_night_light_png.png"
   },
   {
@@ -676,7 +676,7 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_aq_oiled_light_png.png"
   },
   {
@@ -686,7 +686,7 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The Arms Deal Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_ak47_aq_oiled_light_png.png"
   },
   {
@@ -696,7 +696,7 @@
     "WeaponId": 7,
     "PaintKitId": 44,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_ak47_aq_oiled_light_png.png"
   },
   {
@@ -786,7 +786,7 @@
     "WeaponId": 4,
     "PaintKitId": 48,
     "Collection": "The Arms Deal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_glock_am_dragon_glock_light_png.png"
   },
   {
@@ -796,7 +796,7 @@
     "WeaponId": 9,
     "PaintKitId": 51,
     "Collection": "The Arms Deal Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_awp_am_lightning_awp_light_png.png"
   },
   {
@@ -806,7 +806,7 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The eSports 2014 Summer Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_esports_iii/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
@@ -816,7 +816,7 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Ancient Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
@@ -826,7 +826,7 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Arms Deal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
@@ -836,7 +836,7 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Arms Deal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
@@ -846,7 +846,7 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Havoc Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
@@ -856,7 +856,7 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Arms Deal Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_weapons_i/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
@@ -866,7 +866,7 @@
     "WeaponId": 1,
     "PaintKitId": 61,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_deagle_aa_vertigo_light_png.png"
   },
   {
@@ -946,7 +946,7 @@
     "WeaponId": 32,
     "PaintKitId": 71,
     "Collection": "The Dust Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust/weapon_hkp2000_am_scorpion_p2000_light_png.png"
   },
   {
@@ -956,7 +956,7 @@
     "WeaponId": 7,
     "PaintKitId": 72,
     "Collection": "The Dust 2 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
@@ -966,7 +966,7 @@
     "WeaponId": 7,
     "PaintKitId": 72,
     "Collection": "The Lake Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_lake/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
@@ -976,7 +976,7 @@
     "WeaponId": 7,
     "PaintKitId": 72,
     "Collection": "The Mirage Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
@@ -1026,7 +1026,7 @@
     "WeaponId": 60,
     "PaintKitId": 77,
     "Collection": "The Italy Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_italy/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
   },
   {
@@ -1036,7 +1036,7 @@
     "WeaponId": 60,
     "PaintKitId": 77,
     "Collection": "The Lake Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_lake/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
   },
   {
@@ -1086,7 +1086,7 @@
     "WeaponId": 9,
     "PaintKitId": 84,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_awp_hy_ddpat_pink_light_png.png"
   },
   {
@@ -1096,7 +1096,7 @@
     "WeaponId": 9,
     "PaintKitId": 84,
     "Collection": "The Overpass Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_awp_hy_ddpat_pink_light_png.png"
   },
   {
@@ -1296,7 +1296,7 @@
     "WeaponId": 16,
     "PaintKitId": 101,
     "Collection": "The Assault Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_assault/weapon_m4a1_so_tornado_light_png.png"
   },
   {
@@ -1306,7 +1306,7 @@
     "WeaponId": 16,
     "PaintKitId": 101,
     "Collection": "The Inferno Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_inferno/weapon_m4a1_so_tornado_light_png.png"
   },
   {
@@ -1316,7 +1316,7 @@
     "WeaponId": 16,
     "PaintKitId": 101,
     "Collection": "The Militia Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_militia/weapon_m4a1_so_tornado_light_png.png"
   },
   {
@@ -1326,7 +1326,7 @@
     "WeaponId": 16,
     "PaintKitId": 101,
     "Collection": "The Norse Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_so_tornado_light_png.png"
   },
   {
@@ -1356,7 +1356,7 @@
     "WeaponId": 32,
     "PaintKitId": 104,
     "Collection": "The Militia Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_militia/weapon_hkp2000_sp_leaves_grassland_light_png.png"
   },
   {
@@ -1366,7 +1366,7 @@
     "WeaponId": 60,
     "PaintKitId": 106,
     "Collection": "The Gallery Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_34/weapon_m4a1_silencer_m4a1s_vaporwave_light_png.png"
   },
   {
@@ -1416,7 +1416,7 @@
     "WeaponId": 7,
     "PaintKitId": 113,
     "Collection": "The Gallery Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_34/weapon_ak47_ak47_t_bus_light_png.png"
   },
   {
@@ -1426,7 +1426,7 @@
     "WeaponId": 1,
     "PaintKitId": 114,
     "Collection": "The Gallery Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_34/weapon_deagle_deagle_calligraff_light_png.png"
   },
   {
@@ -1436,7 +1436,7 @@
     "WeaponId": 61,
     "PaintKitId": 115,
     "Collection": "The Gallery Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_34/weapon_usp_silencer_usp_field_snake_light_png.png"
   },
   {
@@ -1466,7 +1466,7 @@
     "WeaponId": 16,
     "PaintKitId": 118,
     "Collection": "The Gallery Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_34/weapon_m4a1_m4a4_fusion_light_png.png"
   },
   {
@@ -1516,7 +1516,7 @@
     "WeaponId": 7,
     "PaintKitId": 122,
     "Collection": "The Aztec Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_aztec/weapon_ak47_sp_spray_jungle_light_png.png"
   },
   {
@@ -1586,7 +1586,7 @@
     "WeaponId": 4,
     "PaintKitId": 129,
     "Collection": "The Gallery Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_34/weapon_glock_glock_chomper_light_png.png"
   },
   {
@@ -1656,7 +1656,7 @@
     "WeaponId": 9,
     "PaintKitId": 137,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_awp_cu_overpass_crakow_awp_light_png.png"
   },
   {
@@ -1666,7 +1666,7 @@
     "WeaponId": 1,
     "PaintKitId": 138,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_deagle_cu_overpass_aqua_deagle_light_png.png"
   },
   {
@@ -1726,7 +1726,7 @@
     "WeaponId": 7,
     "PaintKitId": 142,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_ak47_cu_overpass_monster_ak47_light_png.png"
   },
   {
@@ -1846,7 +1846,7 @@
     "WeaponId": 4,
     "PaintKitId": 152,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_glock_hy_overpass_tagged_teal_light_png.png"
   },
   {
@@ -1926,7 +1926,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Dust Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust/weapon_glock_aq_brass_light_png.png"
   },
   {
@@ -1936,7 +1936,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_glock_aq_brass_light_png.png"
   },
   {
@@ -1946,7 +1946,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Inferno Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_inferno/weapon_glock_aq_brass_light_png.png"
   },
   {
@@ -1956,7 +1956,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Norse Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_norse/weapon_glock_aq_brass_light_png.png"
   },
   {
@@ -1966,7 +1966,7 @@
     "WeaponId": 60,
     "PaintKitId": 160,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_m4a1_silencer_hy_overpass_doodle_m4a1s_light_png.png"
   },
   {
@@ -1996,7 +1996,7 @@
     "WeaponId": 9,
     "PaintKitId": 163,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_awp_gs_independe_awp_light_png.png"
   },
   {
@@ -2076,7 +2076,7 @@
     "WeaponId": 16,
     "PaintKitId": 167,
     "Collection": "The Nuke Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_nuke/weapon_m4a1_sp_nukestripe_orange_light_png.png"
   },
   {
@@ -2126,7 +2126,7 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Dust Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
@@ -2136,7 +2136,7 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Dust 2 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
@@ -2146,7 +2146,7 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Havoc Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
@@ -2186,7 +2186,7 @@
     "WeaponId": 7,
     "PaintKitId": 172,
     "Collection": "The Vertigo Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_vertigo/weapon_ak47_hy_ak47lam_bw_light_png.png"
   },
   {
@@ -2206,7 +2206,7 @@
     "WeaponId": 9,
     "PaintKitId": 174,
     "Collection": "The eSports 2013 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_esports/weapon_awp_hy_blam_simple_light_png.png"
   },
   {
@@ -2246,7 +2246,7 @@
     "WeaponId": 16,
     "PaintKitId": 176,
     "Collection": "The eSports 2013 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_esports/weapon_m4a1_sp_zebracam_bw_light_png.png"
   },
   {
@@ -2286,7 +2286,7 @@
     "WeaponId": 7,
     "PaintKitId": 180,
     "Collection": "The Bravo Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_ak47_cu_fireserpent_ak47_bravo_light_png.png"
   },
   {
@@ -2296,7 +2296,7 @@
     "WeaponId": 9,
     "PaintKitId": 181,
     "Collection": "The eSports 2014 Summer Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_esports_iii/weapon_awp_cu_favela_awp_light_png.png"
   },
   {
@@ -2316,7 +2316,7 @@
     "WeaponId": 61,
     "PaintKitId": 183,
     "Collection": "The Bravo Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_usp_silencer_hy_siege_bravo_light_png.png"
   },
   {
@@ -2326,7 +2326,7 @@
     "WeaponId": 32,
     "PaintKitId": 184,
     "Collection": "The eSports 2014 Summer Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_esports_iii/weapon_hkp2000_cu_favela_p2000_light_png.png"
   },
   {
@@ -2336,7 +2336,7 @@
     "WeaponId": 1,
     "PaintKitId": 185,
     "Collection": "The Bravo Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_deagle_am_scales_bravo_light_png.png"
   },
   {
@@ -2356,7 +2356,7 @@
     "WeaponId": 16,
     "PaintKitId": 187,
     "Collection": "The Bravo Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_m4a1_sp_star_bravo_light_png.png"
   },
   {
@@ -2376,7 +2376,7 @@
     "WeaponId": 60,
     "PaintKitId": 189,
     "Collection": "The Bravo Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_m4a1_silencer_hy_ocean_bravo_light_png.png"
   },
   {
@@ -2566,7 +2566,7 @@
     "WeaponId": 4,
     "PaintKitId": 208,
     "Collection": "The Alpha Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_bravo_ii/weapon_glock_so_sand_bravo_light_png.png"
   },
   {
@@ -2596,7 +2596,7 @@
     "WeaponId": 32,
     "PaintKitId": 211,
     "Collection": "The Bravo Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_png.png"
   },
   {
@@ -2606,7 +2606,7 @@
     "WeaponId": 9,
     "PaintKitId": 212,
     "Collection": "The Bravo Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_awp_am_crumple_bravo_light_png.png"
   },
   {
@@ -2666,7 +2666,7 @@
     "WeaponId": 60,
     "PaintKitId": 217,
     "Collection": "The eSports 2014 Summer Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_esports_iii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
   },
   {
@@ -2676,7 +2676,7 @@
     "WeaponId": 60,
     "PaintKitId": 217,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_m4a1_silencer_hy_redtiger_light_png.png"
   },
   {
@@ -2726,7 +2726,7 @@
     "WeaponId": 61,
     "PaintKitId": 221,
     "Collection": "The Arms Deal 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_weapons_ii/weapon_usp_silencer_am_electric_red_light_png.png"
   },
   {
@@ -2776,7 +2776,7 @@
     "WeaponId": 7,
     "PaintKitId": 226,
     "Collection": "The eSports 2013 Winter Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_esports_ii/weapon_ak47_hy_ak47lam_blue_light_png.png"
   },
   {
@@ -2786,7 +2786,7 @@
     "WeaponId": 9,
     "PaintKitId": 227,
     "Collection": "The eSports 2013 Winter Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_esports_ii/weapon_awp_hy_hive_light_png.png"
   },
   {
@@ -2836,7 +2836,7 @@
     "WeaponId": 1,
     "PaintKitId": 231,
     "Collection": "The eSports 2013 Winter Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_esports_ii/weapon_deagle_am_ddpatdense_peacock_light_png.png"
   },
   {
@@ -2946,7 +2946,7 @@
     "WeaponId": 1,
     "PaintKitId": 237,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_deagle_hy_varicamo_urban_light_png.png"
   },
   {
@@ -2956,7 +2956,7 @@
     "WeaponId": 1,
     "PaintKitId": 237,
     "Collection": "The Train Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_train/weapon_deagle_hy_varicamo_urban_light_png.png"
   },
   {
@@ -3086,7 +3086,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -3096,7 +3096,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -3106,7 +3106,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The Mirage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -3116,7 +3116,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -3126,7 +3126,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {
@@ -3206,7 +3206,7 @@
     "WeaponId": 9,
     "PaintKitId": 251,
     "Collection": "The Italy Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_italy/weapon_awp_hy_snakeskin_light_png.png"
   },
   {
@@ -3236,7 +3236,7 @@
     "WeaponId": 60,
     "PaintKitId": 254,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_m4a1_silencer_so_orange_accents_light_png.png"
   },
   {
@@ -3246,7 +3246,7 @@
     "WeaponId": 60,
     "PaintKitId": 254,
     "Collection": "The Safehouse Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_safehouse/weapon_m4a1_silencer_so_orange_accents_light_png.png"
   },
   {
@@ -3256,7 +3256,7 @@
     "WeaponId": 16,
     "PaintKitId": 255,
     "Collection": "The Winter Offensive Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_1/weapon_m4a1_cu_m4_asimov_light_png.png"
   },
   {
@@ -3276,7 +3276,7 @@
     "WeaponId": 60,
     "PaintKitId": 257,
     "Collection": "The Winter Offensive Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_1/weapon_m4a1_silencer_cu_m4a1-s_elegant_light_png.png"
   },
   {
@@ -3296,7 +3296,7 @@
     "WeaponId": 9,
     "PaintKitId": 259,
     "Collection": "The Winter Offensive Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_1/weapon_awp_cu_awp_cobra_light_png.png"
   },
   {
@@ -3436,7 +3436,7 @@
     "WeaponId": 1,
     "PaintKitId": 273,
     "Collection": "The Arms Deal 3 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_weapons_iii/weapon_deagle_aq_engraved_deagle_light_png.png"
   },
   {
@@ -3456,7 +3456,7 @@
     "WeaponId": 32,
     "PaintKitId": 275,
     "Collection": "The Arms Deal 3 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_weapons_iii/weapon_hkp2000_hy_poly_camo_light_png.png"
   },
   {
@@ -3476,7 +3476,7 @@
     "WeaponId": 61,
     "PaintKitId": 277,
     "Collection": "The Arms Deal 3 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_weapons_iii/weapon_usp_silencer_aq_usp_stainless_light_png.png"
   },
   {
@@ -3486,7 +3486,7 @@
     "WeaponId": 4,
     "PaintKitId": 278,
     "Collection": "The Arms Deal 3 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_weapons_iii/weapon_glock_hy_craquelure_light_png.png"
   },
   {
@@ -3496,7 +3496,7 @@
     "WeaponId": 9,
     "PaintKitId": 279,
     "Collection": "The Phoenix Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_2/weapon_awp_cu_awp_asimov_light_png.png"
   },
   {
@@ -3526,7 +3526,7 @@
     "WeaponId": 7,
     "PaintKitId": 282,
     "Collection": "The Phoenix Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_2/weapon_ak47_cu_ak47_cobra_light_png.png"
   },
   {
@@ -3606,7 +3606,7 @@
     "WeaponId": 61,
     "PaintKitId": 290,
     "Collection": "The Phoenix Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_2/weapon_usp_silencer_cu_usp_elegant_light_png.png"
   },
   {
@@ -3636,7 +3636,7 @@
     "WeaponId": 4,
     "PaintKitId": 293,
     "Collection": "The Bank Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_bank/weapon_glock_hy_nerodia_light_png.png"
   },
   {
@@ -3646,7 +3646,7 @@
     "WeaponId": 4,
     "PaintKitId": 293,
     "Collection": "The Havoc Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_hy_nerodia_light_png.png"
   },
   {
@@ -3696,7 +3696,7 @@
     "WeaponId": 1,
     "PaintKitId": 296,
     "Collection": "The Bank Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_bank/weapon_deagle_am_crystallized_dark_light_png.png"
   },
   {
@@ -3796,7 +3796,7 @@
     "WeaponId": 7,
     "PaintKitId": 300,
     "Collection": "The Bank Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bank/weapon_ak47_cu_pinstripe_ak47_light_png.png"
   },
   {
@@ -3806,7 +3806,7 @@
     "WeaponId": 60,
     "PaintKitId": 301,
     "Collection": "The Huntsman Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_m4a1_silencer_am_m4a1-s_alloy_orange_light_png.png"
   },
   {
@@ -3816,7 +3816,7 @@
     "WeaponId": 7,
     "PaintKitId": 302,
     "Collection": "The Huntsman Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_ak47_cu_ak47_rubber_light_png.png"
   },
   {
@@ -3896,7 +3896,7 @@
     "WeaponId": 17,
     "PaintKitId": 310,
     "Collection": "The Huntsman Collection",
-    "Rarity": 4,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_mac10_cu_mac10_decay_light_png.png"
   },
   {
@@ -3926,7 +3926,7 @@
     "WeaponId": 61,
     "PaintKitId": 313,
     "Collection": "The Huntsman Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_usp_silencer_cu_usp_spitfire_light_png.png"
   },
   {
@@ -3956,7 +3956,7 @@
     "WeaponId": 7,
     "PaintKitId": 316,
     "Collection": "The eSports 2014 Summer Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_esports_iii/weapon_ak47_cu_panther_ak47_light_png.png"
   },
   {
@@ -3976,7 +3976,7 @@
     "WeaponId": 61,
     "PaintKitId": 318,
     "Collection": "The Overpass Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_usp_silencer_cu_usp_sandpapered_light_png.png"
   },
   {
@@ -4006,7 +4006,7 @@
     "WeaponId": 60,
     "PaintKitId": 321,
     "Collection": "The Overpass Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_m4a1_silencer_cu_m4a1-s_silence_light_png.png"
   },
   {
@@ -4066,7 +4066,7 @@
     "WeaponId": 60,
     "PaintKitId": 326,
     "Collection": "The Cobblestone Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_m4a1_silencer_am_metals_light_png.png"
   },
   {
@@ -4076,7 +4076,7 @@
     "WeaponId": 32,
     "PaintKitId": 327,
     "Collection": "The Cobblestone Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_hkp2000_am_chainmail_light_png.png"
   },
   {
@@ -4086,7 +4086,7 @@
     "WeaponId": 32,
     "PaintKitId": 327,
     "Collection": "The Norse Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_am_chainmail_light_png.png"
   },
   {
@@ -4096,7 +4096,7 @@
     "WeaponId": 1,
     "PaintKitId": 328,
     "Collection": "The Cobblestone Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_deagle_aq_handcannon_light_png.png"
   },
   {
@@ -4136,7 +4136,7 @@
     "WeaponId": 61,
     "PaintKitId": 332,
     "Collection": "The Cobblestone Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_usp_silencer_hy_indigo_usp_light_png.png"
   },
   {
@@ -4196,7 +4196,7 @@
     "WeaponId": 16,
     "PaintKitId": 336,
     "Collection": "The Huntsman Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_m4a1_cu_titanstorm_light_png.png"
   },
   {
@@ -4216,7 +4216,7 @@
     "WeaponId": 32,
     "PaintKitId": 338,
     "Collection": "The Huntsman Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_hkp2000_cu_p2000_pulse_light_png.png"
   },
   {
@@ -4226,7 +4226,7 @@
     "WeaponId": 61,
     "PaintKitId": 339,
     "Collection": "The Huntsman Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_3/weapon_usp_silencer_cu_kaiman_light_png.png"
   },
   {
@@ -4236,7 +4236,7 @@
     "WeaponId": 7,
     "PaintKitId": 340,
     "Collection": "The Baggage Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_ak47_cu_well_traveled_ak47_light_png.png"
   },
   {
@@ -4246,7 +4246,7 @@
     "WeaponId": 7,
     "PaintKitId": 341,
     "Collection": "The Baggage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_ak47_cu_green_leather_ak47_light_png.png"
   },
   {
@@ -4276,7 +4276,7 @@
     "WeaponId": 9,
     "PaintKitId": 344,
     "Collection": "The Cobblestone Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_cobblestone/weapon_awp_cu_medieval_dragon_awp_light_png.png"
   },
   {
@@ -4296,7 +4296,7 @@
     "WeaponId": 32,
     "PaintKitId": 346,
     "Collection": "The Baggage Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_hkp2000_cu_luggage_p2000_light_png.png"
   },
   {
@@ -4306,7 +4306,7 @@
     "WeaponId": 1,
     "PaintKitId": 347,
     "Collection": "The Baggage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_deagle_aq_pilot_deagle_light_png.png"
   },
   {
@@ -4346,7 +4346,7 @@
     "WeaponId": 1,
     "PaintKitId": 351,
     "Collection": "The Breakout Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_4/weapon_deagle_cu_deagle_aureus_light_png.png"
   },
   {
@@ -4366,7 +4366,7 @@
     "WeaponId": 4,
     "PaintKitId": 353,
     "Collection": "The Breakout Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_4/weapon_glock_cu_glock-liquescent_light_png.png"
   },
   {
@@ -4406,7 +4406,7 @@
     "WeaponId": 32,
     "PaintKitId": 357,
     "Collection": "The Breakout Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_4/weapon_hkp2000_cu_p2000_ivory_light_png.png"
   },
   {
@@ -4436,7 +4436,7 @@
     "WeaponId": 60,
     "PaintKitId": 360,
     "Collection": "The Breakout Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_4/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_png.png"
   },
   {
@@ -4476,7 +4476,7 @@
     "WeaponId": 61,
     "PaintKitId": 364,
     "Collection": "The Baggage Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_usp_silencer_cu_luggage_usp-s_light_png.png"
   },
   {
@@ -4516,7 +4516,7 @@
     "WeaponId": 4,
     "PaintKitId": 367,
     "Collection": "The Cache Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_cache/weapon_glock_am_nuclear_pattern1_glock_light_png.png"
   },
   {
@@ -4646,7 +4646,7 @@
     "WeaponId": 7,
     "PaintKitId": 380,
     "Collection": "The Vanguard Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_ak47_cu_tribute_ak47_light_png.png"
   },
   {
@@ -4656,7 +4656,7 @@
     "WeaponId": 4,
     "PaintKitId": 381,
     "Collection": "The Vanguard Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_glock_aq_glock_coiled_light_png.png"
   },
   {
@@ -4676,7 +4676,7 @@
     "WeaponId": 60,
     "PaintKitId": 383,
     "Collection": "The Vanguard Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_png.png"
   },
   {
@@ -4686,7 +4686,7 @@
     "WeaponId": 16,
     "PaintKitId": 384,
     "Collection": "The Vanguard Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_m4a1_cu_m4a4_griffin_light_png.png"
   },
   {
@@ -4736,7 +4736,7 @@
     "WeaponId": 32,
     "PaintKitId": 389,
     "Collection": "The Vanguard Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_hkp2000_cu_p2000_fire_elemental_light_png.png"
   },
   {
@@ -4786,7 +4786,7 @@
     "WeaponId": 7,
     "PaintKitId": 394,
     "Collection": "The Chroma Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_6/weapon_ak47_aq_ak47_cartel_light_png.png"
   },
   {
@@ -4796,7 +4796,7 @@
     "WeaponId": 9,
     "PaintKitId": 395,
     "Collection": "The Chroma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_6/weapon_awp_am_awp_glory_light_png.png"
   },
   {
@@ -4816,7 +4816,7 @@
     "WeaponId": 1,
     "PaintKitId": 397,
     "Collection": "The Chroma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_6/weapon_deagle_aq_deagle_naga_light_png.png"
   },
   {
@@ -4836,7 +4836,7 @@
     "WeaponId": 4,
     "PaintKitId": 399,
     "Collection": "The Chroma Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_6/weapon_glock_cu_glock_deathtoll_light_png.png"
   },
   {
@@ -4846,7 +4846,7 @@
     "WeaponId": 16,
     "PaintKitId": 400,
     "Collection": "The Chroma Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_6/weapon_m4a1_cu_m4a4_ancestral_light_png.png"
   },
   {
@@ -4936,7 +4936,7 @@
     "WeaponId": 7,
     "PaintKitId": 422,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_7/weapon_ak47_cu_ak47_mastery_light_png.png"
   },
   {
@@ -4956,7 +4956,7 @@
     "WeaponId": 9,
     "PaintKitId": 424,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_7/weapon_awp_aq_awp_twine_light_png.png"
   },
   {
@@ -4966,7 +4966,7 @@
     "WeaponId": 1,
     "PaintKitId": 425,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_7/weapon_deagle_am_bronze_sparkle_light_png.png"
   },
   {
@@ -5016,7 +5016,7 @@
     "WeaponId": 60,
     "PaintKitId": 430,
     "Collection": "The Chroma 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_7/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_png.png"
   },
   {
@@ -5086,7 +5086,7 @@
     "WeaponId": 4,
     "PaintKitId": 437,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_glock_am_aqua_flecks_light_png.png"
   },
   {
@@ -5116,7 +5116,7 @@
     "WeaponId": 60,
     "PaintKitId": 440,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m4a1_silencer_hy_icarus_light_png.png"
   },
   {
@@ -5146,7 +5146,7 @@
     "WeaponId": 32,
     "PaintKitId": 443,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_hkp2000_sp_labyrinth2_light_png.png"
   },
   {
@@ -5156,7 +5156,7 @@
     "WeaponId": 32,
     "PaintKitId": 443,
     "Collection": "The Norse Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_sp_labyrinth2_light_png.png"
   },
   {
@@ -5176,7 +5176,7 @@
     "WeaponId": 60,
     "PaintKitId": 445,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_m4a1_silencer_an_red_m4a1s_light_png.png"
   },
   {
@@ -5186,7 +5186,7 @@
     "WeaponId": 9,
     "PaintKitId": 446,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_awp_cu_medusa_awp_light_png.png"
   },
   {
@@ -5216,7 +5216,7 @@
     "WeaponId": 16,
     "PaintKitId": 449,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m4a1_cu_poseidon_light_png.png"
   },
   {
@@ -5246,7 +5246,7 @@
     "WeaponId": 9,
     "PaintKitId": 451,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_awp_hy_zodiac2_light_png.png"
   },
   {
@@ -5286,7 +5286,7 @@
     "WeaponId": 61,
     "PaintKitId": 454,
     "Collection": "The Chop Shop Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_chopshop/weapon_usp_silencer_so_khaki_green_light_png.png"
   },
   {
@@ -5306,7 +5306,7 @@
     "WeaponId": 7,
     "PaintKitId": 456,
     "Collection": "The Rising Sun Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_kimono/weapon_ak47_am_bamboo_jungle_light_png.png"
   },
   {
@@ -5426,7 +5426,7 @@
     "WeaponId": 1,
     "PaintKitId": 468,
     "Collection": "The Rising Sun Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_kimono/weapon_deagle_am_seastorm_light_png.png"
   },
   {
@@ -5436,7 +5436,7 @@
     "WeaponId": 1,
     "PaintKitId": 469,
     "Collection": "The Rising Sun Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_kimono/weapon_deagle_am_seastorm_blood_light_png.png"
   },
   {
@@ -5446,7 +5446,7 @@
     "WeaponId": 1,
     "PaintKitId": 470,
     "Collection": "The Rising Sun Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_kimono/weapon_deagle_am_seastorm_shojo_light_png.png"
   },
   {
@@ -5456,7 +5456,7 @@
     "WeaponId": 16,
     "PaintKitId": 471,
     "Collection": "The Rising Sun Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_kimono/weapon_m4a1_am_kimono_sunrise_light_png.png"
   },
   {
@@ -5486,7 +5486,7 @@
     "WeaponId": 7,
     "PaintKitId": 474,
     "Collection": "The Falchion Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_ak47_cu_ak47_courage_alt_light_png.png"
   },
   {
@@ -5496,7 +5496,7 @@
     "WeaponId": 9,
     "PaintKitId": 475,
     "Collection": "The Falchion Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_awp_cu_awp_hyper_beast_light_png.png"
   },
   {
@@ -5536,7 +5536,7 @@
     "WeaponId": 4,
     "PaintKitId": 479,
     "Collection": "The Falchion Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_glock_aq_glock18_flames_blue_light_png.png"
   },
   {
@@ -5546,7 +5546,7 @@
     "WeaponId": 16,
     "PaintKitId": 480,
     "Collection": "The Falchion Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_m4a1_cu_m4a4_evil_daimyo_light_png.png"
   },
   {
@@ -5596,7 +5596,7 @@
     "WeaponId": 32,
     "PaintKitId": 485,
     "Collection": "The Falchion Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_hkp2000_aq_p2000_boom_light_png.png"
   },
   {
@@ -5636,7 +5636,7 @@
     "WeaponId": 61,
     "PaintKitId": 489,
     "Collection": "The Falchion Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_8/weapon_usp_silencer_cu_usp_progressiv_light_png.png"
   },
   {
@@ -5646,7 +5646,7 @@
     "WeaponId": 7,
     "PaintKitId": 490,
     "Collection": "The Shadow Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_9/weapon_ak47_cu_ak47_winter_sport_light_png.png"
   },
   {
@@ -5696,7 +5696,7 @@
     "WeaponId": 4,
     "PaintKitId": 495,
     "Collection": "The Shadow Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_9/weapon_glock_gs_glock18_wrathys_light_png.png"
   },
   {
@@ -5716,7 +5716,7 @@
     "WeaponId": 60,
     "PaintKitId": 497,
     "Collection": "The Shadow Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_9/weapon_m4a1_silencer_gs_m4a1s_snakebite_gold_light_png.png"
   },
   {
@@ -5786,7 +5786,7 @@
     "WeaponId": 61,
     "PaintKitId": 504,
     "Collection": "The Shadow Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_9/weapon_usp_silencer_cu_usp_kill_confirmed_light_png.png"
   },
   {
@@ -5806,7 +5806,7 @@
     "WeaponId": 7,
     "PaintKitId": 506,
     "Collection": "The Revolver Case Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_10/weapon_ak47_cu_ak47_point_disarray_light_png.png"
   },
   {
@@ -5836,7 +5836,7 @@
     "WeaponId": 1,
     "PaintKitId": 509,
     "Collection": "The Revolver Case Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_10/weapon_deagle_aq_deagle_corinthian_light_png.png"
   },
   {
@@ -5866,7 +5866,7 @@
     "WeaponId": 16,
     "PaintKitId": 512,
     "Collection": "The Revolver Case Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_10/weapon_m4a1_gs_m4a4_royal_squire_light_png.png"
   },
   {
@@ -5896,7 +5896,7 @@
     "WeaponId": 32,
     "PaintKitId": 515,
     "Collection": "The Revolver Case Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_10/weapon_hkp2000_am_p2000_imperial_red_light_png.png"
   },
   {
@@ -5986,7 +5986,7 @@
     "WeaponId": 7,
     "PaintKitId": 524,
     "Collection": "The Wildfire Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_ak47_gs_ak47_supercharged_light_png.png"
   },
   {
@@ -5996,7 +5996,7 @@
     "WeaponId": 9,
     "PaintKitId": 525,
     "Collection": "The Wildfire Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_awp_cu_awp_mastery_light_png.png"
   },
   {
@@ -6016,7 +6016,7 @@
     "WeaponId": 1,
     "PaintKitId": 527,
     "Collection": "The Wildfire Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_deagle_aq_deserteagle_kumichodragon_light_png.png"
   },
   {
@@ -6056,7 +6056,7 @@
     "WeaponId": 4,
     "PaintKitId": 532,
     "Collection": "The Wildfire Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_glock_gs_glock18_award_light_png.png"
   },
   {
@@ -6066,7 +6066,7 @@
     "WeaponId": 16,
     "PaintKitId": 533,
     "Collection": "The Wildfire Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_m4a1_gs_m4a4_pioneer_light_png.png"
   },
   {
@@ -6136,7 +6136,7 @@
     "WeaponId": 61,
     "PaintKitId": 540,
     "Collection": "The Wildfire Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_11/weapon_usp_silencer_gs_usp_voltage_light_png.png"
   },
   {
@@ -6216,7 +6216,7 @@
     "WeaponId": 60,
     "PaintKitId": 548,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_12/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_png.png"
   },
   {
@@ -6236,7 +6236,7 @@
     "WeaponId": 32,
     "PaintKitId": 550,
     "Collection": "The Chroma 3 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_12/weapon_hkp2000_hy_p2000_oceani_light_png.png"
   },
   {
@@ -6326,7 +6326,7 @@
     "WeaponId": 9,
     "PaintKitId": 584,
     "Collection": "The Gamma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_awp_gs_awp_phobos_light_png.png"
   },
   {
@@ -6346,7 +6346,7 @@
     "WeaponId": 4,
     "PaintKitId": 586,
     "Collection": "The Gamma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_glock_cu_glock_wasteland_rebel_light_png.png"
   },
   {
@@ -6356,7 +6356,7 @@
     "WeaponId": 60,
     "PaintKitId": 587,
     "Collection": "The Gamma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_m4a1_silencer_gs_m4a1_mecha_industries_light_png.png"
   },
   {
@@ -6366,7 +6366,7 @@
     "WeaponId": 16,
     "PaintKitId": 588,
     "Collection": "The Gamma Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_m4a1_cu_m4a4_desolate_space_light_png.png"
   },
   {
@@ -6396,7 +6396,7 @@
     "WeaponId": 32,
     "PaintKitId": 591,
     "Collection": "The Gamma Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_hkp2000_gs_p2000_imperial_dragon_light_png.png"
   },
   {
@@ -6486,7 +6486,7 @@
     "WeaponId": 7,
     "PaintKitId": 600,
     "Collection": "The Gamma 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_gamma_2/weapon_ak47_cu_ak47_anarchy_light_png.png"
   },
   {
@@ -6516,7 +6516,7 @@
     "WeaponId": 1,
     "PaintKitId": 603,
     "Collection": "The Gamma 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_gamma_2/weapon_deagle_aq_desert_eagle_constable_light_png.png"
   },
   {
@@ -6556,7 +6556,7 @@
     "WeaponId": 4,
     "PaintKitId": 607,
     "Collection": "The Gamma 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_gamma_2/weapon_glock_cu_glock18_weasel_light_png.png"
   },
   {
@@ -6666,7 +6666,7 @@
     "WeaponId": 4,
     "PaintKitId": 623,
     "Collection": "The Glove Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_glock_aq_glock_dark-fall_light_png.png"
   },
   {
@@ -6746,7 +6746,7 @@
     "WeaponId": 60,
     "PaintKitId": 631,
     "Collection": "The Glove Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_m4a1_silencer_cu_m4a1_flashback_light_png.png"
   },
   {
@@ -6756,7 +6756,7 @@
     "WeaponId": 16,
     "PaintKitId": 632,
     "Collection": "The Glove Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_m4a1_gs_m4a4_sector_light_png.png"
   },
   {
@@ -6786,7 +6786,7 @@
     "WeaponId": 32,
     "PaintKitId": 635,
     "Collection": "The Glove Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_hkp2000_gs_p2000-sport_light_png.png"
   },
   {
@@ -6806,7 +6806,7 @@
     "WeaponId": 61,
     "PaintKitId": 637,
     "Collection": "The Glove Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_15/weapon_usp_silencer_cu_usp_cyrex_light_png.png"
   },
   {
@@ -6826,7 +6826,7 @@
     "WeaponId": 7,
     "PaintKitId": 639,
     "Collection": "The Spectrum Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_16/weapon_ak47_gs_ak47_bloodsport_light_png.png"
   },
   {
@@ -6836,7 +6836,7 @@
     "WeaponId": 9,
     "PaintKitId": 640,
     "Collection": "The Spectrum Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_16/weapon_awp_cu_awp_psychopath_light_png.png"
   },
   {
@@ -6876,7 +6876,7 @@
     "WeaponId": 60,
     "PaintKitId": 644,
     "Collection": "The Spectrum Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_16/weapon_m4a1_silencer_gs_m4a1_decimator_light_png.png"
   },
   {
@@ -6886,7 +6886,7 @@
     "WeaponId": 1,
     "PaintKitId": 645,
     "Collection": "The Spectrum Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_16/weapon_deagle_cu_desert_eagle_corroden_light_png.png"
   },
   {
@@ -6966,7 +6966,7 @@
     "WeaponId": 61,
     "PaintKitId": 653,
     "Collection": "The Spectrum Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_16/weapon_usp_silencer_cu_usps_noir_light_png.png"
   },
   {
@@ -6996,7 +6996,7 @@
     "WeaponId": 7,
     "PaintKitId": 656,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_ak47_gs_ak_colony01_red_light_png.png"
   },
   {
@@ -7006,7 +7006,7 @@
     "WeaponId": 61,
     "PaintKitId": 657,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_usp_silencer_cu_usps_blueprint_light_png.png"
   },
   {
@@ -7056,7 +7056,7 @@
     "WeaponId": 9,
     "PaintKitId": 662,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_awp_cu_awp_hannya_light_png.png"
   },
   {
@@ -7066,7 +7066,7 @@
     "WeaponId": 60,
     "PaintKitId": 663,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_m4a1_silencer_cu_m4a1s_metritera_light_png.png"
   },
   {
@@ -7076,7 +7076,7 @@
     "WeaponId": 16,
     "PaintKitId": 664,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_m4a1_cu_m4a4_hellfire_light_png.png"
   },
   {
@@ -7106,7 +7106,7 @@
     "WeaponId": 32,
     "PaintKitId": 667,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_hkp2000_cu_p2000_hunter_light_png.png"
   },
   {
@@ -7186,7 +7186,7 @@
     "WeaponId": 7,
     "PaintKitId": 675,
     "Collection": "The Spectrum 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_18/weapon_ak47_gs_ak47_empress_light_png.png"
   },
   {
@@ -7236,7 +7236,7 @@
     "WeaponId": 4,
     "PaintKitId": 680,
     "Collection": "The Spectrum 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_18/weapon_glock_cu_glock_indigo_light_png.png"
   },
   {
@@ -7246,7 +7246,7 @@
     "WeaponId": 60,
     "PaintKitId": 681,
     "Collection": "The Spectrum 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_18/weapon_m4a1_silencer_gs_m4a1_shatter_light_png.png"
   },
   {
@@ -7346,7 +7346,7 @@
     "WeaponId": 9,
     "PaintKitId": 691,
     "Collection": "The Clutch Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_19/weapon_awp_gs_awp_death_light_png.png"
   },
   {
@@ -7376,7 +7376,7 @@
     "WeaponId": 4,
     "PaintKitId": 694,
     "Collection": "The Clutch Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_19/weapon_glock_aa_glock_18_urban_moon_fever_light_png.png"
   },
   {
@@ -7386,7 +7386,7 @@
     "WeaponId": 16,
     "PaintKitId": 695,
     "Collection": "The Clutch Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_19/weapon_m4a1_cu_m4a4_neo_noir_light_png.png"
   },
   {
@@ -7436,7 +7436,7 @@
     "WeaponId": 32,
     "PaintKitId": 700,
     "Collection": "The Clutch Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_19/weapon_hkp2000_cu_p2000_urban_hazard_light_png.png"
   },
   {
@@ -7486,7 +7486,7 @@
     "WeaponId": 61,
     "PaintKitId": 705,
     "Collection": "The Clutch Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_19/weapon_usp_silencer_cu_usp_cut_light_png.png"
   },
   {
@@ -7506,7 +7506,7 @@
     "WeaponId": 7,
     "PaintKitId": 707,
     "Collection": "The Horizon Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_ak47_cu_ak_neon_rider_light_png.png"
   },
   {
@@ -7546,7 +7546,7 @@
     "WeaponId": 1,
     "PaintKitId": 711,
     "Collection": "The Horizon Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_deagle_gs_deagle_aggressor_light_png.png"
   },
   {
@@ -7566,7 +7566,7 @@
     "WeaponId": 4,
     "PaintKitId": 713,
     "Collection": "The Horizon Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_glock_gs_glock_thunder_dust_light_png.png"
   },
   {
@@ -7576,7 +7576,7 @@
     "WeaponId": 60,
     "PaintKitId": 714,
     "Collection": "The Horizon Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_png.png"
   },
   {
@@ -7616,7 +7616,7 @@
     "WeaponId": 9,
     "PaintKitId": 718,
     "Collection": "The Horizon Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_awp_am_awp_pawpaw_light_png.png"
   },
   {
@@ -7676,7 +7676,7 @@
     "WeaponId": 7,
     "PaintKitId": 724,
     "Collection": "The St. Marc Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_stmarc/weapon_ak47_cu_ak_island_floral_light_png.png"
   },
   {
@@ -7736,7 +7736,7 @@
     "WeaponId": 16,
     "PaintKitId": 730,
     "Collection": "The St. Marc Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_stmarc/weapon_m4a1_sp_bud_blue_light_png.png"
   },
   {
@@ -7756,7 +7756,7 @@
     "WeaponId": 4,
     "PaintKitId": 732,
     "Collection": "The St. Marc Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_stmarc/weapon_glock_hy_leaf_blue_light_png.png"
   },
   {
@@ -7786,7 +7786,7 @@
     "WeaponId": 9,
     "PaintKitId": 736,
     "Collection": "The Canals Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_canals/weapon_awp_gs_awp_enamel_light_png.png"
   },
   {
@@ -7876,7 +7876,7 @@
     "WeaponId": 7,
     "PaintKitId": 745,
     "Collection": "The Canals Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_canals/weapon_ak47_hy_veneto_purple_light_png.png"
   },
   {
@@ -7986,7 +7986,7 @@
     "WeaponId": 9,
     "PaintKitId": 756,
     "Collection": "The Norse Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_norse/weapon_awp_gs_awp_gungnir_light_png.png"
   },
   {
@@ -7996,7 +7996,7 @@
     "WeaponId": 1,
     "PaintKitId": 757,
     "Collection": "The Norse Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_norse/weapon_deagle_am_jorm_green_light_png.png"
   },
   {
@@ -8066,7 +8066,7 @@
     "WeaponId": 1,
     "PaintKitId": 764,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_deagle_gs_deagle_fennec_light_png.png"
   },
   {
@@ -8186,7 +8186,7 @@
     "WeaponId": 16,
     "PaintKitId": 780,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_nuke_2/weapon_m4a1_am_circuitboard_silver_light_png.png"
   },
   {
@@ -8266,7 +8266,7 @@
     "WeaponId": 9,
     "PaintKitId": 788,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_nuke_2/weapon_awp_hy_nuclear_skulls_redblue_light_png.png"
   },
   {
@@ -8276,7 +8276,7 @@
     "WeaponId": 4,
     "PaintKitId": 789,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_nuke_2/weapon_glock_am_nuclear_skulls_green_light_png.png"
   },
   {
@@ -8306,7 +8306,7 @@
     "WeaponId": 60,
     "PaintKitId": 792,
     "Collection": "The 2018 Nuke Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_nuke_2/weapon_m4a1_silencer_gs_m4a1s_operator_light_png.png"
   },
   {
@@ -8316,7 +8316,7 @@
     "WeaponId": 16,
     "PaintKitId": 793,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_m4a1_hy_red_hex_light_png.png"
   },
   {
@@ -8336,7 +8336,7 @@
     "WeaponId": 7,
     "PaintKitId": 795,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_ak47_hy_mesh_safetyorange_light_png.png"
   },
   {
@@ -8346,7 +8346,7 @@
     "WeaponId": 7,
     "PaintKitId": 795,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_ak47_hy_mesh_safetyorange_light_png.png"
   },
   {
@@ -8356,7 +8356,7 @@
     "WeaponId": 61,
     "PaintKitId": 796,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_usp_silencer_sp_mesh_safetyred_light_png.png"
   },
   {
@@ -8396,7 +8396,7 @@
     "WeaponId": 4,
     "PaintKitId": 799,
     "Collection": "The 2018 Inferno Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_inferno_2/weapon_glock_aa_vertigo_blue_light_png.png"
   },
   {
@@ -8416,7 +8416,7 @@
     "WeaponId": 7,
     "PaintKitId": 801,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_ak47_cu_ak47_asiimov_light_png.png"
   },
   {
@@ -8436,7 +8436,7 @@
     "WeaponId": 9,
     "PaintKitId": 803,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_awp_cu_awp_neonoir_light_png.png"
   },
   {
@@ -8456,7 +8456,7 @@
     "WeaponId": 1,
     "PaintKitId": 805,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_deagle_gs_deagle_mecha_light_png.png"
   },
   {
@@ -8486,7 +8486,7 @@
     "WeaponId": 4,
     "PaintKitId": 808,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_glock_cu_glock18_corroden_light_png.png"
   },
   {
@@ -8516,7 +8516,7 @@
     "WeaponId": 16,
     "PaintKitId": 811,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_m4a1_gs_m4a4_chopper_ghost_light_png.png"
   },
   {
@@ -8576,7 +8576,7 @@
     "WeaponId": 61,
     "PaintKitId": 817,
     "Collection": "The Danger Zone Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_21/weapon_usp_silencer_cu_usp_flashback_light_png.png"
   },
   {
@@ -8586,7 +8586,7 @@
     "WeaponId": 61,
     "PaintKitId": 818,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_usp_silencer_am_ddpat_purple_light_png.png"
   },
   {
@@ -8596,7 +8596,7 @@
     "WeaponId": 9,
     "PaintKitId": 819,
     "Collection": "The 2021 Mirage Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_mirage_2021/weapon_awp_gs_awp_hydra_light_png.png"
   },
   {
@@ -8706,7 +8706,7 @@
     "WeaponId": 61,
     "PaintKitId": 830,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_usp_silencer_gsch_bright_camo_usp_light_png.png"
   },
   {
@@ -8726,7 +8726,7 @@
     "WeaponId": 4,
     "PaintKitId": 832,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_glock_gsch_axia_glock_light_png.png"
   },
   {
@@ -8756,7 +8756,7 @@
     "WeaponId": 7,
     "PaintKitId": 836,
     "Collection": "The Prisma Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_ak47_cu_ak47_aztec_light_png.png"
   },
   {
@@ -8776,7 +8776,7 @@
     "WeaponId": 9,
     "PaintKitId": 838,
     "Collection": "The Prisma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_awp_cu_awp_viper_light_png.png"
   },
   {
@@ -8806,7 +8806,7 @@
     "WeaponId": 1,
     "PaintKitId": 841,
     "Collection": "The Prisma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_deagle_gs_deagle_exo_light_png.png"
   },
   {
@@ -8836,7 +8836,7 @@
     "WeaponId": 16,
     "PaintKitId": 844,
     "Collection": "The Prisma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_m4a1_gs_m4a4_emperor_light_png.png"
   },
   {
@@ -8946,7 +8946,7 @@
     "WeaponId": 60,
     "PaintKitId": 862,
     "Collection": "The Norse Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_silencer_am_crystallized_dark_green_light_png.png"
   },
   {
@@ -9066,7 +9066,7 @@
     "WeaponId": 16,
     "PaintKitId": 874,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_m4a1_soo_polysoup_m4a4_light_png.png"
   },
   {
@@ -9096,7 +9096,7 @@
     "WeaponId": 32,
     "PaintKitId": 878,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_hkp2000_ht_facet_p2000_light_png.png"
   },
   {
@@ -9156,7 +9156,7 @@
     "WeaponId": 7,
     "PaintKitId": 885,
     "Collection": "The Shattered Web Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_23/weapon_ak47_gs_ak47_nibbler_light_png.png"
   },
   {
@@ -9176,7 +9176,7 @@
     "WeaponId": 9,
     "PaintKitId": 887,
     "Collection": "The Shattered Web Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_23/weapon_awp_cu_awp_virus_light_png.png"
   },
   {
@@ -9246,7 +9246,7 @@
     "WeaponId": 32,
     "PaintKitId": 894,
     "Collection": "The Shattered Web Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_23/weapon_hkp2000_cu_p2000_obsidian_light_png.png"
   },
   {
@@ -9426,7 +9426,7 @@
     "WeaponId": 7,
     "PaintKitId": 912,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_ak47_cu_graphic_overlay_ak47_light_png.png"
   },
   {
@@ -9476,7 +9476,7 @@
     "WeaponId": 9,
     "PaintKitId": 917,
     "Collection": "The CS20 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_24/weapon_awp_cu_awp_wildfire_light_png.png"
   },
   {
@@ -9486,7 +9486,7 @@
     "WeaponId": 4,
     "PaintKitId": 918,
     "Collection": "The CS20 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_24/weapon_glock_cu_glock_hero_light_png.png"
   },
   {
@@ -9516,7 +9516,7 @@
     "WeaponId": 7,
     "PaintKitId": 921,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_ak47_gs_ak47_gold_arabesque_light_png.png"
   },
   {
@@ -9526,7 +9526,7 @@
     "WeaponId": 61,
     "PaintKitId": 922,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_usp_silencer_am_lizard_red_light_png.png"
   },
   {
@@ -9566,7 +9566,7 @@
     "WeaponId": 16,
     "PaintKitId": 926,
     "Collection": "The 2021 Dust 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust_2_2021/weapon_m4a1_hy_ddpat_urban_red_light_png.png"
   },
   {
@@ -9706,7 +9706,7 @@
     "WeaponId": 1,
     "PaintKitId": 938,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_deagle_cu_glitter_deagle_light_png.png"
   },
   {
@@ -9736,7 +9736,7 @@
     "WeaponId": 7,
     "PaintKitId": 941,
     "Collection": "The Prisma 2 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_25/weapon_ak47_cu_ak-47_phantom_disruptor_light_png.png"
   },
   {
@@ -9756,7 +9756,7 @@
     "WeaponId": 9,
     "PaintKitId": 943,
     "Collection": "The Prisma 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_25/weapon_awp_cu_awp_vein_light_png.png"
   },
   {
@@ -9776,7 +9776,7 @@
     "WeaponId": 1,
     "PaintKitId": 945,
     "Collection": "The Prisma 2 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_25/weapon_deagle_cu_deagle_replica_light_png.png"
   },
   {
@@ -9786,7 +9786,7 @@
     "WeaponId": 60,
     "PaintKitId": 946,
     "Collection": "The Prisma 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_25/weapon_m4a1_silencer_cu_m4a1s_csgo2048_light_png.png"
   },
   {
@@ -9836,7 +9836,7 @@
     "WeaponId": 32,
     "PaintKitId": 951,
     "Collection": "The Prisma 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_25/weapon_hkp2000_aq_p2000_acid_clover_light_png.png"
   },
   {
@@ -9896,7 +9896,7 @@
     "WeaponId": 4,
     "PaintKitId": 957,
     "Collection": "The Prisma 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_25/weapon_glock_cu_glock18_warmaiden_light_png.png"
   },
   {
@@ -9916,7 +9916,7 @@
     "WeaponId": 7,
     "PaintKitId": 959,
     "Collection": "The Fracture Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_ak47_cu_ak47_anubis_light_png.png"
   },
   {
@@ -9926,7 +9926,7 @@
     "WeaponId": 32,
     "PaintKitId": 960,
     "Collection": "The Fracture Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_hkp2000_aq_p2000_lost_world_light_png.png"
   },
   {
@@ -9946,7 +9946,7 @@
     "WeaponId": 1,
     "PaintKitId": 962,
     "Collection": "The Fracture Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_deagle_cu_deag_printstream_light_png.png"
   },
   {
@@ -9956,7 +9956,7 @@
     "WeaponId": 4,
     "PaintKitId": 963,
     "Collection": "The Fracture Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_glock_cu_glock_eyecontact_light_png.png"
   },
   {
@@ -10036,7 +10036,7 @@
     "WeaponId": 16,
     "PaintKitId": 971,
     "Collection": "The Fracture Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_m4a1_cu_m4a4_queenfairy_light_png.png"
   },
   {
@@ -10076,7 +10076,7 @@
     "WeaponId": 9,
     "PaintKitId": 975,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_awp_gs_awp_exoskeleton_light_png.png"
   },
   {
@@ -10166,7 +10166,7 @@
     "WeaponId": 60,
     "PaintKitId": 984,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_m4a1_silencer_cu_m4a1s_printstream_light_png.png"
   },
   {
@@ -10176,7 +10176,7 @@
     "WeaponId": 16,
     "PaintKitId": 985,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_m4a1_cu_m4a4_cyberpunk_light_png.png"
   },
   {
@@ -10206,7 +10206,7 @@
     "WeaponId": 4,
     "PaintKitId": 988,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_glock_cu_glock_noir_light_png.png"
   },
   {
@@ -10236,7 +10236,7 @@
     "WeaponId": 61,
     "PaintKitId": 991,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_usp_silencer_cu_usp_krokos_light_png.png"
   },
   {
@@ -10246,7 +10246,7 @@
     "WeaponId": 1,
     "PaintKitId": 992,
     "Collection": "The Control Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_deagle_am_numbers_bronze_light_png.png"
   },
   {
@@ -10256,7 +10256,7 @@
     "WeaponId": 16,
     "PaintKitId": 993,
     "Collection": "The Control Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_m4a1_cu_csgo_camo_light_png.png"
   },
   {
@@ -10296,7 +10296,7 @@
     "WeaponId": 32,
     "PaintKitId": 997,
     "Collection": "The Control Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_hkp2000_am_numbers_red_blue_light_png.png"
   },
   {
@@ -10336,7 +10336,7 @@
     "WeaponId": 60,
     "PaintKitId": 1001,
     "Collection": "The Ancient Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_m4a1_silencer_cu_m4a1_snake_light_png.png"
   },
   {
@@ -10366,7 +10366,7 @@
     "WeaponId": 7,
     "PaintKitId": 1004,
     "Collection": "The Havoc Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_ak47_cu_ak_xray_light_png.png"
   },
   {
@@ -10386,7 +10386,7 @@
     "WeaponId": 1,
     "PaintKitId": 1006,
     "Collection": "The Havoc Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_deagle_am_heist_plans_purple_light_png.png"
   },
   {
@@ -10486,7 +10486,7 @@
     "WeaponId": 4,
     "PaintKitId": 1016,
     "Collection": "The Havoc Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_glock_cu_money_glock_light_png.png"
   },
   {
@@ -10496,7 +10496,7 @@
     "WeaponId": 60,
     "PaintKitId": 1017,
     "Collection": "The Control Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_m4a1_silencer_am_m4a1s_bluesmoke_light_png.png"
   },
   {
@@ -10506,7 +10506,7 @@
     "WeaponId": 7,
     "PaintKitId": 1018,
     "Collection": "The Ancient Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_ak47_cu_ak_jaguar_light_png.png"
   },
   {
@@ -10516,7 +10516,7 @@
     "WeaponId": 32,
     "PaintKitId": 1019,
     "Collection": "The Ancient Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_am_black_panther_light_png.png"
   },
   {
@@ -10586,7 +10586,7 @@
     "WeaponId": 9,
     "PaintKitId": 1026,
     "Collection": "The Control Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_awp_aa_awp_fade_light_png.png"
   },
   {
@@ -10596,7 +10596,7 @@
     "WeaponId": 61,
     "PaintKitId": 1027,
     "Collection": "The Control Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_usp_silencer_am_intelligence_magenta_light_png.png"
   },
   {
@@ -10616,7 +10616,7 @@
     "WeaponId": 9,
     "PaintKitId": 1029,
     "Collection": "The Havoc Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_t/weapon_awp_am_tigers_blue_light_png.png"
   },
   {
@@ -10636,7 +10636,7 @@
     "WeaponId": 61,
     "PaintKitId": 1031,
     "Collection": "The Ancient Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_sp_ancient_bright_light_png.png"
   },
   {
@@ -10676,7 +10676,7 @@
     "WeaponId": 7,
     "PaintKitId": 1035,
     "Collection": "The Snakebite Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_ak47_gs_ak47_professional_light_png.png"
   },
   {
@@ -10716,7 +10716,7 @@
     "WeaponId": 4,
     "PaintKitId": 1039,
     "Collection": "The Snakebite Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_glock_gs_glock_polymer_light_png.png"
   },
   {
@@ -10726,7 +10726,7 @@
     "WeaponId": 61,
     "PaintKitId": 1040,
     "Collection": "The Snakebite Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_usp_silencer_gs_usps_hangedman_light_png.png"
   },
   {
@@ -10736,7 +10736,7 @@
     "WeaponId": 16,
     "PaintKitId": 1041,
     "Collection": "The Snakebite Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_m4a1_cu_m4a4_love_light_png.png"
   },
   {
@@ -10826,7 +10826,7 @@
     "WeaponId": 1,
     "PaintKitId": 1050,
     "Collection": "The Snakebite Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_deagle_cu_deag_trigger_discipline_light_png.png"
   },
   {
@@ -10866,7 +10866,7 @@
     "WeaponId": 1,
     "PaintKitId": 1054,
     "Collection": "Limited Edition Item",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_xpshop_wpn_01/weapon_deagle_aq_deagle_case_hardened_2_light_png.png"
   },
   {
@@ -10876,7 +10876,7 @@
     "WeaponId": 32,
     "PaintKitId": 1055,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_hkp2000_aa_spacerace_orange_light_png.png"
   },
   {
@@ -10886,7 +10886,7 @@
     "WeaponId": 1,
     "PaintKitId": 1056,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_deagle_sp_spacerace_blue_light_png.png"
   },
   {
@@ -10896,7 +10896,7 @@
     "WeaponId": 9,
     "PaintKitId": 1058,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_awp_hy_technowar_rwb_light_png.png"
   },
   {
@@ -10906,7 +10906,7 @@
     "WeaponId": 60,
     "PaintKitId": 1059,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_m4a1_silencer_sp_technowar_red_light_png.png"
   },
   {
@@ -10946,7 +10946,7 @@
     "WeaponId": 16,
     "PaintKitId": 1063,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_m4a1_gs_m4a4_coalition_light_png.png"
   },
   {
@@ -10966,7 +10966,7 @@
     "WeaponId": 61,
     "PaintKitId": 1065,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_usp_silencer_so_whiteout_riptide_light_png.png"
   },
   {
@@ -10996,7 +10996,7 @@
     "WeaponId": 7,
     "PaintKitId": 1070,
     "Collection": "The 2021 Vertigo Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_ak47_hy_ak47lam_green_light_png.png"
   },
   {
@@ -11026,7 +11026,7 @@
     "WeaponId": 60,
     "PaintKitId": 1073,
     "Collection": "The 2021 Vertigo Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_m4a1_silencer_gs_m4a1_vertigo_light_png.png"
   },
   {
@@ -11086,7 +11086,7 @@
     "WeaponId": 4,
     "PaintKitId": 1079,
     "Collection": "The 2021 Vertigo Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_glock_sp_tire_tread_red_light_png.png"
   },
   {
@@ -11166,7 +11166,7 @@
     "WeaponId": 7,
     "PaintKitId": 1087,
     "Collection": "The Operation Riptide Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_29/weapon_ak47_gs_ak47_abstract_light_png.png"
   },
   {
@@ -11196,7 +11196,7 @@
     "WeaponId": 1,
     "PaintKitId": 1090,
     "Collection": "The Operation Riptide Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_29/weapon_deagle_cu_deagle_kitch_light_png.png"
   },
   {
@@ -11266,7 +11266,7 @@
     "WeaponId": 16,
     "PaintKitId": 1097,
     "Collection": "The Operation Riptide Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_29/weapon_m4a1_gs_m4_flowers_light_png.png"
   },
   {
@@ -11296,7 +11296,7 @@
     "WeaponId": 4,
     "PaintKitId": 1100,
     "Collection": "The Operation Riptide Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_29/weapon_glock_cu_glock_snackattack_light_png.png"
   },
   {
@@ -11316,7 +11316,7 @@
     "WeaponId": 61,
     "PaintKitId": 1102,
     "Collection": "The Operation Riptide Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_29/weapon_usp_silencer_cu_usp_black_lotus_light_png.png"
   },
   {
@@ -11336,7 +11336,7 @@
     "WeaponId": 4,
     "PaintKitId": 1119,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_emerald_marbleized_glock_light_png.png"
   },
   {
@@ -11346,7 +11346,7 @@
     "WeaponId": 4,
     "PaintKitId": 1120,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase1_glock_light_png.png"
   },
   {
@@ -11356,7 +11356,7 @@
     "WeaponId": 4,
     "PaintKitId": 1121,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase2_glock_light_png.png"
   },
   {
@@ -11366,7 +11366,7 @@
     "WeaponId": 4,
     "PaintKitId": 1122,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase3_glock_light_png.png"
   },
   {
@@ -11376,7 +11376,7 @@
     "WeaponId": 4,
     "PaintKitId": 1123,
     "Collection": "The 2021 Train Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2021/weapon_glock_am_gamma_doppler_phase4_glock_light_png.png"
   },
   {
@@ -11436,7 +11436,7 @@
     "WeaponId": 60,
     "PaintKitId": 1130,
     "Collection": "The Dreams \u0026 Nightmares Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_30/weapon_m4a1_silencer_gs_m4a1s_insomnia_light_png.png"
   },
   {
@@ -11496,7 +11496,7 @@
     "WeaponId": 61,
     "PaintKitId": 1136,
     "Collection": "The Dreams \u0026 Nightmares Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_30/weapon_usp_silencer_cu_usp_to_hell_light_png.png"
   },
   {
@@ -11516,7 +11516,7 @@
     "WeaponId": 32,
     "PaintKitId": 1138,
     "Collection": "The Dreams \u0026 Nightmares Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_30/weapon_hkp2000_cu_p2k_flying_dream_light_png.png"
   },
   {
@@ -11546,7 +11546,7 @@
     "WeaponId": 7,
     "PaintKitId": 1141,
     "Collection": "The Dreams \u0026 Nightmares Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_30/weapon_ak47_cu_ak47_nightwish_light_png.png"
   },
   {
@@ -11556,7 +11556,7 @@
     "WeaponId": 61,
     "PaintKitId": 1142,
     "Collection": "The Recoil Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_31/weapon_usp_silencer_cu_usp_printstream_light_png.png"
   },
   {
@@ -11566,7 +11566,7 @@
     "WeaponId": 7,
     "PaintKitId": 1143,
     "Collection": "The Recoil Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_31/weapon_ak47_cu_ak47_cogthings_light_png.png"
   },
   {
@@ -11576,7 +11576,7 @@
     "WeaponId": 9,
     "PaintKitId": 1144,
     "Collection": "The Recoil Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_31/weapon_awp_cu_awp_chroma_pink_light_png.png"
   },
   {
@@ -11626,7 +11626,7 @@
     "WeaponId": 16,
     "PaintKitId": 1149,
     "Collection": "The Recoil Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_31/weapon_m4a1_cu_m4a4_elite_tactical_light_png.png"
   },
   {
@@ -11716,7 +11716,7 @@
     "WeaponId": 4,
     "PaintKitId": 1158,
     "Collection": "The Recoil Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_31/weapon_glock_gs_glock_elite_camo_light_png.png"
   },
   {
@@ -11786,7 +11786,7 @@
     "WeaponId": 16,
     "PaintKitId": 1165,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_m4a1_m4a4_snakebite_light_png.png"
   },
   {
@@ -11796,7 +11796,7 @@
     "WeaponId": 60,
     "PaintKitId": 1166,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_m4a1_silencer_m4a1s_black_lotus_light_png.png"
   },
   {
@@ -11806,7 +11806,7 @@
     "WeaponId": 4,
     "PaintKitId": 1167,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_glock_glock_brick_mondrian_light_png.png"
   },
   {
@@ -11836,7 +11836,7 @@
     "WeaponId": 9,
     "PaintKitId": 1170,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_awp_awp_tempered_light_png.png"
   },
   {
@@ -11846,7 +11846,7 @@
     "WeaponId": 7,
     "PaintKitId": 1171,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_ak47_ak_porcelain_light_png.png"
   },
   {
@@ -11866,7 +11866,7 @@
     "WeaponId": 61,
     "PaintKitId": 1173,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_usp_silencer_usps_doggy_light_png.png"
   },
   {
@@ -11896,7 +11896,7 @@
     "WeaponId": 60,
     "PaintKitId": 1177,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png"
   },
   {
@@ -11916,7 +11916,7 @@
     "WeaponId": 7,
     "PaintKitId": 1179,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_ak47_ht_poly_camo_ak47_light_png.png"
   },
   {
@@ -11936,7 +11936,7 @@
     "WeaponId": 32,
     "PaintKitId": 1181,
     "Collection": "The Fever Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_hkp2000_p2k_fractal_light_png.png"
   },
   {
@@ -11986,7 +11986,7 @@
     "WeaponId": 61,
     "PaintKitId": 1186,
     "Collection": "The Fever Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_usp_silencer_usps_bruteforce_green_light_png.png"
   },
   {
@@ -12016,7 +12016,7 @@
     "WeaponId": 1,
     "PaintKitId": 1189,
     "Collection": "The Fever Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_deagle_deagle_snake_pattern_light_png.png"
   },
   {
@@ -12096,7 +12096,7 @@
     "WeaponId": 4,
     "PaintKitId": 1200,
     "Collection": "The Train 2025 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_train_2025/weapon_glock_glock_train_green_light_png.png"
   },
   {
@@ -12156,7 +12156,7 @@
     "WeaponId": 9,
     "PaintKitId": 1206,
     "Collection": "The Fever Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_awp_awp_printstream_light_png.png"
   },
   {
@@ -12166,7 +12166,7 @@
     "WeaponId": 7,
     "PaintKitId": 1207,
     "Collection": "The Fever Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_ak47_ak47_explosive_light_png.png"
   },
   {
@@ -12176,7 +12176,7 @@
     "WeaponId": 4,
     "PaintKitId": 1208,
     "Collection": "The Fever Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_glock_glock_shinobu_light_png.png"
   },
   {
@@ -12186,7 +12186,7 @@
     "WeaponId": 16,
     "PaintKitId": 1209,
     "Collection": "The Train 2025 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_train_2025/weapon_m4a1_cu_m4a4_train_hell_light_png.png"
   },
   {
@@ -12196,7 +12196,7 @@
     "WeaponId": 16,
     "PaintKitId": 1210,
     "Collection": "The Fever Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_35/weapon_m4a1_m4a4_green_camo_light_png.png"
   },
   {
@@ -12226,7 +12226,7 @@
     "WeaponId": 9,
     "PaintKitId": 1213,
     "Collection": "The Train 2025 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_train_2025/weapon_awp_awp_longdog_light_png.png"
   },
   {
@@ -12256,7 +12256,7 @@
     "WeaponId": 60,
     "PaintKitId": 1216,
     "Collection": "The Ascent Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_m4a1_silencer_cue_stratosphere_light_png.png"
   },
   {
@@ -12266,7 +12266,7 @@
     "WeaponId": 61,
     "PaintKitId": 1217,
     "Collection": "The Ascent Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_usp_silencer_soe_blue_and_gold_light_png.png"
   },
   {
@@ -12276,7 +12276,7 @@
     "WeaponId": 7,
     "PaintKitId": 1218,
     "Collection": "The Ascent Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_ak47_soe_iridescent_purple_light_png.png"
   },
   {
@@ -12306,7 +12306,7 @@
     "WeaponId": 7,
     "PaintKitId": 1221,
     "Collection": "The Revolution Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_32/weapon_ak47_cu_ak_head_shot_holo_light_png.png"
   },
   {
@@ -12316,7 +12316,7 @@
     "WeaponId": 9,
     "PaintKitId": 1222,
     "Collection": "The Revolution Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_32/weapon_awp_gs_awp_limbo_snake_light_png.png"
   },
   {
@@ -12326,7 +12326,7 @@
     "WeaponId": 60,
     "PaintKitId": 1223,
     "Collection": "The Revolution Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_32/weapon_m4a1_silencer_cu_m4a1s_feeding_frenzy_light_png.png"
   },
   {
@@ -12336,7 +12336,7 @@
     "WeaponId": 32,
     "PaintKitId": 1224,
     "Collection": "The Revolution Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_32/weapon_hkp2000_cu_p2000_decline_light_png.png"
   },
   {
@@ -12366,7 +12366,7 @@
     "WeaponId": 4,
     "PaintKitId": 1227,
     "Collection": "The Revolution Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_32/weapon_glock_cu_glock_moon_rabbit_light_png.png"
   },
   {
@@ -12376,7 +12376,7 @@
     "WeaponId": 16,
     "PaintKitId": 1228,
     "Collection": "The Revolution Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_32/weapon_m4a1_cu_m4a4_temukau_light_png.png"
   },
   {
@@ -12476,7 +12476,7 @@
     "WeaponId": 7,
     "PaintKitId": 1238,
     "Collection": "The Anubis Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_ak47_gs_ak47_strone_light_png.png"
   },
   {
@@ -12486,7 +12486,7 @@
     "WeaponId": 9,
     "PaintKitId": 1239,
     "Collection": "The Anubis Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_awp_gs_awp_strone_light_png.png"
   },
   {
@@ -12496,7 +12496,7 @@
     "WeaponId": 4,
     "PaintKitId": 1240,
     "Collection": "The Anubis Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_glock_cu_glock_ramzes_light_png.png"
   },
   {
@@ -12526,7 +12526,7 @@
     "WeaponId": 60,
     "PaintKitId": 1243,
     "Collection": "The Anubis Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
   },
   {
@@ -12626,7 +12626,7 @@
     "WeaponId": 61,
     "PaintKitId": 1253,
     "Collection": "The Anubis Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
   },
   {
@@ -12646,7 +12646,7 @@
     "WeaponId": 16,
     "PaintKitId": 1255,
     "Collection": "The Anubis Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_m4a1_gs_m4a4_ra_light_png.png"
   },
   {
@@ -12666,7 +12666,7 @@
     "WeaponId": 1,
     "PaintKitId": 1257,
     "Collection": "The Ascent Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_deagle_ht_earth_fans_light_png.png"
   },
   {
@@ -12686,7 +12686,7 @@
     "WeaponId": 32,
     "PaintKitId": 1259,
     "Collection": "The Ascent Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_hkp2000_spe_scarf_print_light_png.png"
   },
   {
@@ -12746,7 +12746,7 @@
     "WeaponId": 4,
     "PaintKitId": 1265,
     "Collection": "The Ascent Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_glock_hye_topo_light_png.png"
   },
   {
@@ -12756,7 +12756,7 @@
     "WeaponId": 16,
     "PaintKitId": 1266,
     "Collection": "The Ascent Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_m4a1_hye_blue_m4a4_light_png.png"
   },
   {
@@ -12896,7 +12896,7 @@
     "WeaponId": 9,
     "PaintKitId": 1280,
     "Collection": "The Boreal Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_awp_cue_jump_line_light_png.png"
   },
   {
@@ -12906,7 +12906,7 @@
     "WeaponId": 16,
     "PaintKitId": 1281,
     "Collection": "The Boreal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_m4a1_spe_lightning_light_png.png"
   },
   {
@@ -12916,7 +12916,7 @@
     "WeaponId": 4,
     "PaintKitId": 1282,
     "Collection": "The Boreal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_glock_spe_missile_light_png.png"
   },
   {
@@ -12926,7 +12926,7 @@
     "WeaponId": 7,
     "PaintKitId": 1283,
     "Collection": "The Boreal Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ak47_soe_metallic_green_2_light_png.png"
   },
   {
@@ -12936,7 +12936,7 @@
     "WeaponId": 61,
     "PaintKitId": 1284,
     "Collection": "The Boreal Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_usp_silencer_soe_tropical_light_png.png"
   },
   {
@@ -12976,7 +12976,7 @@
     "WeaponId": 7,
     "PaintKitId": 1288,
     "Collection": "The Boreal Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ak47_soe_varicamo_light_png.png"
   },
   {
@@ -13016,7 +13016,7 @@
     "WeaponId": 32,
     "PaintKitId": 1292,
     "Collection": "The Boreal Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_hkp2000_soe_teal_glitter_light_png.png"
   },
   {
@@ -13186,7 +13186,7 @@
     "WeaponId": 7,
     "PaintKitId": 1309,
     "Collection": "The Radiant Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_ak47_hye_ak47_nouveau_light_png.png"
   },
   {
@@ -13206,7 +13206,7 @@
     "WeaponId": 60,
     "PaintKitId": 1311,
     "Collection": "The Radiant Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_m4a1_silencer_ht_abstract_wind_light_png.png"
   },
   {
@@ -13216,7 +13216,7 @@
     "WeaponId": 4,
     "PaintKitId": 1312,
     "Collection": "The Radiant Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_glock_soe_roses_light_png.png"
   },
   {
@@ -13226,7 +13226,7 @@
     "WeaponId": 16,
     "PaintKitId": 1313,
     "Collection": "The Radiant Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_m4a1_ht_metal_edges_light_png.png"
   },
   {
@@ -13276,7 +13276,7 @@
     "WeaponId": 1,
     "PaintKitId": 1318,
     "Collection": "The Radiant Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_deagle_soe_plum_light_png.png"
   },
   {
@@ -13286,7 +13286,7 @@
     "WeaponId": 60,
     "PaintKitId": 1319,
     "Collection": "The Radiant Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_m4a1_silencer_hy_hexagon_light_png.png"
   },
   {
@@ -13326,7 +13326,7 @@
     "WeaponId": 61,
     "PaintKitId": 1323,
     "Collection": "The Radiant Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_usp_silencer_ht_red_edges_light_png.png"
   },
   {
@@ -13336,7 +13336,7 @@
     "WeaponId": 9,
     "PaintKitId": 1324,
     "Collection": "The Radiant Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_warm/weapon_awp_hy_varicamo_simple_yellow_light_png.png"
   },
   {
@@ -13476,7 +13476,7 @@
     "WeaponId": 60,
     "PaintKitId": 1338,
     "Collection": "Limited Edition Item",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_xpshop_wpn_01/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
   }
 ]

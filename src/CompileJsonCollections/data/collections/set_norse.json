@@ -16,7 +16,7 @@
     "WeaponId": 16,
     "PaintKitId": 101,
     "Collection": "The Norse Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_so_tornado_light_png.png"
   },
   {
@@ -56,7 +56,7 @@
     "WeaponId": 60,
     "PaintKitId": 862,
     "Collection": "The Norse Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_norse/weapon_m4a1_silencer_am_crystallized_dark_green_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 32,
     "PaintKitId": 443,
     "Collection": "The Norse Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_sp_labyrinth2_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 32,
     "PaintKitId": 327,
     "Collection": "The Norse Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_norse/weapon_hkp2000_am_chainmail_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Norse Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_norse/weapon_glock_aq_brass_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 1,
     "PaintKitId": 757,
     "Collection": "The Norse Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_norse/weapon_deagle_am_jorm_green_light_png.png"
   },
   {
@@ -176,7 +176,7 @@
     "WeaponId": 9,
     "PaintKitId": 756,
     "Collection": "The Norse Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_norse/weapon_awp_gs_awp_gungnir_light_png.png"
   }
 ]

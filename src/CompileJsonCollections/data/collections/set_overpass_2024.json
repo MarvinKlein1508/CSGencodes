@@ -36,7 +36,7 @@
     "WeaponId": 60,
     "PaintKitId": 160,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_m4a1_silencer_hy_overpass_doodle_m4a1s_light_png.png"
   },
   {
@@ -46,7 +46,7 @@
     "WeaponId": 1,
     "PaintKitId": 138,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_deagle_cu_overpass_aqua_deagle_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 4,
     "PaintKitId": 152,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_glock_hy_overpass_tagged_teal_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 9,
     "PaintKitId": 137,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_awp_cu_overpass_crakow_awp_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 7,
     "PaintKitId": 142,
     "Collection": "The Overpass 2024 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_overpass_2024/weapon_ak47_cu_overpass_monster_ak47_light_png.png"
   }
 ]

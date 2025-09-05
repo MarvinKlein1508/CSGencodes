@@ -66,7 +66,7 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Bank Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_bank/weapon_hkp2000_an_silver_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 4,
     "PaintKitId": 293,
     "Collection": "The Bank Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_bank/weapon_glock_hy_nerodia_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 1,
     "PaintKitId": 296,
     "Collection": "The Bank Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_bank/weapon_deagle_am_crystallized_dark_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 7,
     "PaintKitId": 300,
     "Collection": "The Bank Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bank/weapon_ak47_cu_pinstripe_ak47_light_png.png"
   },
   {

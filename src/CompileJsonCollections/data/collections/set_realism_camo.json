@@ -36,7 +36,7 @@
     "WeaponId": 7,
     "PaintKitId": 1179,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_ak47_ht_poly_camo_ak47_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 61,
     "PaintKitId": 830,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_usp_silencer_gsch_bright_camo_usp_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 4,
     "PaintKitId": 832,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_glock_gsch_axia_glock_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 60,
     "PaintKitId": 1177,
     "Collection": "The Sport \u0026 Field Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_realism_camo/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png"
   }
 ]

@@ -56,7 +56,7 @@
     "WeaponId": 4,
     "PaintKitId": 381,
     "Collection": "The Vanguard Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_glock_aq_glock_coiled_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 60,
     "PaintKitId": 383,
     "Collection": "The Vanguard Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 16,
     "PaintKitId": 384,
     "Collection": "The Vanguard Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_m4a1_cu_m4a4_griffin_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 7,
     "PaintKitId": 380,
     "Collection": "The Vanguard Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_ak47_cu_tribute_ak47_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 32,
     "PaintKitId": 389,
     "Collection": "The Vanguard Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_5/weapon_hkp2000_cu_p2000_fire_elemental_light_png.png"
   }
 ]

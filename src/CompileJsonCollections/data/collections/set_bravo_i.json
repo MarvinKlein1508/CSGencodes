@@ -66,7 +66,7 @@
     "WeaponId": 61,
     "PaintKitId": 183,
     "Collection": "The Bravo Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_usp_silencer_hy_siege_bravo_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 16,
     "PaintKitId": 187,
     "Collection": "The Bravo Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_m4a1_sp_star_bravo_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 60,
     "PaintKitId": 189,
     "Collection": "The Bravo Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_m4a1_silencer_hy_ocean_bravo_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 32,
     "PaintKitId": 211,
     "Collection": "The Bravo Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 9,
     "PaintKitId": 212,
     "Collection": "The Bravo Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_awp_am_crumple_bravo_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 7,
     "PaintKitId": 180,
     "Collection": "The Bravo Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_ak47_cu_fireserpent_ak47_bravo_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 1,
     "PaintKitId": 185,
     "Collection": "The Bravo Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_bravo_i/weapon_deagle_am_scales_bravo_light_png.png"
   }
 ]

@@ -186,7 +186,7 @@
     "WeaponId": 7,
     "PaintKitId": 1288,
     "Collection": "The Boreal Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ak47_soe_varicamo_light_png.png"
   },
   {
@@ -196,7 +196,7 @@
     "WeaponId": 32,
     "PaintKitId": 1292,
     "Collection": "The Boreal Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_hkp2000_soe_teal_glitter_light_png.png"
   },
   {
@@ -246,7 +246,7 @@
     "WeaponId": 61,
     "PaintKitId": 1284,
     "Collection": "The Boreal Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_usp_silencer_soe_tropical_light_png.png"
   },
   {
@@ -256,7 +256,7 @@
     "WeaponId": 7,
     "PaintKitId": 1283,
     "Collection": "The Boreal Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_ak47_soe_metallic_green_2_light_png.png"
   },
   {
@@ -266,7 +266,7 @@
     "WeaponId": 16,
     "PaintKitId": 1281,
     "Collection": "The Boreal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_m4a1_spe_lightning_light_png.png"
   },
   {
@@ -276,7 +276,7 @@
     "WeaponId": 4,
     "PaintKitId": 1282,
     "Collection": "The Boreal Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_glock_spe_missile_light_png.png"
   },
   {
@@ -286,7 +286,7 @@
     "WeaponId": 9,
     "PaintKitId": 1280,
     "Collection": "The Boreal Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_timed_drops_neutral/weapon_awp_cue_jump_line_light_png.png"
   }
 ]

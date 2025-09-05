@@ -61,17 +61,7 @@ internal static class CollectionWorker
 
                 (string weaponName, int weapon_id, string econ_name) = PaintKits.GetWeaponType(paintKit);
 
-                var rarity = PaintKitRarity.GetRarity(paintKitName) switch
-                {
-                    "common" => ItemRarity.Common,
-                    "uncommon" => ItemRarity.Uncommon,
-                    "rare" => ItemRarity.Rare,
-                    "mythical" => ItemRarity.Mythical,
-                    "legendary" => ItemRarity.Legendary,
-                    "ancient" => ItemRarity.Ancient,
-                    "immortal" => ItemRarity.Immortal,
-                    _ => ItemRarity.Unknown,
-                };
+                var rarity = ClientLootList.GetRarity(paintKit.Name);
 
                 string skinName = Translation.GetTranslation(paintKit.DescriptionTag);
 

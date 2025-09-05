@@ -76,7 +76,7 @@
     "WeaponId": 9,
     "PaintKitId": 975,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_awp_gs_awp_exoskeleton_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 16,
     "PaintKitId": 985,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_m4a1_cu_m4a4_cyberpunk_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 61,
     "PaintKitId": 991,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_usp_silencer_cu_usp_krokos_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 60,
     "PaintKitId": 984,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_m4a1_silencer_cu_m4a1s_printstream_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 4,
     "PaintKitId": 988,
     "Collection": "The Operation Broken Fang Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_27/weapon_glock_cu_glock_noir_light_png.png"
   }
 ]

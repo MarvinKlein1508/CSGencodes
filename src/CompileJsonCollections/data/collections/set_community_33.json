@@ -76,7 +76,7 @@
     "WeaponId": 4,
     "PaintKitId": 1167,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_glock_glock_brick_mondrian_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 16,
     "PaintKitId": 1165,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_m4a1_m4a4_snakebite_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 60,
     "PaintKitId": 1166,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_m4a1_silencer_m4a1s_black_lotus_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 61,
     "PaintKitId": 1173,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_usp_silencer_usps_doggy_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 9,
     "PaintKitId": 1170,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_awp_awp_tempered_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 7,
     "PaintKitId": 1171,
     "Collection": "The Kilowatt Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_33/weapon_ak47_ak_porcelain_light_png.png"
   }
 ]

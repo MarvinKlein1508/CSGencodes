@@ -16,7 +16,7 @@
     "WeaponId": 32,
     "PaintKitId": 960,
     "Collection": "The Fracture Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_hkp2000_aq_p2000_lost_world_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 16,
     "PaintKitId": 971,
     "Collection": "The Fracture Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_m4a1_cu_m4a4_queenfairy_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 4,
     "PaintKitId": 963,
     "Collection": "The Fracture Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_glock_cu_glock_eyecontact_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 1,
     "PaintKitId": 962,
     "Collection": "The Fracture Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_deagle_cu_deag_printstream_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 7,
     "PaintKitId": 959,
     "Collection": "The Fracture Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_26/weapon_ak47_cu_ak47_anubis_light_png.png"
   }
 ]

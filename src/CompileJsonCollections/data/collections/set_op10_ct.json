@@ -56,7 +56,7 @@
     "WeaponId": 1,
     "PaintKitId": 992,
     "Collection": "The Control Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_deagle_am_numbers_bronze_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 16,
     "PaintKitId": 993,
     "Collection": "The Control Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_m4a1_cu_csgo_camo_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 32,
     "PaintKitId": 997,
     "Collection": "The Control Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_hkp2000_am_numbers_red_blue_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 61,
     "PaintKitId": 1027,
     "Collection": "The Control Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_usp_silencer_am_intelligence_magenta_light_png.png"
   },
   {
@@ -176,7 +176,7 @@
     "WeaponId": 60,
     "PaintKitId": 1017,
     "Collection": "The Control Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_m4a1_silencer_am_m4a1s_bluesmoke_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 9,
     "PaintKitId": 1026,
     "Collection": "The Control Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_op10_ct/weapon_awp_aa_awp_fade_light_png.png"
   }
 ]

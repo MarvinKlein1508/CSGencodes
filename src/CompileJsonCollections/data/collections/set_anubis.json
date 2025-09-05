@@ -56,7 +56,7 @@
     "WeaponId": 60,
     "PaintKitId": 1243,
     "Collection": "The Anubis Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 61,
     "PaintKitId": 1253,
     "Collection": "The Anubis Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 7,
     "PaintKitId": 1238,
     "Collection": "The Anubis Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_ak47_gs_ak47_strone_light_png.png"
   },
   {
@@ -106,7 +106,7 @@
     "WeaponId": 9,
     "PaintKitId": 1239,
     "Collection": "The Anubis Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_awp_gs_awp_strone_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 4,
     "PaintKitId": 1240,
     "Collection": "The Anubis Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_glock_cu_glock_ramzes_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 16,
     "PaintKitId": 1255,
     "Collection": "The Anubis Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_anubis/weapon_m4a1_gs_m4a4_ra_light_png.png"
   }
 ]

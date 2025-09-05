@@ -46,7 +46,7 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Ancient Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_glock_so_night_light_png.png"
   },
   {
@@ -56,7 +56,7 @@
     "WeaponId": 32,
     "PaintKitId": 1019,
     "Collection": "The Ancient Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_am_black_panther_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 32,
     "PaintKitId": 32,
     "Collection": "The Ancient Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_hkp2000_an_silver_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 61,
     "PaintKitId": 60,
     "Collection": "The Ancient Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_am_zebra_dark_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 61,
     "PaintKitId": 1031,
     "Collection": "The Ancient Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_usp_silencer_sp_ancient_bright_light_png.png"
   },
   {
@@ -176,7 +176,7 @@
     "WeaponId": 7,
     "PaintKitId": 1018,
     "Collection": "The Ancient Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_ak47_cu_ak_jaguar_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 60,
     "PaintKitId": 1001,
     "Collection": "The Ancient Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_op10_ancient/weapon_m4a1_silencer_cu_m4a1_snake_light_png.png"
   }
 ]

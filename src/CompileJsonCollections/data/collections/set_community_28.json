@@ -6,7 +6,7 @@
     "WeaponId": 4,
     "PaintKitId": 1039,
     "Collection": "The Snakebite Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_glock_gs_glock_polymer_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 7,
     "PaintKitId": 1035,
     "Collection": "The Snakebite Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_ak47_gs_ak47_professional_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 1,
     "PaintKitId": 1050,
     "Collection": "The Snakebite Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_deagle_cu_deag_trigger_discipline_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 61,
     "PaintKitId": 1040,
     "Collection": "The Snakebite Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_usp_silencer_gs_usps_hangedman_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 16,
     "PaintKitId": 1041,
     "Collection": "The Snakebite Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_28/weapon_m4a1_cu_m4a4_love_light_png.png"
   }
 ]

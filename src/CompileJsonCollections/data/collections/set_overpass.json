@@ -76,7 +76,7 @@
     "WeaponId": 4,
     "PaintKitId": 40,
     "Collection": "The Overpass Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_glock_so_night_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 9,
     "PaintKitId": 84,
     "Collection": "The Overpass Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_awp_hy_ddpat_pink_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 61,
     "PaintKitId": 318,
     "Collection": "The Overpass Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_usp_silencer_cu_usp_sandpapered_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 60,
     "PaintKitId": 321,
     "Collection": "The Overpass Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_overpass/weapon_m4a1_silencer_cu_m4a1-s_silence_light_png.png"
   }
 ]

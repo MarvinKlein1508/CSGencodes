@@ -56,7 +56,7 @@
     "WeaponId": 4,
     "PaintKitId": 1079,
     "Collection": "The 2021 Vertigo Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_glock_sp_tire_tread_red_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 7,
     "PaintKitId": 1070,
     "Collection": "The 2021 Vertigo Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_ak47_hy_ak47lam_green_light_png.png"
   },
   {
@@ -186,7 +186,7 @@
     "WeaponId": 60,
     "PaintKitId": 1073,
     "Collection": "The 2021 Vertigo Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_vertigo_2021/weapon_m4a1_silencer_gs_m4a1_vertigo_light_png.png"
   }
 ]

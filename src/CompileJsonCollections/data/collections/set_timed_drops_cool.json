@@ -186,7 +186,7 @@
     "WeaponId": 4,
     "PaintKitId": 1265,
     "Collection": "The Ascent Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_glock_hye_topo_light_png.png"
   },
   {
@@ -196,7 +196,7 @@
     "WeaponId": 16,
     "PaintKitId": 1266,
     "Collection": "The Ascent Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_m4a1_hye_blue_m4a4_light_png.png"
   },
   {
@@ -206,7 +206,7 @@
     "WeaponId": 32,
     "PaintKitId": 1259,
     "Collection": "The Ascent Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_hkp2000_spe_scarf_print_light_png.png"
   },
   {
@@ -246,7 +246,7 @@
     "WeaponId": 1,
     "PaintKitId": 1257,
     "Collection": "The Ascent Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_deagle_ht_earth_fans_light_png.png"
   },
   {
@@ -256,7 +256,7 @@
     "WeaponId": 7,
     "PaintKitId": 1218,
     "Collection": "The Ascent Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_ak47_soe_iridescent_purple_light_png.png"
   },
   {
@@ -266,7 +266,7 @@
     "WeaponId": 61,
     "PaintKitId": 1217,
     "Collection": "The Ascent Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_usp_silencer_soe_blue_and_gold_light_png.png"
   },
   {
@@ -276,7 +276,7 @@
     "WeaponId": 60,
     "PaintKitId": 1216,
     "Collection": "The Ascent Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_timed_drops_cool/weapon_m4a1_silencer_cue_stratosphere_light_png.png"
   }
 ]

@@ -16,7 +16,7 @@
     "WeaponId": 7,
     "PaintKitId": 836,
     "Collection": "The Prisma Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_ak47_cu_ak47_aztec_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 9,
     "PaintKitId": 838,
     "Collection": "The Prisma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_awp_cu_awp_viper_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 1,
     "PaintKitId": 841,
     "Collection": "The Prisma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_deagle_gs_deagle_exo_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 16,
     "PaintKitId": 844,
     "Collection": "The Prisma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_22/weapon_m4a1_gs_m4a4_emperor_light_png.png"
   }
 ]

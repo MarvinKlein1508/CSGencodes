@@ -86,7 +86,7 @@
     "WeaponId": 9,
     "PaintKitId": 584,
     "Collection": "The Gamma Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_awp_gs_awp_phobos_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 16,
     "PaintKitId": 588,
     "Collection": "The Gamma Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_m4a1_cu_m4a4_desolate_space_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 32,
     "PaintKitId": 591,
     "Collection": "The Gamma Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_hkp2000_gs_p2000_imperial_dragon_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 4,
     "PaintKitId": 586,
     "Collection": "The Gamma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_glock_cu_glock_wasteland_rebel_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 60,
     "PaintKitId": 587,
     "Collection": "The Gamma Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_13/weapon_m4a1_silencer_gs_m4a1_mecha_industries_light_png.png"
   }
 ]

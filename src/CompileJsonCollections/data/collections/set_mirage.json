@@ -36,7 +36,7 @@
     "WeaponId": 7,
     "PaintKitId": 72,
     "Collection": "The Mirage Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_ak47_sp_mesh_tan_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 4,
     "PaintKitId": 2,
     "Collection": "The Mirage Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_glock_so_olive_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The Mirage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_deagle_aa_flames_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 32,
     "PaintKitId": 246,
     "Collection": "The Mirage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_mirage/weapon_hkp2000_aa_fade_metallic_light_png.png"
   },
   {

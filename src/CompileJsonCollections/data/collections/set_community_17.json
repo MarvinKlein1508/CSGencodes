@@ -6,7 +6,7 @@
     "WeaponId": 61,
     "PaintKitId": 657,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_usp_silencer_cu_usps_blueprint_light_png.png"
   },
   {
@@ -26,7 +26,7 @@
     "WeaponId": 60,
     "PaintKitId": 663,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_m4a1_silencer_cu_m4a1s_metritera_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 7,
     "PaintKitId": 656,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_ak47_gs_ak_colony01_red_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 32,
     "PaintKitId": 667,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_hkp2000_cu_p2000_hunter_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 16,
     "PaintKitId": 664,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_m4a1_cu_m4a4_hellfire_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 9,
     "PaintKitId": 662,
     "Collection": "The Operation Hydra Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_17/weapon_awp_cu_awp_hannya_light_png.png"
   }
 ]

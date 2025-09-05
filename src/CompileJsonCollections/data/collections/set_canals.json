@@ -56,7 +56,7 @@
     "WeaponId": 7,
     "PaintKitId": 745,
     "Collection": "The Canals Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_canals/weapon_ak47_hy_veneto_purple_light_png.png"
   },
   {
@@ -176,7 +176,7 @@
     "WeaponId": 9,
     "PaintKitId": 736,
     "Collection": "The Canals Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_canals/weapon_awp_gs_awp_enamel_light_png.png"
   }
 ]

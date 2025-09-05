@@ -76,7 +76,7 @@
     "WeaponId": 1,
     "PaintKitId": 603,
     "Collection": "The Gamma 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_gamma_2/weapon_deagle_aq_desert_eagle_constable_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 4,
     "PaintKitId": 607,
     "Collection": "The Gamma 2 Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_gamma_2/weapon_glock_cu_glock18_weasel_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 7,
     "PaintKitId": 600,
     "Collection": "The Gamma 2 Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_gamma_2/weapon_ak47_cu_ak47_anarchy_light_png.png"
   },
   {

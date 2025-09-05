@@ -6,7 +6,7 @@
     "WeaponId": 4,
     "PaintKitId": 2,
     "Collection": "The Italy Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_italy/weapon_glock_so_olive_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 32,
     "PaintKitId": 21,
     "Collection": "The Italy Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_italy/weapon_hkp2000_hy_granite_light_png.png"
   },
   {
@@ -96,7 +96,7 @@
     "WeaponId": 60,
     "PaintKitId": 77,
     "Collection": "The Italy Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_italy/weapon_m4a1_silencer_hy_forest_boreal_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 9,
     "PaintKitId": 251,
     "Collection": "The Italy Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_italy/weapon_awp_hy_snakeskin_light_png.png"
   }
 ]

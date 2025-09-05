@@ -6,7 +6,7 @@
     "WeaponId": 16,
     "PaintKitId": 8,
     "Collection": "The Dust Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust/weapon_m4a1_hy_desert_light_png.png"
   },
   {
@@ -26,7 +26,7 @@
     "WeaponId": 7,
     "PaintKitId": 170,
     "Collection": "The Dust Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_dust/weapon_ak47_sp_zebracam_light_png.png"
   },
   {
@@ -46,7 +46,7 @@
     "WeaponId": 9,
     "PaintKitId": 30,
     "Collection": "The Dust Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_dust/weapon_awp_sp_snake_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 1,
     "PaintKitId": 37,
     "Collection": "The Dust Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust/weapon_deagle_aa_flames_light_png.png"
   },
   {
@@ -76,7 +76,7 @@
     "WeaponId": 32,
     "PaintKitId": 71,
     "Collection": "The Dust Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust/weapon_hkp2000_am_scorpion_p2000_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 4,
     "PaintKitId": 159,
     "Collection": "The Dust Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_dust/weapon_glock_aq_brass_light_png.png"
   }
 ]

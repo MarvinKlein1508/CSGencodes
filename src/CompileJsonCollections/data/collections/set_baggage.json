@@ -76,7 +76,7 @@
     "WeaponId": 32,
     "PaintKitId": 346,
     "Collection": "The Baggage Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_hkp2000_cu_luggage_p2000_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 61,
     "PaintKitId": 364,
     "Collection": "The Baggage Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_usp_silencer_cu_luggage_usp-s_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 7,
     "PaintKitId": 341,
     "Collection": "The Baggage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_ak47_cu_green_leather_ak47_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 1,
     "PaintKitId": 347,
     "Collection": "The Baggage Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_deagle_aq_pilot_deagle_light_png.png"
   },
   {
@@ -146,7 +146,7 @@
     "WeaponId": 7,
     "PaintKitId": 340,
     "Collection": "The Baggage Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_baggage/weapon_ak47_cu_well_traveled_ak47_light_png.png"
   }
 ]

@@ -56,7 +56,7 @@
     "WeaponId": 32,
     "PaintKitId": 443,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_hkp2000_sp_labyrinth2_light_png.png"
   },
   {
@@ -66,7 +66,7 @@
     "WeaponId": 9,
     "PaintKitId": 451,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_awp_hy_zodiac2_light_png.png"
   },
   {
@@ -116,7 +116,7 @@
     "WeaponId": 60,
     "PaintKitId": 440,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m4a1_silencer_hy_icarus_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 16,
     "PaintKitId": 449,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_m4a1_cu_poseidon_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 9,
     "PaintKitId": 446,
     "Collection": "The Gods and Monsters Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_gods_and_monsters/weapon_awp_cu_medusa_awp_light_png.png"
   }
 ]

@@ -56,7 +56,7 @@
     "WeaponId": 32,
     "PaintKitId": 878,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 1,
+    "Rarity": 2,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_hkp2000_ht_facet_p2000_light_png.png"
   },
   {
@@ -86,7 +86,7 @@
     "WeaponId": 7,
     "PaintKitId": 912,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_ak47_cu_graphic_overlay_ak47_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 16,
     "PaintKitId": 874,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_m4a1_soo_polysoup_m4a4_light_png.png"
   },
   {
@@ -136,7 +136,7 @@
     "WeaponId": 1,
     "PaintKitId": 938,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_deagle_cu_glitter_deagle_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 9,
     "PaintKitId": 163,
     "Collection": "The Graphic Design Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_graphic_design/weapon_awp_gs_independe_awp_light_png.png"
   }
 ]

@@ -26,7 +26,7 @@
     "WeaponId": 4,
     "PaintKitId": 713,
     "Collection": "The Horizon Collection",
-    "Rarity": 2,
+    "Rarity": 3,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_glock_gs_glock_thunder_dust_light_png.png"
   },
   {
@@ -106,7 +106,7 @@
     "WeaponId": 9,
     "PaintKitId": 718,
     "Collection": "The Horizon Collection",
-    "Rarity": 3,
+    "Rarity": 4,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_awp_am_awp_pawpaw_light_png.png"
   },
   {
@@ -126,7 +126,7 @@
     "WeaponId": 60,
     "PaintKitId": 714,
     "Collection": "The Horizon Collection",
-    "Rarity": 4,
+    "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_png.png"
   },
   {
@@ -156,7 +156,7 @@
     "WeaponId": 7,
     "PaintKitId": 707,
     "Collection": "The Horizon Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_ak47_cu_ak_neon_rider_light_png.png"
   },
   {
@@ -166,7 +166,7 @@
     "WeaponId": 1,
     "PaintKitId": 711,
     "Collection": "The Horizon Collection",
-    "Rarity": 5,
+    "Rarity": 6,
     "Image": "/assets/img/items/weapons/set_community_20/weapon_deagle_gs_deagle_aggressor_light_png.png"
   }
 ]
