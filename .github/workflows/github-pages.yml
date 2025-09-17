@@ -5,10 +5,7 @@ name: github pages
 
 on:
   push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
-
+    branches: [ "main" ]
 jobs:
   build:
 
