@@ -724,6 +724,36 @@ window.blazorBootstrap = {
                 bootstrap?.Offcanvas?.getOrCreateInstance(offcanvasEl)?.dispose();
         }
     },
+    radioInput: {
+        isChanging: false,
+        initialize: (elementId, elementName, dotNetHelper) => {
+            let radioEl = document.getElementById(elementId);
+            if (radioEl == null)
+                return;
+
+            radioEl.addEventListener('change', function () {
+                try {
+                    dotNetHelper.invokeMethodAsync('OnChangeJS', radioEl.checked);
+
+                    let radioEls = document.getElementsByName(elementName) ?? [];
+                    radioEls.forEach((el, index) => {
+
+                        if (window.blazorBootstrap.radioInput.isChanging)
+                            return;
+
+                        if (el.id !== radioEl.id) {
+                            window.blazorBootstrap.radioInput.isChanging = true;
+                            el.checked = false;
+                            el.dispatchEvent(new Event('change'));
+                        }
+                    });
+                }
+                finally {
+                    window.blazorBootstrap.radioInput.isChanging = false;
+                }
+            });
+        }
+    },
     rangeInput: {
         initialize: (elementId, dotNetHelper) => {
             let rangeEl = document.getElementById(elementId);
@@ -1999,86 +2029,6 @@ window.blazorChart.scatter = {
             }
 
             chart.update();
-        }
-    }
-}
-
-if (!window.blazorBootstrap.ai) {
-    window.blazorBootstrap.ai = {};
-}
-
-window.blazorBootstrap.ai = {
-    azureOpenAI: {
-        chat: {
-            completions: async (url, key, payload, dotNetHelper) => {
-                let contentArray = [];
-                let notificationTriggered = false;
-                let streamComplete = false;
-
-                try {
-                    const response = await fetch(url, {
-                        method: "POST",
-                        headers: {
-                            "Content-Type": "application/json",
-                            "api-key": `${key}`,
-                        },
-                        body: JSON.stringify(payload)
-                    });
-
-                    // Read the response as a stream of data
-                    const reader = response.body.getReader();
-                    const decoder = new TextDecoder("utf-8");
-                    let i = 0;
-                    while (true) {
-                        const { done, value } = await reader.read();
-                        if (done) {
-                            break;
-                        }
-
-                        // Message and parse the chunk of data
-                        const chunk = decoder.decode(value);
-                        const lines = chunk.split("\n");
-
-                        for (const line of lines) {
-
-                            if (line.includes('[DONE]')) {
-                                streamComplete = true;
-                                return;
-                            }
-
-                            if (line.startsWith("data:")) {
-                                const data = JSON.parse(line.replace("data:", ""));
-                                const content = data.choices[0]?.delta?.content;
-                                if (content) {
-                                    contentArray.push(content);
-                                    if (!notificationTriggered) {
-                                        notificationTriggered = true;
-                                        triggerNotify();
-                                    }
-                                }
-                            }
-                        }
-                    }
-
-                    function triggerNotify() {
-                        let handler = setInterval(() => {
-                            const content = contentArray.shift();
-                            if (content && content.length > 0)
-                                dotNetHelper.invokeMethodAsync('ChartCompletetionsStreamJs', content, false);
-
-                            if (streamComplete && contentArray.length === 0) {
-                                clearInterval(handler);
-                                dotNetHelper.invokeMethodAsync('ChartCompletetionsStreamJs', '', true);
-                            }
-                        }, 100);
-                    }
-
-                } catch (error) {
-                    console.log(error);
-                } finally {
-                    // TODO: cleanup
-                }
-            }
         }
     }
 }

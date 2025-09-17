@@ -18,31 +18,9 @@
     flex: 1;
 }
 
-    .sticker:is(:hover)[b-6cbi4dkca6] {
-        background: #23232a;
-    }
-
-.rarity-highgrade[b-6cbi4dkca6] {
-    color: #4b69ff;
+.sticker:is(:hover)[b-6cbi4dkca6] {
+    background: #23232a;
 }
-
-.rarity-remarkable[b-6cbi4dkca6] {
-    color: #8847ff;
-}
-
-.rarity-exotic[b-6cbi4dkca6] {
-    color: #d32ee6;
-}
-
-.rarity-extraordinary[b-6cbi4dkca6] {
-    color: #eb4b4b;
-}
-
-.rarity-contraband[b-6cbi4dkca6] {
-    color: #ffae39;
-}
-
-
 /* /Components/DisplayWeapon.razor.rz.scp.css */
 .weapon[b-0b8u1kaf4h] {
     background: none;
