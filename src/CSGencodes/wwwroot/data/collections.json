@@ -13478,5 +13478,175 @@
     "Collection": "Limited Edition Item",
     "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_xpshop_wpn_01/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+  },
+  {
+    "Name": "AUG | Trigger Discipline",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 8,
+    "PaintKitId": 1339,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_aug_aug_trigger_discipline_velco_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Liquidation",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 60,
+    "PaintKitId": 1340,
+    "Collection": "The Genesis Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_m4a1_silencer_m4a1s_quick_liquidation_light_png.png"
+  },
+  {
+    "Name": "MP9 | Broken Record",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 1341,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_mp9_mp9_vinyl_light_png.png"
+  },
+  {
+    "Name": "P2000 | Red Wing",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 32,
+    "PaintKitId": 1342,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_hkp2000_p2000_deep_red_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Caged",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 38,
+    "PaintKitId": 1343,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_scar20_scar_refraction_v4_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Focus",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 23,
+    "PaintKitId": 1344,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_mp5sd_mp5sd_chrome_light_png.png"
+  },
+  {
+    "Name": "P250 | Bullfrog",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 36,
+    "PaintKitId": 1345,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_p250_p250_bullfrog_light_png.png"
+  },
+  {
+    "Name": "AWP | Ice Coaled",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 1346,
+    "Collection": "The Genesis Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_awp_awp_ice_coaled_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Angel Eyes",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 2,
+    "PaintKitId": 1347,
+    "Collection": "The Genesis Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_elite_dual_elite_biblical_angel_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Mirror Mosaic",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 1348,
+    "Collection": "The Genesis Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_glock_glock_mirror_maze_v2_pearl_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Cat Fight",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 17,
+    "PaintKitId": 1349,
+    "Collection": "The Genesis Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_mac10_mac10_kamicatze_light_png.png"
+  },
+  {
+    "Name": "Nova | Ocular",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 35,
+    "PaintKitId": 1350,
+    "Collection": "The Genesis Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_nova_nova_ocular_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Continuum",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 24,
+    "PaintKitId": 1351,
+    "Collection": "The Genesis Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_ump45_ump45_illumina_v2_light_png.png"
+  },
+  {
+    "Name": "AK-47 | The Oligarch",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 1352,
+    "Collection": "The Genesis Collection",
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_ak47_ak47_puffer_custom_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Full Throttle",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 16,
+    "PaintKitId": 1353,
+    "Collection": "The Genesis Collection",
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_m4a1_m4a4_skrrrt_green_light_png.png"
+  },
+  {
+    "Name": "MP7 | Smoking Kills",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 1354,
+    "Collection": "The Genesis Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_mp7_mp7_smoking_kills_v2_light_png.png"
+  },
+  {
+    "Name": "MAG-7 | MAGnitude",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 27,
+    "PaintKitId": 1355,
+    "Collection": "The Genesis Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_36/weapon_mag7_mag7_circle_copper_light_png.png"
   }
 ]
