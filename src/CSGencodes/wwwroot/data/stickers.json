@@ -71086,5 +71086,309 @@
     "Image": "/assets/img/items/stickers/aus2025/sig_ropz_champion_gold_png.png",
     "Collection": "aus2025",
     "SkinportSearchId": "s203861"
+  },
+  {
+    "Name": "Candy Apples",
+    "StickerId": 9451,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_candy_apples_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cubix Connexion",
+    "StickerId": 9452,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_cubix_connexion_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Eyes of Farlow",
+    "StickerId": 9453,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_eyes_of_farlow_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Fade Mangos",
+    "StickerId": 9454,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_fade_mangos_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Gloves On",
+    "StickerId": 9455,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_gloves_on_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lock In",
+    "StickerId": 9456,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_lock_in_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Mimicapsule",
+    "StickerId": 9457,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_mimicapsule_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Pop Pup",
+    "StickerId": 9458,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_pop_pup_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "POTS",
+    "StickerId": 9459,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_pots_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Sent With Love",
+    "StickerId": 9460,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_sent_with_love_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Skelly Stabby",
+    "StickerId": 9461,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_skellystab_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Vice Cursor",
+    "StickerId": 9462,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/community_2025/paper_vice_cursor_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "CT Tracks (Glitter)",
+    "StickerId": 9463,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/glitter_ct_tracks_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Overloaded (Glitter)",
+    "StickerId": 9464,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/glitter_overloaded_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "T Tracks (Glitter)",
+    "StickerId": 9465,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/glitter_t_tracks_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Bomb Planted (Holo)",
+    "StickerId": 9466,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/holo_bomb_planted_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Chrome Dome (Holo)",
+    "StickerId": 9467,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/holo_chrome_dome_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Cutie (Holo)",
+    "StickerId": 9468,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/holo_cutie_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Evidence (Holo)",
+    "StickerId": 9469,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/holo_evidence_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Froggles (Holo)",
+    "StickerId": 9470,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/community_2025/holo_froggles_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Ain\u0027t A Rental (Foil)",
+    "StickerId": 9471,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/community_2025/foil_aint_a_rental_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Eyes In The Sky (Foil)",
+    "StickerId": 9472,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/community_2025/foil_eyes_sky_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Good As New (Foil)",
+    "StickerId": 9473,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/community_2025/foil_good_as_new_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Hands Off (Foil)",
+    "StickerId": 9474,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/community_2025/foil_hands_off_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "King Crasswater (Foil)",
+    "StickerId": 9475,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/community_2025/foil_king_crasswater_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Queen Ava (Foil)",
+    "StickerId": 9476,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/community_2025/foil_queen_ava_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Digi-Strike (Lenticular)",
+    "StickerId": 9477,
+    "Rarity": 6,
+    "Image": "/assets/img/items/stickers/community/community_2025/lenticular_digistrike_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Neon MVP (Lenticular)",
+    "StickerId": 9478,
+    "Rarity": 6,
+    "Image": "/assets/img/items/stickers/community/community_2025/lenticular_neonmvp_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "BullHit (Lenticular)",
+    "StickerId": 9479,
+    "Rarity": 6,
+    "Image": "/assets/img/items/stickers/community/community_2025/lenticular_bullhit_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Clavis",
+    "StickerId": 9480,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/sugarface2/paper_clavis_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lorena",
+    "StickerId": 9481,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/sugarface2/paper_lorena_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lucas",
+    "StickerId": 9482,
+    "Rarity": 3,
+    "Image": "/assets/img/items/stickers/community/sugarface2/paper_lucas_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Clavis (Holo)",
+    "StickerId": 9483,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/sugarface2/holo_clavis_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lorena (Holo)",
+    "StickerId": 9484,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/sugarface2/holo_lorena_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lucas (Holo)",
+    "StickerId": 9485,
+    "Rarity": 4,
+    "Image": "/assets/img/items/stickers/community/sugarface2/holo_lucas_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Clavis (Foil)",
+    "StickerId": 9486,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/sugarface2/foil_clavis_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lorena (Foil)",
+    "StickerId": 9487,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/sugarface2/foil_lorena_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
+  },
+  {
+    "Name": "Lucas (Foil)",
+    "StickerId": 9488,
+    "Rarity": 5,
+    "Image": "/assets/img/items/stickers/community/sugarface2/foil_lucas_png.png",
+    "Collection": "community",
+    "SkinportSearchId": null
   }
 ]

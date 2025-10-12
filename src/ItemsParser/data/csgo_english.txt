@@ -45,6 +45,7 @@
 		"GameUI_CrosshairLength"	"Length"
 		"GameUI_CrosshairDot"		"Center Dot"
 		"GameUI_IronsightColor"		"Use crosshair color for scope dot"
+		"GameUI_IronsightScale"		"Scope dot scale"
 		"GameUI_CrosshairRecoil"	"Follow Recoil"
 		"GameUI_CrosshairRecoil_Desc"	"Crosshair will leave the center of the screen to follow the weapon recoil pattern."
 		"GameUI_CrosshairThickness"	"Thickness"
@@ -53,6 +54,7 @@
 		"GameUI_CrosshairAlpha"		"Alpha"
 		"GameUI_CrosshairSize"		"Crosshair Size"
 		"GameUI_CrosshairColor"		"Crosshair Color"
+		"GameUI_SniperCrosshairThickness" "Sniper crosshair thickness"
 		"GameUI_ColorSliders"		"Colors"
 		"GameUI_ColorQuality"		"Color Quality"
 		"GameUI_ColorGreen"			"Green"
@@ -409,6 +411,7 @@
 		"LoadingProgress_SignonLocal"		"Initializing resources..."
 		"LoadingProgress_SignonDataLocal"	"Initializing game data..."
 		"LoadingProgress_CompilingShaders"	"Compiling shaders (%s1 / %s2)..."
+		"LoadingProgress_CompilingShadersRemaining"	"Compiling <span class='loading-screen-monospace'>%s1</span> shaders..."
 
 		"LoadingProgress_BeginConnect"		"Establishing connection to server..."
 		"LoadingProgress_Connecting"		"Connecting to server..."
@@ -1007,6 +1010,7 @@
 		"Cstrike_Auto_Apply_Graffiti"					"Quick Graffiti (Apply With Key Release)"
 		"Cstrike_Auto_Apply_Graffiti_Info"				"When enabled, allows you to apply graffiti quickly by pressing and releasing the graffiti menu key.\n\nWhen disabled, graffiti is applied only after the 'Fire' key is pressed while in the graffiti menu."
 		"Cstrike_Delay_Unzoom_Sniper"					"Delay Sniper Rifle Un-Scope after Shot"
+		"Cstrike_Show_Inaccuracy_Sniper"				"Show Scoped Sniper Rifle Inaccuracy"
 		"Cstrike_Auto_Rezoom_Sniper"					"Auto Re-Zoom Sniper Rifle after Shot"
 		"Cstrike_Fiddle_With_Silencers"					"Detach Silencer on M4A1-S and USP-S"
 		"Cstrike_Fiddle_With_Silencers_Desc"			"Allow or disallow the removal of silencers on the M4A1-S and USP-S."
@@ -2463,6 +2467,7 @@
 		"ItemHistory_Action_Drop"										"Earned a new rank and got a drop"
 		"ItemHistory_Action_ManualCreate"								"Created by Counter-Strike Support"
 		"ItemHistory_Action_Purchase"									"Purchased from the store"
+		"ItemHistory_Action_PurchaseVolatileContainerItem"				"Purchased from Arms Dealer"
 		"ItemHistory_Action_AutoGrantItem"								"Earned"
 		"ItemHistory_Action_CrossGameAchievement"						"Earned from unlocking an achievement in a different game"
 		"ItemHistory_Action_AwardGift_Receiver"							"Received a gift"
@@ -3355,6 +3360,15 @@
 		"CSGO_Collectible_MapTokenDogtown_Desc"			"Commemorates authorship of the CS2 Map 'Dogtown'"
 		"CSGO_Collectible_MapTokenBrewery"				"Brewery Map Coin"
 		"CSGO_Collectible_MapTokenBrewery_Desc"			"Commemorates authorship of the CS2 Map 'Brewery'"
+		"CSGO_Collectible_MapTokenPalacio"				"Palacio Map Coin"
+		"CSGO_Collectible_MapTokenPalacio_Desc"			"Commemorates authorship of the CS2 Map 'Palacio'"
+		"CSGO_Collectible_MapTokenGolden"				"Golden Map Coin"
+		"CSGO_Collectible_MapTokenGolden_Desc"			"Commemorates authorship of the CS2 Map 'Golden'"
+		"CSGO_Collectible_MapTokenRooftop"				"Rooftop Map Coin"
+		"CSGO_Collectible_MapTokenRooftop_Desc"			"Commemorates authorship of the CS2 Map 'Rooftop'"
+		"CSGO_Collectible_MapTokenTransit"				"(Redacted) Map Coin"
+		"CSGO_Collectible_MapTokenTransit_Desc"			"Commemorates authorship of the CS2 Map '(Redacted)'"
+
 
 		"CSGO_CollectibleCoin_FortiusQuoFidelius"	"Loyalty Badge"
 		"CSGO_CollectibleCoin_FortiusQuoFidelius_Desc"	"This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update.\n\n<i>Strength through loyalty.</i>"
@@ -4462,6 +4476,14 @@
 		"CSGO_crate_community_36"				"Sealed Genesis Terminal"
 		"CSGO_crate_community_36^volatile"		"Active Genesis Terminal"
 		"CSGO_crate_community_36_desc"			""
+		
+		"CSGO_crate_keychain_pack_kc_drboom_capsule"	    	"Dr Boom Charm Collection"
+		"CSGO_crate_keychain_pack_kc_drboom_capsule_desc"		"This collection contains a variety of Dr Boom charms."
+		"CSGO_crate_keychain_pack_kc_drboom_capsule_short"	    "Dr Boom Charms"
+		
+		"CSGO_crate_keychain_pack_kc_ml_community_01_capsule"	    	"Missing Link Community Charm Collection"
+		"CSGO_crate_keychain_pack_kc_ml_community_01_capsule_desc"		"This collection contains a variety of sausage-themed charms from the Workshop."
+		"CSGO_crate_keychain_pack_kc_ml_community_01_capsule_short"	    "Missing Link Community Charms"
 		
 "SprayKit_vcap1_ace_01"		"Ace"
 "SprayKit_desc_vcap1_ace_01"	""
@@ -30854,6 +30876,145 @@
 		"keychain_kc_wpn_tknife_gold"						"Baby Karat T"
 		"keychain_kc_wpn_tknife_gold_desc"					""
 		
+		// DR BOOM KEYCHAINS 
+		
+		"keychain_kc_db_biomech"					"Biomech"
+		"keychain_kc_db_biomech_desc"				""
+
+		"keychain_kc_db_terror"						"Gritty"
+		"keychain_kc_db_terror_desc"				""
+
+		"keychain_kc_db_hellcat"					"Splatter Cat"
+		"keychain_kc_db_hellcat_desc"				""
+
+		"keychain_kc_db_ugly"						"Fluffy"
+		"keychain_kc_db_ugly_desc"					""
+
+		"keychain_kc_db_wood"						"Whittle Guy"
+		"keychain_kc_db_wood_desc"					""
+
+		"keychain_kc_db_yinyang"					"Lil' Zen"
+		"keychain_kc_db_yinyang_desc"				""
+
+		"keychain_kc_db_aztec"						"Lil' Facelift"
+		"keychain_kc_db_aztec_desc"					""		
+
+		"keychain_kc_db_200iq"						"Big Brain"
+		"keychain_kc_db_200iq_desc"					""
+
+		"keychain_kc_db_eviscerate"					"Bomb Tag"
+		"keychain_kc_db_eviscerate_desc"			""
+
+		"keychain_kc_db_clown"						"Lil' Bloody"
+		"keychain_kc_db_clown_desc"					""
+
+		"keychain_kc_db_dimsum"						"Lil' Dumplin'"
+		"keychain_kc_db_dimsum_desc"				""
+
+		"keychain_kc_db_bombacat"					"Lil' Chomper"
+		"keychain_kc_db_bombacat_desc"				""		
+
+		"keychain_kc_db_drbrian"					"Dr. Brian"
+		"keychain_kc_db_drbrian_desc"				""
+
+		"keychain_kc_db_eco"						"Lil' Eco"
+		"keychain_kc_db_eco_desc"					""
+
+		"keychain_kc_db_dripfade"					"Glitter Bomb"
+		"keychain_kc_db_dripfade_desc"				""
+
+		"keychain_kc_db_occult"						"Eye of Ball"
+		"keychain_kc_db_occult_desc"				""
+
+		"keychain_kc_db_yeti"						"Lil' Yeti"
+		"keychain_kc_db_yeti_desc"					""
+
+		"keychain_kc_db_eyecritter"					"Hungry Eyes"
+		"keychain_kc_db_eyecritter_desc"			""
+		
+		"keychain_kc_db_8ball"						"8 Ball IGL"
+		"keychain_kc_db_8ball_desc"					""		
+		
+		"keychain_kc_db_flash"						"Flash Bomb"
+		"keychain_kc_db_flash_desc"					""
+		
+		"keychain_kc_db_incendiary"					"Lil' Ferno"
+		"keychain_kc_db_incendiary_desc"			""
+		
+		"keychain_kc_db_lighter"					"Butane Buddy"
+		"keychain_kc_db_lighter_desc"				""
+		
+		// MISSINGLINK COMMUNITY KEYCHAINS 
+		
+		"keychain_kc_missinglink_ancientcurse"			"Lil' Curse"
+		"keychain_kc_missinglink_ancientcurse_desc"		""
+		
+		"keychain_kc_missinglink_babyserpent"			"Lil' Serpent"
+		"keychain_kc_missinglink_babyserpent_desc"		""
+		
+		"keychain_kc_missinglink_basketball"			"Lil' Baller"
+		"keychain_kc_missinglink_basketball_desc"		""
+		
+		"keychain_kc_missinglink_bodybag"				"Dead Weight"
+		"keychain_kc_missinglink_bodybag_desc"			""
+		
+		"keychain_kc_missinglink_cactus"				"Lil' Prick"
+		"keychain_kc_missinglink_cactus_desc"			""
+		
+		"keychain_kc_missinglink_charmburger"			"Lil' Buns"
+		"keychain_kc_missinglink_charmburger_desc"		""
+		
+		"keychain_kc_missinglink_cigar"					"Lil' Smokey"
+		"keychain_kc_missinglink_cigar_desc"			""
+		
+		"keychain_kc_missinglink_cthulhu"				"Lil' Eldritch"
+		"keychain_kc_missinglink_cthulhu_desc"			""
+		
+		"keychain_kc_missinglink_happy"					"Lil' Happy"
+		"keychain_kc_missinglink_happy_desc"			""
+		
+		"keychain_kc_missinglink_lilhatchling"			"Lil' Chirp"
+		"keychain_kc_missinglink_lilhatchling_desc"		""
+		
+		"keychain_kc_missinglink_lilhothead"			"Magmatude"
+		"keychain_kc_missinglink_lilhothead_desc"		""
+		
+		"keychain_kc_missinglink_lillol"				"Lil' Cackle"
+		"keychain_kc_missinglink_lillol_desc"			""
+		
+		"keychain_kc_missinglink_melted"				"Quick Silver"
+		"keychain_kc_missinglink_melted_desc"			""
+		
+		"keychain_kc_missinglink_muteghost"				"Lil' Boo"
+		"keychain_kc_missinglink_muteghost_desc"		""
+		
+		"keychain_kc_missinglink_pencil"				"Lil' No. 2"
+		"keychain_kc_missinglink_pencil_desc"			""
+		
+		"keychain_kc_missinglink_pinata"				"Piñatita"
+		"keychain_kc_missinglink_pinata_desc"			""
+		
+		"keychain_kc_missinglink_popsicle"				"Pocket Pop"
+		"keychain_kc_missinglink_popsicle_desc"			""
+		
+		"keychain_kc_missinglink_retrovision"			"Lil' Moments"
+		"keychain_kc_missinglink_retrovision_desc"		""
+		
+		"keychain_kc_missinglink_sentai"				"Lil' Hero"
+		"keychain_kc_missinglink_sentai_desc"			""
+		
+		"keychain_kc_missinglink_sillyelephant"			"Lil' Tusk"
+		"keychain_kc_missinglink_sillyelephant_desc"	""
+		
+		"keychain_kc_missinglink_slime"					"Lil' Goop"
+		"keychain_kc_missinglink_slime_desc"			""
+		
+		"keychain_kc_missinglink_surfsup"				"Hang Loose"
+		"keychain_kc_missinglink_surfsup_desc"			""
+		
+		"keychain_kc_missinglink_winemaker"				"Lil' Vino"
+		"keychain_kc_missinglink_winemaker_desc"		""
+		
 // Paint Kits
 		"PaintKit_Default"							"Unnamed Paint Kit"
 		"PaintKit_Default_Tag"						"-"//
@@ -35801,6 +35962,11 @@
 		"SFUI_Map_de_brewery"		"Brewery"
 		"SFUI_Map_de_dogtown"		"Dogtown"
 
+		"SFUI_Map_de_palacio"		"Palacio"
+		"SFUI_Map_de_golden"		"Golden"
+		"SFUI_Map_de_rooftop"		"Rooftop"
+		"SFUI_Map_de_transit"		"(Redacted)"
+
 		"SFUI_Map_workshop_preview_dust2"	"Dust II Preview"
 		"SFUI_Map_workshop_preview_ancient"	"Ancient Preview"
 		"SFUI_Map_workshop_preview_inferno"	"Inferno Preview"
@@ -36182,7 +36348,11 @@
 
 		"SFUI_Store_Market_Link"                    "View On Market"
 		"SFUI_Store_Limit_Offer"                    "Limited Time Offer"
-		"SFUI_Store_Offer_Days_Remaining:p{daysremaining}"	"{d:daysremaining} Day Remaining#|#{d:daysremaining} Days Remaining"
+		"SFUI_Store_Offer_Days_Remaining:p{daysremaining}"			"{d:daysremaining} day Remaining#|#{d:daysremaining} days Remaining"
+		"SFUI_Store_Offer_Days_Remaining_claim:p{daysremaining}"	"{d:daysremaining} day remaining#|#{d:daysremaining} days remaining"
+		"SFUI_Store_Offer_Days_Remaining_bid:p{daysremaining}"		"{d:daysremaining} day remaining to bid on this offer#|#{d:daysremaining} days remaining to bid on this offer"
+		"SFUI_Store_Offer_Days_Remaining_last_claim"				"Last chance to claim this offer"
+		"SFUI_Store_Offer_Days_Remaining_last_bid"					"Last chance to bid on this offer"
 		"SFUI_Store_Last_Chance"                    "Last Chance"
 		"SFUI_Store_Limited_Time_Tagline"           "To Claim This Offer"
 		"SFUI_Store_Limited_Bid_Tagline"			"To Bid on This Offer"
@@ -39400,6 +39570,7 @@
 		"SFUI_MoveLeft"					"Move Left (strafe)"
 		"SFUI_Previous"					"Last Weapon Used"
 		"SFUI_Voice"					"Use Microphone"
+		"SFUI_ToggleOpenMic"			"Toggle between Open-Mic and Push-To-Talk"
 		"SFUI_Buy"						"Buy Menu"
 
 		"SFUI_StandardRadio"			"Standard Radio Message"
@@ -40725,6 +40896,7 @@
 		"SFUI_QMM_ERROR_PremierSeasonOver"		"Premier season has ended. Please wait until the next Premier season begins."
 		"SFUI_QMM_ERROR_PremierRatingMissing"		"CS Ratings of players in your party are too high to participate in matchmaking with a player who does not have an established CS Rating."
 		"SFUI_QMM_ERROR_PremierRatingLargeDelta"	"CS Ratings of players in your party are too far apart to participate in matchmaking together."
+		"SFUI_QMM_ERROR_PremierRatingLargeDelta5"	"CS Ratings of players in your party are too far apart to participate in matchmaking together unless you play with a full team of five players."
 		"SFUI_QMM_ERROR_FullTeamRequired" "Cannot begin matchmaking because you need to have a full team in your matchmaking party."
 		"SFUI_QMM_ERROR_TournamentTeamAccounts"	"Cannot begin matchmaking because all party members must be members of the same tournament team."
 		"SFUI_QMM_ERROR_TournamentTeamSize"	"Cannot begin matchmaking because your tournament team must have 5 players."
@@ -45180,6 +45352,8 @@
 		"inv_search_placeholder"			"Search Items"
 		"inv_search_popular"				"Suggested"
 		"inv_search_no_results"				"Your search <span class=\"context-menu-search__no-results__searchtext\">{s:search_text}</span> did not match any results."
+		"inv_select_item_use_capability"				"Select an item to use with {s:item-name}"
+		"inv_select_item_stattrack_swap_capability"		"Select an item to swap StatTrak™ values with {s:item-name}"
 		"inv_select_item_use"				"Select an item to use with:"
 		"inv_select_item_stattrack_swap"	"Select an item to swap StatTrak™ values with:"
 		"inv_select_item_tostoreincasket"	"Select an item to store in"
@@ -45203,7 +45377,7 @@
 		"inv_empty_lister"					"Could not find any items for {s:type} in your inventory."
 		"inv_empty_lister_for_use"			"Could not find any items to use with {s:type} in your inventory."
 		"inv_empty_lister_nocaskets"		"Could not find any Storage Units that can store your items.\nStorage Units can be purchased from the in-game store."
-		"inv_empty_lister_for_stattrackswap" "Could not find any items to swap StatTrak™ values with {s:type} in your inventory.\nStatTrak™ values can only be swapped between two of the same item type."
+		"inv_empty_lister_for_stattrackswap" "Could not find any items to swap StatTrak™ values with<br><b>{s:type}</b> in your inventory.<br><br>StatTrak™ values can only be swapped between two of the same item type."
 		"inv_empty_lister_general"			"Could not find any items for the selected category in your inventory."
 		"inv_empty_loadout_slot"			"No item equipped for this slot"
 		"inv_header_rarity"					"Rarity:"
@@ -45685,6 +45859,8 @@
 		"settings_account_conn_section"		"Twitch.tv"
 		"settings_crosshair"				"Crosshair"
 		"settings_crosshair_info"			"Customize your reticle size, shape, and color. Share your crosshair code with friends or try someone else's settings."
+		"settings_snipers_xhair"			"Sniper Sights"
+		"settings_grenadecrosshair_short"	"Grenade Line-up"
 		"settings_grenadecrosshair"			"Grenade Line-up Reticle"
 		"settings_grenadecrosshair_info"	"A helper reticle for lining up grenade throws"
 		"settings_radar_section"			"Radar"
@@ -48134,6 +48310,7 @@
 		"laptop_window_expiration_title"			"EXPIRATION"
 		"laptop_window_seal_title"					"STATUS"
 		"laptop_window_messages_title"				"CHAT - ARMS DEALER"
+		"laptop_window_currentoffer_title"			"CURRENT OFFER"
 		"laptop_app_title"							"<span class=\"laptop-app-title-prefix\">UP-</span>Link"
 		"laptop_app_version"						"v 1.1.0.2000"
 
@@ -48174,7 +48351,19 @@
 		"user_btn_next_6"		"Not this time"
 		"user_btn_next_7"		"Not today"
 		"user_btn_pause"		"Pause Deal"
-		"user_btn_end"			"See you next time"
+		"user_btn_end"			"Decline Final Offer"
+
+		"dealer_offer_Unknown"							"-"
+		"dealer_offer_1"								"1st"
+		"dealer_offer_2"								"2nd"
+		"dealer_offer_3"								"3rd"
+		"dealer_offer_4"								"4th"
+		"dealer_offer_5"								"5th"
+		"dealer_offer_6"								"6th"
+		"dealer_offer_7"								"7th"
+		"dealer_offer_8"								"8th"
+		"dealer_offer_9"								"9th"
+		"dealer_offer_10"								"10th"
 
 		"current_offer_tooltip"		"The Arms Dealer's Current Offer to you."
 		"declined_offer_tooltip"	"Declined offer"
@@ -48195,6 +48384,7 @@
 		"laptop_original_seal_tooltip" 	"Any item purchased from this Uplink Terminal will come with an Original Owner Certificate, which is valid while you are the owner."
 		"laptop_zoom_tooltip" 			"Scroll mouse wheel to zoom in and out"
 		"laptop_pan_tooltip" 			"Hold 'Shift' key and drag to pan the camera"
+		"laptop_pricing_tooltip"		"Prices are global and adjusted automatically based on demand for each item in this collection."
 
 
 		"dealer_message_start_0"  	"This stuff's contractor issue across the board.<!--.25-->All the bells and whistles. None of the paperwork."

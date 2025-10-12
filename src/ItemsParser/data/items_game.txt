@@ -15069,6 +15069,58 @@
 				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_3_coin_eg.vmdl"
 			}
 		}
+		"5177"
+		{
+			"name"		"Map Token Golden"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenGolden"
+			"item_description"		"#CSGO_Collectible_MapTokenGolden_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_golden"
+			"map_name"		"#SFUI_Map_de_golden"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5178"
+		{
+			"name"		"Map Token Rooftop"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenRooftop"
+			"item_description"		"#CSGO_Collectible_MapTokenRooftop_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_rooftop"
+			"map_name"		"#SFUI_Map_de_rooftop"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5179"
+		{
+			"name"		"Map Token Palacio"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenPalacio"
+			"item_description"		"#CSGO_Collectible_MapTokenPalacio_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_palacio"
+			"map_name"		"#SFUI_Map_de_palacio"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5180"
+		{
+			"name"		"Map Token Transit"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenTransit"
+			"item_description"		"#CSGO_Collectible_MapTokenTransit_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_transit"
+			"map_name"		"#SFUI_Map_de_transit"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
 		"4001"
 		{
 			"item_name"		"#CSGO_crate_valve_1"
@@ -114404,15 +114456,6 @@
 			"operational_point_redeemable"
 			{
 				"points"		"4"
-				"item_name"		"lootlist:set_graphic_design"
-				"ui_order"		"2"
-				"callout"		"#CSGO_set_graphic_design_short"
-				"ui_image_thumbnail"		"backgrounds/xpshop/set_graphic_design_thumbnail"
-				"limited_until"		"1757491200"
-			}
-			"operational_point_redeemable"
-			{
-				"points"		"4"
 				"item_name"		"lootlist:set_realism_camo"
 				"ui_order"		"2"
 				"callout"		"#CSGO_set_realism_camo_short"
@@ -114430,16 +114473,6 @@
 			}
 			"operational_point_redeemable"
 			{
-				"points"		"2"
-				"flags"		"2"
-				"item_name"		"crate_community_34"
-				"callout"		"#CSGO_crate_community_34"
-				"ui_image_thumbnail"		"backgrounds/xpshop/crate_community_34_thumbnail"
-				"ui_order"		"3"
-				"limited_until"		"1757491200"
-			}
-			"operational_point_redeemable"
-			{
 				"points"		"25"
 				"item_name"		"lootlist:set_xpshop_wpn_03"
 				"ui_order"		"1"
@@ -114448,6 +114481,28 @@
 				"ui_set_image"		"set_xpshop_wpn_01"
 				"limited_until"		"1762812000"
 				"ui_show_new_tag"		"1746082800"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"3"
+				"item_name"		"lootlist:keychain_pack_kc_drboom_lootlist"
+				"ui_order"		"1"
+				"flags"		"1"
+				"ui_image_thumbnail"		"backgrounds/xpshop/kc_drboom_thumbnail"
+				"ui_set_image"		"set_kc_drboom"
+				"callout"		"#CSGO_crate_keychain_pack_kc_drboom_capsule_short"
+				"ui_show_new_tag"		"1761858000"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"3"
+				"item_name"		"lootlist:keychain_pack_kc_ml_community_01_lootlist"
+				"ui_order"		"1"
+				"flags"		"1"
+				"ui_image_thumbnail"		"backgrounds/xpshop/kc_ml_community_01_thumbnail"
+				"ui_set_image"		"set_kc_ml_community_01"
+				"callout"		"#CSGO_crate_keychain_pack_kc_ml_community_01_capsule_short"
+				"ui_show_new_tag"		"1761858000"
 			}
 			"operational_point_redeemable"
 			{
@@ -114472,21 +114527,31 @@
 			"operational_point_redeemable"
 			{
 				"points"		"1"
+				"item_name"		"lootlist:sticker_pack_community_2025_lootlist"
+				"ui_order"		"3"
+				"ui_image_thumbnail"		"backgrounds/xpshop/community_2025_thumbnail"
+				"ui_set_image"		"set_community_2025"
+				"callout"		"#CSGO_crate_sticker_pack_community_2025_short"
+				"ui_show_new_tag"		"1761858000"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"1"
+				"item_name"		"lootlist:sticker_pack_sugarface2_lootlist"
+				"ui_order"		"3"
+				"ui_image_thumbnail"		"backgrounds/xpshop/sugarface2_thumbnail"
+				"ui_set_image"		"set_sugarface2"
+				"callout"		"#CSGO_crate_sticker_pack_sugarface2_short"
+				"ui_show_new_tag"		"1761858000"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"1"
 				"item_name"		"lootlist:sticker_pack_stkr_craft_01_lootlist"
 				"ui_order"		"3"
 				"ui_image_thumbnail"		"backgrounds/xpshop/stkr_craft_01_thumbnail"
 				"ui_set_image"		"set_stkr_craft_01"
 				"callout"		"#CSGO_crate_sticker_pack_stkr_craft_01_short"
-			}
-			"operational_point_redeemable"
-			{
-				"points"		"1"
-				"item_name"		"lootlist:sticker_pack_stkr_craft_02_lootlist"
-				"ui_order"		"3"
-				"ui_image_thumbnail"		"backgrounds/xpshop/stkr_craft_02_thumbnail"
-				"ui_set_image"		"set_stkr_craft_02"
-				"callout"		"#CSGO_crate_sticker_pack_stkr_craft_02_short"
-				"limited_until"		"1757491200"
 			}
 		}
 	}
@@ -212333,7 +212398,7 @@
 	{
 		"30050"
 		{
-			"name"		"crate_key_community_30 - Item Contest Winner"
+			"name"		"crate_key_community_30_contestwinner - Item Contest Winner"
 			"item_name"		"#CSGO_crate_key_community_30_contestwinner"
 			"item_description"		"#CSGO_crate_key_community_30_contestwinner_Desc"
 			"image_inventory"		"econ/tools/crate_key_community_30"
@@ -212345,7 +212410,7 @@
 	{
 		"30092"
 		{
-			"name"		"set_anubis_storepromo_key - Item Contest Winner"
+			"name"		"set_anubis_storepromo_key_contestwinner - Item Contest Winner"
 			"item_name"		"#CSGO_set_anubis_storepromo_key_contestwinner"
 			"item_description"		"#CSGO_set_anubis_storepromo_key_contestwinner_Desc"
 			"image_inventory"		"econ/tools/set_anubis_storepromo_key"
@@ -212357,7 +212422,7 @@
 	{
 		"30115"
 		{
-			"name"		"set_train_2025_storepromo_key - Item Contest Winner"
+			"name"		"set_train_2025_storepromo_key_contestwinner - Item Contest Winner"
 			"item_name"		"#CSGO_set_train_2025_storepromo_key_contestwinner"
 			"item_description"		"#CSGO_set_train_2025_storepromo_key_contestwinner_Desc"
 			"image_inventory"		"econ/tools/set_train_2025_storepromo_key"
@@ -215712,6 +215777,310 @@
 			"sticker_material"		"community/warhammer_decals/paper_aeldari_2"
 			"item_rarity"		"rare"
 		}
+		"9451"
+		{
+			"name"		"paper_candy_apples"
+			"item_name"		"StickerKit_community_2025_paper_candy_apples"
+			"description_string"		"StickerKit_desc_community_2025_paper_candy_apples"
+			"sticker_material"		"community/community_2025/paper_candy_apples"
+			"item_rarity"		"rare"
+		}
+		"9452"
+		{
+			"name"		"paper_cubix_connexion"
+			"item_name"		"StickerKit_community_2025_paper_cubix_connexion"
+			"description_string"		"StickerKit_desc_community_2025_paper_cubix_connexion"
+			"sticker_material"		"community/community_2025/paper_cubix_connexion"
+			"item_rarity"		"rare"
+		}
+		"9453"
+		{
+			"name"		"paper_eyes_of_farlow"
+			"item_name"		"StickerKit_community_2025_paper_eyes_of_farlow"
+			"description_string"		"StickerKit_desc_community_2025_paper_eyes_of_farlow"
+			"sticker_material"		"community/community_2025/paper_eyes_of_farlow"
+			"item_rarity"		"rare"
+		}
+		"9454"
+		{
+			"name"		"paper_fade_mangos"
+			"item_name"		"StickerKit_community_2025_paper_fade_mangos"
+			"description_string"		"StickerKit_desc_community_2025_paper_fade_mangos"
+			"sticker_material"		"community/community_2025/paper_fade_mangos"
+			"item_rarity"		"rare"
+		}
+		"9455"
+		{
+			"name"		"paper_gloves_on"
+			"item_name"		"StickerKit_community_2025_paper_gloves_on"
+			"description_string"		"StickerKit_desc_community_2025_paper_gloves_on"
+			"sticker_material"		"community/community_2025/paper_gloves_on"
+			"item_rarity"		"rare"
+		}
+		"9456"
+		{
+			"name"		"paper_lock_in"
+			"item_name"		"StickerKit_community_2025_paper_lock_in"
+			"description_string"		"StickerKit_desc_community_2025_paper_lock_in"
+			"sticker_material"		"community/community_2025/paper_lock_in"
+			"item_rarity"		"rare"
+		}
+		"9457"
+		{
+			"name"		"paper_mimicapsule"
+			"item_name"		"StickerKit_community_2025_paper_mimicapsule"
+			"description_string"		"StickerKit_desc_community_2025_paper_mimicapsule"
+			"sticker_material"		"community/community_2025/paper_mimicapsule"
+			"item_rarity"		"rare"
+		}
+		"9458"
+		{
+			"name"		"paper_pop_pup"
+			"item_name"		"StickerKit_community_2025_paper_pop_pup"
+			"description_string"		"StickerKit_desc_community_2025_paper_pop_pup"
+			"sticker_material"		"community/community_2025/paper_pop_pup"
+			"item_rarity"		"rare"
+		}
+		"9459"
+		{
+			"name"		"paper_pots"
+			"item_name"		"StickerKit_community_2025_paper_pots"
+			"description_string"		"StickerKit_desc_community_2025_paper_pots"
+			"sticker_material"		"community/community_2025/paper_pots"
+			"item_rarity"		"rare"
+		}
+		"9460"
+		{
+			"name"		"paper_sent_with_love"
+			"item_name"		"StickerKit_community_2025_paper_sent_with_love"
+			"description_string"		"StickerKit_desc_community_2025_paper_sent_with_love"
+			"sticker_material"		"community/community_2025/paper_sent_with_love"
+			"item_rarity"		"rare"
+		}
+		"9461"
+		{
+			"name"		"paper_skellystab"
+			"item_name"		"StickerKit_community_2025_paper_skelly_stab"
+			"description_string"		"StickerKit_desc_community_2025_paper_skelly_stab"
+			"sticker_material"		"community/community_2025/paper_skellystab"
+			"item_rarity"		"rare"
+		}
+		"9462"
+		{
+			"name"		"paper_vice_cursor"
+			"item_name"		"StickerKit_community_2025_paper_vice_cursor"
+			"description_string"		"StickerKit_desc_community_2025_paper_vice_cursor"
+			"sticker_material"		"community/community_2025/paper_vice_cursor"
+			"item_rarity"		"rare"
+		}
+		"9463"
+		{
+			"name"		"glitter_ct_tracks"
+			"item_name"		"StickerKit_community_2025_glitter_ct_tracks"
+			"description_string"		"StickerKit_desc_community_2025_glitter_ct_tracks"
+			"sticker_material"		"community/community_2025/glitter_ct_tracks"
+			"item_rarity"		"mythical"
+		}
+		"9464"
+		{
+			"name"		"glitter_overloaded"
+			"item_name"		"StickerKit_community_2025_glitter_overloaded"
+			"description_string"		"StickerKit_desc_community_2025_glitter_overloaded"
+			"sticker_material"		"community/community_2025/glitter_overloaded"
+			"item_rarity"		"mythical"
+		}
+		"9465"
+		{
+			"name"		"glitter_t_tracks"
+			"item_name"		"StickerKit_community_2025_glitter_t_tracks"
+			"description_string"		"StickerKit_desc_community_2025_glitter_t_tracks"
+			"sticker_material"		"community/community_2025/glitter_t_tracks"
+			"item_rarity"		"mythical"
+		}
+		"9466"
+		{
+			"name"		"holo_bomb_planted"
+			"item_name"		"StickerKit_community_2025_holo_bomb_planted"
+			"description_string"		"StickerKit_desc_community_2025_holo_bomb_planted"
+			"sticker_material"		"community/community_2025/holo_bomb_planted"
+			"item_rarity"		"mythical"
+		}
+		"9467"
+		{
+			"name"		"holo_chrome_dome"
+			"item_name"		"StickerKit_community_2025_holo_chrome_dome"
+			"description_string"		"StickerKit_desc_community_2025_holo_chrome_dome"
+			"sticker_material"		"community/community_2025/holo_chrome_dome"
+			"item_rarity"		"mythical"
+		}
+		"9468"
+		{
+			"name"		"holo_cutie"
+			"item_name"		"StickerKit_community_2025_holo_cutie"
+			"description_string"		"StickerKit_desc_community_2025_holo_cutie"
+			"sticker_material"		"community/community_2025/holo_cutie"
+			"item_rarity"		"mythical"
+		}
+		"9469"
+		{
+			"name"		"holo_evidence"
+			"item_name"		"StickerKit_community_2025_holo_evidence"
+			"description_string"		"StickerKit_desc_community_2025_holo_evidence"
+			"sticker_material"		"community/community_2025/holo_evidence"
+			"item_rarity"		"mythical"
+		}
+		"9470"
+		{
+			"name"		"holo_froggles"
+			"item_name"		"StickerKit_community_2025_holo_froggles"
+			"description_string"		"StickerKit_desc_community_2025_holo_froggles"
+			"sticker_material"		"community/community_2025/holo_froggles"
+			"item_rarity"		"mythical"
+		}
+		"9471"
+		{
+			"name"		"foil_aint_a_rental"
+			"item_name"		"StickerKit_community_2025_foil_aint_a_rental"
+			"description_string"		"StickerKit_desc_community_2025_foil_aint_a_rental"
+			"sticker_material"		"community/community_2025/foil_aint_a_rental"
+			"item_rarity"		"legendary"
+		}
+		"9472"
+		{
+			"name"		"foil_eyes_sky"
+			"item_name"		"StickerKit_community_2025_foil_eyes_sky"
+			"description_string"		"StickerKit_desc_community_2025_foil_eyes_sky"
+			"sticker_material"		"community/community_2025/foil_eyes_sky"
+			"item_rarity"		"legendary"
+		}
+		"9473"
+		{
+			"name"		"foil_good_as_new"
+			"item_name"		"StickerKit_community_2025_foil_good_as_new"
+			"description_string"		"StickerKit_desc_community_2025_foil_good_as_new"
+			"sticker_material"		"community/community_2025/foil_good_as_new"
+			"item_rarity"		"legendary"
+		}
+		"9474"
+		{
+			"name"		"foil_hands_off"
+			"item_name"		"StickerKit_community_2025_foil_hands_off"
+			"description_string"		"StickerKit_desc_community_2025_foil_hands_off"
+			"sticker_material"		"community/community_2025/foil_hands_off"
+			"item_rarity"		"legendary"
+		}
+		"9475"
+		{
+			"name"		"foil_king_crasswater"
+			"item_name"		"StickerKit_community_2025_foil_king_crasswater"
+			"description_string"		"StickerKit_desc_community_2025_foil_king_crasswater"
+			"sticker_material"		"community/community_2025/foil_king_crasswater"
+			"item_rarity"		"legendary"
+		}
+		"9476"
+		{
+			"name"		"foil_queen_ava"
+			"item_name"		"StickerKit_community_2025_foil_queen_ava"
+			"description_string"		"StickerKit_desc_community_2025_foil_queen_ava"
+			"sticker_material"		"community/community_2025/foil_queen_ava"
+			"item_rarity"		"legendary"
+		}
+		"9477"
+		{
+			"name"		"lenticular_digistrike"
+			"item_name"		"StickerKit_community_2025_lenticular_digistrike"
+			"description_string"		"StickerKit_desc_community_2025_lenticular_digistrike"
+			"sticker_material"		"community/community_2025/lenticular_digistrike"
+			"item_rarity"		"ancient"
+		}
+		"9478"
+		{
+			"name"		"lenticular_neonmvp"
+			"item_name"		"StickerKit_community_2025_lenticular_mvp"
+			"description_string"		"StickerKit_desc_community_2025_lenticular_mvp"
+			"sticker_material"		"community/community_2025/lenticular_neonmvp"
+			"item_rarity"		"ancient"
+		}
+		"9479"
+		{
+			"name"		"lenticular_bullhit"
+			"item_name"		"StickerKit_community_2025_lenticular_bullhit"
+			"description_string"		"StickerKit_desc_community_2025_lenticular_bullhit"
+			"sticker_material"		"community/community_2025/lenticular_bullhit"
+			"item_rarity"		"ancient"
+		}
+		"9480"
+		{
+			"name"		"paper_clavis"
+			"item_name"		"StickerKit_sugarface2_paper_clavis"
+			"description_string"		"StickerKit_desc_sugarface2_paper_clavis"
+			"sticker_material"		"community/sugarface2/paper_clavis"
+			"item_rarity"		"rare"
+		}
+		"9481"
+		{
+			"name"		"paper_lorena"
+			"item_name"		"StickerKit_sugarface2_paper_lorena"
+			"description_string"		"StickerKit_desc_sugarface2_paper_lorena"
+			"sticker_material"		"community/sugarface2/paper_lorena"
+			"item_rarity"		"rare"
+		}
+		"9482"
+		{
+			"name"		"paper_lucas"
+			"item_name"		"StickerKit_sugarface2_paper_lucas"
+			"description_string"		"StickerKit_desc_sugarface2_paper_lucas"
+			"sticker_material"		"community/sugarface2/paper_lucas"
+			"item_rarity"		"rare"
+		}
+		"9483"
+		{
+			"name"		"holo_clavis"
+			"item_name"		"StickerKit_sugarface2_holo_clavis"
+			"description_string"		"StickerKit_desc_sugarface2_holo_clavis"
+			"sticker_material"		"community/sugarface2/holo_clavis"
+			"item_rarity"		"mythical"
+		}
+		"9484"
+		{
+			"name"		"holo_lorena"
+			"item_name"		"StickerKit_sugarface2_holo_lorena"
+			"description_string"		"StickerKit_desc_sugarface2_holo_lorena"
+			"sticker_material"		"community/sugarface2/holo_lorena"
+			"item_rarity"		"mythical"
+		}
+		"9485"
+		{
+			"name"		"holo_lucas"
+			"item_name"		"StickerKit_sugarface2_holo_lucas"
+			"description_string"		"StickerKit_desc_sugarface2_holo_lucas"
+			"sticker_material"		"community/sugarface2/holo_lucas"
+			"item_rarity"		"mythical"
+		}
+		"9486"
+		{
+			"name"		"foil_clavis"
+			"item_name"		"StickerKit_sugarface2_foil_clavis"
+			"description_string"		"StickerKit_desc_sugarface2_foil_clavis"
+			"sticker_material"		"community/sugarface2/foil_clavis"
+			"item_rarity"		"legendary"
+		}
+		"9487"
+		{
+			"name"		"foil_lorena"
+			"item_name"		"StickerKit_sugarface2_foil_lorena"
+			"description_string"		"StickerKit_desc_sugarface2_foil_lorena"
+			"sticker_material"		"community/sugarface2/foil_lorena"
+			"item_rarity"		"legendary"
+		}
+		"9488"
+		{
+			"name"		"foil_lucas"
+			"item_name"		"StickerKit_sugarface2_foil_lucas"
+			"description_string"		"StickerKit_desc_sugarface2_foil_lucas"
+			"sticker_material"		"community/sugarface2/foil_lucas"
+			"item_rarity"		"legendary"
+		}
 	}
 	"keychain_definitions"
 	{
@@ -216012,6 +216381,479 @@
 			"item_rarity"		"mythical"
 			"image_inventory"		"econ/keychains/missinglink/kc_missinglink_bigfoot"
 			"pedestal_display_model"		"weapons/keychains/missinglink/vmdl/kc_missinglink_bigfoot.vmdl"
+		}
+		"38"
+		{
+			"name"		"kc_missinglink_ancientcurse"
+			"loc_name"		"#keychain_kc_missinglink_ancientcurse"
+			"loc_description"		"#keychain_kc_missinglink_ancientcurse_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_ancientcurse"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_ancientcurse.vmat"
+		}
+		"39"
+		{
+			"name"		"kc_missinglink_babyserpent"
+			"loc_name"		"#keychain_kc_missinglink_babyserpent"
+			"loc_description"		"#keychain_kc_missinglink_babyserpent_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_babyserpent"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_babyserpent.vmat"
+		}
+		"40"
+		{
+			"name"		"kc_missinglink_basketball"
+			"loc_name"		"#keychain_kc_missinglink_basketball"
+			"loc_description"		"#keychain_kc_missinglink_basketball_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_basketball"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_basketball.vmat"
+		}
+		"41"
+		{
+			"name"		"kc_missinglink_bodybag"
+			"loc_name"		"#keychain_kc_missinglink_bodybag"
+			"loc_description"		"#keychain_kc_missinglink_bodybag_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_bodybag"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_bodybag.vmat"
+		}
+		"42"
+		{
+			"name"		"kc_missinglink_cactus"
+			"loc_name"		"#keychain_kc_missinglink_cactus"
+			"loc_description"		"#keychain_kc_missinglink_cactus_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_cactus"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_cactus.vmat"
+		}
+		"43"
+		{
+			"name"		"kc_missinglink_charmburger"
+			"loc_name"		"#keychain_kc_missinglink_charmburger"
+			"loc_description"		"#keychain_kc_missinglink_charmburger_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_charmburger"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_charmburger.vmat"
+		}
+		"44"
+		{
+			"name"		"kc_missinglink_cigar"
+			"loc_name"		"#keychain_kc_missinglink_cigar"
+			"loc_description"		"#keychain_kc_missinglink_cigar_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_cigar"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_cigar.vmat"
+		}
+		"45"
+		{
+			"name"		"kc_missinglink_cthulhu"
+			"loc_name"		"#keychain_kc_missinglink_cthulhu"
+			"loc_description"		"#keychain_kc_missinglink_cthulhu_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_cthulhu"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_cthulhu.vmat"
+		}
+		"46"
+		{
+			"name"		"kc_missinglink_happy"
+			"loc_name"		"#keychain_kc_missinglink_happy"
+			"loc_description"		"#keychain_kc_missinglink_happy_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_happy"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_happy.vmat"
+		}
+		"47"
+		{
+			"name"		"kc_missinglink_lilhothead"
+			"loc_name"		"#keychain_kc_missinglink_lilhothead"
+			"loc_description"		"#keychain_kc_missinglink_lilhothead_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_lilhothead"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_lilhothead.vmat"
+		}
+		"48"
+		{
+			"name"		"kc_missinglink_lillol"
+			"loc_name"		"#keychain_kc_missinglink_lillol"
+			"loc_description"		"#keychain_kc_missinglink_lillol_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_lillol"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_lillol.vmat"
+		}
+		"49"
+		{
+			"name"		"kc_missinglink_melted"
+			"loc_name"		"#keychain_kc_missinglink_melted"
+			"loc_description"		"#keychain_kc_missinglink_melted_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_melted"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_melted.vmat"
+		}
+		"50"
+		{
+			"name"		"kc_missinglink_pencil"
+			"loc_name"		"#keychain_kc_missinglink_pencil"
+			"loc_description"		"#keychain_kc_missinglink_pencil_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_pencil"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_pencil.vmat"
+		}
+		"51"
+		{
+			"name"		"kc_missinglink_pinata"
+			"loc_name"		"#keychain_kc_missinglink_pinata"
+			"loc_description"		"#keychain_kc_missinglink_pinata_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_pinata"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_pinata.vmat"
+		}
+		"52"
+		{
+			"name"		"kc_missinglink_popsicle"
+			"loc_name"		"#keychain_kc_missinglink_popsicle"
+			"loc_description"		"#keychain_kc_missinglink_popsicle_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_popsicle"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_popsicle.vmat"
+		}
+		"53"
+		{
+			"name"		"kc_missinglink_sentai"
+			"loc_name"		"#keychain_kc_missinglink_sentai"
+			"loc_description"		"#keychain_kc_missinglink_sentai_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_sentai"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_sentai.vmat"
+		}
+		"54"
+		{
+			"name"		"kc_missinglink_sillyelephant"
+			"loc_name"		"#keychain_kc_missinglink_sillyelephant"
+			"loc_description"		"#keychain_kc_missinglink_sillyelephant_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_sillyelephant"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_sillyelephant.vmat"
+		}
+		"55"
+		{
+			"name"		"kc_missinglink_slime"
+			"loc_name"		"#keychain_kc_missinglink_slime"
+			"loc_description"		"#keychain_kc_missinglink_slime_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_slime"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_slime.vmat"
+		}
+		"56"
+		{
+			"name"		"kc_missinglink_surfsup"
+			"loc_name"		"#keychain_kc_missinglink_surfsup"
+			"loc_description"		"#keychain_kc_missinglink_surfsup_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_surfsup"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_surfsup.vmat"
+		}
+		"57"
+		{
+			"name"		"kc_missinglink_winemaker"
+			"loc_name"		"#keychain_kc_missinglink_winemaker"
+			"loc_description"		"#keychain_kc_missinglink_winemaker_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_winemaker"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_winemaker.vmat"
+		}
+		"58"
+		{
+			"name"		"kc_missinglink_retrovision"
+			"loc_name"		"#keychain_kc_missinglink_retrovision"
+			"loc_description"		"#keychain_kc_missinglink_retrovision_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_retrovision"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_retrovision.vmat"
+		}
+		"59"
+		{
+			"name"		"kc_missinglink_muteghost"
+			"loc_name"		"#keychain_kc_missinglink_muteghost"
+			"loc_description"		"#keychain_kc_missinglink_muteghost_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_muteghost"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_muteghost.vmat"
+		}
+		"60"
+		{
+			"name"		"kc_missinglink_lilhatchling"
+			"loc_name"		"#keychain_kc_missinglink_lilhatchling"
+			"loc_description"		"#keychain_kc_missinglink_lilhatchling_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/missinglink_community_01/kc_missinglink_lilhatchling"
+			"pedestal_display_model"		"weapons/keychains/workshop_blanks/kc_missinglink_default.vmdl"
+			"display_seed"		"1"
+			"keychain_material"		"weapons/keychains/missinglink_community_01/kc_missinglink_lilhatchling.vmat"
+		}
+		"61"
+		{
+			"name"		"kc_db_200iq"
+			"loc_name"		"#keychain_kc_db_200iq"
+			"loc_description"		"#keychain_kc_db_200iq_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_200iq"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_200iq.vmdl"
+			"display_seed"		"1"
+		}
+		"62"
+		{
+			"name"		"kc_db_biomech"
+			"loc_name"		"#keychain_kc_db_biomech"
+			"loc_description"		"#keychain_kc_db_biomech_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/drboom/kc_db_biomech"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_biomech.vmdl"
+			"display_seed"		"1"
+		}
+		"63"
+		{
+			"name"		"kc_db_hellcat"
+			"loc_name"		"#keychain_kc_db_hellcat"
+			"loc_description"		"#keychain_kc_db_hellcat_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/drboom/kc_db_hellcat"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_hellcat.vmdl"
+			"display_seed"		"1"
+		}
+		"64"
+		{
+			"name"		"kc_db_terror"
+			"loc_name"		"#keychain_kc_db_terror"
+			"loc_description"		"#keychain_kc_db_terror_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/drboom/kc_db_terror"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_terror.vmdl"
+			"display_seed"		"1"
+		}
+		"65"
+		{
+			"name"		"kc_db_ugly"
+			"loc_name"		"#keychain_kc_db_ugly"
+			"loc_description"		"#keychain_kc_db_ugly_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/drboom/kc_db_ugly"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_ugly.vmdl"
+			"display_seed"		"1"
+		}
+		"66"
+		{
+			"name"		"kc_db_wood"
+			"loc_name"		"#keychain_kc_db_wood"
+			"loc_description"		"#keychain_kc_db_wood_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/drboom/kc_db_wood"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_wood.vmdl"
+			"display_seed"		"1"
+		}
+		"67"
+		{
+			"name"		"kc_db_yinyang"
+			"loc_name"		"#keychain_kc_db_yinyang"
+			"loc_description"		"#keychain_kc_db_yinyang_desc"
+			"item_rarity"		"rare"
+			"image_inventory"		"econ/keychains/drboom/kc_db_yinyang"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_yinyang.vmdl"
+			"display_seed"		"1"
+		}
+		"68"
+		{
+			"name"		"kc_db_aztec"
+			"loc_name"		"#keychain_kc_db_aztec"
+			"loc_description"		"#keychain_kc_db_aztec_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_aztec"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_aztec.vmdl"
+			"display_seed"		"1"
+		}
+		"69"
+		{
+			"name"		"kc_db_bombacat"
+			"loc_name"		"#keychain_kc_db_bombacat"
+			"loc_description"		"#keychain_kc_db_bombacat_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_bombacat"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_bombacat.vmdl"
+			"display_seed"		"1"
+		}
+		"70"
+		{
+			"name"		"kc_db_clown"
+			"loc_name"		"#keychain_kc_db_clown"
+			"loc_description"		"#keychain_kc_db_clown_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_clown"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_clown.vmdl"
+			"display_seed"		"1"
+		}
+		"71"
+		{
+			"name"		"kc_db_dimsum"
+			"loc_name"		"#keychain_kc_db_dimsum"
+			"loc_description"		"#keychain_kc_db_dimsum_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_dimsum"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_dimsum.vmdl"
+			"display_seed"		"1"
+		}
+		"72"
+		{
+			"name"		"kc_db_eviscerate"
+			"loc_name"		"#keychain_kc_db_eviscerate"
+			"loc_description"		"#keychain_kc_db_eviscerate_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_eviscerate"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_eviscerate.vmdl"
+			"display_seed"		"1"
+		}
+		"73"
+		{
+			"name"		"kc_db_dripfade"
+			"loc_name"		"#keychain_kc_db_dripfade"
+			"loc_description"		"#keychain_kc_db_dripfade_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/drboom/kc_db_dripfade"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_dripfade.vmdl"
+			"display_seed"		"1"
+		}
+		"74"
+		{
+			"name"		"kc_db_eco"
+			"loc_name"		"#keychain_kc_db_eco"
+			"loc_description"		"#keychain_kc_db_eco_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/drboom/kc_db_eco"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_eco.vmdl"
+			"display_seed"		"1"
+		}
+		"75"
+		{
+			"name"		"kc_db_eyecritter"
+			"loc_name"		"#keychain_kc_db_eyecritter"
+			"loc_description"		"#keychain_kc_db_eyecritter_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/drboom/kc_db_eyecritter"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_eyecritter.vmdl"
+			"display_seed"		"1"
+		}
+		"76"
+		{
+			"name"		"kc_db_occult"
+			"loc_name"		"#keychain_kc_db_occult"
+			"loc_description"		"#keychain_kc_db_occult_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/drboom/kc_db_occult"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_occult.vmdl"
+			"display_seed"		"1"
+		}
+		"77"
+		{
+			"name"		"kc_db_yeti"
+			"loc_name"		"#keychain_kc_db_yeti"
+			"loc_description"		"#keychain_kc_db_yeti_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/drboom/kc_db_yeti"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_yeti.vmdl"
+			"display_seed"		"1"
+		}
+		"78"
+		{
+			"name"		"kc_db_8ball"
+			"loc_name"		"#keychain_kc_db_8ball"
+			"loc_description"		"#keychain_kc_db_8ball_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/drboom/kc_db_8ball"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_8ball.vmdl"
+			"display_seed"		"1"
+		}
+		"79"
+		{
+			"name"		"kc_db_flash"
+			"loc_name"		"#keychain_kc_db_flash"
+			"loc_description"		"#keychain_kc_db_flash_desc"
+			"item_rarity"		"legendary"
+			"image_inventory"		"econ/keychains/drboom/kc_db_flash"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_flash.vmdl"
+			"display_seed"		"1"
+		}
+		"80"
+		{
+			"name"		"kc_db_incendiary"
+			"loc_name"		"#keychain_kc_db_incendiary"
+			"loc_description"		"#keychain_kc_db_incendiary_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/drboom/kc_db_incendiary"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_incendiary.vmdl"
+			"display_seed"		"1"
+		}
+		"81"
+		{
+			"name"		"kc_db_lighter"
+			"loc_name"		"#keychain_kc_db_lighter"
+			"loc_description"		"#keychain_kc_db_lighter_desc"
+			"item_rarity"		"ancient"
+			"image_inventory"		"econ/keychains/drboom/kc_db_lighter"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_lighter.vmdl"
+			"display_seed"		"1"
+		}
+		"82"
+		{
+			"name"		"kc_db_drbrian"
+			"loc_name"		"#keychain_kc_db_drbrian"
+			"loc_description"		"#keychain_kc_db_drbrian_desc"
+			"item_rarity"		"mythical"
+			"image_inventory"		"econ/keychains/drboom/kc_db_drbrian"
+			"pedestal_display_model"		"weapons/keychains/drboom/vmdl/kc_db_drbrian.vmdl"
+			"display_seed"		"1"
 		}
 	}
 	"music_definitions"
@@ -217995,6 +218837,101 @@
 	}
 	"client_loot_lists"
 	{
+		"sticker_pack_community_2025_rare"
+		{
+			"[paper_candy_apples]sticker"		"1"
+			"[paper_cubix_connexion]sticker"		"1"
+			"[paper_eyes_of_farlow]sticker"		"1"
+			"[paper_fade_mangos]sticker"		"1"
+			"[paper_gloves_on]sticker"		"1"
+			"[paper_lock_in]sticker"		"1"
+			"[paper_mimicapsule]sticker"		"1"
+			"[paper_pop_pup]sticker"		"1"
+			"[paper_pots]sticker"		"1"
+			"[paper_sent_with_love]sticker"		"1"
+			"[paper_skellystab]sticker"		"1"
+			"[paper_vice_cursor]sticker"		"1"
+		}
+		"sticker_pack_community_2025_mythical"
+		{
+			"[glitter_ct_tracks]sticker"		"1"
+			"[glitter_overloaded]sticker"		"1"
+			"[glitter_t_tracks]sticker"		"1"
+			"[holo_bomb_planted]sticker"		"1"
+			"[holo_chrome_dome]sticker"		"1"
+			"[holo_cutie]sticker"		"1"
+			"[holo_evidence]sticker"		"1"
+			"[holo_froggles]sticker"		"1"
+		}
+		"sticker_pack_community_2025_legendary"
+		{
+			"[foil_aint_a_rental]sticker"		"1"
+			"[foil_eyes_sky]sticker"		"1"
+			"[foil_good_as_new]sticker"		"1"
+			"[foil_hands_off]sticker"		"1"
+			"[foil_king_crasswater]sticker"		"1"
+			"[foil_queen_ava]sticker"		"1"
+		}
+		"sticker_pack_community_2025_ancient"
+		{
+			"[lenticular_digistrike]sticker"		"1"
+			"[lenticular_neonmvp]sticker"		"1"
+			"[lenticular_bullhit]sticker"		"1"
+		}
+		"sticker_pack_community_2025_lootlist"
+		{
+			"sticker_pack_community_2025_rare"		"1"
+			"sticker_pack_community_2025_mythical"		"1"
+			"sticker_pack_community_2025_legendary"		"1"
+			"sticker_pack_community_2025_ancient"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"keychain_pack_kc_drboom_rare"
+		{
+			"[kc_db_biomech]keychain"		"1"
+			"[kc_db_terror]keychain"		"1"
+			"[kc_db_hellcat]keychain"		"1"
+			"[kc_db_ugly]keychain"		"1"
+			"[kc_db_wood]keychain"		"1"
+			"[kc_db_yinyang]keychain"		"1"
+		}
+		"keychain_pack_kc_drboom_mythical"
+		{
+			"[kc_db_aztec]keychain"		"1"
+			"[kc_db_200iq]keychain"		"1"
+			"[kc_db_eviscerate]keychain"		"1"
+			"[kc_db_clown]keychain"		"1"
+			"[kc_db_dimsum]keychain"		"1"
+			"[kc_db_bombacat]keychain"		"1"
+			"[kc_db_drbrian]keychain"		"1"
+		}
+		"keychain_pack_kc_drboom_legendary"
+		{
+			"[kc_db_eco]keychain"		"1"
+			"[kc_db_occult]keychain"		"1"
+			"[kc_db_yeti]keychain"		"1"
+			"[kc_db_eyecritter]keychain"		"1"
+			"[kc_db_flash]keychain"		"1"
+		}
+		"keychain_pack_kc_drboom_ancient"
+		{
+			"[kc_db_dripfade]keychain"		"1"
+			"[kc_db_8ball]keychain"		"1"
+			"[kc_db_incendiary]keychain"		"1"
+			"[kc_db_lighter]keychain"		"1"
+		}
+		"keychain_pack_kc_drboom_lootlist"
+		{
+			"keychain_pack_kc_drboom_rare"		"1"
+			"keychain_pack_kc_drboom_mythical"		"1"
+			"keychain_pack_kc_drboom_legendary"		"1"
+			"keychain_pack_kc_drboom_ancient"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
 		"keychain_pack_kc_missinglink_rare"
 		{
 			"[kc_missinglink_ava]keychain"		"1"
@@ -218030,6 +218967,51 @@
 			"keychain_pack_kc_missinglink_mythical"		"1"
 			"keychain_pack_kc_missinglink_legendary"		"1"
 			"keychain_pack_kc_missinglink_ancient"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"keychain_pack_kc_ml_community_01_rare"
+		{
+			"[kc_missinglink_ancientcurse]keychain"		"1"
+			"[kc_missinglink_pencil]keychain"		"1"
+			"[kc_missinglink_cigar]keychain"		"1"
+			"[kc_missinglink_winemaker]keychain"		"1"
+			"[kc_missinglink_lillol]keychain"		"1"
+			"[kc_missinglink_bodybag]keychain"		"1"
+			"[kc_missinglink_basketball]keychain"		"1"
+			"[kc_missinglink_sillyelephant]keychain"		"1"
+		}
+		"keychain_pack_kc_ml_community_01_mythical"
+		{
+			"[kc_missinglink_surfsup]keychain"		"1"
+			"[kc_missinglink_slime]keychain"		"1"
+			"[kc_missinglink_retrovision]keychain"		"1"
+			"[kc_missinglink_popsicle]keychain"		"1"
+			"[kc_missinglink_lilhothead]keychain"		"1"
+			"[kc_missinglink_charmburger]keychain"		"1"
+		}
+		"keychain_pack_kc_ml_community_01_legendary"
+		{
+			"[kc_missinglink_lilhatchling]keychain"		"1"
+			"[kc_missinglink_pinata]keychain"		"1"
+			"[kc_missinglink_happy]keychain"		"1"
+			"[kc_missinglink_cactus]keychain"		"1"
+			"[kc_missinglink_sentai]keychain"		"1"
+		}
+		"keychain_pack_kc_ml_community_01_ancient"
+		{
+			"[kc_missinglink_muteghost]keychain"		"1"
+			"[kc_missinglink_melted]keychain"		"1"
+			"[kc_missinglink_cthulhu]keychain"		"1"
+			"[kc_missinglink_babyserpent]keychain"		"1"
+		}
+		"keychain_pack_kc_ml_community_01_lootlist"
+		{
+			"keychain_pack_kc_ml_community_01_rare"		"1"
+			"keychain_pack_kc_ml_community_01_mythical"		"1"
+			"keychain_pack_kc_ml_community_01_legendary"		"1"
+			"keychain_pack_kc_ml_community_01_ancient"		"1"
 		}
 	}
 	"client_loot_lists"
@@ -218163,6 +219145,33 @@
 			"sticker_pack_stkr_craft_02_mythical"		"1"
 			"sticker_pack_stkr_craft_02_legendary"		"1"
 			"sticker_pack_stkr_craft_02_ancient"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"sticker_pack_sugarface2_rare"
+		{
+			"[paper_clavis]sticker"		"1"
+			"[paper_lorena]sticker"		"1"
+			"[paper_lucas]sticker"		"1"
+		}
+		"sticker_pack_sugarface2_mythical"
+		{
+			"[holo_clavis]sticker"		"1"
+			"[holo_lorena]sticker"		"1"
+			"[holo_lucas]sticker"		"1"
+		}
+		"sticker_pack_sugarface2_legendary"
+		{
+			"[foil_clavis]sticker"		"1"
+			"[foil_lorena]sticker"		"1"
+			"[foil_lucas]sticker"		"1"
+		}
+		"sticker_pack_sugarface2_lootlist"
+		{
+			"sticker_pack_sugarface2_rare"		"1"
+			"sticker_pack_sugarface2_mythical"		"1"
+			"sticker_pack_sugarface2_legendary"		"1"
 		}
 	}
 	"item_sets"
