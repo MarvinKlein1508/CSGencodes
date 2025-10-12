@@ -1,11 +1,11 @@
 {
   "mainAssemblyName": "CSGencodes",
   "resources": {
-    "hash": "sha256-QyiOYpTIH5l052smMlab8h2ShIVer413xOVz6Vwfbl8=",
+    "hash": "sha256-RLAWvxkSAuOotO1wD7d0ifL3QQnnqRDsiePdpHW3sz0=",
     "fingerprinting": {
       "BlazorBootstrap.8ia4ukhb4c.wasm": "BlazorBootstrap.wasm",
-      "CSGencodes.Core.r4gunjrxwz.wasm": "CSGencodes.Core.wasm",
-      "CSGencodes.iu93ck30fz.wasm": "CSGencodes.wasm",
+      "CSGencodes.Core.vm9d9uglzq.wasm": "CSGencodes.Core.wasm",
+      "CSGencodes.2m70scta6c.wasm": "CSGencodes.wasm",
       "Google.Protobuf.ukc60n323w.wasm": "Google.Protobuf.wasm",
       "Microsoft.AspNetCore.Components.Forms.8nysh14x7h.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.czsezwdzfw.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -82,8 +82,8 @@
     },
     "assembly": {
       "BlazorBootstrap.8ia4ukhb4c.wasm": "sha256-MIwpz+S9i8sZvkJIsjB5JXII2Y7wGr+D3glSOxjbeyw=",
-      "CSGencodes.Core.r4gunjrxwz.wasm": "sha256-K0Amv1GWHWMWwb63+Mfu4plk1XUi1PBSxcCXZ5I1S8k=",
-      "CSGencodes.iu93ck30fz.wasm": "sha256-muDyXtftIYFkUoPu6OghKMm5N+l+NA7W+t/Dg0ipqT4=",
+      "CSGencodes.Core.vm9d9uglzq.wasm": "sha256-B5O2ZS/L9rlHVKhLY6u/dRF+FCKwjc+X0EXImgmRXjc=",
+      "CSGencodes.2m70scta6c.wasm": "sha256-dj1p+YDgCebzLktDjSt4OfVyODP7yziPopKN1JA85ls=",
       "Google.Protobuf.ukc60n323w.wasm": "sha256-0g7KIvzHdwmBVF0Fw/hHex+kvOqAqMeXOKM5z/QPemA=",
       "Microsoft.AspNetCore.Components.Forms.8nysh14x7h.wasm": "sha256-ZHNgCdWy3IZ6rTAOAnxYvpE70EbBN2w9tEas+IIeRCs=",
       "Microsoft.AspNetCore.Components.czsezwdzfw.wasm": "sha256-OJ2lFCswKoJ6XLzCkHI8VyxntJnQdUCM3tr82ZZk/qQ=",
