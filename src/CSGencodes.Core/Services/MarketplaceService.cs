@@ -29,24 +29,7 @@ public class MarketplaceService
 
         return url;
     }
-    public string GetSkinbidUrl(List<AppliedSticker> appliedStickers)
-    {
-        if (appliedStickers.Count == 0)
-        {
-            return string.Empty;
-        }
-
-        StringBuilder sb = new();
-        sb.Append("https://skinbid.com/market?Stickers=");
-
-        string query = $"{string.Join(",", appliedStickers.Select(x => x.StickerId))}";
-
-        sb.Append(query);
-
-        string url = sb.ToString();
-
-        return url;
-    }
+    
     public string? GetBuff163Url(List<AppliedSticker> appliedStickers)
     {
         // TODO: Reimplement this method later
