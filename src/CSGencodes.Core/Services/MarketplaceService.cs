@@ -56,7 +56,7 @@ public class MarketplaceService
     }
     public string GetSkinportUrl(List<AppliedSticker> appliedStickers)
     {
-        if (appliedStickers.Count == 0)
+        if (appliedStickers.Count == 0 || appliedStickers.All(x => x.SkinportSearchId is null))
         {
             return string.Empty;
         }
