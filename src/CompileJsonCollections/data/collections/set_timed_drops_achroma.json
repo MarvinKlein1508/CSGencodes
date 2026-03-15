@@ -1,0 +1,202 @@
+[
+  {
+    "Name": "MP9 | Dizzy",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 34,
+    "PaintKitId": 1375,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_mp9_soe_ddpat_swirl_bw_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | Bizoom",
+    "MinWear": 0,
+    "MaxWear": 0.58,
+    "WeaponId": 26,
+    "PaintKitId": 1374,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_bizon_hye_car_wrap_bizon_light_png.png"
+  },
+  {
+    "Name": "Dual Berettas | Silver Pour",
+    "MinWear": 0,
+    "MaxWear": 0.678431,
+    "WeaponId": 2,
+    "PaintKitId": 1373,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_elite_soe_acrylic_flow3_light_png.png"
+  },
+  {
+    "Name": "SSG 08 | Sans Comic",
+    "MinWear": 0,
+    "MaxWear": 0.5,
+    "WeaponId": 40,
+    "PaintKitId": 1372,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_ssg08_hye_comic_shapes_light_png.png"
+  },
+  {
+    "Name": "SCAR-20 | Zinc",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 38,
+    "PaintKitId": 1371,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_scar20_hye_chrome_ripple_light_png.png"
+  },
+  {
+    "Name": "M249 | Sleet",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 14,
+    "PaintKitId": 1370,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_m249_hye_m249_car_wrap_3_light_png.png"
+  },
+  {
+    "Name": "P250 | Sleet",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 36,
+    "PaintKitId": 1369,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_p250_hye_car_wrap_3_light_png.png"
+  },
+  {
+    "Name": "Nova | Currents",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 35,
+    "PaintKitId": 1368,
+    "Collection": "The Achroma Collection",
+    "Rarity": 1,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_nova_hye_geobirds_light_png.png"
+  },
+  {
+    "Name": "MAC-10 | Snow Splash",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 17,
+    "PaintKitId": 1367,
+    "Collection": "The Achroma Collection",
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_mac10_hye_car_wrap4_light_png.png"
+  },
+  {
+    "Name": "MP5-SD | Snow Splash",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 23,
+    "PaintKitId": 1366,
+    "Collection": "The Achroma Collection",
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_mp5sd_hye_mp5_car_wrap4_light_png.png"
+  },
+  {
+    "Name": "FAMAS | Vendetta",
+    "MinWear": 0,
+    "MaxWear": 0.6,
+    "WeaponId": 10,
+    "PaintKitId": 1365,
+    "Collection": "The Achroma Collection",
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_famas_soe_bw_blast_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Aeolian Dark",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 16,
+    "PaintKitId": 1364,
+    "Collection": "The Achroma Collection",
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_m4a1_hye_abstract_knot_m4_light_png.png"
+  },
+  {
+    "Name": "R8 Revolver | Dark Chamber",
+    "MinWear": 0,
+    "MaxWear": 0.80339,
+    "WeaponId": 64,
+    "PaintKitId": 1363,
+    "Collection": "The Achroma Collection",
+    "Rarity": 2,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_revolver_soch_smoke_grips_light_png.png"
+  },
+  {
+    "Name": "AUG | Creep",
+    "MinWear": 0,
+    "MaxWear": 0.8,
+    "WeaponId": 8,
+    "PaintKitId": 1362,
+    "Collection": "The Achroma Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_aug_soe_aug_creep_light_png.png"
+  },
+  {
+    "Name": "P90 | Aeolian Light",
+    "MinWear": 0,
+    "MaxWear": 0.65,
+    "WeaponId": 19,
+    "PaintKitId": 1361,
+    "Collection": "The Achroma Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_p90_hye_abstract_knot_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | The Daily Deagle",
+    "MinWear": 0,
+    "MaxWear": 0.58,
+    "WeaponId": 1,
+    "PaintKitId": 1360,
+    "Collection": "The Achroma Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_deagle_hye_car_wrap_light_png.png"
+  },
+  {
+    "Name": "P2000 | Grip Tape",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 32,
+    "PaintKitId": 1359,
+    "Collection": "The Achroma Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_hkp2000_soe_p2000_grips_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Breakthrough",
+    "MinWear": 0,
+    "MaxWear": 0.75,
+    "WeaponId": 7,
+    "PaintKitId": 1358,
+    "Collection": "The Achroma Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_ak47_hye_zeds_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Trace Lock",
+    "MinWear": 0,
+    "MaxWear": 0.7,
+    "WeaponId": 4,
+    "PaintKitId": 1357,
+    "Collection": "The Achroma Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_glock_ht_white_edges_light_png.png"
+  },
+  {
+    "Name": "AWP | The End",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 1356,
+    "Collection": "The Achroma Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_timed_drops_achroma/weapon_awp_soe_bw_the_end_awp_light_png.png"
+  }
+]
