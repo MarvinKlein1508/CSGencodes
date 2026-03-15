@@ -13,16 +13,14 @@ internal class Program
         {
             string filename = Path.GetFileName(file);
             string filename_without_extension = Path.GetFileNameWithoutExtension(file);
-            //if (filename != "limited_edition_item.json"
-            //    && filename != "the_ascent_collection.json"
-            //    && filename != "the_boreal_collection.json"
-            //    && filename != "the_fever_collection.json"
-            //    && filename != "the_radiant_collection.json"
-            //    && filename != "the_train_2025_collection.json"
-            //)
-            //{
-            //    continue;
-            //}
+            if (filename != "set_community_37.json"
+                && filename != "set_timed_drops_achroma.json"
+                && filename != "set_timed_drops_exuberant.json"
+                && filename != "set_xpshop_wpn.json"
+            )
+            {
+                continue;
+            }
 
             string json = await File.ReadAllTextAsync(file);
 

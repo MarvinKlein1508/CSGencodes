@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "M249 | Bock Blocks",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 14,
+    "PaintKitId": 1435,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_m249_m249_blocks_purple_light_png.png"
+  },
+  {
+    "Name": "M4A4 | Zubastick",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 16,
+    "PaintKitId": 1432,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_m4a1_m4a4_zubastick_bw_light_png.png"
+  },
+  {
+    "Name": "UMP-45 | Fragment",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 24,
+    "PaintKitId": 1426,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_ump45_ump_fragment_light_png.png"
+  },
+  {
+    "Name": "Sawed-Off | Fusion",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 29,
+    "PaintKitId": 1427,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_sawedoff_sawedoff_fusion_light_png.png"
+  },
+  {
+    "Name": "Five-SeveN | Dark Polymer",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 3,
+    "PaintKitId": 1429,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_fiveseven_fiveseven_polymer_dark_light_png.png"
+  },
+  {
+    "Name": "USP-S | Silent Shot",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 61,
+    "PaintKitId": 1431,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_usp_silencer_usps_silent_boy_light_png.png"
+  },
+  {
+    "Name": "PP-Bizon | RMX",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 26,
+    "PaintKitId": 1418,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 3,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_bizon_bizon_rmx_light_png.png"
+  },
+  {
+    "Name": "Desert Eagle | Firebreathing",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 1,
+    "PaintKitId": 1430,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_deagle_deagle_firebreathing_light_png.png"
+  },
+  {
+    "Name": "M4A1-S | Electrum",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 60,
+    "PaintKitId": 1433,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_m4a1_silencer_m4a1s_electrum_light_png.png"
+  },
+  {
+    "Name": "MP7 | Amberline",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 33,
+    "PaintKitId": 1436,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_mp7_mp7_amberline_light_png.png"
+  },
+  {
+    "Name": "Galil AR | Galigator",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 13,
+    "PaintKitId": 1434,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_galilar_galil_galigator_light_png.png"
+  },
+  {
+    "Name": "MP9 | Urban Sovereign",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 34,
+    "PaintKitId": 1423,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 4,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_mp9_mp9_urban_sovereign_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Crane Flight",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 1425,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_ak47_ak47_crane_flight_light_png.png"
+  },
+  {
+    "Name": "P250 | Kintsugi",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 36,
+    "PaintKitId": 1420,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_p250_p250_kintsugi_light_png.png"
+  },
+  {
+    "Name": "P90 | Deathgaze",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 19,
+    "PaintKitId": 1419,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 5,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_p90_p90_deathgaze_light_png.png"
+  },
+  {
+    "Name": "AWP | Queen\u0027s Gambit",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 9,
+    "PaintKitId": 1422,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_awp_awp_queens_gambit_light_png.png"
+  },
+  {
+    "Name": "Glock-18 | Fully Tuned",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 4,
+    "PaintKitId": 1421,
+    "Collection": "The Dead Hand Collection",
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_community_37/weapon_glock_glock_jdpeek_light_png.png"
+  }
+]

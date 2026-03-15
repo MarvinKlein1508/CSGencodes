@@ -28,5 +28,15 @@
     "Collection": "Limited Edition Item",
     "Rarity": 5,
     "Image": "/assets/img/items/weapons/set_xpshop_wpn_01/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+  },
+  {
+    "Name": "AK-47 | Aphrodite",
+    "MinWear": 0,
+    "MaxWear": 1,
+    "WeaponId": 7,
+    "PaintKitId": 1397,
+    "Collection": "Limited Edition Item",
+    "Rarity": 6,
+    "Image": "/assets/img/items/weapons/set_xpshop_wpn_01/weapon_ak47_gsch_ak_djiin_light_png.png"
   }
 ]
