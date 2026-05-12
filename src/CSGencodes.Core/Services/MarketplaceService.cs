@@ -18,12 +18,12 @@ public class MarketplaceService
         }
 
         StringBuilder sb = new();
-        sb.Append("https://steamcommunity.com/market/search?q=");
+        sb.Append("https://steamcommunity.com/market/search?appid=730&q=");
 
         string query = HttpUtility.UrlEncode($"\"{string.Join(",", appliedStickers.Select(x => x.Name))}\"");
 
         sb.Append(query);
-        sb.Append("&descriptions=1&category_730_ItemSet%5B%5D=any&category_730_Weapon%5B%5D=any&category_730_Quality%5B%5D=#p1_price_asc");
+        sb.Append("&descriptions=1#p1_price_asc");
 
         string url = sb.ToString();
 
